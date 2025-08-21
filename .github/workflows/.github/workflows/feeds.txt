@@ -1,0 +1,8 @@
+# Official EU feeds (you can add up to ~20 lines)
+https://www.europarl.europa.eu/rss/doc/press-releases/en.xml
+https://www.europarl.europa.eu/rss/doc/written-questions/en.xml
+https://www.europarl.europa.eu/rss/doc/answers-to-written-questions/en.xml
+https://www.europarl.europa.eu/rss/delegation/dmag/en.xml
+https://www.consilium.europa.eu/en/rss/pressreleases.ashx
+# Add your personal EUR-Lex 'My RSS alerts' URLs below (after you create them while logged-in):
+# https://eur-lex.europa.eu/myalerts/.... (example placeholder)
