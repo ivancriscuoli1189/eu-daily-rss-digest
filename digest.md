@@ -1,16 +1,7 @@
-# Daily Digest — 2025-08-21 (UTC)
+# Daily Digest — 2025-08-22 (UTC)
 
 - General documents - Welcome Packs for MEPs - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees - Delegation for relations with the Arab Peninsula
   https://www.europarl.europa.eu/delegations/en/product/product-details/20240925DPU39348
-
-- Written question - Impact of the EU-US trade agreement on EU climate objectives - E-003195/2025
-  https://www.europarl.europa.eu/doceo/document/E-10-2025-003195_EN.html
-
-- Written question - Deletion of text messages relating to vaccine negotiations (‘Pfizergate’) – amending the Commission’s internal guidelines on keeping records of digital communications - E-003222/2025
-  https://www.europarl.europa.eu/doceo/document/E-10-2025-003222_EN.html
-
-- Written question - Motor insurance market in Romania - E-003232/2025
-  https://www.europarl.europa.eu/doceo/document/E-10-2025-003232_EN.html
 
 - Press release - Statement by group majority leaders on the EU long-term budget
   https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/
@@ -41,6 +32,15 @@
 
 - General documents - Statement by the Chair of European Parliament’s Delegation  for relations with the Maghreb countries - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees
   https://www.europarl.europa.eu/delegations/en/product/product-details/20241024DPU39567
+
+- Written question - Support for Mount Athos as the most sacred spiritual centre in the EU - E-003189/2025
+  https://www.europarl.europa.eu/doceo/document/E-10-2025-003189_EN.html
+
+- Written question - International law of the sea contrasted with Türkiye's piracy and bullying - E-003188/2025
+  https://www.europarl.europa.eu/doceo/document/E-10-2025-003188_EN.html
+
+- Written question - Environmental and ecological disaster in Cyprus - E-003170/2025
+  https://www.europarl.europa.eu/doceo/document/E-10-2025-003170_EN.html
 
 - Written question - Exclusion of economic disputes from the scope of the GDPR in France and consequences for fundamental rights and banking regulation - E-003205/2025
   https://www.europarl.europa.eu/doceo/document/E-10-2025-003205_EN.html
