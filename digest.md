@@ -1,4 +1,4 @@
-# Daily Digest — 2025-08-22 (UTC)
+# Daily Digest — 2025-08-23 (UTC)
 
 - General documents - Welcome Packs for MEPs - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees - Delegation for relations with the Arab Peninsula
   https://www.europarl.europa.eu/delegations/en/product/product-details/20240925DPU39348
@@ -90,6 +90,9 @@
 - Latest news - Meeting of Wednesday 27 November 2024, Strasbourg - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees
   https://www.europarl.europa.eu/delegations/en/product/product-details/20241120DAL14382
 
+- Weekly schedule of President António Costa
+  https://www.consilium.europa.eu/en/press/press-releases/2025/08/22/weekly-schedule-of-president-antonio-costa/
+
 - International Day Commemorating the Victims of Acts of Violence based on Religion or Belief: Statement by the High Representative on behalf of the European Union
   https://www.consilium.europa.eu/en/press/press-releases/2025/08/21/international-day-commemorating-the-victims-of-acts-of-violence-based-on-religion-or-belief-statement-by-the-high-representative-on-behalf-of-the-european-union/
 
@@ -116,7 +119,4 @@
 
 - Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
   https://www.consilium.europa.eu/en/press/press-releases/2025/08/11/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukrain/
-
-- Statement by the High Representative on behalf of the European Union on the alignment of certain countries concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine
-  https://www.consilium.europa.eu/en/press/press-releases/2025/08/11/statement-by-the-hr-on-behalf-of-the-european-union-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-view-of-the-situation-in-belarus-and-the-involvement-of-belarus-in-the-russian-aggression-against-ukraine/
 
