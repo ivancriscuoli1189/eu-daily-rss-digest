@@ -1,8 +1,52 @@
-# Official EU feeds (you can add up to ~20 lines)
-https://www.europarl.europa.eu/rss/doc/press-releases/en.xml
-https://www.europarl.europa.eu/rss/doc/written-questions/en.xml
-https://www.europarl.europa.eu/rss/doc/answers-to-written-questions/en.xml
-https://www.europarl.europa.eu/rss/delegation/dmag/en.xml
-https://www.consilium.europa.eu/en/rss/pressreleases.ashx
-# Add your personal EUR-Lex 'My RSS alerts' URLs below (after you create them while logged-in):
-# https://eur-lex.europa.eu/myalerts/.... (example placeholder)
+ITALIA ISTITUZIONI – MAECI – Comunicati stampa | PAGE | https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/
+ITALIA ISTITUZIONI – MAECI Tunisia | PAGE | https://www.esteri.it/it/sala_stampa/aree_geografiche/africa_subsahariana/tunisia
+ITALIA ISTITUZIONI – Governo – Comunicati CdM | PAGE | https://www.governo.it/it/archivio-riunioni
+ITALIA ISTITUZIONI – AICS – Comunicati stampa | PAGE | https://www.aics.gov.it/comunicati-stampa/
+ITALIA ISTITUZIONI – Viminale – Sbarchi: dati e statistiche | PAGE | https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati
+TUNISIA ISTITUZIONI – Tunisia – Présidence du Gouvernement | PAGE | https://pm.gov.tn/en
+TUNISIA ISTITUZIONI – Tunisia – Ministry of Foreign Affairs | PAGE | https://www.diplomatie.gov.tn/
+TUNISIA ISTITUZIONI – INS – Institut National de la Statistique | PAGE | https://www.ins.tn/
+TUNISIA ISTITUZIONI – Ministère de l’Intérieur (Tunisia) | PAGE | http://www.interieur.gov.tn/
+TUNISIA ISTITUZIONI – Presidenza Tunisia | PAGE | http://www.carthage.tn/
+UE - INTERNAZIONALI ISTITUZIONI – EUR-Lex (search queries) | PAGE | https://eur-lex.europa.eu/
+UE - INTERNAZIONALI ISTITUZIONI – EP Legislative Observatory (OEIL) | PAGE | https://oeil.secure.europarl.europa.eu/
+UE - INTERNAZIONALI ISTITUZIONI – European Commission – Press corner | PAGE | https://ec.europa.eu/commission/presscorner/
+UE - INTERNAZIONALI ISTITUZIONI – European Council / Council (Consilium) – Press | PAGE | https://www.consilium.europa.eu/en/press/
+UE - INTERNAZIONALI ISTITUZIONI – Commission – News & media hub | PAGE | https://commission.europa.eu/news-and-media_en
+UE - INTERNAZIONALI ISTITUZIONI – Consilium – Press releases & statements | PAGE | https://www.consilium.europa.eu/en/press/press-releases/
+UE - INTERNAZIONALI ISTITUZIONI – EEAS – Delegation of the EU to Tunisia | PAGE | https://www.eeas.europa.eu/delegations/tunisia_en
+UE - INTERNAZIONALI ISTITUZIONI – EEAS Statements | PAGE | https://www.eeas.europa.eu/eeas/news_en
+UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Tunisia country page | PAGE | https://enlargement.ec.europa.eu/european-neighbourhood-policy/countries-region/tunisia_en
+UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Assistance to Tunisia (dataset) | PAGE | https://data.europa.eu/data/datasets/dg-near-assistance-to-tunisia?locale=en
+UE - INTERNAZIONALI ISTITUZIONI – UE Tunisie – Projects portal | PAGE | https://ue-tunisie.org/
+UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia page | PAGE | https://www.eeas.europa.eu/tunisia_en
+UE - INTERNAZIONALI ISTITUZIONI – Commission DG NEAR Tunisia | PAGE | https://neighbourhood-enlargement.ec.europa.eu
+UE - INTERNAZIONALI ISTITUZIONI – MAECI Tunisia | PAGE | https://www.esteri.it/it/sala_stampa/aree_geografiche/africa_subsahariana/tunisia
+UE - INTERNAZIONALI ISTITUZIONI – Frontex Newsroom | PAGE | https://frontex.europa.eu/media-centre/news/
+UE - INTERNAZIONALI ISTITUZIONI – Consiglio (Home Affairs) | PAGE | https://www.consilium.europa.eu/en/press/press-releases/
+UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases) | PAGE | https://www.europarl.europa.eu/news/en/press-room
+UE - INTERNAZIONALI ISTITUZIONI – EP Press Room | PAGE | https://www.europarl.europa.eu/news/en/press-room
+UE - INTERNAZIONALI ISTITUZIONI – Consilium Press Releases | PAGE | https://www.consilium.europa.eu/en/press/
+UE - INTERNAZIONALI ISTITUZIONI – Commission Press Corner | PAGE | https://ec.europa.eu/commission/presscorner/home/en
+UE - INTERNAZIONALI ISTITUZIONI – Mediatore Europeo | PAGE | https://www.ombudsman.europa.eu/it/home
+UE - INTERNAZIONALI ISTITUZIONI – World Bank – Tunisia | PAGE | https://www.worldbank.org/en/country/tunisia
+UE - INTERNAZIONALI ISTITUZIONI – IMF – Tunisia | PAGE | https://www.imf.org/en/Countries/TUN
+UE - INTERNAZIONALI ISTITUZIONI – Consilium Press releases | PAGE | https://www.consilium.europa.eu/en/press/press-releases/
+UE - INTERNAZIONALI ISTITUZIONI – DG HOME – Migration and Home Affairs | PAGE | https://home-affairs.ec.europa.eu/news_en
+AGENZIE GIORNALISTICHE – ANSAmed | PAGE | https://www.ansa.it/mediterraneo/notizie/rubriche/tunisia
+AGENZIE GIORNALISTICHE – TAP (Agence Tunis Afrique Presse) | PAGE | https://www.tap.info.tn/en
+MEDIA TUNISIA – African Manager (Politics) | PAGE | https://africanmanager.com/category/politics/
+MEDIA TUNISIA – La Presse de Tunisie | PAGE | https://lapresse.tn/
+NGOs – Amnesty International – Tunisia/Migration | PAGE | https://www.amnesty.org/en/location/middle-east-and-north-africa/tunisia/
+NGOs – Human Rights Watch – Tunisia | PAGE | https://www.hrw.org/middle-east/n-africa/tunisia
+NGOs – International Commission of Jurists – MENA | PAGE | https://www.icj.org/country/tunisia/
+THINK TANK – Carnegie MENA | PAGE | https://carnegie-mec.org/
+THINK TANK – Carnegie Tunisia | PAGE | https://carnegeendowment.org/regions/tunisia
+THINK TANK – ISPI – Mediterraneo e MENA | PAGE | https://www.ispionline.it/it/ricerca/area/mediterraneo-e-mena
+THINK TANK – IAI – Mediterraneo e MENA | PAGE | https://www.iai.it/en
+THINK TANK – CESPI | PAGE | https://www.cespi.it/
+THINK TANK – LIMES | PAGE | https://www.limesonline.com/
+THINK TANK – Brookings – Center for Middle East Policy | PAGE | https://www.brookings.edu/topic/middle-east-north-africa/
+THINK TANK – International Crisis Group – North Africa | PAGE | https://www.crisisgroup.org/middle-east-north-africa/north-africa
+THINK TANK – ECFR – European Council on Foreign Relations (MENA) | PAGE | https://ecfr.eu/region/mena/
+MAGAZINES – Jeune Afrique | PAGE | https://www.jeuneafrique.com/pays/tunisie/
