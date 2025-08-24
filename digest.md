@@ -1,3 +1,5 @@
+# Digest aggiornato: 2025-08-24 13:54:33 UTC
+
 # Daily Digest — 2025-08-24 (UTC)
 
 - General documents - Welcome Packs for MEPs - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees - Delegation for relations with the Arab Peninsula
@@ -119,4 +121,3 @@
 
 - Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine
   https://www.consilium.europa.eu/en/press/press-releases/2025/08/11/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukrain/
-
