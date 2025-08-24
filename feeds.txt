@@ -10,7 +10,7 @@ TUNISIA ISTITUZIONI – Ministère de l’Intérieur (Tunisia) | PAGE | http://w
 TUNISIA ISTITUZIONI – Presidenza Tunisia | PAGE | http://www.carthage.tn/
 UE - INTERNAZIONALI ISTITUZIONI – EUR-Lex (search queries) | PAGE | https://eur-lex.europa.eu/
 UE - INTERNAZIONALI ISTITUZIONI – EP Legislative Observatory (OEIL) | PAGE | https://oeil.secure.europarl.europa.eu/
-UE - INTERNAZIONALI ISTITUZIONI – European Commission – Press corner | PAGE | https://ec.europa.eu/commission/presscorner/
+UE - INTERNAZIONALI ISTITUZIONI – European Commission – Press corner | PAGE | https://ec.europa.eu/commission/presscorner/home/en
 UE - INTERNAZIONALI ISTITUZIONI – European Council / Council (Consilium) – Press | PAGE | https://www.consilium.europa.eu/en/press/
 UE - INTERNAZIONALI ISTITUZIONI – Commission – News & media hub | PAGE | https://commission.europa.eu/news-and-media_en
 UE - INTERNAZIONALI ISTITUZIONI – Consilium – Press releases & statements | PAGE | https://www.consilium.europa.eu/en/press/press-releases/
@@ -20,12 +20,12 @@ UE - INTERNAZIONALI ISTITUZIONI – EEAS Statements | PAGE | https://www.eeas.eu
 UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Tunisia country page | PAGE | https://enlargement.ec.europa.eu/european-neighbourhood-policy/countries-region/tunisia_en
 UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Assistance to Tunisia (dataset) | PAGE | https://data.europa.eu/data/datasets/dg-near-assistance-to-tunisia?locale=en
 UE - INTERNAZIONALI ISTITUZIONI – UE Tunisie – Projects portal | PAGE | https://ue-tunisie.org/
-UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia page | PAGE | https://www.eeas.europa.eu/tunisia_en
+UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia – Press | PAGE | https://www.eeas.europa.eu/filter-page/press-material_en?f%5B0%5D=press_site%3ATunisia
 UE - INTERNAZIONALI ISTITUZIONI – Commission DG NEAR Tunisia | PAGE | https://neighbourhood-enlargement.ec.europa.eu
 UE - INTERNAZIONALI ISTITUZIONI – MAECI Tunisia | PAGE | https://www.esteri.it/it/sala_stampa/aree_geografiche/africa_subsahariana/tunisia
 UE - INTERNAZIONALI ISTITUZIONI – Frontex Newsroom | PAGE | https://frontex.europa.eu/media-centre/news/
 UE - INTERNAZIONALI ISTITUZIONI – Consiglio (Home Affairs) | PAGE | https://www.consilium.europa.eu/en/press/press-releases/
-UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases) | PAGE | https://www.europarl.europa.eu/news/en/press-room
+UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases) | PAGE | https://www.europarl.europa.eu/news/en/press-room?searchText=&topic=committee-libe
 UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases) | PAGE | https://www.europarl.europa.eu/news/en/press-room?searchText=&topic=committee-libe
 UE - INTERNAZIONALI ISTITUZIONI – EP Press Room | PAGE | https://www.europarl.europa.eu/news/en/press-room
 UE - INTERNAZIONALI ISTITUZIONI – Consilium Press Releases | PAGE | https://www.consilium.europa.eu/en/press/
