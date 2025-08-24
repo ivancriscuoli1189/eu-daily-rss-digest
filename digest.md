@@ -1,4 +1,4 @@
-# Daily Digest — 2025-08-23 (UTC)
+# Daily Digest — 2025-08-24 (UTC)
 
 - General documents - Welcome Packs for MEPs - Delegation for relations with the Maghreb countries and the Arab Maghreb Union, including the EU-Morocco, EU-Tunisia and EU-Algeria Joint Parliamentary Committees - Delegation for relations with the Arab Peninsula
   https://www.europarl.europa.eu/delegations/en/product/product-details/20240925DPU39348
