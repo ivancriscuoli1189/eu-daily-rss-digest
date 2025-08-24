@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-24 14:30:32 UTC
+# Digest aggiornato: 2025-08-24 15:11:49 UTC
 
 Daily Digest — 2025-08-24 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -168,9 +168,9 @@ Daily Digest — 2025-08-24 (UTC)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [A la une](https://lapresse.tn/category/la-une/)
+- [Le Hamas se dit prêt pour un accord de trêve global et accuse Nétanyahou de rejeter toutes les solutions](https://lapresse.tn/2025/08/24/le-hamas-se-dit-pret-pour-un-accord-de-treve-global-et-accuse-netanyahou-de-rejeter-toutes-les-solutions/)
 - [Protection civile : Plus de 52 mille interventions au cours de la saison estivale](https://lapresse.tn/2025/08/24/protection-civile-plus-de-52-mille-interventions-au-cours-de-la-saison-estivale/)
 - [La Tunisie lance un plan national pour mettre fin aux ruptures de médicaments](https://lapresse.tn/2025/08/24/la-tunisie-lance-un-plan-national-pour-mettre-fin-aux-ruptures-de-medicaments/)
-- [Sami Trabelsi annoncera ses choix pour la double confrontation face au Liberia et à la Guinée équatoriale](https://lapresse.tn/2025/08/24/sami-trabelsi-annoncera-ses-choix-pour-la-double-confrontation-face-au-liberia-et-a-la-guinee-equatoriale/)
 - [Urgence 2.0 : la Tunisie digitalise son système de secours…](https://lapresse.tn/2025/08/24/urgence-2-0-la-tunisie-digitalise-son-systeme-de-secours/)
 
 ## NGOs – Amnesty International – Tunisia/Migration
