@@ -1,12 +1,12 @@
-# Digest aggiornato: 2025-08-24 15:11:49 UTC
+# Digest aggiornato: 2025-08-24 15:59:57 UTC
 
 Daily Digest — 2025-08-24 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
-- [Reset](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [Salta al contenuto](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/#primary)
 - [digita...](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [Interviste e Articoli](https://www.esteri.it/it/sala_stampa/archivionotizie/interviste/)
-- [Comunicati e Notizie](https://www.esteri.it/it/sala_stampa/archivionotizie/)
+- [Amministrazione trasparente](https://www.esteri.it/it/trasparenza_comunicazioni_legali/)
+- [Vai alla sezione](https://www.esteri.it/it/trasparenza_comunicazioni_legali/)
+- [Disposizioni Generali](https://www.esteri.it/it/trasparenza_comunicazioni_legali/disposizioni_generali/)
+- [Organizzazione](https://www.esteri.it/it/trasparenza_comunicazioni_legali/organizzazione/)
 
 ## ITALIA ISTITUZIONI – MAECI Tunisia
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -14,16 +14,23 @@ Daily Digest — 2025-08-24 (UTC)
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 - [Notizie](https://www.governo.it/it/notizie-presidente)
 - [Notizie](https://www.governo.it/it/notizie-governo)
+- [Campagne di comunicazione](https://www.governo.it/it/campagne-di-comunicazione)
+- [Comunicato stampa del Consiglio dei Ministri n.138](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n138/29421)
+- [Comunicato stampa del Consiglio dei Ministri n. 137](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-137/29372)
 
 ## ITALIA ISTITUZIONI – AICS – Comunicati stampa
+- [Passa al contenuto principale](https://www.aics.gov.it/comunicati-stampa/#content)
+- [Vai a piè di pagina](https://www.aics.gov.it/comunicati-stampa/#colophon)
+- [Ministero degli Affari Esteri e della Cooperazione Internazionale](https://www.aics.gov.it/comunicati-stampa/#accessoryNavigationMenu)
 - [Bando Profit](https://www.aics.gov.it/news/nuovo-bando-profit-al-via-la-consultazione-preliminare-di-mercato/)
-- [Stampa e Comunicazione](https://www.aics.gov.it/news/)
-- [Archivio notizie](https://www.aics.gov.it/news/)
-- [Notizie](https://www.aics.gov.it/news/)
+- [Selezione della lingua:IT IT](https://www.aics.gov.it/comunicati-stampa/)
 
 ## ITALIA ISTITUZIONI – Viminale – Sbarchi: dati e statistiche
+- [Salta al contenuto principale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati#main-content)
 - [News feed](https://www.interno.gov.it/it/rss/news.xml)
-- [Notizie](https://www.interno.gov.it/it/stampa-e-comunicazione/notizie)
+- [Stampa e comunicazione](https://www.interno.gov.it/it/stampa-e-comunicazione)
+- [Homepage Stampa e comunicazione](https://www.interno.gov.it/it/stampa-e-comunicazione)
+- [Rassegna stampa](https://www.interno.gov.it/it/stampa-e-comunicazione/rassegna-stampa)
 
 ## TUNISIA ISTITUZIONI – Tunisia – Présidence du Gouvernement
 - [Meeting between the Prime Minister and the Director General of the World Health Organization](https://pm.gov.tn/en/node/375)
@@ -38,12 +45,13 @@ Daily Digest — 2025-08-24 (UTC)
 ## TUNISIA ISTITUZIONI – INS – Institut National de la Statistique
 - [Communiqués de presse](https://www.ins.tn/communique-de-presse)
 - [Voir Tous](https://www.ins.tn/communique-de-presse)
+- [Conférence de presse17-05-2025Publication des résultats du Recensement Général de la Population et de l’Habitat 2024.Hôte l'acropole lac1 Tunis](https://www.ins.tn/event_rgph2024)
 
 ## TUNISIA ISTITUZIONI – Ministère de l’Intérieur (Tunisia)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia
-- _(nessuna novità rilevante o pagina non leggibile)_
+- [المزيد](http://www.carthage.tn/?q=ar/event-created)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – EUR-Lex (search queries)
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -51,6 +59,7 @@ Daily Digest — 2025-08-24 (UTC)
 ## UE - INTERNAZIONALI ISTITUZIONI – EP Legislative Observatory (OEIL)
 - [EP Newshub](https://www.epnewshub.eu)
 - [Press Service](https://www.europarl.europa.eu/news/en/press-room)
+- [Events](https://www.europarl.europa.eu/committees/en/events/events-hearings)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – European Commission – Press corner
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -59,13 +68,16 @@ Daily Digest — 2025-08-24 (UTC)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## UE - INTERNAZIONALI ISTITUZIONI – Commission – News & media hub
-- [Highlighted news](https://commission.europa.eu/news-and-media/highlighted-news_en)
-- [News from Commission Departments](https://commission.europa.eu/news-and-media/news_en)
-- [Press corner](https://ec.europa.eu/commission/presscorner/home/en)
-- [Visual stories](https://commission.europa.eu/news-and-media/visual-stories_en)
-- [Audiovisual portal](https://audiovisual.ec.europa.eu/en/)
+- [bgбългарски](https://commission.europa.eu/news-and-media_bg)
+- [esespañol](https://commission.europa.eu/news-and-media_es)
+- [csčeština](https://commission.europa.eu/news-and-media_cs)
+- [dadansk](https://commission.europa.eu/news-and-media_da)
+- [deDeutsch](https://commission.europa.eu/news-and-media_de)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – Consilium – Press releases & statements
+- _(nessuna novità rilevante o pagina non leggibile)_
+
+## UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia – Press
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## UE - INTERNAZIONALI ISTITUZIONI – EEAS – Delegation of the EU to Tunisia
@@ -83,7 +95,6 @@ Daily Digest — 2025-08-24 (UTC)
 - [Opening remarks by President von der Leyen at the joint press conference with President Michel following the special meeting of the European Council of 1 February 2024](https://enlargement.ec.europa.eu/news/opening-remarks-president-von-der-leyen-joint-press-conference-president-michel-following-special-2024-02-01_en)
 - [L'Union européenne et la Tunisie conviennent d'un programme de 150 millions d'euros](https://enlargement.ec.europa.eu/news/lunion-europeenne-et-la-tunisie-conviennent-dun-programme-de-150-millions-deuros-2023-12-20_en)
 - [Commission announces almost €127 million in support of the implementation of the Memorandum of Understanding with Tunisia and in line with the 10-point plan for Lampedusa](https://enlargement.ec.europa.eu/news/commission-announces-almost-eu127-million-support-implementation-memorandum-understanding-tunisia-2023-09-22_en)
-- [Factograph - EU-Tunisia relations](https://neighbourhood-enlargement.ec.europa.eu/factograph-eu-tunisia-relations_en)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Assistance to Tunisia (dataset)
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -117,6 +128,13 @@ Daily Digest — 2025-08-24 (UTC)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
 
+## UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases)
+- [Statement on the negotiations of a just peace for Ukraine based on international law and the will of the Ukrainian people](https://www.europarl.europa.eu/news/en/press-room/20250811IPR29907/statement-on-the-negotiations-of-a-just-peace-for-ukraine)
+- [Media Freedom Act enters into application to support democracy and journalism](https://www.europarl.europa.eu/news/en/press-room/20250725IPR29818/media-freedom-act-enters-into-application-to-support-democracy-and-journalism)
+- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
+- [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
+- [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
+
 ## UE - INTERNAZIONALI ISTITUZIONI – EP Press Room
 - [Statement on the negotiations of a just peace for Ukraine based on international law and the will of the Ukrainian people](https://www.europarl.europa.eu/news/en/press-room/20250811IPR29907/statement-on-the-negotiations-of-a-just-peace-for-ukraine)
 - [Media Freedom Act enters into application to support democracy and journalism](https://www.europarl.europa.eu/news/en/press-room/20250725IPR29818/media-freedom-act-enters-into-application-to-support-democracy-and-journalism)
@@ -134,11 +152,11 @@ Daily Digest — 2025-08-24 (UTC)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## UE - INTERNAZIONALI ISTITUZIONI – World Bank – Tunisia
-- [News & Events](https://www.worldbank.org/en/news)
 - [History](https://www.worldbank.org/en/archive/history)
 - [Press Releases](https://www.worldbank.org/en/news/all?displayconttype_exact=Press+Release&lang_exact=English&qterm=)
 - [Statements](https://www.worldbank.org/en/news/all?qterm=&lang_exact=English&displayconttype_exact=Statement)
 - [Speeches & Transcripts](https://www.worldbank.org/en/news/all?displayconttype_exact=Speeches+and+Transcripts&lang_exact=English&qterm=)
+- [Fact Sheets](https://www.worldbank.org/en/news/all?qterm=&lang_exact=English&displayconttype_exact=Factsheet)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – IMF – Tunisia
 - [Country News](https://www.imf.org/en/Countries/TUN#featured)
@@ -168,15 +186,12 @@ Daily Digest — 2025-08-24 (UTC)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [A la une](https://lapresse.tn/category/la-une/)
-- [Le Hamas se dit prêt pour un accord de trêve global et accuse Nétanyahou de rejeter toutes les solutions](https://lapresse.tn/2025/08/24/le-hamas-se-dit-pret-pour-un-accord-de-treve-global-et-accuse-netanyahou-de-rejeter-toutes-les-solutions/)
-- [Protection civile : Plus de 52 mille interventions au cours de la saison estivale](https://lapresse.tn/2025/08/24/protection-civile-plus-de-52-mille-interventions-au-cours-de-la-saison-estivale/)
-- [La Tunisie lance un plan national pour mettre fin aux ruptures de médicaments](https://lapresse.tn/2025/08/24/la-tunisie-lance-un-plan-national-pour-mettre-fin-aux-ruptures-de-medicaments/)
-- [Urgence 2.0 : la Tunisie digitalise son système de secours…](https://lapresse.tn/2025/08/24/urgence-2-0-la-tunisie-digitalise-son-systeme-de-secours/)
+- [Monastir investit 2,2 millions de dinars pour renforcer la propreté urbaine](https://lapresse.tn/2025/08/24/monastir-investit-22-millions-de-dinars-pour-renforcer-la-proprete-urbaine/)
+- [Récolte 2025 : Tozeur enregistre plus de 11 millions de régimes de dattes](https://lapresse.tn/2025/08/24/recolte-2025-tozeur-enregistre-plus-de-11-millions-de-regimes-de-dattes/)
 
-## NGOs – Amnesty International – Tunisia/Migration
+## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
 - [Campaigns](https://www.amnesty.org/en/latest/campaigns/)
-- [Research](https://www.amnesty.org/en/latest/research/)
 
 ## NGOs – Human Rights Watch – Tunisia
 - [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
@@ -193,7 +208,9 @@ Daily Digest — 2025-08-24 (UTC)
 - [The ICJ addresses the African Commission on Human and People’s Rights on human rights in Egypt, Eswatini, Libya, and Tunisia](https://www.icj.org/the-icj-addresses-the-african-commission-on-human-and-peoples-rights-on-human-rights-egypt-eswatini-libya-tunisia/)
 
 ## THINK TANK – Carnegie MENA
-- _(nessuna novità rilevante o pagina non leggibile)_
+- [events](https://carnegie-mec.org/middle-east/events?lang=en&center=middle-east)
+- [The Arab Summit Plan for Gaza](https://carnegie-mec.org/events/2025/03/the-arab-summit-plan-for-gaza?lang=en&center=middle-east)
+- [events](https://carnegie-mec.org/middle-east/events)
 
 ## THINK TANK – Carnegie Tunisia
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -205,11 +222,15 @@ Daily Digest — 2025-08-24 (UTC)
 - [EU Reforms for Ukraine’s Recovery: Lessons from the URC2025](https://www.iai.it/en/pubblicazioni/c05/eu-reforms-ukraines-recovery-lessons-urc2025)
 - [Trump v. Birthright Citizenship: Another Mark on the US Legal System](https://www.iai.it/en/pubblicazioni/c05/trump-v-birthright-citizenship-another-mark-us-legal-system)
 - [A Shifting European Paradigm in FDI Screening: From Market Protection to Economic Security](https://www.iai.it/en/pubblicazioni/c05/shifting-european-paradigm-fdi-screening-market-protection-economic-security)
-- [Global Voices Award 2025](https://www.iai.it/en/news/global-voices-award-2025)
-- [leggi tutto](https://www.iai.it/en/news/global-voices-award-2025)
+- [Events](https://www.iai.it/en/events)
+- [Lo IAI nelle carriere internazionali: otto storie di successo](https://www.iai.it/en/eventi/lo-iai-nelle-carriere-internazionali-otto-storie-successo)
 
 ## THINK TANK – CESPI
-- _(nessuna novità rilevante o pagina non leggibile)_
+- [Eventi e attualità](https://www.cespi.it/it/eventi-attualita)
+- [Eventi](https://www.cespi.it/it/eventi-note/eventi)
+- [Editoriale](https://www.cespi.it/it/eventi-note/editoriale)
+- [Attualità](https://www.cespi.it/it/eventi-note/articoli)
+- [Comunicazioni](https://www.cespi.it/it/eventi-note/comunicazioni)
 
 ## THINK TANK – LIMES
 - [Mappe parlanti](https://www.limesonline.com/rubriche/mappe-parlanti/)
@@ -223,7 +244,7 @@ Daily Digest — 2025-08-24 (UTC)
 - [Support for Israel continues to deteriorate, especially among Democrats and young people](https://www.brookings.edu/articles/support-for-israel-continues-to-deteriorate-especially-among-democrats-and-young-people/)
 - [Iran’s dangerous desperation](https://www.foreignaffairs.com/iran/irans-dangerous-desperation)
 - [The road to the Israel-Iran war](https://www.brookings.edu/articles/the-road-to-the-israel-iran-war/)
-- [Newsletters](https://www.brookings.edu/newsletters/)
+- [Events](https://www.brookings.edu/events/)
 
 ## THINK TANK – International Crisis Group – North Africa
 - _(nessuna novità rilevante o pagina non leggibile)_
