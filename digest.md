@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-24 13:54:33 UTC
+# Digest aggiornato: 2025-08-24 14:06:04 UTC
 
 # Daily Digest — 2025-08-24 (UTC)
 
