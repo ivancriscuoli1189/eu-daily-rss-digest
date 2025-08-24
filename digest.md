@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-24 15:59:57 UTC
+# Digest aggiornato: 2025-08-24 18:06:50 UTC
 
 Daily Digest — 2025-08-24 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -102,12 +102,8 @@ Daily Digest — 2025-08-24 (UTC)
 ## UE - INTERNAZIONALI ISTITUZIONI – UE Tunisie – Projects portal
 - _(nessuna novità rilevante o pagina non leggibile)_
 
-## UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia page
-- [Press materials](https://www.eeas.europa.eu/filter-page/press-material_en?f%5B0%5D=press_site%3ATunisia&s=126)
-- [Stories & Blogs](https://www.eeas.europa.eu/filter-page/stories-blogs_en?f%5B0%5D=bs_site%3ATunisia&s=126)
-- [European Union - African Union: press remarks by High Representative Kaja Kallas at the Ministerial meeting](https://www.eeas.europa.eu/eeas/european-union-african-union-press-remarks-high-representative-kaja-kallas-ministerial-meeting_en?s=126)
-- [Foreign Affairs Council: press remarks by High Representative Kaja Kallas upon arrival](https://www.eeas.europa.eu/eeas/foreign-affairs-council-press-remarks-high-representative-kaja-kallas-upon-arrival-0_en?s=126)
-- [International Day for the Elimination of Racial Discrimination: Statement by the High Representative on behalf of the EU](https://www.consilium.europa.eu/en/press/press-releases/2025/03/20/international-day-for-the-elimination-of-racial-discrimination-statement-by-the-high-representative-on-behalf-of-the-european-union/)
+## UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia – Press
+- _(nessuna novità rilevante o pagina non leggibile)_
 
 ## UE - INTERNAZIONALI ISTITUZIONI – Commission DG NEAR Tunisia
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -186,8 +182,9 @@ Daily Digest — 2025-08-24 (UTC)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [A la une](https://lapresse.tn/category/la-une/)
-- [Monastir investit 2,2 millions de dinars pour renforcer la propreté urbaine](https://lapresse.tn/2025/08/24/monastir-investit-22-millions-de-dinars-pour-renforcer-la-proprete-urbaine/)
-- [Récolte 2025 : Tozeur enregistre plus de 11 millions de régimes de dattes](https://lapresse.tn/2025/08/24/recolte-2025-tozeur-enregistre-plus-de-11-millions-de-regimes-de-dattes/)
+- [Yémen : Des frappes sioniste ont touché la capitale Sanaa](https://lapresse.tn/2025/08/24/yemen-des-frappes-sioniste-ont-touche-la-capitale-sanaa/)
+- [Sfax : la plateforme Najda.TN sauve deux vies en une seule journée](https://lapresse.tn/2025/08/24/sfax-la-plateforme-najda-tn-sauve-deux-vies-en-une-seule-journee/)
+- [Marché mondial de l’huile d’olive en 2025 : Reprise mondiale et ambitions tunisiennes](https://lapresse.tn/2025/08/24/marche-mondial-de-lhuile-dolive-en-2025-reprise-mondiale-et-ambitions-tunisiennes/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
