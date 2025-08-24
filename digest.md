@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-24 19:11:30 UTC
+# Digest aggiornato: 2025-08-24 22:23:28 UTC
 
 Daily Digest — 2025-08-24 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -183,9 +183,9 @@ Daily Digest — 2025-08-24 (UTC)
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [A la une](https://lapresse.tn/category/la-une/)
 - [Sport](https://lapresse.tn/category/sport/)
+- [Nafti rencontre la communauté tunisienne à Djeddah en marge de la réunion de l’OCI](https://lapresse.tn/2025/08/24/nafti-rencontre-la-communaute-tunisienne-a-djeddah-en-marge-de-la-reunion-de-loci/)
+- [Un projet de ville médiatique en Tunisie au centre des discussions à Riyad](https://lapresse.tn/2025/08/24/un-projet-de-ville-mediatique-en-tunisie-au-centre-des-discussions-a-riyad/)
 - [Jour de gloire pour l’ESZ : Héroïque Espérance de Zarzis !](https://lapresse.tn/2025/08/24/jour-de-gloire-pour-lesz-heroique-esperance-de-zarzis/)
-- [Galas chantants et chorales participatives : Quand le public devient la vedette](https://lapresse.tn/2025/08/24/galas-chantants-et-chorales-participatives-quand-le-public-devient-la-vedette/)
-- [Yémen : Des frappes sioniste ont touché la capitale Sanaa](https://lapresse.tn/2025/08/24/yemen-des-frappes-sioniste-ont-touche-la-capitale-sanaa/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
