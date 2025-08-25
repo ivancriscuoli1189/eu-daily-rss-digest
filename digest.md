@@ -1,6 +1,6 @@
-# Digest aggiornato: 2025-08-24 22:23:28 UTC
+# Digest aggiornato: 2025-08-25 05:19:25 UTC
 
-Daily Digest — 2025-08-24 (UTC)
+Daily Digest — 2025-08-25 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 - [digita...](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
 - [Amministrazione trasparente](https://www.esteri.it/it/trasparenza_comunicazioni_legali/)
