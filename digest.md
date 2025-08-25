@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-25 10:18:14 UTC
+# Digest aggiornato: 2025-08-25 19:12:02 UTC
 
 Daily Digest — 2025-08-25 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -182,9 +182,9 @@ Daily Digest — 2025-08-25 (UTC)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [Sport](https://lapresse.tn/category/sport/)
-- [Lotfi Riahi : La standardisation de la liste des cahiers scolaires a réduit les dépenses de 30 %](https://lapresse.tn/2025/08/25/lotfi-riahi-la-standardisation-de-la-liste-des-cahiers-scolaires-a-reduit-les-depenses-de-30/)
-- [Pénurie de médicaments: le ministère de la Santé préconise une meilleure gestion des ordonnances](https://lapresse.tn/2025/08/25/penurie-de-medicaments-le-ministere-de-la-sante-preconise-une-meilleure-gestion-des-ordonnances/)
-- [Hausse de près de 9 % des accidents de la route en Tunisie depuis janvier 2025](https://lapresse.tn/2025/08/25/hausse-de-pres-de-9-des-accidents-de-la-route-en-tunisie-depuis-janvier-2025/)
+- [UNIMED : Rached Azaiez prend les rênes de la direction générale](https://lapresse.tn/2025/08/25/unimed-rached-azaiez-prend-les-renes-de-la-direction-generale/)
+- [Gafsa – Tourisme : L’AFT tend la perche aux jeunes promoteurs](https://lapresse.tn/2025/08/25/gafsa-tourisme-laft-tend-la-perche-aux-jeunes-promoteurs-2/)
+- [Kairouan : 600.000D pour la rénovation du marché Nhaïssia](https://lapresse.tn/2025/08/25/kairouan-600-000d-pour-la-renovation-du-marche-nhaissia/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
