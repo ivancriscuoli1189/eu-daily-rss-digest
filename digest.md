@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-25 19:12:02 UTC
+# Digest aggiornato: 2025-08-25 22:23:29 UTC
 
 Daily Digest — 2025-08-25 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -181,10 +181,10 @@ Daily Digest — 2025-08-25 (UTC)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## MEDIA TUNISIA – La Presse de Tunisie
-- [Sport](https://lapresse.tn/category/sport/)
-- [UNIMED : Rached Azaiez prend les rênes de la direction générale](https://lapresse.tn/2025/08/25/unimed-rached-azaiez-prend-les-renes-de-la-direction-generale/)
-- [Gafsa – Tourisme : L’AFT tend la perche aux jeunes promoteurs](https://lapresse.tn/2025/08/25/gafsa-tourisme-laft-tend-la-perche-aux-jeunes-promoteurs-2/)
-- [Kairouan : 600.000D pour la rénovation du marché Nhaïssia](https://lapresse.tn/2025/08/25/kairouan-600-000d-pour-la-renovation-du-marche-nhaissia/)
+- [A la une](https://lapresse.tn/category/la-une/)
+- [Tunisie : Vers l’ouverture de nouvelles lignes aériennes pour dynamiser le tourisme](https://lapresse.tn/2025/08/25/tunisie-vers-louverture-de-nouvelles-lignes-aeriennes-pour-dynamiser-le-tourisme/)
+- [Point de vue : Le foot des agents de joueurs](https://lapresse.tn/2025/08/25/point-de-vue-le-foot-des-agents-de-joueurs/)
+- [Ariana : un agent de l’ONAS agressé lors d’une intervention à cité Ettadhamen](https://lapresse.tn/2025/08/25/ariana-un-agent-de-lonas-agresse-lors-dune-intervention-a-cite-ettadhamen/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
