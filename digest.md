@@ -1,4 +1,4 @@
-# Digest aggiornato: 2025-08-25 05:19:25 UTC
+# Digest aggiornato: 2025-08-25 10:18:14 UTC
 
 Daily Digest — 2025-08-25 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -118,25 +118,25 @@ Daily Digest — 2025-08-25 (UTC)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases)
-- [Statement on the negotiations of a just peace for Ukraine based on international law and the will of the Ukrainian people](https://www.europarl.europa.eu/news/en/press-room/20250811IPR29907/statement-on-the-negotiations-of-a-just-peace-for-ukraine)
-- [Media Freedom Act enters into application to support democracy and journalism](https://www.europarl.europa.eu/news/en/press-room/20250725IPR29818/media-freedom-act-enters-into-application-to-support-democracy-and-journalism)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
+- [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
+- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases)
-- [Statement on the negotiations of a just peace for Ukraine based on international law and the will of the Ukrainian people](https://www.europarl.europa.eu/news/en/press-room/20250811IPR29907/statement-on-the-negotiations-of-a-just-peace-for-ukraine)
-- [Media Freedom Act enters into application to support democracy and journalism](https://www.europarl.europa.eu/news/en/press-room/20250725IPR29818/media-freedom-act-enters-into-application-to-support-democracy-and-journalism)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
+- [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
+- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – EP Press Room
-- [Statement on the negotiations of a just peace for Ukraine based on international law and the will of the Ukrainian people](https://www.europarl.europa.eu/news/en/press-room/20250811IPR29907/statement-on-the-negotiations-of-a-just-peace-for-ukraine)
-- [Media Freedom Act enters into application to support democracy and journalism](https://www.europarl.europa.eu/news/en/press-room/20250725IPR29818/media-freedom-act-enters-into-application-to-support-democracy-and-journalism)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
+- [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
+- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – Consilium Press Releases
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -166,10 +166,10 @@ Daily Digest — 2025-08-25 (UTC)
 
 ## UE - INTERNAZIONALI ISTITUZIONI – DG HOME – Migration and Home Affairs
 - [News in 2022](https://wayback.archive-it.org/12090/20241115153431/https:/home-affairs.ec.europa.eu/whats-new/news/news-2022_en)
+- [EU project Group Violence Intervention helps prevent violence and create safer communities in Sweden](https://home-affairs.ec.europa.eu/news/eu-project-group-violence-intervention-helps-prevent-violence-and-create-safer-communities-sweden-2025-08-25_en)
 - [Out Now: Eight Newsletter I Summer Edition 2025](https://home-affairs.ec.europa.eu/news/out-now-eight-newsletter-i-summer-edition-2025-2025-08-07_en)
 - [Commission launches the Network for the Prevention of Child Sexual Abuse](https://home-affairs.ec.europa.eu/news/commission-launches-network-prevention-child-sexual-abuse-2025-08-05_en)
 - [ISF LUMEN: helping to protect people from false claims and organised crime](https://home-affairs.ec.europa.eu/news/isf-lumen-helping-protect-people-false-claims-and-organised-crime-2025-07-31_en)
-- [Frontex celebrates 20 years of achievements in European border management](https://home-affairs.ec.europa.eu/news/frontex-celebrates-20-years-achievements-european-border-management-2025-07-30_en)
 
 ## AGENZIE GIORNALISTICHE – ANSAmed
 - _(nessuna novità rilevante o pagina non leggibile)_
@@ -181,11 +181,10 @@ Daily Digest — 2025-08-25 (UTC)
 - _(nessuna novità rilevante o pagina non leggibile)_
 
 ## MEDIA TUNISIA – La Presse de Tunisie
-- [A la une](https://lapresse.tn/category/la-une/)
 - [Sport](https://lapresse.tn/category/sport/)
-- [Nafti rencontre la communauté tunisienne à Djeddah en marge de la réunion de l’OCI](https://lapresse.tn/2025/08/24/nafti-rencontre-la-communaute-tunisienne-a-djeddah-en-marge-de-la-reunion-de-loci/)
-- [Un projet de ville médiatique en Tunisie au centre des discussions à Riyad](https://lapresse.tn/2025/08/24/un-projet-de-ville-mediatique-en-tunisie-au-centre-des-discussions-a-riyad/)
-- [Jour de gloire pour l’ESZ : Héroïque Espérance de Zarzis !](https://lapresse.tn/2025/08/24/jour-de-gloire-pour-lesz-heroique-esperance-de-zarzis/)
+- [Lotfi Riahi : La standardisation de la liste des cahiers scolaires a réduit les dépenses de 30 %](https://lapresse.tn/2025/08/25/lotfi-riahi-la-standardisation-de-la-liste-des-cahiers-scolaires-a-reduit-les-depenses-de-30/)
+- [Pénurie de médicaments: le ministère de la Santé préconise une meilleure gestion des ordonnances](https://lapresse.tn/2025/08/25/penurie-de-medicaments-le-ministere-de-la-sante-preconise-une-meilleure-gestion-des-ordonnances/)
+- [Hausse de près de 9 % des accidents de la route en Tunisie depuis janvier 2025](https://lapresse.tn/2025/08/25/hausse-de-pres-de-9-des-accidents-de-la-route-en-tunisie-depuis-janvier-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
@@ -258,5 +257,5 @@ Daily Digest — 2025-08-25 (UTC)
 - [Nucléaire : Algérie, Maroc, Côte d’Ivoire… Où en sont les pays africains ?](https://www.jeuneafrique.com/1715950/economie-entreprises/nucleaire-algerie-maroc-cote-divoire-ou-en-sont-les-pays-africains/)
 - [En France, la sortie de l’eurodéputée Rima Hassan annonce-t-elle un virage des Insoumis sur le Sahara occidental ?](https://www.jeuneafrique.com/1716219/politique/en-france-la-sortie-de-leurodeputee-rima-hassan-annonce-t-elle-un-virage-des-insoumis-sur-le-sahara-occidental/)
 - [« C’est lui le boss du M23 » : en RDC, peine de mort requise contre Joseph Kabila](https://www.jeuneafrique.com/1716556/politique/cest-lui-le-boss-du-m23-en-rdc-peine-de-mort-requise-contre-joseph-kabila/)
-- [Leyth Zniber, l’héritier tout indiqué pour diriger l’empire marocain Diana Holding­ ?](https://www.jeuneafrique.com/1715522/economie-entreprises/leyth-zniber-lheritier-tout-indique-pour-diriger-lempire-marocain-diana-holding/)
 - [Derrière le « coup de maître » des Nkontchou sur Ecobank, une stratégie longuement mûrie](https://www.jeuneafrique.com/1716055/economie-entreprises/derriere-le-coup-de-maitre-des-nkontchou-sur-ecobank-une-strategie-longuement-murie/)
+- [Un agent de la DGSE arrêté au Mali, Ouattara et le quatrième mandat, l’opposition décimée au Cameroun… : les 5 infos qu’il ne fallait pas rater](https://www.jeuneafrique.com/1716049/politique/un-agent-de-la-dgse-arrete-au-mali-ouattara-et-le-quatrieme-mandat-lopposition-decimee-au-cameroun-les-5-infos-quil-ne-fallait-pas-rater/)
