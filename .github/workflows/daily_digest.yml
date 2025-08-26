@@ -36,10 +36,15 @@ jobs:
           now=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           echo -e "# Digest aggiornato: $now\n\n$(cat digest.md)" > digest.md
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add digest.md
-          git commit -m "Aggiornamento digest automatico"
-          git push
+          - name: Install deps
+  run: pip install -r requirements.txt
+
+
+     - name: Commit & push changes
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git add digest.md data/sources/*.csv || true
+    git commit -m "Update digest + sources CSV" || echo "Nothing to commit"
+    git push
+
