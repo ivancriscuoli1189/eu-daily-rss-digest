@@ -45,85 +45,242 @@ STOPWORD_HREF_FRAG = (
 #   - must_href_contains: elenco di frammenti che DEVONO comparire nell’URL
 #   - prefer_href_contains: se presenti, si cerca di preferirli,
 #   - title_min_len: lunghezza minima del testo titolo
+# Regole di filtraggio per dominio (frammenti in minuscolo).
+# Chiave = dominio (netloc). Valori:
+#  - must_href_contains: almeno uno di questi frammenti deve comparire nell’URL
+#  - prefer_href_contains: se presenti, ordina/prioritizza i link che li contengono
+#  - title_min_len: scarta titoli troppo corti
 DOMAIN_RULES = {
-    # Istituzioni UE
+    # -----------------------
+    # UE / ISTITUZIONI
+    # -----------------------
     "www.consilium.europa.eu": {
-        "prefer_href_contains": ["/press/press-releases", "/press/statements"],
+        "prefer_href_contains": [
+            "/press/press-releases", "/press/statements",
+            "tunisia", "migration", "home-affairs"
+        ],
+        "title_min_len": 12,
     },
     "consilium.europa.eu": {
-        "prefer_href_contains": ["/press/press-releases", "/press/statements"],
-    },
-    "ec.europa.eu": {
-        "prefer_href_contains": ["/commission/presscorner", "/presscorner"],
+        "prefer_href_contains": [
+            "/press/press-releases", "/press/statements",
+            "tunisia", "migration", "home-affairs"
+        ],
+        "title_min_len": 12,
     },
     "commission.europa.eu": {
-        "prefer_href_contains": ["/news", "/presscorner"],
+        "prefer_href_contains": [
+            "/news", "/press", "presscorner", "news-and-media",
+            "tunisia", "migration", "neighbourhood", "home-affairs"
+        ],
+        "title_min_len": 14,
     },
-    "www.europarl.europa.eu": {
-        "prefer_href_contains": ["/news/en/press-room", "/news/it/press-room", "/news/fr/press-room"],
+    "ec.europa.eu": {
+        "must_href_contains": ["presscorner", "press"],
+        "prefer_href_contains": ["tunisia", "migration"],
+        "title_min_len": 14,
     },
-    "eeas.europa.eu": {
-        "prefer_href_contains": ["/news"],
+    "www.eeas.europa.eu": {
+        "must_href_contains": ["tunisia", "/delegations/tunisia"],
+        "prefer_href_contains": ["/news", "/press", "/statements", "/delegations/"],
+        "title_min_len": 14,
+    },
+    "neighbourhood-enlargement.ec.europa.eu": {
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/news", "/stories", "/publications", "/factsheet"],
+        "title_min_len": 14,
     },
     "home-affairs.ec.europa.eu": {
-        "prefer_href_contains": ["/news"],
+        "prefer_href_contains": ["/news", "/press", "migration", "tunisia"],
+        "title_min_len": 14,
+    },
+    "www.europarl.europa.eu": {
+        "must_href_contains": ["/news/"],
+        "prefer_href_contains": ["press-room", "tunisia", "migration", "libe"],
+        "title_min_len": 14,
+    },
+    "europarl.europa.eu": {
+        "must_href_contains": ["/news/"],
+        "prefer_href_contains": ["press-room", "tunisia", "migration", "libe"],
+        "title_min_len": 14,
     },
     "frontex.europa.eu": {
-        "prefer_href_contains": ["/media-centre/news"],
+        "prefer_href_contains": [
+            "/media-centre/news", "/news", "/press",
+            "tunisia", "north-africa", "mediterran"
+        ],
+        "title_min_len": 14,
+    },
+    "data.europa.eu": {
+        # dataset: spesso non utile come “notizia”
+        "prefer_href_contains": ["tunisia", "near", "assistance"],
+        "title_min_len": 12,
+    },
+    "ue-tunisie.org": {
+        "prefer_href_contains": ["/project", "/actualites", "/news", "/activites", "/evenements"],
+        "title_min_len": 14,
     },
 
-    # Italia
+    # -----------------------
+    # ITALIA / ISTITUZIONI
+    # -----------------------
     "www.esteri.it": {
-        "prefer_href_contains": ["/comunicati", "/sala_stampa"],
+        "prefer_href_contains": ["/sala_stampa", "/comunicati", "tunisia"],
+        "title_min_len": 12,
+    },
+    "aics.gov.it": {
+        "must_href_contains": ["/comunicati-stampa"],
+        "title_min_len": 12,
     },
     "www.governo.it": {
-        "prefer_href_contains": ["/archivio-riunioni", "/comunicati"],
-    },
-    "www.aics.gov.it": {
-        "prefer_href_contains": ["/comunicati-stampa"],
+        "must_href_contains": ["/archivio-riunioni"],
+        "title_min_len": 12,
     },
     "www.interno.gov.it": {
-        "prefer_href_contains": ["/dati-e-statistiche", "/comunicati-stampa", "/notizie"],
+        "prefer_href_contains": ["dati-e-statistiche", "sbarchi", "migranti"],
+        "title_min_len": 12,
     },
 
-    # Tunisia – istituzioni
-    "pm.gov.tn": {},
-    "www.diplomatie.gov.tn": {"prefer_href_contains": ["/actualites", "/news"]},
-    "www.ins.tn": {"prefer_href_contains": ["/publications", "/communiques", "/actualite"]},
-    "www.interieur.gov.tn": {},
-    "www.carthage.tn": {},
+    # -----------------------
+    # TUNISIA / ISTITUZIONI
+    # -----------------------
+    "pm.gov.tn": {
+        "prefer_href_contains": ["/en", "/fr", "/actualites", "/news"],
+        "title_min_len": 12,
+    },
+    "www.diplomatie.gov.tn": {
+        "prefer_href_contains": ["/en", "/fr", "news", "communique"],
+        "title_min_len": 12,
+    },
+    "www.ins.tn": {
+        "prefer_href_contains": ["actualite", "publication", "news"],
+        "title_min_len": 12,
+    },
+    "www.interieur.gov.tn": {
+        "prefer_href_contains": ["/fr", "/ar", "/en", "actualites", "communiques", "news"],
+        "title_min_len": 12,
+    },
+    "www.carthage.tn": {
+        "prefer_href_contains": ["/fr", "/ar", "/en", "activites", "actualites", "news"],
+        "title_min_len": 12,
+    },
 
-    # Agenzie / Media
-    "www.ansa.it": {"prefer_href_contains": ["/mediterraneo", "/notizie"]},
-    "www.tap.info.tn": {"prefer_href_contains": ["/en"]},
-    "africanmanager.com": {"prefer_href_contains": ["/politics"]},
-    "lapresse.tn": {},
+    # -----------------------
+    # AGENZIE
+    # -----------------------
+    "www.ansa.it": {
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/notizie", "/rubriche", "/mediterraneo"],
+        "title_min_len": 12,
+    },
+    "www.tap.info.tn": {
+        "must_href_contains": ["/en"],
+        "prefer_href_contains": ["/news", "/national", "/economy", "/world", "/culture"],
+        "title_min_len": 12,
+    },
 
-    # NGOs / Think tanks – Tunisia focus
+    # -----------------------
+    # MEDIA TUNISIA
+    # -----------------------
+    "africanmanager.com": {
+        "prefer_href_contains": ["/category/politics", "tun"],
+        "title_min_len": 12,
+    },
+    "lapresse.tn": {
+        "prefer_href_contains": ["/politique", "tunisie"],
+        "title_min_len": 16,
+    },
+
+    # -----------------------
+    # NGO
+    # -----------------------
     "www.amnesty.org": {
-        "must_href_contains": ["tunisia"], "title_min_len": 18
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/news", "/press", "/report", "/latest"],
+        "title_min_len": 14,
     },
     "www.hrw.org": {
-        "must_href_contains": ["tunisia"], "title_min_len": 18
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/news", "/report", "/press"],
+        "title_min_len": 14,
     },
     "www.icj.org": {
-        "must_href_contains": ["tunisia"], "title_min_len": 18
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/news", "/press", "/report", "/statement"],
+        "title_min_len": 14,
     },
-    "carnegie-mec.org": {"prefer_href_contains": ["/202", "/policy", "/commentary"]},
-    "carnegieendowment.org": {"must_href_contains": ["tunisia"]},
-    "www.ispionline.it": {"prefer_href_contains": ["/mediterraneo-e-mena"]},
-    "www.iai.it": {"prefer_href_contains": ["/it/", "/en/"]},
-    "www.cespi.it": {},
-    "www.limesonline.com": {},
-    "www.brookings.edu": {"prefer_href_contains": ["/topic/middle-east-north-africa"]},
-    "www.crisisgroup.org": {"prefer_href_contains": ["/north-africa"]},
-    "ecfr.eu": {"prefer_href_contains": ["/region/mena"]},
-    "www.jeuneafrique.com": {"must_href_contains": ["tunisie", "tunisia"]},
 
-    # IFIs
-    "www.worldbank.org": {"must_href_contains": ["/country/tunisia"]},
-    "www.imf.org": {"must_href_contains": ["/Countries/TUN", "/countries/tun"]},
+    # -----------------------
+    # THINK TANK / MAGAZINES
+    # -----------------------
+    "carnegie-mec.org": {
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/diwan", "/commentary", "/publication", "/article"],
+        "title_min_len": 14,
+    },
+    "carnegieendowment.org": {
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/sada", "/carnegie-mec", "/commentary", "/publication", "/article"],
+        "title_min_len": 14,
+    },
+    "www.ispionline.it": {
+        "must_href_contains": ["tunisia", "migraz"],
+        "prefer_href_contains": ["/it/analisi", "/it/pubblicazione", "/it/commento", "/it/eventi"],
+        "title_min_len": 14,
+    },
+    "www.iai.it": {
+        "must_href_contains": ["tunisia", "migraz"],
+        "prefer_href_contains": ["/it/pubblicazioni", "/en/pubblicazioni", "/it/analisi"],
+        "title_min_len": 14,
+    },
+    "www.cespi.it": {
+        "must_href_contains": ["tunisia", "migraz"],
+        "prefer_href_contains": ["/it"],
+        "title_min_len": 12,
+    },
+    "www.limesonline.com": {
+        "must_href_contains": ["tunisia"],
+        "title_min_len": 12,
+    },
+    "www.ecfr.eu": {
+        "must_href_contains": ["mena", "tunisia"],
+        "prefer_href_contains": ["/publications", "/analysis", "/commentary", "/article"],
+        "title_min_len": 14,
+    },
+    "www.brookings.edu": {
+        "must_href_contains": ["middle-east", "north-africa", "tunisia"],
+        "prefer_href_contains": ["/research", "/blog", "/article", "/report"],
+        "title_min_len": 14,
+    },
+    "www.crisisgroup.org": {
+        "must_href_contains": ["north-africa", "tunisia"],
+        "prefer_href_contains": ["/report", "/briefing", "/statement", "/update"],
+        "title_min_len": 14,
+    },
+    "www.jeuneafrique.com": {
+        "must_href_contains": ["tunisie"],
+        "prefer_href_contains": ["/politique", "/economie", "/societe"],
+        "title_min_len": 14,
+    },
+
+    # -----------------------
+    # IFI / BANCHE
+    # -----------------------
+    "www.worldbank.org": {
+        "must_href_contains": ["tunisia"],
+        "prefer_href_contains": ["/news", "/press", "/publications", "/projects", "/brief"],
+        "title_min_len": 14,
+    },
+    "www.imf.org": {
+        "must_href_contains": ["/en/"],
+        "prefer_href_contains": [
+            "/countries/tun", "/countries/tunisia",
+            "/news", "/publications", "/press"
+        ],
+        "title_min_len": 14,
+    },
 }
+
 
 # -------------------------
 # Utils
