@@ -1,6 +1,6 @@
-# Digest aggiornato: 2025-08-25 22:23:29 UTC
+# Digest aggiornato: 2025-08-26 05:17:35 UTC
 
-Daily Digest — 2025-08-25 (UTC)
+Daily Digest — 2025-08-26 (UTC)
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 - [digita...](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
 - [Amministrazione trasparente](https://www.esteri.it/it/trasparenza_comunicazioni_legali/)
@@ -182,9 +182,9 @@ Daily Digest — 2025-08-25 (UTC)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 - [A la une](https://lapresse.tn/category/la-une/)
+- [TICAD 9 : Diversification des partenariats et investissements dans les énergies renouvelables](https://lapresse.tn/2025/08/26/ticad-9-diversification-des-partenariats-et-investissements-dans-les-energies-renouvelables/)
 - [Tunisie : Vers l’ouverture de nouvelles lignes aériennes pour dynamiser le tourisme](https://lapresse.tn/2025/08/25/tunisie-vers-louverture-de-nouvelles-lignes-aeriennes-pour-dynamiser-le-tourisme/)
 - [Point de vue : Le foot des agents de joueurs](https://lapresse.tn/2025/08/25/point-de-vue-le-foot-des-agents-de-joueurs/)
-- [Ariana : un agent de l’ONAS agressé lors d’une intervention à cité Ettadhamen](https://lapresse.tn/2025/08/25/ariana-un-agent-de-lonas-agresse-lors-dune-intervention-a-cite-ettadhamen/)
 
 ## NGOs – Amnesty International – Tunisia
 - [News](https://www.amnesty.org/en/latest/news/)
