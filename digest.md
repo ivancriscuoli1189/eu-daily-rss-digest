@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 13:13 CEST*
+*Generato: 27 Aug 2025, 13:28 CEST*
 
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -30,7 +30,6 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [centrale di statistica](http://ucs.interno.gov.it)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
@@ -40,23 +39,8 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-- [Criminalità minorile](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/criminalita-minorile)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
-
-## TUNISIA ISTITUZIONI – Présidence du Gouvernement
-
-- [Résultats de l'enquête nationale relative aux entreprises et unités privatisées](https://pm.gov.tn/fr/article/resultats-de-lenquete-nationale-relative-aux-entreprises-et-unites-privatisees)
-- [PM meets with champions Hafnaoui, Belkhir](https://pm.gov.tn/en/article/pm-meets-champions-hafnaoui-belkhir)
-- [Government examines structural reforms to rescue national economy](https://pm.gov.tn/en/article/government-examines-structural-reforms-rescue-national-economy)
-- [Presidency of the Government](https://pm.gov.tn/en/article/presidency-government)
-- [CNI National Computer Center competition](https://pm.gov.tn/en/node/95)
-- [The head of government meets with representatives of civil society and the Tunisian Association of Addiction](https://pm.gov.tn/en/article/head-government-meets-representatives-civil-society-and-tunisian-association-addiction)
-- [Ministry of Education competition](https://pm.gov.tn/en/node/127)
-- [Prime Minister at the inauguration of the Alef Technology Center in Beja](https://pm.gov.tn/en/article/prime-minister-inauguration-alef-technology-center-beja)
-- [Logo attribution for organic farming products](https://pm.gov.tn/en/imprime/logo-attribution-organic-farming-products)
-- [Support program for public sector reforms](https://pm.gov.tn/en/imprime/support-program-public-sector-reforms)
-- [Ambassador of France in Tunisia](https://pm.gov.tn/en/article/ambassador-france-tunisia)
-- [Prime Minister meets with head of the National Trade Union Chamber of Real Estate Investors](https://pm.gov.tn/en/article/prime-minister-meets-head-national-trade-union-chamber-real-estate-investors)
+- [Le relazioni annuali del Commissario sull’attività svolta a sostegno delle vittime dei reati di tipo mafioso e intenzionali violenti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-sullattivita-svolta-sostegno-vittime-dei-reati-tipo-mafioso-e-intenzionali-violenti)
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
@@ -85,21 +69,6 @@
 - [قام رئيس الجمهورية قيس سعيّد بزيارة إلى المركز الوطني البيداغوجي قبل أن يتحوّل على الأقدام إلى كل من سوق العصر فمعقل الزعيم ثم إلى حي النجاح بالملّاسين](http://www.carthage.tn/ar/%D9%82%D8%A7%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%A7%D8%BA%D9%88%D8%AC%D9%8A-%D9%82%D8%A8%D9%84-%D8%A3%D9%86-%D9%8A%D8%AA%D8%AD%D9%88%D9%91%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D8%AF%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D9%83%D9%84-%D9%85%D9%86)
 - [أجرى رئيس الجمهوريّة التونسيّة قيس سعيّد عصر هذا اليوم، السادس عشر من شهر أوت الجاري، مكالمة هاتفية مع أخيه فخامة رئيس الجمهوريّة الجزائريّة الديمقراطيّة الشعبيّة السيد عبد المجيد تبون، قدّم له فيها باسمه وباسم الشّعب التونسي، أصدق عبارات التعازي وأخلص مش](http://www.carthage.tn/ar/%D8%A3%D8%AC%D8%B1%D9%89-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%8C-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%B9%D8%B4%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%A3%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A9-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A9)
 
-## UE – EUR-Lex – Homepage
-
-- [Publications Office of the European Union](http://op.europa.eu/en/home)
-- [Call us 00 800 6 7 8 9 10 11](tel:0080067891011)
-- [Use other telephone options](https://european-union.europa.eu/contact-eu/call-us_en)
-- [Write to us via our contact form](https://european-union.europa.eu/contact-eu/write-us_en)
-- [Meet us at one of the EU centres](https://european-union.europa.eu/contact-eu/meet-us_en)
-- [Council of the European Union](https://www.consilium.europa.eu/en/home/)
-- [Court of Justice of the European Union (CJEU)](https://curia.europa.eu/jcms/jcms/j_6/en/)
-- [European Central Bank (ECB)](https://www.ecb.europa.eu/home/html/index.en.html)
-- [European Court of Auditors](https://www.eca.europa.eu/en)
-- [European External Action Service (EEAS)](https://eeas.europa.eu/headquarters/headquarters-homepage_en)
-- [European Economic and Social Committee](https://www.eesc.europa.eu/?i=portal.en.home)
-- [European Committee of Regions (CoR)](https://cor.europa.eu/en/)
-
 ## UE – EP – Press Room
 
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
@@ -117,9 +86,6 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [Legislative Observatory](https://oeil.secure.europarl.europa.eu/oeil/en)
-- [Legislative priorities](https://oeil.secure.europarl.europa.eu/oeil/en/legislative-priorities)
-- [Monday 8 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250908&sessionDay.type=ALL)
 - [Tuesday 9 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250909&sessionDay.type=ALL)
 - [Wednesday 10 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250910&sessionDay.type=ALL)
 - [Thursday 11 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250911&sessionDay.type=ALL)
@@ -128,20 +94,18 @@
 
 - [News from Commission Departments](https://commission.europa.eu/news-and-media/news_en)
 
-## UE – DG NEAR – Tunisia country page
+## UE – DG NEAR – Tunisia – News
 
-- [Skip to main content](https://neighbourhood-enlargement.ec.europa.eu/tunisia_en#main-content)
-- [Aid, Development cooperation, Fundamental rights](https://commission.europa.eu/aid-development-cooperation-fundamental-rights_en)
-- [EU and Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/enhanced-eu-engagement-western-balkans_en)
-- [Growth Plan for the Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/growth-plan-western-balkans_en)
-- [Conditions for membership](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/conditions-membership_en)
-- [Steps towards joining](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/steps-towards-joining_en)
-- [Strategy and Reports](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/strategy-and-reports_en)
-- [EU support to partner countries on migration and forced displacement](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/eu-support-partner-countries-migration-and-forced-displacement_en)
-- [From 6 to 27 members](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/6-27-members_en)
-- [Instrument for Pre-accession Assistance (IPA)](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/overview-instrument-pre-accession-assistance_en)
-- [Cross Border Cooperation](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/cross-border-cooperation_en)
-- [Regional Cooperation with Eastern partners](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/regional-cooperation-eastern-partners_en)
+- [EU delivers over €4 billion to Ukraine ahead of its Independence Day](https://neighbourhood-enlargement.ec.europa.eu/news/eu-delivers-over-eu4-billion-ukraine-ahead-its-independence-day-2025-08-22_en)
+- [Enhancing Radiological Data Exchange and Strengthening Cooperation in Nuclear Safety between the EU and the Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/news/enhancing-radiological-data-exchange-and-strengthening-cooperation-nuclear-safety-between-eu-and-2025-08-20_en)
+- [Statement by President von der Leyen with President Zelenskyy following their meeting](https://neighbourhood-enlargement.ec.europa.eu/news/statement-president-von-der-leyen-president-zelenskyy-following-their-meeting-2025-08-18_en)
+- [The European Union mobilises €500 million for Ukraine’s emergency winter gas purchases](https://neighbourhood-enlargement.ec.europa.eu/news/european-union-mobilises-eu500-million-ukraines-emergency-winter-gas-purchases-2025-08-13_en)
+- [Call for Journalists from EU Member States - Press Trip to Montenegro](https://neighbourhood-enlargement.ec.europa.eu/news/call-journalists-eu-member-states-press-trip-montenegro-2025-08-12_en)
+- [Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the fifth anniversary of the fraudulent presidential elections in Belarus](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-high-representativevice-president-kallas-and-commissioner-kos-fifth-anniversary-2025-08-09_en)
+- [Joint statement by President Costa of the European Council and President von der Leyen of the European Commission on the initialling of the Armenia-Azerbaijan Peace Treaty and on the declaration between President Aliyev and PM Pashinyan in Washington DC](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-president-costa-european-council-and-president-von-der-leyen-european-commission-2025-08-08_en)
+- [EU initiative “Mayors for Economic Growth”: 10 Armenian, Moldovan and Ukrainian cities to receive funding for resilience and local economic growth](https://neighbourhood-enlargement.ec.europa.eu/news/eu-initiative-mayors-economic-growth-10-armenian-moldovan-and-ukrainian-cities-receive-funding-2025-08-07_en)
+- [Commission paves the way for Moldova to join the Creative Europe programme](https://neighbourhood-enlargement.ec.europa.eu/news/commission-paves-way-moldova-join-creative-europe-programme-2025-07-29_en)
+- [Joint Statement by Turkish Foreign Minister H.E. Hakan Fidan and EU Commissioner for Enlargement H.E. Marta Kos Following their Meeting in Istanbul](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-turkish-foreign-minister-he-hakan-fidan-and-eu-commissioner-enlargement-he-marta-kos-2025-07-28_en)
 
 ## UE – DG HOME – News
 
@@ -158,13 +122,13 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
+- [LIGUE 1 – Championnat National (4e journée) – ASM : Au moins un point !](https://lapresse.tn/2025/08/27/ligue-1-championnat-national-4e-journee-asm-au-moins-un-point/)
 - [Service militaire :  nouvelles précisions sur les reports et les exemptions](https://lapresse.tn/2025/08/27/service-militaire-nouvelles-precisions-sur-les-reports-et-les-exemptions/)
 - [Chute d’un père et de ses deux enfants dans un parc à Kélibia : ce que l’on sait sur l’accident](https://lapresse.tn/2025/08/27/chute-dun-pere-et-de-ses-deux-enfants-dans-un-parc-a-kelibia-ce-que-lon-sait-sur-laccident/)
-- [Tunis : La municipalité donne un mois aux contrevenants pour libérer la voie publique](https://lapresse.tn/2025/08/27/tunis-la-municipalite-donne-un-mois-aux-contrevenants-pour-liberer-la-voie-publique/)
 - [Retour volontaire de 268 migrants guinéens vers leur pays d’origine](https://lapresse.tn/2025/08/27/retour-volontaire-de-268-migrants-guineens-vers-leur-pays-dorigine/)
 - [Météo : chaleur intense et mer agitée sur les côtes tunisiennes](https://lapresse.tn/2025/08/27/meteo-chaleur-intense-et-mer-agitee-sur-les-cotes-tunisiennes/)
-- [Le Chef de l’Etat effectue une visite inopinée à la Goulette à 2h00 du matin : Sous un soleil de plomb le jour ou la nuit  jusqu’à l’aurore, la marche continue,  et la Tunisie est bien en marche](https://lapresse.tn/2025/08/27/le-chef-de-letat-effectue-une-visite-inopinee-a-la-goulette-a-2h00-du-matin-sous-un-soleil-de-plomb-le-jour-ou-la-nuit-jusqua-laurore-la-marche-continue-et-la-tunisie/)
 - [25 postes d’inspecteur du travail à pourvoir : le concours externe est ouvert](https://lapresse.tn/2025/08/27/25-postes-dinspecteur-du-travail-a-pourvoir-le-concours-externe-est-ouvert/)
+- [Tunis : La municipalité donne un mois aux contrevenants pour libérer la voie publique](https://lapresse.tn/2025/08/27/tunis-la-municipalite-donne-un-mois-aux-contrevenants-pour-liberer-la-voie-publique/)
 - [CNAM : changement de filière de soins 30 septembre, dernier délai](https://lapresse.tn/2025/08/27/cnam-changement-de-filiere-de-soins-30-septembre-dernier-delai/)
 - [Tunisie : Les avoirs nets en devises reculent à 24,7 milliards de dinars](https://lapresse.tn/2025/08/26/tunisie-les-avoirs-nets-en-devises-reculent-a-247-milliards-de-dinars/)
 - [Énergies renouvelables : Le secteur privé au service de l’autonomie nationale et de la performance](https://lapresse.tn/2025/08/26/energies-renouvelables-le-secteur-prive-au-service-de-lautonomie-nationale-et-de-la-performance/)
@@ -198,7 +162,7 @@
 - [Tunisia: Prospective Presidential Candidates Barred](https://www.hrw.org/news/2024/08/20/tunisia-prospective-presidential-candidates-barred)
 - [Tunisia Hollows Out its Media Landscape Ahead of Elections](https://www.hrw.org/news/2024/08/12/tunisia-hollows-out-its-media-landscape-ahead-elections)
 
-## NGOs – International Commission of Jurists – MENA
+## NGOs – International Commission of Jurists – News & Advocacy
 
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
@@ -213,33 +177,21 @@
 - [Nepal: Failure to Address the Rights of Conflict-Related Sexual Violence Survivors in Transitional Justice Process](https://www.icj.org/nepal-failure-to-address-the-rights-of-conflict-related-sexual-violence-survivors-in-transitional-justice-process/)
 - [Nepal: ICJ and partners call for action on gender and disability-based discrimination](https://www.icj.org/nepal-icj-and-partners-call-for-action-on-gender-and-disability-based-discrimination/)
 
-## THINK TANK – Carnegie MENA
-
-- [Carnegie Endowment for International PeaceWashington DC, USA](https://carnegie-mec.org/)
-- [Carnegie ChinaActivities in Singapore and Beijing, China](https://carnegie-mec.org/china)
-- [Carnegie EuropeBrussels, Belgium](https://carnegie-mec.org/europe)
-- [Carnegie IndiaNew Delhi, India](https://carnegie-mec.org/india)
-- [Carnegie Russia Eurasia CenterBerlin, Germany](https://carnegie-mec.org/russia-eurasia)
-- [Destruction, Disempowerment, and Dispossession: Disaster Capitalism and the Postwar Plans for Gaza](https://carnegie-mec.org/research/2025/07/destruction-disempowerment-and-dispossession-disaster-capitalism-and-the-postwar-plans-for-gaza?lang=en&center=middle-east)
-- [Economic Statecraft as Geopolitical Strategy: New Dimensions of Moroccan-Algerian Rivalry](https://carnegie-mec.org/research/2025/07/economic-statecraft-as-geopolitical-strategy-moroccan-algerian-rivalry?lang=en&center=middle-east)
-- [Local Governance in Post-Assad Syria: A Hybrid State Model for the Future?](https://carnegie-mec.org/research/2025/07/local-governance-in-post-assad-syria-a-hybrid-state-model-for-the-future?lang=en&center=middle-east)
-
 ## THINK TANK – ECFR – MENA
 
 - [Middle East and North Africa](https://ecfr.eu/mena/)
-- [Geoeconomics and Tech](https://ecfr.eu/geoeconomics-and-tech/)
-- [Security and defence](https://ecfr.eu/europeansecurity/)
-- [Geoeconomics and trade](https://ecfr.eu/category/geoeconomics/)
 - [Human rights and democracy](https://ecfr.eu/category/human-rights/)
 - [Technology and information](https://ecfr.eu/category/digital/)
-- [International migration](https://ecfr.eu/category/migration/)
-- [Annual Council Meeting](https://ecfr.eu/councilmeeting/)
-- [Public opinion polling](https://ecfr.eu/europeanpower/unlock/)
-- [@ecfrmena on Bluesky](https://bsky.app/profile/ecfrmena.bsky.social)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 - [Pieces in motion: Rebalancing power in a new Levantine order](https://ecfr.eu/publication/pieces-in-motion-rebalancing-power-in-a-new-levantine-order/)
+- [Anatomy of a chokepoint: Mapping power and conflict in the Red Sea](https://ecfr.eu/special/anatomy-of-a-chokepoint-mapping-power-and-conflict-in-the-red-sea/)
+- [Shifting Powers: the evolving US-China presence amid the growing role of Russia in Africa](https://ecfr.eu/rome/event/shifting-powers-the-evolving-us-china-presence-amid-the-growing-role-of-russia-in-africa/)
+- [Rome Foreign Policy Club 2025 – Come Undone: Europa e Italia tra frammentazione globale e vulnerabilità del vicinato](https://ecfr.eu/rome/event/rome-foreign-policy-club-2025-come-undone-europa-e-italia-tra-frammentazione-globale-e-vulnerabilita-del-vicinato/)
+- [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
+- [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
+- [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
 
-## THINK TANK – CESPI
+## THINK TANK – CESPI – Attualità
 
 - [Qualche considerazione sull’annuncio (si spera prematuro) del tramonto del diritto internazionale](https://www.cespi.it/it/eventi-attualita/editoriale/qualche-considerazione-sullannuncio-si-spera-prematuro-del-tramonto-del)
 - [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
@@ -247,7 +199,7 @@
 - [Avviso di apertura procedura di selezione: formatore in educazione finanziaria certificato ILO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-formatore-educazione-finanziaria)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 
-## THINK TANK – Brookings – Middle East
+## THINK TANK – Brookings – Middle East – Articles
 
 - [Only Trump can save Israel from its own government](https://foreignpolicy.com/2025/08/14/trump-save-israel-netanyahu-gaza/)
 - [Support for Israel continues to deteriorate, especially among Democrats and young people](https://www.brookings.edu/articles/support-for-israel-continues-to-deteriorate-especially-among-democrats-and-young-people/)
@@ -265,12 +217,10 @@
 - [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
 - [Noureddine Bensouda, l’ex-camarade de Mohammed VI devenu le gardien des finances publiques marocaines](https://www.jeuneafrique.com/1717271/economie-entreprises/noureddine-bensouda-lex-camarade-de-mohammed-vi-devenu-le-gardien-des-finances-publiques-marocaines/)
 
-## MAGAZINES – LIMES
+## MAGAZINES – LIMES – Mappe parlanti
 
-- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
 - [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
-- [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
 - [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
 - [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
 - [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
