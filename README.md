@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 18:50*
+*Generato: 27 Aug 2025, 19:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
+- [La Tunisie et la Corée du Sud signent pour la mise en place d’un système électronique intégré d’origine](https://lapresse.tn/2025/08/27/la-tunisie-et-la-coree-du-sud-signent-pour-la-mise-en-place-dun-systeme-electronique-integre-dorigine/)
+- [Tunisie : vers la réalisation de nouvelles stations de péage](https://lapresse.tn/2025/08/27/tunisie-nouvelles-stations-de-peage-en-cours-de-construction/)
+- [L’OTIC lance une campagne nationale contre la hausse des prix](https://lapresse.tn/2025/08/27/lotic-lance-une-campagne-nationale-contre-la-hausse-des-prix/)
 - [Météo : Orages isolés et vents forts ce soir](https://lapresse.tn/2025/08/27/meteo-orages-isoles-et-vents-forts-ce-soir/)
-- [160 000 emplois et 10 milliards de dinars : le textile tunisien maintient sa croissance malgré les défis mondiaux](https://lapresse.tn/2025/08/27/160-000-emplois-et-10-milliards-de-dinars-le-textile-tunisien-maintient-sa-croissance-malgre-les-defis-mondiaux/)
-- [Bilan des festivals d’été : L’année des retrouvailles et des révélations](https://lapresse.tn/2025/08/27/bilan-des-festivals-dete-lannee-des-retrouvailles-et-des-revelations/)
 - [Tunisie : 400 tonnes de PCB bientôt neutralisées dans un vaste projet environnemental](https://lapresse.tn/2025/08/27/tunisie-400-tonnes-de-pcb-bientot-neutralisees-dans-un-vaste-projet-environnemental/)
-- [Canicule en Tunisie : des températures record atteignent jusqu’à 45°](https://lapresse.tn/2025/08/27/canicule-en-tunisie-des-temperatures-record-atteignent-jusqua-45/)
-- [Reportage : Chine – Ningxia : La baie rouge qui irrigue les espoirs](https://lapresse.tn/2025/08/27/reportage-chine-ningxia-la-baie-rouge-qui-irrigue-les-espoirs/)
 - [A l’approche de la rentrée scolaire : Les enfants comme otages](https://lapresse.tn/2025/08/27/a-lapproche-de-la-rentree-scolaire-les-enfants-comme-otages/)
 - [Tataouine : Géoparc frappe aux portes de l’Unesco](https://lapresse.tn/2025/08/27/tataouine-geoparc-frappe-aux-portes-de-lunesco/)
 - [Pêche côtière à Skhira : un projet tuniso-italien de 25 millions pour booster le port](https://lapresse.tn/2025/08/27/peche-cotiere-a-skhira-un-projet-tuniso-italien-de-25-millions-pour-booster-le-port/)
+- [Pourquoi : Le prix du zgougou…](https://lapresse.tn/2025/08/27/pourquoi-le-prix-du-zgougou/)
 
 ## NGOs – Amnesty International – Tunisia
 
