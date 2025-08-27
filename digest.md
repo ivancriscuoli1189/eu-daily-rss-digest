@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 13:39 CEST*
+*Generato: 27 Aug 2025, 15:24 CEST*
 
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -103,16 +103,13 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [LIGUE 1 – Championnat National (4e journée) – ASM : Au moins un point !](https://lapresse.tn/2025/08/27/ligue-1-championnat-national-4e-journee-asm-au-moins-un-point/)
-- [Service militaire :  nouvelles précisions sur les reports et les exemptions](https://lapresse.tn/2025/08/27/service-militaire-nouvelles-precisions-sur-les-reports-et-les-exemptions/)
-- [Chute d’un père et de ses deux enfants dans un parc à Kélibia : ce que l’on sait sur l’accident](https://lapresse.tn/2025/08/27/chute-dun-pere-et-de-ses-deux-enfants-dans-un-parc-a-kelibia-ce-que-lon-sait-sur-laccident/)
-- [Retour volontaire de 268 migrants guinéens vers leur pays d’origine](https://lapresse.tn/2025/08/27/retour-volontaire-de-268-migrants-guineens-vers-leur-pays-dorigine/)
-- [Météo : chaleur intense et mer agitée sur les côtes tunisiennes](https://lapresse.tn/2025/08/27/meteo-chaleur-intense-et-mer-agitee-sur-les-cotes-tunisiennes/)
+- [LIGUE 1 – Championnat National (4e journée) – CA : Des changements inévitables](https://lapresse.tn/2025/08/27/ligue-1-championnat-national-4e-journee-ca-des-changements-inevitables/)
+- [Oussama Sahnoun exige l’adoption du plan de développement avant le budget](https://lapresse.tn/2025/08/27/oussama-sahnoun-exige-ladoption-du-plan-de-developpement-avant-le-budget/)
+- [Sidi Bou Saïd : le port de plaisance bientôt rénové](https://lapresse.tn/2025/08/27/sidi-bou-said-le-port-de-plaisance-bientot-renove/)
+- [Ministère des Domaines de l’État : Cession de plus de 5 hectares de terres domaniales au profit de la « SNIT »](https://lapresse.tn/2025/08/27/ministere-des-domaines-de-letat-cession-de-plus-de-5-hectares-de-terres-domaniales-au-profit-de-la-snit/)
+- [Etablissements scolaires : des projets d’extension pour un coût s’élevant à 100 millions de dinars](https://lapresse.tn/2025/08/27/etablissements-scolaires-des-projets-dextension-pour-un-cout-selevant-a-100-millions-de-dinars/)
+- [Pharmacies privées-CNAM au bord de la crise : 200 millions de dinars d’impayés](https://lapresse.tn/2025/08/27/pharmacies-privees-cnam-au-bord-de-la-crise-200-millions-de-dinars-dimpayes/)
 - [25 postes d’inspecteur du travail à pourvoir : le concours externe est ouvert](https://lapresse.tn/2025/08/27/25-postes-dinspecteur-du-travail-a-pourvoir-le-concours-externe-est-ouvert/)
-- [Tunis : La municipalité donne un mois aux contrevenants pour libérer la voie publique](https://lapresse.tn/2025/08/27/tunis-la-municipalite-donne-un-mois-aux-contrevenants-pour-liberer-la-voie-publique/)
-- [CNAM : changement de filière de soins 30 septembre, dernier délai](https://lapresse.tn/2025/08/27/cnam-changement-de-filiere-de-soins-30-septembre-dernier-delai/)
-- [Tunisie : Les avoirs nets en devises reculent à 24,7 milliards de dinars](https://lapresse.tn/2025/08/26/tunisie-les-avoirs-nets-en-devises-reculent-a-247-milliards-de-dinars/)
-- [Énergies renouvelables : Le secteur privé au service de l’autonomie nationale et de la performance](https://lapresse.tn/2025/08/26/energies-renouvelables-le-secteur-prive-au-service-de-lautonomie-nationale-et-de-la-performance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -193,7 +190,7 @@
 - [Commerce informel, préférence nationale et rejet des étrangers : le pari risqué d’Oligui Nguema](https://www.jeuneafrique.com/1716295/politique/commerce-informel-preference-nationale-et-rejet-des-etrangers-le-pari-risque-doligui-nguema/)
 - [En Côte d’Ivoire, une attaque à la frontière avec le Burkina Faso fait quatre morts](https://www.jeuneafrique.com/1716997/politique/en-cote-divoire-une-attaque-a-la-frontiere-avec-le-burkina-faso-fait-quatre-morts/)
 - [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
-- [En RDC, le verdict dans le procès de Constant Mutamba est reporté](https://www.jeuneafrique.com/1717268/politique/en-rdc-le-verdict-dans-le-proces-de-constant-mutamba-est-reporte/)
+- [Présidentielle en Côte d’Ivoire : 60 candidatures déposées, dont celles de Ouattara, Thiam et des Gbagbo](https://www.jeuneafrique.com/1717300/politique/presidentielle-en-cote-divoire-une-cinquantaine-de-candidatures-deposees-dont-celles-de-ouattara-thiam-et-des-gbagbo/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
