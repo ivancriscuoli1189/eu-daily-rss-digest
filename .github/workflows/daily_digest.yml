@@ -1,0 +1,69 @@
+name: Daily RSS Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      force_now:
+        description: "Run immediately (ignore Europe/Rome schedule)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "0 * * * *"  # trigger ogni ora (UTC). Filtriamo poi sugli orari Europe/Rome.
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-rss-digest
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Gate by Europe/Rome time
+        id: gate
+        run: |
+          if [ "${{ inputs.force_now }}" = "true" ]; then
+            echo "should_run=true" >> $GITHUB_OUTPUT
+            echo "rome_hour=FORCED" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          HOUR=$(TZ=Europe/Rome date +%H)
+          case $HOUR in
+            00|06|09|11|12|13|15|18|21) echo "should_run=true" >> $GITHUB_OUTPUT ;;
+            *) echo "should_run=false" >> $GITHUB_OUTPUT ;;
+          esac
+          echo "rome_hour=$HOUR" >> $GITHUB_OUTPUT
+
+      - name: Checkout
+        if: steps.gate.outputs.should_run == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        if: steps.gate.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install deps
+        if: steps.gate.outputs.should_run == 'true'
+        run: pip install -r requirements.txt
+
+      - name: Build digest
+        if: steps.gate.outputs.should_run == 'true'
+        run: python make_digest.py
+
+      - name: Commit digest
+        if: steps.gate.outputs.should_run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add digest.md
+          git commit -m "Update digest.md [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Skipped (out of schedule)
+        if: steps.gate.outputs.should_run != 'true'
+        run: echo "Skipped at rome_hour=${{ steps.gate.outputs.rome_hour }} (Europe/Rome)"
