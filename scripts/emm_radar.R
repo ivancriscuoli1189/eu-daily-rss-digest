@@ -1,146 +1,81 @@
 # scripts/emm_radar.R
-# EMM Radar (multi-lingua) per Tunisia/area MENA
-# - usa quotefinder::qf_get_emm_newsbrief() se disponibile
-# - filtra per parole chiave Tunisia/Tunis/TN (configurabile via env)
-# - salva JSON in data/emm_radar.json e un box Markdown in .cache/emm_radar.md
-
 suppressPackageStartupMessages({
-  library(jsonlite)
+  library(httr2)
+  library(xml2)
+  library(rvest)
   library(dplyr)
   library(stringr)
   library(purrr)
-  library(lubridate)
-  library(tidyr)
+  library(tibble)
+  library(jsonlite)
 })
 
-# Carico quotefinder solo se presente (viene installato dal workflow CI)
-has_qf <- requireNamespace("quotefinder", quietly = TRUE)
+# --- Parametri da env con fallback sensati ---
+urls_raw   <- Sys.getenv("EMM_URLS",
+  "https://emm.newsbrief.eu/NewsBrief/countryedition/it/TN.html,https://emm.newsbrief.eu/NewsBrief/countryedition/it/IT.html"
+)
+urls       <- strsplit(urls_raw, ",")[[1]] |> trimws()
+out_path   <- Sys.getenv("EMM_OUTPUT", "data/sources/emm_radar.json")
+max_items  <- as.integer(Sys.getenv("EMM_MAX_ITEMS", "40"))
+if (is.na(max_items) || max_items < 1) max_items <- 40
 
-# --------- Parametri via env (con default sicuri) ----------
-get_env <- function(name, default) {
-  val <- Sys.getenv(name, unset = "")
-  if (identical(val, "")) default else val
-}
+dir.create(dirname(out_path), recursive = TRUE, showWarnings = FALSE)
 
-RADAR_HOURS   <- as.numeric(get_env("RADAR_HOURS", "6"))          # finestra temporale
-RADAR_LANGS   <- strsplit(get_env("RADAR_LANGS", "en,fr,it"), ",")[[1]] |> trimws()
-RADAR_MAX     <- as.integer(get_env("RADAR_MAX", "25"))           # massimo elementi
-RADAR_QUERY   <- get_env("RADAR_QUERY", "Tunisia|Tunisie|Tunis\\b|\\bTN\\b")
-RADAR_SECTION <- get_env("RADAR_SECTION_TITLE", "EMM Radar – Tunisia (ultime ore)")
+ua <- "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) EMMRadar/1.0 Safari/537.36"
 
-# --------- Helper robusti ----------
-coalesce_col <- function(df, candidates, to = NULL) {
-  for (nm in candidates) if (nm %in% names(df)) return(df[[nm]])
-  if (is.null(to)) return(rep(NA, nrow(df))) else return(rep(to, nrow(df)))
-}
+fetch_one <- function(u) {
+  message("Fetching: ", u)
+  req <- request(u) |>
+    req_user_agent(ua) |>
+    req_timeout(30) |>
+    req_headers(`Accept-Language` = "it,en;q=0.8")
 
-normalise_news <- function(df) {
-  if (is.null(df) || nrow(df) == 0) return(tibble::tibble())
-  # flessibile ai nomi colonne di qf_get_emm_newsbrief (o futuri)
-  title   <- coalesce_col(df, c("title", "headline"))
-  link    <- coalesce_col(df, c("url", "link"))
-  source  <- coalesce_col(df, c("source", "publisher", "outlet"))
-  lang    <- coalesce_col(df, c("language", "lang"))
-  # data/ora (varianti possibili)
-  dt_raw  <- coalesce_col(df, c("date", "datetime", "time", "pubdate", "published"))
-  # prova a parsare le date in UTC
-  dt <- suppressWarnings({
-    if (inherits(dt_raw, "POSIXt")) dt_raw else
-      if (inherits(dt_raw, "Date")) as.POSIXct(dt_raw) else
-        parse_date_time(dt_raw, orders = c(
-          "Ymd HMS", "Y-m-d H:M:S", "Ymd HM", "Y-m-d H:M",
-          "Ymd", "Y-m-d", "d b Y H:M", "d b Y"
-        ), tz = "UTC")
-  })
-  tibble::tibble(
-    title = as.character(title),
-    link  = as.character(link),
-    source = as.character(source),
-    language = as.character(lang),
-    date = as.POSIXct(dt, tz = "UTC")
-  )
-}
+  resp <- tryCatch(req_perform(req), error = function(e) NULL)
+  if (is.null(resp)) return(tibble())
 
-write_outputs <- function(items_tbl) {
-  dir.create("data", showWarnings = FALSE, recursive = TRUE)
-  dir.create(".cache", showWarnings = FALSE, recursive = TRUE)
+  html <- tryCatch(read_html(resp_body_string(resp)), error = function(e) NULL)
+  if (is.null(html)) return(tibble())
 
-  meta <- list(
-    generated_at = format(Sys.time(), "%Y-%m-%dT%H:%M:%SZ", tz = "UTC"),
-    hours = RADAR_HOURS,
-    langs = RADAR_LANGS
-  )
+  # Ancore candidate: link esterni alle fonti (non EMM), con testo “abbastanza lungo”
+  anchors <- html |>
+    html_elements("a[target='_blank'][href^='http'], a[href^='http']")
 
-  # JSON
-  items_json <- purrr::pmap(items_tbl, function(title, link, source, language, date) {
-    list(
-      title = title,
-      link = link,
-      source = source,
-      language = language,
-      date = if (!is.na(date)) format(date, "%Y-%m-%dT%H:%M:%SZ", tz = "UTC") else NA
-    )
-  })
+  titles <- anchors |> html_text2() |> str_squish()
+  hrefs  <- anchors |> html_attr("href")
 
-  jsonlite::write_json(
-    list(meta = meta, items = items_json),
-    "data/emm_radar.json",
-    pretty = TRUE, auto_unbox = TRUE
-  )
-
-  # Markdown (box per il digest)
-  if (nrow(items_tbl) > 0) {
-    lines <- paste0(
-      "- [", items_tbl$title, "](", items_tbl$link, ") — ",
-      items_tbl$source %||% "sconosciuta",
-      ifelse(is.na(items_tbl$date), "", paste0(" (", format(items_tbl$date, "%d %b %H:%M", tz = "UTC"), " UTC)"))
-    )
-    md <- c(paste0("### ", RADAR_SECTION), "", lines, "")
-  } else {
-    md <- c(paste0("### ", RADAR_SECTION), "", "_Nessun aggiornamento nelle ultime ore._", "")
-  }
-  writeLines(md, ".cache/emm_radar.md")
-}
-
-`%||%` <- function(a, b) if (is.null(a) || length(a) == 0) b else a
-
-# --------- 1) Tentativo principale: quotefinder ---------
-df <- NULL
-if (has_qf) {
-  message("Using quotefinder::qf_get_emm_newsbrief()")
-  df <- tryCatch(
-    {
-      # NB: la funzione accetta un vettore di codici lingua ISO 2
-      qf <- quotefinder::qf_get_emm_newsbrief(langs = RADAR_LANGS, hours = RADAR_HOURS)
-      as.data.frame(qf)
-    },
-    error = function(e) {
-      message("quotefinder failed: ", conditionMessage(e))
-      NULL
-    }
-  )
-} else {
-  message("Package 'quotefinder' non disponibile: salto al fallback (nessuno scraping a runtime).")
-}
-
-news <- normalise_news(df)
-
-# --------- Filtro Tunisia / regex personalizzabile ----------
-if (nrow(news) > 0) {
-  news <- news |>
+  df <- tibble(title = titles, url = hrefs) |>
     filter(
-      str_detect(
-        paste(title, collapse = " "),
-        regex(RADAR_QUERY, ignore_case = TRUE)
-      )
+      str_detect(url, "^https?://"),
+      !str_detect(url, "emm\\.newsbrief\\.eu"),
+      nchar(title) >= 35
     ) |>
-    arrange(desc(coalesce(date, as.POSIXct(0, origin = "1970-01-01", tz = "UTC")))) |>
-    distinct(link, .keep_all = TRUE) |>
-    slice_head(n = RADAR_MAX)
+    distinct(url, .keep_all = TRUE) |>
+    mutate(
+      source = str_remove(str_extract(url, "^https?://([^/]+)"), "^https?://"),
+      page   = u
+    )
+
+  if (nrow(df) == 0) return(tibble())
+  df
 }
 
-# --------- Uscite ----------
-write_outputs(news)
+items <- urls |>
+  map(fetch_one) |>
+  list_rbind() |>
+  slice_head(n = max_items)
 
-message(sprintf("Radar prodotto: %d elementi (finestra: %sh, lingue: %s)",
-                nrow(news), RADAR_HOURS, paste(RADAR_LANGS, collapse = ",")))
+payload <- list(
+  generated_at = format(Sys.time(), "%Y-%m-%dT%H:%M:%SZ", tz = "UTC"),
+  pages = urls,
+  items = items |>
+    transmute(
+      title = title,
+      source = source,
+      url = url,
+      page = page
+    )
+)
+
+write_json(payload, out_path, auto_unbox = TRUE, pretty = TRUE)
+message("Wrote: ", out_path, " (", nrow(items), " items)")
+
