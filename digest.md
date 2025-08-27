@@ -1,11 +1,10 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 12:35 CEST*
+*Generato: 27 Aug 2025, 13:13 CEST*
 
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
-- [Salta al contenuto](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/#primary)
 - [Seguiti telefonata dei Ministri degli Esteri di Italia, Usa, Regno Unito, Francia, Germania, Finlandia, Polonia, Ucraina e Alto rappresentante UE. Sostegno a Unifil in Libano](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/seguiti-telefonata-dei-ministri-degli-esteri-di-italia-usa-regno-unito-francia-germania-finlandia-polonia-ucraina-e-alto-rappresentante-ue-sostegno-a-unifil-in-libano/)
 - [Telefonata dei Ministri degli Esteri di Italia, Usa, Regno Unito, Francia, Germania, Finlandia, Polonia, Ucraina e Alto Rappresentante Ue](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/telefonata-dei-ministri-degli-esteri-di-italia-usa-regno-unito-francia-germania-finlandia-polonia-ucraina-e-alto-rappresentante-ue/)
 - [Udienza del Ministro Tajani presso il Santo Padre Leone XIV. Discusso il Vertice sull’Italofonia: una lingua di pace e valori condivisi](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/udienza-del-ministro-tajani-presso-il-santo-padre-leone-xiv-discusso-il-vertice-sullitalofonia-una-lingua-di-pace-e-valori-condivisi/)
@@ -15,314 +14,181 @@
 - [Tajani al telefono con Ministri Esteri di Francia e Germania per Ucraina e Gaza](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/tajani-al-telefono-con-ministri-esteri-di-francia-e-germania-per-ucraina-e-gaza/)
 - [Il Ministro Tajani domani al Meeting di Rimini](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/il-ministro-tajani-domani-al-meeting-di-rimini/)
 - [Farnesina segue il recupero del corpo dello scalatore Luca Sinigaglia](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/farnesina-segue-il-recupero-del-corpo-dello-scalatore-luca-sinigaglia/)
-
-## ITALIA ISTITUZIONI – MAECI Tunisia
-
-- _(nessun elemento) — HTTP 404_
+- [Dichiarazione dei Ministri degli Esteri di Italia, Unione Europea e altri Paesi su nuovi insediamenti israeliani](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2025/08/dichiarazione-dei-ministri-degli-esteri-di-italia-unione-europea-e-altri-paesi-su-nuovi-insediamenti-israeliani/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
-- [Vai al Contenuto](https://www.governo.it/it/archivio-riunioni#main)
-- [Raggiungi il piè di pagina](https://www.governo.it/it/archivio-riunioni#footer)
-- [Settimana Corrente](https://www.governo.it/it/archivio-riunioni?dataInizio=2025-08-25 00:00:00&dataFine=2025-08-31 23:59:59)
-- [Settimana Scorsa](https://www.governo.it/it/archivio-riunioni?dataInizio=2025-08-18 00:00:00&dataFine=2025-08-24 23:59:59)
-- [Mese Corrente](https://www.governo.it/it/archivio-riunioni?dataInizio=2025-08-01 00:00:00&dataFine=2025-08-31 23:59:59)
-- [Anno Corrente](https://www.governo.it/it/archivio-riunioni?dataInizio=2025-01-01 00:00:00&dataFine=2025-12-31 23:59:59)
+- [Comunicato stampa del Consiglio dei Ministri n.138](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n138/29421)
+- [Comunicato stampa del Consiglio dei Ministri n. 137](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-137/29372)
+- [Comunicato stampa del Consiglio dei Ministri n. 136](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-136/29330)
+- [Comunicato stampa del Consiglio dei Ministri n. 135](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-135/29295)
+- [Comunicato stampa del Consiglio dei Ministri n. 134](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-134/29240)
+- [Comunicato stampa del Consiglio dei Ministri n. 133](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-133/29131)
+- [Comunicato stampa del Consiglio dei Ministri n. 132](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-132/29059)
+- [Comunicato stampa del Consiglio dei Ministri n. 131](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-131/28980)
+- [Comunicato stampa del Consiglio dei Ministri n. 130](https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-130/28909)
 
-## ITALIA ISTITUZIONI – AICS – Comunicati stampa
+## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Passa al contenuto principale](https://www.aics.gov.it/comunicati-stampa/#content)
-- [Vai a piè di pagina](https://www.aics.gov.it/comunicati-stampa/#colophon)
-- [Ministero degli Affari Esteri e della Cooperazione Internazionale](https://www.aics.gov.it/comunicati-stampa/#accessoryNavigationMenu)
-- [Amministrazione trasparente](https://trasparenza.aics.gov.it/)
-- [Codice etico e di comportamento](https://www.aics.gov.it/codice-etico-e-di-comportamento/)
-- [Profilo e obiettivi](https://www.aics.gov.it/aics/profilo-e-obiettivi/)
-- [Efficacia e Valutazione](https://www.aics.gov.it/settori-di-intervento/efficacia-e-valutazione-delle-iniziative-di-cooperazione/)
-- [Partners e convenzioni](https://www.aics.gov.it/aics/partners-e-convenzioni/)
-- [Comitato Unico di Garanzia](https://www.aics.gov.it/aics/comitato-unico-di-garanzia/)
-- [Consigliera di Fiducia](https://www.aics.gov.it/codice-etico-e-di-comportamento/consigliera-di-fiducia/)
+- [centrale di statistica](http://ucs.interno.gov.it)
+- [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
+- [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
+- [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
+- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
+- [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
+- [Tratta degli esseri umani in Italia](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/tratta-esseri-umani-italia)
+- [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
+- [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
+- [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+- [Criminalità minorile](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/criminalita-minorile)
+- [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 
-## ITALIA ISTITUZIONI – Viminale – Sbarchi: dati e statistiche
+## TUNISIA ISTITUZIONI – Présidence du Gouvernement
 
-- [Dati e statistiche](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche)
-- [Uffici di diretta collaborazione](https://www.interno.gov.it/it/ministero/uffici-diretta-collaborazione)
-- [Agenzia nazionale beni sequestrati e confiscati alla criminalità](https://www.interno.gov.it/it/ministero/agenzia-nazionale-lamministrazione-e-destinazione-dei-beni-sequestrati-e-confiscati-alla-criminalita)
-- [Autorità di gestione servizi di cura infanzia e anziani non autosufficienti](https://www.interno.gov.it/it/ministero/autorita-gestione-dei-servizi-cura-allinfanzia-e-anziani-non-autosufficienti)
-- [Struttura per la prevenzione antimafia](https://www.interno.gov.it/it/ministero/struttura-prevenzione-antimafia)
-- [Uffici sul territorio](https://www.interno.gov.it/it/ministero/uffici-territorio)
-- [Osservatori, commissioni e centri di coordinamento](https://www.interno.gov.it/it/ministero/osservatori-commissioni-e-centri-coordinamento)
-- [Istituti di formazione](https://www.interno.gov.it/it/ministero/istituti-formazione)
-- [Immigrazione e asilo](https://www.interno.gov.it/it/temi/immigrazione-e-asilo)
-- [Cittadinanza e altri diritti civili](https://www.interno.gov.it/it/temi/cittadinanza-e-altri-diritti-civili)
-
-## TUNISIA ISTITUZIONI – Tunisia – Présidence du Gouvernement
-
-- [Establishments under supervision](https://pm.gov.tn/en/administrations)
-- [Members of the Government](https://pm.gov.tn/en/membres-du-gouvernement)
-- [Government Decisions](https://pm.gov.tn/en/decision-gouvernementale)
-- [Cahier des charges](https://pm.gov.tn/en/cahier-de-charge)
-- [Responsible for access to information](https://pm.gov.tn/en/responsable-de-lacces-linformation)
-- [Grief auprès du Chef de Structure](https://pm.gov.tn/en/node/21)
-- [Télécharger les formulaires](https://pm.gov.tn/en/node/681)
-- [Write to the President of the Government](https://pm.gov.tn/en/ecrire-au-president-du-gouvernant)
-- [Tourisme en Tunisie](https://pm.gov.tn/fr/article/tourisme-en-tunisie)
 - [Résultats de l'enquête nationale relative aux entreprises et unités privatisées](https://pm.gov.tn/fr/article/resultats-de-lenquete-nationale-relative-aux-entreprises-et-unites-privatisees)
+- [PM meets with champions Hafnaoui, Belkhir](https://pm.gov.tn/en/article/pm-meets-champions-hafnaoui-belkhir)
+- [Government examines structural reforms to rescue national economy](https://pm.gov.tn/en/article/government-examines-structural-reforms-rescue-national-economy)
+- [Presidency of the Government](https://pm.gov.tn/en/article/presidency-government)
+- [CNI National Computer Center competition](https://pm.gov.tn/en/node/95)
+- [The head of government meets with representatives of civil society and the Tunisian Association of Addiction](https://pm.gov.tn/en/article/head-government-meets-representatives-civil-society-and-tunisian-association-addiction)
+- [Ministry of Education competition](https://pm.gov.tn/en/node/127)
+- [Prime Minister at the inauguration of the Alef Technology Center in Beja](https://pm.gov.tn/en/article/prime-minister-inauguration-alef-technology-center-beja)
+- [Logo attribution for organic farming products](https://pm.gov.tn/en/imprime/logo-attribution-organic-farming-products)
+- [Support program for public sector reforms](https://pm.gov.tn/en/imprime/support-program-public-sector-reforms)
+- [Ambassador of France in Tunisia](https://pm.gov.tn/en/article/ambassador-france-tunisia)
+- [Prime Minister meets with head of the National Trade Union Chamber of Real Estate Investors](https://pm.gov.tn/en/article/prime-minister-meets-head-national-trade-union-chamber-real-estate-investors)
 
-## TUNISIA ISTITUZIONI – Tunisia – Ministry of Foreign Affairs
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- _(nessun elemento) — Request error: HTTPSConnectionPool(host='www.diplomatie.gov.tn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))_
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
+- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
+- [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
+- [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
+- [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
+- [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
+- [La croissance économique au premier trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-premier-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
 
-## TUNISIA ISTITUZIONI – INS – Institut National de la Statistique
+## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
-- [Statistiques par thèmes](https://www.ins.tn/statistiques/45)
-- [Commerce extérieur](http://apps.ins.tn/comex/fr/index.php)
-- [Analyse de Données](http://dataportal.ins.tn/fr/DataAnalysis)
-- [Requête de données](http://dataportal.ins.tn/fr/DataQuery)
-- [Centre de Ressources](http://dataportal.ins.tn/fr/ResourceCenter)
-
-## TUNISIA ISTITUZIONI – Ministère de l’Intérieur (Tunisia)
-
-- _(nessun elemento) — Request error: HTTPSConnectionPool(host='www.interieur.gov.tn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))_
-
-## TUNISIA ISTITUZIONI – Presidenza Tunisia
-
-- [المجلس الاعلى للجيوش](http://www.carthage.tn/ar/%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3_%D8%A7%D9%84%D8%A7%D8%B9%D9%84%D9%89_%D9%84%D9%84%D8%AC%D9%8A%D9%88%D8%B4)
-- [الديوان الرئاسي](http://www.carthage.tn/ar/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A)
-- [المؤسسات تحت الإشراف](http://www.carthage.tn/ar/%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%AA%D8%AD%D8%AA-%D8%A7%D9%84%D8%A5%D8%B4%D8%B1%D8%A7%D9%81)
-- [النصوص التشريعية والترتيبية](http://www.carthage.tn/ar/%D8%A7%D9%84%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A)
-- [المستجدات القانونية](http://www.carthage.tn/ar/%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%AF_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-2)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-17)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86)
+- [لقاء رئيس الجمهورية قيس سعيّد مع فخامة الرئيس محمد يونس المنفي رئيس المجلس الرئاسي الليبي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-16)
+- [بمناسبة الإحتفال بعيد المرأة و الذّكري التّاسعة و السّتين لصدور مجلة الأحوال الشخصيّة تحوّل رئيس الجمهوريّة قيس سعيّد إلى معتمديّة سجنان من ولاية بنزرت](http://www.carthage.tn/ar/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88-%D8%A7%D9%84%D8%B0%D9%91%D9%83%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D8%A7%D8%B3%D8%B9%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%91%D8%AA%D9%8A%D9%86-%D9%84%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%91%D8%A9-%D8%AA%D8%AD%D9%88%D9%91%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3)
+- [قام رئيس الجمهورية قيس سعيّد عصر هذا اليوم، الحادي عشر من شهر أوت الجاري، بزيارة غير معلنة للمبنى الذي سيكون مقرّا للمجلس الأعلى للتربية والتعليم](http://www.carthage.tn/ar/%D9%82%D8%A7%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%8C-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A-%D8%B9%D8%B4%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%A3%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A8%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%A8%D9%86%D9%89)
+- [لقاء رئيس الجمهورية قيس سعيّد مع الأمين العام لاتحاد المحامين العرب النقيب المكّاوي بنعيسى والأستاذ عبد الحليم علام رئيس اتحاد المحامين العرب](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%83%D9%91%D8%A7%D9%88%D9%8A-%D8%A8%D9%86%D8%B9%D9%8A%D8%B3%D9%89-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0)
+- [لقاء رئيس الجمهورية قيس سعيّد مع البطل التونسي أحمد الجوادي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%AF%D9%8A)
+- [قام رئيس الجمهورية قيس سعيّد بزيارة إلى المركز الوطني البيداغوجي قبل أن يتحوّل على الأقدام إلى كل من سوق العصر فمعقل الزعيم ثم إلى حي النجاح بالملّاسين](http://www.carthage.tn/ar/%D9%82%D8%A7%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%A7%D8%BA%D9%88%D8%AC%D9%8A-%D9%82%D8%A8%D9%84-%D8%A3%D9%86-%D9%8A%D8%AA%D8%AD%D9%88%D9%91%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D9%82%D8%AF%D8%A7%D9%85-%D8%A5%D9%84%D9%89-%D9%83%D9%84-%D9%85%D9%86)
 - [أجرى رئيس الجمهوريّة التونسيّة قيس سعيّد عصر هذا اليوم، السادس عشر من شهر أوت الجاري، مكالمة هاتفية مع أخيه فخامة رئيس الجمهوريّة الجزائريّة الديمقراطيّة الشعبيّة السيد عبد المجيد تبون، قدّم له فيها باسمه وباسم الشّعب التونسي، أصدق عبارات التعازي وأخلص مش](http://www.carthage.tn/ar/%D8%A3%D8%AC%D8%B1%D9%89-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%8C-%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3-%D8%B9%D8%B4%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%A3%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A9-%D9%87%D8%A7%D8%AA%D9%81%D9%8A%D8%A9)
-- [في إطار العلاقات الأخوية العريقة بين الشعبين الشقيقين التونسي والليبي، يُؤدّي فخامة السيد محمد يونس المنفي، رئيس المجلس الرئاسي الليبي، زيارة عمل إلى تونس اليوم الثامن عشر من شهر أوت الجاري.](http://www.carthage.tn/ar/%D9%81%D9%8A-%D8%A5%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D9%8A%D9%82%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%88%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A%D8%8C-%D9%8A%D9%8F%D8%A4%D8%AF%D9%91%D9%8A-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3)
-- [النصوص التشريعية والترتيبية](http://www.carthage.tn/الإطار-الدستوري)
-- [المستجدات القانونية](http://www.carthage.tn/الرائد_الرسمي)
 
-## UE - INTERNAZIONALI ISTITUZIONI – EUR-Lex (search queries)
+## UE – EUR-Lex – Homepage
 
-- [bg Достъп до правото на Европейския съюз](https://eur-lex.europa.eu/homepage.html?locale=bg)
-- [es El acceso al Derecho de la Unión Europea](https://eur-lex.europa.eu/homepage.html?locale=es)
-- [cs Přístup k právu Evropské unie](https://eur-lex.europa.eu/homepage.html?locale=cs)
-- [da Adgang til EU-lovgivningen](https://eur-lex.europa.eu/homepage.html?locale=da)
-- [de Der Zugang zum EU-Recht](https://eur-lex.europa.eu/homepage.html?locale=de)
-- [et Juurdepääs Euroopa Liidu õigusaktidele](https://eur-lex.europa.eu/homepage.html?locale=et)
-- [el Πρόσβαση στο δίκαιο της Ευρωπαϊκής Ένωσης](https://eur-lex.europa.eu/homepage.html?locale=el)
-- [en Access to European Union law](https://eur-lex.europa.eu/homepage.html?locale=en)
-- [fr Accès au droit de l'Union européenne](https://eur-lex.europa.eu/homepage.html?locale=fr)
-- [ga Rochtain ar dhlí an Aontais Eorpaigh](https://eur-lex.europa.eu/homepage.html?locale=ga)
+- [Publications Office of the European Union](http://op.europa.eu/en/home)
+- [Call us 00 800 6 7 8 9 10 11](tel:0080067891011)
+- [Use other telephone options](https://european-union.europa.eu/contact-eu/call-us_en)
+- [Write to us via our contact form](https://european-union.europa.eu/contact-eu/write-us_en)
+- [Meet us at one of the EU centres](https://european-union.europa.eu/contact-eu/meet-us_en)
+- [Council of the European Union](https://www.consilium.europa.eu/en/home/)
+- [Court of Justice of the European Union (CJEU)](https://curia.europa.eu/jcms/jcms/j_6/en/)
+- [European Central Bank (ECB)](https://www.ecb.europa.eu/home/html/index.en.html)
+- [European Court of Auditors](https://www.eca.europa.eu/en)
+- [European External Action Service (EEAS)](https://eeas.europa.eu/headquarters/headquarters-homepage_en)
+- [European Economic and Social Committee](https://www.eesc.europa.eu/?i=portal.en.home)
+- [European Committee of Regions (CoR)](https://cor.europa.eu/en/)
 
-## UE - INTERNAZIONALI ISTITUZIONI – EP Legislative Observatory (OEIL)
+## UE – EP – Press Room
 
-- [Access to page content (press "Enter")](https://oeil.secure.europarl.europa.eu/#website-body)
-- [Direct access to language menu (press "Enter")](https://oeil.secure.europarl.europa.eu/#languageSelectorDropdownButton)
-- [Direct access to search menu (press "Enter")](https://oeil.secure.europarl.europa.eu/#mainSearch)
-- [Secretariat-general](https://www.europarl.europa.eu/the-secretary-general/en)
-- [Legislative train](https://www.europarl.europa.eu/legislative-train)
-- [Contracts and Grants](https://www.europarl.europa.eu/contracts-and-grants/en/)
-- [European Parliament](https://www.europarl.europa.eu)
+- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
+- [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
+- [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
+- [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
+- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
+- [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
+- [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
+- [Press conference on the MFF with MEPs Mureşan and Tavares on Tuesday, 15 July](https://www.europarl.europa.eu/news/en/press-room/20250711IPR29612/press-conference-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-15-july)
+- [Human rights violations in Dubai, Central African Republic and Syria](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29457/human-rights-violations-in-dubai-central-african-republic-and-syria)
+- [Commission must tackle China’s export restrictions on rare earth elements](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29456/commission-must-tackle-china-s-export-restrictions-on-rare-earth-elements)
+- [MEPs reject motion of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29455/meps-reject-motion-of-censure-against-the-european-commission)
+- [107th Rose-Roth Seminar: spotlight on security and defence challenges](https://www.europarl.europa.eu/news/en/press-room/20250710IPR29588/107th-rose-roth-seminar-spotlight-on-security-and-defence-challenges)
+
+## UE – EP – OEIL (Osservatorio Legislativo)
+
+- [Legislative Observatory](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [Legislative priorities](https://oeil.secure.europarl.europa.eu/oeil/en/legislative-priorities)
-- [Ordinary legislative procedure](https://www.europarl.europa.eu/olp/en/home)
-- [Delegated acts register](https://webgate.ec.europa.eu/regdel/#/home)
+- [Monday 8 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250908&sessionDay.type=ALL)
+- [Tuesday 9 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250909&sessionDay.type=ALL)
+- [Wednesday 10 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250910&sessionDay.type=ALL)
+- [Thursday 11 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250911&sessionDay.type=ALL)
 
-## UE - INTERNAZIONALI ISTITUZIONI – European Commission – Press corner
+## UE – Commission – News & media hub
 
-- _(nessun elemento) — nessuna novità rilevante o pagina non leggibile_
+- [News from Commission Departments](https://commission.europa.eu/news-and-media/news_en)
 
-## UE - INTERNAZIONALI ISTITUZIONI – European Council / Council (Consilium) – Press
+## UE – DG NEAR – Tunisia country page
 
-- _(nessun elemento) — HTTP 403 (autorizzazione/blocco)_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Commission – News & media hub
-
-- [sl slovenščina](https://commission.europa.eu/news-and-media_sl)
-- [Visual stories](https://commission.europa.eu/news-and-media/visual-stories_en)
-- [Highlighted news](https://commission.europa.eu/news-and-media/highlighted-news_en)
-- [Emigrating to the EU](https://immigration-portal.ec.europa.eu/index_en)
-- [In strategy and policy](https://commission.europa.eu/strategy-and-policy_en)
-- [2024-2029 Commission: Priorities and leadership](https://ec.europa.eu/stories/2024-2029-commission/)
-- [Security and defence](https://commission.europa.eu/priorities-2024-2029/security-and-defence_en)
-- [European social fairness](https://commission.europa.eu/priorities-2024-2029/european-social-fairness_en)
-- [Quality of life](https://commission.europa.eu/priorities-2024-2029/quality-life_en)
-- [Democracy and our values](https://commission.europa.eu/priorities-2024-2029/democracy-and-our-values_en)
-
-## UE - INTERNAZIONALI ISTITUZIONI – Consilium – Press releases & statements
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – EEAS – Delegation of the EU to Tunisia
-
-- [Press materials](https://www.eeas.europa.eu/filter-page/press-material_en?f%5B0%5D=press_site%3ATunisia&s=126)
-- [Stories & Blogs](https://www.eeas.europa.eu/filter-page/stories-blogs_en?f%5B0%5D=bs_site%3ATunisia&s=126)
-- [Delegation-Tunisia@eeas.europa.eu](mailto:Delegation-Tunisia@eeas.europa.eu)
-
-## UE - INTERNAZIONALI ISTITUZIONI – EEAS Statements
-
-- _(nessun elemento) — HTTP 404_
-
-## UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Tunisia country page
-
+- [Skip to main content](https://neighbourhood-enlargement.ec.europa.eu/tunisia_en#main-content)
 - [Aid, Development cooperation, Fundamental rights](https://commission.europa.eu/aid-development-cooperation-fundamental-rights_en)
-- [EU and Western Balkans](https://enlargement.ec.europa.eu/enlargement-policy/enhanced-eu-engagement-western-balkans_en)
-- [Growth Plan for the Western Balkans](https://enlargement.ec.europa.eu/enlargement-policy/growth-plan-western-balkans_en)
-- [Conditions for membership](https://enlargement.ec.europa.eu/enlargement-policy/conditions-membership_en)
-- [Steps towards joining](https://enlargement.ec.europa.eu/enlargement-policy/steps-towards-joining_en)
-- [Strategy and Reports](https://enlargement.ec.europa.eu/enlargement-policy/strategy-and-reports_en)
+- [EU and Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/enhanced-eu-engagement-western-balkans_en)
+- [Growth Plan for the Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/growth-plan-western-balkans_en)
+- [Conditions for membership](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/conditions-membership_en)
+- [Steps towards joining](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/steps-towards-joining_en)
+- [Strategy and Reports](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/strategy-and-reports_en)
 - [EU support to partner countries on migration and forced displacement](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/eu-support-partner-countries-migration-and-forced-displacement_en)
-- [From 6 to 27 members](https://enlargement.ec.europa.eu/enlargement-policy/6-27-members_en)
-- [Policy Highlights](https://enlargement.ec.europa.eu/enlargement-policy/policy-highlights_en)
-- [Instrument for Pre-accession Assistance (IPA)](https://enlargement.ec.europa.eu/enlargement-policy/overview-instrument-pre-accession-assistance_en)
+- [From 6 to 27 members](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/6-27-members_en)
+- [Instrument for Pre-accession Assistance (IPA)](https://neighbourhood-enlargement.ec.europa.eu/enlargement-policy/overview-instrument-pre-accession-assistance_en)
+- [Cross Border Cooperation](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/cross-border-cooperation_en)
+- [Regional Cooperation with Eastern partners](https://neighbourhood-enlargement.ec.europa.eu/european-neighbourhood-policy/regional-cooperation-eastern-partners_en)
 
-## UE - INTERNAZIONALI ISTITUZIONI – DG NEAR – Assistance to Tunisia (dataset)
+## UE – DG HOME – News
 
-- _(nessun elemento) — nessuna novità rilevante o pagina non leggibile_
-
-## UE - INTERNAZIONALI ISTITUZIONI – UE Tunisie – Projects portal
-
-- [Aller au projet](https://ue-tunisie.org/projet-192-8-448_programme-de-lutte-contre-les-violences-basees-sur-le-genre-.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-7-441_appui-bureau-erasmus-tunisie.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-7-439_science-with-and-for-youth.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-9-5_jeun-ess-promotion-de-l-economie-sociale-et-solidaire-et-cre.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-5-10_initiative-pilote-de-developpement-local-integre.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-- [Aller au projet](https://ue-tunisie.org/projet-192-7-241_erasmus-creating-opportunities-for-tunisia-across-europe.html)
-- [Agriculture (ODD2&12) 8](https://ue-tunisie.org/projetsGrp-192-1_agriculture.html)
-- [Changement climatique et énergie (ODD13) 4](https://ue-tunisie.org/projetsGrp-192-2_changement-climatique-et-energie.html)
-- [Démocratie et gouvernance (ODD10&11&16) 2](https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-
-## UE - INTERNAZIONALI ISTITUZIONI – EEAS Tunisia page
-
-- [Press materials](https://www.eeas.europa.eu/filter-page/press-material_en?f%5B0%5D=press_site%3ATunisia&s=126)
-- [Stories & Blogs](https://www.eeas.europa.eu/filter-page/stories-blogs_en?f%5B0%5D=bs_site%3ATunisia&s=126)
-- [Delegation-Tunisia@eeas.europa.eu](mailto:Delegation-Tunisia@eeas.europa.eu)
-
-## UE - INTERNAZIONALI ISTITUZIONI – Commission DG NEAR Tunisia
-
-- _(nessun elemento) — nessuna novità rilevante o pagina non leggibile_
-
-## UE - INTERNAZIONALI ISTITUZIONI – MAECI Tunisia
-
-- _(nessun elemento) — HTTP 404_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Frontex Newsroom
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Consiglio (Home Affairs)
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – EP Committee LIBE (press releases)
-
-- [Access to page content (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#website-body)
-- [Direct access to language menu (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#language-select)
-- [Direct access to search menu (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#search-field)
-- [Access to search field](https://www.europarl.europa.eu/news/en/press-room)
-- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
-- [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
-- [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
-- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
-- [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
-- [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
-
-## UE - INTERNAZIONALI ISTITUZIONI – EP Press Room
-
-- [Access to page content (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#website-body)
-- [Direct access to language menu (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#language-select)
-- [Direct access to search menu (press "Enter")](https://www.europarl.europa.eu/news/en/press-room#search-field)
-- [Access to search field](https://www.europarl.europa.eu/news/en/press-room)
-- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
-- [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
-- [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
-- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
-- [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
-- [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
-
-## UE - INTERNAZIONALI ISTITUZIONI – Consilium Press
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Commission Press Corner
-
-- _(nessun elemento) — nessuna novità rilevante o pagina non leggibile_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Mediatore Europeo
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – World Bank – Tunisia
-
-- [How We Work](https://www.worldbank.org/en/understanding-poverty)
-- [News & Events](https://www.worldbank.org/en/news)
-- [Better Bank Initiative](https://www.worldbank.org/en/who-we-are/betterbank)
-- [World Bank Group Scorecard](https://scorecard.worldbank.org/en/scorecard/home)
-- [World Bank Group Finances](https://financesapp.worldbank.org/summaries/ibrd-ida/#ibrd-net/)
-- [Access to Information](https://www.worldbank.org/en/access-to-information)
-- [Policies & Procedures](https://policies.worldbank.org/en/policies?k=General%20Conditions%20for%20IBRD&type=published)
-- [Grievance Redress Service](https://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-service)
-- [Accountability Mechanism](https://accountability.worldbank.org/en/home)
-- [Independent Evaluation Group](https://ieg.worldbankgroup.org/)
-
-## UE - INTERNAZIONALI ISTITUZIONI – IMF – Tunisia
-
-- _(nessun elemento) — Request error: HTTPSConnectionPool(host='www.imf.org', port=443): Read timed out. (read timeout=20)_
-
-## UE - INTERNAZIONALI ISTITUZIONI – Consilium Press Releases
-
-- _(nessun elemento) — feedparser non installato_
-
-## UE - INTERNAZIONALI ISTITUZIONI – DG HOME – Migration and Home Affairs
-
-- [sl slovenščina](https://home-affairs.ec.europa.eu/news_sl)
-- [Asylum procedures](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/asylum-procedures_en)
-- [Country responsible for asylum application (Dublin Regulation)](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/country-responsible-asylum-application-dublin-regulation_en)
-- [Determining the Member State responsible for an asylum application](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/determining-member-state-responsible-asylum-application_en)
-- [Reception conditions](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/reception-conditions-0_en)
-- [Temporary protection](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/temporary-protection-0_en)
-- [Reception conditions](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/reception-conditions_en)
-- [Temporary protection](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/temporary-protection_en)
-- [Who qualifies for international protection](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/who-qualifies-international-protection_en)
-- [Highly-qualified worker in Slovakia](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/eu-immigration-portal/highly-qualified-worker-slovakia_en)
-
-## AGENZIE GIORNALISTICHE – ANSAmed
-
-- _(nessun elemento) — HTTP 404_
-
-## AGENZIE GIORNALISTICHE – TAP (Agence Tunis Afrique Presse)
-
-- _(nessun elemento) — Request error: HTTPSConnectionPool(host='www.tap.info.tn', port=443): Max retries exceeded with url: /en (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))_
-
-## MEDIA TUNISIA – African Manager (Politics)
-
-- _(nessun elemento) — HTTP 403 (autorizzazione/blocco)_
+- [EU project Group Violence Intervention helps prevent violence and create safer communities in Sweden](https://home-affairs.ec.europa.eu/news/eu-project-group-violence-intervention-helps-prevent-violence-and-create-safer-communities-sweden-2025-08-25_en)
+- [Out Now: Eight Newsletter I Summer Edition 2025](https://home-affairs.ec.europa.eu/news/out-now-eight-newsletter-i-summer-edition-2025-2025-08-07_en)
+- [Commission launches the Network for the Prevention of Child Sexual Abuse](https://home-affairs.ec.europa.eu/news/commission-launches-network-prevention-child-sexual-abuse-2025-08-05_en)
+- [ISF LUMEN: helping to protect people from false claims and organised crime](https://home-affairs.ec.europa.eu/news/isf-lumen-helping-protect-people-false-claims-and-organised-crime-2025-07-31_en)
+- [Frontex celebrates 20 years of achievements in European border management](https://home-affairs.ec.europa.eu/news/frontex-celebrates-20-years-achievements-european-border-management-2025-07-30_en)
+- [UNODC and the EU Anti-Trafficking Coordinator urge global action to dismantle organised criminal networks behind human trafficking](https://home-affairs.ec.europa.eu/news/unodc-and-eu-anti-trafficking-coordinator-urge-global-action-dismantle-organised-criminal-networks-2025-07-30_en)
+- [Commission set launch date of the Entry/Exit System to 12 October 2025](https://home-affairs.ec.europa.eu/news/commission-set-launch-date-entryexit-system-12-october-2025-2025-07-30_en)
+- [New rules for Turkish citizens applying for Schengen visas](https://home-affairs.ec.europa.eu/news/new-rules-turkish-citizens-applying-schengen-visas-2025-07-29_en)
+- [Slovakia: integration and health of migrant youth, changes to accommodation allowance and IOM recommendations on skills mobility](https://home-affairs.ec.europa.eu/news/slovakia-integration-and-health-migrant-youth-changes-accommodation-allowance-and-iom-2025-07-23_en)
+- [Lithuania sees increased integration support from the government and IOM](https://home-affairs.ec.europa.eu/news/lithuania-sees-increased-integration-support-government-and-iom-2025-07-23_en)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [De la Médina à Sidi Bou Saïd : Ahlam séduit par la magie tunisienne](https://lapresse.tn/2025/08/27/de-la-medina-a-sidi-bou-said-ahlam-seduit-par-la-magie-tunisienne/)
-- [Tunisie : Lancement du premier hôpital virtuel à Tabarka](https://lapresse.tn/2025/08/27/tunisie-lancement-du-premier-hopital-virtuel-a-tabarka/)
+- [Service militaire :  nouvelles précisions sur les reports et les exemptions](https://lapresse.tn/2025/08/27/service-militaire-nouvelles-precisions-sur-les-reports-et-les-exemptions/)
+- [Chute d’un père et de ses deux enfants dans un parc à Kélibia : ce que l’on sait sur l’accident](https://lapresse.tn/2025/08/27/chute-dun-pere-et-de-ses-deux-enfants-dans-un-parc-a-kelibia-ce-que-lon-sait-sur-laccident/)
+- [Tunis : La municipalité donne un mois aux contrevenants pour libérer la voie publique](https://lapresse.tn/2025/08/27/tunis-la-municipalite-donne-un-mois-aux-contrevenants-pour-liberer-la-voie-publique/)
+- [Retour volontaire de 268 migrants guinéens vers leur pays d’origine](https://lapresse.tn/2025/08/27/retour-volontaire-de-268-migrants-guineens-vers-leur-pays-dorigine/)
 - [Météo : chaleur intense et mer agitée sur les côtes tunisiennes](https://lapresse.tn/2025/08/27/meteo-chaleur-intense-et-mer-agitee-sur-les-cotes-tunisiennes/)
-- [Conditions générales d’utilisation du site LaPresse.tn](https://lapresse.tn/cgu-conditions-generales-utilisation/)
-- [Coupe d’Afrique des nations de football 2023](https://lapresse.tn/coupe-dafrique-des-nations-de-football-2023/)
-- [Coupe d’Afrique des nations de football 2023](https://lapresse.tn/coupe-dafrique-des-nations-de-football-2023-2/)
-- [La Presse Edition Papier](https://lapresse.tn/la-presse-edition-papier/)
-- [Magazine La Presse](https://lapresse.tn/magazine-la-presse/)
-- [Soumettre une annonce](https://lapresse.tn/petites-annonces/soumettre-une-annonce/)
-- [Taoufik Ghadhab: l’attaque contre le poste de police de Akouda n’est pas de nature terroriste](https://lapresse.tn/taoufik-ghadhab-lattaque-contre-le-poste-de-police-de-akouda-nest-pas-de-nature-terroriste/)
+- [Le Chef de l’Etat effectue une visite inopinée à la Goulette à 2h00 du matin : Sous un soleil de plomb le jour ou la nuit  jusqu’à l’aurore, la marche continue,  et la Tunisie est bien en marche](https://lapresse.tn/2025/08/27/le-chef-de-letat-effectue-une-visite-inopinee-a-la-goulette-a-2h00-du-matin-sous-un-soleil-de-plomb-le-jour-ou-la-nuit-jusqua-laurore-la-marche-continue-et-la-tunisie/)
+- [25 postes d’inspecteur du travail à pourvoir : le concours externe est ouvert](https://lapresse.tn/2025/08/27/25-postes-dinspecteur-du-travail-a-pourvoir-le-concours-externe-est-ouvert/)
+- [CNAM : changement de filière de soins 30 septembre, dernier délai](https://lapresse.tn/2025/08/27/cnam-changement-de-filiere-de-soins-30-septembre-dernier-delai/)
+- [Tunisie : Les avoirs nets en devises reculent à 24,7 milliards de dinars](https://lapresse.tn/2025/08/26/tunisie-les-avoirs-nets-en-devises-reculent-a-247-milliards-de-dinars/)
+- [Énergies renouvelables : Le secteur privé au service de l’autonomie nationale et de la performance](https://lapresse.tn/2025/08/26/energies-renouvelables-le-secteur-prive-au-service-de-lautonomie-nationale-et-de-la-performance/)
 
-## NGOs – Amnesty International – Tunisia/Migration
+## NGOs – Amnesty International – Tunisia
 
 - [Tunisia: Mass convictions in ‘Conspiracy Case 2’ deepen rule of law crisis](https://www.amnesty.org/en/latest/news/2025/07/tunisia-mass-convictions-in-conspiracy-case-2-deepen-rule-of-law-crisis/)
 - [‘We were only asking for our rights’: Tunisian authorities punish mobilization for socioeconomic and environmental rights](https://www.amnesty.org/en/latest/news/2025/06/we-were-only-asking-for-our-rights-tunisian-authorities-punish-mobilization-for-socioeconomic-and-environmental-rights/)
 - [Tunisia: Year-long arbitrary detention of human rights defenders working with refugees and migrants](https://www.amnesty.org/en/latest/news/2025/05/draft-tunisia-year-long-arbitrary-detention-of-human-rights-defenders-working-with-refugees-and-migrants/)
+- [Tunisia: Further Information: Mass Convictions of Opposition Activists](https://www.amnesty.org/en/documents/mde30/9437/2025/en/)
+- [Tunisia: Human Rights Defenders Arbitrarily Detained](https://www.amnesty.org/en/documents/mde30/9393/2025/en/)
+- [Tunisia: Human Rights Defenders Unjustly Held: Mustapha Djemali and Abderrazek Krimi](https://www.amnesty.org/en/documents/mde30/9312/2025/en/)
+- [Tunisia: Further Information: Mass Trial of Political Dissidents Opens](https://www.amnesty.org/en/documents/mde30/9250/2025/en/)
+- [Tunisia: “We were only asking for our rights and dignity”: Obstruction charges used to punish peaceful assembly](https://www.amnesty.org/en/documents/mde30/9372/2025/en/)
+- [Externalization of migration and the impact on the human rights of migrants –  Submission to the UN Special Rapporteur on the Human Rights of Migrants](https://www.amnesty.org/en/documents/eur01/9485/2025/en/)
+- [Intersectionality from a racial justice perspective: Submission to the UN Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance](https://www.amnesty.org/en/documents/ior40/9141/2025/en/)
+- [Human rights implications of technology-facilitated gender-based violence: Submission to the Human Rights Council Advisory Committee](https://www.amnesty.org/en/documents/ior40/9284/2025/en/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
+- [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
 - [Tunisian Human Rights Defender on Hunger Strike](https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike)
 - [Tunisia: Drastic Closure of Civic Space](https://www.hrw.org/news/2025/01/16/tunisia-drastic-closure-civic-space)
 - [Joint Statement: Tunisia is Not a Place of Safety for People Rescued at Sea](https://www.hrw.org/news/2024/10/04/joint-statement-tunisia-not-place-safety-people-rescued-sea)
@@ -330,106 +196,83 @@
 - [Tunisia: Release Former Truth Commission President](https://www.hrw.org/news/2024/09/30/tunisia-release-former-truth-commission-president)
 - [Tunisia’s Electoral Commission Paves the Way for Kais Saied's Second Term](https://www.hrw.org/news/2024/09/04/tunisias-electoral-commission-paves-way-kais-saieds-second-term)
 - [Tunisia: Prospective Presidential Candidates Barred](https://www.hrw.org/news/2024/08/20/tunisia-prospective-presidential-candidates-barred)
+- [Tunisia Hollows Out its Media Landscape Ahead of Elections](https://www.hrw.org/news/2024/08/12/tunisia-hollows-out-its-media-landscape-ahead-elections)
 
 ## NGOs – International Commission of Jurists – MENA
 
-- [News & Advocacy](https://www.icj.org/news-and-advocacy/)
-- [EU: Standards and Case-law on (alternatives to) detention of migrant children](https://www.icj.org/jurisprudence/)
-- [Standard setting & normative development](https://www.icj.org/how-we-work/#iss)
-- [Research & fact finding](https://www.icj.org/how-we-work/#research)
-- [Advocacy & strategic litigation](https://www.icj.org/how-we-work/#advocacy)
-- [Capacity strengthening](https://www.icj.org/how-we-work/#cbt)
-- [Developing practitioner tools & guides](https://www.icj.org/how-we-work/#tools)
-- [Business & human rights](https://www.icj.org/issues/#business-human)
-- [Civil, political, economic, social & cultural rights](https://www.icj.org/issues/#civic)
-- [Digital rights & AI](https://www.icj.org/issues/#ai-digital)
+- [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
+- [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
+- [ICJ communication to the International Court of Justice urging the investigation of the Court’s Vice-President](https://www.icj.org/icj-communication-to-the-international-court-of-justice-urging-the-investigation-of-the-courts-vice-president/)
+- [Semenya v. Switzerland: joint communication on the execution of the ECHR judgment](https://www.icj.org/semenya-v-switzerland-joint-communication-on-the-execution-of-the-echr-judgment/)
+- [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
+- [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
+- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Syria: Impartially and independently investigate the crimes committed in Suwayda](https://www.icj.org/syria-impartially-and-independently-investigate-the-crimes-committed-in-suwayda/)
+- [Kenya: The ICJ’s new Report calls for an End to Discriminatory Laws Restricting Persons with Disabilities’ Access to Justice](https://www.icj.org/kenya-the-icjs-new-report-calls-for-an-end-to-discriminatory-laws-restricting-persons-with-disabilities-access-to-justice/)
+- [African Region: Regional Launch of Practitioners’ Guide on a Human Rights-Based Approach to Criminal Law to Decriminalize Poverty and Status](https://www.icj.org/african-region-regional-launch-of-practitioners-guide-on-a-human-rights-based-approach-to-criminal-law-to-decriminalize-poverty-and-status/)
+- [Nepal: Failure to Address the Rights of Conflict-Related Sexual Violence Survivors in Transitional Justice Process](https://www.icj.org/nepal-failure-to-address-the-rights-of-conflict-related-sexual-violence-survivors-in-transitional-justice-process/)
+- [Nepal: ICJ and partners call for action on gender and disability-based discrimination](https://www.icj.org/nepal-icj-and-partners-call-for-action-on-gender-and-disability-based-discrimination/)
 
 ## THINK TANK – Carnegie MENA
 
-- [Climate Change](https://carnegie-mec.org/topics/climate-change?lang=en&center=middle-east)
-- [Carnegie Endowment for International Peace Washington DC, USA](https://carnegie-mec.org/)
-- [Carnegie China Activities in Singapore and Beijing, China](https://carnegie-mec.org/china)
-- [Carnegie Europe Brussels, Belgium](https://carnegie-mec.org/europe)
-- [Carnegie India New Delhi, India](https://carnegie-mec.org/india)
-- [Carnegie Russia Eurasia Center Berlin, Germany](https://carnegie-mec.org/russia-eurasia)
+- [Carnegie Endowment for International PeaceWashington DC, USA](https://carnegie-mec.org/)
+- [Carnegie ChinaActivities in Singapore and Beijing, China](https://carnegie-mec.org/china)
+- [Carnegie EuropeBrussels, Belgium](https://carnegie-mec.org/europe)
+- [Carnegie IndiaNew Delhi, India](https://carnegie-mec.org/india)
+- [Carnegie Russia Eurasia CenterBerlin, Germany](https://carnegie-mec.org/russia-eurasia)
 - [Destruction, Disempowerment, and Dispossession: Disaster Capitalism and the Postwar Plans for Gaza](https://carnegie-mec.org/research/2025/07/destruction-disempowerment-and-dispossession-disaster-capitalism-and-the-postwar-plans-for-gaza?lang=en&center=middle-east)
 - [Economic Statecraft as Geopolitical Strategy: New Dimensions of Moroccan-Algerian Rivalry](https://carnegie-mec.org/research/2025/07/economic-statecraft-as-geopolitical-strategy-moroccan-algerian-rivalry?lang=en&center=middle-east)
 - [Local Governance in Post-Assad Syria: A Hybrid State Model for the Future?](https://carnegie-mec.org/research/2025/07/local-governance-in-post-assad-syria-a-hybrid-state-model-for-the-future?lang=en&center=middle-east)
-- [The Future of Cryptocurrency in the Gulf Cooperation Council Countries](https://carnegie-mec.org/research/2025/05/the-future-of-cryptocurrency-in-the-gulf-cooperation-council-countries?lang=en&center=middle-east)
 
-## THINK TANK – Carnegie Tunisia
+## THINK TANK – ECFR – MENA
 
-- [Annual Reports](https://carnegieendowment.org/annual-reports)
-- [Carnegie China Activities in Singapore and Beijing, China](https://carnegieendowment.org/china)
-- [Carnegie Europe Brussels, Belgium](https://carnegieendowment.org/europe)
-- [Carnegie India New Delhi, India](https://carnegieendowment.org/india)
-- [Malcolm H. Kerr Carnegie Middle East Center Beirut, Lebanon](https://carnegieendowment.org/middle-east)
-- [Carnegie Russia Eurasia Center Berlin, Germany](https://carnegieendowment.org/russia-eurasia)
-- [Phone: 202 483 7600](tel:202 483 7600)
-- [government resources](https://carnegieendowment.org/government-resources?lang=en)
-
-## THINK TANK – ISPI – Mediterraneo e MENA
-
-- _(nessun elemento) — HTTP 403 (autorizzazione/blocco)_
-
-## THINK TANK – IAI – Mediterraneo e MENA
-
-- [Skip to main content](https://www.iai.it/en#main-content)
-- [Raggiungi il piè di pagina](https://www.iai.it/en#footer)
-- [Research Programmes](https://www.iai.it/en/iai/research)
-- [EU, politics and institutions](https://www.iai.it/en/area/ue-politica-e-istituzioni/ricerca)
-- [Energy, climate and resources](https://www.iai.it/en/area/energia-clima-e-risorse/ricerca)
-- [International economy, global governance](https://www.iai.it/en/area/economia-politica-internazionale-global-governance/ricerca)
-- [Italian foreign policy](https://www.iai.it/en/area/politica-estera-italiana/ricerca)
-- [Mediterranean and Middle East](https://www.iai.it/en/area/mediterraneo-e-medioriente/ricerca)
-- [Non-proliferation and disarmament](https://www.iai.it/en/area/non-proliferazione-e-disarmo/ricerca)
-- [Russia, Turkey, Balkans, Eastern Europe](https://www.iai.it/en/area/turchia-balcani-caucaso-ucraina/ricerca)
-
-## THINK TANK – CESPI
-
-- [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
-
-## THINK TANK – LIMES
-
-- [LA SCUOLA DI LIMES](https://scuoladilimes.it)
-- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
-- [Bollettino Imperiale](https://www.limesonline.com/rubriche/bollettino-imperiale/)
-- [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
-- [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
-- [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
-
-## THINK TANK – Brookings – Center for Middle East Policy
-
-- [Middle East & North Africa](https://www.brookings.edu/regions/middle-east-north-africa/)
-- [The Palestinian Territories](https://www.brookings.edu/regions/middle-east-north-africa/the-palestinian-territories/)
-- [Center for Middle East Policy](https://www.brookings.edu/centers/center-for-middle-east-policy/)
-
-## THINK TANK – International Crisis Group – North Africa
-
-- _(nessun elemento) — HTTP 403 (autorizzazione/blocco)_
-
-## THINK TANK – ECFR – European Council on Foreign Relations (MENA)
-
-- [[email protected]](https://ecfr.eu/cdn-cgi/l/email-protection)
 - [Middle East and North Africa](https://ecfr.eu/mena/)
 - [Geoeconomics and Tech](https://ecfr.eu/geoeconomics-and-tech/)
+- [Security and defence](https://ecfr.eu/europeansecurity/)
+- [Geoeconomics and trade](https://ecfr.eu/category/geoeconomics/)
+- [Human rights and democracy](https://ecfr.eu/category/human-rights/)
+- [Technology and information](https://ecfr.eu/category/digital/)
+- [International migration](https://ecfr.eu/category/migration/)
 - [Annual Council Meeting](https://ecfr.eu/councilmeeting/)
 - [Public opinion polling](https://ecfr.eu/europeanpower/unlock/)
-- [The Data Collection](https://datacollection.ecfr.eu/)
 - [@ecfrmena on Bluesky](https://bsky.app/profile/ecfrmena.bsky.social)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 - [Pieces in motion: Rebalancing power in a new Levantine order](https://ecfr.eu/publication/pieces-in-motion-rebalancing-power-in-a-new-levantine-order/)
-- [Anatomy of a chokepoint: Mapping power and conflict in the Red Sea](https://ecfr.eu/special/anatomy-of-a-chokepoint-mapping-power-and-conflict-in-the-red-sea/)
+
+## THINK TANK – CESPI
+
+- [Qualche considerazione sull’annuncio (si spera prematuro) del tramonto del diritto internazionale](https://www.cespi.it/it/eventi-attualita/editoriale/qualche-considerazione-sullannuncio-si-spera-prematuro-del-tramonto-del)
+- [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
+- [Le destre sudamericane alla ribalta: una prospettiva storica](https://www.cespi.it/it/eventi-note/eventi/le-destre-sudamericane-alla-ribalta-una-prospettiva-storica)
+- [Avviso di apertura procedura di selezione: formatore in educazione finanziaria certificato ILO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-formatore-educazione-finanziaria)
+- [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
+
+## THINK TANK – Brookings – Middle East
+
+- [Only Trump can save Israel from its own government](https://foreignpolicy.com/2025/08/14/trump-save-israel-netanyahu-gaza/)
+- [Support for Israel continues to deteriorate, especially among Democrats and young people](https://www.brookings.edu/articles/support-for-israel-continues-to-deteriorate-especially-among-democrats-and-young-people/)
+- [Iran’s dangerous desperation](https://www.foreignaffairs.com/iran/irans-dangerous-desperation)
+- [The road to the Israel-Iran war](https://www.brookings.edu/articles/the-road-to-the-israel-iran-war/)
+- [Democracy, Conflict, & Governance](https://www.brookings.edu/topics/democracy-conflict-and-governance/)
 
 ## MAGAZINES – Jeune Afrique
 
-- [Découvrir les avantages](https://www.jeuneafrique.com/abonnement/checkout/carrousel/)
-- [Rapport sur le Sahara occidental : António Guterres met en garde contre « l’impasse » et appelle à « changer de cap sans délai »](https://www.jeuneafrique.com/1716679/politique/rapport-sur-le-sahara-occidental-antonio-guterres-met-en-garde-contre-limpasse-et-appelle-a-changer-de-cap-sans-delai/)
+- [Rapport sur le Sahara occidental : António Guterres met en garde contre « l’impasse » et appelle à « changer de cap sans délai »](https://www.jeuneafrique.com/1716679/politique/rapport-sur-le-sahara-occidental-antonio-guterres-met-en-garde-contre-limpasse-et-appelle-a-changer-de-cap-sans-delai/)
 - [Côte d’Ivoire : ce que l’on sait de l’attaque de Difita](https://www.jeuneafrique.com/1717094/politique/cote-divoire-ce-que-lon-sait-de-lattaque-de-difita/)
 - [Banque africaine de développement : le dernier tour de piste controversé d’Akinwumi Adesina](https://www.jeuneafrique.com/1716648/economie-entreprises/banque-africaine-de-developpement-le-dernier-tour-de-piste-controverse-dakinwumi-adesina/)
-- [Commerce informel, préférence nationale et rejet des étrangers : le pari risqué d’Oligui Nguema](https://www.jeuneafrique.com/1716295/politique/commerce-informel-preference-nationale-et-rejet-des-etrangers-le-pari-risque-doligui-nguema/)
+- [Commerce informel, préférence nationale et rejet des étrangers : le pari risqué d’Oligui Nguema](https://www.jeuneafrique.com/1716295/politique/commerce-informel-preference-nationale-et-rejet-des-etrangers-le-pari-risque-doligui-nguema/)
 - [En Côte d’Ivoire, une attaque à la frontière avec le Burkina Faso fait quatre morts](https://www.jeuneafrique.com/1716997/politique/en-cote-divoire-une-attaque-a-la-frontiere-avec-le-burkina-faso-fait-quatre-morts/)
-- [Guinée équatoriale](https://www.jeuneafrique.com/pays/guinee-equatoriale/)
-- [République du Congo](https://www.jeuneafrique.com/pays/republique-du-congo/)
-- [São Tomé-et-Príncipe](https://www.jeuneafrique.com/pays/sao-tome-et-principe/)
-- [Activer votre carte d’abonnement.](https://www.jeuneafrique.com/abonnement/activation/carte/)
+- [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
+- [Noureddine Bensouda, l’ex-camarade de Mohammed VI devenu le gardien des finances publiques marocaines](https://www.jeuneafrique.com/1717271/economie-entreprises/noureddine-bensouda-lex-camarade-de-mohammed-vi-devenu-le-gardien-des-finances-publiques-marocaines/)
+
+## MAGAZINES – LIMES
+
+- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
+- [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
+- [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
+- [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
+- [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
+- [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
+- [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
+- [Lago Ciad, Boko Haram, Iswap e la grande città di Lagos](https://www.limesonline.com/rubriche/mappe-parlanti/lago-ciad-boko-haram-iswap-e-la-grande-citta-di-lagos-19284332/)
+- [I cavi sottomarini mondiali e lo snodo del Sicily Hub nello Stretto di Sicilia](https://www.limesonline.com/rubriche/mappe-parlanti/i-cavi-sottomarini-mondiali-e-lo-snodo-del-sicily-hub-nello-stretto-di-sicilia-19235621/)
