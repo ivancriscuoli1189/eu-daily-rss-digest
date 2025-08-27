@@ -29,16 +29,19 @@ HEADERS = {
     "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
 }
 
-# Evita voci di menu / accessibilità
+# Evita voci di menu / accessibilità / landing generiche
 BLACKLIST_TEXT = {
     "salta al contenuto", "vai al contenuto", "passa al contenuto",
     "access to page content", "direct access to language menu",
     "direct access to search menu", "access to search field",
     "raggiungi il piè di pagina", "vai a piè di pagina", "footer",
     "amministrazione trasparente", "privacy", "cookies", "search", "language",
-    "visual stories"
+    "visual stories",
+    # EN/FR aggiunte
+    "skip to main content", "go to main content",
+    "accéder au contenu", "aller au contenu",
 }
-MIN_TEXT_LEN = 20
+MIN_TEXT_LEN = 24  # prima 20
 
 # Limiti
 HTML_LIMIT = 12
@@ -56,7 +59,7 @@ DOMAIN_SELECTORS = {
     "www.ins.tn": ".view-content a[href], article a[href]",
     "www.carthage.tn": ".views-row a[href], article a[href]",
     # UE / ISTITUZIONI
-    "eur-lex.europa.eu": ".home__teaser a[href], a.ecl-link[href]",
+    "eur-lex.europa.eu": ".ecl-teaser__title a[href], .ecl-list a[href]",
     "oeil.secure.europarl.europa.eu": "a[href^='/oeil/en/'], a[href^='/oeil/']",
     "www.europarl.europa.eu": "article a[href^='/news/'], a[href*='/press-room/']",
     "commission.europa.eu": ".ecl-list a[href], article a[href], .ecl-link a[href]",
@@ -65,6 +68,7 @@ DOMAIN_SELECTORS = {
     "www.eeas.europa.eu": "article a[href], .ecl-u-margin-bottom-l a[href], .ecl-link a[href]",
     "enlargement.ec.europa.eu": ".ecl-list a[href], article a[href]",
     "home-affairs.ec.europa.eu": ".ecl-list a[href], article a[href]",
+    "neighbourhood-enlargement.ec.europa.eu": ".ecl-list a[href], article a[href]",
     # UE–Tunisie
     "ue-tunisie.org": ".box-project a[href^='/projet-'], .box-cat a[href], .pagination a[href]",
     # MEDIA/NGO/TT
@@ -77,9 +81,11 @@ DOMAIN_SELECTORS = {
     "www.cespi.it": "article a[href], .view-content a[href]",
     "www.limesonline.com": "article a[href], .article-card a[href]",
     "scuoladilimes.it": "a[href]",
-    "www.brookings.edu": "article a[href], .river__item a[href]",
+    "www.brookings.edu": "a[href*='/articles/'], article a[href], .river__item a[href]",
     "www.worldbank.org": ".wbg-cards a[href], article a[href], a.wbg-link[href]",
     "www.imf.org": "article a[href], .o_news a[href], .o_article a[href]",
+    # Carnegie / Brookings affinati
+    "carnegie-mec.org": "a[href*='/research/'], article a[href]",
 }
 
 def log(*args):
@@ -127,7 +133,13 @@ def parse_html_links(url: str, limit: int = HTML_LIMIT):
         href = a.get("href")
         if not href or is_nav(txt):
             continue
+        # scarta link inutili
+        if href.startswith(("tel:", "mailto:", "javascript:", "#")):
+            continue
         full = urljoin(url, href)
+        # preferisci https (tranne Carthage che serve spesso http)
+        if full.startswith("http://") and "carthage.tn" not in full:
+            full = full.replace("http://", "https://", 1)
         out.append((txt, full))
         if len(out) >= limit:
             break
@@ -214,4 +226,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
