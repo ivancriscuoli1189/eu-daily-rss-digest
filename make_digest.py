@@ -4,7 +4,7 @@
 Daily EU/Tunisia Digest builder
 - Legge feeds.txt (formato: LABEL|TIPO|URL)
 - TIPO: rss -> parse_rss ; html -> parse_html_links (con selettori per dominio)
-- Filtra voci di navigazione / duplicati
+- Filtra voci di navigazione / duplicati / link inutili
 - Scrive digest.md con timestamp Europe/Rome
 """
 
@@ -26,7 +26,7 @@ USER_AGENT = (
 )
 HEADERS = {
     "User-Agent": USER_AGENT,
-    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8,fr;q=0.7",
 }
 
 # Evita voci di menu / accessibilità / landing generiche
@@ -36,12 +36,10 @@ BLACKLIST_TEXT = {
     "direct access to search menu", "access to search field",
     "raggiungi il piè di pagina", "vai a piè di pagina", "footer",
     "amministrazione trasparente", "privacy", "cookies", "search", "language",
-    "visual stories",
-    # EN/FR aggiunte
-    "skip to main content", "go to main content",
+    "visual stories", "skip to main content", "go to main content",
     "accéder au contenu", "aller au contenu",
 }
-MIN_TEXT_LEN = 24  # prima 20
+MIN_TEXT_LEN = 24
 
 # Limiti
 HTML_LIMIT = 12
@@ -51,7 +49,7 @@ RSS_LIMIT = 8
 DOMAIN_SELECTORS = {
     # ITALIA
     "www.esteri.it": "article a[href], .news-list a[href]",
-    "www.governo.it": ".view-content a[href]",
+    "www.governo.it": ".view-content a[href], article a[href]",
     "www.aics.gov.it": "article a[href], .post-list a[href], .list a[href]",
     "www.interno.gov.it": ".view-content a[href], .field--name-body a[href], article a[href]",
     # TUNISIA / ISTITUZIONI
@@ -60,7 +58,7 @@ DOMAIN_SELECTORS = {
     "www.carthage.tn": ".views-row a[href], article a[href]",
     # UE / ISTITUZIONI
     "eur-lex.europa.eu": ".ecl-teaser__title a[href], .ecl-list a[href]",
-    "oeil.secure.europarl.europa.eu": "a[href^='/oeil/en/'], a[href^='/oeil/']",
+    "oeil.secure.europarl.europa.eu": "a[href^='/oeil/']",
     "www.europarl.europa.eu": "article a[href^='/news/'], a[href*='/press-room/']",
     "commission.europa.eu": ".ecl-list a[href], article a[href], .ecl-link a[href]",
     "ec.europa.eu": ".ecl-list a[href], article a[href]",
@@ -81,11 +79,34 @@ DOMAIN_SELECTORS = {
     "www.cespi.it": "article a[href], .view-content a[href]",
     "www.limesonline.com": "article a[href], .article-card a[href]",
     "scuoladilimes.it": "a[href]",
-    "www.brookings.edu": "a[href*='/articles/'], article a[href], .river__item a[href]",
+    "www.brookings.edu": "a[href*='/articles/'], a[href*='/news/'], .river__item a[href]",
     "www.worldbank.org": ".wbg-cards a[href], article a[href], a.wbg-link[href]",
     "www.imf.org": "article a[href], .o_news a[href], .o_article a[href]",
-    # Carnegie / Brookings affinati
     "carnegie-mec.org": "a[href*='/research/'], article a[href]",
+    "ecfr.eu": "article a[href], .listing a[href], .page__content a[href]",
+}
+
+# Per alcuni domini accetta solo link interni (evita passaggi a siti esterni)
+SAME_DOMAIN_ONLY = {
+    "www.brookings.edu",
+    "carnegie-mec.org",
+    "ecfr.eu",
+    "www.cespi.it",
+    "www.jeuneafrique.com",
+    "www.limesonline.com",
+    "www.hrw.org",
+    "www.amnesty.org",
+    "www.iai.it",
+    "www.worldbank.org",
+    "home-affairs.ec.europa.eu",
+    "neighbourhood-enlargement.ec.europa.eu",
+    "commission.europa.eu",
+}
+
+# Esclusioni brutali nel link (case-insensitive)
+EXCLUDE_URL_CONTAINS = {
+    "sessionday=",  # OEIL "giorno di seduta"
+    "/login", "/signin", "/privacy", "/cookies", "/subscribe", "/abonnement",
 }
 
 def log(*args):
@@ -113,6 +134,44 @@ def get_selector_for_url(url: str) -> str:
     netloc = urlparse(url).netloc.lower()
     return DOMAIN_SELECTORS.get(netloc, "a[href]")
 
+def same_domain_required(src_netloc: str) -> bool:
+    return src_netloc in SAME_DOMAIN_ONLY
+
+def should_keep(text: str, full_url: str, src_netloc: str) -> bool:
+    lt = (text or "").strip().lower()
+    lu = (full_url or "").lower()
+    if not full_url or is_nav(text):
+        return False
+    if lu.startswith(("tel:", "mailto:", "javascript:")) or full_url.endswith("#") or lu == "#":
+        return False
+    if any(k in lu for k in EXCLUDE_URL_CONTAINS):
+        return False
+
+    dest_netloc = urlparse(full_url).netloc.lower()
+
+    # Richiedi link interni per alcuni domini
+    if same_domain_required(src_netloc) and dest_netloc and dest_netloc != src_netloc:
+        return False
+
+    # Regole specifiche per domini "problematici"
+    if src_netloc == "oeil.secure.europarl.europa.eu":
+        # tieni solo schede/procedure/priorità; scarta pagine di ricerca per giorno
+        good = any(x in lu for x in ("/oeil/en/file/", "/oeil/en/document/", "/oeil/en/legislative-priorities", "/oeil/en/procedure/"))
+        if not good:
+            return False
+
+    if src_netloc in ("commission.europa.eu", "ec.europa.eu"):
+        # punta a vere "news"
+        if "/news" not in lu and "/press" not in lu:
+            return False
+
+    if src_netloc == "neighbourhood-enlargement.ec.europa.eu":
+        # limita alle news pertinenti alla Tunisia
+        if "tunisia" not in lu and "tunisie" not in lt and "tunis" not in lt:
+            return False
+
+    return True
+
 def parse_rss(url: str, limit: int = RSS_LIMIT):
     items = []
     feed = feedparser.parse(url)
@@ -127,23 +186,25 @@ def parse_html_links(url: str, limit: int = HTML_LIMIT):
     html = fetch(url)
     soup = BeautifulSoup(html, "lxml")
     selector = get_selector_for_url(url)
+    src_netloc = urlparse(url).netloc.lower()
+
     out = []
     for a in soup.select(selector):
         txt = (a.get_text(strip=True) or "")
         href = a.get("href")
-        if not href or is_nav(txt):
-            continue
-        # scarta link inutili
-        if href.startswith(("tel:", "mailto:", "javascript:", "#")):
+        if not href:
             continue
         full = urljoin(url, href)
         # preferisci https (tranne Carthage che serve spesso http)
         if full.startswith("http://") and "carthage.tn" not in full:
             full = full.replace("http://", "https://", 1)
+        if not should_keep(txt, full, src_netloc):
+            continue
         out.append((txt, full))
         if len(out) >= limit:
             break
-    # ripuliture semplici
+
+    # piccole ripuliture per testi "generici"
     cleaned = []
     for t, u in out:
         lt = t.lower()
@@ -155,7 +216,7 @@ def parse_html_links(url: str, limit: int = HTML_LIMIT):
 def dedup(items):
     seen, out = set(), []
     for t, u in items:
-        key = hashlib.sha1(u.encode("utf-8")).hexdigest()
+        key = hashlib.sha1((t.strip().lower() + "|" + u).encode("utf-8")).hexdigest()
         if key not in seen:
             seen.add(key); out.append((t, u))
     return out
