@@ -1,0 +1,87 @@
+name: Build Daily EU/Tunisia Digest
+
+on:
+  schedule:
+    # Ogni ora nei feriali (UTC)
+    - cron: "0 * * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  make-digest:
+    runs-on: ubuntu-latest
+    env:
+      # === Config digerita dal tuo make_digest.py ===
+      TIMEZONE: Europe/Rome
+      OUTPUT_MD: README.md
+      PER_SECTION_LIMIT: "12"
+      EMM_RADAR_JSON: /tmp/emm_radar.json
+      EMM_RADAR_TITLE: "EMM Radar – ultime 24h"
+      EMM_RADAR_LOOKBACK_HOURS: "24"
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # --- R + deps (NOVITÀ) ---
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Install R deps (quotefinder + base)
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          extra-packages: |
+            any::jsonlite
+            any::xml2
+            any::rvest
+            any::httr2
+            any::dplyr
+            any::purrr
+            any::stringr
+            any::lubridate
+            edjnet/quotefinder
+
+      - name: Run EMM Radar (R)
+        run: Rscript scripts/emm_radar.R
+
+      # --- Python + digest (AGGIUNTO) ---
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: pip install -r requirements.txt
+
+      - name: Build digest (Python)
+        run: python make_digest.py
+
+      # --- (Opzionale) carico artefatti per debug ---
+      - name: Upload artifacts (optional)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: digest-artifacts
+          path: |
+            /tmp/emm_radar.json
+            ${{ env.OUTPUT_MD }}
+          if-no-files-found: ignore
+
+      # --- Commit & push solo se ci sono cambi ---
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(digest): aggiorna digest automatico [skip ci]"
+            git push
+          else
+            echo "Nessuna modifica da committare."
+          fi
