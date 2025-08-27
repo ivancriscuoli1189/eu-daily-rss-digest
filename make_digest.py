@@ -1,502 +1,223 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+--- a/make_digest.py
++++ b/make_digest.py
+@@
++#!/usr/bin/env python3
++# -*- coding: utf-8 -*-
++"""
++Daily EU/Tunisia Digest builder
++- Legge feeds.txt (formato: LABEL|TIPO|URL)
++- TIPO: rss -> parse_rss ; html -> parse_html_links (con selettori per dominio)
++- Filtra voci di navigazione / duplicati
++- Scrive digest.md con timestamp Europe/Rome
++"""
++
++from __future__ import annotations
++import sys, os, re, time, hashlib
++from datetime import datetime
++from urllib.parse import urlparse, urljoin
++from zoneinfo import ZoneInfo
++
++import requests
++import feedparser
++import certifi
++from bs4 import BeautifulSoup
++
++REQUEST_TIMEOUT = 20
++USER_AGENT = (
++    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
++    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
++)
++HEADERS = {
++    "User-Agent": USER_AGENT,
++    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
++}
++
++# Testo da scartare (voci di menu / accessibilità)
++BLACKLIST_TEXT = {
++    "salta al contenuto", "vai al contenuto", "passa al contenuto",
++    "access to page content", "direct access to language menu",
++    "direct access to search menu", "access to search field",
++    "raggiungi il piè di pagina", "vai a piè di pagina", "footer",
++    "amministrazione trasparente", "privacy", "cookies", "search", "language",
++    "visual stories"
++}
++MIN_TEXT_LEN = 20  # evita voci troppo corte (es. "Home", "Menu", ecc.)
++
++# Limiti per sezione
++HTML_LIMIT = 12
++RSS_LIMIT = 8
++
++# Selettori specifici per dominio (fallback: 'a[href]')
++DOMAIN_SELECTORS = {
++    # ITALIA
++    "www.esteri.it": "article a[href], .news-list a[href]",
++    "www.governo.it": ".view-content a[href]",
++    "www.aics.gov.it": "article a[href], .post-list a[href], .list a[href]",
++    "www.interno.gov.it": ".view-content a[href], .field--name-body a[href], article a[href]",
++    # TUNISIA / ISTITUZIONI
++    "pm.gov.tn": "article a[href], .view-content a[href], .grid a[href]",
++    "www.ins.tn": ".view-content a[href], article a[href]",
++    "www.carthage.tn": ".views-row a[href], article a[href]",
++    # UE / ISTITUZIONI
++    "eur-lex.europa.eu": ".home__teaser a[href], a.ecl-link[href]",
++    "oeil.secure.europarl.europa.eu": "a[href^='/oeil/en/'], a[href^='/oeil/']",
++    "www.europarl.europa.eu": "article a[href^='/news/'], a[href*='/press-room/']",
++    "commission.europa.eu": ".ecl-list a[href], article a[href], .ecl-link a[href]",
++    "ec.europa.eu": ".ecl-list a[href], article a[href]",
++    "www.consilium.europa.eu": ".ecl-listing a[href], article a[href], .listing a[href]",
++    "www.eeas.europa.eu": "article a[href], .ecl-u-margin-bottom-l a[href], .ecl-link a[href]",
++    "enlargement.ec.europa.eu": ".ecl-list a[href], article a[href]",
++    "home-affairs.ec.europa.eu": ".ecl-list a[href], article a[href]",
++    # UE–Tunisie
++    "ue-tunisie.org": ".box-project a[href^='/projet-'], .box-cat a[href], .pagination a[href]",
++    # MEDIA/NGO/TT
++    "lapresse.tn": "article a[href], .entry-title a[href]",
++    "www.jeuneafrique.com": "article a[href], .c-listing__item a[href]",
++    "www.hrw.org": "article a[href], .c-block-list a[href], .content-list a[href]",
++    "www.amnesty.org": "article a[href], .o-archive-list__item a[href]",
++    "www.icj.org": ".posts-list a[href], article a[href]",
++    "www.iai.it": "article a[href], .views-row a[href]",
++    "www.cespi.it": "article a[href], .view-content a[href]",
++    "www.limesonline.com": "article a[href], .article-card a[href]",
++    "scuoladilimes.it": "a[href]",
++    "www.brookings.edu": "article a[href], .river__item a[href]",
++    "www.worldbank.org": ".wbg-cards a[href], article a[href], a.wbg-link[href]",
++    "www.imf.org": "article a[href], .o_news a[href], .o_article a[href]",
++}
++
++def log(*args):
++    print(*args, file=sys.stderr)
++
++def is_nav(text: str) -> bool:
++    t = (text or "").strip().lower()
++    if not t or len(t) < MIN_TEXT_LEN:
++        return True
++    return any(k in t for k in BLACKLIST_TEXT)
++
++def fetch(url: str, timeout: int = REQUEST_TIMEOUT) -> str:
++    last_err = None
++    for _ in range(2):
++        try:
++            r = requests.get(url, headers=HEADERS, timeout=timeout, verify=certifi.where())
++            r.raise_for_status()
++            return r.text
++        except Exception as e:
++            last_err = e
++            time.sleep(1)
++    raise last_err
++
++def get_selector_for_url(url: str) -> str:
++    netloc = urlparse(url).netloc.lower()
++    return DOMAIN_SELECTORS.get(netloc, "a[href]")
++
++def parse_rss(url: str, limit: int = RSS_LIMIT):
++    items = []
++    feed = feedparser.parse(url)
++    for e in feed.entries[:limit]:
++        title = getattr(e, "title", "").strip()
++        link = getattr(e, "link", "").strip()
++        if title and link and not is_nav(title):
++            items.append((title, link))
++    return items
++
++def parse_html_links(url: str, limit: int = HTML_LIMIT):
++    html = fetch(url)
++    soup = BeautifulSoup(html, "lxml")
++    selector = get_selector_for_url(url)
++    out = []
++    for a in soup.select(selector):
++        txt = (a.get_text(strip=True) or "")
++        href = a.get("href")
++        if not href or is_nav(txt):
++            continue
++        full = urljoin(url, href)
++        out.append((txt, full))
++        if len(out) >= limit:
++            break
++    # Filtra “Aller au projet” e simili
++    cleaned = []
++    for t, u in out:
++        lt = t.lower()
++        if lt.startswith("aller au projet") or lt in {"vai al contenuto", "salta al contenuto"}:
++            continue
++        cleaned.append((t, u))
++    return cleaned
++
++def dedup(items):
++    seen, out = set(), []
++    for t, u in items:
++        key = hashlib.sha1(u.encode("utf-8")).hexdigest()
++        if key not in seen:
++            seen.add(key); out.append((t, u))
++    return out
++
++def read_feeds(path: str):
++    feeds = []
++    with open(path, "r", encoding="utf-8") as f:
++        for line in f:
++            line = line.strip()
++            if not line or line.startswith("#"):
++                continue
++            parts = [p.strip() for p in line.split("|")]
++            if len(parts) < 3:
++                log("IGNORA riga malformata:", line)
++                continue
++            label, kind, url = parts[0], parts[1].lower(), parts[2]
++            feeds.append((label, kind, url))
++    return feeds
++
++def build_section(label: str, items):
++    if not items:
++        return None
++    lines = [f"## {label}", ""]
++    for t, u in items:
++        lines.append(f"- [{t}]({u})")
++    lines.append("")  # newline finale
++    return "\n".join(lines)
++
++def main():
++    root = os.getcwd()
++    feeds_path = os.path.join(root, "feeds.txt")
++    out_path = os.path.join(root, "digest.md")
++
++    feeds = read_feeds(feeds_path)
++    rome = datetime.now(ZoneInfo("Europe/Rome"))
++    header = [
++        "# Daily EU/Tunisia Digest",
++        "",
++        f"*Generato: {rome.strftime('%d %b %Y, %H:%M %Z')}*",
++        "",
++        ""
++    ]
++
++    sections = []
++    for label, kind, url in feeds:
++        try:
++            if kind == "rss":
++                items = parse_rss(url)
++            elif kind == "html":
++                items = parse_html_links(url)
++            else:
++                log(f"TIPO sconosciuto '{kind}' per {label} -> {url}")
++                items = []
++            items = dedup(items)
++            sec = build_section(label, items)
++            if sec:
++                sections.append(sec)
++            else:
++                # Sezione vuota: non la stampo nel digest; lascio traccia nei log
++                log(f"[VUOTO] {label} ({url})")
++        except Exception as e:
++            log(f"[ERRORE] {label} ({url}): {e}")
++            # Non inserire placeholder nel digest
++            continue
++
++    content = "\n".join(header + sections).rstrip() + "\n"
++    with open(out_path, "w", encoding="utf-8") as f:
++        f.write(content)
++    log("Digest scritto:", out_path)
++
++if __name__ == "__main__":
++    main()
 
-import os, re, sys, time, json
-from datetime import datetime
-from urllib.parse import urljoin, urlparse
-from zoneinfo import ZoneInfo
-
-import requests
-from bs4 import BeautifulSoup
-from dateutil import tz
-
-# -------------------------
-# Config
-# -------------------------
-
-FEEDS_FILE = "feeds.txt"
-OUTPUT_FILE = "digest.md"
-MAX_ITEMS_PER_SOURCE = 10  # quanti link tenere per ogni fonte
-REQUEST_TIMEOUT = 20
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) "
-                  "AppleWebKit/537.36 (KHTML, like Gecko) "
-                  "Chrome/123.0.0.0 Safari/537.36",
-    "Accept-Language": "en,it,fr;q=0.8",
-}
-
-# parole/URL da scartare (navigation, footer, social, ecc.)
-STOPWORD_TEXT = {
-    "read more", "more", "leggi", "continua", "continua a leggere",
-    "share", "condividi", "tweet", "print", "stampa", "contact",
-    "privacy", "cookie", "terms", "about", "credits",
-    "rss", "feed", "newsletter", "subscribe", "login", "sign in"
-}
-STOPWORD_HREF_FRAG = (
-    "/tag/", "/tags/", "/topic/", "/category/", "/categorie/",
-    "/comment", "/comments", "/search", "?s=",
-    "/share", "/print", "/download", "/login", "/sign", "/signup",
-    "/privacy", "/cookies", "/cookie", "/terms", "/about",
-    "/rss", "/feed", "/feeds"
-)
-
-# Regole per alcuni domini / fonti (filtri per Tunisia quando serve).
-# Chiave: dominio (senza schema). Valori opzionali:
-#   - must_href_contains: elenco di frammenti che DEVONO comparire nell’URL
-#   - prefer_href_contains: se presenti, si cerca di preferirli,
-#   - title_min_len: lunghezza minima del testo titolo
-# Regole di filtraggio per dominio (frammenti in minuscolo).
-# Chiave = dominio (netloc). Valori:
-#  - must_href_contains: almeno uno di questi frammenti deve comparire nell’URL
-#  - prefer_href_contains: se presenti, ordina/prioritizza i link che li contengono
-#  - title_min_len: scarta titoli troppo corti
-DOMAIN_RULES = {
-    # -----------------------
-    # UE / ISTITUZIONI
-    # -----------------------
-    "www.consilium.europa.eu": {
-        "prefer_href_contains": [
-            "/press/press-releases", "/press/statements",
-            "tunisia", "migration", "home-affairs"
-        ],
-        "title_min_len": 12,
-    },
-    "consilium.europa.eu": {
-        "prefer_href_contains": [
-            "/press/press-releases", "/press/statements",
-            "tunisia", "migration", "home-affairs"
-        ],
-        "title_min_len": 12,
-    },
-    "commission.europa.eu": {
-        "prefer_href_contains": [
-            "/news", "/press", "presscorner", "news-and-media",
-            "tunisia", "migration", "neighbourhood", "home-affairs"
-        ],
-        "title_min_len": 14,
-    },
-    "ec.europa.eu": {
-        "must_href_contains": ["presscorner", "press"],
-        "prefer_href_contains": ["tunisia", "migration"],
-        "title_min_len": 14,
-    },
-    "www.eeas.europa.eu": {
-        "must_href_contains": ["tunisia", "/delegations/tunisia"],
-        "prefer_href_contains": ["/news", "/press", "/statements", "/delegations/"],
-        "title_min_len": 14,
-    },
-    "neighbourhood-enlargement.ec.europa.eu": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/news", "/stories", "/publications", "/factsheet"],
-        "title_min_len": 14,
-    },
-    "home-affairs.ec.europa.eu": {
-        "prefer_href_contains": ["/news", "/press", "migration", "tunisia"],
-        "title_min_len": 14,
-    },
-    "www.europarl.europa.eu": {
-        "must_href_contains": ["/news/"],
-        "prefer_href_contains": ["press-room", "tunisia", "migration", "libe"],
-        "title_min_len": 14,
-    },
-    "europarl.europa.eu": {
-        "must_href_contains": ["/news/"],
-        "prefer_href_contains": ["press-room", "tunisia", "migration", "libe"],
-        "title_min_len": 14,
-    },
-    "frontex.europa.eu": {
-        "prefer_href_contains": [
-            "/media-centre/news", "/news", "/press",
-            "tunisia", "north-africa", "mediterran"
-        ],
-        "title_min_len": 14,
-    },
-    "data.europa.eu": {
-        # dataset: spesso non utile come “notizia”
-        "prefer_href_contains": ["tunisia", "near", "assistance"],
-        "title_min_len": 12,
-    },
-    "ue-tunisie.org": {
-        "prefer_href_contains": ["/project", "/actualites", "/news", "/activites", "/evenements"],
-        "title_min_len": 14,
-    },
-
-    # -----------------------
-    # ITALIA / ISTITUZIONI
-    # -----------------------
-    "www.esteri.it": {
-        "prefer_href_contains": ["/sala_stampa", "/comunicati", "tunisia"],
-        "title_min_len": 12,
-    },
-    "aics.gov.it": {
-        "must_href_contains": ["/comunicati-stampa"],
-        "title_min_len": 12,
-    },
-    "www.governo.it": {
-        "must_href_contains": ["/archivio-riunioni"],
-        "title_min_len": 12,
-    },
-    "www.interno.gov.it": {
-        "prefer_href_contains": ["dati-e-statistiche", "sbarchi", "migranti"],
-        "title_min_len": 12,
-    },
-
-    # -----------------------
-    # TUNISIA / ISTITUZIONI
-    # -----------------------
-    "pm.gov.tn": {
-        "prefer_href_contains": ["/en", "/fr", "/actualites", "/news"],
-        "title_min_len": 12,
-    },
-    "www.diplomatie.gov.tn": {
-        "prefer_href_contains": ["/en", "/fr", "news", "communique"],
-        "title_min_len": 12,
-    },
-    "www.ins.tn": {
-        "prefer_href_contains": ["actualite", "publication", "news"],
-        "title_min_len": 12,
-    },
-    "www.interieur.gov.tn": {
-        "prefer_href_contains": ["/fr", "/ar", "/en", "actualites", "communiques", "news"],
-        "title_min_len": 12,
-    },
-    "www.carthage.tn": {
-        "prefer_href_contains": ["/fr", "/ar", "/en", "activites", "actualites", "news"],
-        "title_min_len": 12,
-    },
-
-    # -----------------------
-    # AGENZIE
-    # -----------------------
-    "www.ansa.it": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/notizie", "/rubriche", "/mediterraneo"],
-        "title_min_len": 12,
-    },
-    "www.tap.info.tn": {
-        "must_href_contains": ["/en"],
-        "prefer_href_contains": ["/news", "/national", "/economy", "/world", "/culture"],
-        "title_min_len": 12,
-    },
-
-    # -----------------------
-    # MEDIA TUNISIA
-    # -----------------------
-    "africanmanager.com": {
-        "prefer_href_contains": ["/category/politics", "tun"],
-        "title_min_len": 12,
-    },
-    "lapresse.tn": {
-        "prefer_href_contains": ["/politique", "tunisie"],
-        "title_min_len": 16,
-    },
-
-    # -----------------------
-    # NGO
-    # -----------------------
-    "www.amnesty.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/news", "/press", "/report", "/latest"],
-        "title_min_len": 14,
-    },
-    "www.hrw.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/news", "/report", "/press"],
-        "title_min_len": 14,
-    },
-    "www.icj.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/news", "/press", "/report", "/statement"],
-        "title_min_len": 14,
-    },
-
-    # -----------------------
-    # THINK TANK / MAGAZINES
-    # -----------------------
-    "carnegie-mec.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/diwan", "/commentary", "/publication", "/article"],
-        "title_min_len": 14,
-    },
-    "carnegieendowment.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/sada", "/carnegie-mec", "/commentary", "/publication", "/article"],
-        "title_min_len": 14,
-    },
-    "www.ispionline.it": {
-        "must_href_contains": ["tunisia", "migraz"],
-        "prefer_href_contains": ["/it/analisi", "/it/pubblicazione", "/it/commento", "/it/eventi"],
-        "title_min_len": 14,
-    },
-    "www.iai.it": {
-        "must_href_contains": ["tunisia", "migraz"],
-        "prefer_href_contains": ["/it/pubblicazioni", "/en/pubblicazioni", "/it/analisi"],
-        "title_min_len": 14,
-    },
-    "www.cespi.it": {
-        "must_href_contains": ["tunisia", "migraz"],
-        "prefer_href_contains": ["/it"],
-        "title_min_len": 12,
-    },
-    "www.limesonline.com": {
-        "must_href_contains": ["tunisia"],
-        "title_min_len": 12,
-    },
-    "www.ecfr.eu": {
-        "must_href_contains": ["mena", "tunisia"],
-        "prefer_href_contains": ["/publications", "/analysis", "/commentary", "/article"],
-        "title_min_len": 14,
-    },
-    "www.brookings.edu": {
-        "must_href_contains": ["middle-east", "north-africa", "tunisia"],
-        "prefer_href_contains": ["/research", "/blog", "/article", "/report"],
-        "title_min_len": 14,
-    },
-    "www.crisisgroup.org": {
-        "must_href_contains": ["north-africa", "tunisia"],
-        "prefer_href_contains": ["/report", "/briefing", "/statement", "/update"],
-        "title_min_len": 14,
-    },
-    "www.jeuneafrique.com": {
-        "must_href_contains": ["tunisie"],
-        "prefer_href_contains": ["/politique", "/economie", "/societe"],
-        "title_min_len": 14,
-    },
-
-    # -----------------------
-    # IFI / BANCHE
-    # -----------------------
-    "www.worldbank.org": {
-        "must_href_contains": ["tunisia"],
-        "prefer_href_contains": ["/news", "/press", "/publications", "/projects", "/brief"],
-        "title_min_len": 14,
-    },
-    "www.imf.org": {
-        "must_href_contains": ["/en/"],
-        "prefer_href_contains": [
-            "/countries/tun", "/countries/tunisia",
-            "/news", "/publications", "/press"
-        ],
-        "title_min_len": 14,
-    },
-}
-
-
-# -------------------------
-# Utils
-# -------------------------
-
-def now_rome_str():
-    tz_rome = ZoneInfo("Europe/Rome")
-    dt = datetime.now(tz_rome)
-    # Es: 26 Aug 2025, 08:30 CEST
-    return dt.strftime("%d %b %Y, %H:%M %Z")
-
-def read_feeds(path=FEEDS_FILE):
-    feeds = []
-    if not os.path.exists(path):
-        print(f"[ERROR] {path} non trovato.")
-        return feeds
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            parts = [p.strip() for p in line.split("|")]
-            if len(parts) < 3:
-                continue
-            label, method, url = parts[0], parts[1].lower(), parts[2]
-            feeds.append((label, method, url))
-    return feeds
-
-def fetch(url):
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT, allow_redirects=True)
-        # 403/401 → probabile blocco/JS necessario
-        if r.status_code in (401, 403):
-            return None, f"HTTP {r.status_code} (autorizzazione/blocco)"
-        if r.status_code >= 400:
-            return None, f"HTTP {r.status_code}"
-        # qualche sito serve HTML minimo (JS-heavy)
-        if r.text and len(r.text) < 600:
-            return r.text, "Possibile pagina JS-heavy (contenuto minimo)"
-        return r.text, None
-    except requests.RequestException as e:
-        return None, f"Request error: {e}"
-
-def clean_text(s):
-    s = re.sub(r"\s+", " ", s or "").strip()
-    return s
-
-def looks_like_article(url, title):
-    """Heuristica semplice per decidere se è un articolo vero e non un link di navigazione."""
-    if not url:
-        return False
-    t = (title or "").lower()
-    if len(t) < 10:
-        return False
-    for bad in STOPWORD_TEXT:
-        if bad in t:
-            return False
-    lower_url = url.lower()
-    if any(b in lower_url for b in STOPWORD_HREF_FRAG):
-        return False
-    # segnali "buoni"
-    if re.search(r"/20\d{2}/\d{2}/\d{2}/", lower_url):  # URL con data
-        return True
-    # slug lungo con trattini
-    last = urlparse(lower_url).path.rsplit("/", 1)[-1]
-    if "-" in last and len(last) >= 14:
-        return True
-    # parole chiave “news / press / article”
-    if any(k in lower_url for k in ("/news", "/press", "/article", "/comunicati", "/notizie", "/communique", "/communiques")):
-        return True
-    # fallback
-    return len(title) >= 18
-
-def filter_by_domain_rules(items, domain):
-    rule = DOMAIN_RULES.get(domain) or {}
-    must = rule.get("must_href_contains") or []
-    pref = rule.get("prefer_href_contains") or []
-    title_min = rule.get("title_min_len", 14)
-
-    out = []
-    for title, href in items:
-        if not href:
-            continue
-        t = clean_text(title)
-        if len(t) < title_min:
-            continue
-        L = href.lower()
-        # SE c'è una regola "must", l'URL deve contenerne almeno una
-        if must and not any(m.lower() in L for m in must):
-            continue
-        # applico filtro generale
-        if not looks_like_article(href, t):
-            continue
-        out.append((t, href))
-
-    # Se c'è "prefer", ordina per preferenza
-    if pref:
-        def pref_score(u):
-            L = u[1].lower()
-            return sum(1 for p in pref if p.lower() in L)
-        out.sort(key=pref_score, reverse=True)
-    return out
-
-def extract_items_from_html(html, base_url):
-    """Estrattore generico: cerca <article> e poi <a> significativi; fallback su h1/h2/h3/a."""
-    soup = BeautifulSoup(html, "lxml")
-
-    # 1) Candidati: <article>…<a>
-    anchors = []
-    for art in soup.find_all(["article", "li", "div"], limit=300):
-        # prendi ancore con testo
-        for a in art.find_all("a", href=True):
-            title = clean_text(a.get_text(" ", strip=True))
-            href = urljoin(base_url, a["href"])
-            anchors.append((title, href))
-    # 2) Fallback: titoli diretti
-    if not anchors:
-        for sel in ["h1 a", "h2 a", "h3 a", "a"]:
-            for a in soup.select(sel):
-                if not a.get("href"):
-                    continue
-                title = clean_text(a.get_text(" ", strip=True))
-                href = urljoin(base_url, a["href"])
-                anchors.append((title, href))
-            if anchors:
-                break
-
-    # pulizia: togli duplicati grezzi per href
-    seen = set()
-    uniq = []
-    for title, href in anchors:
-        if href in seen:
-            continue
-        seen.add(href)
-        uniq.append((title, href))
-    return uniq
-
-def harvest_page(url):
-    html, err = fetch(url)
-    if html is None:
-        return [], err or "Pagina non leggibile"
-    domain = urlparse(url).netloc.lower()
-    items_raw = extract_items_from_html(html, url)
-    items = filter_by_domain_rules(items_raw, domain)
-    # se non ha trovato nulla, prova a salvare qualcosa di “decente” dal grezzo
-    if not items:
-        # fallback: prendi i primi che sembrano notizie
-        fallback = []
-        for title, href in items_raw:
-            if looks_like_article(href, title):
-                fallback.append((title, href))
-            if len(fallback) >= MAX_ITEMS_PER_SOURCE:
-                break
-        if fallback:
-            items = fallback
-    return items[:MAX_ITEMS_PER_SOURCE], err
-
-def harvest_rss(url):
-    # opzionale per futuro; qui manteniamo struttura in modo che non esploda se compare "rss"
-    try:
-        import feedparser
-    except Exception:
-        return [], "feedparser non installato"
-    try:
-        d = feedparser.parse(url)
-        out = []
-        for e in d.entries[:MAX_ITEMS_PER_SOURCE]:
-            title = clean_text(getattr(e, "title", "") or "")
-            link = getattr(e, "link", "")
-            if title and link:
-                out.append((title, link))
-        return out, None if out else "RSS vuoto"
-    except Exception as e:
-        return [], f"RSS error: {e}"
-
-def build_digest(feeds_results):
-    parts = []
-    parts.append(f"# Daily EU/Tunisia Digest\n\n*Generato: {now_rome_str()}*\n")
-    current_section = None
-
-    for label, ok_items, err in feeds_results:
-        # Sezione
-        if current_section != label:
-            parts.append(f"\n## {label}\n")
-
-        if ok_items:
-            for (title, link) in ok_items:
-                parts.append(f"- [{title}]({link})")
-        else:
-            msg = err or "nessuna novità rilevante o pagina non leggibile"
-            parts.append(f"- _(nessun elemento) — {msg}_")
-
-        current_section = label
-
-    return "\n".join(parts) + "\n"
-
-def main():
-    feeds = read_feeds(FEEDS_FILE)
-    if not feeds:
-        print("[ERROR] Nessuna fonte in feeds.txt")
-        sys.exit(1)
-
-    results = []
-    for (label, method, url) in feeds:
-        label_str = label.strip()
-        method = method.strip().lower()
-        url = url.strip()
-        print(f"[INFO] {label_str} → {method.upper()} → {url}")
-        items, err = (harvest_rss(url) if method == "rss" else harvest_page(url))
-        results.append((label_str, items, err))
-
-    md = build_digest(results)
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(md)
-    print(f"[OK] Scritto {OUTPUT_FILE} ({len(results)} sezioni)")
-
-if __name__ == "__main__":
-    main()
 
