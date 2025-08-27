@@ -2,3 +2,5 @@ requests
 beautifulsoup4
 lxml
 python-dateutil
+feedparser==6.0.11
+certifi>=2024.7.4
