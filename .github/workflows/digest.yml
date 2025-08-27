@@ -1,87 +1,135 @@
-name: Build Daily EU/Tunisia Digest
+name: make-digest (EMM radar + daily)
 
 on:
+  workflow_dispatch:
+    inputs:
+      force_now:
+        description: "Esegui subito (ignora l'orario feriale)"
+        type: boolean
+        default: false
   schedule:
-    # Ogni ora nei feriali (UTC)
+    # Ogni ora nei giorni feriali (in UTC). Faremo gating interno su Europe/Rome.
     - cron: "0 * * * 1-5"
-  workflow_dispatch: {}
+
+concurrency:
+  group: digest-main
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
-concurrency:
-  group: digest
-  cancel-in-progress: false
-
 jobs:
   make-digest:
     runs-on: ubuntu-latest
-    env:
-      # === Config digerita dal tuo make_digest.py ===
-      TIMEZONE: Europe/Rome
-      OUTPUT_MD: README.md
-      PER_SECTION_LIMIT: "12"
-      EMM_RADAR_JSON: /tmp/emm_radar.json
-      EMM_RADAR_TITLE: "EMM Radar – ultime 24h"
-      EMM_RADAR_LOOKBACK_HOURS: "24"
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # --- R + deps (NOVITÀ) ---
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
+      # Decide se eseguire davvero in base a orario feriale Europe/Rome
+      - name: Decide run window (Europe/Rome)
+        id: decide
+        shell: bash
+        run: |
+          echo "RUN_DIGEST=false" >> $GITHUB_ENV
 
-      - name: Install R deps (quotefinder + base)
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          extra-packages: |
-            any::jsonlite
-            any::xml2
-            any::rvest
-            any::httr2
-            any::dplyr
-            any::purrr
-            any::stringr
-            any::lubridate
-            edjnet/quotefinder
+          # se lanci a mano con force_now=true, esegui sempre
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_now }}" = "true" ]; then
+            echo "RUN_DIGEST=true" >> $GITHUB_ENV
+            echo "reason=manual-force" >> $GITHUB_OUTPUT
+            exit 0
+          fi
 
-      - name: Run EMM Radar (R)
-        run: Rscript scripts/emm_radar.R
+          dow=$(TZ=Europe/Rome date +%u)   # 1=Mon ... 7=Sun
+          hour=$(TZ=Europe/Rome date +%H)  # 00..23
+          allowed=" 00 06 09 11 12 13 15 18 21 "
+          if [ "$dow" -le 5 ] && [[ "$allowed" == *" $hour "* ]]; then
+            echo "RUN_DIGEST=true" >> $GITHUB_ENV
+            echo "reason=scheduled-ok" >> $GITHUB_OUTPUT
+          else
+            echo "reason=skipped-outside-window" >> $GITHUB_OUTPUT
+          fi
 
-      # --- Python + digest (AGGIUNTO) ---
+      - name: Show decision
+        run: |
+          echo "RUN_DIGEST=$RUN_DIGEST"
+          echo "Reason: ${{ steps.decide.outputs.reason }}"
+
+      # ---------- Python (per make_digest.py) ----------
       - name: Setup Python
+        if: env.RUN_DIGEST == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
 
       - name: Install Python deps
-        run: pip install -r requirements.txt
+        if: env.RUN_DIGEST == 'true'
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            python -m pip install --upgrade pip
+            # deps base comuni (adatta se serve)
+            pip install requests feedparser python-dateutil pytz beautifulsoup4
+          fi
 
-      - name: Build digest (Python)
-        run: python make_digest.py
+      # ---------- R (per EMM Radar via quotefinder) ----------
+      - name: Set up R
+        if: env.RUN_DIGEST == 'true'
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true   # binari + system requirements automatici
 
-      # --- (Opzionale) carico artefatti per debug ---
-      - name: Upload artifacts (optional)
-        if: always()
+      - name: Install R deps (pak)
+        if: env.RUN_DIGEST == 'true'
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 1
+          extra-packages: |
+            any::jsonlite
+            any::xml2
+            any::httr
+            any::rvest
+            any::dplyr
+            any::stringr
+            any::purrr
+            github::edjnet/quotefinder
+          needs: |
+            jsonlite
+            xml2
+            httr
+            rvest
+            dplyr
+            stringr
+            purrr
+            edjnet/quotefinder
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run EMM Radar (Rscript)
+        if: env.RUN_DIGEST == 'true'
+        run: Rscript scripts/emm_radar.R
+
+      - name: Upload EMM radar artifact (facoltativo)
+        if: env.RUN_DIGEST == 'true' && hashFiles('data/emm_radar.json') != ''
         uses: actions/upload-artifact@v4
         with:
-          name: digest-artifacts
-          path: |
-            /tmp/emm_radar.json
-            ${{ env.OUTPUT_MD }}
+          name: emm_radar
+          path: data/emm_radar.json
           if-no-files-found: ignore
 
-      # --- Commit & push solo se ci sono cambi ---
-      - name: Commit & push
+      # ---------- Build digest ----------
+      - name: Run digest builder (make_digest.py)
+        if: env.RUN_DIGEST == 'true'
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            git commit -m "chore(digest): aggiorna digest automatico [skip ci]"
-            git push
-          else
-            echo "Nessuna modifica da committare."
-          fi
+          python make_digest.py
+
+      # ---------- Commit & push ----------
+      - name: Commit changes
+        if: env.RUN_DIGEST == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "digest: update Daily EU/Tunisia + EMM Radar"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          push_options: "--force-with-lease"
