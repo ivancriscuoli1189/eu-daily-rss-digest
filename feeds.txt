@@ -1,47 +1,42 @@
 # ITALIA — ISTITUZIONI
 ITALIA ISTITUZIONI – MAECI – Comunicati stampa|html|https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/
 ITALIA ISTITUZIONI – Governo – Comunicati CdM|html|https://www.governo.it/it/archivio-riunioni
-ITALIA ISTITUZIONI – AICS – Comunicati stampa|html|https://www.aics.gov.it/comunicati-stampa/
 ITALIA ISTITUZIONI – Viminale – Dati e statistiche|html|https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche
 
 # TUNISIA — ISTITUZIONI
-TUNISIA ISTITUZIONI – Présidence du Gouvernement|html|https://pm.gov.tn/en/decision-gouvernementale
-TUNISIA ISTITUZIONI – INS – Calendrier de diffusion|html|https://www.ins.tn/calendar
+TUNISIA ISTITUZIONI – Présidence du Gouvernement (Actualités)|html|https://pm.gov.tn/en/article
 TUNISIA ISTITUZIONI – INS – Communiqués de presse|html|https://www.ins.tn/communique-de-presse
+TUNISIA ISTITUZIONI – INS – Calendrier de diffusion|html|https://www.ins.tn/calendar
 TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)|html|http://www.carthage.tn/ar
-TUNISIA ISTITUZIONI – Ministero dell’Interno|html|https://www.interieur.gov.tn/
 
 # UE — ISTITUZIONI / PORTALI
-UE – EUR-Lex – Homepage|html|https://eur-lex.europa.eu/homepage.html?locale=en
 UE – EP – Press Room|html|https://www.europarl.europa.eu/news/en/press-room
-UE – EP – OEIL (Osservatorio Legislativo)|html|https://oeil.secure.europarl.europa.eu/
+UE – EP – OEIL (Osservatorio Legislativo)|html|https://oeil.secure.europarl.europa.eu/oeil/en
 UE – Commission – News & media hub|html|https://commission.europa.eu/news-and-media_en
 UE – Consilium – Press releases|html|https://www.consilium.europa.eu/en/press/press-releases/
 UE – EEAS – Delegation of the EU to Tunisia – Press|html|https://www.eeas.europa.eu/filter-page/press-material_en?f%5B0%5D=press_site%3ATunisia&s=126
 UE – EEAS – Delegation of the EU to Tunisia – Stories|html|https://www.eeas.europa.eu/filter-page/stories-blogs_en?f%5B0%5D=bs_site%3ATunisia&s=126
-UE – DG NEAR – Tunisia country page|html|https://neighbourhood-enlargement.ec.europa.eu/tunisia_en
+UE – DG NEAR – Tunisia – News|html|https://neighbourhood-enlargement.ec.europa.eu/news_en?country=Tunisia
 UE – DG HOME – News|html|https://home-affairs.ec.europa.eu/news_en
 
 # UE–TUNISIE — PORTALI PROGETTI
 UE – Tunisie – Projects portal (Agriculture)|html|https://ue-tunisie.org/projetsGrp-192-1_agriculture.html
 UE – Tunisie – Projects portal (Governance)|html|https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html
 
-# AGENZIE / MEDIA TN
+# MEDIA / AGENZIE TUNISIA
 MEDIA TUNISIA – La Presse de Tunisie|html|https://lapresse.tn/
-AGENZIE – TAP (Agence Tunis Afrique Presse)|html|https://www.tap.info.tn/en
 
 # ONG / DIRITTI UMANI
 NGOs – Amnesty International – Tunisia|html|https://www.amnesty.org/en/location/middle-east-and-north-africa/tunisia/
 NGOs – Human Rights Watch – Tunisia|html|https://www.hrw.org/middle-east/n-africa/tunisia
-NGOs – International Commission of Jurists – MENA|html|https://www.icj.org/news-and-advocacy/
+NGOs – International Commission of Jurists – News & Advocacy|html|https://www.icj.org/news-and-advocacy/
 
 # THINK TANK / MAGAZINES
-THINK TANK – Carnegie MENA|html|https://carnegie-mec.org/
-THINK TANK – IAI – Mediterraneo e Medioriente|html|https://www.iai.it/en/area/mediterraneo-e-medioriente/ricerca
-THINK TANK – ISPI – MENA|html|https://www.ispionline.it/it/tag/mena
+THINK TANK – Carnegie MENA – Research|html|https://carnegie-mec.org/research
 THINK TANK – ECFR – MENA|html|https://ecfr.eu/mena/
-THINK TANK – CESPI|html|https://www.cespi.it/it/eventi-attualita
-THINK TANK – Brookings – Middle East|html|https://www.brookings.edu/regions/middle-east-north-africa/
+THINK TANK – CESPI – Attualità|html|https://www.cespi.it/it/eventi-attualita
+THINK TANK – Brookings – Middle East – Articles|html|https://www.brookings.edu/regions/middle-east-north-africa/?post_type=articles
 MAGAZINES – Jeune Afrique|html|https://www.jeuneafrique.com/
-MAGAZINES – LIMES|html|https://www.limesonline.com/rubriche/mappe-parlanti/
+MAGAZINES – LIMES – Mappe parlanti|html|https://www.limesonline.com/rubriche/mappe-parlanti/
+
 
