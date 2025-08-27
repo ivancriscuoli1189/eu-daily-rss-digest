@@ -1,18 +1,7 @@
-name: make-digest (EMM radar + daily)
+name: Digest (manual)
 
 on:
   workflow_dispatch:
-    inputs:
-      force_now:
-        description: "Esegui subito (ignora l'orario feriale)"
-        type: boolean
-        default: false
-  schedule:
-    - cron: "0 * * * 1-5"  # ogni ora feriale (UTC) – gating interno su Europe/Rome
-
-concurrency:
-  group: digest-main
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -22,93 +11,48 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Decide run window (Europe/Rome)
-        id: decide
-        shell: bash
-        run: |
-          echo "RUN_DIGEST=false" >> $GITHUB_ENV
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force_now }}" = "true" ]; then
-            echo "RUN_DIGEST=true" >> $GITHUB_ENV
-            echo "reason=manual-force" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-          dow=$(TZ=Europe/Rome date +%u)   # 1..7
-          hour=$(TZ=Europe/Rome date +%H)  # 00..23
-          allowed=" 00 06 09 11 12 13 15 18 21 "
-          if [ "$dow" -le 5 ] && [[ "$allowed" == *" $hour "* ]]; then
-            echo "RUN_DIGEST=true" >> $GITHUB_ENV
-            echo "reason=scheduled-ok" >> $GITHUB_OUTPUT
-          else
-            echo "reason=skipped-outside-window" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Show decision
-        run: |
-          echo "RUN_DIGEST=$RUN_DIGEST"
-          echo "Reason: ${{ steps.decide.outputs.reason }}"
-
-      # ---------- Python ----------
       - name: Setup Python
-        if: env.RUN_DIGEST == 'true'
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-          cache: "pip"
+          python-version: '3.11'
 
       - name: Install Python deps
-        if: env.RUN_DIGEST == 'true'
-        run: |
-          if [ -f requirements.txt ]; then
-            pip install -r requirements.txt
-          else
-            python -m pip install --upgrade pip
-            pip install requests feedparser python-dateutil pytz beautifulsoup4
-          fi
+        run: pip install -r requirements.txt
 
-      # ---------- R per EMM Radar (installazione minimale, NO rtweet) ----------
-      - name: Set up R
-        if: env.RUN_DIGEST == 'true'
+      - name: Setup R
         uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
 
-      - name: Install minimal R deps + quotefinder (no Suggests)
-        if: env.RUN_DIGEST == 'true'
-        shell: Rscript {0}
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          repos <- "https://cloud.r-project.org"
-          install.packages(c("jsonlite","xml2","httr","rvest","dplyr","stringr","purrr","remotes"), repos=repos)
-          # evita install di Suggests (es. rtweet)
-          Sys.setenv(R_REMOTES_NO_ERRORS_FROM_WARNINGS="true")
-          remotes::install_github("edjnet/quotefinder", dependencies = FALSE, upgrade = "never")
+      - name: Install R deps for EMM Radar
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          use-public-rspm: true
+          extra-packages: |
+            any::jsonlite
+            any::httr2
+            any::xml2
+            any::rvest
+            any::dplyr
+            any::stringr
+            any::purrr
+            any::tibble
 
       - name: Run EMM Radar (Rscript)
-        if: env.RUN_DIGEST == 'true'
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+          EMM_URLS: "https://emm.newsbrief.eu/NewsBrief/countryedition/it/TN.html,https://emm.newsbrief.eu/NewsBrief/countryedition/it/IT.html"
+          EMM_OUTPUT: data/sources/emm_radar.json
+          EMM_MAX_ITEMS: "40"
         run: Rscript scripts/emm_radar.R
 
-      - name: Upload EMM radar artifact (facoltativo)
-        if: env.RUN_DIGEST == 'true' && hashFiles('data/emm_radar.json') != ''
-        uses: actions/upload-artifact@v4
-        with:
-          name: emm_radar
-          path: data/emm_radar.json
-          if-no-files-found: ignore
-
-      # ---------- Build digest ----------
-      - name: Run digest builder (make_digest.py)
-        if: env.RUN_DIGEST == 'true'
+      - name: Build digest (Python)
         run: python make_digest.py
 
-      - name: Commit changes
-        if: env.RUN_DIGEST == 'true'
+      - name: Commit & push digest
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "digest: update Daily EU/Tunisia + EMM Radar"
-          commit_user_name: "github-actions[bot]"
-          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          push_options: "--force-with-lease"
+          commit_message: "ci(digest): update digest.md (with EMM Radar)"
