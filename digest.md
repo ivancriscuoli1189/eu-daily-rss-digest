@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 13:28 CEST*
+*Generato: 27 Aug 2025, 13:39 CEST*
 
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
@@ -84,28 +84,9 @@
 - [MEPs reject motion of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29455/meps-reject-motion-of-censure-against-the-european-commission)
 - [107th Rose-Roth Seminar: spotlight on security and defence challenges](https://www.europarl.europa.eu/news/en/press-room/20250710IPR29588/107th-rose-roth-seminar-spotlight-on-security-and-defence-challenges)
 
-## UE – EP – OEIL (Osservatorio Legislativo)
-
-- [Tuesday 9 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250909&sessionDay.type=ALL)
-- [Wednesday 10 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250910&sessionDay.type=ALL)
-- [Thursday 11 September 2025](https://oeil.secure.europarl.europa.eu/oeil/en/search?sessionDay.allDays=false&sessionDay.day=20250911&sessionDay.type=ALL)
-
 ## UE – Commission – News & media hub
 
 - [News from Commission Departments](https://commission.europa.eu/news-and-media/news_en)
-
-## UE – DG NEAR – Tunisia – News
-
-- [EU delivers over €4 billion to Ukraine ahead of its Independence Day](https://neighbourhood-enlargement.ec.europa.eu/news/eu-delivers-over-eu4-billion-ukraine-ahead-its-independence-day-2025-08-22_en)
-- [Enhancing Radiological Data Exchange and Strengthening Cooperation in Nuclear Safety between the EU and the Western Balkans](https://neighbourhood-enlargement.ec.europa.eu/news/enhancing-radiological-data-exchange-and-strengthening-cooperation-nuclear-safety-between-eu-and-2025-08-20_en)
-- [Statement by President von der Leyen with President Zelenskyy following their meeting](https://neighbourhood-enlargement.ec.europa.eu/news/statement-president-von-der-leyen-president-zelenskyy-following-their-meeting-2025-08-18_en)
-- [The European Union mobilises €500 million for Ukraine’s emergency winter gas purchases](https://neighbourhood-enlargement.ec.europa.eu/news/european-union-mobilises-eu500-million-ukraines-emergency-winter-gas-purchases-2025-08-13_en)
-- [Call for Journalists from EU Member States - Press Trip to Montenegro](https://neighbourhood-enlargement.ec.europa.eu/news/call-journalists-eu-member-states-press-trip-montenegro-2025-08-12_en)
-- [Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the fifth anniversary of the fraudulent presidential elections in Belarus](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-high-representativevice-president-kallas-and-commissioner-kos-fifth-anniversary-2025-08-09_en)
-- [Joint statement by President Costa of the European Council and President von der Leyen of the European Commission on the initialling of the Armenia-Azerbaijan Peace Treaty and on the declaration between President Aliyev and PM Pashinyan in Washington DC](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-president-costa-european-council-and-president-von-der-leyen-european-commission-2025-08-08_en)
-- [EU initiative “Mayors for Economic Growth”: 10 Armenian, Moldovan and Ukrainian cities to receive funding for resilience and local economic growth](https://neighbourhood-enlargement.ec.europa.eu/news/eu-initiative-mayors-economic-growth-10-armenian-moldovan-and-ukrainian-cities-receive-funding-2025-08-07_en)
-- [Commission paves the way for Moldova to join the Creative Europe programme](https://neighbourhood-enlargement.ec.europa.eu/news/commission-paves-way-moldova-join-creative-europe-programme-2025-07-29_en)
-- [Joint Statement by Turkish Foreign Minister H.E. Hakan Fidan and EU Commissioner for Enlargement H.E. Marta Kos Following their Meeting in Istanbul](https://neighbourhood-enlargement.ec.europa.eu/news/joint-statement-turkish-foreign-minister-he-hakan-fidan-and-eu-commissioner-enlargement-he-marta-kos-2025-07-28_en)
 
 ## UE – DG HOME – News
 
@@ -179,9 +160,6 @@
 
 ## THINK TANK – ECFR – MENA
 
-- [Middle East and North Africa](https://ecfr.eu/mena/)
-- [Human rights and democracy](https://ecfr.eu/category/human-rights/)
-- [Technology and information](https://ecfr.eu/category/digital/)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 - [Pieces in motion: Rebalancing power in a new Levantine order](https://ecfr.eu/publication/pieces-in-motion-rebalancing-power-in-a-new-levantine-order/)
 - [Anatomy of a chokepoint: Mapping power and conflict in the Red Sea](https://ecfr.eu/special/anatomy-of-a-chokepoint-mapping-power-and-conflict-in-the-red-sea/)
@@ -190,6 +168,9 @@
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 - [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
 - [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
+- [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
+- [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
+- [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -201,11 +182,8 @@
 
 ## THINK TANK – Brookings – Middle East – Articles
 
-- [Only Trump can save Israel from its own government](https://foreignpolicy.com/2025/08/14/trump-save-israel-netanyahu-gaza/)
 - [Support for Israel continues to deteriorate, especially among Democrats and young people](https://www.brookings.edu/articles/support-for-israel-continues-to-deteriorate-especially-among-democrats-and-young-people/)
-- [Iran’s dangerous desperation](https://www.foreignaffairs.com/iran/irans-dangerous-desperation)
 - [The road to the Israel-Iran war](https://www.brookings.edu/articles/the-road-to-the-israel-iran-war/)
-- [Democracy, Conflict, & Governance](https://www.brookings.edu/topics/democracy-conflict-and-governance/)
 
 ## MAGAZINES – Jeune Afrique
 
@@ -215,7 +193,7 @@
 - [Commerce informel, préférence nationale et rejet des étrangers : le pari risqué d’Oligui Nguema](https://www.jeuneafrique.com/1716295/politique/commerce-informel-preference-nationale-et-rejet-des-etrangers-le-pari-risque-doligui-nguema/)
 - [En Côte d’Ivoire, une attaque à la frontière avec le Burkina Faso fait quatre morts](https://www.jeuneafrique.com/1716997/politique/en-cote-divoire-une-attaque-a-la-frontiere-avec-le-burkina-faso-fait-quatre-morts/)
 - [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
-- [Noureddine Bensouda, l’ex-camarade de Mohammed VI devenu le gardien des finances publiques marocaines](https://www.jeuneafrique.com/1717271/economie-entreprises/noureddine-bensouda-lex-camarade-de-mohammed-vi-devenu-le-gardien-des-finances-publiques-marocaines/)
+- [En RDC, le verdict dans le procès de Constant Mutamba est reporté](https://www.jeuneafrique.com/1717268/politique/en-rdc-le-verdict-dans-le-proces-de-constant-mutamba-est-reporte/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
