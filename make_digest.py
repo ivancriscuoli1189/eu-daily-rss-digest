@@ -1,289 +1,451 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
 """
-Daily EU/Tunisia Digest builder
-- Legge feeds.txt (formato: LABEL|TIPO|URL)
-- TIPO: rss -> parse_rss ; html -> parse_html_links (con selettori per dominio)
-- Filtra voci di navigazione / duplicati / link inutili
-- Scrive digest.md con timestamp Europe/Rome
+make_digest.py
+Genera un digest Markdown da:
+  - feeds tipizzati in feeds.txt  (formato: LABEL|TIPO|URL)
+  - (opzionale) EMM Radar JSON prodotto da scripts/emm_radar.R
+
+TIPO supportati:
+  - rss  -> parsing via feedparser
+  - html -> scraping generico con BeautifulSoup; usa selettori di fallback
+            + qualche selettore specifico per dominio quando noto
+
+ENV opzionali:
+  OUTPUT_MD=README.md
+  PER_SECTION_LIMIT=10
+  EMM_RADAR_JSON=/tmp/emm_radar.json
+  EMM_RADAR_TITLE=EMM Radar – ultime 12 ore
+  EMM_RADAR_LOOKBACK_HOURS=12
+  TIMEZONE=Europe/Rome
 """
 
 from __future__ import annotations
-import os, sys, time, hashlib
-from datetime import datetime
+
+import os
+import re
+import json
+import html
+import time
+import socket
+import logging
 from urllib.parse import urlparse, urljoin
-from zoneinfo import ZoneInfo
+from datetime import datetime, timedelta
 
 import requests
 import feedparser
-import certifi
 from bs4 import BeautifulSoup
 
-REQUEST_TIMEOUT = 20
-USER_AGENT = (
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
-)
+try:
+    import pytz
+except Exception:
+    pytz = None
+
+# ----------------------- Config base -----------------------
+
+OUTPUT_MD = os.getenv("OUTPUT_MD", "README.md")
+PER_SECTION_LIMIT = int(os.getenv("PER_SECTION_LIMIT", "10"))
+EMM_RADAR_JSON = os.getenv("EMM_RADAR_JSON", "/tmp/emm_radar.json")
+EMM_RADAR_TITLE = os.getenv("EMM_RADAR_TITLE", "EMM Radar – ultime 12 ore")
+EMM_RADAR_LOOKBACK_HOURS = int(os.getenv("EMM_RADAR_LOOKBACK_HOURS", "12"))
+TZ_NAME = os.getenv("TIMEZONE", "Europe/Rome")
+
 HEADERS = {
-    "User-Agent": USER_AGENT,
-    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8,fr;q=0.7",
+    "User-Agent": "eu-daily-digest-bot/1.0 (+https://github.com/)",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
-# Evita voci di menu / accessibilità / landing generiche
-BLACKLIST_TEXT = {
-    "salta al contenuto", "vai al contenuto", "passa al contenuto",
-    "access to page content", "direct access to language menu",
-    "direct access to search menu", "access to search field",
-    "raggiungi il piè di pagina", "vai a piè di pagina", "footer",
-    "amministrazione trasparente", "privacy", "cookies", "search", "language",
-    "visual stories", "skip to main content", "go to main content",
-    "accéder au contenu", "aller au contenu",
-}
-MIN_TEXT_LEN = 24
+REQUEST_TIMEOUT = (10, 20)  # (conn, read)
 
-# Limiti
-HTML_LIMIT = 12
-RSS_LIMIT = 8
+logging.basicConfig(
+    level=logging.INFO,
+    format="[%(levelname)s] %(message)s"
+)
 
-# Selettori per dominio (fallback: 'a[href]')
-DOMAIN_SELECTORS = {
-    # ITALIA
-    "www.esteri.it": "article a[href], .news-list a[href]",
-    "www.governo.it": ".view-content a[href], article a[href]",
-    "www.aics.gov.it": "article a[href], .post-list a[href], .list a[href]",
-    "www.interno.gov.it": ".view-content a[href], .field--name-body a[href], article a[href]",
-    # TUNISIA / ISTITUZIONI
-    "pm.gov.tn": "article a[href], .view-content a[href], .grid a[href]",
-    "www.ins.tn": ".view-content a[href], article a[href]",
-    "www.carthage.tn": ".views-row a[href], article a[href]",
-    # UE / ISTITUZIONI
-    "eur-lex.europa.eu": ".ecl-teaser__title a[href], .ecl-list a[href]",
-    "oeil.secure.europarl.europa.eu": "a[href^='/oeil/']",
-    "www.europarl.europa.eu": "article a[href^='/news/'], a[href*='/press-room/']",
-    "commission.europa.eu": ".ecl-list a[href], article a[href], .ecl-link a[href]",
-    "ec.europa.eu": ".ecl-list a[href], article a[href]",
-    "www.consilium.europa.eu": ".ecl-listing a[href], article a[href], .listing a[href]",
-    "www.eeas.europa.eu": "article a[href], .ecl-u-margin-bottom-l a[href], .ecl-link a[href]",
-    "enlargement.ec.europa.eu": ".ecl-list a[href], article a[href]",
-    "home-affairs.ec.europa.eu": ".ecl-list a[href], article a[href]",
-    "neighbourhood-enlargement.ec.europa.eu": ".ecl-list a[href], article a[href]",
-    # UE–Tunisie
-    "ue-tunisie.org": ".box-project a[href^='/projet-'], .box-cat a[href], .pagination a[href]",
-    # MEDIA/NGO/TT
-    "lapresse.tn": "article a[href], .entry-title a[href]",
-    "www.jeuneafrique.com": "article a[href], .c-listing__item a[href]",
-    "www.hrw.org": "article a[href], .c-block-list a[href], .content-list a[href]",
-    "www.amnesty.org": "article a[href], .o-archive-list__item a[href]",
-    "www.icj.org": ".posts-list a[href], article a[href]",
-    "www.iai.it": "article a[href], .views-row a[href]",
-    "www.cespi.it": "article a[href], .view-content a[href]",
-    "www.limesonline.com": "article a[href], .article-card a[href]",
-    "scuoladilimes.it": "a[href]",
-    "www.brookings.edu": "a[href*='/articles/'], a[href*='/news/'], .river__item a[href]",
-    "www.worldbank.org": ".wbg-cards a[href], article a[href], a.wbg-link[href]",
-    "www.imf.org": "article a[href], .o_news a[href], .o_article a[href]",
-    "carnegie-mec.org": "a[href*='/research/'], article a[href]",
-    "ecfr.eu": "article a[href], .listing a[href], .page__content a[href]",
-}
+# ----------------------- Util -----------------------
 
-# Per alcuni domini accetta solo link interni (evita passaggi a siti esterni)
-SAME_DOMAIN_ONLY = {
-    "www.brookings.edu",
-    "carnegie-mec.org",
-    "ecfr.eu",
-    "www.cespi.it",
-    "www.jeuneafrique.com",
-    "www.limesonline.com",
-    "www.hrw.org",
-    "www.amnesty.org",
-    "www.iai.it",
-    "www.worldbank.org",
-    "home-affairs.ec.europa.eu",
-    "neighbourhood-enlargement.ec.europa.eu",
-    "commission.europa.eu",
-}
+def now_tz():
+    if pytz:
+        tz = pytz.timezone(TZ_NAME)
+        return datetime.now(tz)
+    # fallback naive
+    return datetime.now()
 
-# Esclusioni brutali nel link (case-insensitive)
-EXCLUDE_URL_CONTAINS = {
-    "sessionday=",  # OEIL "giorno di seduta"
-    "/login", "/signin", "/privacy", "/cookies", "/subscribe", "/abonnement",
-}
+def fmt_generated(dt: datetime) -> str:
+    # Esempio: 27 Aug 2025, 13:39 CEST
+    return dt.strftime("%d %b %Y, %H:%M %Z") if dt.tzinfo else dt.strftime("%d %b %Y, %H:%M")
 
-def log(*args):
-    print(*args, file=sys.stderr)
+def clean_text(s: str) -> str:
+    if not s:
+        return ""
+    s = html.unescape(s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
 
-def is_nav(text: str) -> bool:
-    t = (text or "").strip().lower()
-    if not t or len(t) < MIN_TEXT_LEN:
-        return True
-    return any(k in t for k in BLACKLIST_TEXT)
-
-def fetch(url: str, timeout: int = REQUEST_TIMEOUT) -> str:
-    last_err = None
-    for _ in range(2):
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=timeout, verify=certifi.where())
-            r.raise_for_status()
-            return r.text
-        except Exception as e:
-            last_err = e
-            time.sleep(1)
-    raise last_err
-
-def get_selector_for_url(url: str) -> str:
-    netloc = urlparse(url).netloc.lower()
-    return DOMAIN_SELECTORS.get(netloc, "a[href]")
-
-def same_domain_required(src_netloc: str) -> bool:
-    return src_netloc in SAME_DOMAIN_ONLY
-
-def should_keep(text: str, full_url: str, src_netloc: str) -> bool:
-    lt = (text or "").strip().lower()
-    lu = (full_url or "").lower()
-    if not full_url or is_nav(text):
-        return False
-    if lu.startswith(("tel:", "mailto:", "javascript:")) or full_url.endswith("#") or lu == "#":
-        return False
-    if any(k in lu for k in EXCLUDE_URL_CONTAINS):
-        return False
-
-    dest_netloc = urlparse(full_url).netloc.lower()
-
-    # Richiedi link interni per alcuni domini
-    if same_domain_required(src_netloc) and dest_netloc and dest_netloc != src_netloc:
-        return False
-
-    # Regole specifiche per domini "problematici"
-    if src_netloc == "oeil.secure.europarl.europa.eu":
-        # tieni solo schede/procedure/priorità; scarta pagine di ricerca per giorno
-        good = any(x in lu for x in ("/oeil/en/file/", "/oeil/en/document/", "/oeil/en/legislative-priorities", "/oeil/en/procedure/"))
-        if not good:
-            return False
-
-    if src_netloc in ("commission.europa.eu", "ec.europa.eu"):
-        # punta a vere "news"
-        if "/news" not in lu and "/press" not in lu:
-            return False
-
-    if src_netloc == "neighbourhood-enlargement.ec.europa.eu":
-        # limita alle news pertinenti alla Tunisia
-        if "tunisia" not in lu and "tunisie" not in lt and "tunis" not in lt:
-            return False
-
-    return True
-
-def parse_rss(url: str, limit: int = RSS_LIMIT):
-    items = []
-    feed = feedparser.parse(url)
-    for e in feed.entries[:limit]:
-        title = getattr(e, "title", "").strip()
-        link = getattr(e, "link", "").strip()
-        if title and link and not is_nav(title):
-            items.append((title, link))
-    return items
-
-def parse_html_links(url: str, limit: int = HTML_LIMIT):
-    html = fetch(url)
-    soup = BeautifulSoup(html, "lxml")
-    selector = get_selector_for_url(url)
-    src_netloc = urlparse(url).netloc.lower()
-
+def dedupe_by_url(items: list[tuple[str, str]]) -> list[tuple[str, str]]:
+    seen = set()
     out = []
-    for a in soup.select(selector):
-        txt = (a.get_text(strip=True) or "")
-        href = a.get("href")
-        if not href:
-            continue
-        full = urljoin(url, href)
-        # preferisci https (tranne Carthage che serve spesso http)
-        if full.startswith("http://") and "carthage.tn" not in full:
-            full = full.replace("http://", "https://", 1)
-        if not should_keep(txt, full, src_netloc):
-            continue
-        out.append((txt, full))
-        if len(out) >= limit:
-            break
-
-    # piccole ripuliture per testi "generici"
-    cleaned = []
-    for t, u in out:
-        lt = t.lower()
-        if lt.startswith("aller au projet") or lt in {"vai al contenuto", "salta al contenuto"}:
-            continue
-        cleaned.append((t, u))
-    return cleaned
-
-def dedup(items):
-    seen, out = set(), []
-    for t, u in items:
-        key = hashlib.sha1((t.strip().lower() + "|" + u).encode("utf-8")).hexdigest()
-        if key not in seen:
-            seen.add(key); out.append((t, u))
+    for title, url in items:
+        key = url.strip().lower()
+        if key and key not in seen:
+            seen.add(key)
+            out.append((title, url))
     return out
 
-def read_feeds(path: str):
+def get_domain(url: str) -> str:
+    try:
+        return urlparse(url).netloc.lower()
+    except Exception:
+        return ""
+
+def safe_get(url: str) -> requests.Response | None:
+    try:
+        return requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    except requests.RequestException as e:
+        logging.warning(f"GET fallita: {url} -> {e}")
+        return None
+
+# ----------------------- Feeds config -----------------------
+
+def load_feeds_config(path: str = "feeds.txt") -> list[dict]:
+    """
+    Legge linee tipo:
+      LABEL|TIPO|URL
+    dove TIPO è 'rss' o 'html'
+    """
     feeds = []
+    if not os.path.exists(path):
+        logging.warning("feeds.txt non trovato; nessuna sezione istituzionale verrà generata.")
+        return feeds
+
     with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
+        for raw in f:
+            line = raw.strip()
             if not line or line.startswith("#"):
                 continue
             parts = [p.strip() for p in line.split("|")]
             if len(parts) < 3:
-                log("IGNORA riga malformata:", line)
+                logging.warning(f"Riga feeds.txt non valida (attese 3 colonne): {line}")
                 continue
-            label, kind, url = parts[0], parts[1].lower(), parts[2]
-            feeds.append((label, kind, url))
+            label, tipo, url = parts[0], parts[1].lower(), parts[2]
+            feeds.append({"label": label, "type": tipo, "url": url})
     return feeds
 
-def build_section(label: str, items):
+# ----------------------- Parsers -----------------------
+
+# Selettori specifici per alcuni domini (tendono a cambiare: fallback generici sotto)
+DOMAIN_SELECTORS: dict[str, list[str]] = {
+    # MAECI
+    "www.esteri.it": [
+        "article h3 a",
+        "ul li h3 a",
+        "ul li a",
+        "a.title",
+        "a[href*='/comunicati/']",
+    ],
+    # Governo
+    "www.governo.it": [
+        "article h2 a",
+        ".views-row h3 a",
+        "ul li h3 a",
+        "ul li a",
+    ],
+    # Viminale
+    "www.interno.gov.it": [
+        "article h3 a",
+        ".view-content .views-row h3 a",
+        ".view-content .views-row a",
+    ],
+    # Europarl Press Room
+    "www.europarl.europa.eu": [
+        "article h3 a",
+        ".ep-press-release__title a",
+        ".ecl-list-unstyled a",
+    ],
+    # INS Tunisia
+    "www.ins.tn": [
+        "article h2 a",
+        ".node__title a",
+        ".views-row h3 a",
+        ".views-row a",
+    ],
+    # La Presse de Tunisie
+    "lapresse.tn": [
+        "h3.entry-title a",
+        "article h2 a",
+        "article h3 a",
+        ".post-title a",
+    ],
+    # Amnesty
+    "www.amnesty.org": [
+        "article h2 a",
+        ".search-content h3 a",
+        ".o-archive__item a",
+    ],
+    # HRW
+    "www.hrw.org": [
+        ".views-row h3 a",
+        "article h3 a",
+        ".promo__title a",
+    ],
+    # ICJ
+    "www.icj.org": [
+        "article h2 a",
+        ".blog-roll h2 a",
+        ".post-title a",
+    ],
+    # ECFR
+    "ecfr.eu": [
+        "article h2 a",
+        ".archive__list h2 a",
+        ".card a.title",
+    ],
+    # Brookings (pagina articoli ME)
+    "www.brookings.edu": [
+        "article h2 a",
+        ".list-content h3 a",
+        ".c-article-card__title a",
+    ],
+    # Jeune Afrique
+    "www.jeuneafrique.com": [
+        "article h3 a",
+        ".c-article__title a",
+        ".c-list__item a",
+    ],
+    # LIMES
+    "www.limesonline.com": [
+        "article h2 a",
+        ".post-title a",
+        "h3 a",
+    ],
+    # DG HOME/NEAR/Commissioni (Drupal/EU styles)
+    "home-affairs.ec.europa.eu": [
+        "article h3 a",
+        ".ecl-link--standalone",
+        ".view-content .views-row a",
+    ],
+    "neighbourhood-enlargement.ec.europa.eu": [
+        "article h3 a",
+        ".ecl-link--standalone",
+        ".view-content .views-row a",
+    ],
+    "commission.europa.eu": [
+        "article h3 a",
+        ".ecl-link--standalone",
+        ".view-content .views-row a",
+    ],
+    # PM Tunisia
+    "pm.gov.tn": [
+        "article h2 a",
+        ".node__title a",
+        ".views-row a",
+    ],
+    # Carthage (presidenza Tunisia)
+    "www.carthage.tn": [
+        "article h2 a",
+        "h3 a",
+        ".views-row a",
+    ],
+}
+
+FALLBACK_SELECTORS: list[str] = [
+    "article h2 a",
+    "article h3 a",
+    "ul li h3 a",
+    "ul li a",
+    "ol li a",
+    "h2 a",
+    "h3 a",
+    "a[href]",
+]
+
+def parse_rss(url: str, limit: int) -> list[tuple[str, str]]:
+    fp = feedparser.parse(url)
+    items = []
+    for entry in fp.entries[: limit * 2]:  # prendo qualcosa in più, poi dedupe
+        title = clean_text(entry.get("title") or entry.get("summary") or "")
+        link = entry.get("link") or ""
+        if title and link:
+            items.append((title, link))
+    return dedupe_by_url(items)[:limit]
+
+def parse_html_links(url: str, limit: int) -> list[tuple[str, str]]:
+    resp = safe_get(url)
+    if not resp or resp.status_code >= 400:
+        logging.warning(f"HTML non raggiungibile: {url} ({getattr(resp, 'status_code', 'n/a')})")
+        return []
+
+    soup = BeautifulSoup(resp.text, "lxml")
+    domain = get_domain(url)
+
+    selectors = DOMAIN_SELECTORS.get(domain, []) + FALLBACK_SELECTORS
+    found: list[tuple[str, str]] = []
+
+    for css in selectors:
+        for a in soup.select(css):
+            href = (a.get("href") or "").strip()
+            text = clean_text(a.get_text(" ").strip())
+            if not href or not text:
+                continue
+            if href.startswith("#"):
+                continue
+            link = urljoin(url, href)
+            found.append((text, link))
+        if len(found) >= limit:
+            break
+
+    return dedupe_by_url(found)[:limit]
+
+# ----------------------- EMM Radar -----------------------
+
+def load_emm_radar(json_path: str = EMM_RADAR_JSON,
+                   lookback_hours: int = EMM_RADAR_LOOKBACK_HOURS,
+                   limit: int = 20) -> list[dict]:
+    """
+    Legge il JSON creato da scripts/emm_radar.R:
+      [{"title","description","url","source","language","date"}]
+    Filtra per le ultime N ore e ordina per data desc.
+    """
+    if not os.path.exists(json_path):
+        logging.info("EMM Radar: JSON non trovato, salto sezione.")
+        return []
+
+    try:
+        with open(json_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        logging.warning(f"EMM Radar: JSON non leggibile ({e}), salto.")
+        return []
+
+    # normalizza e filtra timeframe
+    now = now_tz()
+    earliest = now - timedelta(hours=lookback_hours)
+    items = []
+
+    for it in data:
+        try:
+            title = clean_text(it.get("title", ""))
+            url = it.get("url", "").strip()
+            source = clean_text(it.get("source", ""))
+            lang = (it.get("language") or "").strip()
+            datestr = it.get("date", "")
+            # date può essere ISO o RFC; proviamo parse semplice
+            dt = None
+            for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d %H:%M:%S%z", "%a, %d %b %Y %H:%M:%S %Z"):
+                try:
+                    dt = datetime.strptime(datestr, fmt)
+                    break
+                except Exception:
+                    continue
+            if dt is None:
+                # tentativo: senza tz
+                for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d %H:%M:%S"):
+                    try:
+                        dt = datetime.strptime(datestr, fmt)
+                        break
+                    except Exception:
+                        continue
+            if dt is None:
+                continue
+
+            if pytz and dt.tzinfo is None:
+                dt = pytz.timezone(TZ_NAME).localize(dt)
+
+            if dt < earliest:
+                continue
+
+            items.append({
+                "title": title,
+                "url": url,
+                "source": source,
+                "language": lang,
+                "date": dt,
+            })
+        except Exception:
+            continue
+
+    items.sort(key=lambda x: x["date"], reverse=True)
+    return items[:limit]
+
+def render_emm_radar_md(items: list[dict], title: str = EMM_RADAR_TITLE) -> str:
     if not items:
-        return None
-    lines = [f"## {label}", ""]
-    for t, u in items:
-        lines.append(f"- [{t}]({u})")
-    lines.append("")  # newline finale
+        return ""
+    lines = [f"## {title}", ""]
+    for it in items:
+        t = it["title"]
+        u = it["url"]
+        src = it.get("source") or ""
+        lang = it.get("language") or ""
+        dt = it["date"]
+        when = dt.strftime("%d %b %Y, %H:%M %Z") if dt.tzinfo else dt.strftime("%d %b %Y, %H:%M")
+        meta_bits = [b for b in [src, lang.upper() if lang else None, when] if b]
+        meta = " · ".join(meta_bits)
+        lines.append(f"- [{t}]({u})  \n  _{meta}_")
+    lines.append("")
     return "\n".join(lines)
 
-def main():
-    root = os.getcwd()
-    feeds_path = os.path.join(root, "feeds.txt")
-    out_path = os.path.join(root, "digest.md")
+# ----------------------- Build digest -----------------------
 
-    feeds = read_feeds(feeds_path)
-    rome = datetime.now(ZoneInfo("Europe/Rome"))
+def build_section_md(label: str, items: list[tuple[str, str]]) -> str:
+    if not items:
+        return ""
+    out = [f"## {label}", ""]
+    for title, link in items:
+        out.append(f"- [{title}]({link})")
+    out.append("")
+    return "\n".join(out)
+
+def build_digest_md(feeds_cfg: list[dict]) -> str:
+    dt = now_tz()
     header = [
         "# Daily EU/Tunisia Digest",
         "",
-        f"*Generato: {rome.strftime('%d %b %Y, %H:%M %Z')}*",
+        f"*Generato: {fmt_generated(dt)}*",
         "",
-        ""
     ]
 
-    sections = []
-    for label, kind, url in feeds:
-        try:
-            if kind == "rss":
-                items = parse_rss(url)
-            elif kind == "html":
-                items = parse_html_links(url)
-            else:
-                log(f"TIPO sconosciuto '{kind}' per {label} -> {url}")
-                items = []
-            items = dedup(items)
-            sec = build_section(label, items)
-            if sec:
-                sections.append(sec)
-            else:
-                log(f"[VUOTO] {label} ({url})")
-        except Exception as e:
-            log(f"[ERRORE] {label} ({url}): {e}")
-            continue
+    # EMM Radar (se disponibile)
+    emm_items = load_emm_radar()
+    emm_md = render_emm_radar_md(emm_items)
+    if emm_md:
+        header.append(emm_md)
 
-    content = "\n".join(header + sections).rstrip() + "\n"
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(content)
-    log("Digest scritto:", out_path)
+    body_sections = []
+    for feed in feeds_cfg:
+        label = feed["label"]
+        tipo = feed["type"]
+        url = feed["url"]
+
+        try:
+            if tipo == "rss":
+                items = parse_rss(url, PER_SECTION_LIMIT)
+            elif tipo == "html":
+                items = parse_html_links(url, PER_SECTION_LIMIT)
+            else:
+                logging.warning(f"Tipo non supportato '{tipo}' per {label} -> {url}")
+                items = []
+        except Exception as e:
+            logging.warning(f"Errore parsing {label}: {e}")
+            items = []
+
+        sec_md = build_section_md(label, items)
+        if sec_md:
+            body_sections.append(sec_md)
+
+    parts = header + body_sections
+    return "\n".join(parts).strip() + "\n"
+
+# ----------------------- Main -----------------------
+
+def main():
+    feeds_cfg = load_feeds_config("feeds.txt")
+    md = build_digest_md(feeds_cfg)
+    with open(OUTPUT_MD, "w", encoding="utf-8") as f:
+        f.write(md)
+    logging.info(f"Digest scritto in {OUTPUT_MD} ({len(md)} chars)")
 
 if __name__ == "__main__":
     main()
+
+
