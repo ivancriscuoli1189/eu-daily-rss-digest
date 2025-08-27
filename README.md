@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 19:45*
+*Generato: 27 Aug 2025, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
-- [La Tunisie et la Corée du Sud signent pour la mise en place d’un système électronique intégré d’origine](https://lapresse.tn/2025/08/27/la-tunisie-et-la-coree-du-sud-signent-pour-la-mise-en-place-dun-systeme-electronique-integre-dorigine/)
-- [Tunisie : vers la réalisation de nouvelles stations de péage](https://lapresse.tn/2025/08/27/tunisie-nouvelles-stations-de-peage-en-cours-de-construction/)
-- [L’OTIC lance une campagne nationale contre la hausse des prix](https://lapresse.tn/2025/08/27/lotic-lance-une-campagne-nationale-contre-la-hausse-des-prix/)
-- [Météo : Orages isolés et vents forts ce soir](https://lapresse.tn/2025/08/27/meteo-orages-isoles-et-vents-forts-ce-soir/)
-- [Tunisie : 400 tonnes de PCB bientôt neutralisées dans un vaste projet environnemental](https://lapresse.tn/2025/08/27/tunisie-400-tonnes-de-pcb-bientot-neutralisees-dans-un-vaste-projet-environnemental/)
+- [Tunis : Hatem Chaâbouni et deux anciens cadres de banque devant la justice pour corruption](https://lapresse.tn/2025/08/27/tunis-hatem-chaabouni-et-deux-anciens-cadres-de-banque-devant-la-justice-pour-corruption/)
+- [Formation paramédicale : le gouvernement autorise la création de nouvelles institutions privées](https://lapresse.tn/2025/08/27/formation-paramedicale-le-gouvernement-autorise-la-creation-de-nouvelles-institutions-privees/)
+- [Zenzri reçoit le rapport annuel de la Banque centrale et insiste sur l’indépendance économique de la Tunisie](https://lapresse.tn/2025/08/27/zenzri-recoit-le-rapport-annuel-de-la-banque-centrale-et-insiste-sur-lindependance-economique-de-la-tunisie/)
+- [Projet Elmed : fin du tri des offres pour le câble sous-marin qui reliera Tunis à la Sicile](https://lapresse.tn/2025/08/27/projet-elmed-fin-du-tri-des-offres-pour-le-cable-sous-marin-qui-reliera-tunis-a-la-sicile/)
 - [A l’approche de la rentrée scolaire : Les enfants comme otages](https://lapresse.tn/2025/08/27/a-lapproche-de-la-rentree-scolaire-les-enfants-comme-otages/)
 - [Tataouine : Géoparc frappe aux portes de l’Unesco](https://lapresse.tn/2025/08/27/tataouine-geoparc-frappe-aux-portes-de-lunesco/)
 - [Pêche côtière à Skhira : un projet tuniso-italien de 25 millions pour booster le port](https://lapresse.tn/2025/08/27/peche-cotiere-a-skhira-un-projet-tuniso-italien-de-25-millions-pour-booster-le-port/)
 - [Pourquoi : Le prix du zgougou…](https://lapresse.tn/2025/08/27/pourquoi-le-prix-du-zgougou/)
+- [160 000 emplois et 10 milliards de dinars : le textile tunisien maintient sa croissance malgré les défis mondiaux](https://lapresse.tn/2025/08/27/160-000-emplois-et-10-milliards-de-dinars-le-textile-tunisien-maintient-sa-croissance-malgre-les-defis-mondiaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
