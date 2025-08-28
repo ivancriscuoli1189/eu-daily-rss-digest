@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Aug 2025, 21:11*
+*Generato: 28 Aug 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Qui est le général-major Salah Tahar Ayad, nouveau chef de la Garde républicaine algérienne ?](https://www.jeuneafrique.com/1717365/politique/qui-est-le-general-major-salah-tahar-ayad-nouveau-chef-de-la-garde-republicaine-algerienne/)
 - [En Guinée équatoriale, Baltasar Ebang Engonga condamné à huit ans de prison](https://www.jeuneafrique.com/1717463/politique/en-guinee-equatoriale-baltasar-ebang-engonga-condamne-a-huit-ans-de-prison/)
 - [Kenya : Boniface Mwangi, célèbre activiste critique du président Ruto, candidat à la présidentielle de 2027](https://www.jeuneafrique.com/1717353/politique/kenya-boniface-mwangi-celebre-activiste-critique-du-president-ruto-candidat-a-la-presidentielle-de-2027/)
 - [À Malabo, un fils du président Obiang condamné à six ans de prison](https://www.jeuneafrique.com/1717359/politique/a-malabo-un-fils-du-president-obiang-condamne-a-six-ans-de-prison/)
@@ -273,7 +274,6 @@
 - [Niger-Europe : bras de fer diplomatique autour de la délivrance des visas](https://www.jeuneafrique.com/1717226/politique/niger-europe-bras-de-fer-diplomatique-autour-de-la-delivrance-des-visas/)
 - [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
 - [Comment Celtiis, soutenu par Sonatel, bouscule MTN et Moov au Bénin](https://www.jeuneafrique.com/1716458/economie-entreprises/comment-celtiis-soutenu-par-sonatel-bouscule-mtn-et-moov-au-benin/)
-- [Cameroun : quand la Sonara entrevoit la reprise du raffinage](https://www.jeuneafrique.com/1717175/economie-entreprises/cameroun-quand-la-sonara-entrevoit-la-reprise-du-raffinage/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
