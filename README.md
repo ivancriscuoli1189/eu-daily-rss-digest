@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 18:14*
+*Generato: 28 Aug 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [Le président de la République préside la cérémonie de la Journée du savoir](https://lapresse.tn/2025/08/28/le-president-de-la-republique-preside-la-ceremonie-de-la-journee-du-savoir/)
+- [« Soumoud » : Démarrage de la campagne de collecte des dons](https://lapresse.tn/2025/08/28/soumoud-demarrage-de-la-campagne-de-collecte-des-dons/)
 - [Tunisie – États-Unis : Rencontre entre Mohamed Ali Nafti et une délégation du Congrès américain](https://lapresse.tn/2025/08/28/tunisie-etats-unis-rencontre-entre-mohamed-ali-nafti-et-une-delegation-du-congres-americain/)
 - [Météo : fortes pluies et vents violents attendus cette nuit en Tunisie](https://lapresse.tn/2025/08/28/meteo-fortes-pluies-et-vents-violents-attendus-cette-nuit-en-tunisie/)
 - [Mandat de dépôt en prison pour un promoteur immobilier à Tunis](https://lapresse.tn/2025/08/28/mandat-de-depot-en-prison-pour-un-promoteur-immobilier-a-tunis/)
-- [Tunisie : Le Président de l’UIB, M.Kamel Néji, annonce sa démission](https://lapresse.tn/2025/08/28/tunisie-le-president-de-luib-kamel-neji-annonce-sa-demission/)
-- [Commentaire : La Tunisie vers l’excellence](https://lapresse.tn/2025/08/28/commentaire-la-tunisie-vers-lexcellence/)
 - [Ralentisseurs sauvages : Quand la sécurité tourne au danger](https://lapresse.tn/2025/08/28/ralentisseurs-sauvages-quand-la-securite-tourne-au-danger/)
 - [Propreté : Redorer le blason des villes tunisiennes](https://lapresse.tn/2025/08/28/proprete-redorer-le-blason-des-villes-tunisiennes/)
 - [Pourquoi : Ça continue…](https://lapresse.tn/2025/08/28/pourquoi-ca-continue/)
-- [Hôtel du lac : Pourquoi le «bâtiment inversé» déchaîne les passions ?](https://lapresse.tn/2025/08/28/hotel-du-lac-pourquoi-le-batiment-inverse-dechaine-les-passions/)
+- [Tunisie : Le Président de l’UIB, M.Kamel Néji, annonce sa démission](https://lapresse.tn/2025/08/28/tunisie-le-president-de-luib-kamel-neji-annonce-sa-demission/)
 
 ## NGOs – Amnesty International – Tunisia
 
