@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 12:18*
+*Generato: 28 Aug 2025, 13:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
-- [Ligue 1 – 4ème journée – ESS : Faux pas interdit](https://lapresse.tn/2025/08/28/ligue-1-4eme-journee-ess-faux-pas-interdit/)
-- [Grombalia : Deux mandats de dépôt contre un surveillant accusé de harcèlement sexuel](https://lapresse.tn/2025/08/28/grombalia-deux-mandats-de-depot-en-prison-pour-un-surveillant-de-lycee-accuse-de-harcelement-sexue/)
-- [Ligue 1 – 4ème journée – ESZ : La volonté intacte](https://lapresse.tn/2025/08/28/ligue-1-4eme-journee-esz-la-volonte-intacte/)
+- [Le Qatar et l’Égypte déterminés à parvenir à un cessez-le-feu à Gaza](https://lapresse.tn/2025/08/28/le-qatar-et-legypte-determines-a-parvenir-a-un-cessez-le-feu-a-gaza/)
+- [Compagnies aériennes internationales : 67 ans, le futur âge de départ à la retraite des pilotes ?](https://lapresse.tn/2025/08/28/compagnies-aeriennes-internationales-67-ans-le-futur-age-de-depart-a-la-retraite-des-pilotes/)
+- [Ligue 1 – 4ème journée – EST : La manière avant le résultat…](https://lapresse.tn/2025/08/28/ligue-1-4eme-journee-est-la-maniere-avant-le-resultat/)
 - [Paiement mobile en Tunisie : 5,1 millions de transactions pour 1,4 milliard de dinars en 2024](https://lapresse.tn/2025/08/28/paiement-mobile-en-tunisie-51-millions-de-transactions-pour-14-milliard-de-dinars-en-2024/)
 - [Tunisie : 50 mm de pluie attendus sur 6 gouvernorats cet après-midi](https://lapresse.tn/2025/08/28/tunisie-50-mm-de-pluie-attendus-sur-6-gouvernorats-cet-apres-midi/)
 - [Alerte météo : grêle, rafales jusqu’à 70 km/h et températures jusqu’à 45°C](https://lapresse.tn/2025/08/28/alerte-meteo-grele-rafales-jusqua-70-km-h-et-temperatures-jusqua-45c/)
