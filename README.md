@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 09:10*
+*Generato: 28 Aug 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [New Eurobarometer spring survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-spring-survey-media-briefing-on-tuesday-at-10-00)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
@@ -91,7 +92,6 @@
 - [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
 - [Press conference on the MFF with MEPs Mureşan and Tavares on Tuesday, 15 July](https://www.europarl.europa.eu/news/en/press-room/20250711IPR29612/press-conference-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-15-july)
 - [Human rights violations in Dubai, Central African Republic and Syria](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29457/human-rights-violations-in-dubai-central-african-republic-and-syria)
-- [Commission must tackle China’s export restrictions on rare earth elements](https://www.europarl.europa.eu/news/en/press-room/20250704IPR29456/commission-must-tackle-china-s-export-restrictions-on-rare-earth-elements)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
-- [A partir du 1 septembre : nouvelles procédures pour l’obtention du permis de conduire](https://lapresse.tn/2025/08/28/a-partir-du-1-septembre-nouvelles-procedures-pour-lobtention-du-permis-de-conduire/)
-- [Muju Taekwondowon World 2025 : Firas Katoussi s’incline en quarts de finale face à l’Américain Victor Rodriguez](https://lapresse.tn/2025/08/28/muju-taekwondowon-world-2025-firas-katoussi-sincline-en-quarts-de-finale-face-a-lamericain-victor-rodriguez/)
-- [Le corps du directeur d’un foyer universitaire retrouvé pendu à un arbre au Kef](https://lapresse.tn/2025/08/28/le-corps-du-directeur-dun-foyer-universitaire-retrouve-pendu-a-un-arbre-au-kef/)
+- [Tunisie : 95 000 emplois créés en 2024… mais pour qui vraiment ?](https://lapresse.tn/2025/08/28/tunisie-95-000-emplois-crees-en-2024-mais-pour-qui-vraiment/)
+- [Fertilité : où se situe la Tunisie par rapport au reste du monde ?](https://lapresse.tn/2025/08/28/hausse-ou-baisse-de-la-fertilite-dans-le-monde-ou-se-situe-la-tunisie/)
+- [Plage de Gammarth : lancement d’une vaste campagne de propreté sous le slogan « prends soin de la mer »](https://lapresse.tn/2025/08/28/plage-de-gammarth-lancement-dune-vaste-campagne-de-proprete-sous-le-slogan-prends-soin-de-la-mer/)
 - [Activités présidentielles : Kaïs Saïed à l’écoute des doléances des Goulettois](https://lapresse.tn/2025/08/28/activites-presidentielles-kais-saied-a-lecoute-des-doleances-des-goulettois/)
 - [Tunis : Hatem Chaâbouni et deux anciens cadres de banque devant la justice pour corruption](https://lapresse.tn/2025/08/27/tunis-hatem-chaabouni-et-deux-anciens-cadres-de-banque-devant-la-justice-pour-corruption/)
 - [Formation paramédicale : le gouvernement autorise la création de nouvelles institutions privées](https://lapresse.tn/2025/08/27/formation-paramedicale-le-gouvernement-autorise-la-creation-de-nouvelles-institutions-privees/)
-- [Zgougou : les prix s’envolent jusqu’à 65 dinars/kg à Nabeul](https://lapresse.tn/2025/08/28/zgougou-les-prix-senvolent-jusqua-65-dinars-kg-a-nabeul/)
-- [Zaghouan : Alerte sur les bâtiments menaçant ruine dans la médina](https://lapresse.tn/2025/08/28/zaghouan-alerte-sur-les-batiments-menacant-ruine-dans-la-medina/)
-- [160 000 emplois et 10 milliards de dinars : le textile tunisien maintient sa croissance malgré les défis mondiaux](https://lapresse.tn/2025/08/27/160-000-emplois-et-10-milliards-de-dinars-le-textile-tunisien-maintient-sa-croissance-malgre-les-defis-mondiaux/)
+- [Président de l’association Villages d’enfants SOS : « Nous aspirons à prendre en charge 8 000 enfants d’ici la fin 2025 »](https://lapresse.tn/2025/08/28/president-de-lassociation-villages-denfants-sos-nous-aspirons-a-prendre-en-charge-8-000-enfants-dici-la-fin-2025/)
+- [A partir du 1 septembre : nouvelles procédures pour l’obtention du permis de conduire](https://lapresse.tn/2025/08/28/a-partir-du-1-septembre-nouvelles-procedures-pour-lobtention-du-permis-de-conduire/)
+- [Maroc et Tunisie : le paradoxe d’un été touristique record mais fragile](https://lapresse.tn/2025/08/28/maroc-et-tunisie-le-paradoxe-dun-ete-touristique-record-mais-fragile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
 - [ICJ communication to the International Court of Justice urging the investigation of the Court’s Vice-President](https://www.icj.org/icj-communication-to-the-international-court-of-justice-urging-the-investigation-of-the-courts-vice-president/)
 - [Semenya v. Switzerland: joint communication on the execution of the ECHR judgment](https://www.icj.org/semenya-v-switzerland-joint-communication-on-the-execution-of-the-echr-judgment/)
 - [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
-- [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Nepal: Lawyers urge authorities to address inaccessibility of justice system to women and girls with disabilities](https://www.icj.org/nepal-lawyers-urge-authorities-to-address-inaccessibility-of-justice-system-to-women-and-girls-with-disabilities/)
 - [Syria: Impartially and independently investigate the crimes committed in Suwayda](https://www.icj.org/syria-impartially-and-independently-investigate-the-crimes-committed-in-suwayda/)
 - [Kenya: The ICJ’s new Report calls for an End to Discriminatory Laws Restricting Persons with Disabilities’ Access to Justice](https://www.icj.org/kenya-the-icjs-new-report-calls-for-an-end-to-discriminatory-laws-restricting-persons-with-disabilities-access-to-justice/)
-- [African Region: Regional Launch of Practitioners’ Guide on a Human Rights-Based Approach to Criminal Law to Decriminalize Poverty and Status](https://www.icj.org/african-region-regional-launch-of-practitioners-guide-on-a-human-rights-based-approach-to-criminal-law-to-decriminalize-poverty-and-status/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -267,13 +267,13 @@
 - [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
 - [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
 - [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
+- [Au Maghreb et au Moyen-Orient, une diplomatie russe à plusieurs visages](https://www.jeuneafrique.com/1717301/politique/au-maghreb-et-au-moyen-orient-une-diplomatie-russe-a-plusieurs-visages/)
+- [Génocide des Tutsi au Rwanda : l’impossible inhumation de « Monsieur Z » en France](https://www.jeuneafrique.com/1717242/politique/genocide-des-tutsi-au-rwanda-limpossible-inhumation-de-monsieur-z-en-france/)
 - [Qui est le général-major Salah Tahar Ayad, nouveau chef de la Garde républicaine algérienne ?](https://www.jeuneafrique.com/1717365/politique/qui-est-le-general-major-salah-tahar-ayad-nouveau-chef-de-la-garde-republicaine-algerienne/)
 - [En Guinée équatoriale, Baltasar Ebang Engonga condamné à huit ans de prison](https://www.jeuneafrique.com/1717463/politique/en-guinee-equatoriale-baltasar-ebang-engonga-condamne-a-huit-ans-de-prison/)
 - [Kenya : Boniface Mwangi, célèbre activiste critique du président Ruto, candidat à la présidentielle de 2027](https://www.jeuneafrique.com/1717353/politique/kenya-boniface-mwangi-celebre-activiste-critique-du-president-ruto-candidat-a-la-presidentielle-de-2027/)
-- [À Malabo, un fils du président Obiang condamné à six ans de prison](https://www.jeuneafrique.com/1717359/politique/a-malabo-un-fils-du-president-obiang-condamne-a-six-ans-de-prison/)
-- [En RDC, le verdict dans le procès de Constant Mutamba est reporté](https://www.jeuneafrique.com/1717268/politique/en-rdc-le-verdict-dans-le-proces-de-constant-mutamba-est-reporte/)
+- [Face aux retards d’Airbus et Boeing, Embraer saura-t-il tirer son épingle du jeu en Afrique ?](https://www.jeuneafrique.com/1717062/economie-entreprises/face-aux-retards-dairbus-et-boeing-embraer-saura-t-il-tirer-son-epingle-du-jeu-en-afrique/)
 - [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
-- [Comment Celtiis, soutenu par Sonatel, bouscule MTN et Moov au Bénin](https://www.jeuneafrique.com/1716458/economie-entreprises/comment-celtiis-soutenu-par-sonatel-bouscule-mtn-et-moov-au-benin/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
