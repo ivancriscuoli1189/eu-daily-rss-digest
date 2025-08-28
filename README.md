@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 11:03*
+*Generato: 28 Aug 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
-- [Tunisie : 95 000 emplois créés en 2024… mais pour qui vraiment ?](https://lapresse.tn/2025/08/28/tunisie-95-000-emplois-crees-en-2024-mais-pour-qui-vraiment/)
+- [Ligue 1 – 4ème journée – ESS : Faux pas interdit](https://lapresse.tn/2025/08/28/ligue-1-4eme-journee-ess-faux-pas-interdit/)
+- [Grombalia : Deux mandats de dépôt contre un surveillant accusé de harcèlement sexuel](https://lapresse.tn/2025/08/28/grombalia-deux-mandats-de-depot-en-prison-pour-un-surveillant-de-lycee-accuse-de-harcelement-sexue/)
+- [Ligue 1 – 4ème journée – ESZ : La volonté intacte](https://lapresse.tn/2025/08/28/ligue-1-4eme-journee-esz-la-volonte-intacte/)
+- [Paiement mobile en Tunisie : 5,1 millions de transactions pour 1,4 milliard de dinars en 2024](https://lapresse.tn/2025/08/28/paiement-mobile-en-tunisie-51-millions-de-transactions-pour-14-milliard-de-dinars-en-2024/)
+- [Tunisie : 50 mm de pluie attendus sur 6 gouvernorats cet après-midi](https://lapresse.tn/2025/08/28/tunisie-50-mm-de-pluie-attendus-sur-6-gouvernorats-cet-apres-midi/)
+- [Alerte météo : grêle, rafales jusqu’à 70 km/h et températures jusqu’à 45°C](https://lapresse.tn/2025/08/28/alerte-meteo-grele-rafales-jusqua-70-km-h-et-temperatures-jusqua-45c/)
+- [Pluies et grêle à Sidi Bouzid: d’importants dégâts occasionnés aux cultures maraîchères](https://lapresse.tn/2025/08/28/pluies-et-grele-a-sidi-bouzid-dimportants-degats-occasionnes-aux-cultures-maraicheres/)
 - [Fertilité : où se situe la Tunisie par rapport au reste du monde ?](https://lapresse.tn/2025/08/28/hausse-ou-baisse-de-la-fertilite-dans-le-monde-ou-se-situe-la-tunisie/)
 - [Plage de Gammarth : lancement d’une vaste campagne de propreté sous le slogan « prends soin de la mer »](https://lapresse.tn/2025/08/28/plage-de-gammarth-lancement-dune-vaste-campagne-de-proprete-sous-le-slogan-prends-soin-de-la-mer/)
-- [Activités présidentielles : Kaïs Saïed à l’écoute des doléances des Goulettois](https://lapresse.tn/2025/08/28/activites-presidentielles-kais-saied-a-lecoute-des-doleances-des-goulettois/)
-- [Tunis : Hatem Chaâbouni et deux anciens cadres de banque devant la justice pour corruption](https://lapresse.tn/2025/08/27/tunis-hatem-chaabouni-et-deux-anciens-cadres-de-banque-devant-la-justice-pour-corruption/)
-- [Formation paramédicale : le gouvernement autorise la création de nouvelles institutions privées](https://lapresse.tn/2025/08/27/formation-paramedicale-le-gouvernement-autorise-la-creation-de-nouvelles-institutions-privees/)
-- [Président de l’association Villages d’enfants SOS : « Nous aspirons à prendre en charge 8 000 enfants d’ici la fin 2025 »](https://lapresse.tn/2025/08/28/president-de-lassociation-villages-denfants-sos-nous-aspirons-a-prendre-en-charge-8-000-enfants-dici-la-fin-2025/)
-- [A partir du 1 septembre : nouvelles procédures pour l’obtention du permis de conduire](https://lapresse.tn/2025/08/28/a-partir-du-1-septembre-nouvelles-procedures-pour-lobtention-du-permis-de-conduire/)
-- [Maroc et Tunisie : le paradoxe d’un été touristique record mais fragile](https://lapresse.tn/2025/08/28/maroc-et-tunisie-le-paradoxe-dun-ete-touristique-record-mais-fragile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
 - [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
 - [Au Maghreb et au Moyen-Orient, une diplomatie russe à plusieurs visages](https://www.jeuneafrique.com/1717301/politique/au-maghreb-et-au-moyen-orient-une-diplomatie-russe-a-plusieurs-visages/)
+- [Présidentielle au Cameroun : l’ombre des millions de la Camair plane sur Tchiroma Bakary](https://www.jeuneafrique.com/1716647/politique/presidentielle-au-cameroun-lombre-des-millions-de-la-camair-plane-sur-tchiroma-bakary/)
+- [RDC : les coulisses de l’initiative de Thabo Mbeki pour un dialogue intercongolais](https://www.jeuneafrique.com/1717127/politique/rdc-les-coulisses-de-linitiative-de-thabo-mbeki-pour-un-dialogue-intercongolais/)
 - [Génocide des Tutsi au Rwanda : l’impossible inhumation de « Monsieur Z » en France](https://www.jeuneafrique.com/1717242/politique/genocide-des-tutsi-au-rwanda-limpossible-inhumation-de-monsieur-z-en-france/)
 - [Qui est le général-major Salah Tahar Ayad, nouveau chef de la Garde républicaine algérienne ?](https://www.jeuneafrique.com/1717365/politique/qui-est-le-general-major-salah-tahar-ayad-nouveau-chef-de-la-garde-republicaine-algerienne/)
-- [En Guinée équatoriale, Baltasar Ebang Engonga condamné à huit ans de prison](https://www.jeuneafrique.com/1717463/politique/en-guinee-equatoriale-baltasar-ebang-engonga-condamne-a-huit-ans-de-prison/)
-- [Kenya : Boniface Mwangi, célèbre activiste critique du président Ruto, candidat à la présidentielle de 2027](https://www.jeuneafrique.com/1717353/politique/kenya-boniface-mwangi-celebre-activiste-critique-du-president-ruto-candidat-a-la-presidentielle-de-2027/)
 - [Face aux retards d’Airbus et Boeing, Embraer saura-t-il tirer son épingle du jeu en Afrique ?](https://www.jeuneafrique.com/1717062/economie-entreprises/face-aux-retards-dairbus-et-boeing-embraer-saura-t-il-tirer-son-epingle-du-jeu-en-afrique/)
 - [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
 
