@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 15:10*
+*Generato: 28 Aug 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
-- [A partir de demain, vente de viande ovine importée à 38 dinars le kilo dans ces régions](https://lapresse.tn/2025/08/28/a-partir-de-demain-vente-de-viande-ovine-importee-a-38-dinars-le-kilo-dans-ces-regions/)
-- [Révolution verte à la BVMT : 13 sociétés montrent l’exemple](https://lapresse.tn/2025/08/28/revolution-verte-a-la-bvmt-13-societes-montrent-lexemple/)
-- [Le Qatar et l’Égypte déterminés à parvenir à un cessez-le-feu à Gaza](https://lapresse.tn/2025/08/28/le-qatar-et-legypte-determines-a-parvenir-a-un-cessez-le-feu-a-gaza/)
-- [Paiement mobile en Tunisie : 5,1 millions de transactions pour 1,4 milliard de dinars en 2024](https://lapresse.tn/2025/08/28/paiement-mobile-en-tunisie-51-millions-de-transactions-pour-14-milliard-de-dinars-en-2024/)
-- [Tunisie : 50 mm de pluie attendus sur 6 gouvernorats cet après-midi](https://lapresse.tn/2025/08/28/tunisie-50-mm-de-pluie-attendus-sur-6-gouvernorats-cet-apres-midi/)
-- [Alerte météo : grêle, rafales jusqu’à 70 km/h et températures jusqu’à 45°C](https://lapresse.tn/2025/08/28/alerte-meteo-grele-rafales-jusqua-70-km-h-et-temperatures-jusqua-45c/)
-- [Pluies et grêle à Sidi Bouzid: d’importants dégâts occasionnés aux cultures maraîchères](https://lapresse.tn/2025/08/28/pluies-et-grele-a-sidi-bouzid-dimportants-degats-occasionnes-aux-cultures-maraicheres/)
-- [Fertilité : où se situe la Tunisie par rapport au reste du monde ?](https://lapresse.tn/2025/08/28/hausse-ou-baisse-de-la-fertilite-dans-le-monde-ou-se-situe-la-tunisie/)
-- [Plage de Gammarth : lancement d’une vaste campagne de propreté sous le slogan « prends soin de la mer »](https://lapresse.tn/2025/08/28/plage-de-gammarth-lancement-dune-vaste-campagne-de-proprete-sous-le-slogan-prends-soin-de-la-mer/)
+- [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [Tunisie – États-Unis : Rencontre entre Mohamed Ali Nafti et une délégation du Congrès américain](https://lapresse.tn/2025/08/28/tunisie-etats-unis-rencontre-entre-mohamed-ali-nafti-et-une-delegation-du-congres-americain/)
+- [Météo : fortes pluies et vents violents attendus cette nuit en Tunisie](https://lapresse.tn/2025/08/28/meteo-fortes-pluies-et-vents-violents-attendus-cette-nuit-en-tunisie/)
+- [Mandat de dépôt en prison pour un promoteur immobilier à Tunis](https://lapresse.tn/2025/08/28/mandat-de-depot-en-prison-pour-un-promoteur-immobilier-a-tunis/)
+- [Tunisie : Le Président de l’UIB, M.Kamel Néji, annonce sa démission](https://lapresse.tn/2025/08/28/tunisie-le-president-de-luib-kamel-neji-annonce-sa-demission/)
+- [Commentaire : La Tunisie vers l’excellence](https://lapresse.tn/2025/08/28/commentaire-la-tunisie-vers-lexcellence/)
+- [Ralentisseurs sauvages : Quand la sécurité tourne au danger](https://lapresse.tn/2025/08/28/ralentisseurs-sauvages-quand-la-securite-tourne-au-danger/)
+- [Propreté : Redorer le blason des villes tunisiennes](https://lapresse.tn/2025/08/28/proprete-redorer-le-blason-des-villes-tunisiennes/)
+- [Pourquoi : Ça continue…](https://lapresse.tn/2025/08/28/pourquoi-ca-continue/)
+- [Hôtel du lac : Pourquoi le «bâtiment inversé» déchaîne les passions ?](https://lapresse.tn/2025/08/28/hotel-du-lac-pourquoi-le-batiment-inverse-dechaine-les-passions/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
+- [En Algérie, Abdelmadjid Tebboune limoge son Premier ministre et le remplace par Sifi Ghrieb](https://www.jeuneafrique.com/1717819/politique/en-algerie-abdelmadjid-tebboune-limoge-son-premier-ministre-et-le-remplace-par-sifi-ghrieb/)
+- [États-Unis-Maghreb : Trump et la stratégie du tri](https://www.jeuneafrique.com/1715532/politique/etats-unis-maghreb-trump-et-la-strategie-du-tri/)
 - [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
 - [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
 - [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
 - [Au Maghreb et au Moyen-Orient, une diplomatie russe à plusieurs visages](https://www.jeuneafrique.com/1717301/politique/au-maghreb-et-au-moyen-orient-une-diplomatie-russe-a-plusieurs-visages/)
 - [Présidentielle au Cameroun : l’ombre des millions de la Camair plane sur Tchiroma Bakary](https://www.jeuneafrique.com/1716647/politique/presidentielle-au-cameroun-lombre-des-millions-de-la-camair-plane-sur-tchiroma-bakary/)
-- [RDC : les coulisses de l’initiative de Thabo Mbeki pour un dialogue intercongolais](https://www.jeuneafrique.com/1717127/politique/rdc-les-coulisses-de-linitiative-de-thabo-mbeki-pour-un-dialogue-intercongolais/)
-- [Génocide des Tutsi au Rwanda : l’impossible inhumation de « Monsieur Z » en France](https://www.jeuneafrique.com/1717242/politique/genocide-des-tutsi-au-rwanda-limpossible-inhumation-de-monsieur-z-en-france/)
-- [Face aux retards d’Airbus et Boeing, Embraer saura-t-il tirer son épingle du jeu en Afrique ?](https://www.jeuneafrique.com/1717062/economie-entreprises/face-aux-retards-dairbus-et-boeing-embraer-saura-t-il-tirer-son-epingle-du-jeu-en-afrique/)
-- [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
+- [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
+- [Ouattara, Ghazouani, Ekué, Kassi Brou… Une pluie de VIP pour la prestation de serment de Sidi Ould Tah](https://www.jeuneafrique.com/1717191/economie-entreprises/ouattara-ghazouani-ekue-kassi-brou-une-pluie-de-vip-pour-la-prestation-de-serment-de-sidi-ould-tah/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
