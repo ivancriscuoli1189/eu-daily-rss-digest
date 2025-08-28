@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 08:01*
+*Generato: 28 Aug 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,14 +174,14 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
+- [A partir du 1 septembre : nouvelles procédures pour l’obtention du permis de conduire](https://lapresse.tn/2025/08/28/a-partir-du-1-septembre-nouvelles-procedures-pour-lobtention-du-permis-de-conduire/)
+- [Muju Taekwondowon World 2025 : Firas Katoussi s’incline en quarts de finale face à l’Américain Victor Rodriguez](https://lapresse.tn/2025/08/28/muju-taekwondowon-world-2025-firas-katoussi-sincline-en-quarts-de-finale-face-a-lamericain-victor-rodriguez/)
+- [Le corps du directeur d’un foyer universitaire retrouvé pendu à un arbre au Kef](https://lapresse.tn/2025/08/28/le-corps-du-directeur-dun-foyer-universitaire-retrouve-pendu-a-un-arbre-au-kef/)
 - [Activités présidentielles : Kaïs Saïed à l’écoute des doléances des Goulettois](https://lapresse.tn/2025/08/28/activites-presidentielles-kais-saied-a-lecoute-des-doleances-des-goulettois/)
-- [Zaghouan : Alerte sur les bâtiments menaçant ruine dans la médina](https://lapresse.tn/2025/08/28/zaghouan-alerte-sur-les-batiments-menacant-ruine-dans-la-medina/)
-- [Tunis : Refus de libération pour un homme d’affaires impliqué dans un scandale financier de 240 millions de dinars](https://lapresse.tn/2025/08/28/tunis-refus-de-liberation-pour-un-homme-daffaires-implique-dans-un-scandale-financier-de-240-millions-de-dinars/)
 - [Tunis : Hatem Chaâbouni et deux anciens cadres de banque devant la justice pour corruption](https://lapresse.tn/2025/08/27/tunis-hatem-chaabouni-et-deux-anciens-cadres-de-banque-devant-la-justice-pour-corruption/)
 - [Formation paramédicale : le gouvernement autorise la création de nouvelles institutions privées](https://lapresse.tn/2025/08/27/formation-paramedicale-le-gouvernement-autorise-la-creation-de-nouvelles-institutions-privees/)
-- [Zenzri reçoit le rapport annuel de la Banque centrale et insiste sur l’indépendance économique de la Tunisie](https://lapresse.tn/2025/08/27/zenzri-recoit-le-rapport-annuel-de-la-banque-centrale-et-insiste-sur-lindependance-economique-de-la-tunisie/)
-- [Mellassine : arrestation d’une femme soupçonnée d’avoir brûlé des chats](https://lapresse.tn/2025/08/28/mellassine-arrestation-dune-femme-soupconnee-davoir-brule-des-chats/)
-- [A l’approche de la rentrée scolaire : Les enfants comme otages](https://lapresse.tn/2025/08/27/a-lapproche-de-la-rentree-scolaire-les-enfants-comme-otages/)
+- [Zgougou : les prix s’envolent jusqu’à 65 dinars/kg à Nabeul](https://lapresse.tn/2025/08/28/zgougou-les-prix-senvolent-jusqua-65-dinars-kg-a-nabeul/)
+- [Zaghouan : Alerte sur les bâtiments menaçant ruine dans la médina](https://lapresse.tn/2025/08/28/zaghouan-alerte-sur-les-batiments-menacant-ruine-dans-la-medina/)
 - [160 000 emplois et 10 milliards de dinars : le textile tunisien maintient sa croissance malgré les défis mondiaux](https://lapresse.tn/2025/08/27/160-000-emplois-et-10-milliards-de-dinars-le-textile-tunisien-maintient-sa-croissance-malgre-les-defis-mondiaux/)
 
 ## NGOs – Amnesty International – Tunisia
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
+- [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
+- [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
 - [Qui est le général-major Salah Tahar Ayad, nouveau chef de la Garde républicaine algérienne ?](https://www.jeuneafrique.com/1717365/politique/qui-est-le-general-major-salah-tahar-ayad-nouveau-chef-de-la-garde-republicaine-algerienne/)
 - [En Guinée équatoriale, Baltasar Ebang Engonga condamné à huit ans de prison](https://www.jeuneafrique.com/1717463/politique/en-guinee-equatoriale-baltasar-ebang-engonga-condamne-a-huit-ans-de-prison/)
 - [Kenya : Boniface Mwangi, célèbre activiste critique du président Ruto, candidat à la présidentielle de 2027](https://www.jeuneafrique.com/1717353/politique/kenya-boniface-mwangi-celebre-activiste-critique-du-president-ruto-candidat-a-la-presidentielle-de-2027/)
 - [À Malabo, un fils du président Obiang condamné à six ans de prison](https://www.jeuneafrique.com/1717359/politique/a-malabo-un-fils-du-president-obiang-condamne-a-six-ans-de-prison/)
 - [En RDC, le verdict dans le procès de Constant Mutamba est reporté](https://www.jeuneafrique.com/1717268/politique/en-rdc-le-verdict-dans-le-proces-de-constant-mutamba-est-reporte/)
-- [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
-- [Lettre sur le Sahara occidental à l’honorable Sébastien Delogu, député français – par Fouad Laroui](https://www.jeuneafrique.com/1704272/politique/lettre-sur-le-sahara-occidental-a-lhonorable-sebastien-delogu-depute-francais-par-fouad-laroui/)
-- [Au Sénégal, l’Assemblée adopte une loi pour protéger les lanceurs d’alerte](https://www.jeuneafrique.com/1717238/politique/au-senegal-lassemblee-adopte-une-loi-pour-proteger-les-lanceurs-dalerte/)
 - [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
 - [Comment Celtiis, soutenu par Sonatel, bouscule MTN et Moov au Bénin](https://www.jeuneafrique.com/1716458/economie-entreprises/comment-celtiis-soutenu-par-sonatel-bouscule-mtn-et-moov-au-benin/)
 
