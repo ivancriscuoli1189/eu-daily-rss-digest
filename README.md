@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 06:16*
+*Generato: 28 Aug 2025, 08:01*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,14 +174,14 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La famine déclarée](https://lapresse.tn/2025/08/27/la-famine-declaree/)
+- [Activités présidentielles : Kaïs Saïed à l’écoute des doléances des Goulettois](https://lapresse.tn/2025/08/28/activites-presidentielles-kais-saied-a-lecoute-des-doleances-des-goulettois/)
+- [Zaghouan : Alerte sur les bâtiments menaçant ruine dans la médina](https://lapresse.tn/2025/08/28/zaghouan-alerte-sur-les-batiments-menacant-ruine-dans-la-medina/)
+- [Tunis : Refus de libération pour un homme d’affaires impliqué dans un scandale financier de 240 millions de dinars](https://lapresse.tn/2025/08/28/tunis-refus-de-liberation-pour-un-homme-daffaires-implique-dans-un-scandale-financier-de-240-millions-de-dinars/)
 - [Tunis : Hatem Chaâbouni et deux anciens cadres de banque devant la justice pour corruption](https://lapresse.tn/2025/08/27/tunis-hatem-chaabouni-et-deux-anciens-cadres-de-banque-devant-la-justice-pour-corruption/)
 - [Formation paramédicale : le gouvernement autorise la création de nouvelles institutions privées](https://lapresse.tn/2025/08/27/formation-paramedicale-le-gouvernement-autorise-la-creation-de-nouvelles-institutions-privees/)
 - [Zenzri reçoit le rapport annuel de la Banque centrale et insiste sur l’indépendance économique de la Tunisie](https://lapresse.tn/2025/08/27/zenzri-recoit-le-rapport-annuel-de-la-banque-centrale-et-insiste-sur-lindependance-economique-de-la-tunisie/)
-- [Projet Elmed : fin du tri des offres pour le câble sous-marin qui reliera Tunis à la Sicile](https://lapresse.tn/2025/08/27/projet-elmed-fin-du-tri-des-offres-pour-le-cable-sous-marin-qui-reliera-tunis-a-la-sicile/)
+- [Mellassine : arrestation d’une femme soupçonnée d’avoir brûlé des chats](https://lapresse.tn/2025/08/28/mellassine-arrestation-dune-femme-soupconnee-davoir-brule-des-chats/)
 - [A l’approche de la rentrée scolaire : Les enfants comme otages](https://lapresse.tn/2025/08/27/a-lapproche-de-la-rentree-scolaire-les-enfants-comme-otages/)
-- [Tataouine : Géoparc frappe aux portes de l’Unesco](https://lapresse.tn/2025/08/27/tataouine-geoparc-frappe-aux-portes-de-lunesco/)
-- [Pêche côtière à Skhira : un projet tuniso-italien de 25 millions pour booster le port](https://lapresse.tn/2025/08/27/peche-cotiere-a-skhira-un-projet-tuniso-italien-de-25-millions-pour-booster-le-port/)
-- [Pourquoi : Le prix du zgougou…](https://lapresse.tn/2025/08/27/pourquoi-le-prix-du-zgougou/)
 - [160 000 emplois et 10 milliards de dinars : le textile tunisien maintient sa croissance malgré les défis mondiaux](https://lapresse.tn/2025/08/27/160-000-emplois-et-10-milliards-de-dinars-le-textile-tunisien-maintient-sa-croissance-malgre-les-defis-mondiaux/)
 
 ## NGOs – Amnesty International – Tunisia
@@ -269,9 +269,9 @@
 - [Kenya : Boniface Mwangi, célèbre activiste critique du président Ruto, candidat à la présidentielle de 2027](https://www.jeuneafrique.com/1717353/politique/kenya-boniface-mwangi-celebre-activiste-critique-du-president-ruto-candidat-a-la-presidentielle-de-2027/)
 - [À Malabo, un fils du président Obiang condamné à six ans de prison](https://www.jeuneafrique.com/1717359/politique/a-malabo-un-fils-du-president-obiang-condamne-a-six-ans-de-prison/)
 - [En RDC, le verdict dans le procès de Constant Mutamba est reporté](https://www.jeuneafrique.com/1717268/politique/en-rdc-le-verdict-dans-le-proces-de-constant-mutamba-est-reporte/)
+- [Alain-Claude Bilie-By-Nze : « Au Gabon, le gouvernement semble sans cap et déjà à bout de souffle »](https://www.jeuneafrique.com/1709492/politique/alain-claude-bilie-by-nze-au-gabon-le-gouvernement-semble-sans-cap-et-deja-a-bout-de-souffle/)
 - [Lettre sur le Sahara occidental à l’honorable Sébastien Delogu, député français – par Fouad Laroui](https://www.jeuneafrique.com/1704272/politique/lettre-sur-le-sahara-occidental-a-lhonorable-sebastien-delogu-depute-francais-par-fouad-laroui/)
 - [Au Sénégal, l’Assemblée adopte une loi pour protéger les lanceurs d’alerte](https://www.jeuneafrique.com/1717238/politique/au-senegal-lassemblee-adopte-une-loi-pour-proteger-les-lanceurs-dalerte/)
-- [Niger-Europe : bras de fer diplomatique autour de la délivrance des visas](https://www.jeuneafrique.com/1717226/politique/niger-europe-bras-de-fer-diplomatique-autour-de-la-delivrance-des-visas/)
 - [Au Sénégal, le FMI reconnaît les efforts de « transparence budgétaire »](https://www.jeuneafrique.com/1717210/politique/au-senegal-le-fmi-reconnait-les-efforts-de-transparence-budgetaire/)
 - [Comment Celtiis, soutenu par Sonatel, bouscule MTN et Moov au Bénin](https://www.jeuneafrique.com/1716458/economie-entreprises/comment-celtiis-soutenu-par-sonatel-bouscule-mtn-et-moov-au-benin/)
 
