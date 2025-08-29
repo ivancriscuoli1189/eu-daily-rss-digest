@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 06:15*
+*Generato: 29 Aug 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
-- [A L’OCCASION DE LA CÉLÉBRATION DE LA JOURNÉE DU SAVOIR : Le Chef de l’État remet un prix spécial aux parents des élèves victimes de l’accident de Mazzouna](https://lapresse.tn/2025/08/29/a-loccasion-de-la-celebration-de-la-journee-du-savoir-le-chef-de-letat-remet-un-prix-special-aux-parents-des-eleves-victimes-de-laccident-de-mazzouna/)
+- [Tunisie : reprise de l’horaire d’hiver dans la fonction publique à partir du 1er septembre](https://lapresse.tn/2025/08/29/tunisie-reprise-de-lhoraire-dhiver-dans-la-fonction-publique-a-partir-du-1er-septembre/)
+- [À partir d’aujourd’hui , la viande d’agneau importée et réfrigérée commercialisée à 38 dinars le kg](https://lapresse.tn/2025/08/29/a-partir-daujourdhui-la-viande-dagneau-importee-et-refrigeree-commercialisee-a-38-dinars-le-kg/)
+- [Volley-ball : la Tunisie s’incline face à la Colombie au Mondial U21](https://lapresse.tn/2025/08/29/volley-ball-la-tunisie-sincline-face-a-la-colombie-au-mondial-u21/)
+- [Météo : chute des températures et orages attendus ce vendredi](https://lapresse.tn/2025/08/29/meteo-chute-des-temperatures-et-orages-attendus-ce-vendredi/)
+- [À l’occasion de la célébration de la journée du Savoir : Le Chef de l’État remet un prix spécial aux parents des élèves victimes de l’accident de Mazzouna](https://lapresse.tn/2025/08/29/a-loccasion-de-la-celebration-de-la-journee-du-savoir-le-chef-de-letat-remet-un-prix-special-aux-parents-des-eleves-victimes-de-laccident-de-mazzouna/)
 - [Tunisie : pose de la première pierre d’une usine de voitures électriques à Kalaat El Andalous](https://lapresse.tn/2025/08/28/tunisie-pose-de-la-premiere-pierre-dune-usine-de-voitures-electriques-a-kalaat-el-andalous/)
-- [Le président de la République préside la cérémonie de la Journée du savoir](https://lapresse.tn/2025/08/28/le-president-de-la-republique-preside-la-ceremonie-de-la-journee-du-savoir/)
-- [« Soumoud » : Démarrage de la campagne de collecte des dons](https://lapresse.tn/2025/08/28/soumoud-demarrage-de-la-campagne-de-collecte-des-dons/)
 - [Mandat de dépôt en prison pour un promoteur immobilier à Tunis](https://lapresse.tn/2025/08/28/mandat-de-depot-en-prison-pour-un-promoteur-immobilier-a-tunis/)
 - [Ralentisseurs sauvages : Quand la sécurité tourne au danger](https://lapresse.tn/2025/08/28/ralentisseurs-sauvages-quand-la-securite-tourne-au-danger/)
 - [Propreté : Redorer le blason des villes tunisiennes](https://lapresse.tn/2025/08/28/proprete-redorer-le-blason-des-villes-tunisiennes/)
-- [Pourquoi : Ça continue…](https://lapresse.tn/2025/08/28/pourquoi-ca-continue/)
-- [Tunisie : Le Président de l’UIB, M.Kamel Néji, annonce sa démission](https://lapresse.tn/2025/08/28/tunisie-le-president-de-luib-kamel-neji-annonce-sa-demission/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Des migrants expulsés des États-Unis sont arrivés au Rwanda](https://www.jeuneafrique.com/1717986/politique/des-migrants-expulses-des-etats-unis-sont-arrives-au-rwanda/)
 - [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
 - [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
 - [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
 - [En Algérie, Abdelmadjid Tebboune limoge son Premier ministre et le remplace par Sifi Ghrieb](https://www.jeuneafrique.com/1717819/politique/en-algerie-abdelmadjid-tebboune-limoge-son-premier-ministre-et-le-remplace-par-sifi-ghrieb/)
+- [FMI, Sahel, Gaza… : de quoi ont discuté Bassirou Diomaye Faye et Emmanuel Macron à Paris](https://www.jeuneafrique.com/1717678/politique/fmi-sahel-gaza-de-quoi-ont-discute-bassirou-diomaye-faye-et-emmanuel-macron-a-paris/)
 - [États-Unis-Maghreb : Trump et la stratégie du tri](https://www.jeuneafrique.com/1715532/politique/etats-unis-maghreb-trump-et-la-strategie-du-tri/)
 - [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
-- [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
-- [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
+- [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
 - [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
-- [Ouattara, Ghazouani, Ekué, Kassi Brou… Une pluie de VIP pour la prestation de serment de Sidi Ould Tah](https://www.jeuneafrique.com/1717191/economie-entreprises/ouattara-ghazouani-ekue-kassi-brou-une-pluie-de-vip-pour-la-prestation-de-serment-de-sidi-ould-tah/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
