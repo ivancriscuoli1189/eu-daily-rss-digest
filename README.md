@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 12:16*
+*Generato: 29 Aug 2025, 13:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -161,15 +161,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [Les corps de deux frères noyés retrouvés sur une plage de Menzel Temime](https://lapresse.tn/2025/08/29/les-corps-de-deux-freres-noyes-retrouves-sur-une-plage-de-menzel-temime/)
+- [Travaux au niveau du tunnel de Ben Arous : circulation des métros sur une seule voie](https://lapresse.tn/2025/08/29/travaux-au-niveau-du-tunnel-de-ben-arous-circulation-des-metros-sur-une-seule-voie/)
 - [Le ministre de la Défense reçoit une délégation du congrès américain : le développement de la coopération militaire au coeur de la rencontre](https://lapresse.tn/2025/08/29/le-ministre-de-la-defense-recoit-une-delegation-du-congres-americain-le-developpement-de-la-cooperation-militaire-au-coeur-de-la-rencontre/)
-- [Le typhon Kajiki tue cinq personnes en Thaïlande](https://lapresse.tn/2025/08/29/le-typhon-kajiki-tue-cinq-personnes-en-thailande/)
-- [Protection civile : 111 incendies maîtrisés en 24h](https://lapresse.tn/2025/08/29/protection-civile-111-incendies-maitrises-en-24h/)
 - [Ibn Sina : 8 personnes soupçonnées d’avoir jeté des projectiles sur des voitures placées en garde à vue](https://lapresse.tn/2025/08/29/ibn-sina-8-personnes-soupconnees-davoir-jete-des-projectiles-sur-des-voitures-placees-en-garde-a-vue/)
-- [Tunisair : mouvement de protestation des agents contractuels de Tunisair Handling](https://lapresse.tn/2025/08/29/tunisair-mouvement-de-protestation-des-agents-contractuels-de-tunisair-handling/)
-- [Tunisie : reprise de l’horaire d’hiver dans la fonction publique à partir du 1er septembre](https://lapresse.tn/2025/08/29/tunisie-reprise-de-lhoraire-dhiver-dans-la-fonction-publique-a-partir-du-1er-septembre/)
+- [Protection civile : 111 incendies maîtrisés en 24h](https://lapresse.tn/2025/08/29/protection-civile-111-incendies-maitrises-en-24h/)
 - [Ministre de l’Éducation : la situation de près de 24 000 enseignants a été régularisée au cours des dernières années](https://lapresse.tn/2025/08/29/ministre-de-leducation-la-situation-de-pres-de-24-000-enseignants-a-ete-regularisee-au-cours-des-dernieres-annees/)
 - [Du 31 août au 6 septembre : Kairouan vibrera au rythme du Festival du Mouled Al-Nabawi el Cherif](https://lapresse.tn/2025/08/29/du-31-aout-au-6-septembre-kairouan-vibrera-au-rythme-du-festival-du-mouled-al-nabawi-el-cherif/)
-- [À partir d’aujourd’hui , la viande d’agneau importée et réfrigérée commercialisée à 38 dinars le kg](https://lapresse.tn/2025/08/29/a-partir-daujourdhui-la-viande-dagneau-importee-et-refrigeree-commercialisee-a-38-dinars-le-kg/)
+- [Djerba : lancement d’un appel à candidatures pour une unité pilote de production de biogaz](https://lapresse.tn/2025/08/29/djerba-lancement-dun-appel-a-candidatures-pour-une-unite-pilote-de-production-de-biogaz/)
+- [Tunisie : l’appel d’offres pour la plateforme e-Visa déclaré infructueux](https://lapresse.tn/2025/08/29/tunisie-lappel-doffres-pour-la-plateforme-e-visa-declare-infructueux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -253,12 +253,12 @@
 
 - [Des migrants expulsés des États-Unis sont arrivés au Rwanda](https://www.jeuneafrique.com/1717986/politique/des-migrants-expulses-des-etats-unis-sont-arrives-au-rwanda/)
 - [À Dakar, comment les divisions entre Barthélémy Dias et Khalifa Sall ont offert la mairie à Pastef](https://www.jeuneafrique.com/1717747/politique/a-dakar-comment-les-divisions-entre-barthelemy-dias-et-khalifa-sall-ont-offert-la-mairie-a-pastef/)
+- [Après le coup de frein sur les visas, Alger accuse Paris de « chantage et d’intimidation »](https://www.jeuneafrique.com/1717595/politique/apres-le-coup-de-frein-sur-les-visas-alger-accuse-paris-de-chantage-et-dintimidation/)
 - [Sassou Nguesso, Mnangagwa… et Biya ? Les présidents africains attendus à Pékin](https://www.jeuneafrique.com/1717893/politique/sassou-nguesso-mnangagwa-et-biya-les-presidents-africains-attendus-a-pekin/)
 - [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
 - [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
 - [Référendum en Guinée : l’opposition muselée cherche à exister malgré la junte](https://www.jeuneafrique.com/1717674/politique/referendum-en-guinee-lopposition-muselee-cherche-a-exister-malgre-la-junte/)
 - [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
-- [En Algérie, Abdelmadjid Tebboune limoge son Premier ministre et le remplace par Sifi Ghrieb](https://www.jeuneafrique.com/1717819/politique/en-algerie-abdelmadjid-tebboune-limoge-son-premier-ministre-et-le-remplace-par-sifi-ghrieb/)
 - [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
 - [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
 
