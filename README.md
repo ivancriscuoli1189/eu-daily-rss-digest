@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 18:13*
+*Generato: 29 Aug 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à des soins de qualité](https://lapresse.tn/2025/08/29/le-droit-absolu-a-des-soins-de-qualite/)
+- [Les transporteurs de véhicules suspendent leurs services à partir du 1er septembre](https://lapresse.tn/2025/08/29/les-transporteurs-de-vehicules-suspendent-leurs-services-a-partir-du-1er-septembre/)
+- [Six hôpitaux tunisiens obtiennent le statut de CHU pour certains de leurs départements médicaux](https://lapresse.tn/2025/08/29/six-hopitaux-tunisiens-obtiennent-le-statut-de-chu-pour-certains-de-leurs-departements-medicaux/)
+- [Entrée sud de la capitale: ouverture du tunnel qui relie les routes régionales 22 et 24](https://lapresse.tn/2025/08/29/entree-sud-de-la-capitale-ouverture-du-tunnel-qui-relie-les-routes-regionales-22-et-24/)
 - [Météo: Cellules orageuses accompagnées de pluies attendues vendredi soir](https://lapresse.tn/2025/08/29/meteo-cellules-orageuses-accompagnees-de-pluies-attendues-vendredi-soir-sur-le-nord-le-centre-et-lextreme-sud-est/)
-- [Équipe nationale – Demain la liste dévoilée : Entre espoir et crainte](https://lapresse.tn/2025/08/29/equipe-nationale-demain-la-liste-devoilee-entre-espoir-et-crainte/)
-- [Vernis semi-permanent : alerte sur un risque cancérigène](https://lapresse.tn/2025/08/29/vernis-semi-permanent-alerte-sur-un-risque-cancerigene/)
 - [Tunisie : un automne plus chaud que la normale attendu](https://lapresse.tn/2025/08/29/tunisie-un-automne-plus-chaud-que-la-normale-attendu/)
 - [Le nouveau message de la Tunisie : Les hommes libres ont le devoir d’agir](https://lapresse.tn/2025/08/29/le-nouveau-message-de-la-tunisie-les-hommes-libres-ont-le-devoir-dagir/)
-- [Tunisie – Etats-Unis : Nafti reçoit une délégation de congressistes américains](https://lapresse.tn/2025/08/29/tunisie-etats-unis-nafti-recoit-une-delegation-de-congressistes-americains/)
-- [Action municipale : Mais où sont les élus ?](https://lapresse.tn/2025/08/29/action-municipale-mais-ou-sont-les-elus/)
-- [Mandat de dépôt en prison à l’encontre de la femme accusée d’avoir brûlé des chats vivants](https://lapresse.tn/2025/08/29/mandat-de-depot-en-prison-a-lencontre-de-la-femme-accusee-davoir-brule-des-chats-vivants/)
-- [Sur deux jours : Tunisie Telecom honore les enfants de ses agents qui ont excellé dans les concours nationaux](https://lapresse.tn/2025/08/29/sur-deux-jours-tunisie-telecom-honore-les-enfants-de-ses-agents-qui-ont-excelle-dans-les-concours-nationaux/)
+- [Accident au port de Sousse : deux ouvriers blessés, un dans un état critique](https://lapresse.tn/2025/08/29/accident-au-port-de-sousse-deux-ouvriers-blesses-un-dans-un-etat-critique/)
+- [Vernis semi-permanent : alerte sur un risque cancérigène](https://lapresse.tn/2025/08/29/vernis-semi-permanent-alerte-sur-un-risque-cancerigene/)
+- [Tunisair : Le temps de réagir](https://lapresse.tn/2025/08/29/tunisair-le-temps-de-reagir/)
 
 ## NGOs – Amnesty International – Tunisia
 
