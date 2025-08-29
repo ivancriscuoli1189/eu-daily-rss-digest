@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 13:20*
+*Generato: 29 Aug 2025, 15:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -66,6 +66,19 @@
 - [Communiqués de presse](https://www.ins.tn/communique-de-presse)
 - [Evènements](https://www.ins.tn/evenements)
 - [Calendrier de diffusion](https://www.ins.tn/calendar)
+
+## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
+
+- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-17)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86)
+- [لقاء رئيس الجمهورية قيس سعيّد مع فخامة الرئيس محمد يونس المنفي رئيس المجلس الرئاسي الليبي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-16)
+- [بمناسبة الإحتفال بعيد المرأة و الذّكري التّاسعة و السّتين لصدور مجلة الأحوال الشخصيّة تحوّل رئيس الجمهوريّة قيس سعيّد إلى معتمديّة سجنان من ولاية بنزرت](http://www.carthage.tn/ar/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88-%D8%A7%D9%84%D8%B0%D9%91%D9%83%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D8%A7%D8%B3%D8%B9%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%91%D8%AA%D9%8A%D9%86-%D9%84%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%91%D8%A9-%D8%AA%D8%AD%D9%88%D9%91%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3)
+- [قام رئيس الجمهورية قيس سعيّد عصر هذا اليوم، الحادي عشر من شهر أوت الجاري، بزيارة غير معلنة للمبنى الذي سيكون مقرّا للمجلس الأعلى للتربية والتعليم](http://www.carthage.tn/ar/%D9%82%D8%A7%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%8C-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A-%D8%B9%D8%B4%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%A3%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A8%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%A8%D9%86%D9%89)
+- [لقاء رئيس الجمهورية قيس سعيّد مع الأمين العام لاتحاد المحامين العرب النقيب المكّاوي بنعيسى والأستاذ عبد الحليم علام رئيس اتحاد المحامين العرب](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%83%D9%91%D8%A7%D9%88%D9%8A-%D8%A8%D9%86%D8%B9%D9%8A%D8%B3%D9%89-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0)
+- [لقاء رئيس الجمهورية قيس سعيّد مع البطل التونسي أحمد الجوادي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%AF%D9%8A)
 
 ## UE – EP – Press Room
 
@@ -161,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [Sejnane : le blocage foncier du projet de village artisanal bientôt levé](https://lapresse.tn/2025/08/29/sejnane-le-blocage-foncier-du-projet-de-village-artisanal-bientot-leve/)
+- [Football-ligue 2: lundi prochain, tirage au sort du calendrier de la nouvelle saison sportive](https://lapresse.tn/2025/08/29/football-ligue-2-lundi-prochain-tirage-au-sort-du-calendrier-de-la-nouvelle-saison-sportive/)
+- [Le nombre de touristes chinois en Tunisie a augmenté de 16 %](https://lapresse.tn/2025/08/29/le-nombre-de-touristes-chinois-en-tunisie-a-augmente-de-16/)
 - [Les corps de deux frères noyés retrouvés sur une plage de Menzel Temime](https://lapresse.tn/2025/08/29/les-corps-de-deux-freres-noyes-retrouves-sur-une-plage-de-menzel-temime/)
 - [Travaux au niveau du tunnel de Ben Arous : circulation des métros sur une seule voie](https://lapresse.tn/2025/08/29/travaux-au-niveau-du-tunnel-de-ben-arous-circulation-des-metros-sur-une-seule-voie/)
 - [Le ministre de la Défense reçoit une délégation du congrès américain : le développement de la coopération militaire au coeur de la rencontre](https://lapresse.tn/2025/08/29/le-ministre-de-la-defense-recoit-une-delegation-du-congres-americain-le-developpement-de-la-cooperation-militaire-au-coeur-de-la-rencontre/)
-- [Ibn Sina : 8 personnes soupçonnées d’avoir jeté des projectiles sur des voitures placées en garde à vue](https://lapresse.tn/2025/08/29/ibn-sina-8-personnes-soupconnees-davoir-jete-des-projectiles-sur-des-voitures-placees-en-garde-a-vue/)
+- [Rentrée scolaire: L’OTEF fournira des aides et des bourses scolaires d’une valeur de 200 mille dinars](https://lapresse.tn/2025/08/29/rentree-scolaire-lotef-fournira-des-aides-et-des-bourses-scolaires-dune-valeur-de-200-mille-dinars/)
 - [Protection civile : 111 incendies maîtrisés en 24h](https://lapresse.tn/2025/08/29/protection-civile-111-incendies-maitrises-en-24h/)
-- [Ministre de l’Éducation : la situation de près de 24 000 enseignants a été régularisée au cours des dernières années](https://lapresse.tn/2025/08/29/ministre-de-leducation-la-situation-de-pres-de-24-000-enseignants-a-ete-regularisee-au-cours-des-dernieres-annees/)
-- [Du 31 août au 6 septembre : Kairouan vibrera au rythme du Festival du Mouled Al-Nabawi el Cherif](https://lapresse.tn/2025/08/29/du-31-aout-au-6-septembre-kairouan-vibrera-au-rythme-du-festival-du-mouled-al-nabawi-el-cherif/)
 - [Djerba : lancement d’un appel à candidatures pour une unité pilote de production de biogaz](https://lapresse.tn/2025/08/29/djerba-lancement-dun-appel-a-candidatures-pour-une-unite-pilote-de-production-de-biogaz/)
-- [Tunisie : l’appel d’offres pour la plateforme e-Visa déclaré infructueux](https://lapresse.tn/2025/08/29/tunisie-lappel-doffres-pour-la-plateforme-e-visa-declare-infructueux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -254,11 +267,11 @@
 - [Des migrants expulsés des États-Unis sont arrivés au Rwanda](https://www.jeuneafrique.com/1717986/politique/des-migrants-expulses-des-etats-unis-sont-arrives-au-rwanda/)
 - [À Dakar, comment les divisions entre Barthélémy Dias et Khalifa Sall ont offert la mairie à Pastef](https://www.jeuneafrique.com/1717747/politique/a-dakar-comment-les-divisions-entre-barthelemy-dias-et-khalifa-sall-ont-offert-la-mairie-a-pastef/)
 - [Après le coup de frein sur les visas, Alger accuse Paris de « chantage et d’intimidation »](https://www.jeuneafrique.com/1717595/politique/apres-le-coup-de-frein-sur-les-visas-alger-accuse-paris-de-chantage-et-dintimidation/)
+- [Présidentielle au Cameroun : face à Paul Biya, Maurice Kamto et l’espoir d’un grand soir](https://www.jeuneafrique.com/1717404/politique/presidentielle-au-cameroun-face-a-paul-biya-maurice-kamto-et-lespoir-dun-grand-soir/)
 - [Sassou Nguesso, Mnangagwa… et Biya ? Les présidents africains attendus à Pékin](https://www.jeuneafrique.com/1717893/politique/sassou-nguesso-mnangagwa-et-biya-les-presidents-africains-attendus-a-pekin/)
 - [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
 - [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
 - [Référendum en Guinée : l’opposition muselée cherche à exister malgré la junte](https://www.jeuneafrique.com/1717674/politique/referendum-en-guinee-lopposition-muselee-cherche-a-exister-malgre-la-junte/)
-- [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
 - [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
 - [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
 
