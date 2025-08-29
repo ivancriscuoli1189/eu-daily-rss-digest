@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Aug 2025, 21:10*
+*Generato: 29 Aug 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,10 +174,10 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [A L’OCCASION DE LA CÉLÉBRATION DE LA JOURNÉE DU SAVOIR : Le Chef de l’État remet un prix spécial aux parents des élèves victimes de l’accident de Mazzouna](https://lapresse.tn/2025/08/29/a-loccasion-de-la-celebration-de-la-journee-du-savoir-le-chef-de-letat-remet-un-prix-special-aux-parents-des-eleves-victimes-de-laccident-de-mazzouna/)
+- [Tunisie : pose de la première pierre d’une usine de voitures électriques à Kalaat El Andalous](https://lapresse.tn/2025/08/28/tunisie-pose-de-la-premiere-pierre-dune-usine-de-voitures-electriques-a-kalaat-el-andalous/)
 - [Le président de la République préside la cérémonie de la Journée du savoir](https://lapresse.tn/2025/08/28/le-president-de-la-republique-preside-la-ceremonie-de-la-journee-du-savoir/)
 - [« Soumoud » : Démarrage de la campagne de collecte des dons](https://lapresse.tn/2025/08/28/soumoud-demarrage-de-la-campagne-de-collecte-des-dons/)
-- [Tunisie – États-Unis : Rencontre entre Mohamed Ali Nafti et une délégation du Congrès américain](https://lapresse.tn/2025/08/28/tunisie-etats-unis-rencontre-entre-mohamed-ali-nafti-et-une-delegation-du-congres-americain/)
-- [Météo : fortes pluies et vents violents attendus cette nuit en Tunisie](https://lapresse.tn/2025/08/28/meteo-fortes-pluies-et-vents-violents-attendus-cette-nuit-en-tunisie/)
 - [Mandat de dépôt en prison pour un promoteur immobilier à Tunis](https://lapresse.tn/2025/08/28/mandat-de-depot-en-prison-pour-un-promoteur-immobilier-a-tunis/)
 - [Ralentisseurs sauvages : Quand la sécurité tourne au danger](https://lapresse.tn/2025/08/28/ralentisseurs-sauvages-quand-la-securite-tourne-au-danger/)
 - [Propreté : Redorer le blason des villes tunisiennes](https://lapresse.tn/2025/08/28/proprete-redorer-le-blason-des-villes-tunisiennes/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
+- [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
 - [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
 - [En Algérie, Abdelmadjid Tebboune limoge son Premier ministre et le remplace par Sifi Ghrieb](https://www.jeuneafrique.com/1717819/politique/en-algerie-abdelmadjid-tebboune-limoge-son-premier-ministre-et-le-remplace-par-sifi-ghrieb/)
 - [États-Unis-Maghreb : Trump et la stratégie du tri](https://www.jeuneafrique.com/1715532/politique/etats-unis-maghreb-trump-et-la-strategie-du-tri/)
 - [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
 - [Crise au Cabo Delgado : le Rwanda et le Mozambique signent un accord de sécurité](https://www.jeuneafrique.com/1717615/politique/crise-au-cabo-delgado-le-rwanda-et-le-mozambique-signent-un-accord-de-securite/)
 - [Disparus en Guinée : « Ils vivent bien », assure un proche de Doumbouya](https://www.jeuneafrique.com/1717617/politique/disparus-en-guinee-ils-vivent-bien-assure-un-proche-de-doumbouya/)
-- [Au Maghreb et au Moyen-Orient, une diplomatie russe à plusieurs visages](https://www.jeuneafrique.com/1717301/politique/au-maghreb-et-au-moyen-orient-une-diplomatie-russe-a-plusieurs-visages/)
-- [Présidentielle au Cameroun : l’ombre des millions de la Camair plane sur Tchiroma Bakary](https://www.jeuneafrique.com/1716647/politique/presidentielle-au-cameroun-lombre-des-millions-de-la-camair-plane-sur-tchiroma-bakary/)
 - [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
 - [Ouattara, Ghazouani, Ekué, Kassi Brou… Une pluie de VIP pour la prestation de serment de Sidi Ould Tah](https://www.jeuneafrique.com/1717191/economie-entreprises/ouattara-ghazouani-ekue-kassi-brou-une-pluie-de-vip-pour-la-prestation-de-serment-de-sidi-ould-tah/)
 
