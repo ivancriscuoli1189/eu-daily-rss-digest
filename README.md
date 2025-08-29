@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 09:10*
+*Generato: 29 Aug 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -66,19 +66,6 @@
 - [Communiqués de presse](https://www.ins.tn/communique-de-presse)
 - [Evènements](https://www.ins.tn/evenements)
 - [Calendrier de diffusion](https://www.ins.tn/calendar)
-
-## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
-
-- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-17)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86)
-- [لقاء رئيس الجمهورية قيس سعيّد مع فخامة الرئيس محمد يونس المنفي رئيس المجلس الرئاسي الليبي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-16)
-- [بمناسبة الإحتفال بعيد المرأة و الذّكري التّاسعة و السّتين لصدور مجلة الأحوال الشخصيّة تحوّل رئيس الجمهوريّة قيس سعيّد إلى معتمديّة سجنان من ولاية بنزرت](http://www.carthage.tn/ar/%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%88-%D8%A7%D9%84%D8%B0%D9%91%D9%83%D8%B1%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D8%A7%D8%B3%D8%B9%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%91%D8%AA%D9%8A%D9%86-%D9%84%D8%B5%D8%AF%D9%88%D8%B1-%D9%85%D8%AC%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%AD%D9%88%D8%A7%D9%84-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D9%91%D8%A9-%D8%AA%D8%AD%D9%88%D9%91%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3)
-- [قام رئيس الجمهورية قيس سعيّد عصر هذا اليوم، الحادي عشر من شهر أوت الجاري، بزيارة غير معلنة للمبنى الذي سيكون مقرّا للمجلس الأعلى للتربية والتعليم](http://www.carthage.tn/ar/%D9%82%D8%A7%D9%85-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85%D8%8C-%D8%A7%D9%84%D8%AD%D8%A7%D8%AF%D9%8A-%D8%B9%D8%B4%D8%B1-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%A3%D9%88%D8%AA-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A8%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B9%D9%84%D9%86%D8%A9-%D9%84%D9%84%D9%85%D8%A8%D9%86%D9%89)
-- [لقاء رئيس الجمهورية قيس سعيّد مع الأمين العام لاتحاد المحامين العرب النقيب المكّاوي بنعيسى والأستاذ عبد الحليم علام رئيس اتحاد المحامين العرب](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D8%A7%D9%84%D9%86%D9%82%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%83%D9%91%D8%A7%D9%88%D9%8A-%D8%A8%D9%86%D8%B9%D9%8A%D8%B3%D9%89-%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%AA%D8%A7%D8%B0)
-- [لقاء رئيس الجمهورية قيس سعيّد مع البطل التونسي أحمد الجوادي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%AF%D9%8A)
 
 ## UE – EP – Press Room
 
@@ -174,15 +161,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
+- [Protection civile : 111 incendies maîtrisés en 24h](https://lapresse.tn/2025/08/29/protection-civile-111-incendies-maitrises-en-24h/)
+- [Djerba : lancement d’un appel à candidatures pour une unité pilote de production de biogaz](https://lapresse.tn/2025/08/29/djerba-lancement-dun-appel-a-candidatures-pour-une-unite-pilote-de-production-de-biogaz/)
+- [Tunisie : l’appel d’offres pour la plateforme e-Visa déclaré infructueux](https://lapresse.tn/2025/08/29/tunisie-lappel-doffres-pour-la-plateforme-e-visa-declare-infructueux/)
+- [Tunisair : mouvement de protestation des agents contractuels de Tunisair Handling](https://lapresse.tn/2025/08/29/tunisair-mouvement-de-protestation-des-agents-contractuels-de-tunisair-handling/)
 - [Tunisie : reprise de l’horaire d’hiver dans la fonction publique à partir du 1er septembre](https://lapresse.tn/2025/08/29/tunisie-reprise-de-lhoraire-dhiver-dans-la-fonction-publique-a-partir-du-1er-septembre/)
-- [À partir d’aujourd’hui , la viande d’agneau importée et réfrigérée commercialisée à 38 dinars le kg](https://lapresse.tn/2025/08/29/a-partir-daujourdhui-la-viande-dagneau-importee-et-refrigeree-commercialisee-a-38-dinars-le-kg/)
-- [Volley-ball : la Tunisie s’incline face à la Colombie au Mondial U21](https://lapresse.tn/2025/08/29/volley-ball-la-tunisie-sincline-face-a-la-colombie-au-mondial-u21/)
 - [Météo : chute des températures et orages attendus ce vendredi](https://lapresse.tn/2025/08/29/meteo-chute-des-temperatures-et-orages-attendus-ce-vendredi/)
-- [À l’occasion de la célébration de la journée du Savoir : Le Chef de l’État remet un prix spécial aux parents des élèves victimes de l’accident de Mazzouna](https://lapresse.tn/2025/08/29/a-loccasion-de-la-celebration-de-la-journee-du-savoir-le-chef-de-letat-remet-un-prix-special-aux-parents-des-eleves-victimes-de-laccident-de-mazzouna/)
-- [Tunisie : pose de la première pierre d’une usine de voitures électriques à Kalaat El Andalous](https://lapresse.tn/2025/08/28/tunisie-pose-de-la-premiere-pierre-dune-usine-de-voitures-electriques-a-kalaat-el-andalous/)
-- [Mandat de dépôt en prison pour un promoteur immobilier à Tunis](https://lapresse.tn/2025/08/28/mandat-de-depot-en-prison-pour-un-promoteur-immobilier-a-tunis/)
-- [Ralentisseurs sauvages : Quand la sécurité tourne au danger](https://lapresse.tn/2025/08/28/ralentisseurs-sauvages-quand-la-securite-tourne-au-danger/)
-- [Propreté : Redorer le blason des villes tunisiennes](https://lapresse.tn/2025/08/28/proprete-redorer-le-blason-des-villes-tunisiennes/)
+- [Ministre de l’Éducation : la situation de près de 24 000 enseignants a été régularisée au cours des dernières années](https://lapresse.tn/2025/08/29/ministre-de-leducation-la-situation-de-pres-de-24-000-enseignants-a-ete-regularisee-au-cours-des-dernieres-annees/)
+- [Du 31 août au 6 septembre : Kairouan vibrera au rythme du Festival du Mouled Al-Nabawi el Cherif](https://lapresse.tn/2025/08/29/du-31-aout-au-6-septembre-kairouan-vibrera-au-rythme-du-festival-du-mouled-al-nabawi-el-cherif/)
+- [À partir d’aujourd’hui , la viande d’agneau importée et réfrigérée commercialisée à 38 dinars le kg](https://lapresse.tn/2025/08/29/a-partir-daujourdhui-la-viande-dagneau-importee-et-refrigeree-commercialisee-a-38-dinars-le-kg/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +252,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Des migrants expulsés des États-Unis sont arrivés au Rwanda](https://www.jeuneafrique.com/1717986/politique/des-migrants-expulses-des-etats-unis-sont-arrives-au-rwanda/)
+- [Sassou Nguesso, Mnangagwa… et Biya ? Les présidents africains attendus à Pékin](https://www.jeuneafrique.com/1717893/politique/sassou-nguesso-mnangagwa-et-biya-les-presidents-africains-attendus-a-pekin/)
 - [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
 - [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
+- [Référendum en Guinée : l’opposition muselée cherche à exister malgré la junte](https://www.jeuneafrique.com/1717674/politique/referendum-en-guinee-lopposition-muselee-cherche-a-exister-malgre-la-junte/)
 - [En Ouganda, Museveni officiellement candidat pour une cinquième décennie au pouvoir](https://www.jeuneafrique.com/1717593/politique/en-ouganda-museveni-officiellement-candidat-pour-une-cinquieme-decennie-au-pouvoir/)
 - [En Algérie, Abdelmadjid Tebboune limoge son Premier ministre et le remplace par Sifi Ghrieb](https://www.jeuneafrique.com/1717819/politique/en-algerie-abdelmadjid-tebboune-limoge-son-premier-ministre-et-le-remplace-par-sifi-ghrieb/)
 - [FMI, Sahel, Gaza… : de quoi ont discuté Bassirou Diomaye Faye et Emmanuel Macron à Paris](https://www.jeuneafrique.com/1717678/politique/fmi-sahel-gaza-de-quoi-ont-discute-bassirou-diomaye-faye-et-emmanuel-macron-a-paris/)
-- [États-Unis-Maghreb : Trump et la stratégie du tri](https://www.jeuneafrique.com/1715532/politique/etats-unis-maghreb-trump-et-la-strategie-du-tri/)
-- [Côte d’Ivoire–Burkina Faso : six fonctionnaires ivoiriens enlevés par des VDP burkinabè, la frontière sous-tension](https://www.jeuneafrique.com/1717640/politique/cote-divoire-burkina-faso-six-fonctionnaires-ivoiriens-enleves-par-des-vdp-burkinabe-la-frontiere-sous-tension/)
 - [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
 - [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
 
