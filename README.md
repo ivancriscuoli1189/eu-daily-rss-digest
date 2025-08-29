@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 15:09*
+*Generato: 29 Aug 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Loi de finances 2026 : équilibre entre l’économique et le social](https://lapresse.tn/2025/08/28/loi-de-finances-2026-equilibre-entre-leconomique-et-le-social/)
-- [Sejnane : le blocage foncier du projet de village artisanal bientôt levé](https://lapresse.tn/2025/08/29/sejnane-le-blocage-foncier-du-projet-de-village-artisanal-bientot-leve/)
-- [Football-ligue 2: lundi prochain, tirage au sort du calendrier de la nouvelle saison sportive](https://lapresse.tn/2025/08/29/football-ligue-2-lundi-prochain-tirage-au-sort-du-calendrier-de-la-nouvelle-saison-sportive/)
-- [Le nombre de touristes chinois en Tunisie a augmenté de 16 %](https://lapresse.tn/2025/08/29/le-nombre-de-touristes-chinois-en-tunisie-a-augmente-de-16/)
-- [Les corps de deux frères noyés retrouvés sur une plage de Menzel Temime](https://lapresse.tn/2025/08/29/les-corps-de-deux-freres-noyes-retrouves-sur-une-plage-de-menzel-temime/)
-- [Travaux au niveau du tunnel de Ben Arous : circulation des métros sur une seule voie](https://lapresse.tn/2025/08/29/travaux-au-niveau-du-tunnel-de-ben-arous-circulation-des-metros-sur-une-seule-voie/)
-- [Le ministre de la Défense reçoit une délégation du congrès américain : le développement de la coopération militaire au coeur de la rencontre](https://lapresse.tn/2025/08/29/le-ministre-de-la-defense-recoit-une-delegation-du-congres-americain-le-developpement-de-la-cooperation-militaire-au-coeur-de-la-rencontre/)
-- [Rentrée scolaire: L’OTEF fournira des aides et des bourses scolaires d’une valeur de 200 mille dinars](https://lapresse.tn/2025/08/29/rentree-scolaire-lotef-fournira-des-aides-et-des-bourses-scolaires-dune-valeur-de-200-mille-dinars/)
-- [Protection civile : 111 incendies maîtrisés en 24h](https://lapresse.tn/2025/08/29/protection-civile-111-incendies-maitrises-en-24h/)
-- [Djerba : lancement d’un appel à candidatures pour une unité pilote de production de biogaz](https://lapresse.tn/2025/08/29/djerba-lancement-dun-appel-a-candidatures-pour-une-unite-pilote-de-production-de-biogaz/)
+- [Le droit absolu à des soins de qualité](https://lapresse.tn/2025/08/29/le-droit-absolu-a-des-soins-de-qualite/)
+- [Météo: Cellules orageuses accompagnées de pluies attendues vendredi soir](https://lapresse.tn/2025/08/29/meteo-cellules-orageuses-accompagnees-de-pluies-attendues-vendredi-soir-sur-le-nord-le-centre-et-lextreme-sud-est/)
+- [Équipe nationale – Demain la liste dévoilée : Entre espoir et crainte](https://lapresse.tn/2025/08/29/equipe-nationale-demain-la-liste-devoilee-entre-espoir-et-crainte/)
+- [Vernis semi-permanent : alerte sur un risque cancérigène](https://lapresse.tn/2025/08/29/vernis-semi-permanent-alerte-sur-un-risque-cancerigene/)
+- [Tunisie : un automne plus chaud que la normale attendu](https://lapresse.tn/2025/08/29/tunisie-un-automne-plus-chaud-que-la-normale-attendu/)
+- [Le nouveau message de la Tunisie : Les hommes libres ont le devoir d’agir](https://lapresse.tn/2025/08/29/le-nouveau-message-de-la-tunisie-les-hommes-libres-ont-le-devoir-dagir/)
+- [Tunisie – Etats-Unis : Nafti reçoit une délégation de congressistes américains](https://lapresse.tn/2025/08/29/tunisie-etats-unis-nafti-recoit-une-delegation-de-congressistes-americains/)
+- [Action municipale : Mais où sont les élus ?](https://lapresse.tn/2025/08/29/action-municipale-mais-ou-sont-les-elus/)
+- [Mandat de dépôt en prison à l’encontre de la femme accusée d’avoir brûlé des chats vivants](https://lapresse.tn/2025/08/29/mandat-de-depot-en-prison-a-lencontre-de-la-femme-accusee-davoir-brule-des-chats-vivants/)
+- [Sur deux jours : Tunisie Telecom honore les enfants de ses agents qui ont excellé dans les concours nationaux](https://lapresse.tn/2025/08/29/sur-deux-jours-tunisie-telecom-honore-les-enfants-de-ses-agents-qui-ont-excelle-dans-les-concours-nationaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
 - [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
 - [Référendum en Guinée : l’opposition muselée cherche à exister malgré la junte](https://www.jeuneafrique.com/1717674/politique/referendum-en-guinee-lopposition-muselee-cherche-a-exister-malgre-la-junte/)
+- [Ce que pourrait changer l’arrivée de Revolut au Maroc](https://www.jeuneafrique.com/1717578/economie-entreprises/ce-que-pourrait-changer-larrivee-de-revolut-au-maroc/)
 - [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
-- [Pétrole : le groupe brésilien Petrobras cherche un second souffle en Afrique](https://www.jeuneafrique.com/1717442/economie-entreprises/petrole-le-groupe-bresilien-petrobras-cherche-un-second-souffle-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
