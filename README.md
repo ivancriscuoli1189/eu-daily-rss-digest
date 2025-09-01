@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 11:09*
+*Generato: 01 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
-- [Rentrée 2025 : Ooredoo connecte les foyers pour réussir ensemble !](https://lapresse.tn/2025/09/01/rentree-2025-ooredoo-connecte-les-foyers-pour-reussir-ensemble/)
-- [Retour des tunisiens à l’étranger : une saison estivale exceptionnelle](https://lapresse.tn/2025/09/01/retour-des-tunisiens-a-letranger-une-saison-estivale-exceptionnelle/)
-- [Agence Tunisienne de la Formation Professionnelle : hausse des fonds pour garantir un programme de qualité](https://lapresse.tn/2025/09/01/agence-tunisienne-de-la-formation-professionnelle-hausse-des-fonds-pour-garantir-un-programme-de-qualite/)
+- [Siliana : l’hôpital régional sans néphrologue, les patients en colère](https://lapresse.tn/2025/09/01/siliana-lhopital-regional-sans-nephrologue-les-patients-en-colere/)
+- [Météo : Pluie et baisse des températures à partir de ce soir](https://lapresse.tn/2025/09/01/meteo-pluie-et-baisse-des-temperatures-a-partir-de-ce-soir/)
+- [Le Stade Tunisien accepte le transfert de Khalil Ayari au PSG](https://lapresse.tn/2025/09/01/le-stade-tunisien-accepte-le-transfert-de-khalil-ayari-au-psg/)
+- [CPC : grève des agents et arrêt partiel de la production](https://lapresse.tn/2025/09/01/cpc-greve-des-agents-et-arret-partiel-de-la-production/)
+- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
 - [Tunisie : Plus de 58 kg de cocaïne et 169 000 comprimés saisis en 2025](https://lapresse.tn/2025/09/01/tunisie-plus-de-58-kg-de-cocaine-et-169-000-comprimes-saisis-en-2025/)
-- [Tunisie : températures jusqu’à 42°C ce lundi](https://lapresse.tn/2025/09/01/tunisie-temperatures-jusqua-42c-ce-lundi/)
-- [Horaire administratif: retour de la double séance à partir d’aujourd’hui](https://lapresse.tn/2025/09/01/horaire-administratif-retour-de-la-double-seance-a-partir-daujourdhui/)
 - [Sociétés de transport et de remorquage : la grève suspendue](https://lapresse.tn/2025/09/01/societes-de-transport-et-de-remorquage-la-greve-suspendue/)
 - [Baccalauréat 2026 : les changements prévus pour le programme de la section Lettres](https://lapresse.tn/2025/09/01/baccalaureat-2026-les-changements-prevus-pour-le-programme-de-la-section-lettres/)
 - [Permis de conduire : à partir d’aujourd’hui, le contrat de formation de l’auto-école exigé](https://lapresse.tn/2025/09/01/permis-de-conduire-a-partir-daujourdhui-le-contrat-de-formation-de-lauto-ecole-exige/)
@@ -213,7 +213,7 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
-- [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-and-release-him-immediately/)
+- [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
