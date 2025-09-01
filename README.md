@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 18:13*
+*Generato: 01 Sep 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
+- [Hammam Lif : fin du retrait des digues et retour des courants marins](https://lapresse.tn/2025/09/01/hammam-lif-fin-du-retrait-des-digues-et-retour-des-courants-marins/)
+- [En marge du point de presse du sélectionneur national : Les dérapages de Sami Trabelsi !](https://lapresse.tn/2025/09/01/en-marge-du-point-de-presse-du-selectionneur-national-les-derapages-de-sami-trabelsi/)
+- [CA – prémices d’un nivellement par le haut : Une impression positive](https://lapresse.tn/2025/09/01/ca-premices-dun-nivellement-par-le-haut-une-impression-positive/)
 - [L’intelligence artificielle au service de l’imagerie médicale : première école d’été à l’Université de Tunis el Manar](https://lapresse.tn/2025/09/01/lintelligence-artificielle-au-service-de-limagerie-medicale-premiere-ecole-dete-a-luniversite-de-tunis-el-manar/)
-- [Transtu – Rénovation et réhabilitation du matériel roulant : Où en est-on de la feuille de route du 29 janvier 2025?](https://lapresse.tn/2025/09/01/transtu-renovation-et-rehabilitation-du-materiel-roulant-ou-en-est-on-de-la-feuille-de-route-du-29-janvier-2025/)
-- [Activisme citoyen : Quand une action volontaire et spontanée porte ses fruits](https://lapresse.tn/2025/09/01/activisme-citoyen-quand-une-action-volontaire-et-spontanee-porte-ses-fruits/)
 - [Le ministère de l’Environnement et la Télévision tunisienne s’associent pour sensibiliser les jeunes à l’écologie](https://lapresse.tn/2025/09/01/le-ministere-de-lenvironnement-et-la-television-tunisienne-sassocient-pour-sensibiliser-les-jeunes-a-lecologie/)
 - [Mohamed Ali Nafti reçoit le nouveau directeur du Bureau de l’OIT pour le Maghreb](https://lapresse.tn/2025/09/01/mohamed-ali-nafti-recoit-le-nouveau-directeur-du-bureau-de-loit-pour-le-maghreb/)
-- [Tunisie – Agences de notation internationales : Reconstruction économique réussie](https://lapresse.tn/2025/09/01/tunisie-agences-de-notation-internationales-reconstruction-economique-reussie/)
+- [Transtu – Rénovation et réhabilitation du matériel roulant : Où en est-on de la feuille de route du 29 janvier 2025?](https://lapresse.tn/2025/09/01/transtu-renovation-et-rehabilitation-du-materiel-roulant-ou-en-est-on-de-la-feuille-de-route-du-29-janvier-2025/)
+- [Activisme citoyen : Quand une action volontaire et spontanée porte ses fruits](https://lapresse.tn/2025/09/01/activisme-citoyen-quand-une-action-volontaire-et-spontanee-porte-ses-fruits/)
 - [Pourquoi : «Il n’y a pas de réseau»](https://lapresse.tn/2025/09/01/pourquoi-il-ny-a-pas-de-reseau/)
-- [Bus : les nouvelles lignes 42 et 116 assureront la liaison entre Tebourba à la gare d’El Kobaâ](https://lapresse.tn/2025/09/01/bus-les-nouvelles-lignes-42-et-116-assureront-la-liaison-entre-tebourba-a-la-gare-del-kobaa/)
-- [BCT – Reprise attendue en 2025 : Sous le signe de la prudence](https://lapresse.tn/2025/09/01/bct-reprise-attendue-en-2025-sous-le-signe-de-la-prudence/)
 
 ## NGOs – Amnesty International – Tunisia
 
