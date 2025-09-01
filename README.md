@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 13:23*
+*Generato: 01 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
+- [Une nouvelle secousse tellurique ressentie à Tozeur](https://lapresse.tn/2025/09/01/une-nouvelle-secousse-tellurique-ressentie-a-tozeur/)
+- [Bus : les nouvelles lignes 42 et 116 assureront la liaison entre Tebourba à la gare d’El Kobaâ](https://lapresse.tn/2025/09/01/bus-les-nouvelles-lignes-42-et-116-assureront-la-liaison-entre-tebourba-a-la-gare-del-kobaa/)
+- [La Tunisie, sixième plus grand importateur africain de panneaux solaires chinois](https://lapresse.tn/2025/09/01/la-tunisie-sixieme-plus-grand-importateur-africain-de-panneaux-solaires-chinois/)
+- [Météo : Pluie et baisse des températures à partir de ce soir](https://lapresse.tn/2025/09/01/meteo-pluie-et-baisse-des-temperatures-a-partir-de-ce-soir/)
+- [CPG : grève des agents et arrêt partiel de la production](https://lapresse.tn/2025/09/01/cpc-greve-des-agents-et-arret-partiel-de-la-production/)
+- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
+- [5ème édition du concours tunisien des produits du terroir : ouverture des inscriptions](https://lapresse.tn/2025/09/01/5eme-edition-du-concours-tunisien-des-produits-du-terroir-ouverture-des-inscriptions/)
 - [La grève des taxis individuels coïncidera avec la rentrée scolaire](https://lapresse.tn/2025/09/01/la-greve-des-taxis-individuels-coincidera-avec-la-rentree-scolaire/)
 - [Démarrage de la campagne de vaccination des chiens et des chats dans le Grand-Tunis](https://lapresse.tn/2025/09/01/demarrage-de-la-campagne-de-vaccination-des-chiens-et-des-chats-dans-le-grand-tunis/)
-- [Siliana : l’hôpital régional sans néphrologue, les patients en colère](https://lapresse.tn/2025/09/01/siliana-lhopital-regional-sans-nephrologue-les-patients-en-colere/)
-- [CPC : grève des agents et arrêt partiel de la production](https://lapresse.tn/2025/09/01/cpc-greve-des-agents-et-arret-partiel-de-la-production/)
-- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
-- [Tunisie : Plus de 58 kg de cocaïne et 169 000 comprimés saisis en 2025](https://lapresse.tn/2025/09/01/tunisie-plus-de-58-kg-de-cocaine-et-169-000-comprimes-saisis-en-2025/)
-- [Sociétés de transport et de remorquage : la grève suspendue](https://lapresse.tn/2025/09/01/societes-de-transport-et-de-remorquage-la-greve-suspendue/)
-- [Rentrée 2025 : Ooredoo connecte les foyers pour réussir ensemble !](https://lapresse.tn/2025/09/01/rentree-2025-ooredoo-connecte-les-foyers-pour-reussir-ensemble/)
-- [Retour des tunisiens à l’étranger : une saison estivale exceptionnelle](https://lapresse.tn/2025/09/01/retour-des-tunisiens-a-letranger-une-saison-estivale-exceptionnelle/)
 
 ## NGOs – Amnesty International – Tunisia
 
