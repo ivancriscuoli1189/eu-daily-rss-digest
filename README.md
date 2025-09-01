@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Aug 2025, 21:09*
+*Generato: 01 Sep 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le droit absolu à des soins de qualité](https://lapresse.tn/2025/08/29/le-droit-absolu-a-des-soins-de-qualite/)
-- [Les transporteurs de véhicules suspendent leurs services à partir du 1er septembre](https://lapresse.tn/2025/08/29/les-transporteurs-de-vehicules-suspendent-leurs-services-a-partir-du-1er-septembre/)
-- [Six hôpitaux tunisiens obtiennent le statut de CHU pour certains de leurs départements médicaux](https://lapresse.tn/2025/08/29/six-hopitaux-tunisiens-obtiennent-le-statut-de-chu-pour-certains-de-leurs-departements-medicaux/)
-- [Entrée sud de la capitale: ouverture du tunnel qui relie les routes régionales 22 et 24](https://lapresse.tn/2025/08/29/entree-sud-de-la-capitale-ouverture-du-tunnel-qui-relie-les-routes-regionales-22-et-24/)
-- [Météo: Cellules orageuses accompagnées de pluies attendues vendredi soir](https://lapresse.tn/2025/08/29/meteo-cellules-orageuses-accompagnees-de-pluies-attendues-vendredi-soir-sur-le-nord-le-centre-et-lextreme-sud-est/)
-- [Tunisie : un automne plus chaud que la normale attendu](https://lapresse.tn/2025/08/29/tunisie-un-automne-plus-chaud-que-la-normale-attendu/)
-- [Le nouveau message de la Tunisie : Les hommes libres ont le devoir d’agir](https://lapresse.tn/2025/08/29/le-nouveau-message-de-la-tunisie-les-hommes-libres-ont-le-devoir-dagir/)
-- [Accident au port de Sousse : deux ouvriers blessés, un dans un état critique](https://lapresse.tn/2025/08/29/accident-au-port-de-sousse-deux-ouvriers-blesses-un-dans-un-etat-critique/)
-- [Vernis semi-permanent : alerte sur un risque cancérigène](https://lapresse.tn/2025/08/29/vernis-semi-permanent-alerte-sur-un-risque-cancerigene/)
-- [Tunisair : Le temps de réagir](https://lapresse.tn/2025/08/29/tunisair-le-temps-de-reagir/)
+- [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
+- [Ben Arous : saisie record de contrebande à 1,2 million de dinars](https://lapresse.tn/2025/08/31/ben-arous-saisie-record-de-contrebande-a-12-million-de-dinars/)
+- [Tennis : Moez Chargui au tournoi Challenger d’Istanbul](https://lapresse.tn/2025/08/31/tennis-moez-chargui-au-tournoi-challenger-distanbul/)
+- [Météo: orages locaux et vents forts attendus ce soir](https://lapresse.tn/2025/08/31/meteo-orages-locaux-et-vents-forts-attendus-ce-soir/)
+- [Pénurie de médicaments : Du constat à l’action, repenser le système pharmaceutique](https://lapresse.tn/2025/08/31/penurie-de-medicaments-du-constat-a-laction-repenser-le-systeme-pharmaceutique/)
+- [Nabeul : résultats du tirage au sort pour les présidences des conseils locaux et régionaux](https://lapresse.tn/2025/08/31/nabeul-resultats-du-tirage-au-sort-pour-les-presidences-des-conseils-locaux-et-regionaux/)
+- [Gafsa – Stations de bus : Un quotidien insoutenable pour les usagers](https://lapresse.tn/2025/08/31/gafsa-stations-de-bus-un-quotidien-insoutenable-pour-les-usagers/)
+- [Lancement de la Campagne de vaccination contre la rage : Un vaccin gratuit et obligatoire !](https://lapresse.tn/2025/08/31/lancement-de-la-campagne-de-vaccination-contre-la-rage-un-vaccin-gratuit-et-obligatoire/)
+- [Pourquoi : Métro – fréquence des navettes](https://lapresse.tn/2025/08/31/pourquoi-metro-frequence-des-navettes/)
+- [Tunisie : collecte record de 12 millions de quintaux de céréales](https://lapresse.tn/2025/08/31/tunisie-collecte-record-de-12-millions-de-quintaux-de-cereales/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Des migrants expulsés des États-Unis sont arrivés au Rwanda](https://www.jeuneafrique.com/1717986/politique/des-migrants-expulses-des-etats-unis-sont-arrives-au-rwanda/)
-- [À Dakar, comment les divisions entre Barthélémy Dias et Khalifa Sall ont offert la mairie à Pastef](https://www.jeuneafrique.com/1717747/politique/a-dakar-comment-les-divisions-entre-barthelemy-dias-et-khalifa-sall-ont-offert-la-mairie-a-pastef/)
-- [Après le coup de frein sur les visas, Alger accuse Paris de « chantage et d’intimidation »](https://www.jeuneafrique.com/1717595/politique/apres-le-coup-de-frein-sur-les-visas-alger-accuse-paris-de-chantage-et-dintimidation/)
-- [Présidentielle au Cameroun : face à Paul Biya, Maurice Kamto et l’espoir d’un grand soir](https://www.jeuneafrique.com/1717404/politique/presidentielle-au-cameroun-face-a-paul-biya-maurice-kamto-et-lespoir-dun-grand-soir/)
-- [Sassou Nguesso, Mnangagwa… et Biya ? Les présidents africains attendus à Pékin](https://www.jeuneafrique.com/1717893/politique/sassou-nguesso-mnangagwa-et-biya-les-presidents-africains-attendus-a-pekin/)
-- [France-Rwanda : la justice confirme l’interdiction d’inhumer « Monsieur Z » à Orléans](https://www.jeuneafrique.com/1717853/politique/france-rwanda-la-justice-confirme-linterdiction-dinhumer-monsieur-z-a-orleans/)
-- [Sous la pression du FBI américain, le Ghana prêt à traquer ses fortunes illicites](https://www.jeuneafrique.com/1717379/politique/sous-la-pression-du-fbi-americain-le-ghana-pret-a-traquer-ses-fortunes-illicites/)
-- [Référendum en Guinée : l’opposition muselée cherche à exister malgré la junte](https://www.jeuneafrique.com/1717674/politique/referendum-en-guinee-lopposition-muselee-cherche-a-exister-malgre-la-junte/)
-- [Ce que pourrait changer l’arrivée de Revolut au Maroc](https://www.jeuneafrique.com/1717578/economie-entreprises/ce-que-pourrait-changer-larrivee-de-revolut-au-maroc/)
-- [Le plan d’Eramet pour rebondir face aux exigences d’Oligui Nguema](https://www.jeuneafrique.com/1717594/economie-entreprises/le-plan-deramet-pour-rebondir-face-aux-exigences-doligui-nguema/)
+- [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
+- [Au Sénégal, des centaines de manifestants réclament justice pour les victimes des violences politiques](https://www.jeuneafrique.com/1718244/politique/au-senegal-des-centaines-de-manifestants-reclament-justice-pour-les-victimes-des-violences-politiques/)
+- [Amadou Hampâté Bâ à Jeune Afrique en 1975 : « Si l’homme ne croit pas en Dieu, il croit à la guigne »](https://www.jeuneafrique.com/1702203/politique/amadou-hampate-ba-a-jeune-afrique-en-1975-si-lhomme-ne-croit-pas-en-dieu-il-croit-a-la-guigne/)
+- [Ce qu’attendent les Afrodescendants en matière de « réparations »](https://www.jeuneafrique.com/1718200/politique/ce-quattendent-les-afrodescendants-en-matiere-de-reparations/)
+- [Alger-Washington : « tout va très bien » mais…](https://www.jeuneafrique.com/1715627/politique/alger-washington-tout-va-tres-bien-mais/)
+- [Ouattara face à la crise, Bassirou invité chez Macron, le boom des stablecoins, l’arrivée de Sidi Ould Tah à la BAD… : les 5 infos qu’il ne fallait pas rater](https://www.jeuneafrique.com/1717809/politique/ouattara-face-a-la-crise-bassirou-invite-chez-macron-le-boom-des-stablecoins-larrivee-de-sidi-ould-tah-a-la-bad-les-5-infos-quil-ne-fallait-pas-rater/)
+- [Farabougou, plus qu’un village martyr, une épine dans le pied de Goïta](https://www.jeuneafrique.com/1718053/politique/farabougou-plus-quun-village-martyr-une-epine-dans-le-pied-de-goita/)
+- [Ce que l’on sait des circonstances du limogeage du Premier ministre algérien Nadir Larbaoui](https://www.jeuneafrique.com/1718125/politique/ce-que-lon-sait-des-circonstances-du-limogeage-du-premier-ministre-algerien-nadir-larbaoui/)
+- [Singapour, un challenger sérieux de la Chine en Afrique ?](https://www.jeuneafrique.com/1718031/economie-entreprises/singapour-un-challenger-serieux-de-la-chine-en-afrique/)
+- [Au Ghana, des manifestants demandent l’annulation de la dette africaine](https://www.jeuneafrique.com/1718240/economie-entreprises/au-ghana-des-manifestants-demandent-lannulation-de-la-dette-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
