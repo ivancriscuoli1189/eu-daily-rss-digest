@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 09:14*
+*Generato: 01 Sep 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-17)
+- [إشراف رئيس الجمهورية قيس سعيّد على اجتماع مجلس الوزراء](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%87%D9%8A%D8%B2-%D9%88%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D8%A7%D9%86)
 - [لقاء رئيس الجمهورية قيس سعيّد مع فخامة الرئيس محمد يونس المنفي رئيس المجلس الرئاسي الليبي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AD%D9%85%D8%AF-%D9%8A%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B1%D8%A6%D8%A7%D8%B3%D9%8A-%D8%A7%D9%84%D9%84%D9%8A%D8%A8%D9%8A)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
-- [Permis de conduire : à partir d’aujourd’hui, le contrat de formation de l’auto-école exigé](https://lapresse.tn/2025/09/01/permis-de-conduire-a-partir-daujourdhui-le-contrat-de-formation-de-lauto-ecole-exige/)
-- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
-- [Vernis à ongles semi-permanent contenant une substance toxique : Gare à son utilisation et à sa commercialisation !](https://lapresse.tn/2025/09/01/vernis-a-ongles-semi-permanent-contenant-une-substance-toxique-gare-a-son-utilisation-et-a-sa-commercialisation/)
+- [Rentrée 2025 : Ooredoo connecte les foyers pour réussir ensemble !](https://lapresse.tn/2025/09/01/rentree-2025-ooredoo-connecte-les-foyers-pour-reussir-ensemble/)
+- [Retour des tunisiens à l’étranger : une saison estivale exceptionnelle](https://lapresse.tn/2025/09/01/retour-des-tunisiens-a-letranger-une-saison-estivale-exceptionnelle/)
+- [Agence Tunisienne de la Formation Professionnelle : hausse des fonds pour garantir un programme de qualité](https://lapresse.tn/2025/09/01/agence-tunisienne-de-la-formation-professionnelle-hausse-des-fonds-pour-garantir-un-programme-de-qualite/)
 - [Tunisie : Plus de 58 kg de cocaïne et 169 000 comprimés saisis en 2025](https://lapresse.tn/2025/09/01/tunisie-plus-de-58-kg-de-cocaine-et-169-000-comprimes-saisis-en-2025/)
 - [Tunisie : températures jusqu’à 42°C ce lundi](https://lapresse.tn/2025/09/01/tunisie-temperatures-jusqua-42c-ce-lundi/)
 - [Horaire administratif: retour de la double séance à partir d’aujourd’hui](https://lapresse.tn/2025/09/01/horaire-administratif-retour-de-la-double-seance-a-partir-daujourdhui/)
-- [Kasserine : Majel Bel Abbès, capitale tunisienne de la pistache bio](https://lapresse.tn/2025/09/01/kasserine-majel-bel-abbes-capitale-tunisienne-de-la-pistache-bio/)
-- [La SNCFT annonce la reprise progressive du trafic ferroviaire à Tunis](https://lapresse.tn/2025/09/01/la-sncft-annonce-la-reprise-progressive-du-trafic-ferroviaire-a-tunis/)
-- [Microfinance : Un levier de transformation économique](https://lapresse.tn/2025/08/31/microfinance-un-levier-de-transformation-economique/)
+- [Sociétés de transport et de remorquage : la grève suspendue](https://lapresse.tn/2025/09/01/societes-de-transport-et-de-remorquage-la-greve-suspendue/)
+- [Baccalauréat 2026 : les changements prévus pour le programme de la section Lettres](https://lapresse.tn/2025/09/01/baccalaureat-2026-les-changements-prevus-pour-le-programme-de-la-section-lettres/)
+- [Permis de conduire : à partir d’aujourd’hui, le contrat de formation de l’auto-école exigé](https://lapresse.tn/2025/09/01/permis-de-conduire-a-partir-daujourdhui-le-contrat-de-formation-de-lauto-ecole-exige/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -271,7 +271,7 @@
 - [Ce qu’attendent les Afrodescendants en matière de « réparations »](https://www.jeuneafrique.com/1718200/politique/ce-quattendent-les-afrodescendants-en-matiere-de-reparations/)
 - [Alger-Washington : « tout va très bien » mais…](https://www.jeuneafrique.com/1715627/politique/alger-washington-tout-va-tres-bien-mais/)
 - [Ouattara face à la crise, Bassirou invité chez Macron, le boom des stablecoins, l’arrivée de Sidi Ould Tah à la BAD… : les 5 infos qu’il ne fallait pas rater](https://www.jeuneafrique.com/1717809/politique/ouattara-face-a-la-crise-bassirou-invite-chez-macron-le-boom-des-stablecoins-larrivee-de-sidi-ould-tah-a-la-bad-les-5-infos-quil-ne-fallait-pas-rater/)
-- [Farabougou, plus qu’un village martyr, une épine dans le pied de Goïta](https://www.jeuneafrique.com/1718053/politique/farabougou-plus-quun-village-martyr-une-epine-dans-le-pied-de-goita/)
+- [Côte d’Ivoire : Tidjane Thiam règle ses comptes au sein même du PDCI](https://www.jeuneafrique.com/1718160/politique/cote-divoire-tidjane-thiam-regle-ses-comptes-au-sein-meme-du-pdci/)
 - [Singapour, un challenger sérieux de la Chine en Afrique ?](https://www.jeuneafrique.com/1718031/economie-entreprises/singapour-un-challenger-serieux-de-la-chine-en-afrique/)
 - [Au Ghana, des manifestants demandent l’annulation de la dette africaine](https://www.jeuneafrique.com/1718240/economie-entreprises/au-ghana-des-manifestants-demandent-lannulation-de-la-dette-africaine/)
 
