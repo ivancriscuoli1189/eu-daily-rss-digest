@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 15:10*
+*Generato: 01 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
-- [Une nouvelle secousse tellurique ressentie à Tozeur](https://lapresse.tn/2025/09/01/une-nouvelle-secousse-tellurique-ressentie-a-tozeur/)
+- [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
+- [L’intelligence artificielle au service de l’imagerie médicale : première école d’été à l’Université de Tunis el Manar](https://lapresse.tn/2025/09/01/lintelligence-artificielle-au-service-de-limagerie-medicale-premiere-ecole-dete-a-luniversite-de-tunis-el-manar/)
+- [Transtu – Rénovation et réhabilitation du matériel roulant : Où en est-on de la feuille de route du 29 janvier 2025?](https://lapresse.tn/2025/09/01/transtu-renovation-et-rehabilitation-du-materiel-roulant-ou-en-est-on-de-la-feuille-de-route-du-29-janvier-2025/)
+- [Activisme citoyen : Quand une action volontaire et spontanée porte ses fruits](https://lapresse.tn/2025/09/01/activisme-citoyen-quand-une-action-volontaire-et-spontanee-porte-ses-fruits/)
+- [Le ministère de l’Environnement et la Télévision tunisienne s’associent pour sensibiliser les jeunes à l’écologie](https://lapresse.tn/2025/09/01/le-ministere-de-lenvironnement-et-la-television-tunisienne-sassocient-pour-sensibiliser-les-jeunes-a-lecologie/)
+- [Mohamed Ali Nafti reçoit le nouveau directeur du Bureau de l’OIT pour le Maghreb](https://lapresse.tn/2025/09/01/mohamed-ali-nafti-recoit-le-nouveau-directeur-du-bureau-de-loit-pour-le-maghreb/)
+- [Tunisie – Agences de notation internationales : Reconstruction économique réussie](https://lapresse.tn/2025/09/01/tunisie-agences-de-notation-internationales-reconstruction-economique-reussie/)
+- [Pourquoi : «Il n’y a pas de réseau»](https://lapresse.tn/2025/09/01/pourquoi-il-ny-a-pas-de-reseau/)
 - [Bus : les nouvelles lignes 42 et 116 assureront la liaison entre Tebourba à la gare d’El Kobaâ](https://lapresse.tn/2025/09/01/bus-les-nouvelles-lignes-42-et-116-assureront-la-liaison-entre-tebourba-a-la-gare-del-kobaa/)
-- [La Tunisie, sixième plus grand importateur africain de panneaux solaires chinois](https://lapresse.tn/2025/09/01/la-tunisie-sixieme-plus-grand-importateur-africain-de-panneaux-solaires-chinois/)
-- [Météo : Pluie et baisse des températures à partir de ce soir](https://lapresse.tn/2025/09/01/meteo-pluie-et-baisse-des-temperatures-a-partir-de-ce-soir/)
-- [CPG : grève des agents et arrêt partiel de la production](https://lapresse.tn/2025/09/01/cpc-greve-des-agents-et-arret-partiel-de-la-production/)
-- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
-- [5ème édition du concours tunisien des produits du terroir : ouverture des inscriptions](https://lapresse.tn/2025/09/01/5eme-edition-du-concours-tunisien-des-produits-du-terroir-ouverture-des-inscriptions/)
-- [La grève des taxis individuels coïncidera avec la rentrée scolaire](https://lapresse.tn/2025/09/01/la-greve-des-taxis-individuels-coincidera-avec-la-rentree-scolaire/)
-- [Démarrage de la campagne de vaccination des chiens et des chats dans le Grand-Tunis](https://lapresse.tn/2025/09/01/demarrage-de-la-campagne-de-vaccination-des-chiens-et-des-chats-dans-le-grand-tunis/)
+- [BCT – Reprise attendue en 2025 : Sous le signe de la prudence](https://lapresse.tn/2025/09/01/bct-reprise-attendue-en-2025-sous-le-signe-de-la-prudence/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
+- [En Tunisie, « la Constitution doit être vivante et appliquée », insiste le constitutionnaliste Amine Mahfoudh](https://www.jeuneafrique.com/1717607/politique/en-tunisie-la-constitution-doit-etre-vivante-et-appliquee-insiste-le-constitutionnaliste-amine-mahfoudh/)
 - [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
+- [Présidentielle au Bénin : Romuald Wadagni sera le candidat de la majorité](https://www.jeuneafrique.com/1718249/politique/presidentielle-au-benin-romuald-wadagni-sera-le-candidat-de-la-majorite/)
+- [Guinée : politiciens dévoués et conseillers du soir, sur qui compte Mamadi Doumbouya pour garder le pouvoir ?](https://www.jeuneafrique.com/1718075/politique/guinee-politiciens-devoues-et-conseillers-du-soir-sur-qui-compte-mamadi-doumbouya-pour-garder-le-pouvoir/)
 - [La Tunisie mise à l’écart par les États-Unis](https://www.jeuneafrique.com/1715645/politique/la-tunisie-mise-a-lecart/)
 - [Au Sénégal, des centaines de manifestants réclament justice pour les victimes des violences politiques](https://www.jeuneafrique.com/1718244/politique/au-senegal-des-centaines-de-manifestants-reclament-justice-pour-les-victimes-des-violences-politiques/)
 - [Amadou Hampâté Bâ à Jeune Afrique en 1975 : « Si l’homme ne croit pas en Dieu, il croit à la guigne »](https://www.jeuneafrique.com/1702203/politique/amadou-hampate-ba-a-jeune-afrique-en-1975-si-lhomme-ne-croit-pas-en-dieu-il-croit-a-la-guigne/)
-- [Ce qu’attendent les Afrodescendants en matière de « réparations »](https://www.jeuneafrique.com/1718200/politique/ce-quattendent-les-afrodescendants-en-matiere-de-reparations/)
-- [Alger-Washington : « tout va très bien » mais…](https://www.jeuneafrique.com/1715627/politique/alger-washington-tout-va-tres-bien-mais/)
-- [Ouattara face à la crise, Bassirou invité chez Macron, le boom des stablecoins, l’arrivée de Sidi Ould Tah à la BAD… : les 5 infos qu’il ne fallait pas rater](https://www.jeuneafrique.com/1717809/politique/ouattara-face-a-la-crise-bassirou-invite-chez-macron-le-boom-des-stablecoins-larrivee-de-sidi-ould-tah-a-la-bad-les-5-infos-quil-ne-fallait-pas-rater/)
-- [Côte d’Ivoire : Tidjane Thiam règle ses comptes au sein même du PDCI](https://www.jeuneafrique.com/1718160/politique/cote-divoire-tidjane-thiam-regle-ses-comptes-au-sein-meme-du-pdci/)
-- [Singapour, un challenger sérieux de la Chine en Afrique ?](https://www.jeuneafrique.com/1718031/economie-entreprises/singapour-un-challenger-serieux-de-la-chine-en-afrique/)
-- [Au Ghana, des manifestants demandent l’annulation de la dette africaine](https://www.jeuneafrique.com/1718240/economie-entreprises/au-ghana-des-manifestants-demandent-lannulation-de-la-dette-africaine/)
+- [Corruption, opacité, blanchiment… 88 milliards de dollars s’évaporent chaque année en Afrique](https://www.jeuneafrique.com/1718310/economie-entreprises/corruption-opacite-blanchiment-88-milliards-de-dollars-sevaporent-chaque-annee-en-afrique/)
+- [Panneaux solaires : l’Afrique, nouvel eldorado des exportations chinoises](https://www.jeuneafrique.com/1718325/economie-entreprises/panneaux-solaires-lafrique-nouvel-eldorado-des-exportations-chinoises/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
