@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 06:16*
+*Generato: 01 Sep 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
-- [Ben Arous : saisie record de contrebande à 1,2 million de dinars](https://lapresse.tn/2025/08/31/ben-arous-saisie-record-de-contrebande-a-12-million-de-dinars/)
-- [Tennis : Moez Chargui au tournoi Challenger d’Istanbul](https://lapresse.tn/2025/08/31/tennis-moez-chargui-au-tournoi-challenger-distanbul/)
-- [Météo: orages locaux et vents forts attendus ce soir](https://lapresse.tn/2025/08/31/meteo-orages-locaux-et-vents-forts-attendus-ce-soir/)
-- [Pénurie de médicaments : Du constat à l’action, repenser le système pharmaceutique](https://lapresse.tn/2025/08/31/penurie-de-medicaments-du-constat-a-laction-repenser-le-systeme-pharmaceutique/)
-- [Nabeul : résultats du tirage au sort pour les présidences des conseils locaux et régionaux](https://lapresse.tn/2025/08/31/nabeul-resultats-du-tirage-au-sort-pour-les-presidences-des-conseils-locaux-et-regionaux/)
-- [Gafsa – Stations de bus : Un quotidien insoutenable pour les usagers](https://lapresse.tn/2025/08/31/gafsa-stations-de-bus-un-quotidien-insoutenable-pour-les-usagers/)
-- [Lancement de la Campagne de vaccination contre la rage : Un vaccin gratuit et obligatoire !](https://lapresse.tn/2025/08/31/lancement-de-la-campagne-de-vaccination-contre-la-rage-un-vaccin-gratuit-et-obligatoire/)
-- [Pourquoi : Métro – fréquence des navettes](https://lapresse.tn/2025/08/31/pourquoi-metro-frequence-des-navettes/)
-- [Tunisie : collecte record de 12 millions de quintaux de céréales](https://lapresse.tn/2025/08/31/tunisie-collecte-record-de-12-millions-de-quintaux-de-cereales/)
+- [Permis de conduire : à partir d’aujourd’hui, le contrat de formation de l’auto-école exigé](https://lapresse.tn/2025/09/01/permis-de-conduire-a-partir-daujourdhui-le-contrat-de-formation-de-lauto-ecole-exige/)
+- [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
+- [Vernis à ongles semi-permanent contenant une substance toxique : Gare à son utilisation et à sa commercialisation !](https://lapresse.tn/2025/09/01/vernis-a-ongles-semi-permanent-contenant-une-substance-toxique-gare-a-son-utilisation-et-a-sa-commercialisation/)
+- [Tunisie : Plus de 58 kg de cocaïne et 169 000 comprimés saisis en 2025](https://lapresse.tn/2025/09/01/tunisie-plus-de-58-kg-de-cocaine-et-169-000-comprimes-saisis-en-2025/)
+- [Tunisie : températures jusqu’à 42°C ce lundi](https://lapresse.tn/2025/09/01/tunisie-temperatures-jusqua-42c-ce-lundi/)
+- [Horaire administratif: retour de la double séance à partir d’aujourd’hui](https://lapresse.tn/2025/09/01/horaire-administratif-retour-de-la-double-seance-a-partir-daujourdhui/)
+- [Kasserine : Majel Bel Abbès, capitale tunisienne de la pistache bio](https://lapresse.tn/2025/09/01/kasserine-majel-bel-abbes-capitale-tunisienne-de-la-pistache-bio/)
+- [La SNCFT annonce la reprise progressive du trafic ferroviaire à Tunis](https://lapresse.tn/2025/09/01/la-sncft-annonce-la-reprise-progressive-du-trafic-ferroviaire-a-tunis/)
+- [Microfinance : Un levier de transformation économique](https://lapresse.tn/2025/08/31/microfinance-un-levier-de-transformation-economique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
+- [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-and-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
 - [ICJ communication to the International Court of Justice urging the investigation of the Court’s Vice-President](https://www.icj.org/icj-communication-to-the-international-court-of-justice-urging-the-investigation-of-the-courts-vice-president/)
-- [Semenya v. Switzerland: joint communication on the execution of the ECHR judgment](https://www.icj.org/semenya-v-switzerland-joint-communication-on-the-execution-of-the-echr-judgment/)
-- [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
+- [Israel/Palestine: Immediately halt Gaza’s occupation plan](https://www.icj.org/israel-palestine-immediately-halt-gazas-occupation-plan/)
 - [Nepal: Lawyers urge authorities to address inaccessibility of justice system to women and girls with disabilities](https://www.icj.org/nepal-lawyers-urge-authorities-to-address-inaccessibility-of-justice-system-to-women-and-girls-with-disabilities/)
-- [Syria: Impartially and independently investigate the crimes committed in Suwayda](https://www.icj.org/syria-impartially-and-independently-investigate-the-crimes-committed-in-suwayda/)
-- [Kenya: The ICJ’s new Report calls for an End to Discriminatory Laws Restricting Persons with Disabilities’ Access to Justice](https://www.icj.org/kenya-the-icjs-new-report-calls-for-an-end-to-discriminatory-laws-restricting-persons-with-disabilities-access-to-justice/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
+- [La Tunisie mise à l’écart par les États-Unis](https://www.jeuneafrique.com/1715645/politique/la-tunisie-mise-a-lecart/)
 - [Au Sénégal, des centaines de manifestants réclament justice pour les victimes des violences politiques](https://www.jeuneafrique.com/1718244/politique/au-senegal-des-centaines-de-manifestants-reclament-justice-pour-les-victimes-des-violences-politiques/)
 - [Amadou Hampâté Bâ à Jeune Afrique en 1975 : « Si l’homme ne croit pas en Dieu, il croit à la guigne »](https://www.jeuneafrique.com/1702203/politique/amadou-hampate-ba-a-jeune-afrique-en-1975-si-lhomme-ne-croit-pas-en-dieu-il-croit-a-la-guigne/)
 - [Ce qu’attendent les Afrodescendants en matière de « réparations »](https://www.jeuneafrique.com/1718200/politique/ce-quattendent-les-afrodescendants-en-matiere-de-reparations/)
 - [Alger-Washington : « tout va très bien » mais…](https://www.jeuneafrique.com/1715627/politique/alger-washington-tout-va-tres-bien-mais/)
 - [Ouattara face à la crise, Bassirou invité chez Macron, le boom des stablecoins, l’arrivée de Sidi Ould Tah à la BAD… : les 5 infos qu’il ne fallait pas rater](https://www.jeuneafrique.com/1717809/politique/ouattara-face-a-la-crise-bassirou-invite-chez-macron-le-boom-des-stablecoins-larrivee-de-sidi-ould-tah-a-la-bad-les-5-infos-quil-ne-fallait-pas-rater/)
 - [Farabougou, plus qu’un village martyr, une épine dans le pied de Goïta](https://www.jeuneafrique.com/1718053/politique/farabougou-plus-quun-village-martyr-une-epine-dans-le-pied-de-goita/)
-- [Ce que l’on sait des circonstances du limogeage du Premier ministre algérien Nadir Larbaoui](https://www.jeuneafrique.com/1718125/politique/ce-que-lon-sait-des-circonstances-du-limogeage-du-premier-ministre-algerien-nadir-larbaoui/)
 - [Singapour, un challenger sérieux de la Chine en Afrique ?](https://www.jeuneafrique.com/1718031/economie-entreprises/singapour-un-challenger-serieux-de-la-chine-en-afrique/)
 - [Au Ghana, des manifestants demandent l’annulation de la dette africaine](https://www.jeuneafrique.com/1718240/economie-entreprises/au-ghana-des-manifestants-demandent-lannulation-de-la-dette-africaine/)
 
