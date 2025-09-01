@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 12:18*
+*Generato: 01 Sep 2025, 13:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le capital humain pour garantir le saut qualitatif du tourisme tunisien](https://lapresse.tn/2025/08/31/le-capital-humain-pour-garantir-le-saut-qualitatif-du-tourisme-tunisien/)
+- [La grève des taxis individuels coïncidera avec la rentrée scolaire](https://lapresse.tn/2025/09/01/la-greve-des-taxis-individuels-coincidera-avec-la-rentree-scolaire/)
+- [Démarrage de la campagne de vaccination des chiens et des chats dans le Grand-Tunis](https://lapresse.tn/2025/09/01/demarrage-de-la-campagne-de-vaccination-des-chiens-et-des-chats-dans-le-grand-tunis/)
 - [Siliana : l’hôpital régional sans néphrologue, les patients en colère](https://lapresse.tn/2025/09/01/siliana-lhopital-regional-sans-nephrologue-les-patients-en-colere/)
-- [Météo : Pluie et baisse des températures à partir de ce soir](https://lapresse.tn/2025/09/01/meteo-pluie-et-baisse-des-temperatures-a-partir-de-ce-soir/)
-- [Le Stade Tunisien accepte le transfert de Khalil Ayari au PSG](https://lapresse.tn/2025/09/01/le-stade-tunisien-accepte-le-transfert-de-khalil-ayari-au-psg/)
 - [CPC : grève des agents et arrêt partiel de la production](https://lapresse.tn/2025/09/01/cpc-greve-des-agents-et-arret-partiel-de-la-production/)
 - [Selon l’INM : L’automne s’annonce plus chaud](https://lapresse.tn/2025/09/01/selon-linm-lautomne-sannonce-plus-chaud/)
 - [Tunisie : Plus de 58 kg de cocaïne et 169 000 comprimés saisis en 2025](https://lapresse.tn/2025/09/01/tunisie-plus-de-58-kg-de-cocaine-et-169-000-comprimes-saisis-en-2025/)
 - [Sociétés de transport et de remorquage : la grève suspendue](https://lapresse.tn/2025/09/01/societes-de-transport-et-de-remorquage-la-greve-suspendue/)
-- [Baccalauréat 2026 : les changements prévus pour le programme de la section Lettres](https://lapresse.tn/2025/09/01/baccalaureat-2026-les-changements-prevus-pour-le-programme-de-la-section-lettres/)
-- [Permis de conduire : à partir d’aujourd’hui, le contrat de formation de l’auto-école exigé](https://lapresse.tn/2025/09/01/permis-de-conduire-a-partir-daujourdhui-le-contrat-de-formation-de-lauto-ecole-exige/)
+- [Rentrée 2025 : Ooredoo connecte les foyers pour réussir ensemble !](https://lapresse.tn/2025/09/01/rentree-2025-ooredoo-connecte-les-foyers-pour-reussir-ensemble/)
+- [Retour des tunisiens à l’étranger : une saison estivale exceptionnelle](https://lapresse.tn/2025/09/01/retour-des-tunisiens-a-letranger-une-saison-estivale-exceptionnelle/)
 
 ## NGOs – Amnesty International – Tunisia
 
