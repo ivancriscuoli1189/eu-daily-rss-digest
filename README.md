@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 12:18*
+*Generato: 02 Sep 2025, 13:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -267,11 +267,11 @@
 - [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
 - [Le grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
 - [Née après la révolution, l’Instance nationale d’accès à l’information ferme ses portes en Tunisie](https://www.jeuneafrique.com/1717739/politique/nee-apres-la-revolution-linstance-nationale-dacces-a-linformation-ferme-ses-portes-en-tunisie/)
+- [« Merci, mais non merci » : en RDC, Félix Tshisekedi ferme la porte à toute facilitation extérieure](https://www.jeuneafrique.com/1718295/politique/merci-mais-non-merci-en-rdc-felix-tshisekedi-ferme-la-porte-a-toute-facilitation-exterieure/)
+- [Au Gabon, Kelly Ondo Obiang libéré, grâce à « l’éternel des armées »… et à Oligui Nguema](https://www.jeuneafrique.com/1718382/politique/au-gabon-kelly-ondo-obiang-libere-grace-a-leternel-des-armees-et-a-oligui-nguema/)
 - [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
 - [Qui, de Félix Tshisekedi ou de Paul Kagame, remportera le meilleur sponsoring sportif ?](https://www.jeuneafrique.com/1712294/politique/qui-de-felix-tshisekedi-ou-de-paul-kagame-remportera-le-meilleur-sponsoring-sportif/)
 - [En Tunisie, « la Constitution doit être vivante et appliquée », insiste le constitutionnaliste Amine Mahfoudh](https://www.jeuneafrique.com/1717607/politique/en-tunisie-la-constitution-doit-etre-vivante-et-appliquee-insiste-le-constitutionnaliste-amine-mahfoudh/)
-- [De Gaza à Ménaka, la faim comme crime de guerre – par Nina Kozlowski](https://www.jeuneafrique.com/1714999/politique/de-gaza-a-menaka-la-faim-comme-crime-de-guerre/)
-- [Présidentielle au Cameroun : à Yaoundé, des travaux routiers aux allures de campagne](https://www.jeuneafrique.com/1717061/politique/presidentielle-au-cameroun-a-yaounde-des-travaux-routiers-aux-allures-de-campagne/)
 - [L’or atteint un record historique à 3 500 dollars l’once : une aubaine pour les producteurs africains ?](https://www.jeuneafrique.com/1718533/economie-entreprises/lor-atteint-un-record-historique-a-3-500-dollars-lonce-une-aubaine-pour-les-producteurs-africains/)
 - [Comment Amadou Hott rebondit à Riyad après son revers à la Banque africaine de développement](https://www.jeuneafrique.com/1718418/economie-entreprises/comment-amadou-hott-rebondit-a-riyad-apres-son-revers-a-la-banque-africaine-de-developpement/)
 
