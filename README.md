@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Sep 2025, 21:10*
+*Generato: 02 Sep 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
+- [Le Président Saïed se rend sur les places de Tunis rénovées m](https://lapresse.tn/2025/09/02/le-president-saied-se-rend-sur-les-places-de-tunis-renovees/)
+- [Le président Saïed reçoit une délégation de titulaires de doctorat](https://lapresse.tn/2025/09/02/le-president-saied-recoit-une-delegation-de-titulaires-de-doctorat/)
 - [Hammam Lif : fin du retrait des digues et retour des courants marins](https://lapresse.tn/2025/09/01/hammam-lif-fin-du-retrait-des-digues-et-retour-des-courants-marins/)
-- [En marge du point de presse du sélectionneur national : Les dérapages de Sami Trabelsi !](https://lapresse.tn/2025/09/01/en-marge-du-point-de-presse-du-selectionneur-national-les-derapages-de-sami-trabelsi/)
-- [CA – prémices d’un nivellement par le haut : Une impression positive](https://lapresse.tn/2025/09/01/ca-premices-dun-nivellement-par-le-haut-une-impression-positive/)
+- [Tunisie : Pluies orageuses et vents forts attendus cette nuit](https://lapresse.tn/2025/09/01/tunisie-pluies-orageuses-et-vents-forts-attendus-cette-nuit/)
 - [L’intelligence artificielle au service de l’imagerie médicale : première école d’été à l’Université de Tunis el Manar](https://lapresse.tn/2025/09/01/lintelligence-artificielle-au-service-de-limagerie-medicale-premiere-ecole-dete-a-luniversite-de-tunis-el-manar/)
-- [Le ministère de l’Environnement et la Télévision tunisienne s’associent pour sensibiliser les jeunes à l’écologie](https://lapresse.tn/2025/09/01/le-ministere-de-lenvironnement-et-la-television-tunisienne-sassocient-pour-sensibiliser-les-jeunes-a-lecologie/)
-- [Mohamed Ali Nafti reçoit le nouveau directeur du Bureau de l’OIT pour le Maghreb](https://lapresse.tn/2025/09/01/mohamed-ali-nafti-recoit-le-nouveau-directeur-du-bureau-de-loit-pour-le-maghreb/)
 - [Transtu – Rénovation et réhabilitation du matériel roulant : Où en est-on de la feuille de route du 29 janvier 2025?](https://lapresse.tn/2025/09/01/transtu-renovation-et-rehabilitation-du-materiel-roulant-ou-en-est-on-de-la-feuille-de-route-du-29-janvier-2025/)
 - [Activisme citoyen : Quand une action volontaire et spontanée porte ses fruits](https://lapresse.tn/2025/09/01/activisme-citoyen-quand-une-action-volontaire-et-spontanee-porte-ses-fruits/)
 - [Pourquoi : «Il n’y a pas de réseau»](https://lapresse.tn/2025/09/01/pourquoi-il-ny-a-pas-de-reseau/)
+- [BCT – Reprise attendue en 2025 : Sous le signe de la prudence](https://lapresse.tn/2025/09/01/bct-reprise-attendue-en-2025-sous-le-signe-de-la-prudence/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
+- [Qui, de Félix Tshisekedi ou de Paul Kagame, remportera le meilleur sponsoring sportif ?](https://www.jeuneafrique.com/1712294/politique/qui-de-felix-tshisekedi-ou-de-paul-kagame-remportera-le-meilleur-sponsoring-sportif/)
 - [En Tunisie, « la Constitution doit être vivante et appliquée », insiste le constitutionnaliste Amine Mahfoudh](https://www.jeuneafrique.com/1717607/politique/en-tunisie-la-constitution-doit-etre-vivante-et-appliquee-insiste-le-constitutionnaliste-amine-mahfoudh/)
+- [Présidentielle au Cameroun : à Yaoundé, des travaux routiers aux allures de campagne](https://www.jeuneafrique.com/1717061/politique/presidentielle-au-cameroun-a-yaounde-des-travaux-routiers-aux-allures-de-campagne/)
 - [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
 - [Présidentielle au Bénin : Romuald Wadagni sera le candidat de la majorité](https://www.jeuneafrique.com/1718249/politique/presidentielle-au-benin-romuald-wadagni-sera-le-candidat-de-la-majorite/)
 - [Guinée : politiciens dévoués et conseillers du soir, sur qui compte Mamadi Doumbouya pour garder le pouvoir ?](https://www.jeuneafrique.com/1718075/politique/guinee-politiciens-devoues-et-conseillers-du-soir-sur-qui-compte-mamadi-doumbouya-pour-garder-le-pouvoir/)
 - [La Tunisie mise à l’écart par les États-Unis](https://www.jeuneafrique.com/1715645/politique/la-tunisie-mise-a-lecart/)
-- [Au Sénégal, des centaines de manifestants réclament justice pour les victimes des violences politiques](https://www.jeuneafrique.com/1718244/politique/au-senegal-des-centaines-de-manifestants-reclament-justice-pour-les-victimes-des-violences-politiques/)
-- [Amadou Hampâté Bâ à Jeune Afrique en 1975 : « Si l’homme ne croit pas en Dieu, il croit à la guigne »](https://www.jeuneafrique.com/1702203/politique/amadou-hampate-ba-a-jeune-afrique-en-1975-si-lhomme-ne-croit-pas-en-dieu-il-croit-a-la-guigne/)
 - [Corruption, opacité, blanchiment… 88 milliards de dollars s’évaporent chaque année en Afrique](https://www.jeuneafrique.com/1718310/economie-entreprises/corruption-opacite-blanchiment-88-milliards-de-dollars-sevaporent-chaque-annee-en-afrique/)
 - [Panneaux solaires : l’Afrique, nouvel eldorado des exportations chinoises](https://www.jeuneafrique.com/1718325/economie-entreprises/panneaux-solaires-lafrique-nouvel-eldorado-des-exportations-chinoises/)
 
