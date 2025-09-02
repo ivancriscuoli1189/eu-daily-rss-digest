@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 06:15*
+*Generato: 02 Sep 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
-- [Le Président Saïed se rend sur les places de Tunis rénovées m](https://lapresse.tn/2025/09/02/le-president-saied-se-rend-sur-les-places-de-tunis-renovees/)
-- [Le président Saïed reçoit une délégation de titulaires de doctorat](https://lapresse.tn/2025/09/02/le-president-saied-recoit-une-delegation-de-titulaires-de-doctorat/)
-- [Hammam Lif : fin du retrait des digues et retour des courants marins](https://lapresse.tn/2025/09/01/hammam-lif-fin-du-retrait-des-digues-et-retour-des-courants-marins/)
-- [Tunisie : Pluies orageuses et vents forts attendus cette nuit](https://lapresse.tn/2025/09/01/tunisie-pluies-orageuses-et-vents-forts-attendus-cette-nuit/)
-- [L’intelligence artificielle au service de l’imagerie médicale : première école d’été à l’Université de Tunis el Manar](https://lapresse.tn/2025/09/01/lintelligence-artificielle-au-service-de-limagerie-medicale-premiere-ecole-dete-a-luniversite-de-tunis-el-manar/)
-- [Transtu – Rénovation et réhabilitation du matériel roulant : Où en est-on de la feuille de route du 29 janvier 2025?](https://lapresse.tn/2025/09/01/transtu-renovation-et-rehabilitation-du-materiel-roulant-ou-en-est-on-de-la-feuille-de-route-du-29-janvier-2025/)
-- [Activisme citoyen : Quand une action volontaire et spontanée porte ses fruits](https://lapresse.tn/2025/09/01/activisme-citoyen-quand-une-action-volontaire-et-spontanee-porte-ses-fruits/)
-- [Pourquoi : «Il n’y a pas de réseau»](https://lapresse.tn/2025/09/01/pourquoi-il-ny-a-pas-de-reseau/)
-- [BCT – Reprise attendue en 2025 : Sous le signe de la prudence](https://lapresse.tn/2025/09/01/bct-reprise-attendue-en-2025-sous-le-signe-de-la-prudence/)
+- [ONAGRI : Les prix des produits alimentaires grimpent](https://lapresse.tn/2025/09/02/onagri-les-prix-des-produits-alimentaires-grimpent/)
+- [Municipalité de Radès : Des projets réalisés, d’autres en cours](https://lapresse.tn/2025/09/02/municipalite-de-rades-des-projets-realises-dautres-en-cours/)
+- [Déclarations fiscales : Les cinq échéances à retenir pour le mois de septembre](https://lapresse.tn/2025/09/02/declarations-fiscales-les-cinq-echeances-a-retenir-pour-le-mois-de-septembre/)
+- [Météo : baisse des températures et pluies ce mardi](https://lapresse.tn/2025/09/02/meteo-baisse-des-temperatures-et-pluies-ce-mardi/)
+- [Le Président Saïed se rend sur les places de Tunis rénovées](https://lapresse.tn/2025/09/02/le-president-saied-se-rend-sur-les-places-de-tunis-renovees/)
+- [Kaïs Saïed rencontre des doctorants : “Les compétences tunisiennes prendront la place des responsables défaillants”](https://lapresse.tn/2025/09/02/kais-saied-rencontre-des-doctorants-les-competences-tunisiennes-prendront-la-place-des-responsables-defaillants/)
+- [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/02/les-barrages-tunisiens-en-chiffres-2/)
+- [Tunisie : reprise du transport ferroviaire entre Métlaoui et Tozeur sur la ligne 13](https://lapresse.tn/2025/09/02/tunisie-reprise-du-transport-ferroviaire-entre-metlaoui-et-tozeur-sur-la-ligne-13/)
+- [Ben Arous : un incendie maîtrisé dans une usine de plastique](https://lapresse.tn/2025/09/02/ben-arous-une-incendie-maitrise-dans-un-usine-de-plastique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
 - [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
 - [Qui, de Félix Tshisekedi ou de Paul Kagame, remportera le meilleur sponsoring sportif ?](https://www.jeuneafrique.com/1712294/politique/qui-de-felix-tshisekedi-ou-de-paul-kagame-remportera-le-meilleur-sponsoring-sportif/)
 - [En Tunisie, « la Constitution doit être vivante et appliquée », insiste le constitutionnaliste Amine Mahfoudh](https://www.jeuneafrique.com/1717607/politique/en-tunisie-la-constitution-doit-etre-vivante-et-appliquee-insiste-le-constitutionnaliste-amine-mahfoudh/)
@@ -271,9 +272,8 @@
 - [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
 - [Présidentielle au Bénin : Romuald Wadagni sera le candidat de la majorité](https://www.jeuneafrique.com/1718249/politique/presidentielle-au-benin-romuald-wadagni-sera-le-candidat-de-la-majorite/)
 - [Guinée : politiciens dévoués et conseillers du soir, sur qui compte Mamadi Doumbouya pour garder le pouvoir ?](https://www.jeuneafrique.com/1718075/politique/guinee-politiciens-devoues-et-conseillers-du-soir-sur-qui-compte-mamadi-doumbouya-pour-garder-le-pouvoir/)
-- [La Tunisie mise à l’écart par les États-Unis](https://www.jeuneafrique.com/1715645/politique/la-tunisie-mise-a-lecart/)
-- [Corruption, opacité, blanchiment… 88 milliards de dollars s’évaporent chaque année en Afrique](https://www.jeuneafrique.com/1718310/economie-entreprises/corruption-opacite-blanchiment-88-milliards-de-dollars-sevaporent-chaque-annee-en-afrique/)
-- [Panneaux solaires : l’Afrique, nouvel eldorado des exportations chinoises](https://www.jeuneafrique.com/1718325/economie-entreprises/panneaux-solaires-lafrique-nouvel-eldorado-des-exportations-chinoises/)
+- [L’or atteint un record historique à 3 500 dollars l’once : une aubaine pour les producteurs africains ?](https://www.jeuneafrique.com/1718533/economie-entreprises/lor-atteint-un-record-historique-a-3-500-dollars-lonce-une-aubaine-pour-les-producteurs-africains/)
+- [Comment Amadou Hott rebondit à Riyad après son revers à la Banque africaine de développement](https://www.jeuneafrique.com/1718418/economie-entreprises/comment-amadou-hott-rebondit-a-riyad-apres-son-revers-a-la-banque-africaine-de-developpement/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
