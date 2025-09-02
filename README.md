@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 15:11*
+*Generato: 02 Sep 2025, 18:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
-- [BTE : progression du produit net bancaire et croissance des dépôts au premier semestre 2025](https://lapresse.tn/2025/09/02/bte-progression-du-produit-net-bancaire-et-croissance-des-depots-au-premier-semestre-2025/)
-- [L’IA va doubler le marché mondial des semi-conducteurs d’ici 2030](https://lapresse.tn/2025/09/02/lia-va-doubler-le-marche-mondial-des-semi-conducteurs-dici-2030/)
-- [Environnement industriel : 400 tonnes de biphényle, une substance dangereuse bientôt collectées et traitées](https://lapresse.tn/2025/09/02/environnement-industriel-400-tonnes-de-biphenyle-une-substance-dangereuse-bientot-collectees-et-traitees/)
-- [Fondation « Fidā » : bourses d’études pour les enfants de victimes d’attaques terroristes](https://lapresse.tn/2025/09/02/fondation-fida-bourses-detudes-pour-les-enfants-de-victimes-dattaques-terroristes/)
-- [ARP : La commission des finances menace de boycotter l’examen du projet de la loi de finances de 2026](https://lapresse.tn/2025/09/02/arp-la-commission-des-finances-menace-de-boycotter-lexamen-du-projet-de-la-loi-de-finances-de-2026/)
-- [Météo : baisse des températures et pluies ce mardi](https://lapresse.tn/2025/09/02/meteo-baisse-des-temperatures-et-pluies-ce-mardi/)
-- [Médicaments introuvables : 90 % des produits en pénurie n’ont pas de substitut en Tunisie](https://lapresse.tn/2025/09/02/medicaments-introuvables-90-des-produits-en-penurie-nont-pas-de-substitut-en-tunisie/)
-- [Tunisie – Installation illégale de ralentisseurs : jusqu’à 1 100 dinars d’amende](https://lapresse.tn/2025/09/02/tunisie-installation-illegale-de-ralentisseurs-jusqua-1-100-dinars-damende/)
-- [Municipalité de Radès : Des projets réalisés, d’autres en cours](https://lapresse.tn/2025/09/02/municipalite-de-rades-des-projets-realises-dautres-en-cours/)
+- [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
+- [Qualifications Coupe du monde 2026 (7e journée) ­- La Tunisie accueille le Liberia, jeudi soir (20h00) : Un écart à creuser !](https://lapresse.tn/2025/09/02/qualifications-coupe-du-monde-2026-7e-journee-la-tunisie-accueille-le-liberia-jeudi-soir-20h00-un-ecart-a-creuser/)
+- [Mercato : Ben Slimane vers Trabzonspor](https://lapresse.tn/2025/09/02/mercato-ben-slimane-vers-trabzonspor/)
+- [FIFAK 2025 : Le palmarès](https://lapresse.tn/2025/09/02/fifak-2025-le-palmares/)
+- [Un projet géant d’énergie verte Tunisie–Algérie–Italie soutenu par l’UE](https://lapresse.tn/2025/09/02/un-projet-geant-denergie-verte-tunisie-algerie-italie-soutenu-par-lue/)
+- [Acquisition de fournitures scolaires au profit des élèves nécessiteux : La solidarité autrement !](https://lapresse.tn/2025/09/02/acquisition-de-fournitures-scolaires-au-profit-des-eleves-necessiteux-la-solidarite-autrement/)
+- [Météo : Toutes les régions du pays placées en vigilance jaune](https://lapresse.tn/2025/09/02/meteo-toutes-les-regions-du-pays-placees-en-vigilance-jaune/)
+- [Tozeur – Mouled : Rituels hérités et mémoire indélébile](https://lapresse.tn/2025/09/02/tozeur-mouled-rituels-herites-et-memoire-indelebile/)
+- [Pourquoi : Les trotinettes, un nouveau fléau…](https://lapresse.tn/2025/09/02/pourquoi-les-trotinettes-un-nouveau-fleau/)
+- [Traversées Sfax–Kerkennah : SONOTRAK annonce de possibles perturbations](https://lapresse.tn/2025/09/02/traversees-sfax-kerkennah-sonotrak-annonce-de-possibles-perturbations/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sahara occidental : l’eurodéputée française Rima Hassan tacle Alger et le Polisario](https://www.jeuneafrique.com/1718467/politique/sahara-occidental-leurodeputee-francaise-rima-hassan-tacle-alger-et-le-polisario/)
 - [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
 - [Le grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
 - [Née après la révolution, l’Instance nationale d’accès à l’information ferme ses portes en Tunisie](https://www.jeuneafrique.com/1717739/politique/nee-apres-la-revolution-linstance-nationale-dacces-a-linformation-ferme-ses-portes-en-tunisie/)
@@ -271,9 +272,8 @@
 - [« Merci, mais non merci » : en RDC, Félix Tshisekedi ferme la porte à toute facilitation extérieure](https://www.jeuneafrique.com/1718295/politique/merci-mais-non-merci-en-rdc-felix-tshisekedi-ferme-la-porte-a-toute-facilitation-exterieure/)
 - [Au Gabon, Kelly Ondo Obiang libéré, grâce à « l’éternel des armées »… et à Oligui Nguema](https://www.jeuneafrique.com/1718382/politique/au-gabon-kelly-ondo-obiang-libere-grace-a-leternel-des-armees-et-a-oligui-nguema/)
 - [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
-- [Qui, de Félix Tshisekedi ou de Paul Kagame, remportera le meilleur sponsoring sportif ?](https://www.jeuneafrique.com/1712294/politique/qui-de-felix-tshisekedi-ou-de-paul-kagame-remportera-le-meilleur-sponsoring-sportif/)
+- [Au Cameroun, MTN creuse l’écart avec Orange et Nexttel](https://www.jeuneafrique.com/1718708/economie-entreprises/au-cameroun-mtn-creuse-lecart-avec-orange-et-nexttel/)
 - [L’or atteint un record historique à 3 500 dollars l’once : une aubaine pour les producteurs africains ?](https://www.jeuneafrique.com/1718533/economie-entreprises/lor-atteint-un-record-historique-a-3-500-dollars-lonce-une-aubaine-pour-les-producteurs-africains/)
-- [Comment Amadou Hott rebondit à Riyad après son revers à la Banque africaine de développement](https://www.jeuneafrique.com/1718418/economie-entreprises/comment-amadou-hott-rebondit-a-riyad-apres-son-revers-a-la-banque-africaine-de-developpement/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
