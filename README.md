@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 11:10*
+*Generato: 02 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les chiffres de la réussite](https://lapresse.tn/2025/09/01/les-chiffres-de-la-reussite/)
+- [L’IA va doubler le marché mondial des semi-conducteurs d’ici 2030](https://lapresse.tn/2025/09/02/lia-va-doubler-le-marche-mondial-des-semi-conducteurs-dici-2030/)
 - [Environnement industriel : 400 tonnes de biphényle, une substance dangereuse bientôt collectées et traitées](https://lapresse.tn/2025/09/02/environnement-industriel-400-tonnes-de-biphenyle-une-substance-dangereuse-bientot-collectees-et-traitees/)
 - [Fondation « Fidā » : bourses d’études pour les enfants de victimes d’attaques terroristes](https://lapresse.tn/2025/09/02/fondation-fida-bourses-detudes-pour-les-enfants-de-victimes-dattaques-terroristes/)
-- [Médicaments introuvables : 90 % des produits en pénurie n’ont pas de substitut en Tunisie](https://lapresse.tn/2025/09/02/medicaments-introuvables-90-des-produits-en-penurie-nont-pas-de-substitut-en-tunisie/)
 - [ARP : La commission des finances menace de boycotter l’examen du projet de la loi de finances de 2026](https://lapresse.tn/2025/09/02/arp-la-commission-des-finances-menace-de-boycotter-lexamen-du-projet-de-la-loi-de-finances-de-2026/)
 - [Météo : baisse des températures et pluies ce mardi](https://lapresse.tn/2025/09/02/meteo-baisse-des-temperatures-et-pluies-ce-mardi/)
-- [Le Président Saïed se rend sur les places de Tunis rénovées](https://lapresse.tn/2025/09/02/le-president-saied-se-rend-sur-les-places-de-tunis-renovees/)
+- [Médicaments introuvables : 90 % des produits en pénurie n’ont pas de substitut en Tunisie](https://lapresse.tn/2025/09/02/medicaments-introuvables-90-des-produits-en-penurie-nont-pas-de-substitut-en-tunisie/)
 - [Tunisie – Installation illégale de ralentisseurs : jusqu’à 1 100 dinars d’amende](https://lapresse.tn/2025/09/02/tunisie-installation-illegale-de-ralentisseurs-jusqua-1-100-dinars-damende/)
 - [Municipalité de Radès : Des projets réalisés, d’autres en cours](https://lapresse.tn/2025/09/02/municipalite-de-rades-des-projets-realises-dautres-en-cours/)
 - [9e Forum économique de Tunis : un événement incontournable le 18 septembre prochain](https://lapresse.tn/2025/09/02/9e-forum-economique-de-tunis-un-evenement-incontournable-le-18-septembre-prochain/)
@@ -266,12 +266,12 @@
 
 - [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
 - [Le grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
+- [Née après la révolution, l’Instance nationale d’accès à l’information ferme ses portes en Tunisie](https://www.jeuneafrique.com/1717739/politique/nee-apres-la-revolution-linstance-nationale-dacces-a-linformation-ferme-ses-portes-en-tunisie/)
 - [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
 - [Qui, de Félix Tshisekedi ou de Paul Kagame, remportera le meilleur sponsoring sportif ?](https://www.jeuneafrique.com/1712294/politique/qui-de-felix-tshisekedi-ou-de-paul-kagame-remportera-le-meilleur-sponsoring-sportif/)
 - [En Tunisie, « la Constitution doit être vivante et appliquée », insiste le constitutionnaliste Amine Mahfoudh](https://www.jeuneafrique.com/1717607/politique/en-tunisie-la-constitution-doit-etre-vivante-et-appliquee-insiste-le-constitutionnaliste-amine-mahfoudh/)
 - [De Gaza à Ménaka, la faim comme crime de guerre – par Nina Kozlowski](https://www.jeuneafrique.com/1714999/politique/de-gaza-a-menaka-la-faim-comme-crime-de-guerre/)
 - [Présidentielle au Cameroun : à Yaoundé, des travaux routiers aux allures de campagne](https://www.jeuneafrique.com/1717061/politique/presidentielle-au-cameroun-a-yaounde-des-travaux-routiers-aux-allures-de-campagne/)
-- [L’Occident, Gaza et nous – par Fawzia Zouari](https://www.jeuneafrique.com/1713654/politique/loccident-gaza-et-nous-par-fawzia-zouari/)
 - [L’or atteint un record historique à 3 500 dollars l’once : une aubaine pour les producteurs africains ?](https://www.jeuneafrique.com/1718533/economie-entreprises/lor-atteint-un-record-historique-a-3-500-dollars-lonce-une-aubaine-pour-les-producteurs-africains/)
 - [Comment Amadou Hott rebondit à Riyad après son revers à la Banque africaine de développement](https://www.jeuneafrique.com/1718418/economie-entreprises/comment-amadou-hott-rebondit-a-riyad-apres-son-revers-a-la-banque-africaine-de-developpement/)
 
