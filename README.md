@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 18:12*
+*Generato: 02 Sep 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,19 +132,6 @@
 - [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
 - [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -174,15 +161,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
-- [Qualifications Coupe du monde 2026 (7e journée) ­- La Tunisie accueille le Liberia, jeudi soir (20h00) : Un écart à creuser !](https://lapresse.tn/2025/09/02/qualifications-coupe-du-monde-2026-7e-journee-la-tunisie-accueille-le-liberia-jeudi-soir-20h00-un-ecart-a-creuser/)
-- [Mercato : Ben Slimane vers Trabzonspor](https://lapresse.tn/2025/09/02/mercato-ben-slimane-vers-trabzonspor/)
-- [FIFAK 2025 : Le palmarès](https://lapresse.tn/2025/09/02/fifak-2025-le-palmares/)
-- [Un projet géant d’énergie verte Tunisie–Algérie–Italie soutenu par l’UE](https://lapresse.tn/2025/09/02/un-projet-geant-denergie-verte-tunisie-algerie-italie-soutenu-par-lue/)
-- [Acquisition de fournitures scolaires au profit des élèves nécessiteux : La solidarité autrement !](https://lapresse.tn/2025/09/02/acquisition-de-fournitures-scolaires-au-profit-des-eleves-necessiteux-la-solidarite-autrement/)
-- [Météo : Toutes les régions du pays placées en vigilance jaune](https://lapresse.tn/2025/09/02/meteo-toutes-les-regions-du-pays-placees-en-vigilance-jaune/)
+- [Conseil ministériel à la Kasbah : définition des priorités économiques et sociales pour 2026](https://lapresse.tn/2025/09/02/conseil-ministeriel-a-la-kasbah-definition-des-priorites-economiques-et-sociales-pour-2026/)
+- [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
+- [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
+- [Billets déchirés et anciens en Tunisie : les conseils d’un expert bancaire pour les échanger](https://lapresse.tn/2025/09/02/billets-dechires-et-anciens-en-tunisie-les-conseils-dun-expert-bancaire-pour-les-echanger/)
+- [Bizerte : sept établissements fermés pour non-respect des règles sanitaires à Mateur](https://lapresse.tn/2025/09/02/bizerte-sept-etablissements-fermes-pour-non-respect-des-regles-sanitaires-a-mateur/)
+- [Présidence du gouvernement: Un jour de congé à l’occasion de la fête du Mouled](https://lapresse.tn/2025/09/02/presidence-du-gouvernement-un-jour-de-conge-a-loccasion-de-la-fete-du-mouled/)
+- [La Tunisie en route vers la classification internationale des équipes médicales d’urgence](https://lapresse.tn/2025/09/02/la-tunisie-en-route-vers-la-classification-internationale-des-equipes-medicales-durgence/)
 - [Tozeur – Mouled : Rituels hérités et mémoire indélébile](https://lapresse.tn/2025/09/02/tozeur-mouled-rituels-herites-et-memoire-indelebile/)
-- [Pourquoi : Les trotinettes, un nouveau fléau…](https://lapresse.tn/2025/09/02/pourquoi-les-trotinettes-un-nouveau-fleau/)
-- [Traversées Sfax–Kerkennah : SONOTRAK annonce de possibles perturbations](https://lapresse.tn/2025/09/02/traversees-sfax-kerkennah-sonotrak-annonce-de-possibles-perturbations/)
+- [Ultra Mirage El Djérid 2025 : le Lac Chamsa ouvre une édition inédite et ouverte à tous](https://lapresse.tn/2025/09/02/257834/)
 
 ## NGOs – Amnesty International – Tunisia
 
