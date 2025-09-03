@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Sep 2025, 12:22*
+*Generato: 03 Sep 2025, 13:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
+- [Gaza: à cause de la guerre, 21.000 enfants souffrent d’handicap permanent](https://lapresse.tn/2025/09/03/gaza-a-cause-de-la-guerre-21-000-enfants-souffrent-dhandicap-permanent/)
+- [Saisie de 9 016 unités de fournitures scolaires et 13 526 cahiers subventionnés](https://lapresse.tn/2025/09/03/saisie-de-9-016-unites-de-fournitures-scolaires-et-13-526-cahiers-subventionnes/)
 - [Immobilier en Tunisie : La Marsa, Ariana et Hammamet en tête des zones les plus demandées](https://lapresse.tn/2025/09/03/immobilier-en-tunisie-la-marsa-ariana-et-hammamet-en-tete-des-zones-les-plus-demandees/)
-- [L’actrice syrienne Mouna Wassef nommée « Ambassadrice de la Paix dans le Monde »](https://lapresse.tn/2025/09/03/lactrice-syrienne-mouna-wassef-nommee-ambassadrice-de-la-paix-dans-le-monde/)
 - [Des chiffres alarmants : la douane révèle des saisies « sans précédent » de drogue](https://lapresse.tn/2025/09/03/des-chiffres-alarmants-la-douane-revele-des-saisies-sans-precedent-de-drogue/)
 - [Mandat de dépôt en prison à l’encontre d’un homme d’affaires pour blanchiment d’argent et corruption](https://lapresse.tn/2025/09/03/mandat-de-depot-en-prison-a-lencontre-dun-homme-daffaires-pour-blanchiment-dargent-et-corruption/)
 - [Flottille Soumoud : le départ à partir de la Tunisie reporté](https://lapresse.tn/2025/09/03/flottille-soumoud-le-depart-a-partir-de-la-tunisie-reporte/)
-- [Météo : soleil et températures stables ce mercredi](https://lapresse.tn/2025/09/03/meteo-soleil-et-temperatures-stables-ce-mercredi/)
 - [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
 - [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
 - [La Tunisie en route vers la classification internationale des équipes médicales d’urgence](https://lapresse.tn/2025/09/02/la-tunisie-en-route-vers-la-classification-internationale-des-equipes-medicales-durgence/)
