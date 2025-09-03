@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Sep 2025, 06:16*
+*Generato: 03 Sep 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
+- [Secteur du phosphate : une batterie de mesures pour améliorer la production et protéger l’environnement](https://lapresse.tn/2025/09/03/secteur-du-phosphate-une-batterie-de-mesures-pour-ameliorer-la-production-et-proteger-lenvironnement/)
+- [Artiste peintre – Entrepreneure – Exploratrice du Féminin Sacré : Là où l’art devient prière, et le féminin, lumière](https://lapresse.tn/2025/09/03/artiste-peintre-entrepreneure-exploratrice-du-feminin-sacre-la-ou-lart-devient-priere-et-le-feminin-lumiere/)
+- [La STB renforce sa croissance et sa résilience, et réaffirme son rôle de catalyseur du développement économique national](https://lapresse.tn/2025/09/03/la-stb-renforce-sa-croissance-et-sa-resilience-et-reaffirme-son-role-de-catalyseur-du-developpement-economique-national/)
 - [Conseil ministériel à la Kasbah : définition des priorités économiques et sociales pour 2026](https://lapresse.tn/2025/09/02/conseil-ministeriel-a-la-kasbah-definition-des-priorites-economiques-et-sociales-pour-2026/)
-- [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
-- [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
 - [Billets déchirés et anciens en Tunisie : les conseils d’un expert bancaire pour les échanger](https://lapresse.tn/2025/09/02/billets-dechires-et-anciens-en-tunisie-les-conseils-dun-expert-bancaire-pour-les-echanger/)
 - [Bizerte : sept établissements fermés pour non-respect des règles sanitaires à Mateur](https://lapresse.tn/2025/09/02/bizerte-sept-etablissements-fermes-pour-non-respect-des-regles-sanitaires-a-mateur/)
-- [Présidence du gouvernement: Un jour de congé à l’occasion de la fête du Mouled](https://lapresse.tn/2025/09/02/presidence-du-gouvernement-un-jour-de-conge-a-loccasion-de-la-fete-du-mouled/)
+- [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
+- [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
 - [La Tunisie en route vers la classification internationale des équipes médicales d’urgence](https://lapresse.tn/2025/09/02/la-tunisie-en-route-vers-la-classification-internationale-des-equipes-medicales-durgence/)
-- [Tozeur – Mouled : Rituels hérités et mémoire indélébile](https://lapresse.tn/2025/09/02/tozeur-mouled-rituels-herites-et-memoire-indelebile/)
-- [Ultra Mirage El Djérid 2025 : le Lac Chamsa ouvre une édition inédite et ouverte à tous](https://lapresse.tn/2025/09/02/257834/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -261,6 +261,19 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
+
+## MAGAZINES – Jeune Afrique
+
+- [La mission de l’ONU en Libye craint une « escalade rapide des tensions » à Tripoli](https://www.jeuneafrique.com/1718823/politique/la-mission-de-lonu-en-libye-craint-une-escalade-rapide-des-tensions-a-tripoli/)
+- [Présidentielle en Côte d’Ivoire : Guillaume Soro, pas candidat, mais au cœur des rumeurs](https://www.jeuneafrique.com/1718488/politique/presidentielle-en-cote-divoire-guillaume-soro-pas-candidat-mais-au-coeur-des-rumeurs/)
+- [Sahara occidental : l’eurodéputée française Rima Hassan tacle Alger et le Polisario](https://www.jeuneafrique.com/1718467/politique/sahara-occidental-leurodeputee-francaise-rima-hassan-tacle-alger-et-le-polisario/)
+- [Présidentielle au Cameroun : à Maroua, Louis Paul Motaze en opération séduction contrariée](https://www.jeuneafrique.com/1718458/politique/presidentielle-au-cameroun-a-maroua-louis-paul-motaze-en-operation-seduction-contrariee/)
+- [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
+- [« Balkan connection » : les nouveaux maîtres du trafic de cocaïne en Afrique de l’Ouest](https://www.jeuneafrique.com/1718019/politique/balkan-connection-les-nouveaux-maitres-du-trafic-de-cocaine-en-afrique-de-louest/)
+- [Le grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
+- [Née après la révolution, l’Instance nationale d’accès à l’information ferme ses portes en Tunisie](https://www.jeuneafrique.com/1717739/politique/nee-apres-la-revolution-linstance-nationale-dacces-a-linformation-ferme-ses-portes-en-tunisie/)
+- [Maroc : avec Hajar Alafifi, OCP parie sur du sang neuf pour se développer en Afrique](https://www.jeuneafrique.com/1718794/economie-entreprises/maroc-avec-hajar-alafifi-ocp-parie-sur-du-sang-neuf-pour-se-developper-en-afrique/)
+- [Au Cameroun, MTN creuse l’écart avec Orange et Nexttel](https://www.jeuneafrique.com/1718708/economie-entreprises/au-cameroun-mtn-creuse-lecart-avec-orange-et-nexttel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
