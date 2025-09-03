@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Sep 2025, 13:22*
+*Generato: 03 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
+- [Zaghouan: un deuxième cas de fièvre du Nil occidental détecté](https://lapresse.tn/2025/09/03/zaghouan-un-deuxieme-cas-de-fievre-du-nil-occidental-detecte/)
 - [Gaza: à cause de la guerre, 21.000 enfants souffrent d’handicap permanent](https://lapresse.tn/2025/09/03/gaza-a-cause-de-la-guerre-21-000-enfants-souffrent-dhandicap-permanent/)
 - [Saisie de 9 016 unités de fournitures scolaires et 13 526 cahiers subventionnés](https://lapresse.tn/2025/09/03/saisie-de-9-016-unites-de-fournitures-scolaires-et-13-526-cahiers-subventionnes/)
-- [Immobilier en Tunisie : La Marsa, Ariana et Hammamet en tête des zones les plus demandées](https://lapresse.tn/2025/09/03/immobilier-en-tunisie-la-marsa-ariana-et-hammamet-en-tete-des-zones-les-plus-demandees/)
 - [Des chiffres alarmants : la douane révèle des saisies « sans précédent » de drogue](https://lapresse.tn/2025/09/03/des-chiffres-alarmants-la-douane-revele-des-saisies-sans-precedent-de-drogue/)
 - [Mandat de dépôt en prison à l’encontre d’un homme d’affaires pour blanchiment d’argent et corruption](https://lapresse.tn/2025/09/03/mandat-de-depot-en-prison-a-lencontre-dun-homme-daffaires-pour-blanchiment-dargent-et-corruption/)
-- [Flottille Soumoud : le départ à partir de la Tunisie reporté](https://lapresse.tn/2025/09/03/flottille-soumoud-le-depart-a-partir-de-la-tunisie-reporte/)
 - [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
 - [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
 - [La Tunisie en route vers la classification internationale des équipes médicales d’urgence](https://lapresse.tn/2025/09/02/la-tunisie-en-route-vers-la-classification-internationale-des-equipes-medicales-durgence/)
+- [Tozeur – Mouled : Rituels hérités et mémoire indélébile](https://lapresse.tn/2025/09/02/tozeur-mouled-rituels-herites-et-memoire-indelebile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
 - [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
@@ -286,4 +287,3 @@
 - [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
 - [Lago Ciad, Boko Haram, Iswap e la grande città di Lagos](https://www.limesonline.com/rubriche/mappe-parlanti/lago-ciad-boko-haram-iswap-e-la-grande-citta-di-lagos-19284332/)
 - [I cavi sottomarini mondiali e lo snodo del Sicily Hub nello Stretto di Sicilia](https://www.limesonline.com/rubriche/mappe-parlanti/i-cavi-sottomarini-mondiali-e-lo-snodo-del-sicily-hub-nello-stretto-di-sicilia-19235621/)
-- [I simboli di Limes](https://www.limesonline.com/rubriche/mappe-parlanti/i-simboli-di-limes-19182829/)
