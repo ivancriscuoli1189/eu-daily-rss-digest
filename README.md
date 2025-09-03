@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Sep 2025, 15:10*
+*Generato: 03 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Investir dans l’avenir](https://lapresse.tn/2025/09/02/investir-dans-lavenir/)
-- [Zaghouan: un deuxième cas de fièvre du Nil occidental détecté](https://lapresse.tn/2025/09/03/zaghouan-un-deuxieme-cas-de-fievre-du-nil-occidental-detecte/)
-- [Gaza: à cause de la guerre, 21.000 enfants souffrent d’handicap permanent](https://lapresse.tn/2025/09/03/gaza-a-cause-de-la-guerre-21-000-enfants-souffrent-dhandicap-permanent/)
-- [Saisie de 9 016 unités de fournitures scolaires et 13 526 cahiers subventionnés](https://lapresse.tn/2025/09/03/saisie-de-9-016-unites-de-fournitures-scolaires-et-13-526-cahiers-subventionnes/)
-- [Des chiffres alarmants : la douane révèle des saisies « sans précédent » de drogue](https://lapresse.tn/2025/09/03/des-chiffres-alarmants-la-douane-revele-des-saisies-sans-precedent-de-drogue/)
-- [Mandat de dépôt en prison à l’encontre d’un homme d’affaires pour blanchiment d’argent et corruption](https://lapresse.tn/2025/09/03/mandat-de-depot-en-prison-a-lencontre-dun-homme-daffaires-pour-blanchiment-dargent-et-corruption/)
+- [Briser le blocus](https://lapresse.tn/2025/09/03/briser-le-blocus/)
+- [Ouverture de la 32e édition du Festival International du Théâtre Expérimental du Caire : Le Caire ou le théâtre en mouvement](https://lapresse.tn/2025/09/03/ouverture-de-la-32e-edition-du-festival-international-du-theatre-experimental-du-caire-le-caire-ou-le-theatre-en-mouvement/)
+- [L’AFPEC organise une journée d’étude au Cinémadart à Carthage : Le génocide à Gaza comme corpus](https://lapresse.tn/2025/09/03/lafpec-organise-une-journee-detude-au-cinemadart-a-carthage-le-genocide-a-gaza-comme-corpus/)
+- [La Maison des Arts du Belvédère fait sa rentrée culturelle avec l’exposition collective « Big Moments » : Regards pluriels](https://lapresse.tn/2025/09/03/la-maison-des-arts-du-belvedere-fait-sa-rentree-culturelle-avec-lexposition-collective-big-moments-regards-pluriels/)
+- [Tunisie : Kaïs Saïed en visite en Algérie pour l’ouverture du Salon africain du commerce intra-africain](https://lapresse.tn/2025/09/03/tunisie-kais-saied-en-visite-en-algerie-pour-louverture-du-salon-africain-du-commerce-intra-africain/)
+- [Reportage – Rénovation des places Barcelone et Mongi-Bali : Une seconde jeunesse](https://lapresse.tn/2025/09/03/reportage-renovation-des-places-barcelone-et-mongi-bali-une-seconde-jeunesse/)
+- [Commentaire : La Tunisie qu’on aime](https://lapresse.tn/2025/09/03/commentaire-la-tunisie-quon-aime/)
+- [Finies Les vacances : Qu’en a-t-on fait ?](https://lapresse.tn/2025/09/03/finies-les-vacances-quen-a-t-on-fait/)
 - [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
 - [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
-- [La Tunisie en route vers la classification internationale des équipes médicales d’urgence](https://lapresse.tn/2025/09/02/la-tunisie-en-route-vers-la-classification-internationale-des-equipes-medicales-durgence/)
-- [Tozeur – Mouled : Rituels hérités et mémoire indélébile](https://lapresse.tn/2025/09/02/tozeur-mouled-rituels-herites-et-memoire-indelebile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À La Marsa, le saccage du magasin Carrefour est-il le signe d’une hostilité anti-française en Tunisie ?](https://www.jeuneafrique.com/1718681/politique/a-la-marsa-le-saccage-du-magasin-carrefour-est-il-le-signe-dune-hostilite-anti-francaise-en-tunisie/)
 - [La mission de l’ONU en Libye craint une « escalade rapide des tensions » à Tripoli](https://www.jeuneafrique.com/1718823/politique/la-mission-de-lonu-en-libye-craint-une-escalade-rapide-des-tensions-a-tripoli/)
 - [Anicet-Georges Dologuélé : « Pourquoi je renonce à la nationalité française »](https://www.jeuneafrique.com/1718766/politique/anicet-georges-dologuele-pourquoi-je-renonce-a-la-nationalite-francaise/)
 - [En RDC, Constant Mutamba est condamné à trois ans de travaux forcés](https://www.jeuneafrique.com/1718670/politique/en-rdc-constant-mutamba-est-condamne-a-trois-ans-de-travaux-forces/)
 - [Présidentielle en Côte d’Ivoire : Guillaume Soro, pas candidat, mais au cœur des rumeurs](https://www.jeuneafrique.com/1718488/politique/presidentielle-en-cote-divoire-guillaume-soro-pas-candidat-mais-au-coeur-des-rumeurs/)
 - [Sahara occidental : l’eurodéputée française Rima Hassan tacle Alger et le Polisario](https://www.jeuneafrique.com/1718467/politique/sahara-occidental-leurodeputee-francaise-rima-hassan-tacle-alger-et-le-polisario/)
+- [En RDC, Joseph Kabila met Félix Tshisekedi en garde : « Tôt ou tard, la supercherie sera évidente pour tous »](https://www.jeuneafrique.com/1718605/politique/en-rdc-joseph-kabila-met-felix-tshisekedi-en-garde-tot-ou-tard-la-supercherie-sera-evidente-pour-tous/)
 - [Présidentielle au Cameroun : à Maroua, Louis Paul Motaze en opération séduction contrariée](https://www.jeuneafrique.com/1718458/politique/presidentielle-au-cameroun-a-maroua-louis-paul-motaze-en-operation-seduction-contrariee/)
-- [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
-- [« Balkan connection » : les nouveaux maîtres du trafic de cocaïne en Afrique de l’Ouest](https://www.jeuneafrique.com/1718019/politique/balkan-connection-les-nouveaux-maitres-du-trafic-de-cocaine-en-afrique-de-louest/)
+- [Après l’Afrique australe, le fonds qatari Al Mansour fait cap sur la RDC](https://www.jeuneafrique.com/1718993/economie-entreprises/apres-lafrique-australe-le-fonds-qatari-al-mansour-fait-cap-sur-la-rdc/)
 - [Maroc : avec Hajar Alafifi, OCP parie sur du sang neuf pour se développer en Afrique](https://www.jeuneafrique.com/1718794/economie-entreprises/maroc-avec-hajar-alafifi-ocp-parie-sur-du-sang-neuf-pour-se-developper-en-afrique/)
-- [Au Cameroun, MTN creuse l’écart avec Orange et Nexttel](https://www.jeuneafrique.com/1718708/economie-entreprises/au-cameroun-mtn-creuse-lecart-avec-orange-et-nexttel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
