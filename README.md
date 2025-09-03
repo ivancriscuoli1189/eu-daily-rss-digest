@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Sep 2025, 21:03*
+*Generato: 03 Sep 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
 - [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
 - [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
-- [La croissance économique au premier trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-premier-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
+- [La croissance économique au premier trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-premier-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
 - [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
@@ -91,7 +92,6 @@
 - [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 - [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
 - [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
-- [Press conference on the MFF with MEPs Mureşan and Tavares on Tuesday, 15 July](https://www.europarl.europa.eu/news/en/press-room/20250711IPR29612/press-conference-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-15-july)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -131,6 +131,19 @@
 - [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
 - [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
 - [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
 ## UE – Tunisie – Projects portal (Agriculture)
 
@@ -248,19 +261,6 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
-
-## MAGAZINES – Jeune Afrique
-
-- [Sahara occidental : l’eurodéputée française Rima Hassan tacle Alger et le Polisario](https://www.jeuneafrique.com/1718467/politique/sahara-occidental-leurodeputee-francaise-rima-hassan-tacle-alger-et-le-polisario/)
-- [Référendum en Guinée : les partis d’opposition suspendus pourront s’exprimer](https://www.jeuneafrique.com/1718520/politique/referendum-en-guinee-les-partis-dopposition-suspendus-pourront-sexprimer/)
-- [Le grand barrage de la Renaissance va rapporter 1 milliard de dollars par an à l’Éthiopie](https://www.jeuneafrique.com/1718502/politique/le-grand-barrage-de-la-renaissance-va-rapporter-1-milliard-de-dollars-par-an-a-lethiopie/)
-- [Née après la révolution, l’Instance nationale d’accès à l’information ferme ses portes en Tunisie](https://www.jeuneafrique.com/1717739/politique/nee-apres-la-revolution-linstance-nationale-dacces-a-linformation-ferme-ses-portes-en-tunisie/)
-- [« Je ne sais pas si mon fils est mort ou vivant » : au Burkina d’Ibrahim Traoré, la machine répressive tourne à plein régime](https://www.jeuneafrique.com/1718372/politique/je-ne-sais-pas-si-mon-fils-est-mort-ou-vivant-au-burkina-dibrahim-traore-la-machine-repressive-tourne-a-plein-regime/)
-- [« Merci, mais non merci » : en RDC, Félix Tshisekedi ferme la porte à toute facilitation extérieure](https://www.jeuneafrique.com/1718295/politique/merci-mais-non-merci-en-rdc-felix-tshisekedi-ferme-la-porte-a-toute-facilitation-exterieure/)
-- [Au Gabon, Kelly Ondo Obiang libéré, grâce à « l’éternel des armées »… et à Oligui Nguema](https://www.jeuneafrique.com/1718382/politique/au-gabon-kelly-ondo-obiang-libere-grace-a-leternel-des-armees-et-a-oligui-nguema/)
-- [En Guinée : un référendum constitutionnel sur mesure pour Doumbouya ?](https://www.jeuneafrique.com/1718341/politique/en-guinee-un-referendum-constitutionnel-sur-mesure-pour-doumbouya/)
-- [Au Cameroun, MTN creuse l’écart avec Orange et Nexttel](https://www.jeuneafrique.com/1718708/economie-entreprises/au-cameroun-mtn-creuse-lecart-avec-orange-et-nexttel/)
-- [L’or atteint un record historique à 3 500 dollars l’once : une aubaine pour les producteurs africains ?](https://www.jeuneafrique.com/1718533/economie-entreprises/lor-atteint-un-record-historique-a-3-500-dollars-lonce-une-aubaine-pour-les-producteurs-africains/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
