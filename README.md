@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Sep 2025, 18:13*
+*Generato: 03 Sep 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Briser le blocus](https://lapresse.tn/2025/09/03/briser-le-blocus/)
-- [Ouverture de la 32e édition du Festival International du Théâtre Expérimental du Caire : Le Caire ou le théâtre en mouvement](https://lapresse.tn/2025/09/03/ouverture-de-la-32e-edition-du-festival-international-du-theatre-experimental-du-caire-le-caire-ou-le-theatre-en-mouvement/)
-- [L’AFPEC organise une journée d’étude au Cinémadart à Carthage : Le génocide à Gaza comme corpus](https://lapresse.tn/2025/09/03/lafpec-organise-une-journee-detude-au-cinemadart-a-carthage-le-genocide-a-gaza-comme-corpus/)
-- [La Maison des Arts du Belvédère fait sa rentrée culturelle avec l’exposition collective « Big Moments » : Regards pluriels](https://lapresse.tn/2025/09/03/la-maison-des-arts-du-belvedere-fait-sa-rentree-culturelle-avec-lexposition-collective-big-moments-regards-pluriels/)
-- [Tunisie : Kaïs Saïed en visite en Algérie pour l’ouverture du Salon africain du commerce intra-africain](https://lapresse.tn/2025/09/03/tunisie-kais-saied-en-visite-en-algerie-pour-louverture-du-salon-africain-du-commerce-intra-africain/)
-- [Reportage – Rénovation des places Barcelone et Mongi-Bali : Une seconde jeunesse](https://lapresse.tn/2025/09/03/reportage-renovation-des-places-barcelone-et-mongi-bali-une-seconde-jeunesse/)
-- [Commentaire : La Tunisie qu’on aime](https://lapresse.tn/2025/09/03/commentaire-la-tunisie-quon-aime/)
+- [Kaïs Saïed instruit une réaction ferme après la mort d’un Tunisien à Marseille](https://lapresse.tn/2025/09/03/kais-saied-instruit-une-reaction-ferme-apres-la-mort-dun-tunisien-a-marseille/)
+- [Le ministre de l’Enseignement supérieur s’engage à garantir le succès de la nouvelle année universitaire](https://lapresse.tn/2025/09/03/le-ministre-de-lenseignement-superieur-sengage-a-garantir-le-succes-de-la-nouvelle-annee-universitaire/)
+- [Zones industrielles: mise en place d’un comité pour évaluer les stations de pompage d’eau](https://lapresse.tn/2025/09/03/zones-industrielles-mise-en-place-dun-comite-pour-evaluer-les-stations-de-pompage-deau/)
+- [Le ministère de l’Équipement et de l’Habitat évalue l’efficacité de son portail de services en ligne](https://lapresse.tn/2025/09/03/le-ministere-de-lequipement-et-de-lhabitat-evalue-lefficacite-de-son-portail-de-services-en-ligne/)
+- [La société française UR-POWER prépare un projet pilote en Tunisie](https://lapresse.tn/2025/09/03/la-societe-francaise-ur-power-prepare-un-projet-pilote-en-tunisie/)
 - [Finies Les vacances : Qu’en a-t-on fait ?](https://lapresse.tn/2025/09/03/finies-les-vacances-quen-a-t-on-fait/)
 - [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
 - [Éducation : les agents d’encadrement et de soutien officiellement intégrés](https://lapresse.tn/2025/09/02/education-les-agents-dencadrement-et-de-soutien-officiellement-integres/)
+- [Le « copycat intelligent » : la stratégie imparable des startups arabes selon Arab Founders](https://lapresse.tn/2025/09/03/le-copycat-intelligent-la-strategie-imparable-des-startups-arabes-selon-arab-founders/)
 
 ## NGOs – Amnesty International – Tunisia
 
