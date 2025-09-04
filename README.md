@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 11:02*
+*Generato: 04 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,10 +82,10 @@
 
 ## UE – EP – Press Room
 
+- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
 - [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
-- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
 - [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
@@ -267,13 +267,13 @@
 - [Oligui Nguema peut-il réinventer la vie politique au Gabon ?](https://www.jeuneafrique.com/1710897/politique/oligui-nguema-peut-il-reinventer-la-vie-politique-au-gabon/)
 - [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
 - [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
+- [Tajmaât, la vigie numérique qui met en lumière le racisme anti-maghrébin en France](https://www.jeuneafrique.com/1718884/politique/tajmaat-la-vigie-numerique-qui-met-en-lumiere-le-racisme-anti-maghrebin-en-france/)
+- [Ascension rapide et chute brutale… En RDC, Constant Mutamba a-t-il été victime de ses outrances ?](https://www.jeuneafrique.com/1718875/politique/ascension-rapide-et-chute-brutale-en-rdc-constant-mutamba-a-t-il-ete-victime-de-ses-outrances/)
 - [Présidentielle au Cameroun : Léopold Bessiping, le grand gagnant des recalés](https://www.jeuneafrique.com/1715212/politique/presidentielle-au-cameroun-leopold-bessiping-le-grand-gagnant-des-recales/)
 - [À La Marsa, le saccage du magasin Carrefour est-il le signe d’une hostilité anti-française en Tunisie ?](https://www.jeuneafrique.com/1718681/politique/a-la-marsa-le-saccage-du-magasin-carrefour-est-il-le-signe-dune-hostilite-anti-francaise-en-tunisie/)
 - [La mission de l’ONU en Libye craint une « escalade rapide des tensions » à Tripoli](https://www.jeuneafrique.com/1718823/politique/la-mission-de-lonu-en-libye-craint-une-escalade-rapide-des-tensions-a-tripoli/)
-- [Présidentielle au Bénin : comment Romuald Wadagni a été désigné candidat et dauphin de Patrice Talon](https://www.jeuneafrique.com/1718712/politique/presidentielle-au-benin-comment-romuald-wadagni-a-ete-designe-candidat-et-dauphin-de-patrice-talon/)
-- [Anicet-Georges Dologuélé : « Pourquoi je renonce à la nationalité française »](https://www.jeuneafrique.com/1718766/politique/anicet-georges-dologuele-pourquoi-je-renonce-a-la-nationalite-francaise/)
+- [Comment Kooul défie le leadership de Glovo au Maroc](https://www.jeuneafrique.com/1719011/economie-entreprises/comment-kooul-defie-le-leadership-de-glovo-au-maroc/)
 - [Agence française de développement : Emmanuel Macron soutiendra-t-il Rémy Rioux pour un 4e mandat ?](https://www.jeuneafrique.com/1718877/economie-entreprises/agence-francaise-de-developpement-emmanuel-macron-soutiendra-t-il-remy-rioux-pour-un-4e-mandat/)
-- [Après l’Afrique australe, le fonds qatari Al Mansour fait cap sur la RDC](https://www.jeuneafrique.com/1718993/economie-entreprises/apres-lafrique-australe-le-fonds-qatari-al-mansour-fait-cap-sur-la-rdc/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
