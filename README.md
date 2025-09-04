@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 15:23*
+*Generato: 04 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Briser le blocus](https://lapresse.tn/2025/09/03/briser-le-blocus/)
+- [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
+- [Sport scolaire et universitaire : Réformer le secteur pour faire éclore les talents](https://lapresse.tn/2025/09/04/sport-scolaire-et-universitaire-reformer-le-secteur-pour-faire-eclore-les-talents/)
+- [Transport et conservation des aliments : Des dossiers à prendre en main](https://lapresse.tn/2025/09/04/transport-et-conservation-des-aliments-des-dossiers-a-prendre-en-main/)
+- [Gafsa : Un projet pilote pour transformer les pistaches en levier économique](https://lapresse.tn/2025/09/04/gafsa-un-projet-pilote-pour-transformer-les-pistaches-en-levier-economique/)
 - [Le président Kaïs Saïed à l’ouverture de l’IATF 2025: “Le rêve africain des générations passées vivra et se réalisera”](https://lapresse.tn/2025/09/04/258174/)
-- [Mouled : Quand les murs de Sidi Mehrez vibrent au rythme des confréries](https://lapresse.tn/2025/09/04/mouled-quand-les-murs-de-sidi-mehrez-vibrent-au-rythme-des-confreries/)
-- [Fondation Fidaa : l’hébergement scolaire et universitaire gratuit pour les enfants des martyrs](https://lapresse.tn/2025/09/04/fondation-fidaa-lhebergement-scolaire-et-universitaire-gratuit-pour-les-enfants-des-martyrs/)
 - [IATF 2025 : un atelier dédié à la Tunisie pour valoriser son industrie automobile et sa stratégie ZLECAf](https://lapresse.tn/2025/09/04/iatf-2025-un-atelier-dedie-a-la-tunisie-pour-valoriser-son-industrie-automobile-et-sa-strategie-zlecaf/)
 - [Météo : soleil et légère hausse des températures ce jeudi](https://lapresse.tn/2025/09/04/meteo-soleil-et-legere-hausse-des-temperatures-ce-jeudi/)
-- [Rencontre de haut niveau à Alger : Kaïs Saïed et Tebboune évoquent enjeux régionaux et bilatéraux](https://lapresse.tn/2025/09/04/rencontre-de-haut-niveau-a-alger-kais-saied-et-tebboune-evoquent-enjeux-regionaux-et-bilateraux/)
-- [Rentrée scolaire 2025/2026 : le Conseil régional de sécurité de Tunis renforce les mesures de protection](https://lapresse.tn/2025/09/04/rentree-scolaire-2025-2026-le-conseil-regional-de-securite-de-tunis-renforce-les-mesures-de-protection/)
-- [Tozeur lance la première formation en imagerie médicale à distance](https://lapresse.tn/2025/09/04/tozeur-lance-la-premiere-formation-en-imagerie-medicale-a-distance/)
-- [Congestion dans les ports : le retard des conteneurs peut atteindre jusqu’à 21 jours](https://lapresse.tn/2025/09/04/congestion-dans-les-ports-le-retard-des-conteneurs-peut-atteindre-jusqua-21-jours/)
+- [Sept ans après les municipales de 2018 : Y a-t-il encore des communes dans nos quartiers?](https://lapresse.tn/2025/09/04/sept-ans-apres-les-municipales-de-2018-y-a-t-il-encore-des-communes-dans-nos-quartiers/)
+- [Pourquoi – Les fruits secs à portée…](https://lapresse.tn/2025/09/04/pourquoi-les-fruits-secs-a-portee/)
+- [Digitalisation du transport : Un levier pour l’emploi, l’innovation et l’indépendance nationale](https://lapresse.tn/2025/09/04/digitalisation-du-transport-un-levier-pour-lemploi-linnovation-et-lindependance-nationale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [L’Afrique a-t-elle un problème avec la démocratie ? – Par Marwane Ben Yahmed](https://www.jeuneafrique.com/1714493/politique/lafrique-a-t-elle-un-probleme-avec-la-democratie-par-marwane-ben-yahmed/)
 - [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
 - [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
+- [Tchad-Algérie : pourquoi Mahamat Idriss Déby Itno rend visite à Abdelmadjid Tebboune](https://www.jeuneafrique.com/1719038/politique/tchad-algerie-pourquoi-mahamat-idriss-deby-itno-rend-visite-a-abdelmadjid-tebboune/)
 - [Tajmaât, la vigie numérique qui met en lumière le racisme anti-maghrébin en France](https://www.jeuneafrique.com/1718884/politique/tajmaat-la-vigie-numerique-qui-met-en-lumiere-le-racisme-anti-maghrebin-en-france/)
 - [Le Cameroun de Paul Biya est-il vraiment « bamiphobe » ?](https://www.jeuneafrique.com/1718899/politique/le-cameroun-de-paul-biya-est-il-vraiment-bamiphobe/)
 - [Ascension rapide et chute brutale… En RDC, Constant Mutamba a-t-il été victime de ses outrances ?](https://www.jeuneafrique.com/1718875/politique/ascension-rapide-et-chute-brutale-en-rdc-constant-mutamba-a-t-il-ete-victime-de-ses-outrances/)
-- [Présidentielle au Cameroun : Léopold Bessiping, le grand gagnant des recalés](https://www.jeuneafrique.com/1715212/politique/presidentielle-au-cameroun-leopold-bessiping-le-grand-gagnant-des-recales/)
 - [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
 - [Comment Kooul défie le leadership de Glovo au Maroc](https://www.jeuneafrique.com/1719011/economie-entreprises/comment-kooul-defie-le-leadership-de-glovo-au-maroc/)
 
