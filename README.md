@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 18:14*
+*Generato: 04 Sep 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
+- [Kaïs Saïed de retour à Tunis après sa visite officielle à Alger](https://lapresse.tn/2025/09/04/kais-saied-de-retour-a-tunis-apres-sa-visite-officielle-a-alger/)
+- [Énergies renouvelables et gestion des eaux usées : Une entreprise française intéressée par le site tunisien](https://lapresse.tn/2025/09/04/energies-renouvelables-et-gestion-des-eaux-usees-une-entreprise-francaise-interessee-par-le-site-tunisien/)
 - [Sport scolaire et universitaire : Réformer le secteur pour faire éclore les talents](https://lapresse.tn/2025/09/04/sport-scolaire-et-universitaire-reformer-le-secteur-pour-faire-eclore-les-talents/)
+- [Le président Kaïs Saïed à l’ouverture de l’IATF 2025: “Le rêve africain des générations passées vivra et se réalisera”](https://lapresse.tn/2025/09/04/258174/)
 - [Transport et conservation des aliments : Des dossiers à prendre en main](https://lapresse.tn/2025/09/04/transport-et-conservation-des-aliments-des-dossiers-a-prendre-en-main/)
 - [Gafsa : Un projet pilote pour transformer les pistaches en levier économique](https://lapresse.tn/2025/09/04/gafsa-un-projet-pilote-pour-transformer-les-pistaches-en-levier-economique/)
-- [Le président Kaïs Saïed à l’ouverture de l’IATF 2025: “Le rêve africain des générations passées vivra et se réalisera”](https://lapresse.tn/2025/09/04/258174/)
-- [IATF 2025 : un atelier dédié à la Tunisie pour valoriser son industrie automobile et sa stratégie ZLECAf](https://lapresse.tn/2025/09/04/iatf-2025-un-atelier-dedie-a-la-tunisie-pour-valoriser-son-industrie-automobile-et-sa-strategie-zlecaf/)
-- [Météo : soleil et légère hausse des températures ce jeudi](https://lapresse.tn/2025/09/04/meteo-soleil-et-legere-hausse-des-temperatures-ce-jeudi/)
 - [Sept ans après les municipales de 2018 : Y a-t-il encore des communes dans nos quartiers?](https://lapresse.tn/2025/09/04/sept-ans-apres-les-municipales-de-2018-y-a-t-il-encore-des-communes-dans-nos-quartiers/)
 - [Pourquoi – Les fruits secs à portée…](https://lapresse.tn/2025/09/04/pourquoi-les-fruits-secs-a-portee/)
 - [Digitalisation du transport : Un levier pour l’emploi, l’innovation et l’indépendance nationale](https://lapresse.tn/2025/09/04/digitalisation-du-transport-un-levier-pour-lemploi-linnovation-et-lindependance-nationale/)
