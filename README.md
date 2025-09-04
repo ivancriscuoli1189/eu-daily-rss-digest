@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 06:15*
+*Generato: 04 Sep 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Briser le blocus](https://lapresse.tn/2025/09/03/briser-le-blocus/)
+- [« Mystic Lamps » de Hassen Jeljeli, designer lumière à la Paris Design Week : Participation distinguée](https://lapresse.tn/2025/09/04/mystic-lamps-de-hassen-jeljeli-designer-lumiere-a-la-paris-design-week-participation-distinguee/)
+- [Rentrée scolaire 2025/2026 : le Conseil régional de sécurité de Tunis renforce les mesures de protection](https://lapresse.tn/2025/09/04/rentree-scolaire-2025-2026-le-conseil-regional-de-securite-de-tunis-renforce-les-mesures-de-protection/)
+- [Tozeur lance la première formation en imagerie médicale à distance](https://lapresse.tn/2025/09/04/tozeur-lance-la-premiere-formation-en-imagerie-medicale-a-distance/)
+- [Rencontre de haut niveau à Alger : Kaïs Saïed et Tebboune évoquent enjeux régionaux et bilatéraux](https://lapresse.tn/2025/09/04/rencontre-de-haut-niveau-a-alger-kais-saied-et-tebboune-evoquent-enjeux-regionaux-et-bilateraux/)
+- [Kaïs Saïed en Algérie à l’IATF 2025 : Renforcer le partenariat tuniso-algérien et l’intégration africaine](https://lapresse.tn/2025/09/04/kais-saied-en-algerie-a-liatf-2025-renforcer-le-partenariat-tuniso-algerien-et-lintegration-africaine/)
 - [Santé: renforcer le partenariat avec les anesthésistes-réanimateurs pour optimiser la qualité des soins et la sécurité des patients](https://lapresse.tn/2025/09/03/sante-renforcer-le-partenariat-avec-les-anesthesistes-reanimateurs-pour-optimiser-la-qualite-des-soins-et-la-securite-des-patients/)
-- [UE: 68 milliards d’euros alloués à l’Afrique pour la gestion de l’immigration clandestine](https://lapresse.tn/2025/09/03/ue-68-milliards-deuros-alloues-a-lafrique-pour-la-gestion-de-limmigration-clandestine/)
-- [L’île de Djerba accueille la 2ème édition de « Djerba World Heritage days »](https://lapresse.tn/2025/09/03/lile-de-djerba-accueille-la-2eme-edition-de-djerba-world-heritage-days/)
-- [Kaïs Saïed instruit une réaction ferme après la mort d’un Tunisien à Marseille](https://lapresse.tn/2025/09/03/kais-saied-instruit-une-reaction-ferme-apres-la-mort-dun-tunisien-a-marseille/)
-- [Zones industrielles: mise en place d’un comité pour évaluer les stations de pompage d’eau](https://lapresse.tn/2025/09/03/zones-industrielles-mise-en-place-dun-comite-pour-evaluer-les-stations-de-pompage-deau/)
-- [Le ministère de l’Équipement et de l’Habitat évalue l’efficacité de son portail de services en ligne](https://lapresse.tn/2025/09/03/le-ministere-de-lequipement-et-de-lhabitat-evalue-lefficacite-de-son-portail-de-services-en-ligne/)
 - [Le ministre de l’Enseignement supérieur s’engage à garantir le succès de la nouvelle année universitaire](https://lapresse.tn/2025/09/03/le-ministre-de-lenseignement-superieur-sengage-a-garantir-le-succes-de-la-nouvelle-annee-universitaire/)
 - [Finies Les vacances : Qu’en a-t-on fait ?](https://lapresse.tn/2025/09/03/finies-les-vacances-quen-a-t-on-fait/)
-- [Tunis : ouverture du passage sous le pont entre Djebel Jelloud et La Cagna](https://lapresse.tn/2025/09/02/tunis-ouverture-du-passage-sous-le-pont-entre-djebel-jelloud-et-la-cagna/)
+- [Le « copycat intelligent » : la stratégie imparable des startups arabes selon Arab Founders](https://lapresse.tn/2025/09/03/le-copycat-intelligent-la-strategie-imparable-des-startups-arabes-selon-arab-founders/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
+- [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
+- [Présidentielle au Cameroun : Léopold Bessiping, le grand gagnant des recalés](https://www.jeuneafrique.com/1715212/politique/presidentielle-au-cameroun-leopold-bessiping-le-grand-gagnant-des-recales/)
 - [À La Marsa, le saccage du magasin Carrefour est-il le signe d’une hostilité anti-française en Tunisie ?](https://www.jeuneafrique.com/1718681/politique/a-la-marsa-le-saccage-du-magasin-carrefour-est-il-le-signe-dune-hostilite-anti-francaise-en-tunisie/)
 - [La mission de l’ONU en Libye craint une « escalade rapide des tensions » à Tripoli](https://www.jeuneafrique.com/1718823/politique/la-mission-de-lonu-en-libye-craint-une-escalade-rapide-des-tensions-a-tripoli/)
 - [Présidentielle au Bénin : comment Romuald Wadagni a été désigné candidat et dauphin de Patrice Talon](https://www.jeuneafrique.com/1718712/politique/presidentielle-au-benin-comment-romuald-wadagni-a-ete-designe-candidat-et-dauphin-de-patrice-talon/)
 - [Anicet-Georges Dologuélé : « Pourquoi je renonce à la nationalité française »](https://www.jeuneafrique.com/1718766/politique/anicet-georges-dologuele-pourquoi-je-renonce-a-la-nationalite-francaise/)
 - [En RDC, Constant Mutamba est condamné à trois ans de travaux forcés](https://www.jeuneafrique.com/1718670/politique/en-rdc-constant-mutamba-est-condamne-a-trois-ans-de-travaux-forces/)
-- [Présidentielle en Côte d’Ivoire : Guillaume Soro, pas candidat, mais au cœur des rumeurs](https://www.jeuneafrique.com/1718488/politique/presidentielle-en-cote-divoire-guillaume-soro-pas-candidat-mais-au-coeur-des-rumeurs/)
-- [Sahara occidental : l’eurodéputée française Rima Hassan tacle Alger et le Polisario](https://www.jeuneafrique.com/1718467/politique/sahara-occidental-leurodeputee-francaise-rima-hassan-tacle-alger-et-le-polisario/)
-- [En RDC, Joseph Kabila met Félix Tshisekedi en garde : « Tôt ou tard, la supercherie sera évidente pour tous »](https://www.jeuneafrique.com/1718605/politique/en-rdc-joseph-kabila-met-felix-tshisekedi-en-garde-tot-ou-tard-la-supercherie-sera-evidente-pour-tous/)
 - [Après l’Afrique australe, le fonds qatari Al Mansour fait cap sur la RDC](https://www.jeuneafrique.com/1718993/economie-entreprises/apres-lafrique-australe-le-fonds-qatari-al-mansour-fait-cap-sur-la-rdc/)
-- [RDC : Louis Watum, le ministre « capitaine d’industrie » au cœur du deal minier avec les États-Unis](https://www.jeuneafrique.com/1718820/economie-entreprises/rdc-louis-watum-le-ministre-capitaine-dindustrie-au-coeur-du-deal-minier-avec-les-etats-unis/)
+- [Qui est Huaxin Cement, le chinois qui veut se faire une place parmi les rois nigérians du ciment ?](https://www.jeuneafrique.com/1718701/economie-entreprises/qui-est-huaxin-cement-le-chinois-qui-veut-se-faire-une-place-parmi-les-rois-nigerians-du-ciment/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
