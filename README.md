@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 13:20*
+*Generato: 04 Sep 2025, 15:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
 - [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
@@ -91,7 +92,6 @@
 - [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
 - [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 - [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
-- [Ukraine: MEPs encourage EU reforms and urge opening of negotiation clusters](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29625/ukraine-meps-encourage-eu-reforms-and-urge-opening-of-negotiation-clusters)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Briser le blocus](https://lapresse.tn/2025/09/03/briser-le-blocus/)
-- [Congestion dans les ports : le retard des conteneurs peut atteindre jusqu’à 21 jours](https://lapresse.tn/2025/09/04/congestion-dans-les-ports-le-retard-des-conteneurs-peut-atteindre-jusqua-21-jours/)
+- [Le président Kaïs Saïed à l’ouverture de l’IATF 2025: “Le rêve africain des générations passées vivra et se réalisera”](https://lapresse.tn/2025/09/04/258174/)
+- [Mouled : Quand les murs de Sidi Mehrez vibrent au rythme des confréries](https://lapresse.tn/2025/09/04/mouled-quand-les-murs-de-sidi-mehrez-vibrent-au-rythme-des-confreries/)
+- [Fondation Fidaa : l’hébergement scolaire et universitaire gratuit pour les enfants des martyrs](https://lapresse.tn/2025/09/04/fondation-fidaa-lhebergement-scolaire-et-universitaire-gratuit-pour-les-enfants-des-martyrs/)
 - [IATF 2025 : un atelier dédié à la Tunisie pour valoriser son industrie automobile et sa stratégie ZLECAf](https://lapresse.tn/2025/09/04/iatf-2025-un-atelier-dedie-a-la-tunisie-pour-valoriser-son-industrie-automobile-et-sa-strategie-zlecaf/)
-- [Le Portugal en deuil : 15 personnes perdent la vie dans le déraillement d’un tramway](https://lapresse.tn/2025/09/04/le-portugal-en-deuil-15-personnes-perdent-la-vie-dans-le-deraillement-dun-tramway/)
 - [Météo : soleil et légère hausse des températures ce jeudi](https://lapresse.tn/2025/09/04/meteo-soleil-et-legere-hausse-des-temperatures-ce-jeudi/)
 - [Rencontre de haut niveau à Alger : Kaïs Saïed et Tebboune évoquent enjeux régionaux et bilatéraux](https://lapresse.tn/2025/09/04/rencontre-de-haut-niveau-a-alger-kais-saied-et-tebboune-evoquent-enjeux-regionaux-et-bilateraux/)
-- [Kaïs Saïed en Algérie à l’IATF 2025 : Renforcer le partenariat tuniso-algérien et l’intégration africaine](https://lapresse.tn/2025/09/04/kais-saied-en-algerie-a-liatf-2025-renforcer-le-partenariat-tuniso-algerien-et-lintegration-africaine/)
 - [Rentrée scolaire 2025/2026 : le Conseil régional de sécurité de Tunis renforce les mesures de protection](https://lapresse.tn/2025/09/04/rentree-scolaire-2025-2026-le-conseil-regional-de-securite-de-tunis-renforce-les-mesures-de-protection/)
 - [Tozeur lance la première formation en imagerie médicale à distance](https://lapresse.tn/2025/09/04/tozeur-lance-la-premiere-formation-en-imagerie-medicale-a-distance/)
-- [Le ministre de l’Enseignement supérieur s’engage à garantir le succès de la nouvelle année universitaire](https://lapresse.tn/2025/09/03/le-ministre-de-lenseignement-superieur-sengage-a-garantir-le-succes-de-la-nouvelle-annee-universitaire/)
+- [Congestion dans les ports : le retard des conteneurs peut atteindre jusqu’à 21 jours](https://lapresse.tn/2025/09/04/congestion-dans-les-ports-le-retard-des-conteneurs-peut-atteindre-jusqua-21-jours/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Oligui Nguema peut-il réinventer la vie politique au Gabon ?](https://www.jeuneafrique.com/1710897/politique/oligui-nguema-peut-il-reinventer-la-vie-politique-au-gabon/)
+- [En Afrique, Donald Trump pourrait mettre les Casques bleus à la diète](https://www.jeuneafrique.com/1719154/politique/en-afrique-donald-trump-pourrait-mettre-les-casques-bleus-a-la-diete/)
+- [L’Afrique a-t-elle un problème avec la démocratie ? – Par Marwane Ben Yahmed](https://www.jeuneafrique.com/1714493/politique/lafrique-a-t-elle-un-probleme-avec-la-democratie-par-marwane-ben-yahmed/)
 - [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
 - [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
 - [Tajmaât, la vigie numérique qui met en lumière le racisme anti-maghrébin en France](https://www.jeuneafrique.com/1718884/politique/tajmaat-la-vigie-numerique-qui-met-en-lumiere-le-racisme-anti-maghrebin-en-france/)
+- [Le Cameroun de Paul Biya est-il vraiment « bamiphobe » ?](https://www.jeuneafrique.com/1718899/politique/le-cameroun-de-paul-biya-est-il-vraiment-bamiphobe/)
 - [Ascension rapide et chute brutale… En RDC, Constant Mutamba a-t-il été victime de ses outrances ?](https://www.jeuneafrique.com/1718875/politique/ascension-rapide-et-chute-brutale-en-rdc-constant-mutamba-a-t-il-ete-victime-de-ses-outrances/)
 - [Présidentielle au Cameroun : Léopold Bessiping, le grand gagnant des recalés](https://www.jeuneafrique.com/1715212/politique/presidentielle-au-cameroun-leopold-bessiping-le-grand-gagnant-des-recales/)
-- [À La Marsa, le saccage du magasin Carrefour est-il le signe d’une hostilité anti-française en Tunisie ?](https://www.jeuneafrique.com/1718681/politique/a-la-marsa-le-saccage-du-magasin-carrefour-est-il-le-signe-dune-hostilite-anti-francaise-en-tunisie/)
-- [La mission de l’ONU en Libye craint une « escalade rapide des tensions » à Tripoli](https://www.jeuneafrique.com/1718823/politique/la-mission-de-lonu-en-libye-craint-une-escalade-rapide-des-tensions-a-tripoli/)
+- [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
 - [Comment Kooul défie le leadership de Glovo au Maroc](https://www.jeuneafrique.com/1719011/economie-entreprises/comment-kooul-defie-le-leadership-de-glovo-au-maroc/)
-- [Agence française de développement : Emmanuel Macron soutiendra-t-il Rémy Rioux pour un 4e mandat ?](https://www.jeuneafrique.com/1718877/economie-entreprises/agence-francaise-de-developpement-emmanuel-macron-soutiendra-t-il-remy-rioux-pour-un-4e-mandat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
