@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 06:15*
+*Generato: 05 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
-- [Kaïs Saïed de retour à Tunis après sa visite officielle à Alger](https://lapresse.tn/2025/09/04/kais-saied-de-retour-a-tunis-apres-sa-visite-officielle-a-alger/)
-- [Énergies renouvelables et gestion des eaux usées : Une entreprise française intéressée par le site tunisien](https://lapresse.tn/2025/09/04/energies-renouvelables-et-gestion-des-eaux-usees-une-entreprise-francaise-interessee-par-le-site-tunisien/)
-- [Sport scolaire et universitaire : Réformer le secteur pour faire éclore les talents](https://lapresse.tn/2025/09/04/sport-scolaire-et-universitaire-reformer-le-secteur-pour-faire-eclore-les-talents/)
-- [Le président Kaïs Saïed à l’ouverture de l’IATF 2025: “Le rêve africain des générations passées vivra et se réalisera”](https://lapresse.tn/2025/09/04/258174/)
+- [Lutte antidrogue : Jebabli clarifie ses déclarations et dénonce une manipulation](https://lapresse.tn/2025/09/05/lutte-antidrogue-jebabli-clarifie-ses-declarations-et-denonce-une-manipulation/)
+- [Sousse : arrivée d’un navire de croisière avec près d’une centaine de touristes européens](https://lapresse.tn/2025/09/05/sousse-arrivee-dun-navire-de-croisiere-avec-pres-dune-centaine-de-touristes-europeens/)
+- [Deux enfants perdent la vie dans un accident de la route à Monastir](https://lapresse.tn/2025/09/05/deux-enfants-perdent-la-vie-dans-un-accident-de-la-route-a-monastir/)
+- [Ouverture de la 4e Foire Commerciale Intra-Africaine à Alger : Kaïs Saïed appelle à un nouvel ordre africain et mondial](https://lapresse.tn/2025/09/05/ouverture-de-la-4e-foire-commerciale-intra-africaine-a-alger-kais-saied-appelle-a-un-nouvel-ordre-africain-et-mondial/)
+- [Météo : stabilité des températures et risques d’orages ce vendredi](https://lapresse.tn/2025/09/05/meteo-stabilite-des-temperatures-et-risques-dorages-ce-vendredi/)
+- [Examen du budget 2026 : un député exige un bilan préalable de l’année 2025](https://lapresse.tn/2025/09/05/examen-du-budget-2026-un-depute-exige-un-bilan-prealable-de-lannee-2025/)
 - [Transport et conservation des aliments : Des dossiers à prendre en main](https://lapresse.tn/2025/09/04/transport-et-conservation-des-aliments-des-dossiers-a-prendre-en-main/)
 - [Gafsa : Un projet pilote pour transformer les pistaches en levier économique](https://lapresse.tn/2025/09/04/gafsa-un-projet-pilote-pour-transformer-les-pistaches-en-levier-economique/)
 - [Sept ans après les municipales de 2018 : Y a-t-il encore des communes dans nos quartiers?](https://lapresse.tn/2025/09/04/sept-ans-apres-les-municipales-de-2018-y-a-t-il-encore-des-communes-dans-nos-quartiers/)
-- [Pourquoi – Les fruits secs à portée…](https://lapresse.tn/2025/09/04/pourquoi-les-fruits-secs-a-portee/)
-- [Digitalisation du transport : Un levier pour l’emploi, l’innovation et l’indépendance nationale](https://lapresse.tn/2025/09/04/digitalisation-du-transport-un-levier-pour-lemploi-linnovation-et-lindependance-nationale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise Mali-Algérie : Bamako saisit la Cour internationale de justice](https://www.jeuneafrique.com/1719622/politique/crise-mali-algerie-bamako-saisit-la-cour-internationale-de-justice/)
+- [En Guinée, l’interdiction du congrès de l’UFDG de Cellou Dalein Diallo maintenu par la justice](https://www.jeuneafrique.com/1719597/politique/en-guinee-linterdiction-du-congres-de-lufdg-de-cellou-dalein-diallo-maintenu-par-la-justice/)
 - [En Afrique, Donald Trump pourrait mettre les Casques bleus à la diète](https://www.jeuneafrique.com/1719154/politique/en-afrique-donald-trump-pourrait-mettre-les-casques-bleus-a-la-diete/)
 - [En nommant le général Boutrig à la tête de la sécurité informatique, Rabat veut donner un nouveau souffle à ses moyens de cyberguerre](https://www.jeuneafrique.com/1719107/politique/en-nommant-le-general-boutrig-a-la-tete-de-la-securite-informatique-rabat-veut-donner-un-nouveau-souffle-a-ses-moyens-de-cyberguerre/)
+- [Oligui Nguema peut-il réinventer la vie politique au Gabon ?](https://www.jeuneafrique.com/1710897/politique/oligui-nguema-peut-il-reinventer-la-vie-politique-au-gabon/)
+- [RDC : l’UDPS veut-elle la tête de Vital Kamerhe ?](https://www.jeuneafrique.com/1719160/politique/rdc-ludps-veut-elle-la-tete-de-vital-kamerhe/)
 - [L’Afrique a-t-elle un problème avec la démocratie ? – Par Marwane Ben Yahmed](https://www.jeuneafrique.com/1714493/politique/lafrique-a-t-elle-un-probleme-avec-la-democratie-par-marwane-ben-yahmed/)
 - [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
-- [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
-- [Tchad-Algérie : pourquoi Mahamat Idriss Déby Itno rend visite à Abdelmadjid Tebboune](https://www.jeuneafrique.com/1719038/politique/tchad-algerie-pourquoi-mahamat-idriss-deby-itno-rend-visite-a-abdelmadjid-tebboune/)
-- [Tajmaât, la vigie numérique qui met en lumière le racisme anti-maghrébin en France](https://www.jeuneafrique.com/1718884/politique/tajmaat-la-vigie-numerique-qui-met-en-lumiere-le-racisme-anti-maghrebin-en-france/)
-- [Le Cameroun de Paul Biya est-il vraiment « bamiphobe » ?](https://www.jeuneafrique.com/1718899/politique/le-cameroun-de-paul-biya-est-il-vraiment-bamiphobe/)
 - [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
-- [Comment Kooul défie le leadership de Glovo au Maroc](https://www.jeuneafrique.com/1719011/economie-entreprises/comment-kooul-defie-le-leadership-de-glovo-au-maroc/)
+- [Pourquoi le départ surprise de Mihretu n’est pas un bon signal pour l’Éthiopie](https://www.jeuneafrique.com/1719345/economie-entreprises/pourquoi-le-depart-surprise-de-mihretu-nest-pas-un-bon-signal-pour-lethiopie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
