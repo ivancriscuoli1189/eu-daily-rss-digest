@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 15:10*
+*Generato: 05 Sep 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
-- [Boule lyonnaise – Championnat d’Afrique : la Tunisie décroche deux médailles d’or](https://lapresse.tn/2025/09/05/boule-lyonnaise-championnat-dafrique-la-tunisie-decroche-deux-medailles-dor/)
-- [Lionel Messi : « Je ne pense pas que je participerai à la prochaine Coupe du monde »](https://lapresse.tn/2025/09/05/lionel-messi-je-ne-pense-pas-que-je-participerai-a-la-prochaine-coupe-du-monde/)
-- [Le ministère des Affaires étrangères reçoit la famille du défunt Dhibi tué à Marseille](https://lapresse.tn/2025/09/05/le-ministere-des-affaires-etrangeres-recoit-la-famille-du-defunt-dhibi-tue-a-marseille/)
-- [Un ingénieur tunisien résident à l’étranger offre un bien immobilier d’un milliard à SOS Village d’Enfants à Sfax](https://lapresse.tn/2025/09/05/un-ingenieur-tunisien-resident-a-letranger-offre-un-bien-immobilier-dun-milliard-a-sos-village-denfants-a-sfax/)
-- [À partir du 8 septembre, attribution des logements universitaires aux autres étudiants concernés](https://lapresse.tn/2025/09/05/a-partir-du-8-septembre-attribution-des-logements-universitaires-aux-autres-etudiants-concernes/)
-- [Jeune tunisien tué à Marseille : un collectif d’avocats va déposer plainte](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-un-collectif-davocats-va-deposer-plainte/)
-- [Arrêt de la circulation de la ligne TGM entre les stations « Kheireddine » et « La Marsa Plage »](https://lapresse.tn/2025/09/05/arret-de-la-circulation-de-la-ligne-tgm-entre-les-stations-kheireddine-et-la-marsa-plage/)
-- [CPG-Mdhilla 1: les agents débraient et arrêtent la production](https://lapresse.tn/2025/09/05/cpg-mdhilla-1-les-agents-debraient-et-arretent-la-production/)
-- [267 coupures d’eau et perturbations non annoncées enregistrées en août](https://lapresse.tn/2025/09/05/267-coupures-deau-et-perturbations-non-annoncees-enregistrees-en-aout/)
+- [La dignité n’a pas de prix](https://lapresse.tn/2025/09/05/la-dignite-na-pas-de-prix/)
+- [Sarra Zaafrani Zenzri : vers une éducation équitable et innovante en Tunisie](https://lapresse.tn/2025/09/05/sarra-zaafrani-zenzri-vers-une-education-equitable-et-innovante-en-tunisie/)
+- [Récap du FIFAK 2025 : Comme par miracle !](https://lapresse.tn/2025/09/05/recap-du-fifak-2025-comme-par-miracle/)
+- [Symphonie du Club Africain à Oudhna : Des tribunes à l’orchestre](https://lapresse.tn/2025/09/05/symphonie-du-club-africain-a-oudhna-des-tribunes-a-lorchestre/)
+- [Orages et pluies éparses prévus ce soir dans plusieurs régions tunisiennes](https://lapresse.tn/2025/09/05/orages-et-pluies-eparses-prevus-ce-soir-dans-plusieurs-regions-tunisiennes/)
+- [164e Session du Conseil des MAE de la Ligue des états Arabes au Caire : Le renforcement de l’action arabe commune à l’ordre du jour](https://lapresse.tn/2025/09/05/164e-session-du-conseil-des-mae-de-la-ligue-des-etats-arabes-au-caire-le-renforcement-de-laction-arabe-commune-a-lordre-du-jour/)
+- [Réunion Consultative du Conseil de la Ligue des États arabes face à la menace sioniste : Appel au Conseil de sécurité à mettre fin immédiatement au génocide contre les Palestiniens](https://lapresse.tn/2025/09/05/reunion-consultative-du-conseil-de-la-ligue-des-etats-arabes-face-a-la-menace-sioniste-appel-au-conseil-de-securite-a-mettre-fin-immediatement-au-genocide-contre-les-palestiniens/)
+- [Vandalisme : Qui chuchote à l’oreille des jeunes délinquants ?](https://lapresse.tn/2025/09/05/vandalisme-qui-chuchote-a-loreille-des-jeunes-delinquants/)
+- [Les prix à la consommation affichent une hausse mensuelle de 0,3% en août 2025](https://lapresse.tn/2025/09/05/les-prix-a-la-consommation-affichent-une-hausse-mensuelle-de-03-en-aout-2025/)
+- [Gafsa – Soldes : Des vitrines pleines, des clients dubitatifs](https://lapresse.tn/2025/09/05/gafsa-soldes-des-vitrines-pleines-des-clients-dubitatifs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [The ICJ joins other international human rights NGOs in demanding the renewal of the mandate of the UN Special Rapporteur on the situation of human rights in the Russian Federation](https://www.icj.org/the-icj-joins-other-international-human-rights-ngos-in-demanding-the-renewal-of-the-mandate-of-the-un-special-rapporteur-on-the-situation-of-human-rights-in-the-russian-federation/)
 - [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
 - [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
-- [ICJ communication to the International Court of Justice urging the investigation of the Court’s Vice-President](https://www.icj.org/icj-communication-to-the-international-court-of-justice-urging-the-investigation-of-the-courts-vice-president/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
 - [Israel/Palestine: Immediately halt Gaza’s occupation plan](https://www.icj.org/israel-palestine-immediately-halt-gazas-occupation-plan/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le non-voyage d’Ousmane Sonko à Paris : rupture ou simple rendez-vous manqué ?](https://www.jeuneafrique.com/1719695/politique/le-non-voyage-dousmane-sonko-a-paris-rupture-ou-simple-rendez-vous-manque/)
 - [FARDC, M23, FDLR… Dans l’est de la RDC, de possibles crimes de guerre relevés par l’ONU](https://www.jeuneafrique.com/1719767/politique/fardc-m23-fdlr-dans-lest-de-la-rdc-de-possibles-crimes-de-guerre-releves-par-lonu/)
 - [Crise Mali-Algérie : Bamako saisit la Cour internationale de justice](https://www.jeuneafrique.com/1719622/politique/crise-mali-algerie-bamako-saisit-la-cour-internationale-de-justice/)
 - [En Guinée, l’interdiction du congrès de l’UFDG de Cellou Dalein Diallo maintenu par la justice](https://www.jeuneafrique.com/1719597/politique/en-guinee-linterdiction-du-congres-de-lufdg-de-cellou-dalein-diallo-maintenu-par-la-justice/)
+- [L’Afrique du Sud et Thabo Mbeki sont-ils bien placés pour régler les problèmes de la RDC ?](https://www.jeuneafrique.com/1719250/politique/lafrique-du-sud-et-thabo-mbeki-sont-ils-bien-places-pour-regler-les-problemes-de-la-rdc/)
+- [Guinée : Alpha Condé, quatre ans de solitude](https://www.jeuneafrique.com/1719235/politique/guinee-alpha-conde-quatre-ans-de-solitude/)
 - [Burkina Faso : cinq mesures à retenir du nouveau code de la famille](https://www.jeuneafrique.com/1719271/politique/burkina-faso-cinq-mesures-a-retenir-du-nouveau-code-de-la-famille/)
 - [Raser pour reconstruire : comment Ousmane Sonko compte transformer Dakar](https://www.jeuneafrique.com/1718858/politique/raser-pour-reconstruire-comment-ousmane-sonko-compte-transformer-dakar/)
-- [En Afrique, Donald Trump pourrait mettre les Casques bleus à la diète](https://www.jeuneafrique.com/1719154/politique/en-afrique-donald-trump-pourrait-mettre-les-casques-bleus-a-la-diete/)
-- [En nommant le général Boutrig à la tête de la sécurité informatique, Rabat veut donner un nouveau souffle à ses moyens de cyberguerre](https://www.jeuneafrique.com/1719107/politique/en-nommant-le-general-boutrig-a-la-tete-de-la-securite-informatique-rabat-veut-donner-un-nouveau-souffle-a-ses-moyens-de-cyberguerre/)
-- [Oligui Nguema peut-il réinventer la vie politique au Gabon ?](https://www.jeuneafrique.com/1710897/politique/oligui-nguema-peut-il-reinventer-la-vie-politique-au-gabon/)
+- [Abidjan-Paris : Air Côte d’Ivoire se lance sur le marché très disputé du long-courrier](https://www.jeuneafrique.com/1719603/economie-entreprises/abidjan-paris-air-cote-divoire-se-lance-sur-le-marche-tres-dispute-du-long-courrier/)
 - [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
-- [Pourquoi le départ surprise de Mihretu n’est pas un bon signal pour l’Éthiopie](https://www.jeuneafrique.com/1719345/economie-entreprises/pourquoi-le-depart-surprise-de-mihretu-nest-pas-un-bon-signal-pour-lethiopie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
