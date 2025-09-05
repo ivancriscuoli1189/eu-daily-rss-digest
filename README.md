@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 11:02*
+*Generato: 05 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
+- [Arrêt de la circulation de la ligne TGM entre les stations « Kheireddine » et « La Marsa Plage »](https://lapresse.tn/2025/09/05/arret-de-la-circulation-de-la-ligne-tgm-entre-les-stations-kheireddine-et-la-marsa-plage/)
+- [Jeune tunisien tué à Marseille : un collectif d’avocats va déposer plainte](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-un-collectif-davocats-va-deposer-plainte/)
+- [CPG-Mdhilla 1: les agents débraient et arrêtent la production](https://lapresse.tn/2025/09/05/cpg-mdhilla-1-les-agents-debraient-et-arretent-la-production/)
+- [Médicaments : retour progressif de l’approvisionnement dès le début de la semaine prochaine](https://lapresse.tn/2025/09/05/medicaments-retour-progressif-a-lapprovisionnement-des-le-debut-de-la-semaine-prochaine/)
 - [Jeune tunisien tué à Marseille : la dépouille rapatriée aujourd’hui à Tunis](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-la-depouille-rapatriee-aujourdhui-a-tunis/)
-- [Un navire de sauvetage italien géant rallie la « Flottille de la Résilience » en route pour Gaza](https://lapresse.tn/2025/09/05/un-navire-de-sauvetage-italien-geant-rallie-la-flottille-de-la-resilience-en-route-pour-gaza/)
 - [Kairouan – A l’occasion du Mouled : La cité aghlabide submergée par des foules](https://lapresse.tn/2025/09/05/kairouan-a-loccasion-du-mouled-la-cite-aghlabide-submergee-par-des-foules/)
-- [Kairouan – A l’occasion du Mouled : Succès des expositions de produits artisanaux](https://lapresse.tn/2025/09/05/kairouan-a-loccasion-du-mouled-succes-des-expositions-de-produits-artisanaux/)
-- [Kairouan – A l’occasion du Mouled : Le souk Nhaïssia bien achalandé](https://lapresse.tn/2025/09/05/kairouan-a-loccasion-du-mouled-le-souk-nhaissia-bien-achalande/)
-- [Vers l’adoption d’un système de télémédecine dans plusieurs spécialités](https://lapresse.tn/2025/09/05/vers-ladoption-dun-systeme-de-telemedecine-dans-plusieurs-specialites/)
-- [Sousse : évacuation des vendeurs de fripes à Bab Jebli](https://lapresse.tn/2025/09/05/sousse-evacuation-des-vendeurs-de-fripes-a-bab-jebli/)
-- [Deux enfants perdent la vie dans un accident de la route à Monastir](https://lapresse.tn/2025/09/05/deux-enfants-perdent-la-vie-dans-un-accident-de-la-route-a-monastir/)
-- [Transport et conservation des aliments : Des dossiers à prendre en main](https://lapresse.tn/2025/09/04/transport-et-conservation-des-aliments-des-dossiers-a-prendre-en-main/)
+- [267 coupures d’eau et perturbations non annoncées enregistrées en août](https://lapresse.tn/2025/09/05/267-coupures-deau-et-perturbations-non-annoncees-enregistrees-en-aout/)
+- [Jardins d’enfants publics inclusifs: ouverture des inscriptions](https://lapresse.tn/2025/09/05/jardins-denfants-publics-inclusifs-ouverture-des-inscriptions/)
+- [Sousse : arrivée d’un navire de croisière avec près d’une centaine de touristes européens](https://lapresse.tn/2025/09/05/sousse-arrivee-dun-navire-de-croisiere-avec-pres-dune-centaine-de-touristes-europeens/)
 
 ## NGOs – Amnesty International – Tunisia
 
