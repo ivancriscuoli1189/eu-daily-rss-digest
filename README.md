@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Sep 2025, 21:10*
+*Generato: 05 Sep 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
 - [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
 - [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
-- [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
 - [La croissance économique au premier trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-premier-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Afrique, Donald Trump pourrait mettre les Casques bleus à la diète](https://www.jeuneafrique.com/1719154/politique/en-afrique-donald-trump-pourrait-mettre-les-casques-bleus-a-la-diete/)
+- [En nommant le général Boutrig à la tête de la sécurité informatique, Rabat veut donner un nouveau souffle à ses moyens de cyberguerre](https://www.jeuneafrique.com/1719107/politique/en-nommant-le-general-boutrig-a-la-tete-de-la-securite-informatique-rabat-veut-donner-un-nouveau-souffle-a-ses-moyens-de-cyberguerre/)
 - [L’Afrique a-t-elle un problème avec la démocratie ? – Par Marwane Ben Yahmed](https://www.jeuneafrique.com/1714493/politique/lafrique-a-t-elle-un-probleme-avec-la-democratie-par-marwane-ben-yahmed/)
 - [Burkina Faso-Mali : le HCR alerte sur l’arrivée massive de réfugiés burkinabè](https://www.jeuneafrique.com/1719115/politique/burkina-faso-mali-le-hchr-alerte-sur-larrivee-massive-de-refugies-burkinabe/)
 - [Maroc : la militante féministe Ibtissame Lachgar, jugée pour blasphème, condamnée à 30 mois de prison](https://www.jeuneafrique.com/1719130/politique/maroc-la-militante-feministe-ibtissame-lachgar-jugee-pour-blaspheme-condamnee-a-30-mois-de-prison/)
 - [Tchad-Algérie : pourquoi Mahamat Idriss Déby Itno rend visite à Abdelmadjid Tebboune](https://www.jeuneafrique.com/1719038/politique/tchad-algerie-pourquoi-mahamat-idriss-deby-itno-rend-visite-a-abdelmadjid-tebboune/)
 - [Tajmaât, la vigie numérique qui met en lumière le racisme anti-maghrébin en France](https://www.jeuneafrique.com/1718884/politique/tajmaat-la-vigie-numerique-qui-met-en-lumiere-le-racisme-anti-maghrebin-en-france/)
 - [Le Cameroun de Paul Biya est-il vraiment « bamiphobe » ?](https://www.jeuneafrique.com/1718899/politique/le-cameroun-de-paul-biya-est-il-vraiment-bamiphobe/)
-- [Ascension rapide et chute brutale… En RDC, Constant Mutamba a-t-il été victime de ses outrances ?](https://www.jeuneafrique.com/1718875/politique/ascension-rapide-et-chute-brutale-en-rdc-constant-mutamba-a-t-il-ete-victime-de-ses-outrances/)
 - [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
 - [Comment Kooul défie le leadership de Glovo au Maroc](https://www.jeuneafrique.com/1719011/economie-entreprises/comment-kooul-defie-le-leadership-de-glovo-au-maroc/)
 
