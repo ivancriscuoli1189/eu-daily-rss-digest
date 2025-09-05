@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 18:15*
+*Generato: 05 Sep 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La dignité n’a pas de prix](https://lapresse.tn/2025/09/05/la-dignite-na-pas-de-prix/)
-- [Sarra Zaafrani Zenzri : vers une éducation équitable et innovante en Tunisie](https://lapresse.tn/2025/09/05/sarra-zaafrani-zenzri-vers-une-education-equitable-et-innovante-en-tunisie/)
-- [Récap du FIFAK 2025 : Comme par miracle !](https://lapresse.tn/2025/09/05/recap-du-fifak-2025-comme-par-miracle/)
-- [Symphonie du Club Africain à Oudhna : Des tribunes à l’orchestre](https://lapresse.tn/2025/09/05/symphonie-du-club-africain-a-oudhna-des-tribunes-a-lorchestre/)
+- [Décès du réalisateur Mohamed Hadj Slimane, pionnier de la télévision tunisienne](https://lapresse.tn/2025/09/05/deces-du-realisateur-mohamed-hadj-slimane-pionnier-de-la-television-tunisienne/)
+- [Samir Obeid propose un salon commun Tunisie–Algérie–Mauritanie–Libye](https://lapresse.tn/2025/09/05/samir-obeid-propose-un-salon-commun-tunisie-algerie-mauritanie-libye/)
+- [Hausse des réserves en devises de la Tunisie à 25,2 milliards de dinars](https://lapresse.tn/2025/09/05/hausse-des-reserves-en-devises-de-la-tunisie-a-252-milliards-de-dinars/)
+- [Le CNOPT soutient les mesures du gouvernement pour améliorer la gouvernance pharmaceutique](https://lapresse.tn/2025/09/05/le-cnopt-soutient-les-mesures-du-gouvernement-pour-ameliorer-la-gouvernance-pharmaceutique/)
+- [Gabès : Début des travaux d’extension et de requalification de l’hôpital local de Mareth](https://lapresse.tn/2025/09/05/gabes-debut-des-travaux-dextension-et-de-requalification-de-lhopital-local-de-mareth/)
 - [Orages et pluies éparses prévus ce soir dans plusieurs régions tunisiennes](https://lapresse.tn/2025/09/05/orages-et-pluies-eparses-prevus-ce-soir-dans-plusieurs-regions-tunisiennes/)
-- [164e Session du Conseil des MAE de la Ligue des états Arabes au Caire : Le renforcement de l’action arabe commune à l’ordre du jour](https://lapresse.tn/2025/09/05/164e-session-du-conseil-des-mae-de-la-ligue-des-etats-arabes-au-caire-le-renforcement-de-laction-arabe-commune-a-lordre-du-jour/)
-- [Réunion Consultative du Conseil de la Ligue des États arabes face à la menace sioniste : Appel au Conseil de sécurité à mettre fin immédiatement au génocide contre les Palestiniens](https://lapresse.tn/2025/09/05/reunion-consultative-du-conseil-de-la-ligue-des-etats-arabes-face-a-la-menace-sioniste-appel-au-conseil-de-securite-a-mettre-fin-immediatement-au-genocide-contre-les-palestiniens/)
 - [Vandalisme : Qui chuchote à l’oreille des jeunes délinquants ?](https://lapresse.tn/2025/09/05/vandalisme-qui-chuchote-a-loreille-des-jeunes-delinquants/)
 - [Les prix à la consommation affichent une hausse mensuelle de 0,3% en août 2025](https://lapresse.tn/2025/09/05/les-prix-a-la-consommation-affichent-une-hausse-mensuelle-de-03-en-aout-2025/)
 - [Gafsa – Soldes : Des vitrines pleines, des clients dubitatifs](https://lapresse.tn/2025/09/05/gafsa-soldes-des-vitrines-pleines-des-clients-dubitatifs/)
