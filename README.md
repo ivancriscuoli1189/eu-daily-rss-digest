@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 12:17*
+*Generato: 05 Sep 2025, 13:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
-- [Arrêt de la circulation de la ligne TGM entre les stations « Kheireddine » et « La Marsa Plage »](https://lapresse.tn/2025/09/05/arret-de-la-circulation-de-la-ligne-tgm-entre-les-stations-kheireddine-et-la-marsa-plage/)
-- [Jeune tunisien tué à Marseille : un collectif d’avocats va déposer plainte](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-un-collectif-davocats-va-deposer-plainte/)
-- [CPG-Mdhilla 1: les agents débraient et arrêtent la production](https://lapresse.tn/2025/09/05/cpg-mdhilla-1-les-agents-debraient-et-arretent-la-production/)
+- [FAO : les prix mondiaux des produits alimentaires à leur plus haut niveau depuis plus de deux ans](https://lapresse.tn/2025/09/05/fao-les-prix-mondiaux-des-produits-alimentaires-a-leur-plus-haut-niveau-depuis-plus-de-deux-ans/)
+- [Diaspora Tunisienne : vers un encadrement plus strict des transferts de fonds depuis l’Europe](https://lapresse.tn/2025/09/05/diaspora-tunisienne-vers-un-encadrement-plus-strict-des-transferts-de-fonds-depuis-leurope/)
+- [Recul des voyages des Français : la Tunisie résiste mieux que le Maroc](https://lapresse.tn/2025/09/05/recul-des-voyages-des-francais-la-tunisie-resiste-mieux-que-le-maroc/)
 - [Médicaments : retour progressif de l’approvisionnement dès le début de la semaine prochaine](https://lapresse.tn/2025/09/05/medicaments-retour-progressif-a-lapprovisionnement-des-le-debut-de-la-semaine-prochaine/)
 - [Jeune tunisien tué à Marseille : la dépouille rapatriée aujourd’hui à Tunis](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-la-depouille-rapatriee-aujourdhui-a-tunis/)
 - [Kairouan – A l’occasion du Mouled : La cité aghlabide submergée par des foules](https://lapresse.tn/2025/09/05/kairouan-a-loccasion-du-mouled-la-cite-aghlabide-submergee-par-des-foules/)
+- [Arrêt de la circulation de la ligne TGM entre les stations « Kheireddine » et « La Marsa Plage »](https://lapresse.tn/2025/09/05/arret-de-la-circulation-de-la-ligne-tgm-entre-les-stations-kheireddine-et-la-marsa-plage/)
+- [CPG-Mdhilla 1: les agents débraient et arrêtent la production](https://lapresse.tn/2025/09/05/cpg-mdhilla-1-les-agents-debraient-et-arretent-la-production/)
 - [267 coupures d’eau et perturbations non annoncées enregistrées en août](https://lapresse.tn/2025/09/05/267-coupures-deau-et-perturbations-non-annoncees-enregistrees-en-aout/)
-- [Jardins d’enfants publics inclusifs: ouverture des inscriptions](https://lapresse.tn/2025/09/05/jardins-denfants-publics-inclusifs-ouverture-des-inscriptions/)
-- [Sousse : arrivée d’un navire de croisière avec près d’une centaine de touristes européens](https://lapresse.tn/2025/09/05/sousse-arrivee-dun-navire-de-croisiere-avec-pres-dune-centaine-de-touristes-europeens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [FARDC, M23, FDLR… Dans l’est de la RDC, de possibles crimes de guerre relevés par l’ONU](https://www.jeuneafrique.com/1719767/politique/fardc-m23-fdlr-dans-lest-de-la-rdc-de-possibles-crimes-de-guerre-releves-par-lonu/)
 - [Crise Mali-Algérie : Bamako saisit la Cour internationale de justice](https://www.jeuneafrique.com/1719622/politique/crise-mali-algerie-bamako-saisit-la-cour-internationale-de-justice/)
 - [En Guinée, l’interdiction du congrès de l’UFDG de Cellou Dalein Diallo maintenu par la justice](https://www.jeuneafrique.com/1719597/politique/en-guinee-linterdiction-du-congres-de-lufdg-de-cellou-dalein-diallo-maintenu-par-la-justice/)
 - [Burkina Faso : cinq mesures à retenir du nouveau code de la famille](https://www.jeuneafrique.com/1719271/politique/burkina-faso-cinq-mesures-a-retenir-du-nouveau-code-de-la-famille/)
@@ -271,7 +272,6 @@
 - [En Afrique, Donald Trump pourrait mettre les Casques bleus à la diète](https://www.jeuneafrique.com/1719154/politique/en-afrique-donald-trump-pourrait-mettre-les-casques-bleus-a-la-diete/)
 - [En nommant le général Boutrig à la tête de la sécurité informatique, Rabat veut donner un nouveau souffle à ses moyens de cyberguerre](https://www.jeuneafrique.com/1719107/politique/en-nommant-le-general-boutrig-a-la-tete-de-la-securite-informatique-rabat-veut-donner-un-nouveau-souffle-a-ses-moyens-de-cyberguerre/)
 - [Oligui Nguema peut-il réinventer la vie politique au Gabon ?](https://www.jeuneafrique.com/1710897/politique/oligui-nguema-peut-il-reinventer-la-vie-politique-au-gabon/)
-- [RDC : l’UDPS veut-elle la tête de Vital Kamerhe ?](https://www.jeuneafrique.com/1719160/politique/rdc-ludps-veut-elle-la-tete-de-vital-kamerhe/)
 - [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
 - [Pourquoi le départ surprise de Mihretu n’est pas un bon signal pour l’Éthiopie](https://www.jeuneafrique.com/1719345/economie-entreprises/pourquoi-le-depart-surprise-de-mihretu-nest-pas-un-bon-signal-pour-lethiopie/)
 
