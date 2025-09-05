@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 13:20*
+*Generato: 05 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,15 +43,15 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
 - [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
 - [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
-- [La croissance économique au premier trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-premier-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inondations : mieux vaut prévenir…](https://lapresse.tn/2025/09/04/inondations-mieux-vaut-prevenir/)
-- [FAO : les prix mondiaux des produits alimentaires à leur plus haut niveau depuis plus de deux ans](https://lapresse.tn/2025/09/05/fao-les-prix-mondiaux-des-produits-alimentaires-a-leur-plus-haut-niveau-depuis-plus-de-deux-ans/)
-- [Diaspora Tunisienne : vers un encadrement plus strict des transferts de fonds depuis l’Europe](https://lapresse.tn/2025/09/05/diaspora-tunisienne-vers-un-encadrement-plus-strict-des-transferts-de-fonds-depuis-leurope/)
-- [Recul des voyages des Français : la Tunisie résiste mieux que le Maroc](https://lapresse.tn/2025/09/05/recul-des-voyages-des-francais-la-tunisie-resiste-mieux-que-le-maroc/)
-- [Médicaments : retour progressif de l’approvisionnement dès le début de la semaine prochaine](https://lapresse.tn/2025/09/05/medicaments-retour-progressif-a-lapprovisionnement-des-le-debut-de-la-semaine-prochaine/)
-- [Jeune tunisien tué à Marseille : la dépouille rapatriée aujourd’hui à Tunis](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-la-depouille-rapatriee-aujourdhui-a-tunis/)
-- [Kairouan – A l’occasion du Mouled : La cité aghlabide submergée par des foules](https://lapresse.tn/2025/09/05/kairouan-a-loccasion-du-mouled-la-cite-aghlabide-submergee-par-des-foules/)
+- [Boule lyonnaise – Championnat d’Afrique : la Tunisie décroche deux médailles d’or](https://lapresse.tn/2025/09/05/boule-lyonnaise-championnat-dafrique-la-tunisie-decroche-deux-medailles-dor/)
+- [Lionel Messi : « Je ne pense pas que je participerai à la prochaine Coupe du monde »](https://lapresse.tn/2025/09/05/lionel-messi-je-ne-pense-pas-que-je-participerai-a-la-prochaine-coupe-du-monde/)
+- [Le ministère des Affaires étrangères reçoit la famille du défunt Dhibi tué à Marseille](https://lapresse.tn/2025/09/05/le-ministere-des-affaires-etrangeres-recoit-la-famille-du-defunt-dhibi-tue-a-marseille/)
+- [Un ingénieur tunisien résident à l’étranger offre un bien immobilier d’un milliard à SOS Village d’Enfants à Sfax](https://lapresse.tn/2025/09/05/un-ingenieur-tunisien-resident-a-letranger-offre-un-bien-immobilier-dun-milliard-a-sos-village-denfants-a-sfax/)
+- [À partir du 8 septembre, attribution des logements universitaires aux autres étudiants concernés](https://lapresse.tn/2025/09/05/a-partir-du-8-septembre-attribution-des-logements-universitaires-aux-autres-etudiants-concernes/)
+- [Jeune tunisien tué à Marseille : un collectif d’avocats va déposer plainte](https://lapresse.tn/2025/09/05/jeune-tunisien-tue-a-marseille-un-collectif-davocats-va-deposer-plainte/)
 - [Arrêt de la circulation de la ligne TGM entre les stations « Kheireddine » et « La Marsa Plage »](https://lapresse.tn/2025/09/05/arret-de-la-circulation-de-la-ligne-tgm-entre-les-stations-kheireddine-et-la-marsa-plage/)
 - [CPG-Mdhilla 1: les agents débraient et arrêtent la production](https://lapresse.tn/2025/09/05/cpg-mdhilla-1-les-agents-debraient-et-arretent-la-production/)
 - [267 coupures d’eau et perturbations non annoncées enregistrées en août](https://lapresse.tn/2025/09/05/267-coupures-deau-et-perturbations-non-annoncees-enregistrees-en-aout/)
