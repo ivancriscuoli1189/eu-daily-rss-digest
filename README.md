@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 11:02*
+*Generato: 08 Sep 2025, 12:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
-- [Qualifications Mondial 2026 – 8e journée : Guinée Equatoriale-Tunisie (14h00) : Seule la victoire est belle](https://lapresse.tn/2025/09/08/qualifications-mondial-2026-8e-journee-guinee-equatoriale-tunisie-14h00-seule-la-victoire-est-belle/)
-- [Devises : les réserves tunisiennes couvrent 109 jours d’importation](https://lapresse.tn/2025/09/08/devises-les-reserves-tunisiennes-couvrent-109-jours-dimportation/)
-- [Sucre domestique : hausse de 25% des quantités écoulées sur le marché](https://lapresse.tn/2025/09/08/sucre-domestique-hausse-de-25-des-quantites-ecoulees-sur-le-marche/)
+- [Hazem mastouri ou l’age de la maturité : Un buteur hors pair](https://lapresse.tn/2025/09/08/hazem-mastouri-ou-lage-de-la-maturite-un-buteur-hors-pair/)
+- [La Guinée equatoriale, notre adversaire du jour : Redevenir une équipe frisson](https://lapresse.tn/2025/09/08/la-guinee-equatoriale-notre-adversaire-du-jour-redevenir-une-equipe-frisson/)
+- [Turquie : deux policiers tués dans une attaque au commissariat](https://lapresse.tn/2025/09/08/turquie-deux-policiers-tues-dans-une-attaque-au-commissariat/)
 - [La flottille mondiale Soumoud arrive à Sidi Bou Saïd : La Tunisie, carrefour de la solidarité maghrébine et internationale](https://lapresse.tn/2025/09/08/la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said-la-tunisie-carrefour-de-la-solidarite-maghrebine-et-internationale/)
 - [Tunisien tué à Marseille : l’Ordre des avocats tunisiens engage une action à Marseille](https://lapresse.tn/2025/09/08/tunisien-tue-a-marseille-lordre-des-avocats-tunisiens-engage-une-action-a-marseille/)
 - [Météo : Temps orageux et hausse des températures sur la Tunisie](https://lapresse.tn/2025/09/08/meteo-temps-orageux-et-hausse-des-temperatures-sur-la-tunisie/)
+- [Sucre domestique : hausse de 25% des quantités écoulées sur le marché](https://lapresse.tn/2025/09/08/sucre-domestique-hausse-de-25-des-quantites-ecoulees-sur-le-marche/)
 - [12 000 tonnes de pommes de terre stockées en prévision de l’automne](https://lapresse.tn/2025/09/08/12-000-tonnes-de-pommes-de-terre-stockees-en-prevision-de-lautomne/)
 - [Trois kiosques démolis près de la station de Barcelone à Tunis](https://lapresse.tn/2025/09/08/trois-kiosques-demolis-pres-de-la-station-de-barcelone-a-tunis/)
-- [Rentrée scolaire : un coût de 153 dinars pour les élèves de première année](https://lapresse.tn/2025/09/08/rentree-scolaire-un-cout-de-153-dinars-pour-les-eleves-de-premiere-annee/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,11 +272,12 @@
 - [Avec Ibrahim Traoré, l’Afrique est entrée dans l’ère de la post-vérité](https://www.jeuneafrique.com/1719772/politique/avec-ibrahim-traore-lafrique-est-entree-dans-lere-de-la-post-verite/)
 - [Migrants en Mauritanie : l’aide européenne alimente-t-elle la répression ?](https://www.jeuneafrique.com/1719215/politique/migrants-en-mauritanie-comment-laide-europeenne-alimente-la-repression/)
 - [« Blocus » jihadiste dans l’ouest du Mali](https://www.jeuneafrique.com/1719948/politique/blocus-jihadiste-dans-louest-du-mali/)
+- [Burkina Faso : la méthode Traoré pour reprendre la main sur l’or](https://www.jeuneafrique.com/1719704/economie-entreprises/burkina-faso-la-methode-traore-pour-reprendre-la-main-sur-lor/)
 - [Non, la pollution n’est pas le corollaire inévitable du développement](https://www.jeuneafrique.com/1719654/economie-entreprises/non-la-pollution-nest-pas-le-corollaire-inevitable-du-developpement/)
-- [Mohamed Horani (HPS) : « L’Afrique doit faire confiance à ses entreprises pour faire émerger des champions »](https://www.jeuneafrique.com/1719441/economie-entreprises/mohamed-horani-hps-lafrique-doit-faire-confiance-a-ses-entreprises-pour-faire-emerger-des-champions/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
@@ -286,4 +287,3 @@
 - [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
 - [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
 - [Lago Ciad, Boko Haram, Iswap e la grande città di Lagos](https://www.limesonline.com/rubriche/mappe-parlanti/lago-ciad-boko-haram-iswap-e-la-grande-citta-di-lagos-19284332/)
-- [I cavi sottomarini mondiali e lo snodo del Sicily Hub nello Stretto di Sicilia](https://www.limesonline.com/rubriche/mappe-parlanti/i-cavi-sottomarini-mondiali-e-lo-snodo-del-sicily-hub-nello-stretto-di-sicilia-19235621/)
