@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 12:24*
+*Generato: 08 Sep 2025, 13:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
 - [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
-- [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
+- [Tunisie A’ – Une production insuffisante : Ils n’iront pas loin…](https://lapresse.tn/2025/09/08/tunisie-a-une-production-insuffisante-ils-niront-pas-loin/)
 - [Hazem mastouri ou l’age de la maturité : Un buteur hors pair](https://lapresse.tn/2025/09/08/hazem-mastouri-ou-lage-de-la-maturite-un-buteur-hors-pair/)
 - [La Guinée equatoriale, notre adversaire du jour : Redevenir une équipe frisson](https://lapresse.tn/2025/09/08/la-guinee-equatoriale-notre-adversaire-du-jour-redevenir-une-equipe-frisson/)
-- [Turquie : deux policiers tués dans une attaque au commissariat](https://lapresse.tn/2025/09/08/turquie-deux-policiers-tues-dans-une-attaque-au-commissariat/)
 - [La flottille mondiale Soumoud arrive à Sidi Bou Saïd : La Tunisie, carrefour de la solidarité maghrébine et internationale](https://lapresse.tn/2025/09/08/la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said-la-tunisie-carrefour-de-la-solidarite-maghrebine-et-internationale/)
 - [Tunisien tué à Marseille : l’Ordre des avocats tunisiens engage une action à Marseille](https://lapresse.tn/2025/09/08/tunisien-tue-a-marseille-lordre-des-avocats-tunisiens-engage-une-action-a-marseille/)
 - [Météo : Temps orageux et hausse des températures sur la Tunisie](https://lapresse.tn/2025/09/08/meteo-temps-orageux-et-hausse-des-temperatures-sur-la-tunisie/)
