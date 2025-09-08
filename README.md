@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 13:23*
+*Generato: 08 Sep 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
@@ -52,7 +53,6 @@
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
 - [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
 - [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
-- [Indicateurs de l’emploi et du chômage, premier trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-premier-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
-- [Tunisie A’ – Une production insuffisante : Ils n’iront pas loin…](https://lapresse.tn/2025/09/08/tunisie-a-une-production-insuffisante-ils-niront-pas-loin/)
-- [Hazem mastouri ou l’age de la maturité : Un buteur hors pair](https://lapresse.tn/2025/09/08/hazem-mastouri-ou-lage-de-la-maturite-un-buteur-hors-pair/)
-- [La Guinée equatoriale, notre adversaire du jour : Redevenir une équipe frisson](https://lapresse.tn/2025/09/08/la-guinee-equatoriale-notre-adversaire-du-jour-redevenir-une-equipe-frisson/)
-- [La flottille mondiale Soumoud arrive à Sidi Bou Saïd : La Tunisie, carrefour de la solidarité maghrébine et internationale](https://lapresse.tn/2025/09/08/la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said-la-tunisie-carrefour-de-la-solidarite-maghrebine-et-internationale/)
-- [Tunisien tué à Marseille : l’Ordre des avocats tunisiens engage une action à Marseille](https://lapresse.tn/2025/09/08/tunisien-tue-a-marseille-lordre-des-avocats-tunisiens-engage-une-action-a-marseille/)
-- [Météo : Temps orageux et hausse des températures sur la Tunisie](https://lapresse.tn/2025/09/08/meteo-temps-orageux-et-hausse-des-temperatures-sur-la-tunisie/)
+- [Inondations : 70 % des travaux de protection des villes tunisiennes déjà réalisés](https://lapresse.tn/2025/09/08/inondations-70-des-travaux-de-protection-des-villes-tunisiennes-deja-realises/)
+- [Sauvetage d’une tortue sur la plage de Matouia à Gabès](https://lapresse.tn/2025/09/08/sauvetage-dune-tortue-sur-la-plage-de-matouia-a-gabes/)
+- [La Tunisie accueille son premier investissement chinois dans les câbles automobiles](https://lapresse.tn/2025/09/08/la-tunisie-accueille-son-premier-investissement-chinois-dans-les-cables-automobiles/)
+- [Rentrée scolaire : aides de 100 à 120 dinars pour les familles tunisiennes](https://lapresse.tn/2025/09/08/rentree-scolaire-aides-de-100-a-120-dinars-pour-les-familles-tunisiennes/)
+- [Autoroute Tunis – Jelma : le chantier avance à 30 %](https://lapresse.tn/2025/09/08/autoroute-tunis-jelma-le-chantier-avance-a-30/)
+- [Nabeul fournit 70 % du raisin de cuve tunisien mais la production s’essouffle](https://lapresse.tn/2025/09/08/nabeul-fournit-70-du-raisin-de-cuve-tunisien-mais-la-production-sessouffle/)
 - [Sucre domestique : hausse de 25% des quantités écoulées sur le marché](https://lapresse.tn/2025/09/08/sucre-domestique-hausse-de-25-des-quantites-ecoulees-sur-le-marche/)
-- [12 000 tonnes de pommes de terre stockées en prévision de l’automne](https://lapresse.tn/2025/09/08/12-000-tonnes-de-pommes-de-terre-stockees-en-prevision-de-lautomne/)
-- [Trois kiosques démolis près de la station de Barcelone à Tunis](https://lapresse.tn/2025/09/08/trois-kiosques-demolis-pres-de-la-station-de-barcelone-a-tunis/)
+- [Devises : les réserves tunisiennes couvrent 109 jours d’importation](https://lapresse.tn/2025/09/08/devises-les-reserves-tunisiennes-couvrent-109-jours-dimportation/)
+- [Huawei lance le premier Forum africain sur l’Éducation inclusive : promouvoir l’équité éducative grâce aux technologies numériques et intelligentes](https://lapresse.tn/2025/09/08/huawei-lance-le-premier-forum-africain-sur-leducation-inclusive-promouvoir-lequite-educative-grace-aux-technologies-numeriques-et-intelligentes/)
 
 ## NGOs – Amnesty International – Tunisia
 
