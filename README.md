@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 18:14*
+*Generato: 08 Sep 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [Le danseur et chorégraphe Walid Aouni à la Presse : « Le mouvement est l’architecture du corps »](https://lapresse.tn/2025/09/08/le-danseur-et-choregraphe-walid-aouni-a-la-presse-le-mouvement-est-larchitecture-du-corps/)
-- [« La voix de Hind Rajab » a remporté le Lion d’Argent au Festival de Venise. Les mots qu’il faut](https://lapresse.tn/2025/09/08/la-voix-de-hind-rajab-a-remporte-le-lion-dargent-au-festival-de-venise-les-mots-quil-faut/)
-- [Les Rencontres Internationales de la Photographie de Ghar El Melh font leur grand retour : Une 10e édition sous le signe de l’environnement](https://lapresse.tn/2025/09/08/les-rencontres-internationales-de-la-photographie-de-ghar-el-melh-font-leur-grand-retour-une-10e-edition-sous-le-signe-de-lenvironnement/)
+- [Afghanistan : 263.000 enfants touchés par le tremblement de terre de l’Hindu Kush](https://lapresse.tn/2025/09/08/afghanistan-263-000-enfants-touches-par-le-tremblement-de-terre-de-lhindu-kush/)
+- [L’Assemblée nationale française renverse le gouvernement Bayrou](https://lapresse.tn/2025/09/08/lassemblee-nationale-francaise-renverse-le-gouvernement-bayrou/)
+- [La Banque mondiale réaffirme son engagement pour la transition énergétique en Tunisie](https://lapresse.tn/2025/09/08/la-banque-mondiale-reaffirme-son-engagement-pour-la-transition-energetique-en-tunisie/)
 - [Opération de contrôle économique sur instructions présidentielles : Garantir l’équité entre producteurs et consommateurs](https://lapresse.tn/2025/09/08/operation-de-controle-economique-sur-instructions-presidentielles-garantir-lequite-entre-producteurs-et-consommateurs/)
 - [Santé : Expansion des services d’imagerie médicale à distance](https://lapresse.tn/2025/09/08/sante-expansion-des-services-dimagerie-medicale-a-distance/)
 - [Modernisation à la chinoise : Un modèle inspirant pour la Tunisie et l’Afrique](https://lapresse.tn/2025/09/08/modernisation-a-la-chinoise-un-modele-inspirant-pour-la-tunisie-et-lafrique/)
