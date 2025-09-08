@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 06:17*
+*Generato: 08 Sep 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
@@ -91,7 +92,6 @@
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
 - [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
 - [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
-- [A simpler tax architecture to benefit EU firms and citizens](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29622/a-simpler-tax-architecture-to-benefit-eu-firms-and-citizens)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
-- [Chroniques de la Byrsa: Massacres à la tronçonneuse](https://lapresse.tn/2025/09/07/chroniques-de-la-byrsa-massacres-a-la-tronconneuse/)
-- [« Les voix de la liberté », concert solidaire dans le cadre de la Flottille Soumoud: Artistes et militants unis pour Gaza](https://lapresse.tn/2025/09/07/les-voix-de-la-liberte-concert-solidaire-dans-le-cadre-de-la-flottille-soumoud-artistes-et-militants-unis-pour-gaza/)
+- [La flottille mondiale Soumoud arrive à Sidi Bou Saïd : La Tunisie, carrefour de la solidarité maghrébine et internationale](https://lapresse.tn/2025/09/08/la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said-la-tunisie-carrefour-de-la-solidarite-maghrebine-et-internationale/)
+- [Tunisien tué à Marseille : l’Ordre des avocats tunisiens engage une action à Marseille](https://lapresse.tn/2025/09/08/tunisien-tue-a-marseille-lordre-des-avocats-tunisiens-engage-une-action-a-marseille/)
+- [Hawaï en état d’urgence : l’ouragan Kiko menace l’archipel](https://lapresse.tn/2025/09/08/hawai-en-etat-durgence-louragan-kiko-menace-larchipel/)
+- [Météo : Temps orageux et hausse des températures sur la Tunisie](https://lapresse.tn/2025/09/08/meteo-temps-orageux-et-hausse-des-temperatures-sur-la-tunisie/)
 - [Célébration du 69ème anniversaire de création de la Garde Nationale avec un spectacle à Carthage](https://lapresse.tn/2025/09/07/celebration-du-69eme-anniversaire-de-creation-de-la-garde-nationale-avec-un-spectacle-a-carthage/)
-- [Orages, pluies intenses et grêle attendus cette nuit sur plusieurs régions](https://lapresse.tn/2025/09/07/orages-pluies-intenses-et-grele-attendus-cette-nuit-sur-plusieurs-regions/)
-- [En photos : La flottille mondiale Soumoud arrive à Sidi Bou Saïd](https://lapresse.tn/2025/09/07/en-photos-la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said/)
-- [Le ministre de l’emploi rencontre l’ambassadeur de l’Union européenne en Tunisie: Focus sur le soutien à la compétitivité des entreprises et à l’autonomisation économique](https://lapresse.tn/2025/09/07/le-ministre-de-lemploi-rencontre-lambassadeur-de-lunion-europeenne-en-tunisie-focus-sur-le-soutien-a-la-competitivite-des-entreprises-et-a-lautonomisation-eco/)
+- [Tunisie : un projet international pour restaurer les tourbières de Dar Fatma, joyau écologique menacé](https://lapresse.tn/2025/09/08/tunisie-un-projet-international-pour-restaurer-les-tourbieres-de-dar-fatma-joyau-ecologique-menace/)
 - [Formation professionnelle: La rentrée à la loupe](https://lapresse.tn/2025/09/07/formation-professionnelle-la-rentree-a-la-loupe/)
 - [Places publiques: Rénovation, entretien, suivi](https://lapresse.tn/2025/09/07/places-publiques-renovation-entretien-suivi/)
 - [Pourquoi: Indélicatesse quand tu nous tiens…](https://lapresse.tn/2025/09/07/pourquoi-indelicatesse-quand-tu-nous-tiens/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Centrafrique, pourquoi Faustin-Archange Touadéra mise sur Mohammed ben Zayed et les Émirats arabes unis](https://www.jeuneafrique.com/1718912/politique/en-centrafrique-pourquoi-faustin-archange-touadera-mise-sur-mohammed-ben-zayed-et-les-emirats-arabes-unis/)
+- [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
 - [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
 - [Gouvernement sénégalais : des changements à la Justice, à l’Intérieur et aux Affaires étrangères](https://www.jeuneafrique.com/1719959/politique/gouvernement-senegalais-des-changements-a-la-justice-a-linterieur-et-aux-affaires-etrangeres/)
 - [Nigeria : au moins 63 morts dans une attaque jihadiste](https://www.jeuneafrique.com/1719955/politique/nigeria-au-moins-63-morts-dans-une-attaque-jihadiste/)
+- [En Centrafrique, le dialogue entre pouvoir et opposition peut-il sauver les élections de décembre ?](https://www.jeuneafrique.com/1719344/politique/en-centrafrique-le-dialogue-entre-pouvoir-et-opposition-peut-il-sauver-les-elections-de-decembre/)
 - [Avec Ibrahim Traoré, l’Afrique est entrée dans l’ère de la post-vérité](https://www.jeuneafrique.com/1719772/politique/avec-ibrahim-traore-lafrique-est-entree-dans-lere-de-la-post-verite/)
+- [Migrants en Mauritanie : l’aide européenne alimente-t-elle la répression ?](https://www.jeuneafrique.com/1719215/politique/migrants-en-mauritanie-comment-laide-europeenne-alimente-la-repression/)
 - [« Blocus » jihadiste dans l’ouest du Mali](https://www.jeuneafrique.com/1719948/politique/blocus-jihadiste-dans-louest-du-mali/)
-- [Au Mali, la France mise sur un russophile pour conduire sa diplomatie](https://www.jeuneafrique.com/1718876/politique/au-mali-la-france-mise-sur-un-russophile-pour-conduire-sa-diplomatie/)
-- [Kabila refait parler de lui, des drones au Sahel, Wadagni dauphin de Talon… voici les 5 infos qu’il ne fallait pas rater cette semaine](https://www.jeuneafrique.com/1719433/politique/kabila-refait-parler-de-lui-des-drones-au-sahel-wadagni-dauphin-de-talon-voici-les-5-infos-quil-ne-fallait-pas-rater-cette-semaine/)
+- [Non, la pollution n’est pas le corollaire inévitable du développement](https://www.jeuneafrique.com/1719654/economie-entreprises/non-la-pollution-nest-pas-le-corollaire-inevitable-du-developpement/)
 - [Mohamed Horani (HPS) : « L’Afrique doit faire confiance à ses entreprises pour faire émerger des champions »](https://www.jeuneafrique.com/1719441/economie-entreprises/mohamed-horani-hps-lafrique-doit-faire-confiance-a-ses-entreprises-pour-faire-emerger-des-champions/)
-- [Abidjan-Paris : Air Côte d’Ivoire se lance sur le marché très disputé du long-courrier](https://www.jeuneafrique.com/1719603/economie-entreprises/abidjan-paris-air-cote-divoire-se-lance-sur-le-marche-tres-dispute-du-long-courrier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
