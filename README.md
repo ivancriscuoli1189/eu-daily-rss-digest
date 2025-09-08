@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 15:03*
+*Generato: 08 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
 - [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
-- [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
-- [Inondations : 70 % des travaux de protection des villes tunisiennes déjà réalisés](https://lapresse.tn/2025/09/08/inondations-70-des-travaux-de-protection-des-villes-tunisiennes-deja-realises/)
-- [Sauvetage d’une tortue sur la plage de Matouia à Gabès](https://lapresse.tn/2025/09/08/sauvetage-dune-tortue-sur-la-plage-de-matouia-a-gabes/)
-- [La Tunisie accueille son premier investissement chinois dans les câbles automobiles](https://lapresse.tn/2025/09/08/la-tunisie-accueille-son-premier-investissement-chinois-dans-les-cables-automobiles/)
-- [Rentrée scolaire : aides de 100 à 120 dinars pour les familles tunisiennes](https://lapresse.tn/2025/09/08/rentree-scolaire-aides-de-100-a-120-dinars-pour-les-familles-tunisiennes/)
-- [Autoroute Tunis – Jelma : le chantier avance à 30 %](https://lapresse.tn/2025/09/08/autoroute-tunis-jelma-le-chantier-avance-a-30/)
-- [Nabeul fournit 70 % du raisin de cuve tunisien mais la production s’essouffle](https://lapresse.tn/2025/09/08/nabeul-fournit-70-du-raisin-de-cuve-tunisien-mais-la-production-sessouffle/)
-- [Sucre domestique : hausse de 25% des quantités écoulées sur le marché](https://lapresse.tn/2025/09/08/sucre-domestique-hausse-de-25-des-quantites-ecoulees-sur-le-marche/)
-- [Devises : les réserves tunisiennes couvrent 109 jours d’importation](https://lapresse.tn/2025/09/08/devises-les-reserves-tunisiennes-couvrent-109-jours-dimportation/)
-- [Huawei lance le premier Forum africain sur l’Éducation inclusive : promouvoir l’équité éducative grâce aux technologies numériques et intelligentes](https://lapresse.tn/2025/09/08/huawei-lance-le-premier-forum-africain-sur-leducation-inclusive-promouvoir-lequite-educative-grace-aux-technologies-numeriques-et-intelligentes/)
+- [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
+- [Le danseur et chorégraphe Walid Aouni à la Presse : « Le mouvement est l’architecture du corps »](https://lapresse.tn/2025/09/08/le-danseur-et-choregraphe-walid-aouni-a-la-presse-le-mouvement-est-larchitecture-du-corps/)
+- [« La voix de Hind Rajab » a remporté le Lion d’Argent au Festival de Venise. Les mots qu’il faut](https://lapresse.tn/2025/09/08/la-voix-de-hind-rajab-a-remporte-le-lion-dargent-au-festival-de-venise-les-mots-quil-faut/)
+- [Les Rencontres Internationales de la Photographie de Ghar El Melh font leur grand retour : Une 10e édition sous le signe de l’environnement](https://lapresse.tn/2025/09/08/les-rencontres-internationales-de-la-photographie-de-ghar-el-melh-font-leur-grand-retour-une-10e-edition-sous-le-signe-de-lenvironnement/)
+- [Opération de contrôle économique sur instructions présidentielles : Garantir l’équité entre producteurs et consommateurs](https://lapresse.tn/2025/09/08/operation-de-controle-economique-sur-instructions-presidentielles-garantir-lequite-entre-producteurs-et-consommateurs/)
+- [Santé : Expansion des services d’imagerie médicale à distance](https://lapresse.tn/2025/09/08/sante-expansion-des-services-dimagerie-medicale-a-distance/)
+- [Modernisation à la chinoise : Un modèle inspirant pour la Tunisie et l’Afrique](https://lapresse.tn/2025/09/08/modernisation-a-la-chinoise-un-modele-inspirant-pour-la-tunisie-et-lafrique/)
+- [Naissance d’un nouveau corps : Bienvenue à la Garde municipale](https://lapresse.tn/2025/09/08/naissance-dun-nouveau-corps-bienvenue-a-la-garde-municipale/)
+- [Boycott des enseignes étrangères : Regain d’intérêt pour les épiceries traditionnelles et fines](https://lapresse.tn/2025/09/08/boycott-des-enseignes-etrangeres-regain-dinteret-pour-les-epiceries-traditionnelles-et-fines/)
+- [Pourquoi : La saison des pénuries commence](https://lapresse.tn/2025/09/08/pourquoi-la-saison-des-penuries-commence/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [G25-Niger : face à Tiani, des opposants adoptent la stratégie « Anonymous »](https://www.jeuneafrique.com/1720065/politique/g25-niger-face-a-tiani-des-opposants-adoptent-la-strategie-anonymous/)
+- [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
 - [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
+- [Débarquement d’Al Hoceima : il y a cent ans, Espagnols et Français à l’assaut des troupes rifaines d’Abdelkrim](https://www.jeuneafrique.com/1717721/politique/debarquement-dal-hoceima-il-y-a-cent-ans-espagnols-et-francais-a-lassaut-des-troupes-rifaines-dabdelkrim/)
 - [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
 - [Gouvernement sénégalais : des changements à la Justice, à l’Intérieur et aux Affaires étrangères](https://www.jeuneafrique.com/1719959/politique/gouvernement-senegalais-des-changements-a-la-justice-a-linterieur-et-aux-affaires-etrangeres/)
 - [Nigeria : au moins 63 morts dans une attaque jihadiste](https://www.jeuneafrique.com/1719955/politique/nigeria-au-moins-63-morts-dans-une-attaque-jihadiste/)
-- [En Centrafrique, le dialogue entre pouvoir et opposition peut-il sauver les élections de décembre ?](https://www.jeuneafrique.com/1719344/politique/en-centrafrique-le-dialogue-entre-pouvoir-et-opposition-peut-il-sauver-les-elections-de-decembre/)
-- [Avec Ibrahim Traoré, l’Afrique est entrée dans l’ère de la post-vérité](https://www.jeuneafrique.com/1719772/politique/avec-ibrahim-traore-lafrique-est-entree-dans-lere-de-la-post-verite/)
-- [Migrants en Mauritanie : l’aide européenne alimente-t-elle la répression ?](https://www.jeuneafrique.com/1719215/politique/migrants-en-mauritanie-comment-laide-europeenne-alimente-la-repression/)
-- [« Blocus » jihadiste dans l’ouest du Mali](https://www.jeuneafrique.com/1719948/politique/blocus-jihadiste-dans-louest-du-mali/)
+- [Libreville II, le rêve urbain du président Oligui Nguema, orchestré par l’architecte Atepa](https://www.jeuneafrique.com/1712071/politique/libreville-ii-le-reve-urbain-du-president-oligui-nguema-orchestre-par-larchitecte-atepa/)
+- [Ouattara 2025 : la prime à la stabilité a-t-elle encore un prix ? – par Aurélie M’Bida](https://www.jeuneafrique.com/1715501/economie-entreprises/ouattara-2025-la-prime-a-la-stabilite-a-t-elle-encore-un-prix-par-aurelie-mbida/)
 - [Burkina Faso : la méthode Traoré pour reprendre la main sur l’or](https://www.jeuneafrique.com/1719704/economie-entreprises/burkina-faso-la-methode-traore-pour-reprendre-la-main-sur-lor/)
-- [Non, la pollution n’est pas le corollaire inévitable du développement](https://www.jeuneafrique.com/1719654/economie-entreprises/non-la-pollution-nest-pas-le-corollaire-inevitable-du-developpement/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
