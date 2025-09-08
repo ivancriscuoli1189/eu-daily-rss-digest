@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 09:13*
+*Generato: 08 Sep 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
@@ -91,7 +92,6 @@
 - [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 - [Budget proposal “simply not enough” to meet Europe's challenges, lead MEPs say](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29630/budget-proposal-simply-not-enough-to-meet-europe-s-challenges-lead-meps-say)
 - [Deal on more funding to boost skills development and address new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29621/deal-on-more-funding-to-boost-skills-development-and-address-new-challenges)
-- [Cohesion funding: deal on mid-term update responding to new challenges](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29627/cohesion-funding-deal-on-mid-term-update-responding-to-new-challenges)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
+- [Qualifications Mondial 2026 – 8e journée : Guinée Equatoriale-Tunisie (14h00) : Seule la victoire est belle](https://lapresse.tn/2025/09/08/qualifications-mondial-2026-8e-journee-guinee-equatoriale-tunisie-14h00-seule-la-victoire-est-belle/)
+- [Devises : les réserves tunisiennes couvrent 109 jours d’importation](https://lapresse.tn/2025/09/08/devises-les-reserves-tunisiennes-couvrent-109-jours-dimportation/)
+- [Sucre domestique : hausse de 25% des quantités écoulées sur le marché](https://lapresse.tn/2025/09/08/sucre-domestique-hausse-de-25-des-quantites-ecoulees-sur-le-marche/)
 - [La flottille mondiale Soumoud arrive à Sidi Bou Saïd : La Tunisie, carrefour de la solidarité maghrébine et internationale](https://lapresse.tn/2025/09/08/la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said-la-tunisie-carrefour-de-la-solidarite-maghrebine-et-internationale/)
 - [Tunisien tué à Marseille : l’Ordre des avocats tunisiens engage une action à Marseille](https://lapresse.tn/2025/09/08/tunisien-tue-a-marseille-lordre-des-avocats-tunisiens-engage-une-action-a-marseille/)
-- [Hawaï en état d’urgence : l’ouragan Kiko menace l’archipel](https://lapresse.tn/2025/09/08/hawai-en-etat-durgence-louragan-kiko-menace-larchipel/)
 - [Météo : Temps orageux et hausse des températures sur la Tunisie](https://lapresse.tn/2025/09/08/meteo-temps-orageux-et-hausse-des-temperatures-sur-la-tunisie/)
-- [Célébration du 69ème anniversaire de création de la Garde Nationale avec un spectacle à Carthage](https://lapresse.tn/2025/09/07/celebration-du-69eme-anniversaire-de-creation-de-la-garde-nationale-avec-un-spectacle-a-carthage/)
-- [Tunisie : un projet international pour restaurer les tourbières de Dar Fatma, joyau écologique menacé](https://lapresse.tn/2025/09/08/tunisie-un-projet-international-pour-restaurer-les-tourbieres-de-dar-fatma-joyau-ecologique-menace/)
-- [Formation professionnelle: La rentrée à la loupe](https://lapresse.tn/2025/09/07/formation-professionnelle-la-rentree-a-la-loupe/)
-- [Places publiques: Rénovation, entretien, suivi](https://lapresse.tn/2025/09/07/places-publiques-renovation-entretien-suivi/)
-- [Pourquoi: Indélicatesse quand tu nous tiens…](https://lapresse.tn/2025/09/07/pourquoi-indelicatesse-quand-tu-nous-tiens/)
+- [12 000 tonnes de pommes de terre stockées en prévision de l’automne](https://lapresse.tn/2025/09/08/12-000-tonnes-de-pommes-de-terre-stockees-en-prevision-de-lautomne/)
+- [Trois kiosques démolis près de la station de Barcelone à Tunis](https://lapresse.tn/2025/09/08/trois-kiosques-demolis-pres-de-la-station-de-barcelone-a-tunis/)
+- [Rentrée scolaire : un coût de 153 dinars pour les élèves de première année](https://lapresse.tn/2025/09/08/rentree-scolaire-un-cout-de-153-dinars-pour-les-eleves-de-premiere-annee/)
 
 ## NGOs – Amnesty International – Tunisia
 
