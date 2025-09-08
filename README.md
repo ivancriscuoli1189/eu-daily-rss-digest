@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Sep 2025, 21:03*
+*Generato: 08 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La dignité n’a pas de prix](https://lapresse.tn/2025/09/05/la-dignite-na-pas-de-prix/)
-- [Décès du réalisateur Mohamed Hadj Slimane, pionnier de la télévision tunisienne](https://lapresse.tn/2025/09/05/deces-du-realisateur-mohamed-hadj-slimane-pionnier-de-la-television-tunisienne/)
-- [Samir Obeid propose un salon commun Tunisie–Algérie–Mauritanie–Libye](https://lapresse.tn/2025/09/05/samir-obeid-propose-un-salon-commun-tunisie-algerie-mauritanie-libye/)
-- [Hausse des réserves en devises de la Tunisie à 25,2 milliards de dinars](https://lapresse.tn/2025/09/05/hausse-des-reserves-en-devises-de-la-tunisie-a-252-milliards-de-dinars/)
-- [Le CNOPT soutient les mesures du gouvernement pour améliorer la gouvernance pharmaceutique](https://lapresse.tn/2025/09/05/le-cnopt-soutient-les-mesures-du-gouvernement-pour-ameliorer-la-gouvernance-pharmaceutique/)
-- [Gabès : Début des travaux d’extension et de requalification de l’hôpital local de Mareth](https://lapresse.tn/2025/09/05/gabes-debut-des-travaux-dextension-et-de-requalification-de-lhopital-local-de-mareth/)
-- [Orages et pluies éparses prévus ce soir dans plusieurs régions tunisiennes](https://lapresse.tn/2025/09/05/orages-et-pluies-eparses-prevus-ce-soir-dans-plusieurs-regions-tunisiennes/)
-- [Vandalisme : Qui chuchote à l’oreille des jeunes délinquants ?](https://lapresse.tn/2025/09/05/vandalisme-qui-chuchote-a-loreille-des-jeunes-delinquants/)
-- [Les prix à la consommation affichent une hausse mensuelle de 0,3% en août 2025](https://lapresse.tn/2025/09/05/les-prix-a-la-consommation-affichent-une-hausse-mensuelle-de-03-en-aout-2025/)
-- [Gafsa – Soldes : Des vitrines pleines, des clients dubitatifs](https://lapresse.tn/2025/09/05/gafsa-soldes-des-vitrines-pleines-des-clients-dubitatifs/)
+- [La Tunisie et l’Algérie, un tandem pour l’Afrique de demain](https://lapresse.tn/2025/09/07/la-tunisie-et-lalgerie-un-tandem-pour-lafrique-de-demain/)
+- [Chroniques de la Byrsa: Massacres à la tronçonneuse](https://lapresse.tn/2025/09/07/chroniques-de-la-byrsa-massacres-a-la-tronconneuse/)
+- [« Les voix de la liberté », concert solidaire dans le cadre de la Flottille Soumoud: Artistes et militants unis pour Gaza](https://lapresse.tn/2025/09/07/les-voix-de-la-liberte-concert-solidaire-dans-le-cadre-de-la-flottille-soumoud-artistes-et-militants-unis-pour-gaza/)
+- [Célébration du 69ème anniversaire de création de la Garde Nationale avec un spectacle à Carthage](https://lapresse.tn/2025/09/07/celebration-du-69eme-anniversaire-de-creation-de-la-garde-nationale-avec-un-spectacle-a-carthage/)
+- [Orages, pluies intenses et grêle attendus cette nuit sur plusieurs régions](https://lapresse.tn/2025/09/07/orages-pluies-intenses-et-grele-attendus-cette-nuit-sur-plusieurs-regions/)
+- [En photos : La flottille mondiale Soumoud arrive à Sidi Bou Saïd](https://lapresse.tn/2025/09/07/en-photos-la-flottille-mondiale-soumoud-arrive-a-sidi-bou-said/)
+- [Le ministre de l’emploi rencontre l’ambassadeur de l’Union européenne en Tunisie: Focus sur le soutien à la compétitivité des entreprises et à l’autonomisation économique](https://lapresse.tn/2025/09/07/le-ministre-de-lemploi-rencontre-lambassadeur-de-lunion-europeenne-en-tunisie-focus-sur-le-soutien-a-la-competitivite-des-entreprises-et-a-lautonomisation-eco/)
+- [Formation professionnelle: La rentrée à la loupe](https://lapresse.tn/2025/09/07/formation-professionnelle-la-rentree-a-la-loupe/)
+- [Places publiques: Rénovation, entretien, suivi](https://lapresse.tn/2025/09/07/places-publiques-renovation-entretien-suivi/)
+- [Pourquoi: Indélicatesse quand tu nous tiens…](https://lapresse.tn/2025/09/07/pourquoi-indelicatesse-quand-tu-nous-tiens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
 - [The ICJ joins other international human rights NGOs in demanding the renewal of the mandate of the UN Special Rapporteur on the situation of human rights in the Russian Federation](https://www.icj.org/the-icj-joins-other-international-human-rights-ngos-in-demanding-the-renewal-of-the-mandate-of-the-un-special-rapporteur-on-the-situation-of-human-rights-in-the-russian-federation/)
 - [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
 - [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
 - [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
-- [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
 - [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
 - [Israel/Palestine: Immediately halt Gaza’s occupation plan](https://www.icj.org/israel-palestine-immediately-halt-gazas-occupation-plan/)
-- [Nepal: Lawyers urge authorities to address inaccessibility of justice system to women and girls with disabilities](https://www.icj.org/nepal-lawyers-urge-authorities-to-address-inaccessibility-of-justice-system-to-women-and-girls-with-disabilities/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Le non-voyage d’Ousmane Sonko à Paris : rupture ou simple rendez-vous manqué ?](https://www.jeuneafrique.com/1719695/politique/le-non-voyage-dousmane-sonko-a-paris-rupture-ou-simple-rendez-vous-manque/)
-- [FARDC, M23, FDLR… Dans l’est de la RDC, de possibles crimes de guerre relevés par l’ONU](https://www.jeuneafrique.com/1719767/politique/fardc-m23-fdlr-dans-lest-de-la-rdc-de-possibles-crimes-de-guerre-releves-par-lonu/)
-- [Crise Mali-Algérie : Bamako saisit la Cour internationale de justice](https://www.jeuneafrique.com/1719622/politique/crise-mali-algerie-bamako-saisit-la-cour-internationale-de-justice/)
-- [En Guinée, l’interdiction du congrès de l’UFDG de Cellou Dalein Diallo maintenu par la justice](https://www.jeuneafrique.com/1719597/politique/en-guinee-linterdiction-du-congres-de-lufdg-de-cellou-dalein-diallo-maintenu-par-la-justice/)
-- [L’Afrique du Sud et Thabo Mbeki sont-ils bien placés pour régler les problèmes de la RDC ?](https://www.jeuneafrique.com/1719250/politique/lafrique-du-sud-et-thabo-mbeki-sont-ils-bien-places-pour-regler-les-problemes-de-la-rdc/)
-- [Guinée : Alpha Condé, quatre ans de solitude](https://www.jeuneafrique.com/1719235/politique/guinee-alpha-conde-quatre-ans-de-solitude/)
-- [Burkina Faso : cinq mesures à retenir du nouveau code de la famille](https://www.jeuneafrique.com/1719271/politique/burkina-faso-cinq-mesures-a-retenir-du-nouveau-code-de-la-famille/)
-- [Raser pour reconstruire : comment Ousmane Sonko compte transformer Dakar](https://www.jeuneafrique.com/1718858/politique/raser-pour-reconstruire-comment-ousmane-sonko-compte-transformer-dakar/)
+- [En Centrafrique, pourquoi Faustin-Archange Touadéra mise sur Mohammed ben Zayed et les Émirats arabes unis](https://www.jeuneafrique.com/1718912/politique/en-centrafrique-pourquoi-faustin-archange-touadera-mise-sur-mohammed-ben-zayed-et-les-emirats-arabes-unis/)
+- [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
+- [Gouvernement sénégalais : des changements à la Justice, à l’Intérieur et aux Affaires étrangères](https://www.jeuneafrique.com/1719959/politique/gouvernement-senegalais-des-changements-a-la-justice-a-linterieur-et-aux-affaires-etrangeres/)
+- [Nigeria : au moins 63 morts dans une attaque jihadiste](https://www.jeuneafrique.com/1719955/politique/nigeria-au-moins-63-morts-dans-une-attaque-jihadiste/)
+- [Avec Ibrahim Traoré, l’Afrique est entrée dans l’ère de la post-vérité](https://www.jeuneafrique.com/1719772/politique/avec-ibrahim-traore-lafrique-est-entree-dans-lere-de-la-post-verite/)
+- [« Blocus » jihadiste dans l’ouest du Mali](https://www.jeuneafrique.com/1719948/politique/blocus-jihadiste-dans-louest-du-mali/)
+- [Au Mali, la France mise sur un russophile pour conduire sa diplomatie](https://www.jeuneafrique.com/1718876/politique/au-mali-la-france-mise-sur-un-russophile-pour-conduire-sa-diplomatie/)
+- [Kabila refait parler de lui, des drones au Sahel, Wadagni dauphin de Talon… voici les 5 infos qu’il ne fallait pas rater cette semaine](https://www.jeuneafrique.com/1719433/politique/kabila-refait-parler-de-lui-des-drones-au-sahel-wadagni-dauphin-de-talon-voici-les-5-infos-quil-ne-fallait-pas-rater-cette-semaine/)
+- [Mohamed Horani (HPS) : « L’Afrique doit faire confiance à ses entreprises pour faire émerger des champions »](https://www.jeuneafrique.com/1719441/economie-entreprises/mohamed-horani-hps-lafrique-doit-faire-confiance-a-ses-entreprises-pour-faire-emerger-des-champions/)
 - [Abidjan-Paris : Air Côte d’Ivoire se lance sur le marché très disputé du long-courrier](https://www.jeuneafrique.com/1719603/economie-entreprises/abidjan-paris-air-cote-divoire-se-lance-sur-le-marche-tres-dispute-du-long-courrier/)
-- [Abidjan-Paris-Taipei : la nouvelle route de l’IA ?](https://www.jeuneafrique.com/1719400/economie-entreprises/abidjan-paris-taipei-la-nouvelle-route-de-lia/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
