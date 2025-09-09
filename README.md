@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 11:10*
+*Generato: 09 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,10 +70,10 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة المالية والسيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-0)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-18)
 - [كلمة رئيس الجمهورية قيس سعيّد في افتتاح أشغال الدورة الرابعة لمعرض التجارة البينية الإفريقية](http://www.carthage.tn/ar/%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9)
-- [مشاركة رئيس الجمهورية قيس سعيّد في افتتاح الدورة الرابعة لمعرض التجارة البينية الإفريقية التي انطلقت أشغالها اليوم الخميس الرابع من شهر سبتمبر الجاري بالجزائر العاصمة](http://www.carthage.tn/ar/%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D9%86%D8%B7%D9%84%D9%82%D8%AA)
 - [وصول رئيس الجمهورية قيس سعيّد مساء اليوم الأربعاء، 03 سبتمبر الجاري، إلى الجزائر العاصمة للمشاركة في أعمال الدّورة الرابعة للمعرض الإفريقي للتجارة البينية التي تحتضنها الجزائر من 04 إلى 10 سبتمبر 2025](http://www.carthage.tn/ar/%D9%88%D8%B5%D9%88%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1%D8%8C-03-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A)
-- [تلبية للدّعوة الموجّهة إليه من أخيه فخامة الرئيس عبد المجيد تبون، رئيس الجمهورية الجزائرية الديمقراطية الشعبية، يؤدّي رئيس الجمهورية قيس سعيّد يومي 03 و04 سبتمبر الجاري، زيارة إلى الجزائر للمشاركة في فعاليات الدورة الرابعة للمعرض الإفريقي للتجارة البينية](http://www.carthage.tn/ar/%D8%AA%D9%84%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D8%AF%D9%91%D8%B9%D9%88%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%AC%D9%91%D9%87%D8%A9-%D8%A5%D9%84%D9%8A%D9%87-%D9%85%D9%86-%D8%A3%D8%AE%D9%8A%D9%87-%D9%81%D8%AE%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%85%D8%AC%D9%8A%D8%AF-%D8%AA%D8%A8%D9%88%D9%86%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9)
 - [إجتماع رئيس الجمهورية قيس سعيّد بعدد من أصحاب حاملي شهادة الدكتوراه](http://www.carthage.tn/ar/%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%AD%D8%A7%D9%85%D9%84%D9%8A-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87)
 - [إشراف رئيس الجمهورية قيس سعيّد على اجتماع مجلس الوزراء](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-9)
 - [إشراف رئيس الجمهورية قيس سعيّد على موكب الاحتفال بيوم العلم](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85)
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [Moldovan President Maia Sandu: “Russia wants to turn our country against Europe”](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/moldovan-president-maia-sandu-russia-wants-to-turn-our-country-against-europe)
 - [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
+- [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
+- [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
 - [Parliament adopts new EU rules to reduce textile and food waste](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30172/parliament-adopts-new-eu-rules-to-reduce-textile-and-food-waste)
 - [State of the European Union: Doorstep with EP President Metsola at 08.45](https://www.europarl.europa.eu/news/en/press-room/20250909IPR30237/state-of-the-european-union-doorstep-with-ep-president-metsola-at-08-45)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
 - [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
 - [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
-- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
-- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [La Tunisie participe à la 25e foire internationale de l’investissement et du commerce de Chine](https://lapresse.tn/2025/09/09/la-tunisie-participe-a-la-25e-foire-internationale-de-linvestissement-et-du-commerce-de-chine/)
+- [Sfax serre la vis contre l’occupation illégale des trottoirs](https://lapresse.tn/2025/09/09/sfax-serre-la-vis-contre-loccupation-illegale-des-trottoirs/)
+- [Tunisie : bilan des précipitations](https://lapresse.tn/2025/09/09/tunisie-bilan-des-precipitations/)
+- [Port de Sidi Bou Saïd : La Garde nationale dément toute attaque contre un navire espagnol](https://lapresse.tn/2025/09/09/port-de-sidi-bou-said-la-garde-nationale-dement-toute-attaque-contre-un-navire-espagnol/)
 - [Concours international “Pont vers le chinois” : une Tunisienne primée pour son excellence oratoire](https://lapresse.tn/2025/09/09/concours-international-pont-vers-le-chinois-une-tunisienne-primee-pour-son-excellence-oratoire/)
-- [Tunisie : 5 millions de dinars pour redonner vie à l’Institut Bab Jedid à Sousse](https://lapresse.tn/2025/09/09/tunisie-5-millions-de-dinars-pour-redonner-vie-a-linstitut-bab-jedid-a-sousse/)
 - [Alerte météo : pluies intenses, grêle et rafales à plus de 70 km/h attendues dans plusieurs régions](https://lapresse.tn/2025/09/09/alerte-meteo-pluies-intenses-grele-et-rafales-a-plus-de-70-km-h-attendues-dans-plusieurs-regions/)
 - [Tunis : reprise demain de la ligne de métro n°3 entre Barcelone et Ibn Khaldoun](https://lapresse.tn/2025/09/09/tunis-reprise-demain-de-la-ligne-de-metro-n3-entre-barcelone-et-ibn-khaldoun/)
-- [Pfizer annonce la nomination de Ouardia Djoudjai au poste de Directrice du Cluster Afrique du Nord.](https://lapresse.tn/2025/09/09/pfizer-annonce-la-nomination-de-madame-ouardia-djoudjai-au-poste-de-directrice-du-cluster-afrique-du-nord/)
 - [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/09/les-barrages-tunisiens-en-chiffres-3/)
-- [Occupation anarchique : 80 % des installations sauvages supprimées, selon la police municipale de Ben Arous](https://lapresse.tn/2025/09/09/occupation-anarchique-80-des-installations-sauvages-supprimees-selon-la-police-municipale-de-ben-arous/)
-- [Tunisie : une jeune Algérienne de 15 ans meurt noyée à Gabès](https://lapresse.tn/2025/09/09/tunisie-une-jeune-algerienne-de-15-ans-meurt-noyee-a-gabes/)
+- [La Tunisie participe à la 25e foire internationale de l’investissement et du commerce de Chine](https://lapresse.tn/2025/09/09/la-tunisie-participe-a-la-25e-foire-internationale-de-linvestissement-et-du-commerce-de-chine/)
+- [La Tunisie et l’Égypte misent sur une ligne maritime directe et des alliances économiques](https://lapresse.tn/2025/09/09/la-tunisie-et-legypte-misent-sur-une-ligne-maritime-directe-et-des-alliances-economiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
