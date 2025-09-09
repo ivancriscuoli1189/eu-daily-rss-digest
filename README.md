@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 06:15*
+*Generato: 09 Sep 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
 - [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
 - [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
@@ -91,7 +92,6 @@
 - [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
 - [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
-- [Statement by group majority leaders on the EU long-term budget](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29629/statement-by-group-majority-leaders-on-the-eu-long-term-budget)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [Banque centrale et finances publiques : Saïed insiste sur la transparence](https://lapresse.tn/2025/09/09/banque-centrale-et-finances-publiques-saied-insiste-sur-la-transparence/)
-- [DECES : Habib Ben Mohamed Ben Saïd DOGHRI](https://lapresse.tn/2025/09/09/deces-habib-ben-mohamed-ben-said-doghri/)
-- [Afghanistan : 263.000 enfants touchés par le tremblement de terre de l’Hindu Kush](https://lapresse.tn/2025/09/08/afghanistan-263-000-enfants-touches-par-le-tremblement-de-terre-de-lhindu-kush/)
-- [Orages et risque de grêle ce soir dans plusieurs régions de Tunisie](https://lapresse.tn/2025/09/08/orages-et-risque-de-grele-ce-soir-dans-plusieurs-regions-de-tunisie/)
-- [Opération de contrôle économique sur instructions présidentielles : Garantir l’équité entre producteurs et consommateurs](https://lapresse.tn/2025/09/08/operation-de-controle-economique-sur-instructions-presidentielles-garantir-lequite-entre-producteurs-et-consommateurs/)
-- [Santé : Expansion des services d’imagerie médicale à distance](https://lapresse.tn/2025/09/08/sante-expansion-des-services-dimagerie-medicale-a-distance/)
+- [Le prince Fayçal Ben Farhan en visite à Tunis pour renforcer la coopération tuniso-saoudienne](https://lapresse.tn/2025/09/09/le-prince-faycal-ben-farhan-en-visite-a-tunis-pour-renforcer-la-cooperation-tuniso-saoudienne/)
+- [Qualifications Mondial 2026 – 8e journée Guinée équatoriale-Tunisie (0-1) : Bonjour la Coupe du monde !](https://lapresse.tn/2025/09/09/qualifications-mondial-2026-8e-journee-guinee-equatoriale-tunisie-0-1-bonjour-la-coupe-du-monde/)
+- [La Tunisie et le Népal explorent de nouvelles perspectives de coopération](https://lapresse.tn/2025/09/09/la-tunisie-et-le-nepal-explorent-de-nouvelles-perspectives-de-cooperation/)
+- [Sidi Bou Saïd : l’Intérieur dément la chute d’un drone, incendie limité à des gilets de sauvetage](https://lapresse.tn/2025/09/09/sidi-bou-said-linterieur-dement-la-chute-dun-drone-incendie-limite-a-des-gilets-de-sauvetage/)
+- [Incendie du navire Soumoud : la Garde nationale dément toute implication d’un drone](https://lapresse.tn/2025/09/09/incendie-du-navire-soumoud-la-garde-nationale-dement-toute-implication-dun-drone/)
+- [Météo : des orages et une légère baisse des températures prévus ce mardi !](https://lapresse.tn/2025/09/09/meteo-des-orages-et-une-legere-baisse-des-temperatures-prevus-ce-mardi/)
 - [Naissance d’un nouveau corps : Bienvenue à la Garde municipale](https://lapresse.tn/2025/09/08/naissance-dun-nouveau-corps-bienvenue-a-la-garde-municipale/)
 - [Boycott des enseignes étrangères : Regain d’intérêt pour les épiceries traditionnelles et fines](https://lapresse.tn/2025/09/08/boycott-des-enseignes-etrangeres-regain-dinteret-pour-les-epiceries-traditionnelles-et-fines/)
 - [Pourquoi : La saison des pénuries commence](https://lapresse.tn/2025/09/08/pourquoi-la-saison-des-penuries-commence/)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
 - [The ICJ joins other international human rights NGOs in demanding the renewal of the mandate of the UN Special Rapporteur on the situation of human rights in the Russian Federation](https://www.icj.org/the-icj-joins-other-international-human-rights-ngos-in-demanding-the-renewal-of-the-mandate-of-the-un-special-rapporteur-on-the-situation-of-human-rights-in-the-russian-federation/)
 - [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
 - [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
-- [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
 - [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
 - [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
-- [Israel/Palestine: Immediately halt Gaza’s occupation plan](https://www.icj.org/israel-palestine-immediately-halt-gazas-occupation-plan/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
+- [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
 - [G25-Niger : face à Tiani, des opposants adoptent la stratégie « Anonymous »](https://www.jeuneafrique.com/1720065/politique/g25-niger-face-a-tiani-des-opposants-adoptent-la-strategie-anonymous/)
 - [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
 - [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
 - [Débarquement d’Al Hoceima : il y a cent ans, Espagnols et Français à l’assaut des troupes rifaines d’Abdelkrim](https://www.jeuneafrique.com/1717721/politique/debarquement-dal-hoceima-il-y-a-cent-ans-espagnols-et-francais-a-lassaut-des-troupes-rifaines-dabdelkrim/)
 - [En Centrafrique, pourquoi Faustin-Archange Touadéra mise sur Mohammed ben Zayed et les Émirats arabes unis](https://www.jeuneafrique.com/1718912/politique/en-centrafrique-pourquoi-faustin-archange-touadera-mise-sur-mohammed-ben-zayed-et-les-emirats-arabes-unis/)
 - [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
-- [Gouvernement sénégalais : des changements à la Justice, à l’Intérieur et aux Affaires étrangères](https://www.jeuneafrique.com/1719959/politique/gouvernement-senegalais-des-changements-a-la-justice-a-linterieur-et-aux-affaires-etrangeres/)
-- [Nigeria : au moins 63 morts dans une attaque jihadiste](https://www.jeuneafrique.com/1719955/politique/nigeria-au-moins-63-morts-dans-une-attaque-jihadiste/)
 - [Pourquoi la pression financière augmente-t-elle pour les banques de l’Uemoa ?](https://www.jeuneafrique.com/1719219/economie-entreprises/pourquoi-les-banques-de-luemoa-sont-sous-pression-pour-se-financer/)
 - [Ouattara 2025 : la prime à la stabilité a-t-elle encore un prix ? – par Aurélie M’Bida](https://www.jeuneafrique.com/1715501/economie-entreprises/ouattara-2025-la-prime-a-la-stabilite-a-t-elle-encore-un-prix-par-aurelie-mbida/)
 
