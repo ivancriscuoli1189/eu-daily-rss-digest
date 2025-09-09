@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 15:10*
+*Generato: 09 Sep 2025, 18:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [La Délégation de Hamas à Doha échappe à une tentative d’assassinat de l’entité sioniste](https://lapresse.tn/2025/09/09/la-delegation-de-hamas-a-doha-echappe-a-une-tentative-dassassinat-de-lentite-sioniste/)
-- [Qui est Khalil al-Hayya, cible principale des raids de l’entité sioniste à Doha ?](https://lapresse.tn/2025/09/09/qui-est-khalil-al-hayya-cible-principale-des-raids-de-lentite-sioniste-a-doha/)
-- [Le Qatar condamne l’attaque de l’entité sioniste contre les dirigeants de Hamas à Doha](https://lapresse.tn/2025/09/09/le-qatar-condamne-lattaque-de-lentite-sioniste-contre-les-dirigeants-de-hamas-a-doha/)
-- [Flottille Soumoud : une unité spéciale en charge de l’enquête après l’incendie du « Family »](https://lapresse.tn/2025/09/09/flottille-soumoud-une-unite-speciale-en-charge-de-lenquete-apres-lincendie-du-family/)
-- [Tunisie : Karim Arfa inaugure le pont n°11 et allège la souffrance des élèves Siliana](https://lapresse.tn/2025/09/09/tunisie-karim-arfa-inaugure-le-pont-n11-et-allege-la-souffrance-des-eleves-siliana/)
-- [Port de Sidi Bou Saïd : La Garde nationale dément toute attaque contre un navire espagnol](https://lapresse.tn/2025/09/09/port-de-sidi-bou-said-la-garde-nationale-dement-toute-attaque-contre-un-navire-espagnol/)
-- [Flottille Soumoud : une unité spéciale en charge de l’enquête après l’incendie du « Family »](https://lapresse.tn/2025/09/09/flottille-soumoud-une-unite-speciale-en-charge-de-lenquete-apres-lincendie-du-family-2/)
-- [Sfax serre la vis contre l’occupation illégale des trottoirs](https://lapresse.tn/2025/09/09/sfax-serre-la-vis-contre-loccupation-illegale-des-trottoirs/)
-- [Tunisie : bilan des précipitations](https://lapresse.tn/2025/09/09/tunisie-bilan-des-precipitations/)
+- [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
+- [Une jeune pépite sous pression : Anis Saidi dans le flou](https://lapresse.tn/2025/09/09/une-jeune-pepite-sous-pression-anis-saidi-dans-le-flou/)
+- [Le ST se donne des raisons d’espérer : Dans la peau du challenger](https://lapresse.tn/2025/09/09/le-st-se-donne-des-raisons-desperer-dans-la-peau-du-challenger/)
+- [Tunisie : Orages, pluies abondantes et vents violents attendus ce soir](https://lapresse.tn/2025/09/09/tunisie-orages-pluies-abondantes-et-vents-violents-attendus-ce-soir/)
+- [Tunisair annonce des perturbations partielles sur ses vols](https://lapresse.tn/2025/09/09/tunisair-annonce-des-perturbations-partielles-sur-ses-vols/)
+- [Équipement et Habitat – Autoroute Tunis-Jelma : Mise à disposition des carrières relevant des domaines de l’Etat pour accélérer la réalisation du projet](https://lapresse.tn/2025/09/09/equipement-et-habitat-autoroute-tunis-jelma-mise-a-disposition-des-carrieres-relevant-des-domaines-de-letat-pour-accelerer-la-realisation-du-projet/)
+- [Le ministère de l’Agriculture prévient : protéger bétail et équipements face aux intempéries](https://lapresse.tn/2025/09/09/le-ministere-de-lagriculture-previent-proteger-betail-et-equipements-face-aux-intemperies/)
+- [Propreté urbaine : Un devoir partagé entre élus et citoyens](https://lapresse.tn/2025/09/09/proprete-urbaine-un-devoir-partage-entre-elus-et-citoyens/)
+- [Gafsa : Le pari fou d’une oasis tropicale sous la terre](https://lapresse.tn/2025/09/09/gafsa-le-pari-fou-dune-oasis-tropicale-sous-la-terre/)
+- [Pourquoi : Où est le bon goût ?](https://lapresse.tn/2025/09/09/pourquoi-ou-est-le-bon-gout/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
 - [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
 - [Cameroun-États-Unis : deux leaders de l’Ambazonie risquent la prison à vie au Minnesota](https://www.jeuneafrique.com/1720184/politique/cameroun-etats-unis-deux-leaders-de-lambazonie-risquent-la-prison-a-vie-au-minnesota/)
+- [« Assimi Goïta a rendu sa fierté au peuple malien » : la diaspora, premier soutien de Bamako](https://www.jeuneafrique.com/1720028/politique/assimi-goita-a-rendu-sa-fierte-au-peuple-malien-la-diaspora-premier-soutien-de-bamako/)
+- [Gbagbo et Thiam exclus : la liste définitive des candidats à la présidentielle en Côte d’Ivoire](https://www.jeuneafrique.com/1720092/politique/gbagbo-et-thiam-exclus-la-liste-definitive-des-candidats-a-la-presidentielle-en-cote-divoire/)
 - [G25-Niger : face à Tiani, des opposants adoptent la stratégie « Anonymous »](https://www.jeuneafrique.com/1720065/politique/g25-niger-face-a-tiani-des-opposants-adoptent-la-strategie-anonymous/)
-- [États-Unis-Tunisie : de Bill Bazzi à Joe Wilson, ces républicains américains qui donnent des leçons de démocratie à Kaïs Saïed](https://www.jeuneafrique.com/1720080/politique/etats-unis-tunisie-de-bill-bazzi-a-joe-wilson-ces-republicains-americains-qui-donnent-des-lecons-de-democratie-a-kais-saied/)
-- [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
-- [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
+- [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
 - [Du Nigeria à l’Éthiopie : le pari XXL de Dangote pour imposer son modèle « Africa first »](https://www.jeuneafrique.com/1720151/economie-entreprises/du-nigeria-a-lethiopie-le-pari-xxl-de-dangote-pour-imposer-son-modele-africa-first/)
-- [Matières premières : le Gabon peut-il vraiment passer des exportations à la transformation ?](https://www.jeuneafrique.com/1719895/economie-entreprises/matieres-premieres-le-gabon-peut-il-vraiment-passer-des-exportations-a-la-transformation/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
