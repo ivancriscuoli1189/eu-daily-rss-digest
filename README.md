@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 13:26*
+*Generato: 09 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [Paris : découverte de têtes de cochons devant des mosquées, la piste des actes de haine privilégiée](https://lapresse.tn/2025/09/09/paris-decouverte-de-tetes-de-cochons-devant-des-mosquees-la-piste-des-actes-de-haine-privilegiee/)
-- [La Turquie, premier exportateur mondial de farine](https://lapresse.tn/2025/09/09/la-turquie-premier-exportateur-mondial-de-farine/)
-- [Air Algérie : des perturbations de et vers la France en raison d’un préavis de grève des contrôleurs aériens français](https://lapresse.tn/2025/09/09/air-algerie-des-perturbations-de-et-vers-la-france-en-raison-dun-preavis-de-greve-des-controleurs-aeriens-francais/)
+- [La Délégation de Hamas à Doha échappe à une tentative d’assassinat de l’entité sioniste](https://lapresse.tn/2025/09/09/la-delegation-de-hamas-a-doha-echappe-a-une-tentative-dassassinat-de-lentite-sioniste/)
+- [Qui est Khalil al-Hayya, cible principale des raids de l’entité sioniste à Doha ?](https://lapresse.tn/2025/09/09/qui-est-khalil-al-hayya-cible-principale-des-raids-de-lentite-sioniste-a-doha/)
+- [Le Qatar condamne l’attaque de l’entité sioniste contre les dirigeants de Hamas à Doha](https://lapresse.tn/2025/09/09/le-qatar-condamne-lattaque-de-lentite-sioniste-contre-les-dirigeants-de-hamas-a-doha/)
+- [Flottille Soumoud : une unité spéciale en charge de l’enquête après l’incendie du « Family »](https://lapresse.tn/2025/09/09/flottille-soumoud-une-unite-speciale-en-charge-de-lenquete-apres-lincendie-du-family/)
+- [Tunisie : Karim Arfa inaugure le pont n°11 et allège la souffrance des élèves Siliana](https://lapresse.tn/2025/09/09/tunisie-karim-arfa-inaugure-le-pont-n11-et-allege-la-souffrance-des-eleves-siliana/)
 - [Port de Sidi Bou Saïd : La Garde nationale dément toute attaque contre un navire espagnol](https://lapresse.tn/2025/09/09/port-de-sidi-bou-said-la-garde-nationale-dement-toute-attaque-contre-un-navire-espagnol/)
-- [Concours international “Pont vers le chinois” : une Tunisienne primée pour son excellence oratoire](https://lapresse.tn/2025/09/09/concours-international-pont-vers-le-chinois-une-tunisienne-primee-pour-son-excellence-oratoire/)
-- [Alerte météo : pluies intenses, grêle et rafales à plus de 70 km/h attendues dans plusieurs régions](https://lapresse.tn/2025/09/09/alerte-meteo-pluies-intenses-grele-et-rafales-a-plus-de-70-km-h-attendues-dans-plusieurs-regions/)
+- [Flottille Soumoud : une unité spéciale en charge de l’enquête après l’incendie du « Family »](https://lapresse.tn/2025/09/09/flottille-soumoud-une-unite-speciale-en-charge-de-lenquete-apres-lincendie-du-family-2/)
 - [Sfax serre la vis contre l’occupation illégale des trottoirs](https://lapresse.tn/2025/09/09/sfax-serre-la-vis-contre-loccupation-illegale-des-trottoirs/)
 - [Tunisie : bilan des précipitations](https://lapresse.tn/2025/09/09/tunisie-bilan-des-precipitations/)
-- [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/09/les-barrages-tunisiens-en-chiffres-3/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [États-Unis-Tunisie : de Bill Bazzi à Joe Wilson, ces républicains américains qui donnent des leçons de démocratie à Kaïs Saïed](https://www.jeuneafrique.com/1720080/politique/etats-unis-tunisie-de-bill-bazzi-a-joe-wilson-ces-republicains-americains-qui-donnent-des-lecons-de-democratie-a-kais-saied/)
 - [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
 - [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
+- [Du Nigeria à l’Éthiopie : le pari XXL de Dangote pour imposer son modèle « Africa first »](https://www.jeuneafrique.com/1720151/economie-entreprises/du-nigeria-a-lethiopie-le-pari-xxl-de-dangote-pour-imposer-son-modele-africa-first/)
 - [Matières premières : le Gabon peut-il vraiment passer des exportations à la transformation ?](https://www.jeuneafrique.com/1719895/economie-entreprises/matieres-premieres-le-gabon-peut-il-vraiment-passer-des-exportations-a-la-transformation/)
-- [Pourquoi la pression financière augmente-t-elle pour les banques de l’Uemoa ?](https://www.jeuneafrique.com/1719219/economie-entreprises/pourquoi-les-banques-de-luemoa-sont-sous-pression-pour-se-financer/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
