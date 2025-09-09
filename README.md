@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 09:11*
+*Generato: 09 Sep 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
+- [Parliament adopts new EU rules to reduce textile and food waste](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30172/parliament-adopts-new-eu-rules-to-reduce-textile-and-food-waste)
+- [State of the European Union: Doorstep with EP President Metsola at 08.45](https://www.europarl.europa.eu/news/en/press-room/20250909IPR30237/state-of-the-european-union-doorstep-with-ep-president-metsola-at-08-45)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
 - [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
@@ -89,9 +92,6 @@
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30123/press-briefing-on-this-week-s-plenary-session)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30122/press-briefing-on-next-week-s-plenary-session)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
-- [EU-wide survey: Citizens seek enhanced EU role in protection amid global shifts](https://www.europarl.europa.eu/news/en/press-room/20250827IPR30018/eu-wide-survey-citizens-seek-enhanced-eu-role-in-protection-amid-global-shifts)
-- [Press conference by Bernd Lange on EU-US trade relations on Wednesday at 11.00](https://www.europarl.europa.eu/news/en/press-room/20250902IPR30093/press-conference-by-bernd-lange-on-eu-us-trade-relations-on-wednesday-at-11-00)
-- [New Eurobarometer survey: media briefing on Tuesday at 10:00](https://www.europarl.europa.eu/news/en/press-room/20250722IPR29805/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-00)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [Le prince Fayçal Ben Farhan en visite à Tunis pour renforcer la coopération tuniso-saoudienne](https://lapresse.tn/2025/09/09/le-prince-faycal-ben-farhan-en-visite-a-tunis-pour-renforcer-la-cooperation-tuniso-saoudienne/)
-- [Qualifications Mondial 2026 – 8e journée Guinée équatoriale-Tunisie (0-1) : Bonjour la Coupe du monde !](https://lapresse.tn/2025/09/09/qualifications-mondial-2026-8e-journee-guinee-equatoriale-tunisie-0-1-bonjour-la-coupe-du-monde/)
-- [La Tunisie et le Népal explorent de nouvelles perspectives de coopération](https://lapresse.tn/2025/09/09/la-tunisie-et-le-nepal-explorent-de-nouvelles-perspectives-de-cooperation/)
-- [Sidi Bou Saïd : l’Intérieur dément la chute d’un drone, incendie limité à des gilets de sauvetage](https://lapresse.tn/2025/09/09/sidi-bou-said-linterieur-dement-la-chute-dun-drone-incendie-limite-a-des-gilets-de-sauvetage/)
-- [Incendie du navire Soumoud : la Garde nationale dément toute implication d’un drone](https://lapresse.tn/2025/09/09/incendie-du-navire-soumoud-la-garde-nationale-dement-toute-implication-dun-drone/)
-- [Météo : des orages et une légère baisse des températures prévus ce mardi !](https://lapresse.tn/2025/09/09/meteo-des-orages-et-une-legere-baisse-des-temperatures-prevus-ce-mardi/)
-- [Naissance d’un nouveau corps : Bienvenue à la Garde municipale](https://lapresse.tn/2025/09/08/naissance-dun-nouveau-corps-bienvenue-a-la-garde-municipale/)
-- [Boycott des enseignes étrangères : Regain d’intérêt pour les épiceries traditionnelles et fines](https://lapresse.tn/2025/09/08/boycott-des-enseignes-etrangeres-regain-dinteret-pour-les-epiceries-traditionnelles-et-fines/)
-- [Pourquoi : La saison des pénuries commence](https://lapresse.tn/2025/09/08/pourquoi-la-saison-des-penuries-commence/)
+- [La Tunisie participe à la 25e foire internationale de l’investissement et du commerce de Chine](https://lapresse.tn/2025/09/09/la-tunisie-participe-a-la-25e-foire-internationale-de-linvestissement-et-du-commerce-de-chine/)
+- [Concours international “Pont vers le chinois” : une Tunisienne primée pour son excellence oratoire](https://lapresse.tn/2025/09/09/concours-international-pont-vers-le-chinois-une-tunisienne-primee-pour-son-excellence-oratoire/)
+- [Tunisie : 5 millions de dinars pour redonner vie à l’Institut Bab Jedid à Sousse](https://lapresse.tn/2025/09/09/tunisie-5-millions-de-dinars-pour-redonner-vie-a-linstitut-bab-jedid-a-sousse/)
+- [Alerte météo : pluies intenses, grêle et rafales à plus de 70 km/h attendues dans plusieurs régions](https://lapresse.tn/2025/09/09/alerte-meteo-pluies-intenses-grele-et-rafales-a-plus-de-70-km-h-attendues-dans-plusieurs-regions/)
+- [Tunis : reprise demain de la ligne de métro n°3 entre Barcelone et Ibn Khaldoun](https://lapresse.tn/2025/09/09/tunis-reprise-demain-de-la-ligne-de-metro-n3-entre-barcelone-et-ibn-khaldoun/)
+- [Pfizer annonce la nomination de Ouardia Djoudjai au poste de Directrice du Cluster Afrique du Nord.](https://lapresse.tn/2025/09/09/pfizer-annonce-la-nomination-de-madame-ouardia-djoudjai-au-poste-de-directrice-du-cluster-afrique-du-nord/)
+- [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/09/les-barrages-tunisiens-en-chiffres-3/)
+- [Occupation anarchique : 80 % des installations sauvages supprimées, selon la police municipale de Ben Arous](https://lapresse.tn/2025/09/09/occupation-anarchique-80-des-installations-sauvages-supprimees-selon-la-police-municipale-de-ben-arous/)
+- [Tunisie : une jeune Algérienne de 15 ans meurt noyée à Gabès](https://lapresse.tn/2025/09/09/tunisie-une-jeune-algerienne-de-15-ans-meurt-noyee-a-gabes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
 - [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
+- [Cameroun-États-Unis : deux leaders de l’Ambazonie risquent la prison à vie au Minnesota](https://www.jeuneafrique.com/1720184/politique/cameroun-etats-unis-deux-leaders-de-lambazonie-risquent-la-prison-a-vie-au-minnesota/)
 - [G25-Niger : face à Tiani, des opposants adoptent la stratégie « Anonymous »](https://www.jeuneafrique.com/1720065/politique/g25-niger-face-a-tiani-des-opposants-adoptent-la-strategie-anonymous/)
+- [États-Unis-Tunisie : de Bill Bazzi à Joe Wilson, ces républicains américains qui donnent des leçons de démocratie à Kaïs Saïed](https://www.jeuneafrique.com/1720080/politique/etats-unis-tunisie-de-bill-bazzi-a-joe-wilson-ces-republicains-americains-qui-donnent-des-lecons-de-democratie-a-kais-saied/)
 - [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
 - [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
-- [Débarquement d’Al Hoceima : il y a cent ans, Espagnols et Français à l’assaut des troupes rifaines d’Abdelkrim](https://www.jeuneafrique.com/1717721/politique/debarquement-dal-hoceima-il-y-a-cent-ans-espagnols-et-francais-a-lassaut-des-troupes-rifaines-dabdelkrim/)
-- [En Centrafrique, pourquoi Faustin-Archange Touadéra mise sur Mohammed ben Zayed et les Émirats arabes unis](https://www.jeuneafrique.com/1718912/politique/en-centrafrique-pourquoi-faustin-archange-touadera-mise-sur-mohammed-ben-zayed-et-les-emirats-arabes-unis/)
-- [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
+- [Matières premières : le Gabon peut-il vraiment passer des exportations à la transformation ?](https://www.jeuneafrique.com/1719895/economie-entreprises/matieres-premieres-le-gabon-peut-il-vraiment-passer-des-exportations-a-la-transformation/)
 - [Pourquoi la pression financière augmente-t-elle pour les banques de l’Uemoa ?](https://www.jeuneafrique.com/1719219/economie-entreprises/pourquoi-les-banques-de-luemoa-sont-sous-pression-pour-se-financer/)
-- [Ouattara 2025 : la prime à la stabilité a-t-elle encore un prix ? – par Aurélie M’Bida](https://www.jeuneafrique.com/1715501/economie-entreprises/ouattara-2025-la-prime-a-la-stabilite-a-t-elle-encore-un-prix-par-aurelie-mbida/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
