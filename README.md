@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 18:12*
+*Generato: 09 Sep 2025, 21:06*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,10 +82,10 @@
 
 ## UE – EP – Press Room
 
-- [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
-- [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
 - [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
+- [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
+- [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
 - [Parliament adopts new EU rules to reduce textile and food waste](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30172/parliament-adopts-new-eu-rules-to-reduce-textile-and-food-waste)
 - [State of the European Union: Doorstep with EP President Metsola at 08.45](https://www.europarl.europa.eu/news/en/press-room/20250909IPR30237/state-of-the-european-union-doorstep-with-ep-president-metsola-at-08-45)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
+- [Secteur immobilier en crise : et si la solution venait de la foule ?](https://lapresse.tn/2025/09/09/secteur-immobilier-en-crise-et-si-la-solution-venait-de-la-foule/)
+- [Convergence de vues entre Tunis et Riyad sur les questions d’intérêt commun](https://lapresse.tn/2025/09/09/convergence-de-vues-entre-tunis-et-riyad-sur-les-questions-dinteret-commun/)
 - [Une jeune pépite sous pression : Anis Saidi dans le flou](https://lapresse.tn/2025/09/09/une-jeune-pepite-sous-pression-anis-saidi-dans-le-flou/)
-- [Le ST se donne des raisons d’espérer : Dans la peau du challenger](https://lapresse.tn/2025/09/09/le-st-se-donne-des-raisons-desperer-dans-la-peau-du-challenger/)
 - [Tunisie : Orages, pluies abondantes et vents violents attendus ce soir](https://lapresse.tn/2025/09/09/tunisie-orages-pluies-abondantes-et-vents-violents-attendus-ce-soir/)
 - [Tunisair annonce des perturbations partielles sur ses vols](https://lapresse.tn/2025/09/09/tunisair-annonce-des-perturbations-partielles-sur-ses-vols/)
 - [Équipement et Habitat – Autoroute Tunis-Jelma : Mise à disposition des carrières relevant des domaines de l’Etat pour accélérer la réalisation du projet](https://lapresse.tn/2025/09/09/equipement-et-habitat-autoroute-tunis-jelma-mise-a-disposition-des-carrieres-relevant-des-domaines-de-letat-pour-accelerer-la-realisation-du-projet/)
-- [Le ministère de l’Agriculture prévient : protéger bétail et équipements face aux intempéries](https://lapresse.tn/2025/09/09/le-ministere-de-lagriculture-previent-proteger-betail-et-equipements-face-aux-intemperies/)
 - [Propreté urbaine : Un devoir partagé entre élus et citoyens](https://lapresse.tn/2025/09/09/proprete-urbaine-un-devoir-partage-entre-elus-et-citoyens/)
 - [Gafsa : Le pari fou d’une oasis tropicale sous la terre](https://lapresse.tn/2025/09/09/gafsa-le-pari-fou-dune-oasis-tropicale-sous-la-terre/)
 - [Pourquoi : Où est le bon goût ?](https://lapresse.tn/2025/09/09/pourquoi-ou-est-le-bon-gout/)
