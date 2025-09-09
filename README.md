@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 12:18*
+*Generato: 09 Sep 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,7 +82,7 @@
 
 ## UE – EP – Press Room
 
-- [Moldovan President Maia Sandu: “Russia wants to turn our country against Europe”](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/moldovan-president-maia-sandu-russia-wants-to-turn-our-country-against-europe)
+- [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
 - [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
 - [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
-- [Sfax serre la vis contre l’occupation illégale des trottoirs](https://lapresse.tn/2025/09/09/sfax-serre-la-vis-contre-loccupation-illegale-des-trottoirs/)
-- [Tunisie : bilan des précipitations](https://lapresse.tn/2025/09/09/tunisie-bilan-des-precipitations/)
+- [Paris : découverte de têtes de cochons devant des mosquées, la piste des actes de haine privilégiée](https://lapresse.tn/2025/09/09/paris-decouverte-de-tetes-de-cochons-devant-des-mosquees-la-piste-des-actes-de-haine-privilegiee/)
+- [La Turquie, premier exportateur mondial de farine](https://lapresse.tn/2025/09/09/la-turquie-premier-exportateur-mondial-de-farine/)
+- [Air Algérie : des perturbations de et vers la France en raison d’un préavis de grève des contrôleurs aériens français](https://lapresse.tn/2025/09/09/air-algerie-des-perturbations-de-et-vers-la-france-en-raison-dun-preavis-de-greve-des-controleurs-aeriens-francais/)
 - [Port de Sidi Bou Saïd : La Garde nationale dément toute attaque contre un navire espagnol](https://lapresse.tn/2025/09/09/port-de-sidi-bou-said-la-garde-nationale-dement-toute-attaque-contre-un-navire-espagnol/)
 - [Concours international “Pont vers le chinois” : une Tunisienne primée pour son excellence oratoire](https://lapresse.tn/2025/09/09/concours-international-pont-vers-le-chinois-une-tunisienne-primee-pour-son-excellence-oratoire/)
 - [Alerte météo : pluies intenses, grêle et rafales à plus de 70 km/h attendues dans plusieurs régions](https://lapresse.tn/2025/09/09/alerte-meteo-pluies-intenses-grele-et-rafales-a-plus-de-70-km-h-attendues-dans-plusieurs-regions/)
-- [Tunis : reprise demain de la ligne de métro n°3 entre Barcelone et Ibn Khaldoun](https://lapresse.tn/2025/09/09/tunis-reprise-demain-de-la-ligne-de-metro-n3-entre-barcelone-et-ibn-khaldoun/)
+- [Sfax serre la vis contre l’occupation illégale des trottoirs](https://lapresse.tn/2025/09/09/sfax-serre-la-vis-contre-loccupation-illegale-des-trottoirs/)
+- [Tunisie : bilan des précipitations](https://lapresse.tn/2025/09/09/tunisie-bilan-des-precipitations/)
 - [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/09/les-barrages-tunisiens-en-chiffres-3/)
-- [La Tunisie participe à la 25e foire internationale de l’investissement et du commerce de Chine](https://lapresse.tn/2025/09/09/la-tunisie-participe-a-la-25e-foire-internationale-de-linvestissement-et-du-commerce-de-chine/)
-- [La Tunisie et l’Égypte misent sur une ligne maritime directe et des alliances économiques](https://lapresse.tn/2025/09/09/la-tunisie-et-legypte-misent-sur-une-ligne-maritime-directe-et-des-alliances-economiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -213,15 +213,15 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
+- [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
+- [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
+- [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
 - [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
 - [The ICJ joins other international human rights NGOs in demanding the renewal of the mandate of the UN Special Rapporteur on the situation of human rights in the Russian Federation](https://www.icj.org/the-icj-joins-other-international-human-rights-ngos-in-demanding-the-renewal-of-the-mandate-of-the-un-special-rapporteur-on-the-situation-of-human-rights-in-the-russian-federation/)
-- [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
+- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 - [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
-- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
-- [Tunisia: Cease judges’ arbitrary prosecution and detention](https://www.icj.org/tunisia-cease-judges-arbitrary-prosecution-and-detention/)
-- [Libya: ICJ urges UN Human Rights Council to address deteriorating human rights situation at upcoming Universal Periodic Review](https://www.icj.org/libya-icj-urges-un-human-rights-council-to-address-deteriorating-human-rights-situation-at-upcoming-universal-periodic-review/)
-- [Sri Lanka: Counter-terror police must cease the harassment of Tamil photojournalist Kanapathipillai Kumanan](https://www.icj.org/sri-lanka-counter-terror-police-must-cease-harassment-of-tamil-photojournalist-kanapathipillai-kumanan/)
+- [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 
 ## THINK TANK – ECFR – MENA
 
