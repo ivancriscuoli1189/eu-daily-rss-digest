@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Sep 2025, 21:10*
+*Generato: 09 Sep 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Nos enfants, notre richesse](https://lapresse.tn/2025/09/08/nos-enfants-notre-richesse/)
+- [Banque centrale et finances publiques : Saïed insiste sur la transparence](https://lapresse.tn/2025/09/09/banque-centrale-et-finances-publiques-saied-insiste-sur-la-transparence/)
+- [DECES : Habib Ben Mohamed Ben Saïd DOGHRI](https://lapresse.tn/2025/09/09/deces-habib-ben-mohamed-ben-said-doghri/)
 - [Afghanistan : 263.000 enfants touchés par le tremblement de terre de l’Hindu Kush](https://lapresse.tn/2025/09/08/afghanistan-263-000-enfants-touches-par-le-tremblement-de-terre-de-lhindu-kush/)
-- [L’Assemblée nationale française renverse le gouvernement Bayrou](https://lapresse.tn/2025/09/08/lassemblee-nationale-francaise-renverse-le-gouvernement-bayrou/)
-- [La Banque mondiale réaffirme son engagement pour la transition énergétique en Tunisie](https://lapresse.tn/2025/09/08/la-banque-mondiale-reaffirme-son-engagement-pour-la-transition-energetique-en-tunisie/)
+- [Orages et risque de grêle ce soir dans plusieurs régions de Tunisie](https://lapresse.tn/2025/09/08/orages-et-risque-de-grele-ce-soir-dans-plusieurs-regions-de-tunisie/)
 - [Opération de contrôle économique sur instructions présidentielles : Garantir l’équité entre producteurs et consommateurs](https://lapresse.tn/2025/09/08/operation-de-controle-economique-sur-instructions-presidentielles-garantir-lequite-entre-producteurs-et-consommateurs/)
 - [Santé : Expansion des services d’imagerie médicale à distance](https://lapresse.tn/2025/09/08/sante-expansion-des-services-dimagerie-medicale-a-distance/)
-- [Modernisation à la chinoise : Un modèle inspirant pour la Tunisie et l’Afrique](https://lapresse.tn/2025/09/08/modernisation-a-la-chinoise-un-modele-inspirant-pour-la-tunisie-et-lafrique/)
 - [Naissance d’un nouveau corps : Bienvenue à la Garde municipale](https://lapresse.tn/2025/09/08/naissance-dun-nouveau-corps-bienvenue-a-la-garde-municipale/)
 - [Boycott des enseignes étrangères : Regain d’intérêt pour les épiceries traditionnelles et fines](https://lapresse.tn/2025/09/08/boycott-des-enseignes-etrangeres-regain-dinteret-pour-les-epiceries-traditionnelles-et-fines/)
 - [Pourquoi : La saison des pénuries commence](https://lapresse.tn/2025/09/08/pourquoi-la-saison-des-penuries-commence/)
@@ -268,12 +268,12 @@
 - [Habiba Touré, Ivoirienne sur le tard, pro-Gbagbo pour toujours](https://www.jeuneafrique.com/1719912/politique/habiba-toure-ivoirienne-sur-le-tard-pro-gbagbo-pour-toujours/)
 - [Au Burkina Faso, une avocate interpellée pour « trahison » et « outrage » à Ibrahim Traoré](https://www.jeuneafrique.com/1719992/politique/au-burkina-faso-une-avocate-interpellee-pour-trahison-et-outrage-a-ibrahim-traore/)
 - [Débarquement d’Al Hoceima : il y a cent ans, Espagnols et Français à l’assaut des troupes rifaines d’Abdelkrim](https://www.jeuneafrique.com/1717721/politique/debarquement-dal-hoceima-il-y-a-cent-ans-espagnols-et-francais-a-lassaut-des-troupes-rifaines-dabdelkrim/)
+- [En Centrafrique, pourquoi Faustin-Archange Touadéra mise sur Mohammed ben Zayed et les Émirats arabes unis](https://www.jeuneafrique.com/1718912/politique/en-centrafrique-pourquoi-faustin-archange-touadera-mise-sur-mohammed-ben-zayed-et-les-emirats-arabes-unis/)
 - [En Guinée, le régulateur suspend deux médias](https://www.jeuneafrique.com/1719969/politique/en-guinee-le-regulateur-suspend-deux-medias/)
 - [Gouvernement sénégalais : des changements à la Justice, à l’Intérieur et aux Affaires étrangères](https://www.jeuneafrique.com/1719959/politique/gouvernement-senegalais-des-changements-a-la-justice-a-linterieur-et-aux-affaires-etrangeres/)
 - [Nigeria : au moins 63 morts dans une attaque jihadiste](https://www.jeuneafrique.com/1719955/politique/nigeria-au-moins-63-morts-dans-une-attaque-jihadiste/)
-- [Libreville II, le rêve urbain du président Oligui Nguema, orchestré par l’architecte Atepa](https://www.jeuneafrique.com/1712071/politique/libreville-ii-le-reve-urbain-du-president-oligui-nguema-orchestre-par-larchitecte-atepa/)
+- [Pourquoi la pression financière augmente-t-elle pour les banques de l’Uemoa ?](https://www.jeuneafrique.com/1719219/economie-entreprises/pourquoi-les-banques-de-luemoa-sont-sous-pression-pour-se-financer/)
 - [Ouattara 2025 : la prime à la stabilité a-t-elle encore un prix ? – par Aurélie M’Bida](https://www.jeuneafrique.com/1715501/economie-entreprises/ouattara-2025-la-prime-a-la-stabilite-a-t-elle-encore-un-prix-par-aurelie-mbida/)
-- [Burkina Faso : la méthode Traoré pour reprendre la main sur l’or](https://www.jeuneafrique.com/1719704/economie-entreprises/burkina-faso-la-methode-traore-pour-reprendre-la-main-sur-lor/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
