@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 12:18*
+*Generato: 10 Sep 2025, 13:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,8 +272,8 @@
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
 - [Présidentielle au Cameroun : Dieudonné Yebga, l’homme qui a permis l’éviction de Maurice Kamto](https://www.jeuneafrique.com/1716740/politique/presidentielle-au-cameroun-dieudonne-yebga-lhomme-qui-a-permis-leviction-de-maurice-kamto/)
+- [Le Congo pourra-t-il en finir avec les délestages ?](https://www.jeuneafrique.com/1720560/economie-entreprises/le-congo-pourra-t-il-en-finir-avec-les-delestages/)
 - [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
-- [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
