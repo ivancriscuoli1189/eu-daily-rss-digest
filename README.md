@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 11:03*
+*Generato: 10 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
+- [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
+- [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
+- [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
 - [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
 - [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
 - [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
 - [Parliament adopts new EU rules to reduce textile and food waste](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30172/parliament-adopts-new-eu-rules-to-reduce-textile-and-food-waste)
-- [State of the European Union: Doorstep with EP President Metsola at 08.45](https://www.europarl.europa.eu/news/en/press-room/20250909IPR30237/state-of-the-european-union-doorstep-with-ep-president-metsola-at-08-45)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
-- [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
-- [Nabiha Kamoun, présidente de la Chambre des jardins et crèches d’enfants : « les jardins d’enfants traversent une crise »](https://lapresse.tn/2025/09/10/nabiha-kamoun-presidente-de-la-chambre-des-jardins-et-creches-denfants-les-jardins-denfants-traversent-une-crise/)
-- [Tunisie : Les autorités interdisent les produits capillaires à base d’acide glyoxylique](https://lapresse.tn/2025/09/10/tunisie-les-autorites-interdisent-les-produits-capillaires-a-base-dacide-glyoxylique/)
-- [Bali frappée par des inondations meurtrières](https://lapresse.tn/2025/09/10/bali-frappee-par-des-inondations-meurtrieres/)
+- [L’ESS est rentrée bredouille du Maroc : Plus qu’une simple défaite…](https://lapresse.tn/2025/09/10/less-est-rentree-bredouille-du-maroc-plus-quune-simple-defaite/)
+- [Jendouba-pluies et orages attendus: la protection civile appelle à la prudence](https://lapresse.tn/2025/09/10/jendouba-pluies-et-orages-attendus-la-protection-civile-appelle-a-la-prudence/)
+- [La ville de Douz accueille la 57e édition du Festival International du Sahara](https://lapresse.tn/2025/09/10/la-ville-de-douz-accueille-la-57e-edition-du-festival-international-du-sahara/)
 - [Commémoration ce samedi du 72ème anniversaire de l’assassinant du martyr Hédi Chaker](https://lapresse.tn/2025/09/10/commemoration-ce-samedi-du-72eme-anniversaire-de-lassassinant-du-martyr-hedi-chaker/)
 - [Gabès : une vingtaine de cas d’asphyxie dus aux émanations du Groupe chimique tunisien](https://lapresse.tn/2025/09/10/gabes-une-vingtaine-de-cas-dasphyxie-dus-aux-emanations-du-groupe-chimique-tunisien/)
 - [Tunisie–Arabie saoudite : signature d’un accord de coopération en formation diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-signature-dun-accord-de-cooperation-en-formation-diplomatique/)
+- [De nouvelles nominations à la tête de plusieurs délégations régionales de l’éducation](https://lapresse.tn/2025/09/10/de-nouvelles-nominations-a-la-tete-de-plusieurs-delegations-regionales-de-leducation/)
+- [Nabiha Kamoun, présidente de la Chambre des jardins et crèches d’enfants : « les jardins d’enfants traversent une crise »](https://lapresse.tn/2025/09/10/nabiha-kamoun-presidente-de-la-chambre-des-jardins-et-creches-denfants-les-jardins-denfants-traversent-une-crise/)
 - [SOS Villages d’Enfants : 5 268 enfants se préparent à la rentrée scolaire](https://lapresse.tn/2025/09/10/sos-villages-denfants-5-268-enfants-se-preparent-a-la-rentree-scolaire/)
-- [En Tunisie, 25 % des citoyens souffrent d’addiction](https://lapresse.tn/2025/09/10/en-tunisie-25-des-citoyens-souffrent-daddiction/)
-- [Tunisie : prolongation des soldes d’été](https://lapresse.tn/2025/09/10/tunisie-prolongation-des-soldes-dete/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
+- [Mongi Hamdi : « Sans une intervention des Occidentaux et de l’UA, la crise soudanaise ne fera que s’aggraver »](https://www.jeuneafrique.com/1719401/politique/mongi-hamdi-sans-une-intervention-des-occidentaux-et-de-lua-la-crise-soudanaise-ne-fera-que-saggraver/)
 - [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
+- [Cellou Dalein Diallo : « Mamadi Doumbouya ne veut pas que je me présente face à lui »](https://www.jeuneafrique.com/1720401/politique/cellou-dalein-diallo-mamadi-doumbouya-ne-veut-pas-que-je-me-presente-face-a-lui/)
 - [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
 - [Présidentielle au Cameroun : Dieudonné Yebga, l’homme qui a permis l’éviction de Maurice Kamto](https://www.jeuneafrique.com/1716740/politique/presidentielle-au-cameroun-dieudonne-yebga-lhomme-qui-a-permis-leviction-de-maurice-kamto/)
-- [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
-- [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
 - [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
 - [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
 
