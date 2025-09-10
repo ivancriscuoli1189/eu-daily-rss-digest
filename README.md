@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 06:18*
+*Generato: 10 Sep 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
+- [Tunisie–Arabie saoudite : signature d’un accord de coopération en formation diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-signature-dun-accord-de-cooperation-en-formation-diplomatique/)
+- [Tunisie : prolongation des soldes d’été](https://lapresse.tn/2025/09/10/tunisie-prolongation-des-soldes-dete/)
+- [600 000 quintaux de semences sélectionnées disponibles pour les agriculteurs, une première en Tunisie](https://lapresse.tn/2025/09/10/600-000-quintaux-de-semences-selectionnees-disponibles-pour-les-agriculteurs-une-premiere-en-tunisie/)
+- [Tunisie : Sarra Zaafrani Zenzeri conduit une large délégation ministérielle en Égypte](https://lapresse.tn/2025/09/10/tunisie-sarra-zaafrani-zenzeri-conduit-une-large-delegation-ministerielle-en-egypte/)
+- [Attaque sioniste contre Doha : La Tunisie dénonce « l’agression lâche » contre le Qatar](https://lapresse.tn/2025/09/10/attaque-sioniste-contre-doha-la-tunisie-denonce-lagression-lache-contre-le-qatar/)
 - [Météo : Orages et Baisse des Températures au Nord et au Centre](https://lapresse.tn/2025/09/10/meteo-orages-et-baisse-des-temperatures-au-nord-et-au-centre/)
-- [Le chef de la diplomatie iranienne attendu, mercredi, à Tunis](https://lapresse.tn/2025/09/10/le-chef-de-la-diplomatie-iranienne-attendu-mercredi-a-tunis/)
-- [BH Leasing maintient un bilan solide](https://lapresse.tn/2025/09/09/bh-leasing-maintient-un-bilan-solide/)
-- [Convergence de vues entre Tunis et Riyad sur les questions d’intérêt commun](https://lapresse.tn/2025/09/09/convergence-de-vues-entre-tunis-et-riyad-sur-les-questions-dinteret-commun/)
+- [Tunisie : le Laboratoire national du génome humain, une priorité stratégique selon Ferjani](https://lapresse.tn/2025/09/10/tunisie-le-laboratoire-national-du-genome-humain-une-priorite-strategique-selon-ferjani/)
+- [Bizerte : 2 000 tonnes de déchets verts transformés chaque année en compost](https://lapresse.tn/2025/09/10/bizerte-2-000-tonnes-de-dechets-verts-transformes-chaque-annee-en-compost/)
 - [Tunisie : Orages, pluies abondantes et vents violents attendus ce soir](https://lapresse.tn/2025/09/09/tunisie-orages-pluies-abondantes-et-vents-violents-attendus-ce-soir/)
-- [Propreté urbaine : Un devoir partagé entre élus et citoyens](https://lapresse.tn/2025/09/09/proprete-urbaine-un-devoir-partage-entre-elus-et-citoyens/)
-- [Gafsa : Le pari fou d’une oasis tropicale sous la terre](https://lapresse.tn/2025/09/09/gafsa-le-pari-fou-dune-oasis-tropicale-sous-la-terre/)
-- [Pourquoi : Où est le bon goût ?](https://lapresse.tn/2025/09/09/pourquoi-ou-est-le-bon-gout/)
-- [Secteur immobilier en crise : et si la solution venait de la foule ?](https://lapresse.tn/2025/09/09/secteur-immobilier-en-crise-et-si-la-solution-venait-de-la-foule/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 - [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
 - [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
-- [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
-- [The ICJ joins other international human rights NGOs in demanding the renewal of the mandate of the UN Special Rapporteur on the situation of human rights in the Russian Federation](https://www.icj.org/the-icj-joins-other-international-human-rights-ngos-in-demanding-the-renewal-of-the-mandate-of-the-un-special-rapporteur-on-the-situation-of-human-rights-in-the-russian-federation/)
+- [Türkiye: Proceedings against Istanbul Bar Association board a “direct assault” on independence of legal profession](https://www.icj.org/turkiye-proceedings-against-istanbul-bar-association-board-a-direct-assault-on-independence-of-legal-profession/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
+- [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
 - [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
-- [Afghanistan: Open Letter to the UN Human Rights Council Urging Support for Accountability Amid the Deepening Human Rights and Humanitarian Crisis](https://www.icj.org/afghanistan-open-letter-to-the-un-human-rights-council-urging-support-for-accountability-amid-the-deepening-human-rights-and-humanitarian-crisis/)
-- [ASEAN: ICJ and human rights defenders from Southeast Asia urge a Rights-Based Approach to Countering Harmful Online Content](https://www.icj.org/asean-icj-and-human-rights-defenders-from-southeast-asia-urge-a-rights-based-approach-to-countering-harmful-online-content/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
 - [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
@@ -271,9 +272,8 @@
 - [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
 - [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
 - [Cameroun-États-Unis : deux leaders de l’Ambazonie risquent la prison à vie au Minnesota](https://www.jeuneafrique.com/1720184/politique/cameroun-etats-unis-deux-leaders-de-lambazonie-risquent-la-prison-a-vie-au-minnesota/)
-- [« Assimi Goïta a rendu sa fierté au peuple malien » : la diaspora, premier soutien de Bamako](https://www.jeuneafrique.com/1720028/politique/assimi-goita-a-rendu-sa-fierte-au-peuple-malien-la-diaspora-premier-soutien-de-bamako/)
 - [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
-- [Du Nigeria à l’Éthiopie : le pari XXL de Dangote pour imposer son modèle « Africa first »](https://www.jeuneafrique.com/1720151/economie-entreprises/du-nigeria-a-lethiopie-le-pari-xxl-de-dangote-pour-imposer-son-modele-africa-first/)
+- [5 questions pour comprendre quels défis la future banque de l’Alliance des États du Sahel devra relever](https://www.jeuneafrique.com/1714913/economie-entreprises/5-questions-pour-comprendre-quels-defis-la-future-banque-de-lalliance-des-etats-du-sahel-devra-relever/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
