@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 18:14*
+*Generato: 10 Sep 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,9 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
-- [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Chantages](https://lapresse.tn/2025/09/10/chantages/)
-- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
-- [Opep+ : Une hausse de production inattendue qui défie les marchés](https://lapresse.tn/2025/09/10/opep-une-hausse-de-production-inattendue-qui-defie-les-marches/)
-- [EXPRESS](https://lapresse.tn/2025/09/10/express-262/)
-- [Réformes structurelles : La formation professionnelle à la croisée des chemins](https://lapresse.tn/2025/09/10/reformes-structurelles-la-formation-professionnelle-a-la-croisee-des-chemins/)
-- [Tunisie : pluies abondantes et chutes de grêle attendues ce soir](https://lapresse.tn/2025/09/10/tunisie-pluies-abondantes-et-chutes-de-grele-attendues-ce-soir/)
-- [La Tunisie et ARROW Electronics envisagent une plateforme logistique pour l’électronique](https://lapresse.tn/2025/09/10/la-tunisie-et-arrow-electronics-envisagent-une-plateforme-logistique-pour-lelectronique/)
+- [Flottille Soumoud : le départ vers Gaza reporté pour la troisième fois à cause du mauvais temps](https://lapresse.tn/2025/09/10/flottille-soumoud-le-depart-vers-gaza-reporte-pour-la-troisieme-fois-a-cause-du-mauvais-temps/)
+- [Ministère de l’Intérieur : l’agression d’hier sur un navire à Sidi Bou Saïd était préméditée](https://lapresse.tn/2025/09/10/ministere-de-linterieur-lagression-dhier-sur-un-navire-a-sidi-bou-said-etait-premeditee/)
+- [Ras Angela : le point le plus septentrional d’Afrique du Nord se révèle aux visiteurs](https://lapresse.tn/2025/09/10/ras-angela-le-point-le-plus-septentrional-dafrique-du-nord-se-revele-aux-visiteurs/)
+- [Tunisie-Iran : Volonté commune de promouvoir la coopération](https://lapresse.tn/2025/09/10/tunisie-iran-volonte-commune-de-promouvoir-la-cooperation/)
+- [Tunisie – Arabie Saoudite ­- 4e Réunion du comité de suivi et de consultation politique : Un nouvel élan diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-4e-reunion-du-comite-de-suivi-et-de-consultation-politique-un-nouvel-elan-diplomatique/)
+- [Bizerte : 60 millions de dinars pour restaurer les plages et protéger les infrastructures](https://lapresse.tn/2025/09/10/bizerte-60-millions-de-dinars-pour-restaurer-les-plages-et-proteger-les-infrastructures/)
 - [Double séance – effets positifs pour les citoyens : Un rythme plus actif et productif](https://lapresse.tn/2025/09/10/double-seance-effets-positifs-pour-les-citoyens-un-rythme-plus-actif-et-productif/)
 - [Métlaoui : Quand l’écotourisme redonne vie aux oasis de montagne](https://lapresse.tn/2025/09/10/metlaoui-quand-lecotourisme-redonne-vie-aux-oasis-de-montagne/)
-- [Université d’été, ce week-end, à Hammamet : Penser autrement le développement !](https://lapresse.tn/2025/09/10/universite-dete-ce-week-end-a-hammamet-penser-autrement-le-developpement/)
+- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
+- [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 - [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
+- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
 - [Türkiye: Proceedings against Istanbul Bar Association board a “direct assault” on independence of legal profession](https://www.icj.org/turkiye-proceedings-against-istanbul-bar-association-board-a-direct-assault-on-independence-of-legal-profession/)
-- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
-- [Israel/Palestine: Israel must halt its settlement plan in the E1 area of the occupied West Bank](https://www.icj.org/israel-palestine-israel-must-halt-its-settlement-plan-in-the-e1-area-of-the-occupied-west-bank/)
-- [Egypt: End grossly unfair prosecution of human rights defender Dr Ahmad Amasha and release him immediately](https://www.icj.org/egypt-end-grossly-unfair-prosecution-of-human-rights-defender-dr-ahmad-amasha-release-him-immediately/)
 
 ## THINK TANK – ECFR – MENA
 
