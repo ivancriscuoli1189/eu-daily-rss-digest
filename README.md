@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 13:19*
+*Generato: 10 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
+- [La Cheffe du Gouvernement arrive au Cair](https://lapresse.tn/2025/09/10/la-cheffe-du-gouvernement-arrive-au-cair/)
+- [Coûts de la rentrée scolaire : une hausse continue et un fardeau qui pèse sur les parents](https://lapresse.tn/2025/09/10/couts-de-la-rentree-scolaire-une-hausse-continue-et-un-fardeau-qui-pese-sur-les-parents/)
 - [L’ESS est rentrée bredouille du Maroc : Plus qu’une simple défaite…](https://lapresse.tn/2025/09/10/less-est-rentree-bredouille-du-maroc-plus-quune-simple-defaite/)
-- [Jendouba-pluies et orages attendus: la protection civile appelle à la prudence](https://lapresse.tn/2025/09/10/jendouba-pluies-et-orages-attendus-la-protection-civile-appelle-a-la-prudence/)
-- [La ville de Douz accueille la 57e édition du Festival International du Sahara](https://lapresse.tn/2025/09/10/la-ville-de-douz-accueille-la-57e-edition-du-festival-international-du-sahara/)
+- [Tunisie : Les autorités interdisent les produits capillaires à base d’acide glyoxylique](https://lapresse.tn/2025/09/10/tunisie-les-autorites-interdisent-les-produits-capillaires-a-base-dacide-glyoxylique/)
 - [Commémoration ce samedi du 72ème anniversaire de l’assassinant du martyr Hédi Chaker](https://lapresse.tn/2025/09/10/commemoration-ce-samedi-du-72eme-anniversaire-de-lassassinant-du-martyr-hedi-chaker/)
 - [Gabès : une vingtaine de cas d’asphyxie dus aux émanations du Groupe chimique tunisien](https://lapresse.tn/2025/09/10/gabes-une-vingtaine-de-cas-dasphyxie-dus-aux-emanations-du-groupe-chimique-tunisien/)
-- [Tunisie–Arabie saoudite : signature d’un accord de coopération en formation diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-signature-dun-accord-de-cooperation-en-formation-diplomatique/)
+- [Jendouba-pluies et orages attendus: la protection civile appelle à la prudence](https://lapresse.tn/2025/09/10/jendouba-pluies-et-orages-attendus-la-protection-civile-appelle-a-la-prudence/)
 - [De nouvelles nominations à la tête de plusieurs délégations régionales de l’éducation](https://lapresse.tn/2025/09/10/de-nouvelles-nominations-a-la-tete-de-plusieurs-delegations-regionales-de-leducation/)
 - [Nabiha Kamoun, présidente de la Chambre des jardins et crèches d’enfants : « les jardins d’enfants traversent une crise »](https://lapresse.tn/2025/09/10/nabiha-kamoun-presidente-de-la-chambre-des-jardins-et-creches-denfants-les-jardins-denfants-traversent-une-crise/)
-- [SOS Villages d’Enfants : 5 268 enfants se préparent à la rentrée scolaire](https://lapresse.tn/2025/09/10/sos-villages-denfants-5-268-enfants-se-preparent-a-la-rentree-scolaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 - [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
@@ -234,7 +235,6 @@
 - [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
 - [A call on Europe to help prevent large-scale war between Iran and the United States](https://ecfr.eu/article/a-call-on-europe-to-help-prevent-large-scale-war-between-iran-and-the-united-states/)
 - [Enough is enough: Europe needs to oppose Israel’s aggression](https://ecfr.eu/article/enough-is-enough-europe-needs-to-oppose-israels-aggression/)
-- [Expansion in the shadows: The dangers of Israeli aggression in the West Bank](https://ecfr.eu/article/expansion-in-the-shadows-the-dangers-of-israeli-aggression-in-the-west-bank/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -268,10 +268,10 @@
 - [Mongi Hamdi : « Sans une intervention des Occidentaux et de l’UA, la crise soudanaise ne fera que s’aggraver »](https://www.jeuneafrique.com/1719401/politique/mongi-hamdi-sans-une-intervention-des-occidentaux-et-de-lua-la-crise-soudanaise-ne-fera-que-saggraver/)
 - [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
 - [Cellou Dalein Diallo : « Mamadi Doumbouya ne veut pas que je me présente face à lui »](https://www.jeuneafrique.com/1720401/politique/cellou-dalein-diallo-mamadi-doumbouya-ne-veut-pas-que-je-me-presente-face-a-lui/)
+- [Présidentielle en Côte d’Ivoire : que vont faire Tidjane Thiam et Laurent Gbagbo ?](https://www.jeuneafrique.com/1720386/politique/presidentielle-en-cote-divoire-que-vont-faire-tidjane-thiam-et-laurent-gbagbo/)
 - [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
-- [Présidentielle au Cameroun : Dieudonné Yebga, l’homme qui a permis l’éviction de Maurice Kamto](https://www.jeuneafrique.com/1716740/politique/presidentielle-au-cameroun-dieudonne-yebga-lhomme-qui-a-permis-leviction-de-maurice-kamto/)
 - [Le Congo pourra-t-il en finir avec les délestages ?](https://www.jeuneafrique.com/1720560/economie-entreprises/le-congo-pourra-t-il-en-finir-avec-les-delestages/)
 - [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
 
