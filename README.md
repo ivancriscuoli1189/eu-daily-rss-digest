@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 15:10*
+*Generato: 10 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
-- [La Cheffe du Gouvernement arrive au Cair](https://lapresse.tn/2025/09/10/la-cheffe-du-gouvernement-arrive-au-cair/)
-- [Coûts de la rentrée scolaire : une hausse continue et un fardeau qui pèse sur les parents](https://lapresse.tn/2025/09/10/couts-de-la-rentree-scolaire-une-hausse-continue-et-un-fardeau-qui-pese-sur-les-parents/)
-- [L’ESS est rentrée bredouille du Maroc : Plus qu’une simple défaite…](https://lapresse.tn/2025/09/10/less-est-rentree-bredouille-du-maroc-plus-quune-simple-defaite/)
-- [Tunisie : Les autorités interdisent les produits capillaires à base d’acide glyoxylique](https://lapresse.tn/2025/09/10/tunisie-les-autorites-interdisent-les-produits-capillaires-a-base-dacide-glyoxylique/)
-- [Commémoration ce samedi du 72ème anniversaire de l’assassinant du martyr Hédi Chaker](https://lapresse.tn/2025/09/10/commemoration-ce-samedi-du-72eme-anniversaire-de-lassassinant-du-martyr-hedi-chaker/)
-- [Gabès : une vingtaine de cas d’asphyxie dus aux émanations du Groupe chimique tunisien](https://lapresse.tn/2025/09/10/gabes-une-vingtaine-de-cas-dasphyxie-dus-aux-emanations-du-groupe-chimique-tunisien/)
-- [Jendouba-pluies et orages attendus: la protection civile appelle à la prudence](https://lapresse.tn/2025/09/10/jendouba-pluies-et-orages-attendus-la-protection-civile-appelle-a-la-prudence/)
-- [De nouvelles nominations à la tête de plusieurs délégations régionales de l’éducation](https://lapresse.tn/2025/09/10/de-nouvelles-nominations-a-la-tete-de-plusieurs-delegations-regionales-de-leducation/)
-- [Nabiha Kamoun, présidente de la Chambre des jardins et crèches d’enfants : « les jardins d’enfants traversent une crise »](https://lapresse.tn/2025/09/10/nabiha-kamoun-presidente-de-la-chambre-des-jardins-et-creches-denfants-les-jardins-denfants-traversent-une-crise/)
+- [Chantages](https://lapresse.tn/2025/09/10/chantages/)
+- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
+- [Opep+ : Une hausse de production inattendue qui défie les marchés](https://lapresse.tn/2025/09/10/opep-une-hausse-de-production-inattendue-qui-defie-les-marches/)
+- [EXPRESS](https://lapresse.tn/2025/09/10/express-262/)
+- [Réformes structurelles : La formation professionnelle à la croisée des chemins](https://lapresse.tn/2025/09/10/reformes-structurelles-la-formation-professionnelle-a-la-croisee-des-chemins/)
+- [Tunisie : pluies abondantes et chutes de grêle attendues ce soir](https://lapresse.tn/2025/09/10/tunisie-pluies-abondantes-et-chutes-de-grele-attendues-ce-soir/)
+- [La Tunisie et ARROW Electronics envisagent une plateforme logistique pour l’électronique](https://lapresse.tn/2025/09/10/la-tunisie-et-arrow-electronics-envisagent-une-plateforme-logistique-pour-lelectronique/)
+- [Double séance – effets positifs pour les citoyens : Un rythme plus actif et productif](https://lapresse.tn/2025/09/10/double-seance-effets-positifs-pour-les-citoyens-un-rythme-plus-actif-et-productif/)
+- [Métlaoui : Quand l’écotourisme redonne vie aux oasis de montagne](https://lapresse.tn/2025/09/10/metlaoui-quand-lecotourisme-redonne-vie-aux-oasis-de-montagne/)
+- [Université d’été, ce week-end, à Hammamet : Penser autrement le développement !](https://lapresse.tn/2025/09/10/universite-dete-ce-week-end-a-hammamet-penser-autrement-le-developpement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Sidi Bou Saïd, les attaques contre la flottille pour Gaza indignent et inquiètent les Tunisiens](https://www.jeuneafrique.com/1720710/politique/a-sidi-bou-said-les-attaques-contre-la-flottille-pour-gaza-indignent-et-inquietent-les-tunisiens/)
+- [Pourquoi l’ancien Premier ministre guinéen Bernard Goumou revient-il sur la scène politique ?](https://www.jeuneafrique.com/1720383/politique/pourquoi-lancien-premier-ministre-guineen-bernard-goumou-revient-sur-la-scene-politique/)
 - [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
 - [Mongi Hamdi : « Sans une intervention des Occidentaux et de l’UA, la crise soudanaise ne fera que s’aggraver »](https://www.jeuneafrique.com/1719401/politique/mongi-hamdi-sans-une-intervention-des-occidentaux-et-de-lua-la-crise-soudanaise-ne-fera-que-saggraver/)
+- [Présidentielle au Cameroun : Jacques Bougha Hagbe, l’ancien du FMI qui veut redresser le pays](https://www.jeuneafrique.com/1720170/politique/presidentielle-au-cameroun-jacques-bougha-hagbe-lancien-du-fmi-qui-veut-redresser-le-pays/)
 - [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
 - [Cellou Dalein Diallo : « Mamadi Doumbouya ne veut pas que je me présente face à lui »](https://www.jeuneafrique.com/1720401/politique/cellou-dalein-diallo-mamadi-doumbouya-ne-veut-pas-que-je-me-presente-face-a-lui/)
 - [Présidentielle en Côte d’Ivoire : que vont faire Tidjane Thiam et Laurent Gbagbo ?](https://www.jeuneafrique.com/1720386/politique/presidentielle-en-cote-divoire-que-vont-faire-tidjane-thiam-et-laurent-gbagbo/)
-- [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
-- [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
-- [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
 - [Le Congo pourra-t-il en finir avec les délestages ?](https://www.jeuneafrique.com/1720560/economie-entreprises/le-congo-pourra-t-il-en-finir-avec-les-delestages/)
 - [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
 
