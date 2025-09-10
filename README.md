@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Sep 2025, 21:06*
+*Generato: 10 Sep 2025, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
 - [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
 - [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30125/ep-today)
 - [Opening: 8-11 September plenary session](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30173/opening-8-11-september-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30124/ep-today)
-- [Press briefing on the MFF with MEPs Mureşan and Tavares on Tuesday at 14:30](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30198/press-briefing-on-the-mff-with-meps-muresan-and-tavares-on-tuesday-at-14-30)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
-- [Secteur immobilier en crise : et si la solution venait de la foule ?](https://lapresse.tn/2025/09/09/secteur-immobilier-en-crise-et-si-la-solution-venait-de-la-foule/)
+- [Météo : Orages et Baisse des Températures au Nord et au Centre](https://lapresse.tn/2025/09/10/meteo-orages-et-baisse-des-temperatures-au-nord-et-au-centre/)
+- [Le chef de la diplomatie iranienne attendu, mercredi, à Tunis](https://lapresse.tn/2025/09/10/le-chef-de-la-diplomatie-iranienne-attendu-mercredi-a-tunis/)
+- [BH Leasing maintient un bilan solide](https://lapresse.tn/2025/09/09/bh-leasing-maintient-un-bilan-solide/)
 - [Convergence de vues entre Tunis et Riyad sur les questions d’intérêt commun](https://lapresse.tn/2025/09/09/convergence-de-vues-entre-tunis-et-riyad-sur-les-questions-dinteret-commun/)
-- [Une jeune pépite sous pression : Anis Saidi dans le flou](https://lapresse.tn/2025/09/09/une-jeune-pepite-sous-pression-anis-saidi-dans-le-flou/)
 - [Tunisie : Orages, pluies abondantes et vents violents attendus ce soir](https://lapresse.tn/2025/09/09/tunisie-orages-pluies-abondantes-et-vents-violents-attendus-ce-soir/)
-- [Tunisair annonce des perturbations partielles sur ses vols](https://lapresse.tn/2025/09/09/tunisair-annonce-des-perturbations-partielles-sur-ses-vols/)
-- [Équipement et Habitat – Autoroute Tunis-Jelma : Mise à disposition des carrières relevant des domaines de l’Etat pour accélérer la réalisation du projet](https://lapresse.tn/2025/09/09/equipement-et-habitat-autoroute-tunis-jelma-mise-a-disposition-des-carrieres-relevant-des-domaines-de-letat-pour-accelerer-la-realisation-du-projet/)
 - [Propreté urbaine : Un devoir partagé entre élus et citoyens](https://lapresse.tn/2025/09/09/proprete-urbaine-un-devoir-partage-entre-elus-et-citoyens/)
 - [Gafsa : Le pari fou d’une oasis tropicale sous la terre](https://lapresse.tn/2025/09/09/gafsa-le-pari-fou-dune-oasis-tropicale-sous-la-terre/)
 - [Pourquoi : Où est le bon goût ?](https://lapresse.tn/2025/09/09/pourquoi-ou-est-le-bon-gout/)
+- [Secteur immobilier en crise : et si la solution venait de la foule ?](https://lapresse.tn/2025/09/09/secteur-immobilier-en-crise-et-si-la-solution-venait-de-la-foule/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,12 +266,12 @@
 
 - [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
+- [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
+- [Présidentielle au Cameroun : Dieudonné Yebga, l’homme qui a permis l’éviction de Maurice Kamto](https://www.jeuneafrique.com/1716740/politique/presidentielle-au-cameroun-dieudonne-yebga-lhomme-qui-a-permis-leviction-de-maurice-kamto/)
 - [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
 - [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
 - [Cameroun-États-Unis : deux leaders de l’Ambazonie risquent la prison à vie au Minnesota](https://www.jeuneafrique.com/1720184/politique/cameroun-etats-unis-deux-leaders-de-lambazonie-risquent-la-prison-a-vie-au-minnesota/)
 - [« Assimi Goïta a rendu sa fierté au peuple malien » : la diaspora, premier soutien de Bamako](https://www.jeuneafrique.com/1720028/politique/assimi-goita-a-rendu-sa-fierte-au-peuple-malien-la-diaspora-premier-soutien-de-bamako/)
-- [Gbagbo et Thiam exclus : la liste définitive des candidats à la présidentielle en Côte d’Ivoire](https://www.jeuneafrique.com/1720092/politique/gbagbo-et-thiam-exclus-la-liste-definitive-des-candidats-a-la-presidentielle-en-cote-divoire/)
-- [G25-Niger : face à Tiani, des opposants adoptent la stratégie « Anonymous »](https://www.jeuneafrique.com/1720065/politique/g25-niger-face-a-tiani-des-opposants-adoptent-la-strategie-anonymous/)
 - [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
 - [Du Nigeria à l’Éthiopie : le pari XXL de Dangote pour imposer son modèle « Africa first »](https://www.jeuneafrique.com/1720151/economie-entreprises/du-nigeria-a-lethiopie-le-pari-xxl-de-dangote-pour-imposer-son-modele-africa-first/)
 
