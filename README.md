@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 09:10*
+*Generato: 10 Sep 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة المالية والسيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-0)
+- [لقاء رئيس الجمهورية قيس سعيّد مع صاحب السمو الأمير فيصل بن فرحان بن عبد الله آل سعود وزير خارجية المملكة العربية السعودية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B3%D9%85%D9%88-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%81%D9%8A%D8%B5%D9%84-%D8%A8%D9%86-%D9%81%D8%B1%D8%AD%D8%A7%D9%86-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A2%D9%84-%D8%B3%D8%B9%D9%88%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-18)
 - [كلمة رئيس الجمهورية قيس سعيّد في افتتاح أشغال الدورة الرابعة لمعرض التجارة البينية الإفريقية](http://www.carthage.tn/ar/%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9)
 - [وصول رئيس الجمهورية قيس سعيّد مساء اليوم الأربعاء، 03 سبتمبر الجاري، إلى الجزائر العاصمة للمشاركة في أعمال الدّورة الرابعة للمعرض الإفريقي للتجارة البينية التي تحتضنها الجزائر من 04 إلى 10 سبتمبر 2025](http://www.carthage.tn/ar/%D9%88%D8%B5%D9%88%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1%D8%8C-03-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une Afrique influente](https://lapresse.tn/2025/09/09/une-afrique-influente/)
+- [Nabiha Kamoun, présidente de la Chambre des jardins et crèches d’enfants : « les jardins d’enfants traversent une crise »](https://lapresse.tn/2025/09/10/nabiha-kamoun-presidente-de-la-chambre-des-jardins-et-creches-denfants-les-jardins-denfants-traversent-une-crise/)
+- [Tunisie : Les autorités interdisent les produits capillaires à base d’acide glyoxylique](https://lapresse.tn/2025/09/10/tunisie-les-autorites-interdisent-les-produits-capillaires-a-base-dacide-glyoxylique/)
+- [Bali frappée par des inondations meurtrières](https://lapresse.tn/2025/09/10/bali-frappee-par-des-inondations-meurtrieres/)
+- [Commémoration ce samedi du 72ème anniversaire de l’assassinant du martyr Hédi Chaker](https://lapresse.tn/2025/09/10/commemoration-ce-samedi-du-72eme-anniversaire-de-lassassinant-du-martyr-hedi-chaker/)
+- [Gabès : une vingtaine de cas d’asphyxie dus aux émanations du Groupe chimique tunisien](https://lapresse.tn/2025/09/10/gabes-une-vingtaine-de-cas-dasphyxie-dus-aux-emanations-du-groupe-chimique-tunisien/)
 - [Tunisie–Arabie saoudite : signature d’un accord de coopération en formation diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-signature-dun-accord-de-cooperation-en-formation-diplomatique/)
+- [SOS Villages d’Enfants : 5 268 enfants se préparent à la rentrée scolaire](https://lapresse.tn/2025/09/10/sos-villages-denfants-5-268-enfants-se-preparent-a-la-rentree-scolaire/)
+- [En Tunisie, 25 % des citoyens souffrent d’addiction](https://lapresse.tn/2025/09/10/en-tunisie-25-des-citoyens-souffrent-daddiction/)
 - [Tunisie : prolongation des soldes d’été](https://lapresse.tn/2025/09/10/tunisie-prolongation-des-soldes-dete/)
-- [600 000 quintaux de semences sélectionnées disponibles pour les agriculteurs, une première en Tunisie](https://lapresse.tn/2025/09/10/600-000-quintaux-de-semences-selectionnees-disponibles-pour-les-agriculteurs-une-premiere-en-tunisie/)
-- [Tunisie : Sarra Zaafrani Zenzeri conduit une large délégation ministérielle en Égypte](https://lapresse.tn/2025/09/10/tunisie-sarra-zaafrani-zenzeri-conduit-une-large-delegation-ministerielle-en-egypte/)
-- [Attaque sioniste contre Doha : La Tunisie dénonce « l’agression lâche » contre le Qatar](https://lapresse.tn/2025/09/10/attaque-sioniste-contre-doha-la-tunisie-denonce-lagression-lache-contre-le-qatar/)
-- [Météo : Orages et Baisse des Températures au Nord et au Centre](https://lapresse.tn/2025/09/10/meteo-orages-et-baisse-des-temperatures-au-nord-et-au-centre/)
-- [Tunisie : le Laboratoire national du génome humain, une priorité stratégique selon Ferjani](https://lapresse.tn/2025/09/10/tunisie-le-laboratoire-national-du-genome-humain-une-priorite-strategique-selon-ferjani/)
-- [Bizerte : 2 000 tonnes de déchets verts transformés chaque année en compost](https://lapresse.tn/2025/09/10/bizerte-2-000-tonnes-de-dechets-verts-transformes-chaque-annee-en-compost/)
-- [Tunisie : Orages, pluies abondantes et vents violents attendus ce soir](https://lapresse.tn/2025/09/09/tunisie-orages-pluies-abondantes-et-vents-violents-attendus-ce-soir/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
+- [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
 - [Après avoir réuni les responsables libyens à Rome, qu’a exigé Massad Boulos, envoyé spécial des États-Unis ?](https://www.jeuneafrique.com/1720367/politique/apres-avoir-reuni-les-responsables-libyens-a-rome-qua-exige-massad-boulos-envoye-special-des-etats-unis/)
 - [CPI : ouverture de l’audience visant le chef de guerre ougandais Joseph Kony](https://www.jeuneafrique.com/1720330/politique/cpi-ouverture-de-laudience-visant-le-chef-de-guerre-ougandais-joseph-kony/)
 - [Maroc : quand le civisme devient un enjeu national à l’approche de la CAN](https://www.jeuneafrique.com/1720225/politique/maroc-quand-le-civisme-devient-un-enjeu-national-a-lapproche-de-la-can/)
 - [Présidentielle au Cameroun : Dieudonné Yebga, l’homme qui a permis l’éviction de Maurice Kamto](https://www.jeuneafrique.com/1716740/politique/presidentielle-au-cameroun-dieudonne-yebga-lhomme-qui-a-permis-leviction-de-maurice-kamto/)
 - [Bénin : les avocats d’Hugues Comlan Sossoukpè dénoncent ses conditions de détention](https://www.jeuneafrique.com/1720243/politique/benin-les-avocats-dhugues-comlan-sossoukpe-denoncent-ses-conditions-de-detention/)
 - [Au Niger, le directeur d’un journal inculpé pour « diffamation » envers le Premier ministre](https://www.jeuneafrique.com/1720238/politique/au-niger-le-directeur-dun-journal-inculpe-pour-diffamation-envers-le-premier-ministre/)
-- [Cameroun-États-Unis : deux leaders de l’Ambazonie risquent la prison à vie au Minnesota](https://www.jeuneafrique.com/1720184/politique/cameroun-etats-unis-deux-leaders-de-lambazonie-risquent-la-prison-a-vie-au-minnesota/)
+- [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
 - [Chine-Afrique : le grand débarquement de Pékin, bouté hors des États-Unis](https://www.jeuneafrique.com/1720373/economie-entreprises/chine-afrique-le-grand-debarquement-de-pekin-boute-hors-des-etats-unis/)
-- [5 questions pour comprendre quels défis la future banque de l’Alliance des États du Sahel devra relever](https://www.jeuneafrique.com/1714913/economie-entreprises/5-questions-pour-comprendre-quels-defis-la-future-banque-de-lalliance-des-etats-du-sahel-devra-relever/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
