@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 15:10*
+*Generato: 11 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Chantages](https://lapresse.tn/2025/09/10/chantages/)
-- [Bizerte : dix navires de la flottille « Soumoud » accostent au port de plaisance Cap 3000](https://lapresse.tn/2025/09/11/bizerte-dix-navires-de-la-flottille-soumoud-accostent-au-port-de-plaisance-cap-3000/)
-- [Ras Jebel se réinvente : régénération, projets urbains et environnement](https://lapresse.tn/2025/09/11/ras-jebel-se-reinvente-regeneration-projets-urbains-et-environnement/)
-- [Equipement : 70 % des ouvrages hydrauliques entretenus et plus de 2 400 km de canaux dragués et nettoyés](https://lapresse.tn/2025/09/11/equipement-70-des-ouvrages-hydrauliques-entretenus-et-plus-de-2-400-km-de-canaux-dragues-et-nettoyes/)
-- [En marge de sa visite au Caire : La Cheffe du gouvernement rencontre des Tunisiens établis en Egypte](https://lapresse.tn/2025/09/11/en-marge-de-sa-visite-au-caire-la-cheffe-du-gouvernement-rencontre-des-tunisiens-etablis-en-egypte/)
-- [Flottille Soumoud : « le report du départ jugé nécessaire face au mauvais temps »](https://lapresse.tn/2025/09/11/flottille-soumoud-le-report-du-depart-juge-necessaire-face-au-mauvais-temps/)
-- [Flottille Soumoud : départ de Bizerte prévu vendredi](https://lapresse.tn/2025/09/11/flottille-soumoud-depart-de-bizerte-prevu-vendredi/)
-- [Stratégie Nationale de Sécurité Routière : réduire de 50% les accidents de la route d’ici 2034](https://lapresse.tn/2025/09/11/strategie-nationale-de-securite-routiere-reduire-de-50-les-accidents-de-la-route-dici-2034/)
-- [Prise en charge de l’ostéoporose : vers l’adoption d’une stratégie nationale](https://lapresse.tn/2025/09/11/prise-en-charge-de-losteoporose-vers-ladoption-dune-strategie-nationale/)
-- [IACE : jeudi prochain, forum économique sur les nouvelles perspectives du tourisme en Tunisie](https://lapresse.tn/2025/09/11/iace-jeudi-prochain-forum-economique-sur-les-nouvelles-perspectives-du-tourisme-en-tunisie/)
+- [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
+- [Première sélection du Goncourt 2025 : Une rentrée littéraire aux couleurs vibrantes et engagées](https://lapresse.tn/2025/09/11/premiere-selection-du-goncourt-2025-une-rentree-litteraire-aux-couleurs-vibrantes-et-engagees/)
+- [Centre National des Arts de la Marionnette : Des étoiles plein les yeux](https://lapresse.tn/2025/09/11/centre-national-des-arts-de-la-marionnette-des-etoiles-plein-les-yeux/)
+- [57e édition du Festival International du Sahara : Douz au cœur des traditions](https://lapresse.tn/2025/09/11/57e-edition-du-festival-international-du-sahara-douz-au-coeur-des-traditions/)
+- [Tunis-Egypte: signature de huit accords de coopération dans plusieurs domaines](https://lapresse.tn/2025/09/11/tunis-egypte-signature-de-huit-accords-de-cooperation-dans-plusieurs-domaines/)
+- [Déclaration conjointe de Mohamed Ali Nafti et Abbas Araghchi, ministres tunisien et iranien des Affaires étrangères : La Tunisie et l’Iran expriment la convergence de leurs positions sur les questions régionales](https://lapresse.tn/2025/09/11/declaration-conjointe-de-mohamed-ali-nafti-et-abbas-araghchi-ministres-tunisien-et-iranien-des-affaires-etrangeres-la-tunisie-et-liran-expriment-la-convergence-de-leurs-positions-sur-les/)
+- [Flottille « Global Sumud » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flottille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
+- [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
+- [Rentrée scolaire et universitaire 2025-2026 : Tout est fin prêt](https://lapresse.tn/2025/09/11/rentree-scolaire-et-universitaire-2025-2026-tout-est-fin-pret/)
+- [ATTT – Permis de conduire : Tout ce qui va changer !](https://lapresse.tn/2025/09/11/attt-permis-de-conduire-tout-ce-qui-va-changer/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
 - [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
+- [En s’implantant à New York, l’UM6P veut connecter l’Afrique aux écosystèmes scientifiques américains](https://www.jeuneafrique.com/1720628/politique/en-simplantant-a-new-york-lum6p-veut-connecter-lafrique-aux-ecosystemes-scientifiques-americains/)
 - [Entre les États-Unis et le Burkina Faso, l’amorce d’un réchauffement diplomatique](https://www.jeuneafrique.com/1720403/politique/entre-les-etats-unis-et-le-burkina-faso-lamorce-dun-rechauffement-diplomatique/)
+- [Présidentielle en Côte d’Ivoire : qui peut encore arrêter le rouleau compresseur RHDP ?](https://www.jeuneafrique.com/1720649/politique/presidentielle-en-cote-divoire-qui-peut-encore-arreter-le-rouleau-compresseur-rhdp/)
 - [Au Maroc, les frappes israéliennes sur le Qatar passent mal](https://www.jeuneafrique.com/1720735/politique/au-maroc-les-frappes-israeliennes-sur-le-qatar-passent-mal/)
-- [À Sidi Bou Saïd, les attaques contre la flottille pour Gaza indignent et inquiètent les Tunisiens](https://www.jeuneafrique.com/1720710/politique/a-sidi-bou-said-les-attaques-contre-la-flottille-pour-gaza-indignent-et-inquietent-les-tunisiens/)
-- [Problèmes de sous, querelles politiques… En RDC, « la rentrée sera mouvementée »](https://www.jeuneafrique.com/1720478/politique/problemes-de-sous-querelles-politiques-en-rdc-la-rentree-sera-mouvementee/)
-- [Pourquoi l’ancien Premier ministre guinéen Bernard Goumou revient-il sur la scène politique ?](https://www.jeuneafrique.com/1720383/politique/pourquoi-lancien-premier-ministre-guineen-bernard-goumou-revient-sur-la-scene-politique/)
-- [Barrage de la Renaissance : quand l’Éthiopie rêve de devenir la centrale électrique de l’Afrique](https://www.jeuneafrique.com/1720663/economie-entreprises/barrage-de-la-renaissance-quand-lethiopie-reve-de-devenir-la-centrale-electrique-de-lafrique/)
-- [Chez Afriland First Bank, Mamoudou Hamadou se pose en chantre de la finance islamique](https://www.jeuneafrique.com/1720364/economie-entreprises/chez-afriland-first-bank-mamoudou-hamadou-se-pose-en-chantre-de-la-finance-islamique/)
+- [Zones économiques spéciales : du Maroc au Gabon, quels modèles pour l’Afrique de demain ?](https://www.jeuneafrique.com/1720662/economie-entreprises/zones-economiques-speciales-du-maroc-au-gabon-quels-modeles-pour-lafrique-de-demain/)
+- [Gagan Gupta redouble d’ambitions, soutenu par les fonds saoudiens](https://www.jeuneafrique.com/1720850/economie-entreprises/gagan-gupta-redouble-dambitions-soutenu-par-les-fonds-saoudiens/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
