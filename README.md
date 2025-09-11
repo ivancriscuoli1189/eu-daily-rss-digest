@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 11:03*
+*Generato: 11 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,6 +83,7 @@
 ## UE – EP – Press Room
 
 - [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
+- [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
@@ -91,7 +92,6 @@
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
-- [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Chantages](https://lapresse.tn/2025/09/10/chantages/)
-- [Après l’attaque au Qatar : L’entité sioniste menace de frapper la résistance partout](https://lapresse.tn/2025/09/11/apres-lattaque-au-qatar-lentite-sioniste-menace-de-frapper-la-resistance-partout/)
-- [Etats-Unis: commémoration des attentats du 11 septembre](https://lapresse.tn/2025/09/11/etats-unis-commemoration-des-attentats-du-11-septembre/)
-- [Prise en charge de l’ostéoporose : vers l’adoption d’une stratégie nationale](https://lapresse.tn/2025/09/11/prise-en-charge-de-losteoporose-vers-ladoption-dune-strategie-nationale/)
+- [Ras Jebel se réinvente : régénération, projets urbains et environnement](https://lapresse.tn/2025/09/11/ras-jebel-se-reinvente-regeneration-projets-urbains-et-environnement/)
+- [Equipement : 70 % des ouvrages hydrauliques entretenus et plus de 2 400 km de canaux dragués et nettoyés](https://lapresse.tn/2025/09/11/equipement-70-des-ouvrages-hydrauliques-entretenus-et-plus-de-2-400-km-de-canaux-dragues-et-nettoyes/)
+- [Stratégie Nationale de Sécurité Routière : réduire de 50% les accidents de la route d’ici 2034](https://lapresse.tn/2025/09/11/strategie-nationale-de-securite-routiere-reduire-de-50-les-accidents-de-la-route-dici-2034/)
 - [Flottille Soumoud : « le report du départ jugé nécessaire face au mauvais temps »](https://lapresse.tn/2025/09/11/flottille-soumoud-le-report-du-depart-juge-necessaire-face-au-mauvais-temps/)
 - [Flottille Soumoud : départ de Bizerte prévu vendredi](https://lapresse.tn/2025/09/11/flottille-soumoud-depart-de-bizerte-prevu-vendredi/)
 - [Flotille « GLOBAL SUMUD » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flotille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
-- [Ministre de l’Education : suivi des préparatifs de la rentrée scolaire dans le gouvernorat de l’Ariana](https://lapresse.tn/2025/09/11/ministre-de-leducation-suivi-des-preparatifs-de-la-rentree-scolaire-dans-le-gouvernorat-de-lariana/)
-- [Ras Angela : le point le plus septentrional d’Afrique du Nord se révèle aux visiteurs](https://lapresse.tn/2025/09/10/ras-angela-le-point-le-plus-septentrional-dafrique-du-nord-se-revele-aux-visiteurs/)
-- [Bizerte : 60 millions de dinars pour restaurer les plages et protéger les infrastructures](https://lapresse.tn/2025/09/10/bizerte-60-millions-de-dinars-pour-restaurer-les-plages-et-proteger-les-infrastructures/)
+- [Prise en charge de l’ostéoporose : vers l’adoption d’une stratégie nationale](https://lapresse.tn/2025/09/11/prise-en-charge-de-losteoporose-vers-ladoption-dune-strategie-nationale/)
+- [IACE : jeudi prochain, forum économique sur les nouvelles perspectives du tourisme en Tunisie](https://lapresse.tn/2025/09/11/iace-jeudi-prochain-forum-economique-sur-les-nouvelles-perspectives-du-tourisme-en-tunisie/)
+- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
 
 ## NGOs – Amnesty International – Tunisia
 
