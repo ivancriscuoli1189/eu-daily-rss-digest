@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 09:10*
+*Generato: 11 Sep 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
+- [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
+- [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
 - [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
@@ -89,9 +92,6 @@
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 - [Ukraine: prioritise EU reforms and open negotiation clusters say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30174/ukraine-prioritise-eu-reforms-and-open-negotiation-clusters-say-meps)
-- [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
-- [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
-- [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Chantages](https://lapresse.tn/2025/09/10/chantages/)
-- [En marge de sa visite au Caire : La Cheffe du gouvernement rencontre des Tunisiens établis en Egypte](https://lapresse.tn/2025/09/11/en-marge-de-sa-visite-au-caire-la-cheffe-du-gouvernement-rencontre-des-tunisiens-etablis-en-egypte/)
+- [Après l’attaque au Qatar : L’entité sioniste menace de frapper la résistance partout](https://lapresse.tn/2025/09/11/apres-lattaque-au-qatar-lentite-sioniste-menace-de-frapper-la-resistance-partout/)
+- [Etats-Unis: commémoration des attentats du 11 septembre](https://lapresse.tn/2025/09/11/etats-unis-commemoration-des-attentats-du-11-septembre/)
+- [Prise en charge de l’ostéoporose : vers l’adoption d’une stratégie nationale](https://lapresse.tn/2025/09/11/prise-en-charge-de-losteoporose-vers-ladoption-dune-strategie-nationale/)
 - [Flottille Soumoud : « le report du départ jugé nécessaire face au mauvais temps »](https://lapresse.tn/2025/09/11/flottille-soumoud-le-report-du-depart-juge-necessaire-face-au-mauvais-temps/)
 - [Flottille Soumoud : départ de Bizerte prévu vendredi](https://lapresse.tn/2025/09/11/flottille-soumoud-depart-de-bizerte-prevu-vendredi/)
 - [Flotille « GLOBAL SUMUD » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flotille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
+- [Ministre de l’Education : suivi des préparatifs de la rentrée scolaire dans le gouvernorat de l’Ariana](https://lapresse.tn/2025/09/11/ministre-de-leducation-suivi-des-preparatifs-de-la-rentree-scolaire-dans-le-gouvernorat-de-lariana/)
 - [Ras Angela : le point le plus septentrional d’Afrique du Nord se révèle aux visiteurs](https://lapresse.tn/2025/09/10/ras-angela-le-point-le-plus-septentrional-dafrique-du-nord-se-revele-aux-visiteurs/)
 - [Bizerte : 60 millions de dinars pour restaurer les plages et protéger les infrastructures](https://lapresse.tn/2025/09/10/bizerte-60-millions-de-dinars-pour-restaurer-les-plages-et-proteger-les-infrastructures/)
-- [Double séance – effets positifs pour les citoyens : Un rythme plus actif et productif](https://lapresse.tn/2025/09/10/double-seance-effets-positifs-pour-les-citoyens-un-rythme-plus-actif-et-productif/)
-- [Métlaoui : Quand l’écotourisme redonne vie aux oasis de montagne](https://lapresse.tn/2025/09/10/metlaoui-quand-lecotourisme-redonne-vie-aux-oasis-de-montagne/)
-- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
 - [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
+- [Entre les États-Unis et le Burkina Faso, l’amorce d’un réchauffement diplomatique](https://www.jeuneafrique.com/1720403/politique/entre-les-etats-unis-et-le-burkina-faso-lamorce-dun-rechauffement-diplomatique/)
 - [Au Maroc, les frappes israéliennes sur le Qatar passent mal](https://www.jeuneafrique.com/1720735/politique/au-maroc-les-frappes-israeliennes-sur-le-qatar-passent-mal/)
 - [À Sidi Bou Saïd, les attaques contre la flottille pour Gaza indignent et inquiètent les Tunisiens](https://www.jeuneafrique.com/1720710/politique/a-sidi-bou-said-les-attaques-contre-la-flottille-pour-gaza-indignent-et-inquietent-les-tunisiens/)
+- [Problèmes de sous, querelles politiques… En RDC, « la rentrée sera mouvementée »](https://www.jeuneafrique.com/1720478/politique/problemes-de-sous-querelles-politiques-en-rdc-la-rentree-sera-mouvementee/)
 - [Pourquoi l’ancien Premier ministre guinéen Bernard Goumou revient-il sur la scène politique ?](https://www.jeuneafrique.com/1720383/politique/pourquoi-lancien-premier-ministre-guineen-bernard-goumou-revient-sur-la-scene-politique/)
-- [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
-- [Mongi Hamdi : « Sans une intervention des Occidentaux et de l’UA, la crise soudanaise ne fera que s’aggraver »](https://www.jeuneafrique.com/1719401/politique/mongi-hamdi-sans-une-intervention-des-occidentaux-et-de-lua-la-crise-soudanaise-ne-fera-que-saggraver/)
-- [Présidentielle au Cameroun : Jacques Bougha Hagbe, l’ancien du FMI qui veut redresser le pays](https://www.jeuneafrique.com/1720170/politique/presidentielle-au-cameroun-jacques-bougha-hagbe-lancien-du-fmi-qui-veut-redresser-le-pays/)
 - [Barrage de la Renaissance : quand l’Éthiopie rêve de devenir la centrale électrique de l’Afrique](https://www.jeuneafrique.com/1720663/economie-entreprises/barrage-de-la-renaissance-quand-lethiopie-reve-de-devenir-la-centrale-electrique-de-lafrique/)
 - [Chez Afriland First Bank, Mamoudou Hamadou se pose en chantre de la finance islamique](https://www.jeuneafrique.com/1720364/economie-entreprises/chez-afriland-first-bank-mamoudou-hamadou-se-pose-en-chantre-de-la-finance-islamique/)
 
