@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Sep 2025, 21:04*
+*Generato: 11 Sep 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
 - [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
@@ -91,7 +92,6 @@
 - [Court of Auditors: MEPs back candidates from Luxembourg and the Netherlands](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30177/court-of-auditors-meps-back-candidates-from-luxembourg-and-the-netherlands)
 - [President Maia Sandu says Russia wants to turn Moldova against Europe](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30176/president-maia-sandu-says-russia-wants-to-turn-moldova-against-europe)
 - [New EU rules on design, reuse and recycling in the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30178/new-eu-rules-on-design-reuse-and-recycling-in-the-automotive-sector)
-- [Parliament adopts new EU rules to reduce textile and food waste](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30172/parliament-adopts-new-eu-rules-to-reduce-textile-and-food-waste)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -272,8 +272,8 @@
 - [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
 - [Cellou Dalein Diallo : « Mamadi Doumbouya ne veut pas que je me présente face à lui »](https://www.jeuneafrique.com/1720401/politique/cellou-dalein-diallo-mamadi-doumbouya-ne-veut-pas-que-je-me-presente-face-a-lui/)
 - [Présidentielle en Côte d’Ivoire : que vont faire Tidjane Thiam et Laurent Gbagbo ?](https://www.jeuneafrique.com/1720386/politique/presidentielle-en-cote-divoire-que-vont-faire-tidjane-thiam-et-laurent-gbagbo/)
-- [Le Congo pourra-t-il en finir avec les délestages ?](https://www.jeuneafrique.com/1720560/economie-entreprises/le-congo-pourra-t-il-en-finir-avec-les-delestages/)
-- [Côte d’Ivoire : pourquoi la décision de Cargill inquiète toute la filière cacao](https://www.jeuneafrique.com/1720255/economie-entreprises/cote-divoire-pourquoi-la-decision-de-cargill-inquiete-toute-la-filiere-cacao/)
+- [Barrage de la Renaissance : quand l’Éthiopie rêve de devenir la centrale électrique de l’Afrique](https://www.jeuneafrique.com/1720663/economie-entreprises/barrage-de-la-renaissance-quand-lethiopie-reve-de-devenir-la-centrale-electrique-de-lafrique/)
+- [Chez Afriland First Bank, Mamoudou Hamadou se pose en chantre de la finance islamique](https://www.jeuneafrique.com/1720364/economie-entreprises/chez-afriland-first-bank-mamoudou-hamadou-se-pose-en-chantre-de-la-finance-islamique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
