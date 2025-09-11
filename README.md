@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 06:16*
+*Generato: 11 Sep 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,11 +174,11 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Chantages](https://lapresse.tn/2025/09/10/chantages/)
-- [Flottille Soumoud : le départ vers Gaza reporté pour la troisième fois à cause du mauvais temps](https://lapresse.tn/2025/09/10/flottille-soumoud-le-depart-vers-gaza-reporte-pour-la-troisieme-fois-a-cause-du-mauvais-temps/)
-- [Ministère de l’Intérieur : l’agression d’hier sur un navire à Sidi Bou Saïd était préméditée](https://lapresse.tn/2025/09/10/ministere-de-linterieur-lagression-dhier-sur-un-navire-a-sidi-bou-said-etait-premeditee/)
+- [En marge de sa visite au Caire : La Cheffe du gouvernement rencontre des Tunisiens établis en Egypte](https://lapresse.tn/2025/09/11/en-marge-de-sa-visite-au-caire-la-cheffe-du-gouvernement-rencontre-des-tunisiens-etablis-en-egypte/)
+- [Flottille Soumoud : « le report du départ jugé nécessaire face au mauvais temps »](https://lapresse.tn/2025/09/11/flottille-soumoud-le-report-du-depart-juge-necessaire-face-au-mauvais-temps/)
+- [Flottille Soumoud : départ de Bizerte prévu vendredi](https://lapresse.tn/2025/09/11/flottille-soumoud-depart-de-bizerte-prevu-vendredi/)
+- [Flotille « GLOBAL SUMUD » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flotille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
 - [Ras Angela : le point le plus septentrional d’Afrique du Nord se révèle aux visiteurs](https://lapresse.tn/2025/09/10/ras-angela-le-point-le-plus-septentrional-dafrique-du-nord-se-revele-aux-visiteurs/)
-- [Tunisie-Iran : Volonté commune de promouvoir la coopération](https://lapresse.tn/2025/09/10/tunisie-iran-volonte-commune-de-promouvoir-la-cooperation/)
-- [Tunisie – Arabie Saoudite ­- 4e Réunion du comité de suivi et de consultation politique : Un nouvel élan diplomatique](https://lapresse.tn/2025/09/10/tunisie-arabie-saoudite-4e-reunion-du-comite-de-suivi-et-de-consultation-politique-un-nouvel-elan-diplomatique/)
 - [Bizerte : 60 millions de dinars pour restaurer les plages et protéger les infrastructures](https://lapresse.tn/2025/09/10/bizerte-60-millions-de-dinars-pour-restaurer-les-plages-et-proteger-les-infrastructures/)
 - [Double séance – effets positifs pour les citoyens : Un rythme plus actif et productif](https://lapresse.tn/2025/09/10/double-seance-effets-positifs-pour-les-citoyens-un-rythme-plus-actif-et-productif/)
 - [Métlaoui : Quand l’écotourisme redonne vie aux oasis de montagne](https://lapresse.tn/2025/09/10/metlaoui-quand-lecotourisme-redonne-vie-aux-oasis-de-montagne/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
+- [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
+- [Au Maroc, les frappes israéliennes sur le Qatar passent mal](https://www.jeuneafrique.com/1720735/politique/au-maroc-les-frappes-israeliennes-sur-le-qatar-passent-mal/)
 - [À Sidi Bou Saïd, les attaques contre la flottille pour Gaza indignent et inquiètent les Tunisiens](https://www.jeuneafrique.com/1720710/politique/a-sidi-bou-said-les-attaques-contre-la-flottille-pour-gaza-indignent-et-inquietent-les-tunisiens/)
 - [Pourquoi l’ancien Premier ministre guinéen Bernard Goumou revient-il sur la scène politique ?](https://www.jeuneafrique.com/1720383/politique/pourquoi-lancien-premier-ministre-guineen-bernard-goumou-revient-sur-la-scene-politique/)
 - [Dans l’est de la RDC, les rebelles ADF poursuivent leurs attaques meurtrières contre des civils](https://www.jeuneafrique.com/1720637/politique/dans-lest-de-la-rdc-les-rebelles-adf-poursuivent-leurs-attaques-meurtrieres-contre-des-civils/)
 - [Mongi Hamdi : « Sans une intervention des Occidentaux et de l’UA, la crise soudanaise ne fera que s’aggraver »](https://www.jeuneafrique.com/1719401/politique/mongi-hamdi-sans-une-intervention-des-occidentaux-et-de-lua-la-crise-soudanaise-ne-fera-que-saggraver/)
 - [Présidentielle au Cameroun : Jacques Bougha Hagbe, l’ancien du FMI qui veut redresser le pays](https://www.jeuneafrique.com/1720170/politique/presidentielle-au-cameroun-jacques-bougha-hagbe-lancien-du-fmi-qui-veut-redresser-le-pays/)
-- [Sénégal : pourquoi Ousmane Sonko a écarté Ousmane Diagne de la Justice](https://www.jeuneafrique.com/1720425/politique/senegal-pourquoi-ousmane-sonko-a-ecarte-ousmane-diagne-de-la-justice/)
-- [Cellou Dalein Diallo : « Mamadi Doumbouya ne veut pas que je me présente face à lui »](https://www.jeuneafrique.com/1720401/politique/cellou-dalein-diallo-mamadi-doumbouya-ne-veut-pas-que-je-me-presente-face-a-lui/)
-- [Présidentielle en Côte d’Ivoire : que vont faire Tidjane Thiam et Laurent Gbagbo ?](https://www.jeuneafrique.com/1720386/politique/presidentielle-en-cote-divoire-que-vont-faire-tidjane-thiam-et-laurent-gbagbo/)
 - [Barrage de la Renaissance : quand l’Éthiopie rêve de devenir la centrale électrique de l’Afrique](https://www.jeuneafrique.com/1720663/economie-entreprises/barrage-de-la-renaissance-quand-lethiopie-reve-de-devenir-la-centrale-electrique-de-lafrique/)
 - [Chez Afriland First Bank, Mamoudou Hamadou se pose en chantre de la finance islamique](https://www.jeuneafrique.com/1720364/economie-entreprises/chez-afriland-first-bank-mamoudou-hamadou-se-pose-en-chantre-de-la-finance-islamique/)
 
