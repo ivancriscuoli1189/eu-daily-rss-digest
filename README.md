@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 13:18*
+*Generato: 11 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Chantages](https://lapresse.tn/2025/09/10/chantages/)
+- [Bizerte : dix navires de la flottille « Soumoud » accostent au port de plaisance Cap 3000](https://lapresse.tn/2025/09/11/bizerte-dix-navires-de-la-flottille-soumoud-accostent-au-port-de-plaisance-cap-3000/)
 - [Ras Jebel se réinvente : régénération, projets urbains et environnement](https://lapresse.tn/2025/09/11/ras-jebel-se-reinvente-regeneration-projets-urbains-et-environnement/)
 - [Equipement : 70 % des ouvrages hydrauliques entretenus et plus de 2 400 km de canaux dragués et nettoyés](https://lapresse.tn/2025/09/11/equipement-70-des-ouvrages-hydrauliques-entretenus-et-plus-de-2-400-km-de-canaux-dragues-et-nettoyes/)
-- [Stratégie Nationale de Sécurité Routière : réduire de 50% les accidents de la route d’ici 2034](https://lapresse.tn/2025/09/11/strategie-nationale-de-securite-routiere-reduire-de-50-les-accidents-de-la-route-dici-2034/)
+- [En marge de sa visite au Caire : La Cheffe du gouvernement rencontre des Tunisiens établis en Egypte](https://lapresse.tn/2025/09/11/en-marge-de-sa-visite-au-caire-la-cheffe-du-gouvernement-rencontre-des-tunisiens-etablis-en-egypte/)
 - [Flottille Soumoud : « le report du départ jugé nécessaire face au mauvais temps »](https://lapresse.tn/2025/09/11/flottille-soumoud-le-report-du-depart-juge-necessaire-face-au-mauvais-temps/)
 - [Flottille Soumoud : départ de Bizerte prévu vendredi](https://lapresse.tn/2025/09/11/flottille-soumoud-depart-de-bizerte-prevu-vendredi/)
-- [Flotille « GLOBAL SUMUD » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flotille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
+- [Stratégie Nationale de Sécurité Routière : réduire de 50% les accidents de la route d’ici 2034](https://lapresse.tn/2025/09/11/strategie-nationale-de-securite-routiere-reduire-de-50-les-accidents-de-la-route-dici-2034/)
 - [Prise en charge de l’ostéoporose : vers l’adoption d’une stratégie nationale](https://lapresse.tn/2025/09/11/prise-en-charge-de-losteoporose-vers-ladoption-dune-strategie-nationale/)
 - [IACE : jeudi prochain, forum économique sur les nouvelles perspectives du tourisme en Tunisie](https://lapresse.tn/2025/09/11/iace-jeudi-prochain-forum-economique-sur-les-nouvelles-perspectives-du-tourisme-en-tunisie/)
-- [BFPME : Malgré les dérives, des solutions existent](https://lapresse.tn/2025/09/10/banque-de-financement-des-petites-et-moyennes-entreprises-bfpme-malgre-les-derives-des-solutions-existent/)
 
 ## NGOs – Amnesty International – Tunisia
 
