@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 18:13*
+*Generato: 11 Sep 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,10 +82,10 @@
 
 ## UE – EP – Press Room
 
-- [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
+- [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
 - [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
@@ -174,13 +174,13 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
-- [Première sélection du Goncourt 2025 : Une rentrée littéraire aux couleurs vibrantes et engagées](https://lapresse.tn/2025/09/11/premiere-selection-du-goncourt-2025-une-rentree-litteraire-aux-couleurs-vibrantes-et-engagees/)
-- [Centre National des Arts de la Marionnette : Des étoiles plein les yeux](https://lapresse.tn/2025/09/11/centre-national-des-arts-de-la-marionnette-des-etoiles-plein-les-yeux/)
-- [57e édition du Festival International du Sahara : Douz au cœur des traditions](https://lapresse.tn/2025/09/11/57e-edition-du-festival-international-du-sahara-douz-au-coeur-des-traditions/)
-- [Tunis-Egypte: signature de huit accords de coopération dans plusieurs domaines](https://lapresse.tn/2025/09/11/tunis-egypte-signature-de-huit-accords-de-cooperation-dans-plusieurs-domaines/)
-- [Déclaration conjointe de Mohamed Ali Nafti et Abbas Araghchi, ministres tunisien et iranien des Affaires étrangères : La Tunisie et l’Iran expriment la convergence de leurs positions sur les questions régionales](https://lapresse.tn/2025/09/11/declaration-conjointe-de-mohamed-ali-nafti-et-abbas-araghchi-ministres-tunisien-et-iranien-des-affaires-etrangeres-la-tunisie-et-liran-expriment-la-convergence-de-leurs-positions-sur-les/)
-- [Flottille « Global Sumud » : Départ prévu aujourd’hui depuis Sidi Bou Saïd](https://lapresse.tn/2025/09/11/flottille-global-sumud-depart-prevu-aujourdhui-depuis-sidi-bou-said/)
+- [Coopération Tunisie-AFD : Vers un nouveau chapitre dans l’énergie et l’industrie](https://lapresse.tn/2025/09/11/cooperation-tunisie-afd-vers-un-nouveau-chapitre-dans-lenergie-et-lindustrie/)
+- [Véhicules électriques : une offre concessionnaire très limitée, selon l’ANME](https://lapresse.tn/2025/09/11/vehicules-electriques-une-offre-concessionnaire-tres-limitee-selon-lanme/)
+- [Le CAB se réinvente : Enfin des recrues](https://lapresse.tn/2025/09/11/le-cab-se-reinvente-enfin-des-recrues/)
+- [Nuages passagers et vents forts près des côtes](https://lapresse.tn/2025/09/11/nuages-passagers-et-vents-forts-pres-des-cotes/)
 - [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
+- [Tunis-Egypte: signature de huit accords de coopération dans plusieurs domaines](https://lapresse.tn/2025/09/11/tunis-egypte-signature-de-huit-accords-de-cooperation-dans-plusieurs-domaines/)
+- [Réouverture des inscriptions en ligne pour les classes préparatoires à partir de demain](https://lapresse.tn/2025/09/11/reouverture-des-inscriptions-en-ligne-pour-les-classes-preparatoires-a-partir-de-demain/)
 - [Rentrée scolaire et universitaire 2025-2026 : Tout est fin prêt](https://lapresse.tn/2025/09/11/rentree-scolaire-et-universitaire-2025-2026-tout-est-fin-pret/)
 - [ATTT – Permis de conduire : Tout ce qui va changer !](https://lapresse.tn/2025/09/11/attt-permis-de-conduire-tout-ce-qui-va-changer/)
 
