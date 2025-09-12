@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Sep 2025, 21:03*
+*Generato: 12 Sep 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
+- [Météo : Nuages et Mer Agitée ce Vendredi](https://lapresse.tn/2025/09/12/meteo-nuages-et-mer-agitee-ce-vendredi/)
+- [Tunisiepara.com : la parapharmacie en ligne incontournable en Tunisie](https://lapresse.tn/2025/09/12/tunisiepara-com-la-parapharmacie-en-ligne-incontournable-en-tunisie/)
 - [Coopération Tunisie-AFD : Vers un nouveau chapitre dans l’énergie et l’industrie](https://lapresse.tn/2025/09/11/cooperation-tunisie-afd-vers-un-nouveau-chapitre-dans-lenergie-et-lindustrie/)
-- [Véhicules électriques : une offre concessionnaire très limitée, selon l’ANME](https://lapresse.tn/2025/09/11/vehicules-electriques-une-offre-concessionnaire-tres-limitee-selon-lanme/)
-- [Le CAB se réinvente : Enfin des recrues](https://lapresse.tn/2025/09/11/le-cab-se-reinvente-enfin-des-recrues/)
 - [Nuages passagers et vents forts près des côtes](https://lapresse.tn/2025/09/11/nuages-passagers-et-vents-forts-pres-des-cotes/)
 - [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
-- [Tunis-Egypte: signature de huit accords de coopération dans plusieurs domaines](https://lapresse.tn/2025/09/11/tunis-egypte-signature-de-huit-accords-de-cooperation-dans-plusieurs-domaines/)
 - [Réouverture des inscriptions en ligne pour les classes préparatoires à partir de demain](https://lapresse.tn/2025/09/11/reouverture-des-inscriptions-en-ligne-pour-les-classes-preparatoires-a-partir-de-demain/)
 - [Rentrée scolaire et universitaire 2025-2026 : Tout est fin prêt](https://lapresse.tn/2025/09/11/rentree-scolaire-et-universitaire-2025-2026-tout-est-fin-pret/)
-- [ATTT – Permis de conduire : Tout ce qui va changer !](https://lapresse.tn/2025/09/11/attt-permis-de-conduire-tout-ce-qui-va-changer/)
+- [Véhicules électriques : une offre concessionnaire très limitée, selon l’ANME](https://lapresse.tn/2025/09/11/vehicules-electriques-une-offre-concessionnaire-tres-limitee-selon-lanme/)
+- [Tunisie : Lancement du programme “216 Capital Venture Accelerator” pour propulser les startups à l’international](https://lapresse.tn/2025/09/11/tunisie-lancement-du-programme-216-capital-venture-accelerator-pour-propulser-les-startups-a-linternational/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,12 +268,12 @@
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
 - [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
+- [Constitution et code pastoral : au Tchad, Mahamat Idriss Déby Itno teste son pouvoir](https://www.jeuneafrique.com/1720733/politique/constitution-et-code-pastoral-au-tchad-mahamat-idriss-deby-itno-teste-son-pouvoir/)
 - [En s’implantant à New York, l’UM6P veut connecter l’Afrique aux écosystèmes scientifiques américains](https://www.jeuneafrique.com/1720628/politique/en-simplantant-a-new-york-lum6p-veut-connecter-lafrique-aux-ecosystemes-scientifiques-americains/)
 - [Entre les États-Unis et le Burkina Faso, l’amorce d’un réchauffement diplomatique](https://www.jeuneafrique.com/1720403/politique/entre-les-etats-unis-et-le-burkina-faso-lamorce-dun-rechauffement-diplomatique/)
 - [Présidentielle en Côte d’Ivoire : qui peut encore arrêter le rouleau compresseur RHDP ?](https://www.jeuneafrique.com/1720649/politique/presidentielle-en-cote-divoire-qui-peut-encore-arreter-le-rouleau-compresseur-rhdp/)
-- [Au Maroc, les frappes israéliennes sur le Qatar passent mal](https://www.jeuneafrique.com/1720735/politique/au-maroc-les-frappes-israeliennes-sur-le-qatar-passent-mal/)
+- [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
 - [Zones économiques spéciales : du Maroc au Gabon, quels modèles pour l’Afrique de demain ?](https://www.jeuneafrique.com/1720662/economie-entreprises/zones-economiques-speciales-du-maroc-au-gabon-quels-modeles-pour-lafrique-de-demain/)
-- [Gagan Gupta redouble d’ambitions, soutenu par les fonds saoudiens](https://www.jeuneafrique.com/1720850/economie-entreprises/gagan-gupta-redouble-dambitions-soutenu-par-les-fonds-saoudiens/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
