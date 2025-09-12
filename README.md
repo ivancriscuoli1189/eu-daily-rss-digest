@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 15:04*
+*Generato: 12 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
-- [Projet de laboratoire de génome humain: détecter plus tôt les maladies génétiques et réduire les frais de santé](https://lapresse.tn/2025/09/12/projet-de-laboratoire-de-genome-humain-detecter-plus-tot-les-maladies-genetiques-et-reduire-les-frais-de-sante/)
-- [Marathon Comar: La 38e édition aura lieu le 30 novembre prochain](https://lapresse.tn/2025/09/12/marathon-comar-la-38e-edition-aura-lieu-le-30-novembre-prochain/)
-- [Village SOS: cérémonie en l’honneur de 147 enfants et jeunes qui se sont distingués](https://lapresse.tn/2025/09/12/village-sos-ceremonie-en-lhonneur-de-147-enfants-et-jeunes-qui-se-sont-distingues/)
-- [Retour volontaire de 154 migrants en Côte d’Ivoire](https://lapresse.tn/2025/09/12/retour-volontaire-de-154-migrants-en-cote-divoire/)
-- [Flottille Soumoud : les raisons du changement de départ de Sidi Bou Saïd à Bizerte](https://lapresse.tn/2025/09/12/flottille-soumoud-les-raisons-du-changement-de-depart-de-sidi-bou-said-a-bizerte/)
-- [Initiative 5+5 : Le ministre de la défense revendique de nouveaux mécanismes de coopération](https://lapresse.tn/2025/09/12/initiative-55-le-ministre-de-la-defense-revendique-de-nouveaux-mecanismes-de-cooperation/)
-- [Palais des Congrès de Tunis: coup d’envoi du Salon International du Tourisme et de la Omra](https://lapresse.tn/2025/09/12/palais-des-congres-de-tunis-coup-denvoi-du-salon-international-du-tourisme-et-de-la-omra/)
-- [La STB publie son premier rapport extra-financier : un engagement fort au service du développement durable et de la responsabilité sociétale](https://lapresse.tn/2025/09/12/la-stb-publie-son-premier-rapport-extra-financier-un-engagement-fort-au-service-du-developpement-durable-et-de-la-responsabilite-societale/)
-- [Les destinations touristiques préférées des Tunisiens en 2025](https://lapresse.tn/2025/09/12/les-destinations-touristiques-preferees-des-tunisiens-en-2025/)
+- [Gestion transparente de la chose publique, une affaire au quotidien](https://lapresse.tn/2025/09/12/gestion-transparente-de-la-chose-publique-une-affaire-au-quotidien/)
+- [Ben Arous : un individu cagoulé braque une agence bancaire](https://lapresse.tn/2025/09/12/ben-arous-un-individu-cagoule-braque-une-agence-bancaire/)
+- [La Tunisie et Huawei explorent de nouveaux partenariats pour l’énergie verte](https://lapresse.tn/2025/09/12/la-tunisie-et-huawei-explorent-de-nouveaux-partenariats-pour-lenergie-verte/)
+- [Assemblée générale pour l’élection des Commissions indépendantes de la FTF : Nouveaux visages pour redémarrer](https://lapresse.tn/2025/09/12/assemblee-generale-pour-lelection-des-commissions-independantes-de-la-ftf-nouveaux-visages-pour-redemarrer/)
+- [Jeunes médecins : l’augmentation de la prime de continuité officialisée par arrêté](https://lapresse.tn/2025/09/12/jeunes-medecins-laugmentation-de-la-prime-de-continuite-officialisee-par-arrete/)
+- [Coalition éducative tunisienne: » l’urgence d’une réforme globale et approfondie du secteur éducatif «](https://lapresse.tn/2025/09/12/coalition-educative-tunisienne-lurgence-dune-reforme-globale-et-approfondie-du-secteur-educatif/)
+- [Tunisie : fin des prolongations des contrats CIVP dès le 1er octobre](https://lapresse.tn/2025/09/12/tunisie-fin-des-prolongations-des-contrats-civp-des-le-1er-octobre/)
+- [Ouverture aujourd’hui du Forum mondial de la mer à Bizerte : « De Nice à Bizerte, comment va la Méditerranée ? »](https://lapresse.tn/2025/09/12/ouverture-aujourdhui-du-forum-mondial-de-la-mer-a-bizerte-de-nice-a-bizerte-comment-va-la-mediterranee/)
+- [Disparition de Mohamed Laâmouri : bâtisseur de l’hôtellerie de luxe en Tunisie](https://lapresse.tn/2025/09/12/disparition-de-mohamed-laamouri-batisseur-de-lhotellerie-de-luxe-en-tunisie/)
+- [Tunisie-France : 54,5 millions d’euros pour l’eau, l’inclusion et l’emploi des jeunes](https://lapresse.tn/2025/09/12/tunisie-france-545-millions-deuros-pour-leau-linclusion-et-lemploi-des-jeunes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Togo, un Français détenu pour atteinte à la sûreté de l’État, ses proches se disent « très inquiets »](https://www.jeuneafrique.com/1721210/politique/au-togo-un-francais-detenu-pour-atteinte-a-la-surete-de-letat-ses-proches-se-disent-tres-inquiets/)
+- [Interrogé sur la situation à Gaza, Nasser Bourita durcit le ton](https://www.jeuneafrique.com/1721141/politique/interroge-sur-la-situation-a-gaza-nasser-bourita-durcit-le-ton/)
 - [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
 - [Sifi Ghrieb, Premier ministre algérien par intérim, sera-t-il confirmé à son poste ?](https://www.jeuneafrique.com/1720630/politique/sifi-ghrieb-premier-ministre-algerien-par-interim-sera-t-il-confirme-a-son-poste/)
+- [Aliou Boubacar Diallo : « Au Mali, garder le silence face à la dictature serait une complicité »](https://www.jeuneafrique.com/1720506/politique/aliou-boubacar-diallo-au-mali-garder-le-silence-face-a-la-dictature-serait-une-complicite/)
 - [Instrumentalisation ou réelle indignation ? En Côte d’Ivoire, Nady Bamba prend fait et cause pour « Zigui »](https://www.jeuneafrique.com/1720262/politique/instrumentalisation-ou-reelle-indignation-en-cote-divoire-nady-bamba-prend-fait-et-cause-pour-zigui/)
 - [Est de la RDC : Félix Tshisekedi peut-il lâcher le général Gasita ?](https://www.jeuneafrique.com/1720929/politique/est-de-la-rdc-felix-tshisekedi-peut-il-lacher-le-general-gasita/)
 - [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
-- [Présidentielle au Cameroun : Alain Fogué, le prisonnier qui murmure à l’oreille de Maurice Kamto](https://www.jeuneafrique.com/1719570/politique/presidentielle-au-cameroun-alain-fogue-le-prisonnier-qui-murmure-a-loreille-de-maurice-kamto/)
-- [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
-- [Mines au Mali : comment Assimi Goïta porte l’estocade à Barrick](https://www.jeuneafrique.com/1721073/economie-entreprises/mines-au-mali-comment-assimi-goita-porte-lestocade-a-barrick/)
-- [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
+- [Enterrée par Elon Musk, la MCC ressuscite en Côte d’Ivoire pour booster le secteur énergétique](https://www.jeuneafrique.com/1721410/economie-entreprises/enterree-par-elon-musk-la-mcc-ressuscite-en-cote-divoire-pour-booster-le-secteur-energetique/)
+- [Au Gabon, la préférence nationale bouscule le secteur bancaire](https://www.jeuneafrique.com/1721164/economie-entreprises/au-gabon-la-preference-nationale-bouscule-le-secteur-bancaire/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
