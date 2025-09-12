@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 12:18*
+*Generato: 12 Sep 2025, 13:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
+- [Palais des Congrès de Tunis: coup d’envoi du Salon International du Tourisme et de la Omra](https://lapresse.tn/2025/09/12/palais-des-congres-de-tunis-coup-denvoi-du-salon-international-du-tourisme-et-de-la-omra/)
+- [INSSPA: l’agrément obligatoire pour les entreprises de conditionnement alimentaire](https://lapresse.tn/2025/09/12/insspa-lagrement-obligatoire-pour-les-entreprises-de-conditionnement-alimentaire/)
+- [Affaires Religieuses: nouvelles conditions pour la Omra](https://lapresse.tn/2025/09/12/affaires-religieuses-nouvelles-conditions-pour-la-omra/)
 - [Forum Chine-Afrique : Tunis et Pékin évaluent les suites du sommet](https://lapresse.tn/2025/09/12/forum-chine-afrique-tunis-et-pekin-evaluent-les-suites-du-sommet/)
-- [La STB publie son premier rapport extra-financier : un engagement fort au service du développement durable et de la responsabilité sociétale](https://lapresse.tn/2025/09/12/la-stb-publie-son-premier-rapport-extra-financier-un-engagement-fort-au-service-du-developpement-durable-et-de-la-responsabilite-societale/)
-- [Les destinations touristiques préférées des Tunisiens en 2025](https://lapresse.tn/2025/09/12/les-destinations-touristiques-preferees-des-tunisiens-en-2025/)
 - [Retour volontaire de 154 migrants en Côte d’Ivoire](https://lapresse.tn/2025/09/12/retour-volontaire-de-154-migrants-en-cote-divoire/)
 - [Flottille Soumoud : les raisons du changement de départ de Sidi Bou Saïd à Bizerte](https://lapresse.tn/2025/09/12/flottille-soumoud-les-raisons-du-changement-de-depart-de-sidi-bou-said-a-bizerte/)
-- [Initiative 5+5 : Le ministre de la défense revendique de nouveaux mécanismes de coopération](https://lapresse.tn/2025/09/12/initiative-55-le-ministre-de-la-defense-revendique-de-nouveaux-mecanismes-de-cooperation/)
 - [Circulation à l’entrée sud de Tunis : itinéraires déviés pour fluidifier le trafic à l’occasion de la rentrée](https://lapresse.tn/2025/09/12/circulation-a-lentree-sud-de-tunis-itineraires-devies-pour-fluidifier-le-trafic-a-loccasion-de-la-rentree/)
 - [Tunisie : l’hôpital numérique étend ses services à sept nouvelles régions](https://lapresse.tn/2025/09/12/tunisie-lhopital-numerique-etend-ses-services-a-sept-nouvelles-regions/)
-- [Tunisie Autoroutes : Suspension des travaux et ouverture temporaire de l’autoroute A1](https://lapresse.tn/2025/09/12/tunisie-autoroutes-suspension-des-travaux-et-ouverture-temporaire-de-lautoroute-a1/)
+- [La STB publie son premier rapport extra-financier : un engagement fort au service du développement durable et de la responsabilité sociétale](https://lapresse.tn/2025/09/12/la-stb-publie-son-premier-rapport-extra-financier-un-engagement-fort-au-service-du-developpement-durable-et-de-la-responsabilite-societale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Togo, un Français détenu pour atteinte à la sûreté de l’État, ses proches se disent « très inquiets »](https://www.jeuneafrique.com/1721210/politique/au-togo-un-francais-detenu-pour-atteinte-a-la-surete-de-letat-ses-proches-se-disent-tres-inquiets/)
 - [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
 - [Sifi Ghrieb, Premier ministre algérien par intérim, sera-t-il confirmé à son poste ?](https://www.jeuneafrique.com/1720630/politique/sifi-ghrieb-premier-ministre-algerien-par-interim-sera-t-il-confirme-a-son-poste/)
 - [Instrumentalisation ou réelle indignation ? En Côte d’Ivoire, Nady Bamba prend fait et cause pour « Zigui »](https://www.jeuneafrique.com/1720262/politique/instrumentalisation-ou-reelle-indignation-en-cote-divoire-nady-bamba-prend-fait-et-cause-pour-zigui/)
@@ -271,7 +272,6 @@
 - [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
 - [Présidentielle au Cameroun : Alain Fogué, le prisonnier qui murmure à l’oreille de Maurice Kamto](https://www.jeuneafrique.com/1719570/politique/presidentielle-au-cameroun-alain-fogue-le-prisonnier-qui-murmure-a-loreille-de-maurice-kamto/)
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
-- [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
 - [Mines au Mali : comment Assimi Goïta porte l’estocade à Barrick](https://www.jeuneafrique.com/1721073/economie-entreprises/mines-au-mali-comment-assimi-goita-porte-lestocade-a-barrick/)
 - [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
 
