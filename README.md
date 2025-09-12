@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 13:18*
+*Generato: 12 Sep 2025, 15:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
-- [Palais des Congrès de Tunis: coup d’envoi du Salon International du Tourisme et de la Omra](https://lapresse.tn/2025/09/12/palais-des-congres-de-tunis-coup-denvoi-du-salon-international-du-tourisme-et-de-la-omra/)
-- [INSSPA: l’agrément obligatoire pour les entreprises de conditionnement alimentaire](https://lapresse.tn/2025/09/12/insspa-lagrement-obligatoire-pour-les-entreprises-de-conditionnement-alimentaire/)
-- [Affaires Religieuses: nouvelles conditions pour la Omra](https://lapresse.tn/2025/09/12/affaires-religieuses-nouvelles-conditions-pour-la-omra/)
-- [Forum Chine-Afrique : Tunis et Pékin évaluent les suites du sommet](https://lapresse.tn/2025/09/12/forum-chine-afrique-tunis-et-pekin-evaluent-les-suites-du-sommet/)
+- [Projet de laboratoire de génome humain: détecter plus tôt les maladies génétiques et réduire les frais de santé](https://lapresse.tn/2025/09/12/projet-de-laboratoire-de-genome-humain-detecter-plus-tot-les-maladies-genetiques-et-reduire-les-frais-de-sante/)
+- [Marathon Comar: La 38e édition aura lieu le 30 novembre prochain](https://lapresse.tn/2025/09/12/marathon-comar-la-38e-edition-aura-lieu-le-30-novembre-prochain/)
+- [Village SOS: cérémonie en l’honneur de 147 enfants et jeunes qui se sont distingués](https://lapresse.tn/2025/09/12/village-sos-ceremonie-en-lhonneur-de-147-enfants-et-jeunes-qui-se-sont-distingues/)
 - [Retour volontaire de 154 migrants en Côte d’Ivoire](https://lapresse.tn/2025/09/12/retour-volontaire-de-154-migrants-en-cote-divoire/)
 - [Flottille Soumoud : les raisons du changement de départ de Sidi Bou Saïd à Bizerte](https://lapresse.tn/2025/09/12/flottille-soumoud-les-raisons-du-changement-de-depart-de-sidi-bou-said-a-bizerte/)
-- [Circulation à l’entrée sud de Tunis : itinéraires déviés pour fluidifier le trafic à l’occasion de la rentrée](https://lapresse.tn/2025/09/12/circulation-a-lentree-sud-de-tunis-itineraires-devies-pour-fluidifier-le-trafic-a-loccasion-de-la-rentree/)
-- [Tunisie : l’hôpital numérique étend ses services à sept nouvelles régions](https://lapresse.tn/2025/09/12/tunisie-lhopital-numerique-etend-ses-services-a-sept-nouvelles-regions/)
+- [Initiative 5+5 : Le ministre de la défense revendique de nouveaux mécanismes de coopération](https://lapresse.tn/2025/09/12/initiative-55-le-ministre-de-la-defense-revendique-de-nouveaux-mecanismes-de-cooperation/)
+- [Palais des Congrès de Tunis: coup d’envoi du Salon International du Tourisme et de la Omra](https://lapresse.tn/2025/09/12/palais-des-congres-de-tunis-coup-denvoi-du-salon-international-du-tourisme-et-de-la-omra/)
 - [La STB publie son premier rapport extra-financier : un engagement fort au service du développement durable et de la responsabilité sociétale](https://lapresse.tn/2025/09/12/la-stb-publie-son-premier-rapport-extra-financier-un-engagement-fort-au-service-du-developpement-durable-et-de-la-responsabilite-societale/)
+- [Les destinations touristiques préférées des Tunisiens en 2025](https://lapresse.tn/2025/09/12/les-destinations-touristiques-preferees-des-tunisiens-en-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 
