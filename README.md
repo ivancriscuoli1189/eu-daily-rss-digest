@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 18:13*
+*Generato: 12 Sep 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Gestion transparente de la chose publique, une affaire au quotidien](https://lapresse.tn/2025/09/12/gestion-transparente-de-la-chose-publique-une-affaire-au-quotidien/)
+- [Kairouan et Shaoxing : un jumelage sino-tunisien en gestation](https://lapresse.tn/2025/09/12/kairouan-et-shaoxing-un-jumelage-sino-tunisien-en-gestation/)
+- [Bizerte–Menzel Bourguiba : le port tunisien qui alimente 20 % du commerce maritime national](https://lapresse.tn/2025/09/12/bizerte-menzel-bourguiba-le-port-tunisien-qui-alimente-20-du-commerce-maritime-national/)
+- [Tunisie : Déficit commercial à 14,64 milliards de dinars à fin août 2025](https://lapresse.tn/2025/09/12/tunisie-deficit-commercial-a-1464-milliards-de-dinars-a-fin-aout-2025/)
+- [Flottille maghrébine Soumoud : nombre de navires et participants tunisiens annoncés](https://lapresse.tn/2025/09/12/flottille-maghrebine-soumoud-nombre-de-navires-et-participants-tunisiens-annonces/)
 - [Ben Arous : un individu cagoulé braque une agence bancaire](https://lapresse.tn/2025/09/12/ben-arous-un-individu-cagoule-braque-une-agence-bancaire/)
-- [La Tunisie et Huawei explorent de nouveaux partenariats pour l’énergie verte](https://lapresse.tn/2025/09/12/la-tunisie-et-huawei-explorent-de-nouveaux-partenariats-pour-lenergie-verte/)
-- [Assemblée générale pour l’élection des Commissions indépendantes de la FTF : Nouveaux visages pour redémarrer](https://lapresse.tn/2025/09/12/assemblee-generale-pour-lelection-des-commissions-independantes-de-la-ftf-nouveaux-visages-pour-redemarrer/)
-- [Jeunes médecins : l’augmentation de la prime de continuité officialisée par arrêté](https://lapresse.tn/2025/09/12/jeunes-medecins-laugmentation-de-la-prime-de-continuite-officialisee-par-arrete/)
+- [Lutte contre l’addiction en Tunisie : vers l’extension de l’offre des soins](https://lapresse.tn/2025/09/12/lutte-contre-laddiction-en-tunisie-vers-lextension-de-loffre-des-soins/)
 - [Coalition éducative tunisienne: » l’urgence d’une réforme globale et approfondie du secteur éducatif «](https://lapresse.tn/2025/09/12/coalition-educative-tunisienne-lurgence-dune-reforme-globale-et-approfondie-du-secteur-educatif/)
 - [Tunisie : fin des prolongations des contrats CIVP dès le 1er octobre](https://lapresse.tn/2025/09/12/tunisie-fin-des-prolongations-des-contrats-civp-des-le-1er-octobre/)
-- [Ouverture aujourd’hui du Forum mondial de la mer à Bizerte : « De Nice à Bizerte, comment va la Méditerranée ? »](https://lapresse.tn/2025/09/12/ouverture-aujourdhui-du-forum-mondial-de-la-mer-a-bizerte-de-nice-a-bizerte-comment-va-la-mediterranee/)
-- [Disparition de Mohamed Laâmouri : bâtisseur de l’hôtellerie de luxe en Tunisie](https://lapresse.tn/2025/09/12/disparition-de-mohamed-laamouri-batisseur-de-lhotellerie-de-luxe-en-tunisie/)
-- [Tunisie-France : 54,5 millions d’euros pour l’eau, l’inclusion et l’emploi des jeunes](https://lapresse.tn/2025/09/12/tunisie-france-545-millions-deuros-pour-leau-linclusion-et-lemploi-des-jeunes/)
+- [Tunisie : le déficit énergétique recule de 5% à fin juillet](https://lapresse.tn/2025/09/12/tunisie-le-deficit-energetique-recule-de-5-a-fin-juillet/)
 
 ## NGOs – Amnesty International – Tunisia
 
