@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 09:10*
+*Generato: 12 Sep 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
@@ -52,7 +53,6 @@
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
 - [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
-- [Indice des prix à la consommation, Mai 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-mai-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -70,10 +70,10 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهورية قيس سعيّد مع معالي الدكتور عباس عراقجي وزير الشؤون الخارجية للجمهورية الإسلامية الإيرانية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع صاحب السمو الأمير فيصل بن فرحان بن عبد الله آل سعود وزير خارجية المملكة العربية السعودية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B3%D9%85%D9%88-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%81%D9%8A%D8%B5%D9%84-%D8%A8%D9%86-%D9%81%D8%B1%D8%AD%D8%A7%D9%86-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A2%D9%84-%D8%B3%D8%B9%D9%88%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة المالية والسيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-0)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-18)
-- [كلمة رئيس الجمهورية قيس سعيّد في افتتاح أشغال الدورة الرابعة لمعرض التجارة البينية الإفريقية](http://www.carthage.tn/ar/%D9%83%D9%84%D9%85%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%81%D9%8A-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9-%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9)
-- [وصول رئيس الجمهورية قيس سعيّد مساء اليوم الأربعاء، 03 سبتمبر الجاري، إلى الجزائر العاصمة للمشاركة في أعمال الدّورة الرابعة للمعرض الإفريقي للتجارة البينية التي تحتضنها الجزائر من 04 إلى 10 سبتمبر 2025](http://www.carthage.tn/ar/%D9%88%D8%B5%D9%88%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A7%D8%A1%D8%8C-03-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D9%84%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D9%81%D9%8A)
 - [إجتماع رئيس الجمهورية قيس سعيّد بعدد من أصحاب حاملي شهادة الدكتوراه](http://www.carthage.tn/ar/%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A3%D8%B5%D8%AD%D8%A7%D8%A8-%D8%AD%D8%A7%D9%85%D9%84%D9%8A-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1%D8%A7%D9%87)
 - [إشراف رئيس الجمهورية قيس سعيّد على اجتماع مجلس الوزراء](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-9)
 - [إشراف رئيس الجمهورية قيس سعيّد على موكب الاحتفال بيوم العلم](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%B9%D9%84%D9%85)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
-- [Skifa des Juifs : Moknine agit pour protéger un monument du XVIIᵉ siècle](https://lapresse.tn/2025/09/12/skifa-des-juifs-moknine-agit-pour-proteger-un-monument-du-xvii%e1%b5%89-siecle/)
+- [Retour volontaire de 154 migrants en Côte d’Ivoire](https://lapresse.tn/2025/09/12/retour-volontaire-de-154-migrants-en-cote-divoire/)
+- [Tunisie : chute de 66 % des chèques, hausse des virements bancaires au S1 2025](https://lapresse.tn/2025/09/12/tunisie-chute-de-66-des-cheques-hausse-des-virements-bancaires-au-s1-2025/)
+- [Kairouan-production d’électricité propre : la centrale solaire bientôt opérationnelle](https://lapresse.tn/2025/09/12/kairouan-production-delectricite-propre-la-centrale-solaire-bientot-operationnelle/)
+- [Flottille Soumoud : les raisons du changement de départ de Sidi Bou Saïd à Bizerte](https://lapresse.tn/2025/09/12/flottille-soumoud-les-raisons-du-changement-de-depart-de-sidi-bou-said-a-bizerte/)
+- [Initiative 5+5 : Le ministre de la défense revendique de nouveaux mécanismes de coopération](https://lapresse.tn/2025/09/12/initiative-55-le-ministre-de-la-defense-revendique-de-nouveaux-mecanismes-de-cooperation/)
 - [Bizerte : affluence au port Cap 3000 en soutien à la Flottille Soumoud](https://lapresse.tn/2025/09/12/bizerte-affluence-au-port-cap-3000-en-soutien-a-la-flottille-soumoud/)
-- [Flottille pour Gaza : Les avocats tunisiens finalisent les démarches juridiques](https://lapresse.tn/2025/09/12/flottille-pour-gaza-les-avocats-tunisiens-finalisent-les-demarches-juridiques/)
-- [Flotille Soumoud : Bizerte, point de rassemblement avant le départ pour Gaza](https://lapresse.tn/2025/09/12/flotille-soumoud-bizerte-point-de-rassemblement-avant-le-depart-pour-gaza/)
-- [Météo : Nuages et Mer Agitée ce Vendredi](https://lapresse.tn/2025/09/12/meteo-nuages-et-mer-agitee-ce-vendredi/)
-- [Tunisiepara.com : la parapharmacie en ligne incontournable en Tunisie](https://lapresse.tn/2025/09/12/tunisiepara-com-la-parapharmacie-en-ligne-incontournable-en-tunisie/)
-- [Réouverture des inscriptions en ligne pour les classes préparatoires à partir de demain](https://lapresse.tn/2025/09/11/reouverture-des-inscriptions-en-ligne-pour-les-classes-preparatoires-a-partir-de-demain/)
-- [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
-- [Rentrée scolaire et universitaire 2025-2026 : Tout est fin prêt](https://lapresse.tn/2025/09/11/rentree-scolaire-et-universitaire-2025-2026-tout-est-fin-pret/)
+- [Circulation à l’entrée sud de Tunis : itinéraires déviés pour fluidifier le trafic à l’occasion de la rentrée](https://lapresse.tn/2025/09/12/circulation-a-lentree-sud-de-tunis-itineraires-devies-pour-fluidifier-le-trafic-a-loccasion-de-la-rentree/)
+- [Tunisie : l’hôpital numérique étend ses services à sept nouvelles régions](https://lapresse.tn/2025/09/12/tunisie-lhopital-numerique-etend-ses-services-a-sept-nouvelles-regions/)
+- [Tunisie Autoroutes : Suspension des travaux et ouverture temporaire de l’autoroute A1](https://lapresse.tn/2025/09/12/tunisie-autoroutes-suspension-des-travaux-et-ouverture-temporaire-de-lautoroute-a1/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
+- [Instrumentalisation ou réelle indignation ? En Côte d’Ivoire, Nady Bamba prend fait et cause pour « Zigui »](https://www.jeuneafrique.com/1720262/politique/instrumentalisation-ou-reelle-indignation-en-cote-divoire-nady-bamba-prend-fait-et-cause-pour-zigui/)
 - [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
+- [Présidentielle au Cameroun : Alain Fogué, le prisonnier qui murmure à l’oreille de Maurice Kamto](https://www.jeuneafrique.com/1719570/politique/presidentielle-au-cameroun-alain-fogue-le-prisonnier-qui-murmure-a-loreille-de-maurice-kamto/)
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
 - [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
 - [Constitution et code pastoral : au Tchad, Mahamat Idriss Déby Itno teste son pouvoir](https://www.jeuneafrique.com/1720733/politique/constitution-et-code-pastoral-au-tchad-mahamat-idriss-deby-itno-teste-son-pouvoir/)
-- [En s’implantant à New York, l’UM6P veut connecter l’Afrique aux écosystèmes scientifiques américains](https://www.jeuneafrique.com/1720628/politique/en-simplantant-a-new-york-lum6p-veut-connecter-lafrique-aux-ecosystemes-scientifiques-americains/)
-- [Entre les États-Unis et le Burkina Faso, l’amorce d’un réchauffement diplomatique](https://www.jeuneafrique.com/1720403/politique/entre-les-etats-unis-et-le-burkina-faso-lamorce-dun-rechauffement-diplomatique/)
+- [Mines au Mali : comment Assimi Goïta porte l’estocade à Barrick](https://www.jeuneafrique.com/1721073/economie-entreprises/mines-au-mali-comment-assimi-goita-porte-lestocade-a-barrick/)
 - [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
-- [Zones économiques spéciales : du Maroc au Gabon, quels modèles pour l’Afrique de demain ?](https://www.jeuneafrique.com/1720662/economie-entreprises/zones-economiques-speciales-du-maroc-au-gabon-quels-modeles-pour-lafrique-de-demain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
