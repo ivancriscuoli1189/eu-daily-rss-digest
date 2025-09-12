@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 11:02*
+*Generato: 12 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
+- [Forum Chine-Afrique : Tunis et Pékin évaluent les suites du sommet](https://lapresse.tn/2025/09/12/forum-chine-afrique-tunis-et-pekin-evaluent-les-suites-du-sommet/)
+- [La STB publie son premier rapport extra-financier : un engagement fort au service du développement durable et de la responsabilité sociétale](https://lapresse.tn/2025/09/12/la-stb-publie-son-premier-rapport-extra-financier-un-engagement-fort-au-service-du-developpement-durable-et-de-la-responsabilite-societale/)
+- [Les destinations touristiques préférées des Tunisiens en 2025](https://lapresse.tn/2025/09/12/les-destinations-touristiques-preferees-des-tunisiens-en-2025/)
 - [Retour volontaire de 154 migrants en Côte d’Ivoire](https://lapresse.tn/2025/09/12/retour-volontaire-de-154-migrants-en-cote-divoire/)
-- [Tunisie : chute de 66 % des chèques, hausse des virements bancaires au S1 2025](https://lapresse.tn/2025/09/12/tunisie-chute-de-66-des-cheques-hausse-des-virements-bancaires-au-s1-2025/)
-- [Kairouan-production d’électricité propre : la centrale solaire bientôt opérationnelle](https://lapresse.tn/2025/09/12/kairouan-production-delectricite-propre-la-centrale-solaire-bientot-operationnelle/)
 - [Flottille Soumoud : les raisons du changement de départ de Sidi Bou Saïd à Bizerte](https://lapresse.tn/2025/09/12/flottille-soumoud-les-raisons-du-changement-de-depart-de-sidi-bou-said-a-bizerte/)
 - [Initiative 5+5 : Le ministre de la défense revendique de nouveaux mécanismes de coopération](https://lapresse.tn/2025/09/12/initiative-55-le-ministre-de-la-defense-revendique-de-nouveaux-mecanismes-de-cooperation/)
-- [Bizerte : affluence au port Cap 3000 en soutien à la Flottille Soumoud](https://lapresse.tn/2025/09/12/bizerte-affluence-au-port-cap-3000-en-soutien-a-la-flottille-soumoud/)
 - [Circulation à l’entrée sud de Tunis : itinéraires déviés pour fluidifier le trafic à l’occasion de la rentrée](https://lapresse.tn/2025/09/12/circulation-a-lentree-sud-de-tunis-itineraires-devies-pour-fluidifier-le-trafic-a-loccasion-de-la-rentree/)
 - [Tunisie : l’hôpital numérique étend ses services à sept nouvelles régions](https://lapresse.tn/2025/09/12/tunisie-lhopital-numerique-etend-ses-services-a-sept-nouvelles-regions/)
 - [Tunisie Autoroutes : Suspension des travaux et ouverture temporaire de l’autoroute A1](https://lapresse.tn/2025/09/12/tunisie-autoroutes-suspension-des-travaux-et-ouverture-temporaire-de-lautoroute-a1/)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 - [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
-- [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
 - [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
 - [Türkiye: Proceedings against Istanbul Bar Association board a “direct assault” on independence of legal profession](https://www.icj.org/turkiye-proceedings-against-istanbul-bar-association-board-a-direct-assault-on-independence-of-legal-profession/)
-- [United States/Palestine: The United States must cancel sanctions against leading Palestinian NGOs and ICC personnel](https://www.icj.org/united-states-palestine-the-united-states-must-cancel-sanctions-against-leading-palestinian-ngos-and-icc-personnel/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
+- [Sifi Ghrieb, Premier ministre algérien par intérim, sera-t-il confirmé à son poste ?](https://www.jeuneafrique.com/1720630/politique/sifi-ghrieb-premier-ministre-algerien-par-interim-sera-t-il-confirme-a-son-poste/)
 - [Instrumentalisation ou réelle indignation ? En Côte d’Ivoire, Nady Bamba prend fait et cause pour « Zigui »](https://www.jeuneafrique.com/1720262/politique/instrumentalisation-ou-reelle-indignation-en-cote-divoire-nady-bamba-prend-fait-et-cause-pour-zigui/)
+- [Est de la RDC : Félix Tshisekedi peut-il lâcher le général Gasita ?](https://www.jeuneafrique.com/1720929/politique/est-de-la-rdc-felix-tshisekedi-peut-il-lacher-le-general-gasita/)
 - [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
 - [Présidentielle au Cameroun : Alain Fogué, le prisonnier qui murmure à l’oreille de Maurice Kamto](https://www.jeuneafrique.com/1719570/politique/presidentielle-au-cameroun-alain-fogue-le-prisonnier-qui-murmure-a-loreille-de-maurice-kamto/)
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
-- [Le massacre de civils commis par les ADF en RDC condamné par l’Union africaine](https://www.jeuneafrique.com/1720878/politique/le-massacre-de-civils-commis-par-les-adf-en-rdc-condamne-par-lunion-africaine/)
-- [Constitution et code pastoral : au Tchad, Mahamat Idriss Déby Itno teste son pouvoir](https://www.jeuneafrique.com/1720733/politique/constitution-et-code-pastoral-au-tchad-mahamat-idriss-deby-itno-teste-son-pouvoir/)
 - [Mines au Mali : comment Assimi Goïta porte l’estocade à Barrick](https://www.jeuneafrique.com/1721073/economie-entreprises/mines-au-mali-comment-assimi-goita-porte-lestocade-a-barrick/)
 - [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
 
