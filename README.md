@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 06:16*
+*Generato: 12 Sep 2025, 09:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Egypte : tout est en place pour aller de l’avant](https://lapresse.tn/2025/09/11/tunisie-egypte-tout-est-en-place-pour-aller-de-lavant/)
+- [Skifa des Juifs : Moknine agit pour protéger un monument du XVIIᵉ siècle](https://lapresse.tn/2025/09/12/skifa-des-juifs-moknine-agit-pour-proteger-un-monument-du-xvii%e1%b5%89-siecle/)
+- [Bizerte : affluence au port Cap 3000 en soutien à la Flottille Soumoud](https://lapresse.tn/2025/09/12/bizerte-affluence-au-port-cap-3000-en-soutien-a-la-flottille-soumoud/)
+- [Flottille pour Gaza : Les avocats tunisiens finalisent les démarches juridiques](https://lapresse.tn/2025/09/12/flottille-pour-gaza-les-avocats-tunisiens-finalisent-les-demarches-juridiques/)
+- [Flotille Soumoud : Bizerte, point de rassemblement avant le départ pour Gaza](https://lapresse.tn/2025/09/12/flotille-soumoud-bizerte-point-de-rassemblement-avant-le-depart-pour-gaza/)
 - [Météo : Nuages et Mer Agitée ce Vendredi](https://lapresse.tn/2025/09/12/meteo-nuages-et-mer-agitee-ce-vendredi/)
 - [Tunisiepara.com : la parapharmacie en ligne incontournable en Tunisie](https://lapresse.tn/2025/09/12/tunisiepara-com-la-parapharmacie-en-ligne-incontournable-en-tunisie/)
-- [Coopération Tunisie-AFD : Vers un nouveau chapitre dans l’énergie et l’industrie](https://lapresse.tn/2025/09/11/cooperation-tunisie-afd-vers-un-nouveau-chapitre-dans-lenergie-et-lindustrie/)
-- [Nuages passagers et vents forts près des côtes](https://lapresse.tn/2025/09/11/nuages-passagers-et-vents-forts-pres-des-cotes/)
-- [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
 - [Réouverture des inscriptions en ligne pour les classes préparatoires à partir de demain](https://lapresse.tn/2025/09/11/reouverture-des-inscriptions-en-ligne-pour-les-classes-preparatoires-a-partir-de-demain/)
+- [Santé : le TPO, composant dangereux, retiré du marché tunisien](https://lapresse.tn/2025/09/11/sante-le-tpo-composant-dangereux-retire-du-marche-tunisien/)
 - [Rentrée scolaire et universitaire 2025-2026 : Tout est fin prêt](https://lapresse.tn/2025/09/11/rentree-scolaire-et-universitaire-2025-2026-tout-est-fin-pret/)
-- [Véhicules électriques : une offre concessionnaire très limitée, selon l’ANME](https://lapresse.tn/2025/09/11/vehicules-electriques-une-offre-concessionnaire-tres-limitee-selon-lanme/)
-- [Tunisie : Lancement du programme “216 Capital Venture Accelerator” pour propulser les startups à l’international](https://lapresse.tn/2025/09/11/tunisie-lancement-du-programme-216-capital-venture-accelerator-pour-propulser-les-startups-a-linternational/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
 - [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
 - [En Centrafrique, Martin Ziguélé et le MLPC veulent renaître pour défier Touadéra en 2025](https://www.jeuneafrique.com/1720848/politique/en-centrafrique-martin-ziguele-et-le-mlpc-veulent-renaitre-pour-defier-touadera-en-2025/)
 - [L’attaque contre la flottille pour Gaza était une « agression préméditée », dénonce la Tunisie](https://www.jeuneafrique.com/1720872/politique/lattaque-contre-la-flottille-pour-gaza-etait-une-agression-premeditee-denonce-la-tunisie/)
@@ -271,7 +272,6 @@
 - [Constitution et code pastoral : au Tchad, Mahamat Idriss Déby Itno teste son pouvoir](https://www.jeuneafrique.com/1720733/politique/constitution-et-code-pastoral-au-tchad-mahamat-idriss-deby-itno-teste-son-pouvoir/)
 - [En s’implantant à New York, l’UM6P veut connecter l’Afrique aux écosystèmes scientifiques américains](https://www.jeuneafrique.com/1720628/politique/en-simplantant-a-new-york-lum6p-veut-connecter-lafrique-aux-ecosystemes-scientifiques-americains/)
 - [Entre les États-Unis et le Burkina Faso, l’amorce d’un réchauffement diplomatique](https://www.jeuneafrique.com/1720403/politique/entre-les-etats-unis-et-le-burkina-faso-lamorce-dun-rechauffement-diplomatique/)
-- [Présidentielle en Côte d’Ivoire : qui peut encore arrêter le rouleau compresseur RHDP ?](https://www.jeuneafrique.com/1720649/politique/presidentielle-en-cote-divoire-qui-peut-encore-arreter-le-rouleau-compresseur-rhdp/)
 - [CEEAC : comment l’attribution des postes à la commission vire au casse-tête](https://www.jeuneafrique.com/1720920/economie-entreprises/ceeac-comment-lattribution-des-postes-a-la-commission-vire-au-casse-tete/)
 - [Zones économiques spéciales : du Maroc au Gabon, quels modèles pour l’Afrique de demain ?](https://www.jeuneafrique.com/1720662/economie-entreprises/zones-economiques-speciales-du-maroc-au-gabon-quels-modeles-pour-lafrique-de-demain/)
 
