@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 18:13*
+*Generato: 15 Sep 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [« Et si la planète du Petit Prince était La Marsa ? » : Réclamer notre part de Saint Exupéry](https://lapresse.tn/2025/09/15/et-si-la-planete-du-petit-prince-etait-la-marsa-reclamer-notre-part-de-saint-exupery/)
-- [On nous écrit : Hommage à Wadi Mhiri](https://lapresse.tn/2025/09/15/on-nous-ecrit-hommage-a-wadi-mhiri/)
-- [Programme Culture 2030 de l’UNESCO : La culture, un levier de développement durable](https://lapresse.tn/2025/09/15/programme-culture-2030-de-lunesco-la-culture-un-levier-de-developpement-durable/)
-- [Gouvernance de la Chine – Tome IV du livre du Président Xi Jinping : Une œuvre de soft power et de diplomatie culturelle](https://lapresse.tn/2025/09/15/gouvernance-de-la-chine-tome-iv-du-livre-du-president-xi-jinping-une-oeuvre-de-soft-power-et-de-diplomatie-culturelle/)
-- [Tunisie–Égypte : Transformer l’amitié historique en partenariat concret](https://lapresse.tn/2025/09/15/tunisie-egypte-transformer-lamitie-historique-en-partenariat-concret/)
-- [Le jeune homme qui a pointé une arme factice sur les policiers placé en garde à vue](https://lapresse.tn/2025/09/15/le-jeune-homme-qui-a-pointe-une-arme-factice-sur-les-policiers-place-en-garde-a-vue/)
+- [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
+- [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
+- [Maher Kenzari convoqué devant la commission de discipline](https://lapresse.tn/2025/09/15/maher-kenzari-convoque-devant-la-commission-de-discipline/)
+- [Huile d’olive: hausse des exportations depuis le début de la saison](https://lapresse.tn/2025/09/15/huile-dolive-hausse-des-exportations-depuis-le-debut-de-la-saison/)
+- [Doha: la Tunisie appelle à resserrer les rangs et faire front face à la menace de l’entité sioniste](https://lapresse.tn/2025/09/15/doha-la-tunisie-appelle-a-resserrer-les-rangs-et-faire-front-face-a-la-menace-de-lentite-sioniste/)
 - [Place Mongi Bali: Un agent de propreté roué de coups par des individus en état d’ébriété](https://lapresse.tn/2025/09/15/place-mongi-bali-un-agent-de-proprete-roue-de-coups-par-des-individus-en-etat-debriete/)
 - [Tozeur : Réouverture imminente de deux unités touristiques](https://lapresse.tn/2025/09/15/tozeur-reouverture-imminente-de-deux-unites-touristiques/)
 - [Pourquoi La rentrée scolaire…](https://lapresse.tn/2025/09/15/pourquoi-la-rentree-scolaire-4/)
+- [Rentrée scolaire en Tunisie : l’Institut de nutrition en première ligne contre l’obésité infantile](https://lapresse.tn/2025/09/15/rentree-scolaire-en-tunisie-linstitut-de-nutrition-en-premiere-ligne-contre-lobesite-infantile/)
 
 ## NGOs – Amnesty International – Tunisia
 
