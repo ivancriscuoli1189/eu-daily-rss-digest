@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 15:12*
+*Generato: 15 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Transports publics: les changements d’itinéraires et les horaires bientôt communiqués via une application mobile](https://lapresse.tn/2025/09/15/transports-publics-les-changements-ditineraires-et-les-horaires-bientot-communiques-via-une-application-mobile/)
-- [UAF: le président de la FTF Moez Nasri élu président de la commission d’appel](https://lapresse.tn/2025/09/15/uaf-le-president-de-la-ftf-moez-nasri-elu-president-de-la-commission-dappel/)
-- [Les recettes touristiques et les revenus du travail en mesure de couvrir 120% de la dette extérieure](https://lapresse.tn/2025/09/15/les-recettes-touristiques-et-les-revenus-du-travail-en-mesure-de-couvrir-120-de-la-dette-exterieure/)
-- [Mohamed Ali Nafti préside aujourd’hui la délégation tunisienne au Sommet arabo-islamique extraordinaire](https://lapresse.tn/2025/09/15/mohamed-ali-nafti-preside-aujourdhui-la-delegation-tunisienne-au-sommet-arabo-islamique-extraordinaire/)
-- [Courir pour Gaza : Un ultramarathon de solidarité à travers la Tunisie](https://lapresse.tn/2025/09/15/courir-pour-gaza-un-ultramarathon-de-solidarite-a-travers-la-tunisie/)
-- [Météo : Nuages,orages et légère baisse des températures !](https://lapresse.tn/2025/09/15/meteo-nuagesorages-et-legere-baisse-des-temperatures/)
-- [Éducation : la rentrée scolaire s’accompagne de plusieurs mesures concernant les espaces scolaires](https://lapresse.tn/2025/09/15/education-la-rentree-scolaire-saccompagne-de-plusieurs-mesures-concernant-les-espaces-scolaires/)
-- [Rentrée scolaire : 750 bus et 68 trains et métros assurent le transport des élèves et des étudiants](https://lapresse.tn/2025/09/15/rentree-scolaire-750-bus-et-68-trains-et-metros-assurent-le-transport-des-eleves-et-des-etudiants/)
-- [Tozeur : un établissement primaire n’a accueilli que 8 élèves !](https://lapresse.tn/2025/09/15/tozeur-un-etablissement-primaire-na-accueilli-que-8-eleves/)
+- [« Et si la planète du Petit Prince était La Marsa ? » : Réclamer notre part de Saint Exupéry](https://lapresse.tn/2025/09/15/et-si-la-planete-du-petit-prince-etait-la-marsa-reclamer-notre-part-de-saint-exupery/)
+- [On nous écrit : Hommage à Wadi Mhiri](https://lapresse.tn/2025/09/15/on-nous-ecrit-hommage-a-wadi-mhiri/)
+- [Programme Culture 2030 de l’UNESCO : La culture, un levier de développement durable](https://lapresse.tn/2025/09/15/programme-culture-2030-de-lunesco-la-culture-un-levier-de-developpement-durable/)
+- [Gouvernance de la Chine – Tome IV du livre du Président Xi Jinping : Une œuvre de soft power et de diplomatie culturelle](https://lapresse.tn/2025/09/15/gouvernance-de-la-chine-tome-iv-du-livre-du-president-xi-jinping-une-oeuvre-de-soft-power-et-de-diplomatie-culturelle/)
+- [Tunisie–Égypte : Transformer l’amitié historique en partenariat concret](https://lapresse.tn/2025/09/15/tunisie-egypte-transformer-lamitie-historique-en-partenariat-concret/)
+- [Le jeune homme qui a pointé une arme factice sur les policiers placé en garde à vue](https://lapresse.tn/2025/09/15/le-jeune-homme-qui-a-pointe-une-arme-factice-sur-les-policiers-place-en-garde-a-vue/)
+- [Place Mongi Bali: Un agent de propreté roué de coups par des individus en état d’ébriété](https://lapresse.tn/2025/09/15/place-mongi-bali-un-agent-de-proprete-roue-de-coups-par-des-individus-en-etat-debriete/)
+- [Tozeur : Réouverture imminente de deux unités touristiques](https://lapresse.tn/2025/09/15/tozeur-reouverture-imminente-de-deux-unites-touristiques/)
+- [Pourquoi La rentrée scolaire…](https://lapresse.tn/2025/09/15/pourquoi-la-rentree-scolaire-4/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
 - [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
 - [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
 - [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
+- [Présidentielle au Bénin : contre Patrice Talon, sur qui peut compter Thomas Boni Yayi ?](https://www.jeuneafrique.com/1718254/politique/presidentielle-au-benin-contre-patrice-talon-sur-qui-peut-compter-thomas-boni-yayi/)
 - [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
 - [Présidentielle au Malawi : entre Lazarus Chakwera et Peter Mutharika, une revanche au coude-à-coude](https://www.jeuneafrique.com/1721655/politique/presidentielle-au-malawi-entre-lazarus-chakwera-et-peter-mutharika-une-revanche-au-coude-a-coude/)
 - [Aux États-Unis, l’opération séduction des séparatistes ambazoniens tourne à l’aigre](https://www.jeuneafrique.com/1721384/politique/aux-etats-unis-loperation-seduction-des-separatistes-ambazoniens-tourne-a-laigre/)
-- [Casting final en Côte d’Ivoire, méthode Traoré au Burkina Faso, indignation au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1721219/politique/casting-final-en-cote-divoire-methode-traore-au-burkina-faso-indignation-au-maroc-les-5-infos-incontournables-de-la-semaine/)
-- [Houphouët-Boigny, les préjugés racistes et le PDCI : les confessions de Tidjane Thiam](https://www.jeuneafrique.com/1721464/politique/houphouet-boigny-les-prejuges-racistes-et-le-pdci-les-confessions-de-tidjane-thiam/)
-- [Maritime : Djibouti défie les géants du shipping avec sa taxe carbone](https://www.jeuneafrique.com/1720665/economie-entreprises/maritime-djibouti-defie-les-geants-du-shipping-avec-sa-taxe-carbone/)
-- [Santé : pourquoi le marocain Akdital choisit d’abord le Moyen-Orient](https://www.jeuneafrique.com/1721438/economie-entreprises/sante-privee-pourquoi-le-marocain-akdital-cible-le-moyen-orient-avant-lafrique-subsaharienne/)
+- [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
+- [Aérien : qui sont les rois des liaisons Chine-Afrique ?](https://www.jeuneafrique.com/1719512/economie-entreprises/aerien-qui-sont-les-rois-des-liaisons-chine-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
