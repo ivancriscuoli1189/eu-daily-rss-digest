@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Sep 2025, 21:04*
+*Generato: 15 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Gestion transparente de la chose publique, une affaire au quotidien](https://lapresse.tn/2025/09/12/gestion-transparente-de-la-chose-publique-une-affaire-au-quotidien/)
-- [Kairouan et Shaoxing : un jumelage sino-tunisien en gestation](https://lapresse.tn/2025/09/12/kairouan-et-shaoxing-un-jumelage-sino-tunisien-en-gestation/)
-- [Bizerte–Menzel Bourguiba : le port tunisien qui alimente 20 % du commerce maritime national](https://lapresse.tn/2025/09/12/bizerte-menzel-bourguiba-le-port-tunisien-qui-alimente-20-du-commerce-maritime-national/)
-- [Tunisie : Déficit commercial à 14,64 milliards de dinars à fin août 2025](https://lapresse.tn/2025/09/12/tunisie-deficit-commercial-a-1464-milliards-de-dinars-a-fin-aout-2025/)
-- [Flottille maghrébine Soumoud : nombre de navires et participants tunisiens annoncés](https://lapresse.tn/2025/09/12/flottille-maghrebine-soumoud-nombre-de-navires-et-participants-tunisiens-annonces/)
-- [Ben Arous : un individu cagoulé braque une agence bancaire](https://lapresse.tn/2025/09/12/ben-arous-un-individu-cagoule-braque-une-agence-bancaire/)
-- [Lutte contre l’addiction en Tunisie : vers l’extension de l’offre des soins](https://lapresse.tn/2025/09/12/lutte-contre-laddiction-en-tunisie-vers-lextension-de-loffre-des-soins/)
-- [Coalition éducative tunisienne: » l’urgence d’une réforme globale et approfondie du secteur éducatif «](https://lapresse.tn/2025/09/12/coalition-educative-tunisienne-lurgence-dune-reforme-globale-et-approfondie-du-secteur-educatif/)
-- [Tunisie : fin des prolongations des contrats CIVP dès le 1er octobre](https://lapresse.tn/2025/09/12/tunisie-fin-des-prolongations-des-contrats-civp-des-le-1er-octobre/)
-- [Tunisie : le déficit énergétique recule de 5% à fin juillet](https://lapresse.tn/2025/09/12/tunisie-le-deficit-energetique-recule-de-5-a-fin-juillet/)
+- [Des lois qui construisent au lieu de rafistoler](https://lapresse.tn/2025/09/14/des-lois-qui-construisent-au-lieu-de-rafistoler/)
+- [“To Nice Tunis”: après leur mésaventure, les deux jeunes américaines sont de retour en Tunisie!](https://lapresse.tn/2025/09/14/to-nice-tunis-apres-leur-mesaventure-les-deux-jeunes-americaines-sont-de-retour-en-tunisie/)
+- [MONDIACULT 2025-Tunis accueille les « Indicateurs Culture 2030 de l’Unesco »](https://lapresse.tn/2025/09/14/mondiacult-2025-tunis-accueille-les-indicateurs-culture-2030-de-lunesco/)
+- [Rentrée scolaire et perturbation du trafic routier: série de mesures du ministère de l’Intérieur](https://lapresse.tn/2025/09/14/rentree-scolaire-et-perturbation-du-trafic-routier-serie-de-mesures-du-ministere-de-linterieur/)
+- [Gaza: départ du premier navire tunisien de la flotille de la Résilience](https://lapresse.tn/2025/09/14/gaza-depart-du-premier-navire-tunisien-de-la-flotille-de-la-resilience/)
+- [Tennis – Challenger de Saint-Tropez : Moez Chargui entre en lice mardi](https://lapresse.tn/2025/09/14/tennis-challenger-de-saint-tropez-moez-chargui-entre-en-lice-mardi/)
+- [Dar El Kamila à La Marsa ouverte au public pour les Journées européennes du patrimoine 2025](https://lapresse.tn/2025/09/14/dar-el-kamila-a-la-marsa-ouverte-au-public-pour-les-journees-europeennes-du-patrimoine-2025/)
+- [Villages d’Enfants SOS : le pari audacieux de l’intégration communautaire](https://lapresse.tn/2025/09/14/villages-denfants-sos-le-pari-audacieux-de-lintegration-communautaire/)
+- [Hergla : un incendie s’est déclaré dans l’entrepôt d’un complexe de loisirs privé](https://lapresse.tn/2025/09/14/hergla-un-incendie-sest-declare-dans-lentrepot-dun-complexe-de-loisirs-prive/)
+- [Transports publics : Sonder d’autres voies de financement](https://lapresse.tn/2025/09/14/transports-publics-sonder-dautres-voies-de-financement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -240,7 +240,7 @@
 
 - [Qualche considerazione sull’annuncio (si spera prematuro) del tramonto del diritto internazionale](https://www.cespi.it/it/eventi-attualita/editoriale/qualche-considerazione-sullannuncio-si-spera-prematuro-del-tramonto-del)
 - [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
-- [Le destre sudamericane alla ribalta: una prospettiva storica](https://www.cespi.it/it/eventi-note/eventi/le-destre-sudamericane-alla-ribalta-una-prospettiva-storica)
+- [Colonial legacy in South Asia. Focus on India](https://www.cespi.it/it/eventi-note/eventi/colonial-legacy-south-asia-focus-india)
 - [Selezione ricercatore junior](https://www.cespi.it/it/eventi-note/comunicazioni/selezione-ricercatore-junior)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Togo, un Français détenu pour atteinte à la sûreté de l’État, ses proches se disent « très inquiets »](https://www.jeuneafrique.com/1721210/politique/au-togo-un-francais-detenu-pour-atteinte-a-la-surete-de-letat-ses-proches-se-disent-tres-inquiets/)
-- [Interrogé sur la situation à Gaza, Nasser Bourita durcit le ton](https://www.jeuneafrique.com/1721141/politique/interroge-sur-la-situation-a-gaza-nasser-bourita-durcit-le-ton/)
-- [Au Soudan du Sud, le vice-président Riek Machar inculpé pour « crimes contre l’humanité »](https://www.jeuneafrique.com/1721177/politique/au-soudan-du-sud-le-vice-president-riek-machar-inculpe-pour-crimes-contre-lhumanite/)
-- [Sifi Ghrieb, Premier ministre algérien par intérim, sera-t-il confirmé à son poste ?](https://www.jeuneafrique.com/1720630/politique/sifi-ghrieb-premier-ministre-algerien-par-interim-sera-t-il-confirme-a-son-poste/)
-- [Aliou Boubacar Diallo : « Au Mali, garder le silence face à la dictature serait une complicité »](https://www.jeuneafrique.com/1720506/politique/aliou-boubacar-diallo-au-mali-garder-le-silence-face-a-la-dictature-serait-une-complicite/)
-- [Instrumentalisation ou réelle indignation ? En Côte d’Ivoire, Nady Bamba prend fait et cause pour « Zigui »](https://www.jeuneafrique.com/1720262/politique/instrumentalisation-ou-reelle-indignation-en-cote-divoire-nady-bamba-prend-fait-et-cause-pour-zigui/)
-- [Est de la RDC : Félix Tshisekedi peut-il lâcher le général Gasita ?](https://www.jeuneafrique.com/1720929/politique/est-de-la-rdc-felix-tshisekedi-peut-il-lacher-le-general-gasita/)
-- [Présidentielle en Côte d’Ivoire : « pas de boycott » ni de plan B pour le PDCI](https://www.jeuneafrique.com/1721085/politique/presidentielle-en-cote-divoire-pas-de-boycott-ni-de-plan-b-pour-le-pdci/)
+- [Ne nous y trompons pas : l’AES fait encore rêver les Africains – par François Soudan](https://www.jeuneafrique.com/1720803/politique/ne-nous-y-trompons-pas-laes-fait-encore-rever-les-africains-par-francois-soudan/)
+- [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
+- [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
+- [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
+- [Présidentielle au Malawi : entre Lazarus Chakwera et Peter Mutharika, une revanche au coude-à-coude](https://www.jeuneafrique.com/1721655/politique/presidentielle-au-malawi-entre-lazarus-chakwera-et-peter-mutharika-une-revanche-au-coude-a-coude/)
+- [Casting final en Côte d’Ivoire, méthode Traoré au Burkina Faso, indignation au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1721219/politique/casting-final-en-cote-divoire-methode-traore-au-burkina-faso-indignation-au-maroc-les-5-infos-incontournables-de-la-semaine/)
+- [Houphouët-Boigny, les préjugés racistes et le PDCI : les confessions de Tidjane Thiam](https://www.jeuneafrique.com/1721464/politique/houphouet-boigny-les-prejuges-racistes-et-le-pdci-les-confessions-de-tidjane-thiam/)
+- [Au Sénégal, les anciens ministres de Macky Sall dans l’impasse judiciaire](https://www.jeuneafrique.com/1721409/politique/au-senegal-les-anciens-ministres-de-macky-sall-dans-limpasse-judiciaire/)
+- [Santé : pourquoi le marocain Akdital choisit d’abord le Moyen-Orient](https://www.jeuneafrique.com/1721438/economie-entreprises/sante-privee-pourquoi-le-marocain-akdital-cible-le-moyen-orient-avant-lafrique-subsaharienne/)
 - [Enterrée par Elon Musk, la MCC ressuscite en Côte d’Ivoire pour booster le secteur énergétique](https://www.jeuneafrique.com/1721410/economie-entreprises/enterree-par-elon-musk-la-mcc-ressuscite-en-cote-divoire-pour-booster-le-secteur-energetique/)
-- [Au Gabon, la préférence nationale bouscule le secteur bancaire](https://www.jeuneafrique.com/1721164/economie-entreprises/au-gabon-la-preference-nationale-bouscule-le-secteur-bancaire/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
