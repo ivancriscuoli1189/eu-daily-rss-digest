@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 06:17*
+*Generato: 15 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des lois qui construisent au lieu de rafistoler](https://lapresse.tn/2025/09/14/des-lois-qui-construisent-au-lieu-de-rafistoler/)
+- [Le ministre de l’Education : « Nous interviendrons rapidement en cas de problème »](https://lapresse.tn/2025/09/15/le-ministre-de-leducation-nous-interviendrons-rapidement-en-cas-de-probleme/)
+- [Marwa Bouzayani en Finale du 3000m Steeple aux Mondiaux d’Athlétisme !](https://lapresse.tn/2025/09/15/marwa-bouzayani-en-finale-du-3000m-steeple-aux-mondiaux-dathletisme/)
+- [Séisme de Magnitude 5,7 Secoue l’Assam en Inde](https://lapresse.tn/2025/09/15/seisme-de-magnitude-57-secoue-lassam-en-inde/)
 - [“To Nice Tunis”: après leur mésaventure, les deux jeunes américaines sont de retour en Tunisie!](https://lapresse.tn/2025/09/14/to-nice-tunis-apres-leur-mesaventure-les-deux-jeunes-americaines-sont-de-retour-en-tunisie/)
-- [MONDIACULT 2025-Tunis accueille les « Indicateurs Culture 2030 de l’Unesco »](https://lapresse.tn/2025/09/14/mondiacult-2025-tunis-accueille-les-indicateurs-culture-2030-de-lunesco/)
 - [Rentrée scolaire et perturbation du trafic routier: série de mesures du ministère de l’Intérieur](https://lapresse.tn/2025/09/14/rentree-scolaire-et-perturbation-du-trafic-routier-serie-de-mesures-du-ministere-de-linterieur/)
 - [Gaza: départ du premier navire tunisien de la flotille de la Résilience](https://lapresse.tn/2025/09/14/gaza-depart-du-premier-navire-tunisien-de-la-flotille-de-la-resilience/)
-- [Tennis – Challenger de Saint-Tropez : Moez Chargui entre en lice mardi](https://lapresse.tn/2025/09/14/tennis-challenger-de-saint-tropez-moez-chargui-entre-en-lice-mardi/)
 - [Dar El Kamila à La Marsa ouverte au public pour les Journées européennes du patrimoine 2025](https://lapresse.tn/2025/09/14/dar-el-kamila-a-la-marsa-ouverte-au-public-pour-les-journees-europeennes-du-patrimoine-2025/)
 - [Villages d’Enfants SOS : le pari audacieux de l’intégration communautaire](https://lapresse.tn/2025/09/14/villages-denfants-sos-le-pari-audacieux-de-lintegration-communautaire/)
 - [Hergla : un incendie s’est déclaré dans l’entrepôt d’un complexe de loisirs privé](https://lapresse.tn/2025/09/14/hergla-un-incendie-sest-declare-dans-lentrepot-dun-complexe-de-loisirs-prive/)
-- [Transports publics : Sonder d’autres voies de financement](https://lapresse.tn/2025/09/14/transports-publics-sonder-dautres-voies-de-financement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 - [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
-- [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 - [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
 - [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
-- [Türkiye: Proceedings against Istanbul Bar Association board a “direct assault” on independence of legal profession](https://www.icj.org/turkiye-proceedings-against-istanbul-bar-association-board-a-direct-assault-on-independence-of-legal-profession/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,7 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Ne nous y trompons pas : l’AES fait encore rêver les Africains – par François Soudan](https://www.jeuneafrique.com/1720803/politique/ne-nous-y-trompons-pas-laes-fait-encore-rever-les-africains-par-francois-soudan/)
+- [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
 - [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
 - [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
 - [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
@@ -272,8 +272,8 @@
 - [Casting final en Côte d’Ivoire, méthode Traoré au Burkina Faso, indignation au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1721219/politique/casting-final-en-cote-divoire-methode-traore-au-burkina-faso-indignation-au-maroc-les-5-infos-incontournables-de-la-semaine/)
 - [Houphouët-Boigny, les préjugés racistes et le PDCI : les confessions de Tidjane Thiam](https://www.jeuneafrique.com/1721464/politique/houphouet-boigny-les-prejuges-racistes-et-le-pdci-les-confessions-de-tidjane-thiam/)
 - [Au Sénégal, les anciens ministres de Macky Sall dans l’impasse judiciaire](https://www.jeuneafrique.com/1721409/politique/au-senegal-les-anciens-ministres-de-macky-sall-dans-limpasse-judiciaire/)
+- [Maritime : Djibouti défie les géants du shipping avec sa taxe carbone](https://www.jeuneafrique.com/1720665/economie-entreprises/maritime-djibouti-defie-les-geants-du-shipping-avec-sa-taxe-carbone/)
 - [Santé : pourquoi le marocain Akdital choisit d’abord le Moyen-Orient](https://www.jeuneafrique.com/1721438/economie-entreprises/sante-privee-pourquoi-le-marocain-akdital-cible-le-moyen-orient-avant-lafrique-subsaharienne/)
-- [Enterrée par Elon Musk, la MCC ressuscite en Côte d’Ivoire pour booster le secteur énergétique](https://www.jeuneafrique.com/1721410/economie-entreprises/enterree-par-elon-musk-la-mcc-ressuscite-en-cote-divoire-pour-booster-le-secteur-energetique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
