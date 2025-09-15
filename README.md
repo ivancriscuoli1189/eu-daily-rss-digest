@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 11:03*
+*Generato: 15 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [L’étoile ramène un point précieux de Monastir : Du caractère à revendre](https://lapresse.tn/2025/09/15/letoile-ramene-un-point-precieux-de-monastir-du-caractere-a-revendre/)
-- [Des ingénieurs tunisiens développent un appareil d’analyses médicales intelligent](https://lapresse.tn/2025/09/15/des-ingenieurs-tunisiens-developpent-un-appareil-danalyses-medicales-intelligent/)
-- [L’EST concède sa première défaite de la saison : Chronique d’une défaite annoncée…](https://lapresse.tn/2025/09/15/lest-concede-sa-premiere-defaite-de-la-saison-chronique-dune-defaite-annoncee/)
+- [Exposition universelle « Expo 2025 Osaka »: plus de 500 000 visiteurs dans le pavillon de la Tunisie](https://lapresse.tn/2025/09/15/exposition-universelle-expo-2025-osaka-plus-de-500-000-visiteurs-dans-le-pavillon-de-la-tunisie/)
+- [Rentrée scolaire : 750 bus et 68 trains et métros assurent le transport des élèves et des étudiants](https://lapresse.tn/2025/09/15/rentree-scolaire-750-bus-et-68-trains-et-metros-assurent-le-transport-des-eleves-et-des-etudiants/)
+- [Le jeune homme qui a pointé une arme factice sur les policiers placé en garde à vue](https://lapresse.tn/2025/09/15/le-jeune-homme-qui-a-pointe-une-arme-factice-sur-les-policiers-place-en-garde-a-vue/)
+- [Mohamed Ali Nafti préside aujourd’hui la délégation tunisienne au Sommet arabo-islamique extraordinaire](https://lapresse.tn/2025/09/15/mohamed-ali-nafti-preside-aujourdhui-la-delegation-tunisienne-au-sommet-arabo-islamique-extraordinaire/)
 - [Courir pour Gaza : Un ultramarathon de solidarité à travers la Tunisie](https://lapresse.tn/2025/09/15/courir-pour-gaza-un-ultramarathon-de-solidarite-a-travers-la-tunisie/)
 - [Météo : Nuages,orages et légère baisse des températures !](https://lapresse.tn/2025/09/15/meteo-nuagesorages-et-legere-baisse-des-temperatures/)
-- [“To Nice Tunis”: après leur mésaventure, les deux jeunes américaines sont de retour en Tunisie!](https://lapresse.tn/2025/09/14/to-nice-tunis-apres-leur-mesaventure-les-deux-jeunes-americaines-sont-de-retour-en-tunisie/)
+- [Tozeur : un établissement primaire n’a accueilli que 8 élèves !](https://lapresse.tn/2025/09/15/tozeur-un-etablissement-primaire-na-accueilli-que-8-eleves/)
+- [Des ingénieurs tunisiens développent un appareil d’analyses médicales intelligent](https://lapresse.tn/2025/09/15/des-ingenieurs-tunisiens-developpent-un-appareil-danalyses-medicales-intelligent/)
 - [Intérieur : opération coup de poing contre les réseaux illégaux de monopole et de spéculation](https://lapresse.tn/2025/09/15/interieur-operation-coup-de-poing-contre-les-reseaux-illegaux-de-monopole-et-de-speculation/)
-- [Rentrée scolaire : Pour qu’elle ne soit ni triste ni ennuyeuse](https://lapresse.tn/2025/09/15/rentree-scolaire-pour-quelle-ne-soit-ni-triste-ni-ennuyeuse/)
-- [Slim Kacem : « La Tunisie est sur la bonne voie pour revenir aux fondements de l’école de la République »](https://lapresse.tn/2025/09/15/slim-kacem-la-tunisie-est-sur-la-bonne-voie-pour-revenir-aux-fondements-de-lecole-de-la-republique/)
 
 ## NGOs – Amnesty International – Tunisia
 
