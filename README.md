@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 09:12*
+*Generato: 15 Sep 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [International Trade Committee delegation in Geneva to meet WTO this week](https://www.europarl.europa.eu/news/en/press-room/20250915IPR30341/international-trade-committee-delegation-to-meet-wto-this-week)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
@@ -91,7 +92,6 @@
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Des lois qui construisent au lieu de rafistoler](https://lapresse.tn/2025/09/14/des-lois-qui-construisent-au-lieu-de-rafistoler/)
-- [Le ministre de l’Education : « Nous interviendrons rapidement en cas de problème »](https://lapresse.tn/2025/09/15/le-ministre-de-leducation-nous-interviendrons-rapidement-en-cas-de-probleme/)
-- [Marwa Bouzayani en Finale du 3000m Steeple aux Mondiaux d’Athlétisme !](https://lapresse.tn/2025/09/15/marwa-bouzayani-en-finale-du-3000m-steeple-aux-mondiaux-dathletisme/)
-- [Séisme de Magnitude 5,7 Secoue l’Assam en Inde](https://lapresse.tn/2025/09/15/seisme-de-magnitude-57-secoue-lassam-en-inde/)
+- [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
+- [L’étoile ramène un point précieux de Monastir : Du caractère à revendre](https://lapresse.tn/2025/09/15/letoile-ramene-un-point-precieux-de-monastir-du-caractere-a-revendre/)
+- [Des ingénieurs tunisiens développent un appareil d’analyses médicales intelligent](https://lapresse.tn/2025/09/15/des-ingenieurs-tunisiens-developpent-un-appareil-danalyses-medicales-intelligent/)
+- [L’EST concède sa première défaite de la saison : Chronique d’une défaite annoncée…](https://lapresse.tn/2025/09/15/lest-concede-sa-premiere-defaite-de-la-saison-chronique-dune-defaite-annoncee/)
+- [Courir pour Gaza : Un ultramarathon de solidarité à travers la Tunisie](https://lapresse.tn/2025/09/15/courir-pour-gaza-un-ultramarathon-de-solidarite-a-travers-la-tunisie/)
+- [Météo : Nuages,orages et légère baisse des températures !](https://lapresse.tn/2025/09/15/meteo-nuagesorages-et-legere-baisse-des-temperatures/)
 - [“To Nice Tunis”: après leur mésaventure, les deux jeunes américaines sont de retour en Tunisie!](https://lapresse.tn/2025/09/14/to-nice-tunis-apres-leur-mesaventure-les-deux-jeunes-americaines-sont-de-retour-en-tunisie/)
-- [Rentrée scolaire et perturbation du trafic routier: série de mesures du ministère de l’Intérieur](https://lapresse.tn/2025/09/14/rentree-scolaire-et-perturbation-du-trafic-routier-serie-de-mesures-du-ministere-de-linterieur/)
-- [Gaza: départ du premier navire tunisien de la flotille de la Résilience](https://lapresse.tn/2025/09/14/gaza-depart-du-premier-navire-tunisien-de-la-flotille-de-la-resilience/)
-- [Dar El Kamila à La Marsa ouverte au public pour les Journées européennes du patrimoine 2025](https://lapresse.tn/2025/09/14/dar-el-kamila-a-la-marsa-ouverte-au-public-pour-les-journees-europeennes-du-patrimoine-2025/)
-- [Villages d’Enfants SOS : le pari audacieux de l’intégration communautaire](https://lapresse.tn/2025/09/14/villages-denfants-sos-le-pari-audacieux-de-lintegration-communautaire/)
-- [Hergla : un incendie s’est déclaré dans l’entrepôt d’un complexe de loisirs privé](https://lapresse.tn/2025/09/14/hergla-un-incendie-sest-declare-dans-lentrepot-dun-complexe-de-loisirs-prive/)
+- [Intérieur : opération coup de poing contre les réseaux illégaux de monopole et de spéculation](https://lapresse.tn/2025/09/15/interieur-operation-coup-de-poing-contre-les-reseaux-illegaux-de-monopole-et-de-speculation/)
+- [Rentrée scolaire : Pour qu’elle ne soit ni triste ni ennuyeuse](https://lapresse.tn/2025/09/15/rentree-scolaire-pour-quelle-ne-soit-ni-triste-ni-ennuyeuse/)
+- [Slim Kacem : « La Tunisie est sur la bonne voie pour revenir aux fondements de l’école de la République »](https://lapresse.tn/2025/09/15/slim-kacem-la-tunisie-est-sur-la-bonne-voie-pour-revenir-aux-fondements-de-lecole-de-la-republique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -269,9 +269,9 @@
 - [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
 - [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
 - [Présidentielle au Malawi : entre Lazarus Chakwera et Peter Mutharika, une revanche au coude-à-coude](https://www.jeuneafrique.com/1721655/politique/presidentielle-au-malawi-entre-lazarus-chakwera-et-peter-mutharika-une-revanche-au-coude-a-coude/)
+- [Aux États-Unis, l’opération séduction des séparatistes ambazoniens tourne à l’aigre](https://www.jeuneafrique.com/1721384/politique/aux-etats-unis-loperation-seduction-des-separatistes-ambazoniens-tourne-a-laigre/)
 - [Casting final en Côte d’Ivoire, méthode Traoré au Burkina Faso, indignation au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1721219/politique/casting-final-en-cote-divoire-methode-traore-au-burkina-faso-indignation-au-maroc-les-5-infos-incontournables-de-la-semaine/)
 - [Houphouët-Boigny, les préjugés racistes et le PDCI : les confessions de Tidjane Thiam](https://www.jeuneafrique.com/1721464/politique/houphouet-boigny-les-prejuges-racistes-et-le-pdci-les-confessions-de-tidjane-thiam/)
-- [Au Sénégal, les anciens ministres de Macky Sall dans l’impasse judiciaire](https://www.jeuneafrique.com/1721409/politique/au-senegal-les-anciens-ministres-de-macky-sall-dans-limpasse-judiciaire/)
 - [Maritime : Djibouti défie les géants du shipping avec sa taxe carbone](https://www.jeuneafrique.com/1720665/economie-entreprises/maritime-djibouti-defie-les-geants-du-shipping-avec-sa-taxe-carbone/)
 - [Santé : pourquoi le marocain Akdital choisit d’abord le Moyen-Orient](https://www.jeuneafrique.com/1721438/economie-entreprises/sante-privee-pourquoi-le-marocain-akdital-cible-le-moyen-orient-avant-lafrique-subsaharienne/)
 
