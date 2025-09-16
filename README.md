@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 12:17*
+*Generato: 16 Sep 2025, 13:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [L’hôtellerie tunisienne en deuil : décès de Radhouane Ben Salah ancien Président de la FTH](https://lapresse.tn/2025/09/16/lhotellerie-tunisienne-en-deuil-deces-de-radhouane-ben-salah-ancien-president-de-la-fth/)
-- [Où suivre les matchs de la 6ᵉ journée de Ligue 1 ?](https://lapresse.tn/2025/09/16/ou-suivre-les-matchs-de-la-6%e1%b5%89-journee-de-ligue-1/)
-- [Le Village d’enfants SOS autorisé à collecter des fonds pour les enfants palestiniens](https://lapresse.tn/2025/09/16/le-village-denfants-sos-autorise-a-collecter-des-fonds-pour-les-enfants-palestiniens/)
+- [Une rentrée scolaire facilitée pour 600 enfants grâce à l’initiative de Selecta](https://lapresse.tn/2025/09/16/une-rentree-scolaire-facilitee-pour-600-enfants-grace-a-linitiative-de-selecta/)
+- [Opération Mandić : Renforcement de la coopération Tuniso-Serbe le domaine de la culture](https://lapresse.tn/2025/09/16/operation-mandic-renforcement-de-la-cooperation-tuniso-serbe-le-domaine-de-la-culture/)
+- [Tunisie : 3,45 milliards d’euros générés par le tourisme et les transferts des Tunisiens à l’étranger en 9 mois](https://lapresse.tn/2025/09/16/tunisie-345-milliards-deuros-generes-par-le-tourisme-et-les-transferts-des-tunisiens-a-letranger-en-9-mois/)
 - [Météo : Un mardi ensoleillé !](https://lapresse.tn/2025/09/16/meteo-un-mardi-ensoleille/)
 - [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
 - [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
-- [Ariana : saisie de 4.7 tonnes de farine subventionnée](https://lapresse.tn/2025/09/16/ariana-saisie-de-4-7-tonnes-de-farine-subventionnee/)
-- [Bizerte : 35 tonnes de produits alimentaires redirigées vers les marchés officiels lors d’une vaste opération de contrôle](https://lapresse.tn/2025/09/16/bizerte-35-tonnes-de-produits-alimentaires-redirigees-vers-les-marches-officiels-lors-dune-vaste-operation-de-controle/)
-- [Zaghouan – Incendie maîtrisé au Mont Sidi Zid : Un Hectare Dévasté, Vigilance Maintenue](https://lapresse.tn/2025/09/16/zaghouan-incendie-sur-le-mont-sidi-zid-un-hectare-de-broussailles-et-de-residus-de-cereales-devaste/)
+- [World Happiness Report 2025 : La Tunisie est-elle vraiment moins heureuse que ses voisins ?](https://lapresse.tn/2025/09/16/world-happiness-report-2025-la-tunisie-est-elle-vraiment-moins-heureuse-que-ses-voisins/)
+- [Première initiative du genre à Mahdia : recyclage des résidus de café et des coquilles d’oeufs](https://lapresse.tn/2025/09/16/premiere-initiative-du-genre-a-mahdia-recyclage-des-residus-de-cafe-et-des-coquilles-doeufs/)
+- [Le Village d’enfants SOS autorisé à collecter des fonds pour les enfants palestiniens](https://lapresse.tn/2025/09/16/le-village-denfants-sos-autorise-a-collecter-des-fonds-pour-les-enfants-palestiniens/)
 
 ## NGOs – Amnesty International – Tunisia
 
