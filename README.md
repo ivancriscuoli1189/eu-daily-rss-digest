@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Sep 2025, 21:04*
+*Generato: 16 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
+- [1,5 million de dollars pour faire de la culture un moteur de développement en Tunisie](https://lapresse.tn/2025/09/16/15-million-de-dollars-pour-faire-de-la-culture-un-moteur-de-developpement-en-tunisie/)
+- [CMF et ACM unissent leurs efforts pour la supervision du secteur financier](https://lapresse.tn/2025/09/16/cmf-et-acm-unissent-leurs-efforts-pour-la-supervision-du-secteur-financier/)
+- [Emploi, inflation, commerce : le trio infernal qui inquiète Deloitte](https://lapresse.tn/2025/09/16/emploi-inflation-commerce-le-trio-infernal-qui-inquiete-deloitte/)
 - [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
-- [Maher Kenzari convoqué devant la commission de discipline](https://lapresse.tn/2025/09/15/maher-kenzari-convoque-devant-la-commission-de-discipline/)
 - [Huile d’olive: hausse des exportations depuis le début de la saison](https://lapresse.tn/2025/09/15/huile-dolive-hausse-des-exportations-depuis-le-debut-de-la-saison/)
 - [Doha: la Tunisie appelle à resserrer les rangs et faire front face à la menace de l’entité sioniste](https://lapresse.tn/2025/09/15/doha-la-tunisie-appelle-a-resserrer-les-rangs-et-faire-front-face-a-la-menace-de-lentite-sioniste/)
+- [Ooredoo apporte espoir et sourires à 400 enfants de Kafel Elyatim pour la rentrée scolaire](https://lapresse.tn/2025/09/16/ooredoo-apporte-espoir-et-sourires-a-400-enfants-de-kafel-elyatim-pour-la-rentree-scolaire/)
 - [Place Mongi Bali: Un agent de propreté roué de coups par des individus en état d’ébriété](https://lapresse.tn/2025/09/15/place-mongi-bali-un-agent-de-proprete-roue-de-coups-par-des-individus-en-etat-debriete/)
 - [Tozeur : Réouverture imminente de deux unités touristiques](https://lapresse.tn/2025/09/15/tozeur-reouverture-imminente-de-deux-unites-touristiques/)
-- [Pourquoi La rentrée scolaire…](https://lapresse.tn/2025/09/15/pourquoi-la-rentree-scolaire-4/)
-- [Rentrée scolaire en Tunisie : l’Institut de nutrition en première ligne contre l’obésité infantile](https://lapresse.tn/2025/09/15/rentree-scolaire-en-tunisie-linstitut-de-nutrition-en-premiere-ligne-contre-lobesite-infantile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
 - [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
 - [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
+- [Ne nous y trompons pas : l’AES fait encore rêver les Africains – par François Soudan](https://www.jeuneafrique.com/1720803/politique/ne-nous-y-trompons-pas-laes-fait-encore-rever-les-africains-par-francois-soudan/)
 - [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
 - [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
 - [Présidentielle au Bénin : contre Patrice Talon, sur qui peut compter Thomas Boni Yayi ?](https://www.jeuneafrique.com/1718254/politique/presidentielle-au-benin-contre-patrice-talon-sur-qui-peut-compter-thomas-boni-yayi/)
 - [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
-- [Présidentielle au Malawi : entre Lazarus Chakwera et Peter Mutharika, une revanche au coude-à-coude](https://www.jeuneafrique.com/1721655/politique/presidentielle-au-malawi-entre-lazarus-chakwera-et-peter-mutharika-une-revanche-au-coude-a-coude/)
-- [Aux États-Unis, l’opération séduction des séparatistes ambazoniens tourne à l’aigre](https://www.jeuneafrique.com/1721384/politique/aux-etats-unis-loperation-seduction-des-separatistes-ambazoniens-tourne-a-laigre/)
 - [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
 - [Aérien : qui sont les rois des liaisons Chine-Afrique ?](https://www.jeuneafrique.com/1719512/economie-entreprises/aerien-qui-sont-les-rois-des-liaisons-chine-afrique/)
 
