@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 09:12*
+*Generato: 16 Sep 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Mondial Volley 2025 : La Tunisie s’incline face à l’Iran avant d’affronter l’Égypte](https://lapresse.tn/2025/09/16/mondial-volley-2025-la-tunisie-sincline-face-a-liran-avant-daffronter-legypte/)
-- [La BNA Bank et l’Union Tunisienne de Solidarité Sociale signent une convention de partenariat](https://lapresse.tn/2025/09/16/la-bna-bank-et-lunion-tunisienne-de-solidarite-sociale-signent-une-convention-de-partenariat/)
-- [Zaghouan – Incendie maîtrisé au Mont Sidi Zid : Un Hectare Dévasté, Vigilance Maintenue](https://lapresse.tn/2025/09/16/zaghouan-incendie-sur-le-mont-sidi-zid-un-hectare-de-broussailles-et-de-residus-de-cereales-devaste/)
+- [Ambassade du Royaume-Uni : lancement du concours national « Ambassadrice d’un jour »](https://lapresse.tn/2025/09/16/ambassade-du-royaume-uni-lancement-du-concours-national-ambassadrice-dun-jour/)
+- [Ariana : saisie de 4.7 tonnes de farine subventionnée](https://lapresse.tn/2025/09/16/ariana-saisie-de-4-7-tonnes-de-farine-subventionnee/)
+- [Signature d’un protocole d’accord entre la FTAV et la commission saoudienne pour la Omra](https://lapresse.tn/2025/09/16/signature-dun-protocole-daccord-entre-la-ftav-et-la-commission-saoudienne-pour-la-omra/)
+- [Météo : Un mardi ensoleillé !](https://lapresse.tn/2025/09/16/meteo-un-mardi-ensoleille/)
 - [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
 - [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
-- [Huile d’olive: hausse des exportations depuis le début de la saison](https://lapresse.tn/2025/09/15/huile-dolive-hausse-des-exportations-depuis-le-debut-de-la-saison/)
+- [Bizerte : 35 tonnes de produits alimentaires redirigées vers les marchés officiels lors d’une vaste opération de contrôle](https://lapresse.tn/2025/09/16/bizerte-35-tonnes-de-produits-alimentaires-redirigees-vers-les-marches-officiels-lors-dune-vaste-operation-de-controle/)
+- [Zaghouan – Incendie maîtrisé au Mont Sidi Zid : Un Hectare Dévasté, Vigilance Maintenue](https://lapresse.tn/2025/09/16/zaghouan-incendie-sur-le-mont-sidi-zid-un-hectare-de-broussailles-et-de-residus-de-cereales-devaste/)
 - [Ooredoo apporte espoir et sourires à 400 enfants de Kafel Elyatim pour la rentrée scolaire](https://lapresse.tn/2025/09/16/ooredoo-apporte-espoir-et-sourires-a-400-enfants-de-kafel-elyatim-pour-la-rentree-scolaire/)
-- [Place Mongi Bali: Un agent de propreté roué de coups par des individus en état d’ébriété](https://lapresse.tn/2025/09/15/place-mongi-bali-un-agent-de-proprete-roue-de-coups-par-des-individus-en-etat-debriete/)
-- [Tozeur : Réouverture imminente de deux unités touristiques](https://lapresse.tn/2025/09/15/tozeur-reouverture-imminente-de-deux-unites-touristiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
 - [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
+- [Complot présumé contre le Burkina Faso : le journaliste Serge Mathurin Adou bientôt jugé à Niamey](https://www.jeuneafrique.com/1721328/politique/complot-presume-contre-le-burkina-faso-le-journaliste-serge-mathurin-adou-bientot-juge/)
 - [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
 - [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
 - [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
 - [Ne nous y trompons pas : l’AES fait encore rêver les Africains – par François Soudan](https://www.jeuneafrique.com/1720803/politique/ne-nous-y-trompons-pas-laes-fait-encore-rever-les-africains-par-francois-soudan/)
 - [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
-- [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
-- [Présidentielle au Bénin : contre Patrice Talon, sur qui peut compter Thomas Boni Yayi ?](https://www.jeuneafrique.com/1718254/politique/presidentielle-au-benin-contre-patrice-talon-sur-qui-peut-compter-thomas-boni-yayi/)
 - [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
-- [Aérien : qui sont les nouveaux rois des liaisons Chine-Afrique ?](https://www.jeuneafrique.com/1719512/economie-entreprises/aerien-qui-sont-les-rois-des-liaisons-chine-afrique/)
+- [Bancassurance : Sunu et NSIA, le choc de deux modèles en Afrique de l’Ouest](https://www.jeuneafrique.com/1720952/economie-entreprises/bancassurance-sunu-et-nsia-le-choc-de-deux-modeles-en-afrique-de-louest/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
