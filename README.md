@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 18:14*
+*Generato: 16 Sep 2025, 21:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [FIFA : 355 millions de dollars pour les clubs à la Coupe du monde 2026](https://lapresse.tn/2025/09/16/fifa-355-millions-de-dollars-pour-les-clubs-a-la-coupe-du-monde-2026/)
-- [Prochainement au palais kheireddine : Terre spirituelle, terre plurielle](https://lapresse.tn/2025/09/16/prochainement-au-palais-kheireddine-terre-spirituelle-terre-plurielle/)
-- [Foot – Ligue 1 (6e journée) : Les résultats des matchs](https://lapresse.tn/2025/09/16/foot-ligue-1-6e-journee-les-resultats-des-matchs/)
-- [Baisse du nombre de contrats de mariage de 10% durant l’année 2024](https://lapresse.tn/2025/09/16/baisse-du-nombre-de-contrats-de-mariage-de-10-durant-lannee-2024/)
-- [Depuis la Tunisie, l’Italie, l’Espagne et la Grèce : Briser le silence, briser le siège : la flottille Soumoud en route vers Gaza](https://lapresse.tn/2025/09/16/depuis-la-tunisie-litalie-lespagne-et-la-grece-briser-le-silence-briser-le-siege-la-flottille-soumoud-en-route-vers-gaza/)
-- [Sommet Arabe et Islamique Extraordinaire à Doha : La Tunisie appelle à l’intensification de la coopération et de la solidarité arabo-islamiques](https://lapresse.tn/2025/09/16/sommet-arabe-et-islamique-extraordinaire-a-doha-la-tunisie-appelle-a-lintensification-de-la-cooperation-et-de-la-solidarite-arabo-islamiques/)
+- [l’ESS se sépare de son entraîneur Lassaad Dridi](https://lapresse.tn/2025/09/16/less-se-separe-de-son-entraineur-lassaad-dridi/)
+- [Transfert des actifs chinois de TikTok à des propriétaires américains: Trump prolonge les délais](https://lapresse.tn/2025/09/16/transfert-des-actifs-chinois-de-tiktok-a-des-proprietaires-americains-trump-prolonge-les-delais/)
+- [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
+- [Le ministre de la Santé visite l’hôpital intelligent Samsung à Séoul](https://lapresse.tn/2025/09/16/le-ministre-de-la-sante-visite-lhopital-intelligent-samsung-a-seoul/)
+- [L’avancement du projet de digitalisation de l’administration au centre d’un CMR](https://lapresse.tn/2025/09/16/lavancement-du-projet-de-digitalisation-de-ladministration-au-centre-dun-cmr/)
+- [La mission de la Tunisie à Genève condamne l’agression de l’entité sioniste contre le Qatar](https://lapresse.tn/2025/09/16/la-mission-de-la-tunisie-a-geneve-condamne-lagression-de-lentite-sioniste-contre-le-qatar/)
+- [Kairouan : Le ministère public autorise une enquête sur les circonstances du décès du voyant « Sahtout »](https://lapresse.tn/2025/09/16/kairouan-le-ministere-public-autorise-une-enquete-sur-les-circonstances-du-deces-du-voyant-sahtout/)
 - [Hier la rentrée scolaire : Un mouvement d’ensemble exceptionnel](https://lapresse.tn/2025/09/16/hier-la-rentree-scolaire-un-mouvement-densemble-exceptionnel/)
 - [Gafsa – Rentrée scolaire : De l’effervescence à la vigilance](https://lapresse.tn/2025/09/16/gafsa-rentree-scolaire-de-leffervescence-a-la-vigilance/)
-- [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/16/indiscretions-delyssa-16/)
 
 ## NGOs – Amnesty International – Tunisia
 
