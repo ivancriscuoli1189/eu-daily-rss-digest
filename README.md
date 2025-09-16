@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 13:22*
+*Generato: 16 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -106,19 +106,6 @@
 - [Delegations](https://www.europarl.europa.eu/delegations/en)
 - [EU budget](https://eubudget.europarl.europa.eu/en)
 
-## UE – Commission – News & media hub
-
-- [bg български](https://commission.europa.eu/news-and-media_bg)
-- [es español](https://commission.europa.eu/news-and-media_es)
-- [cs čeština](https://commission.europa.eu/news-and-media_cs)
-- [da dansk](https://commission.europa.eu/news-and-media_da)
-- [de Deutsch](https://commission.europa.eu/news-and-media_de)
-- [et eesti](https://commission.europa.eu/news-and-media_et)
-- [el ελληνικά](https://commission.europa.eu/news-and-media_el)
-- [en English](https://commission.europa.eu/news-and-media_en)
-- [fr français](https://commission.europa.eu/news-and-media_fr)
-- [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
 ## UE – DG NEAR – Tunisia – News
 
 - [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
@@ -174,15 +161,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Une rentrée scolaire facilitée pour 600 enfants grâce à l’initiative de Selecta](https://lapresse.tn/2025/09/16/une-rentree-scolaire-facilitee-pour-600-enfants-grace-a-linitiative-de-selecta/)
-- [Opération Mandić : Renforcement de la coopération Tuniso-Serbe le domaine de la culture](https://lapresse.tn/2025/09/16/operation-mandic-renforcement-de-la-cooperation-tuniso-serbe-le-domaine-de-la-culture/)
-- [Tunisie : 3,45 milliards d’euros générés par le tourisme et les transferts des Tunisiens à l’étranger en 9 mois](https://lapresse.tn/2025/09/16/tunisie-345-milliards-deuros-generes-par-le-tourisme-et-les-transferts-des-tunisiens-a-letranger-en-9-mois/)
+- [Seoul: le ministre de la Santé Mustapha Ferjani discute des opportunités de coopération avec son homologue sud-coréenne](https://lapresse.tn/2025/09/16/seoul-le-ministre-de-la-sante-mustapha-ferjani-discute-des-opportunites-de-cooperation-avec-son-homologue-sud-coreenne/)
+- [Le CSS ramène un point de Radès devant le CA : Soulagés, pas plus…](https://lapresse.tn/2025/09/16/le-css-ramene-un-point-de-rades-devant-le-ca-soulages-pas-plus/)
+- [Tournoi de tennis ATP Challenger de Saint-Tropez : Moez Chargui se qualifie pour le deuxième tour](https://lapresse.tn/2025/09/16/tournoi-de-tennis-atp-challenger-de-saint-tropez-moez-chargui-se-qualifie-pour-le-deuxieme-tour/)
+- [Ambassade du Royaume-Uni : lancement du concours national « Ambassadrice d’un jour »](https://lapresse.tn/2025/09/16/ambassade-du-royaume-uni-lancement-du-concours-national-ambassadrice-dun-jour/)
 - [Météo : Un mardi ensoleillé !](https://lapresse.tn/2025/09/16/meteo-un-mardi-ensoleille/)
 - [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
-- [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
+- [Une rentrée scolaire facilitée pour 600 enfants grâce à l’initiative de Selecta](https://lapresse.tn/2025/09/16/une-rentree-scolaire-facilitee-pour-600-enfants-grace-a-linitiative-de-selecta/)
 - [World Happiness Report 2025 : La Tunisie est-elle vraiment moins heureuse que ses voisins ?](https://lapresse.tn/2025/09/16/world-happiness-report-2025-la-tunisie-est-elle-vraiment-moins-heureuse-que-ses-voisins/)
 - [Première initiative du genre à Mahdia : recyclage des résidus de café et des coquilles d’oeufs](https://lapresse.tn/2025/09/16/premiere-initiative-du-genre-a-mahdia-recyclage-des-residus-de-cafe-et-des-coquilles-doeufs/)
-- [Le Village d’enfants SOS autorisé à collecter des fonds pour les enfants palestiniens](https://lapresse.tn/2025/09/16/le-village-denfants-sos-autorise-a-collecter-des-fonds-pour-les-enfants-palestiniens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +251,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
 - [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
+- [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
 - [Complot présumé contre le Burkina Faso : le journaliste Serge Mathurin Adou bientôt jugé à Niamey](https://www.jeuneafrique.com/1721328/politique/complot-presume-contre-le-burkina-faso-le-journaliste-serge-mathurin-adou-bientot-juge/)
 - [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
 - [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
 - [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
-- [Ne nous y trompons pas : l’AES fait encore rêver les Africains – par François Soudan](https://www.jeuneafrique.com/1720803/politique/ne-nous-y-trompons-pas-laes-fait-encore-rever-les-africains-par-francois-soudan/)
-- [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
 - [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
 - [Bancassurance : Sunu et NSIA, le choc de deux modèles en Afrique de l’Ouest](https://www.jeuneafrique.com/1720952/economie-entreprises/bancassurance-sunu-et-nsia-le-choc-de-deux-modeles-en-afrique-de-louest/)
 
