@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 06:17*
+*Generato: 16 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع معالي الدكتور عباس عراقجي وزير الشؤون الخارجية للجمهورية الإسلامية الإيرانية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B9%D8%B1%D8%A7%D9%82%D8%AC%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9)
+- [اجتماع رئيس الجمهورية قيس سعيّد بأعضاء المجلس الأعلى للتربية والتعليم وبوزيري الداخلية و النقل](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%88%D8%A8%D9%88%D8%B2%D9%8A%D8%B1%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D9%86%D9%82%D9%84)
 - [لقاء رئيس الجمهورية قيس سعيّد مع صاحب السمو الأمير فيصل بن فرحان بن عبد الله آل سعود وزير خارجية المملكة العربية السعودية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D8%B3%D9%85%D9%88-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1-%D9%81%D9%8A%D8%B5%D9%84-%D8%A8%D9%86-%D9%81%D8%B1%D8%AD%D8%A7%D9%86-%D8%A8%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A2%D9%84-%D8%B3%D8%B9%D9%88%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة المالية والسيد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%88%D8%B1%D9%8A-0)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-18)
@@ -82,7 +82,6 @@
 
 ## UE – EP – Press Room
 
-- [International Trade Committee delegation in Geneva to meet WTO this week](https://www.europarl.europa.eu/news/en/press-room/20250915IPR30341/international-trade-committee-delegation-to-meet-wto-this-week)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
@@ -92,6 +91,7 @@
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [1,5 million de dollars pour faire de la culture un moteur de développement en Tunisie](https://lapresse.tn/2025/09/16/15-million-de-dollars-pour-faire-de-la-culture-un-moteur-de-developpement-en-tunisie/)
-- [CMF et ACM unissent leurs efforts pour la supervision du secteur financier](https://lapresse.tn/2025/09/16/cmf-et-acm-unissent-leurs-efforts-pour-la-supervision-du-secteur-financier/)
-- [Emploi, inflation, commerce : le trio infernal qui inquiète Deloitte](https://lapresse.tn/2025/09/16/emploi-inflation-commerce-le-trio-infernal-qui-inquiete-deloitte/)
+- [Mondial Volley 2025 : La Tunisie s’incline face à l’Iran avant d’affronter l’Égypte](https://lapresse.tn/2025/09/16/mondial-volley-2025-la-tunisie-sincline-face-a-liran-avant-daffronter-legypte/)
+- [La BNA Bank et l’Union Tunisienne de Solidarité Sociale signent une convention de partenariat](https://lapresse.tn/2025/09/16/la-bna-bank-et-lunion-tunisienne-de-solidarite-sociale-signent-une-convention-de-partenariat/)
+- [Zaghouan – Incendie maîtrisé au Mont Sidi Zid : Un Hectare Dévasté, Vigilance Maintenue](https://lapresse.tn/2025/09/16/zaghouan-incendie-sur-le-mont-sidi-zid-un-hectare-de-broussailles-et-de-residus-de-cereales-devaste/)
+- [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
 - [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
 - [Huile d’olive: hausse des exportations depuis le début de la saison](https://lapresse.tn/2025/09/15/huile-dolive-hausse-des-exportations-depuis-le-debut-de-la-saison/)
-- [Doha: la Tunisie appelle à resserrer les rangs et faire front face à la menace de l’entité sioniste](https://lapresse.tn/2025/09/15/doha-la-tunisie-appelle-a-resserrer-les-rangs-et-faire-front-face-a-la-menace-de-lentite-sioniste/)
 - [Ooredoo apporte espoir et sourires à 400 enfants de Kafel Elyatim pour la rentrée scolaire](https://lapresse.tn/2025/09/16/ooredoo-apporte-espoir-et-sourires-a-400-enfants-de-kafel-elyatim-pour-la-rentree-scolaire/)
 - [Place Mongi Bali: Un agent de propreté roué de coups par des individus en état d’ébriété](https://lapresse.tn/2025/09/15/place-mongi-bali-un-agent-de-proprete-roue-de-coups-par-des-individus-en-etat-debriete/)
 - [Tozeur : Réouverture imminente de deux unités touristiques](https://lapresse.tn/2025/09/15/tozeur-reouverture-imminente-de-deux-unites-touristiques/)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Lebanon: Ensure Draft Media Law Upholds Free Expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 - [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
-- [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 - [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
-- [HRC60: Joint Statement in the Interactive Dialogue on the Report of the Office of the High Commissioner for Human Rights on Promoting reconciliation, accountability and human rights in Sri Lanka](https://www.icj.org/hrc60-joint-statement-in-the-interactive-dialogue-on-the-report-of-the-office-of-the-high-commissioner-for-human-rights-on-promoting-reconciliation-accountability-and-human-rights-in-sri-lanka/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
 - [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
 - [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
 - [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
@@ -271,9 +272,8 @@
 - [En Algérie, Abdelmadjid Tebboune confirme Sifi Ghrieb au poste de Premier ministre](https://www.jeuneafrique.com/1721672/politique/en-algerie-abdelmadjid-tebboune-confirme-sifi-ghrieb-au-poste-de-premier-ministre/)
 - [Soudan : la proposition de trêve de plusieurs pays rejetée par le gouvernement](https://www.jeuneafrique.com/1721669/politique/soudan-la-proposition-de-treve-de-plusieurs-pays-rejetee-par-le-gouvernement/)
 - [Présidentielle au Bénin : contre Patrice Talon, sur qui peut compter Thomas Boni Yayi ?](https://www.jeuneafrique.com/1718254/politique/presidentielle-au-benin-contre-patrice-talon-sur-qui-peut-compter-thomas-boni-yayi/)
-- [En Libye, le gouvernement et le groupe armé Radaa trouvent un accord](https://www.jeuneafrique.com/1721662/politique/en-libye-le-gouvernement-et-le-groupe-arme-radaa-trouvent-un-accord/)
 - [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
-- [Aérien : qui sont les rois des liaisons Chine-Afrique ?](https://www.jeuneafrique.com/1719512/economie-entreprises/aerien-qui-sont-les-rois-des-liaisons-chine-afrique/)
+- [Aérien : qui sont les nouveaux rois des liaisons Chine-Afrique ?](https://www.jeuneafrique.com/1719512/economie-entreprises/aerien-qui-sont-les-rois-des-liaisons-chine-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
