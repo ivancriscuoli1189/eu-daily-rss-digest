@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 15:10*
+*Generato: 16 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -106,18 +106,31 @@
 - [Delegations](https://www.europarl.europa.eu/delegations/en)
 - [EU budget](https://eubudget.europarl.europa.eu/en)
 
+## UE – Commission – News & media hub
+
+- [bg български](https://commission.europa.eu/news-and-media_bg)
+- [es español](https://commission.europa.eu/news-and-media_es)
+- [cs čeština](https://commission.europa.eu/news-and-media_cs)
+- [da dansk](https://commission.europa.eu/news-and-media_da)
+- [de Deutsch](https://commission.europa.eu/news-and-media_de)
+- [et eesti](https://commission.europa.eu/news-and-media_et)
+- [el ελληνικά](https://commission.europa.eu/news-and-media_el)
+- [en English](https://commission.europa.eu/news-and-media_en)
+- [fr français](https://commission.europa.eu/news-and-media_fr)
+- [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -160,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Seoul: le ministre de la Santé Mustapha Ferjani discute des opportunités de coopération avec son homologue sud-coréenne](https://lapresse.tn/2025/09/16/seoul-le-ministre-de-la-sante-mustapha-ferjani-discute-des-opportunites-de-cooperation-avec-son-homologue-sud-coreenne/)
-- [Le CSS ramène un point de Radès devant le CA : Soulagés, pas plus…](https://lapresse.tn/2025/09/16/le-css-ramene-un-point-de-rades-devant-le-ca-soulages-pas-plus/)
-- [Tournoi de tennis ATP Challenger de Saint-Tropez : Moez Chargui se qualifie pour le deuxième tour](https://lapresse.tn/2025/09/16/tournoi-de-tennis-atp-challenger-de-saint-tropez-moez-chargui-se-qualifie-pour-le-deuxieme-tour/)
-- [Ambassade du Royaume-Uni : lancement du concours national « Ambassadrice d’un jour »](https://lapresse.tn/2025/09/16/ambassade-du-royaume-uni-lancement-du-concours-national-ambassadrice-dun-jour/)
-- [Météo : Un mardi ensoleillé !](https://lapresse.tn/2025/09/16/meteo-un-mardi-ensoleille/)
-- [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
-- [Une rentrée scolaire facilitée pour 600 enfants grâce à l’initiative de Selecta](https://lapresse.tn/2025/09/16/une-rentree-scolaire-facilitee-pour-600-enfants-grace-a-linitiative-de-selecta/)
-- [World Happiness Report 2025 : La Tunisie est-elle vraiment moins heureuse que ses voisins ?](https://lapresse.tn/2025/09/16/world-happiness-report-2025-la-tunisie-est-elle-vraiment-moins-heureuse-que-ses-voisins/)
-- [Première initiative du genre à Mahdia : recyclage des résidus de café et des coquilles d’oeufs](https://lapresse.tn/2025/09/16/premiere-initiative-du-genre-a-mahdia-recyclage-des-residus-de-cafe-et-des-coquilles-doeufs/)
+- [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
+- [FIFA : 355 millions de dollars pour les clubs à la Coupe du monde 2026](https://lapresse.tn/2025/09/16/fifa-355-millions-de-dollars-pour-les-clubs-a-la-coupe-du-monde-2026/)
+- [Prochainement au palais kheireddine : Terre spirituelle, terre plurielle](https://lapresse.tn/2025/09/16/prochainement-au-palais-kheireddine-terre-spirituelle-terre-plurielle/)
+- [Foot – Ligue 1 (6e journée) : Les résultats des matchs](https://lapresse.tn/2025/09/16/foot-ligue-1-6e-journee-les-resultats-des-matchs/)
+- [Baisse du nombre de contrats de mariage de 10% durant l’année 2024](https://lapresse.tn/2025/09/16/baisse-du-nombre-de-contrats-de-mariage-de-10-durant-lannee-2024/)
+- [Depuis la Tunisie, l’Italie, l’Espagne et la Grèce : Briser le silence, briser le siège : la flottille Soumoud en route vers Gaza](https://lapresse.tn/2025/09/16/depuis-la-tunisie-litalie-lespagne-et-la-grece-briser-le-silence-briser-le-siege-la-flottille-soumoud-en-route-vers-gaza/)
+- [Sommet Arabe et Islamique Extraordinaire à Doha : La Tunisie appelle à l’intensification de la coopération et de la solidarité arabo-islamiques](https://lapresse.tn/2025/09/16/sommet-arabe-et-islamique-extraordinaire-a-doha-la-tunisie-appelle-a-lintensification-de-la-cooperation-et-de-la-solidarite-arabo-islamiques/)
+- [Hier la rentrée scolaire : Un mouvement d’ensemble exceptionnel](https://lapresse.tn/2025/09/16/hier-la-rentree-scolaire-un-mouvement-densemble-exceptionnel/)
+- [Gafsa – Rentrée scolaire : De l’effervescence à la vigilance](https://lapresse.tn/2025/09/16/gafsa-rentree-scolaire-de-leffervescence-a-la-vigilance/)
+- [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/16/indiscretions-delyssa-16/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -254,13 +267,13 @@
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
 - [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
-- [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
+- [Présidentielle en Côte d’Ivoire : ce que prépare Gbagbo avec les autres exclus du scrutin](https://www.jeuneafrique.com/1721537/politique/presidentielle-en-cote-divoire-ce-que-prepare-gbagbo-avec-les-autres-exclus-du-scrutin/)
+- [RDC : comment Vital Kamerhe a, jusqu’au bout, tenté de sauver sa tête](https://www.jeuneafrique.com/1722036/politique/rdc-comment-vital-kamerhe-a-jusquau-bout-tente-de-sauver-sa-tete/)
+- [Rwanda-RDC : du PSG au FC Barcelone, quand le foot devient un champ de bataille diplomatique](https://www.jeuneafrique.com/1721743/politique/rwanda-rdc-du-psg-au-fc-barcelone-quand-le-foot-devient-un-champ-de-bataille-diplomatique/)
 - [Complot présumé contre le Burkina Faso : le journaliste Serge Mathurin Adou bientôt jugé à Niamey](https://www.jeuneafrique.com/1721328/politique/complot-presume-contre-le-burkina-faso-le-journaliste-serge-mathurin-adou-bientot-juge/)
 - [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
-- [L’Ordre des avocats tunisiens, co-lauréat du prix Nobel en 2015, a un nouveau bâtonnier](https://www.jeuneafrique.com/1721691/politique/lordre-des-avocats-tunisiens-laureat-du-prix-nobel-en-2015-a-un-nouveau-batonnier/)
-- [Nouveau gouvernement en Algérie : Ahmed Attaf et Saïd Chengriha maintenus](https://www.jeuneafrique.com/1721700/politique/nouveau-gouvernement-en-algerie-ahmed-attaf-et-said-chengriha-maintenus/)
-- [Au Burkina Faso aussi, le gouvernement s’attaque aux jours fériés](https://www.jeuneafrique.com/1721694/economie-entreprises/au-burkina-faso-aussi-le-gouvernement-sattaque-aux-jours-feries/)
-- [Bancassurance : Sunu et NSIA, le choc de deux modèles en Afrique de l’Ouest](https://www.jeuneafrique.com/1720952/economie-entreprises/bancassurance-sunu-et-nsia-le-choc-de-deux-modeles-en-afrique-de-louest/)
+- [Côte d’Ivoire : Djamo muscle son jeu et défie les acteurs historiques de la microfinance](https://www.jeuneafrique.com/1722160/economie-entreprises/cote-divoire-djamo-muscle-son-jeu-et-defie-les-acteurs-historiques-de-la-microfinance/)
+- [Minerais critiques : qui est IRH, le nouvel entrant émirati qui compte sur le continent ?](https://www.jeuneafrique.com/1721883/economie-entreprises/minerais-critiques-qui-est-irh-le-nouvel-entrant-emirati-qui-compte-sur-le-continent/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
