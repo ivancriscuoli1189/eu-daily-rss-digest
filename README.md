@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 11:04*
+*Generato: 16 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Rentrée scolaire : semer le savoir, éradiquer la corruption](https://lapresse.tn/2025/09/15/rentree-scolaire-semer-le-savoir-eradiquer-la-corruption/)
-- [Ambassade du Royaume-Uni : lancement du concours national « Ambassadrice d’un jour »](https://lapresse.tn/2025/09/16/ambassade-du-royaume-uni-lancement-du-concours-national-ambassadrice-dun-jour/)
-- [Ariana : saisie de 4.7 tonnes de farine subventionnée](https://lapresse.tn/2025/09/16/ariana-saisie-de-4-7-tonnes-de-farine-subventionnee/)
-- [Signature d’un protocole d’accord entre la FTAV et la commission saoudienne pour la Omra](https://lapresse.tn/2025/09/16/signature-dun-protocole-daccord-entre-la-ftav-et-la-commission-saoudienne-pour-la-omra/)
+- [L’hôtellerie tunisienne en deuil : décès de Radhouane Ben Salah ancien Président de la FTH](https://lapresse.tn/2025/09/16/lhotellerie-tunisienne-en-deuil-deces-de-radhouane-ben-salah-ancien-president-de-la-fth/)
+- [Où suivre les matchs de la 6ᵉ journée de Ligue 1 ?](https://lapresse.tn/2025/09/16/ou-suivre-les-matchs-de-la-6%e1%b5%89-journee-de-ligue-1/)
+- [Le Village d’enfants SOS autorisé à collecter des fonds pour les enfants palestiniens](https://lapresse.tn/2025/09/16/le-village-denfants-sos-autorise-a-collecter-des-fonds-pour-les-enfants-palestiniens/)
 - [Météo : Un mardi ensoleillé !](https://lapresse.tn/2025/09/16/meteo-un-mardi-ensoleille/)
 - [Sommet extraordinaire à Doha : les dirigeants arabes et islamiques appellent à un front uni contre l’agression sioniste](https://lapresse.tn/2025/09/15/sommet-extraordinaire-a-doha-les-dirigeants-arabes-et-islamiques-appellent-a-un-front-uni-contre-lagression-sioniste/)
 - [Sommet arabo islamique à Doha: Mohamed Ali Nafti s’entretient avec plusieurs de ses homologues arabes et étrangers](https://lapresse.tn/2025/09/15/sommet-arabo-islamique-a-doha-mohamed-ali-nafti-sentretient-avec-plusieurs-de-ses-homologues-arabes-et-etrangers/)
+- [Ariana : saisie de 4.7 tonnes de farine subventionnée](https://lapresse.tn/2025/09/16/ariana-saisie-de-4-7-tonnes-de-farine-subventionnee/)
 - [Bizerte : 35 tonnes de produits alimentaires redirigées vers les marchés officiels lors d’une vaste opération de contrôle](https://lapresse.tn/2025/09/16/bizerte-35-tonnes-de-produits-alimentaires-redirigees-vers-les-marches-officiels-lors-dune-vaste-operation-de-controle/)
 - [Zaghouan – Incendie maîtrisé au Mont Sidi Zid : Un Hectare Dévasté, Vigilance Maintenue](https://lapresse.tn/2025/09/16/zaghouan-incendie-sur-le-mont-sidi-zid-un-hectare-de-broussailles-et-de-residus-de-cereales-devaste/)
-- [Ooredoo apporte espoir et sourires à 400 enfants de Kafel Elyatim pour la rentrée scolaire](https://lapresse.tn/2025/09/16/ooredoo-apporte-espoir-et-sourires-a-400-enfants-de-kafel-elyatim-pour-la-rentree-scolaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
