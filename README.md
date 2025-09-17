@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Sep 2025, 21:05*
+*Generato: 17 Sep 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [l’ESS se sépare de son entraîneur Lassaad Dridi](https://lapresse.tn/2025/09/16/less-se-separe-de-son-entraineur-lassaad-dridi/)
-- [Transfert des actifs chinois de TikTok à des propriétaires américains: Trump prolonge les délais](https://lapresse.tn/2025/09/16/transfert-des-actifs-chinois-de-tiktok-a-des-proprietaires-americains-trump-prolonge-les-delais/)
+- [Météo : ciel dégagé et légère baisse des températures](https://lapresse.tn/2025/09/17/meteo-ciel-degage-et-legere-baisse-des-temperatures/)
+- [Le dollar chute à son plus bas niveau depuis quatre ans contre l’euro](https://lapresse.tn/2025/09/17/le-dollar-chute-a-son-plus-bas-niveau-depuis-quatre-ans-contre-leuro/)
+- [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
 - [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
 - [Le ministre de la Santé visite l’hôpital intelligent Samsung à Séoul](https://lapresse.tn/2025/09/16/le-ministre-de-la-sante-visite-lhopital-intelligent-samsung-a-seoul/)
-- [L’avancement du projet de digitalisation de l’administration au centre d’un CMR](https://lapresse.tn/2025/09/16/lavancement-du-projet-de-digitalisation-de-ladministration-au-centre-dun-cmr/)
-- [La mission de la Tunisie à Genève condamne l’agression de l’entité sioniste contre le Qatar](https://lapresse.tn/2025/09/16/la-mission-de-la-tunisie-a-geneve-condamne-lagression-de-lentite-sioniste-contre-le-qatar/)
+- [Deuxième projet approuvé par le MPTF pour soutenir l’entrepreneuriat des jeunes et des femmes dans les gouvernorats de Kairouan et Sidi Bouzid](https://lapresse.tn/2025/09/17/deuxieme-projet-approuve-par-le-mptf-pour-soutenir-lentrepreneuriat-des-jeunes-et-des-femmes-dans-les-gouvernorats-de-kairouan-et-sidi-bouzid/)
+- [Première promotion de 26 éco-conseillers ruraux accompagnateurs de projets d’accueil à la ferme, certifiés dans le cadre du Projet BioTED](https://lapresse.tn/2025/09/17/premiere-promotion-de-26-eco-conseillers-ruraux-accompagnateurs-de-projets-daccueil-a-la-ferme-certifies-dans-le-cadre-du-projet-bioted/)
 - [Kairouan : Le ministère public autorise une enquête sur les circonstances du décès du voyant « Sahtout »](https://lapresse.tn/2025/09/16/kairouan-le-ministere-public-autorise-une-enquete-sur-les-circonstances-du-deces-du-voyant-sahtout/)
 - [Hier la rentrée scolaire : Un mouvement d’ensemble exceptionnel](https://lapresse.tn/2025/09/16/hier-la-rentree-scolaire-un-mouvement-densemble-exceptionnel/)
-- [Gafsa – Rentrée scolaire : De l’effervescence à la vigilance](https://lapresse.tn/2025/09/16/gafsa-rentree-scolaire-de-leffervescence-a-la-vigilance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
+- [Assemblée générale de l’ONU : pourquoi Alassane Ouattara annule in extremis sa venue](https://www.jeuneafrique.com/1722133/politique/assemblee-generale-de-lonu-pourquoi-alassane-ouattara-annule-in-extremis-sa-venue/)
 - [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
 - [Présidentielle en Côte d’Ivoire : ce que prépare Gbagbo avec les autres exclus du scrutin](https://www.jeuneafrique.com/1721537/politique/presidentielle-en-cote-divoire-ce-que-prepare-gbagbo-avec-les-autres-exclus-du-scrutin/)
+- [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
 - [RDC : comment Vital Kamerhe a, jusqu’au bout, tenté de sauver sa tête](https://www.jeuneafrique.com/1722036/politique/rdc-comment-vital-kamerhe-a-jusquau-bout-tente-de-sauver-sa-tete/)
-- [Rwanda-RDC : du PSG au FC Barcelone, quand le foot devient un champ de bataille diplomatique](https://www.jeuneafrique.com/1721743/politique/rwanda-rdc-du-psg-au-fc-barcelone-quand-le-foot-devient-un-champ-de-bataille-diplomatique/)
-- [Complot présumé contre le Burkina Faso : le journaliste Serge Mathurin Adou bientôt jugé à Niamey](https://www.jeuneafrique.com/1721328/politique/complot-presume-contre-le-burkina-faso-le-journaliste-serge-mathurin-adou-bientot-juge/)
-- [Présidentielle au Cameroun : autour de Paul Biya, une guerre des clans en sourdine](https://www.jeuneafrique.com/1721648/politique/presidentielle-au-cameroun-autour-de-paul-biya-une-guerre-des-clans-en-sourdine/)
+- [Routes bloquées, camions incendiés, entreprises attaquées : le JNIM ouvre un nouveau front au Mali](https://www.jeuneafrique.com/1721333/politique/routes-bloquees-camions-incendies-entreprises-attaquees-le-jnim-ouvre-un-nouveau-front-au-mali/)
+- [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
 - [Côte d’Ivoire : Djamo muscle son jeu et défie les acteurs historiques de la microfinance](https://www.jeuneafrique.com/1722160/economie-entreprises/cote-divoire-djamo-muscle-son-jeu-et-defie-les-acteurs-historiques-de-la-microfinance/)
-- [Minerais critiques : qui est IRH, le nouvel entrant émirati qui compte sur le continent ?](https://www.jeuneafrique.com/1721883/economie-entreprises/minerais-critiques-qui-est-irh-le-nouvel-entrant-emirati-qui-compte-sur-le-continent/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
