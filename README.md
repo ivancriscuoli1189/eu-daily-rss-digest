@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 09:12*
+*Generato: 17 Sep 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [Compétences tunisiennes en Corée du Sud : Un pilier de l’innovation sanitaire](https://lapresse.tn/2025/09/17/competences-tunisiennes-en-coree-du-sud-un-pilier-de-linnovation-sanitaire/)
-- [Météo : ciel dégagé et légère baisse des températures](https://lapresse.tn/2025/09/17/meteo-ciel-degage-et-legere-baisse-des-temperatures/)
-- [Le dollar chute à son plus bas niveau depuis quatre ans contre l’euro](https://lapresse.tn/2025/09/17/le-dollar-chute-a-son-plus-bas-niveau-depuis-quatre-ans-contre-leuro/)
+- [FTF : Qui a le droit de diffuser les matchs ?](https://lapresse.tn/2025/09/17/ftf-qui-a-le-droit-de-diffuser-les-matchs/)
+- [Ligue 1 – championnat national (6e journée) – ESZ : Garder la boussole](https://lapresse.tn/2025/09/17/ligue-1-championnat-national-6e-journee-esz-garder-la-boussole/)
+- [L’IA désormais capable de détecter les signes précoces de la dépression](https://lapresse.tn/2025/09/17/lia-desormais-capable-de-detecter-les-signes-precoces-de-la-depression/)
 - [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
 - [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
 - [Le ministre de la Santé visite l’hôpital intelligent Samsung à Séoul](https://lapresse.tn/2025/09/16/le-ministre-de-la-sante-visite-lhopital-intelligent-samsung-a-seoul/)
-- [Deuxième projet approuvé par le MPTF pour soutenir l’entrepreneuriat des jeunes et des femmes dans les gouvernorats de Kairouan et Sidi Bouzid](https://lapresse.tn/2025/09/17/deuxieme-projet-approuve-par-le-mptf-pour-soutenir-lentrepreneuriat-des-jeunes-et-des-femmes-dans-les-gouvernorats-de-kairouan-et-sidi-bouzid/)
-- [Première promotion de 26 éco-conseillers ruraux accompagnateurs de projets d’accueil à la ferme, certifiés dans le cadre du Projet BioTED](https://lapresse.tn/2025/09/17/premiere-promotion-de-26-eco-conseillers-ruraux-accompagnateurs-de-projets-daccueil-a-la-ferme-certifies-dans-le-cadre-du-projet-bioted/)
-- [Kairouan : Le ministère public autorise une enquête sur les circonstances du décès du voyant « Sahtout »](https://lapresse.tn/2025/09/16/kairouan-le-ministere-public-autorise-une-enquete-sur-les-circonstances-du-deces-du-voyant-sahtout/)
+- [Faculté de médecine de Tunis : une nouvelle spécialité médicale voit le jour](https://lapresse.tn/2025/09/17/faculte-de-medecine-de-tunis-une-nouvelle-specialite-medicale-voit-le-jour/)
+- [Enseignement supérieur : les bacheliers appelés à se connecter à l’application « Massari »pour confirmer leur inscription universitaire](https://lapresse.tn/2025/09/17/enseignement-superieur-les-bacheliers-appeles-a-se-connecter-a-lapplication-massaripour-confirmer-leur-inscription-universitaire/)
+- [Bizerte : Plusieurs blessés dans le renversement d’un bus à Mateur](https://lapresse.tn/2025/09/17/bizerte-plusieurs-blesses-dans-le-renversement-dun-bus-a-mateur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -273,7 +273,7 @@
 - [RDC : comment Vital Kamerhe a, jusqu’au bout, tenté de sauver sa tête](https://www.jeuneafrique.com/1722036/politique/rdc-comment-vital-kamerhe-a-jusquau-bout-tente-de-sauver-sa-tete/)
 - [Routes bloquées, camions incendiés, entreprises attaquées : le JNIM ouvre un nouveau front au Mali](https://www.jeuneafrique.com/1721333/politique/routes-bloquees-camions-incendies-entreprises-attaquees-le-jnim-ouvre-un-nouveau-front-au-mali/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
-- [Côte d’Ivoire : Djamo muscle son jeu et défie les acteurs historiques de la microfinance](https://www.jeuneafrique.com/1722160/economie-entreprises/cote-divoire-djamo-muscle-son-jeu-et-defie-les-acteurs-historiques-de-la-microfinance/)
+- [L’Afrique francophone, nouvelle terre de conquête de Zenith Bank](https://www.jeuneafrique.com/1722090/economie-entreprises/lafrique-francophone-nouvelle-terre-de-conquete-de-zenith-bank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
