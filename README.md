@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 15:03*
+*Generato: 17 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
@@ -91,7 +92,6 @@
 - [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
-- [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [La Tunisie ambitionne de devenir une nouvelle place financière à l’échelle arabe](https://lapresse.tn/2025/09/17/la-tunisie-ambitionne-de-devenir-une-nouvelle-place-financiere-arabe/)
-- [Détournement partiel de la circulation près du Centre de traumatologie et des grands brûlés de Ben Arous](https://lapresse.tn/2025/09/17/detournement-partiel-de-la-circulation-pres-du-centre-de-traumatologie-et-des-grands-brules-de-ben-arous/)
-- [Marwa Bouzayani 4ᵉ du 3000 m steeple et record national à Tokyo](https://lapresse.tn/2025/09/17/marwa-bouzayani-4%e1%b5%89-du-3000-m-steeple-et-record-national-a-tokyo/)
-- [Météo : ciel dégagé et légère baisse des températures](https://lapresse.tn/2025/09/17/meteo-ciel-degage-et-legere-baisse-des-temperatures/)
-- [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
-- [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
-- [Kalaâ El Kbira : un jeune homme hospitalisé suite à une piqûre de moustique](https://lapresse.tn/2025/09/17/kalaa-el-kbira-un-jeune-homme-hospitalise-suite-a-une-piqure-de-moustique/)
-- [Kasserine : lancement d’un projet pilote pour gérer l’eau de ruissellement](https://lapresse.tn/2025/09/17/kasserine-lancement-dun-projet-pilote-pour-gerer-leau-de-ruissellement/)
-- [L’IA désormais capable de détecter les signes précoces de la dépression](https://lapresse.tn/2025/09/17/lia-desormais-capable-de-detecter-les-signes-precoces-de-la-depression/)
+- [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
+- [Vient de paraitre – « Cinq nuits à Varsovie » de Hatem Bourial : Entre déambulations et rêveries](https://lapresse.tn/2025/09/17/vient-de-paraitre-cinq-nuits-a-varsovie-de-hatem-bourial-entre-deambulations-et-reveries/)
+- [Dans nos salles : Des sorties 100% tunisiennes](https://lapresse.tn/2025/09/17/dans-nos-salles-des-sorties-100-tunisiennes/)
+- [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
+- [Opération coup de poing contre les « Habbata » : des intermédiaires du commerce informel visés par des mandats de dépôt](https://lapresse.tn/2025/09/17/operation-coup-de-poing-contre-les-habbata-des-intermediaires-du-commerce-informel-vises-par-des-mandats-de-depot/)
+- [Création de la brigade municipale par le chef de l’État : Prévention et responsabilisation](https://lapresse.tn/2025/09/17/creation-de-la-brigade-municipale-par-le-chef-de-letat-prevention-et-responsabilisation/)
+- [Ministre de l’Intérieur: « La Tunisie est confrontée directement à la menace cybernétique »](https://lapresse.tn/2025/09/17/ministre-de-linterieur-la-tunisie-est-confrontee-directement-a-la-menace-cybernetique/)
+- [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
+- [Rentrée de la formation – Session de septembre 2025 : Sous le signe de la restructuration](https://lapresse.tn/2025/09/17/rentree-de-la-formation-session-de-septembre-2025-sous-le-signe-de-la-restructuration/)
+- [Gafsa : Entre pistaches et dattes : un paysage agricole diversifié](https://lapresse.tn/2025/09/17/gafsa-entre-pistaches-et-dattes-un-paysage-agricole-diversifie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
+- [Casablanca 1965 : un premier sommet marocain mouvementé pour la Ligue arabe](https://www.jeuneafrique.com/1721714/politique/casablanca-1965-un-premier-sommet-marocain-mouvemente-pour-la-ligue-arabe/)
+- [Présidentielle au Cameroun : le RDPC de Paul Biya à la reconquête de la diaspora](https://www.jeuneafrique.com/1722067/politique/presidentielle-au-cameroun-le-rdpc-de-paul-biya-a-la-reconquete-de-la-diaspora/)
 - [Le Mali, le Burkina Faso et le Niger préparent leur retrait de la CPI](https://www.jeuneafrique.com/1722355/politique/le-mali-le-burkina-faso-et-le-niger-preparent-leur-retrait-de-la-cpi/)
+- [« Dans l’est de la RDC, les sanctions ne sont pas la recette miracle », selon Maxime Prévot, ministre belge des Affaires étrangères](https://www.jeuneafrique.com/1721435/politique/dans-lest-de-la-rdc-les-sanctions-ne-sont-pas-la-recette-miracle-selon-maxime-prevot-ministre-belge-des-affaires-etrangeres/)
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
 - [Assemblée générale de l’ONU : pourquoi Alassane Ouattara annule in extremis sa venue](https://www.jeuneafrique.com/1722133/politique/assemblee-generale-de-lonu-pourquoi-alassane-ouattara-annule-in-extremis-sa-venue/)
-- [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
-- [Présidentielle en Côte d’Ivoire : ce que prépare Gbagbo avec les autres exclus du scrutin](https://www.jeuneafrique.com/1721537/politique/presidentielle-en-cote-divoire-ce-que-prepare-gbagbo-avec-les-autres-exclus-du-scrutin/)
-- [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
+- [L’âge d’or de l’automobile et de l’outsourcing au Maroc est-il derrière nous ?](https://www.jeuneafrique.com/1722401/economie-entreprises/lage-dor-de-lautomobile-et-de-loutsourcing-au-maroc-est-il-derriere-nous/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
-- [L’Afrique francophone, nouvelle terre de conquête de Zenith Bank](https://www.jeuneafrique.com/1722090/economie-entreprises/lafrique-francophone-nouvelle-terre-de-conquete-de-zenith-bank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
