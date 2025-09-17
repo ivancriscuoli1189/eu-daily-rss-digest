@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 11:04*
+*Generato: 17 Sep 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [FTF : Qui a le droit de diffuser les matchs ?](https://lapresse.tn/2025/09/17/ftf-qui-a-le-droit-de-diffuser-les-matchs/)
-- [Ligue 1 – championnat national (6e journée) – ESZ : Garder la boussole](https://lapresse.tn/2025/09/17/ligue-1-championnat-national-6e-journee-esz-garder-la-boussole/)
-- [L’IA désormais capable de détecter les signes précoces de la dépression](https://lapresse.tn/2025/09/17/lia-desormais-capable-de-detecter-les-signes-precoces-de-la-depression/)
+- [Kalaâ El Kbira : un jeune homme hospitalisé suite à une piqûre de moustique](https://lapresse.tn/2025/09/17/kalaa-el-kbira-un-jeune-homme-hospitalise-suite-a-une-piqure-de-moustique/)
+- [Ligue 1 – championnat national (6e journée) – CA : Des changements enfin ?](https://lapresse.tn/2025/09/17/ligue-1-championnat-national-6e-journee-ca-des-changements-enfin/)
+- [Kasserine : lancement d’un projet pilote pour gérer l’eau de ruissellement](https://lapresse.tn/2025/09/17/kasserine-lancement-dun-projet-pilote-pour-gerer-leau-de-ruissellement/)
 - [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
 - [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
 - [Le ministre de la Santé visite l’hôpital intelligent Samsung à Séoul](https://lapresse.tn/2025/09/16/le-ministre-de-la-sante-visite-lhopital-intelligent-samsung-a-seoul/)
+- [L’IA désormais capable de détecter les signes précoces de la dépression](https://lapresse.tn/2025/09/17/lia-desormais-capable-de-detecter-les-signes-precoces-de-la-depression/)
 - [Faculté de médecine de Tunis : une nouvelle spécialité médicale voit le jour](https://lapresse.tn/2025/09/17/faculte-de-medecine-de-tunis-une-nouvelle-specialite-medicale-voit-le-jour/)
-- [Enseignement supérieur : les bacheliers appelés à se connecter à l’application « Massari »pour confirmer leur inscription universitaire](https://lapresse.tn/2025/09/17/enseignement-superieur-les-bacheliers-appeles-a-se-connecter-a-lapplication-massaripour-confirmer-leur-inscription-universitaire/)
-- [Bizerte : Plusieurs blessés dans le renversement d’un bus à Mateur](https://lapresse.tn/2025/09/17/bizerte-plusieurs-blesses-dans-le-renversement-dun-bus-a-mateur/)
+- [Taux de change bancaire : recul du dinar face à l’euro](https://lapresse.tn/2025/09/17/taux-de-change-bancaire-recul-du-dinar-face-a-leuro/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Mali, le Burkina Faso et le Niger préparent leur retrait de la CPI](https://www.jeuneafrique.com/1722355/politique/le-mali-le-burkina-faso-et-le-niger-preparent-leur-retrait-de-la-cpi/)
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
 - [Assemblée générale de l’ONU : pourquoi Alassane Ouattara annule in extremis sa venue](https://www.jeuneafrique.com/1722133/politique/assemblee-generale-de-lonu-pourquoi-alassane-ouattara-annule-in-extremis-sa-venue/)
@@ -271,7 +272,6 @@
 - [Présidentielle en Côte d’Ivoire : ce que prépare Gbagbo avec les autres exclus du scrutin](https://www.jeuneafrique.com/1721537/politique/presidentielle-en-cote-divoire-ce-que-prepare-gbagbo-avec-les-autres-exclus-du-scrutin/)
 - [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
 - [RDC : comment Vital Kamerhe a, jusqu’au bout, tenté de sauver sa tête](https://www.jeuneafrique.com/1722036/politique/rdc-comment-vital-kamerhe-a-jusquau-bout-tente-de-sauver-sa-tete/)
-- [Routes bloquées, camions incendiés, entreprises attaquées : le JNIM ouvre un nouveau front au Mali](https://www.jeuneafrique.com/1721333/politique/routes-bloquees-camions-incendies-entreprises-attaquees-le-jnim-ouvre-un-nouveau-front-au-mali/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
 - [L’Afrique francophone, nouvelle terre de conquête de Zenith Bank](https://www.jeuneafrique.com/1722090/economie-entreprises/lafrique-francophone-nouvelle-terre-de-conquete-de-zenith-bank/)
 
