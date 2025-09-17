@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 06:15*
+*Generato: 17 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,6 +174,7 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
+- [Compétences tunisiennes en Corée du Sud : Un pilier de l’innovation sanitaire](https://lapresse.tn/2025/09/17/competences-tunisiennes-en-coree-du-sud-un-pilier-de-linnovation-sanitaire/)
 - [Météo : ciel dégagé et légère baisse des températures](https://lapresse.tn/2025/09/17/meteo-ciel-degage-et-legere-baisse-des-temperatures/)
 - [Le dollar chute à son plus bas niveau depuis quatre ans contre l’euro](https://lapresse.tn/2025/09/17/le-dollar-chute-a-son-plus-bas-niveau-depuis-quatre-ans-contre-leuro/)
 - [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
@@ -182,7 +183,6 @@
 - [Deuxième projet approuvé par le MPTF pour soutenir l’entrepreneuriat des jeunes et des femmes dans les gouvernorats de Kairouan et Sidi Bouzid](https://lapresse.tn/2025/09/17/deuxieme-projet-approuve-par-le-mptf-pour-soutenir-lentrepreneuriat-des-jeunes-et-des-femmes-dans-les-gouvernorats-de-kairouan-et-sidi-bouzid/)
 - [Première promotion de 26 éco-conseillers ruraux accompagnateurs de projets d’accueil à la ferme, certifiés dans le cadre du Projet BioTED](https://lapresse.tn/2025/09/17/premiere-promotion-de-26-eco-conseillers-ruraux-accompagnateurs-de-projets-daccueil-a-la-ferme-certifies-dans-le-cadre-du-projet-bioted/)
 - [Kairouan : Le ministère public autorise une enquête sur les circonstances du décès du voyant « Sahtout »](https://lapresse.tn/2025/09/16/kairouan-le-ministere-public-autorise-une-enquete-sur-les-circonstances-du-deces-du-voyant-sahtout/)
-- [Hier la rentrée scolaire : Un mouvement d’ensemble exceptionnel](https://lapresse.tn/2025/09/16/hier-la-rentree-scolaire-un-mouvement-densemble-exceptionnel/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,7 +212,7 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
-- [Lebanon: Ensure Draft Media Law Upholds Free Expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
+- [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
