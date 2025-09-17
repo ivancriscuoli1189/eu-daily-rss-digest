@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 18:14*
+*Generato: 17 Sep 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [Vient de paraitre – « Cinq nuits à Varsovie » de Hatem Bourial : Entre déambulations et rêveries](https://lapresse.tn/2025/09/17/vient-de-paraitre-cinq-nuits-a-varsovie-de-hatem-bourial-entre-deambulations-et-reveries/)
-- [Dans nos salles : Des sorties 100% tunisiennes](https://lapresse.tn/2025/09/17/dans-nos-salles-des-sorties-100-tunisiennes/)
-- [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
+- [“The Voice Of Hind Rajab » film d’ouverture du Festival du film de Doha](https://lapresse.tn/2025/09/17/the-voice-of-hind-rajab-film-douverture-du-festival-du-film-de-doha/)
+- [Kef: à cause des coupures incessantes de la SONEDE, la crise de la soif se poursuit](https://lapresse.tn/2025/09/17/kef-a-cause-des-coupures-incessantes-de-la-sonede-la-crise-de-la-soif-se-poursuit/)
+- [OMS: Dépendance croissante de l’Europe aux médecins et infirmiers formés à l’étranger](https://lapresse.tn/2025/09/17/oms-dependance-croissante-de-leurope-aux-medecins-et-infirmiers-formes-a-letranger/)
+- [Des parlementaires proposent des mesures urgentes pour sauver la prochaine récolte oléicole](https://lapresse.tn/2025/09/17/des-parlementaires-proposent-des-mesures-urgentes-pour-saiver-la-prochaine-recolte-oleicole/)
+- [Météo: ciel clair et dégagé dans la soirée](https://lapresse.tn/2025/09/17/meteo-ciel-clair-et-degage-dans-la-soiree/)
 - [Opération coup de poing contre les « Habbata » : des intermédiaires du commerce informel visés par des mandats de dépôt](https://lapresse.tn/2025/09/17/operation-coup-de-poing-contre-les-habbata-des-intermediaires-du-commerce-informel-vises-par-des-mandats-de-depot/)
-- [Création de la brigade municipale par le chef de l’État : Prévention et responsabilisation](https://lapresse.tn/2025/09/17/creation-de-la-brigade-municipale-par-le-chef-de-letat-prevention-et-responsabilisation/)
-- [Ministre de l’Intérieur: « La Tunisie est confrontée directement à la menace cybernétique »](https://lapresse.tn/2025/09/17/ministre-de-linterieur-la-tunisie-est-confrontee-directement-a-la-menace-cybernetique/)
+- [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
 - [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
 - [Rentrée de la formation – Session de septembre 2025 : Sous le signe de la restructuration](https://lapresse.tn/2025/09/17/rentree-de-la-formation-session-de-septembre-2025-sous-le-signe-de-la-restructuration/)
-- [Gafsa : Entre pistaches et dattes : un paysage agricole diversifié](https://lapresse.tn/2025/09/17/gafsa-entre-pistaches-et-dattes-un-paysage-agricole-diversifie/)
 
 ## NGOs – Amnesty International – Tunisia
 
