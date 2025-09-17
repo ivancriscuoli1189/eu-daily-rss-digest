@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 13:21*
+*Generato: 17 Sep 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
@@ -91,7 +92,6 @@
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
 - [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
 - [CBAM: Parliament adopts simplifications to the EU carbon leakage instrument](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30181/cbam-parliament-adopts-simplifications-to-the-eu-carbon-leakage-instrument)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30126/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une solidité financière qui se confirme](https://lapresse.tn/2025/09/16/une-solidite-financiere-qui-se-confirme/)
-- [Kalaâ El Kbira : un jeune homme hospitalisé suite à une piqûre de moustique](https://lapresse.tn/2025/09/17/kalaa-el-kbira-un-jeune-homme-hospitalise-suite-a-une-piqure-de-moustique/)
-- [Ligue 1 – championnat national (6e journée) – CA : Des changements enfin ?](https://lapresse.tn/2025/09/17/ligue-1-championnat-national-6e-journee-ca-des-changements-enfin/)
-- [Kasserine : lancement d’un projet pilote pour gérer l’eau de ruissellement](https://lapresse.tn/2025/09/17/kasserine-lancement-dun-projet-pilote-pour-gerer-leau-de-ruissellement/)
+- [La Tunisie ambitionne de devenir une nouvelle place financière à l’échelle arabe](https://lapresse.tn/2025/09/17/la-tunisie-ambitionne-de-devenir-une-nouvelle-place-financiere-arabe/)
+- [Détournement partiel de la circulation près du Centre de traumatologie et des grands brûlés de Ben Arous](https://lapresse.tn/2025/09/17/detournement-partiel-de-la-circulation-pres-du-centre-de-traumatologie-et-des-grands-brules-de-ben-arous/)
+- [Marwa Bouzayani 4ᵉ du 3000 m steeple et record national à Tokyo](https://lapresse.tn/2025/09/17/marwa-bouzayani-4%e1%b5%89-du-3000-m-steeple-et-record-national-a-tokyo/)
+- [Météo : ciel dégagé et légère baisse des températures](https://lapresse.tn/2025/09/17/meteo-ciel-degage-et-legere-baisse-des-temperatures/)
 - [The 2025 Media Cooperation Forum on Belt and Road à Kunming : Quand les médias deviennent des ponts entre les civilisations](https://lapresse.tn/2025/09/17/the-2025-media-cooperation-forum-on-belt-and-road-a-kunming-quand-les-medias-deviennent-des-ponts-entre-les-civilisations/)
 - [La Flottille de la Liberté mondiale en route vers Gaza : plus de 50 navires en mission humanitaire](https://lapresse.tn/2025/09/16/la-flottille-de-la-liberte-mondiale-en-route-vers-gaza-plus-de-50-navires-en-mission-humanitaire/)
-- [Le ministre de la Santé visite l’hôpital intelligent Samsung à Séoul](https://lapresse.tn/2025/09/16/le-ministre-de-la-sante-visite-lhopital-intelligent-samsung-a-seoul/)
+- [Kalaâ El Kbira : un jeune homme hospitalisé suite à une piqûre de moustique](https://lapresse.tn/2025/09/17/kalaa-el-kbira-un-jeune-homme-hospitalise-suite-a-une-piqure-de-moustique/)
+- [Kasserine : lancement d’un projet pilote pour gérer l’eau de ruissellement](https://lapresse.tn/2025/09/17/kasserine-lancement-dun-projet-pilote-pour-gerer-leau-de-ruissellement/)
 - [L’IA désormais capable de détecter les signes précoces de la dépression](https://lapresse.tn/2025/09/17/lia-desormais-capable-de-detecter-les-signes-precoces-de-la-depression/)
-- [Faculté de médecine de Tunis : une nouvelle spécialité médicale voit le jour](https://lapresse.tn/2025/09/17/faculte-de-medecine-de-tunis-une-nouvelle-specialite-medicale-voit-le-jour/)
-- [Taux de change bancaire : recul du dinar face à l’euro](https://lapresse.tn/2025/09/17/taux-de-change-bancaire-recul-du-dinar-face-a-leuro/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 - [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
-- [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
 - [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
-- [Joint Statement on Afghanistan: HRC must urgently establish an independent international accountability mechanism](https://www.icj.org/joint-statement-on-afghanistan-hrc-must-urgently-establish-an-independent-international-accountability-mechanism/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
 - [Le Mali, le Burkina Faso et le Niger préparent leur retrait de la CPI](https://www.jeuneafrique.com/1722355/politique/le-mali-le-burkina-faso-et-le-niger-preparent-leur-retrait-de-la-cpi/)
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
 - [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
@@ -271,12 +272,12 @@
 - [Au Tchad, les députés en faveur d’un septennat renouvelable sans limite](https://www.jeuneafrique.com/1722076/politique/au-tchad-les-deputes-en-faveur-dun-septennat-renouvelable-sans-limite/)
 - [Présidentielle en Côte d’Ivoire : ce que prépare Gbagbo avec les autres exclus du scrutin](https://www.jeuneafrique.com/1721537/politique/presidentielle-en-cote-divoire-ce-que-prepare-gbagbo-avec-les-autres-exclus-du-scrutin/)
 - [Présidentielle au Cameroun : entre Tchiroma Bakary et Bouba Maïgari, une coalition impossible](https://www.jeuneafrique.com/1718283/politique/presidentielle-au-cameroun-entre-tchiroma-bakary-et-bouba-maigari-une-coalition-impossible/)
-- [RDC : comment Vital Kamerhe a, jusqu’au bout, tenté de sauver sa tête](https://www.jeuneafrique.com/1722036/politique/rdc-comment-vital-kamerhe-a-jusquau-bout-tente-de-sauver-sa-tete/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
 - [L’Afrique francophone, nouvelle terre de conquête de Zenith Bank](https://www.jeuneafrique.com/1722090/economie-entreprises/lafrique-francophone-nouvelle-terre-de-conquete-de-zenith-bank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
 - [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
@@ -286,4 +287,3 @@
 - [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
 - [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
 - [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
-- [Lago Ciad, Boko Haram, Iswap e la grande città di Lagos](https://www.limesonline.com/rubriche/mappe-parlanti/lago-ciad-boko-haram-iswap-e-la-grande-citta-di-lagos-19284332/)
