@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 09:12*
+*Generato: 18 Sep 2025, 11:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [Agriculture : développement de nouvelle variétés de semence](https://lapresse.tn/2025/09/18/agriculture-developpement-de-nouvelle-varietes-de-semence/)
-- [Pérou : découverte d’un fossile de dauphin vieux de 12 millions d’années](https://lapresse.tn/2025/09/18/perou-decouverte-dun-fossile-de-dauphin-vieux-de-12-millions-dannees/)
+- [L’Espérance de Zarzis détrônée](https://lapresse.tn/2025/09/18/lesperance-de-zarzis-detronee/)
+- [Logements sociaux : le ministre de l’Habitat appelle à l’accélération des appels d’offres](https://lapresse.tn/2025/09/18/logements-sociaux-le-ministre-de-lhabitat-appelle-a-lacceleration-des-appels-doffres/)
+- [Le Royaume-Uni prêt à reconnaître la Palestine ce week-end](https://lapresse.tn/2025/09/18/le-royaume-uni-pret-a-reconnaitre-la-palestine-ce-week-end/)
 - [Météo : Jeudi sous un ciel partiellement voilé, mer agitée et chaleur persistante au Sud !](https://lapresse.tn/2025/09/18/meteo-jeudi-sous-un-ciel-partiellement-voile-mer-agitee-et-chaleur-persistante-au-sud/)
 - [Kef: à cause des coupures incessantes de la SONEDE, la crise de la soif se poursuit](https://lapresse.tn/2025/09/17/kef-a-cause-des-coupures-incessantes-de-la-sonede-la-crise-de-la-soif-se-poursuit/)
 - [Des parlementaires proposent des mesures urgentes pour sauver la prochaine récolte oléicole](https://lapresse.tn/2025/09/17/des-parlementaires-proposent-des-mesures-urgentes-pour-saiver-la-prochaine-recolte-oleicole/)
-- [Météo: ciel clair et dégagé dans la soirée](https://lapresse.tn/2025/09/17/meteo-ciel-clair-et-degage-dans-la-soiree/)
+- [La Tunisie accueillera le premier congrès arabe de chirurgie thoracique](https://lapresse.tn/2025/09/18/la-tunisie-accueillera-le-premier-congres-arabe-de-chirurgie-thoracique/)
 - [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
 - [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
-- [Rentrée de la formation – Session de septembre 2025 : Sous le signe de la restructuration](https://lapresse.tn/2025/09/17/rentree-de-la-formation-session-de-septembre-2025-sous-le-signe-de-la-restructuration/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
 - [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
+- [Référendum en Guinée : comment Mamadi Doumbouya s’assure le soutien de la Haute-Guinée](https://www.jeuneafrique.com/1722253/politique/referendum-en-guinee-comment-mamadi-doumbouya-sassure-le-soutien-de-la-haute-guinee/)
+- [Togo : pourquoi l’ex-ministre des Armées, Marguerite Gnakadè, a été arrêtée](https://www.jeuneafrique.com/1722589/politique/togo-pourquoi-lex-ministre-des-armees-marguerite-gnakade-a-ete-arretee/)
 - [Centrafrique-Bénin : l’activiste Mbaikassi dans le viseur de Faustin-Archange Touadéra](https://www.jeuneafrique.com/1722554/politique/centrafrique-benin-lactiviste-mbaikassi-dans-le-viseur-de-faustin-archange-touadera/)
 - [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
 - [Présidentielle en Côte d’Ivoire : des lobbyistes américains aux côtés de Tidjane Thiam](https://www.jeuneafrique.com/1722248/politique/presidentielle-en-cote-divoire-des-lobbyistes-americains-aux-cotes-de-tidjane-thiam/)
 - [Casablanca 1965 : un premier sommet marocain mouvementé pour la Ligue arabe](https://www.jeuneafrique.com/1721714/politique/casablanca-1965-un-premier-sommet-marocain-mouvemente-pour-la-ligue-arabe/)
-- [Au Mali, quand le chaos sécuritaire nourrit le grand banditisme](https://www.jeuneafrique.com/1721954/politique/au-mali-quand-le-chaos-securitaire-nourrit-le-grand-banditisme/)
-- [Présidentielle au Cameroun : le RDPC de Paul Biya à la reconquête de la diaspora](https://www.jeuneafrique.com/1722067/politique/presidentielle-au-cameroun-le-rdpc-de-paul-biya-a-la-reconquete-de-la-diaspora/)
-- [L’âge d’or des centres d’appels et de l’automobile au Maroc est-il derrière nous ?](https://www.jeuneafrique.com/1722401/economie-entreprises/lage-dor-de-lautomobile-et-de-loutsourcing-au-maroc-est-il-derriere-nous/)
-- [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
+- [Taxes sur le mobile money au Sénégal : les opérateurs sauront-ils convaincre Sonko ?](https://www.jeuneafrique.com/1722573/economie-entreprises/taxes-sur-le-mobile-money-au-senegal-les-operateurs-sauront-ils-convaincre-sonko/)
+- [Nigeria : Bayo Ojulari, de Shell à la NNPC, un parcours déjà compromis ?](https://www.jeuneafrique.com/1721828/economie-entreprises/nigeria-bayo-ojulari-de-shell-a-la-nnpc-un-parcours-deja-compromis/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
