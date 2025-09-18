@@ -1,19 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 13:21*
-
-## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
-
-- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
-- [La Farnesina](https://www.esteri.it/it/ministero/)
-- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
-- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
-- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
-- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
-- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
-- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
-- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
+*Generato: 18 Sep 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -121,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -225,6 +212,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
 - [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
@@ -234,7 +222,6 @@
 - [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
 - [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
 - [A call on Europe to help prevent large-scale war between Iran and the United States](https://ecfr.eu/article/a-call-on-europe-to-help-prevent-large-scale-war-between-iran-and-the-united-states/)
-- [Enough is enough: Europe needs to oppose Israel’s aggression](https://ecfr.eu/article/enough-is-enough-europe-needs-to-oppose-israels-aggression/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,12 +253,12 @@
 
 - [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
 - [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
+- [Islamophobie : en France, deux musulmans sur trois victimes de racisme](https://www.jeuneafrique.com/1722360/politique/islamophobie-en-france-deux-musulmans-sur-trois-victimes-de-racisme/)
 - [Référendum en Guinée : comment Mamadi Doumbouya s’assure le soutien de la Haute-Guinée](https://www.jeuneafrique.com/1722253/politique/referendum-en-guinee-comment-mamadi-doumbouya-sassure-le-soutien-de-la-haute-guinee/)
 - [Togo : pourquoi l’ex-ministre des Armées, Marguerite Gnakadè, a été arrêtée](https://www.jeuneafrique.com/1722589/politique/togo-pourquoi-lex-ministre-des-armees-marguerite-gnakade-a-ete-arretee/)
 - [Centrafrique-Bénin : l’activiste Mbaikassi dans le viseur de Faustin-Archange Touadéra](https://www.jeuneafrique.com/1722554/politique/centrafrique-benin-lactiviste-mbaikassi-dans-le-viseur-de-faustin-archange-touadera/)
 - [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
 - [Présidentielle en Côte d’Ivoire : des lobbyistes américains aux côtés de Tidjane Thiam](https://www.jeuneafrique.com/1722248/politique/presidentielle-en-cote-divoire-des-lobbyistes-americains-aux-cotes-de-tidjane-thiam/)
-- [Casablanca 1965 : un premier sommet marocain mouvementé pour la Ligue arabe](https://www.jeuneafrique.com/1721714/politique/casablanca-1965-un-premier-sommet-marocain-mouvemente-pour-la-ligue-arabe/)
 - [Taxes sur le mobile money au Sénégal : les opérateurs sauront-ils convaincre Sonko ?](https://www.jeuneafrique.com/1722573/economie-entreprises/taxes-sur-le-mobile-money-au-senegal-les-operateurs-sauront-ils-convaincre-sonko/)
 - [Nigeria : Bayo Ojulari, de Shell à la NNPC, un parcours déjà compromis ?](https://www.jeuneafrique.com/1721828/economie-entreprises/nigeria-bayo-ojulari-de-shell-a-la-nnpc-un-parcours-deja-compromis/)
 
