@@ -1,6 +1,19 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 06:15*
+*Generato: 18 Sep 2025, 09:12*
+
+## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
+
+- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
+- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
+- [La Farnesina](https://www.esteri.it/it/ministero/)
+- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
+- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
+- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
+- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
+- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
+- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
+- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -108,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -161,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [“The Voice Of Hind Rajab » film d’ouverture du Festival du film de Doha](https://lapresse.tn/2025/09/17/the-voice-of-hind-rajab-film-douverture-du-festival-du-film-de-doha/)
+- [Agriculture : développement de nouvelle variétés de semence](https://lapresse.tn/2025/09/18/agriculture-developpement-de-nouvelle-varietes-de-semence/)
+- [Pérou : découverte d’un fossile de dauphin vieux de 12 millions d’années](https://lapresse.tn/2025/09/18/perou-decouverte-dun-fossile-de-dauphin-vieux-de-12-millions-dannees/)
+- [Météo : Jeudi sous un ciel partiellement voilé, mer agitée et chaleur persistante au Sud !](https://lapresse.tn/2025/09/18/meteo-jeudi-sous-un-ciel-partiellement-voile-mer-agitee-et-chaleur-persistante-au-sud/)
 - [Kef: à cause des coupures incessantes de la SONEDE, la crise de la soif se poursuit](https://lapresse.tn/2025/09/17/kef-a-cause-des-coupures-incessantes-de-la-sonede-la-crise-de-la-soif-se-poursuit/)
-- [OMS: Dépendance croissante de l’Europe aux médecins et infirmiers formés à l’étranger](https://lapresse.tn/2025/09/17/oms-dependance-croissante-de-leurope-aux-medecins-et-infirmiers-formes-a-letranger/)
 - [Des parlementaires proposent des mesures urgentes pour sauver la prochaine récolte oléicole](https://lapresse.tn/2025/09/17/des-parlementaires-proposent-des-mesures-urgentes-pour-saiver-la-prochaine-recolte-oleicole/)
 - [Météo: ciel clair et dégagé dans la soirée](https://lapresse.tn/2025/09/17/meteo-ciel-clair-et-degage-dans-la-soiree/)
-- [Opération coup de poing contre les « Habbata » : des intermédiaires du commerce informel visés par des mandats de dépôt](https://lapresse.tn/2025/09/17/operation-coup-de-poing-contre-les-habbata-des-intermediaires-du-commerce-informel-vises-par-des-mandats-de-depot/)
 - [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
 - [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
 - [Rentrée de la formation – Session de septembre 2025 : Sous le signe de la restructuration](https://lapresse.tn/2025/09/17/rentree-de-la-formation-session-de-septembre-2025-sous-le-signe-de-la-restructuration/)
@@ -251,15 +264,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
+- [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
 - [Centrafrique-Bénin : l’activiste Mbaikassi dans le viseur de Faustin-Archange Touadéra](https://www.jeuneafrique.com/1722554/politique/centrafrique-benin-lactiviste-mbaikassi-dans-le-viseur-de-faustin-archange-touadera/)
 - [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
+- [Présidentielle en Côte d’Ivoire : des lobbyistes américains aux côtés de Tidjane Thiam](https://www.jeuneafrique.com/1722248/politique/presidentielle-en-cote-divoire-des-lobbyistes-americains-aux-cotes-de-tidjane-thiam/)
 - [Casablanca 1965 : un premier sommet marocain mouvementé pour la Ligue arabe](https://www.jeuneafrique.com/1721714/politique/casablanca-1965-un-premier-sommet-marocain-mouvemente-pour-la-ligue-arabe/)
 - [Au Mali, quand le chaos sécuritaire nourrit le grand banditisme](https://www.jeuneafrique.com/1721954/politique/au-mali-quand-le-chaos-securitaire-nourrit-le-grand-banditisme/)
 - [Présidentielle au Cameroun : le RDPC de Paul Biya à la reconquête de la diaspora](https://www.jeuneafrique.com/1722067/politique/presidentielle-au-cameroun-le-rdpc-de-paul-biya-a-la-reconquete-de-la-diaspora/)
-- [Le Mali, le Burkina Faso et le Niger préparent leur retrait de la CPI](https://www.jeuneafrique.com/1722355/politique/le-mali-le-burkina-faso-et-le-niger-preparent-leur-retrait-de-la-cpi/)
-- [« Dans l’est de la RDC, les sanctions ne sont pas la recette miracle », selon Maxime Prévot, ministre belge des Affaires étrangères](https://www.jeuneafrique.com/1721435/politique/dans-lest-de-la-rdc-les-sanctions-ne-sont-pas-la-recette-miracle-selon-maxime-prevot-ministre-belge-des-affaires-etrangeres/)
-- [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
-- [L’âge d’or de l’automobile et de l’outsourcing au Maroc est-il derrière nous ?](https://www.jeuneafrique.com/1722401/economie-entreprises/lage-dor-de-lautomobile-et-de-loutsourcing-au-maroc-est-il-derriere-nous/)
+- [L’âge d’or des centres d’appels et de l’automobile au Maroc est-il derrière nous ?](https://www.jeuneafrique.com/1722401/economie-entreprises/lage-dor-de-lautomobile-et-de-loutsourcing-au-maroc-est-il-derriere-nous/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
