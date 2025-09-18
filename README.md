@@ -1,6 +1,19 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 18:14*
+*Generato: 18 Sep 2025, 21:03*
+
+## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
+
+- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
+- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
+- [La Farnesina](https://www.esteri.it/it/ministero/)
+- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
+- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
+- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
+- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
+- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
+- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
+- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -108,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -161,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
+- [Saisie de cinq tonnes de farine dans une boulangerie non conforme à Ariana](https://lapresse.tn/2025/09/18/saisie-de-farine-et-de-semoule-une-boulangerie-de-lariana-dans-lillegalite/)
+- [Ben Arous: la construction du pont au niveau de Oued Meliane sera achevée d’ici la fin de l’année](https://lapresse.tn/2025/09/18/ben-arous-la-construction-du-pont-au-niveau-de-oued-meliane-sera-achevee-dici-la-fin-de-lannee/)
+- [Accidents du travail et maladies professionnelles : une nouvelle loi en faveur des travailleurs](https://lapresse.tn/2025/09/18/accidents-du-travail-et-maladies-professionnelles-une-nouvelle-loi-en-faveur-des-travailleurs/)
+- [Fathi Ben Khlifa: « l’instauration d’un climat de confiance est indispensable pour la réussite de la saison oléicole » »](https://lapresse.tn/2025/09/18/fathi-ben-khlifa-linstauration-dun-climat-de-confiance-est-indispensable-pour-la-reussite-de-la-saison-oleicole/)
 - [Tunisie-Bulgarie: un premier vol direct arrive à l’aéroport Enfidha-Hammamet](https://lapresse.tn/2025/09/18/tunisie-bulgarie-un-premier-vol-direct-arrive-a-laeroport-enfidha-hammamet/)
-- [Prix des jeunes artistes 2025 – 90’s Reloaded : Un thème très « Cool, Raoul »](https://lapresse.tn/2025/09/18/prix-des-jeunes-artistes-2025-90s-reloaded-un-theme-tres-cool-raoul/)
-- [Météo: cette nuit, ciel partiellement nuageux et des températures comprises entre 22 et 28 degrés](https://lapresse.tn/2025/09/18/meteo-cette-nuit-ciel-partiellement-nuageux-et-des-temperatures-comprises-entre-22-et-28-degres/)
-- [Les travaux de l’entrée sud de Tunis seront achevés au milieu de l’année 2026](https://lapresse.tn/2025/09/18/les-travaux-de-lentree-sud-de-tunis-seront-acheves-au-milieu-de-lannee-2026/)
-- [Le droit à l’éducation étant un droit constitutionnel : Saïed exige des conditions sûres et dignes pour tous](https://lapresse.tn/2025/09/18/le-droit-a-leducation-etant-un-droit-constitutionnel-saied-exige-des-conditions-sures-et-dignes-pour-tous/)
-- [Ecologie : Des défis environnementaux aux opportunités de développement durable](https://lapresse.tn/2025/09/18/ecologie-des-defis-environnementaux-aux-opportunites-de-developpement-durable/)
-- [OTIC – premier bilan de la campagne nationale en faveur du pouvoir d’achat du citoyen : La traque bat son plein](https://lapresse.tn/2025/09/18/otic-premier-bilan-de-la-campagne-nationale-en-faveur-du-pouvoir-dachat-du-citoyen-la-traque-bat-son-plein/)
-- [Santé : Gafsa s’offre un nouvel hôpital après des décennies d’attente](https://lapresse.tn/2025/09/18/sante-gafsa-soffre-un-nouvel-hopital-apres-des-decennies-dattente/)
-- [Pourquoi : La Cnam encore et toujours…](https://lapresse.tn/2025/09/18/pourquoi-la-cnam-encore-et-toujours/)
+- [Zaghouan et Kairouan: vers la valorisation du patrimoine culinaire traditionnel](https://lapresse.tn/2025/09/18/zaghouan-et-kairouan-vers-la-valorisation-du-patrimoine-culinaire-traditionnel/)
+- [Produits artisanaux : lancement prochain d’un label national](https://lapresse.tn/2025/09/18/produits-artisanaux-lancement-prochain-dun-label-national/)
+- [La BH BANK renouvelle ses interventions sociales en partenariat avec l’Union Tunisienne de Solidarité Sociale](https://lapresse.tn/2025/09/18/la-bh-bank-renouvelle-ses-interventions-sociales-en-partenariat-avec-lunion-tunisienne-de-solidarite-sociale-2/)
+- [Express](https://lapresse.tn/2025/09/18/express-264/)
 
 ## NGOs – Amnesty International – Tunisia
 
