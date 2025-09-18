@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 11:05*
+*Generato: 18 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [L’Espérance de Zarzis détrônée](https://lapresse.tn/2025/09/18/lesperance-de-zarzis-detronee/)
-- [Logements sociaux : le ministre de l’Habitat appelle à l’accélération des appels d’offres](https://lapresse.tn/2025/09/18/logements-sociaux-le-ministre-de-lhabitat-appelle-a-lacceleration-des-appels-doffres/)
-- [Le Royaume-Uni prêt à reconnaître la Palestine ce week-end](https://lapresse.tn/2025/09/18/le-royaume-uni-pret-a-reconnaitre-la-palestine-ce-week-end/)
+- [Mandat de dépôt pour le Président de l’Avenir Sportif de Kasserine](https://lapresse.tn/2025/09/18/mandat-de-depot-pour-le-president-de-lavenir-sportif-de-kasserine/)
+- [Gafsa : saisie de produits alimentaires périmés à proximité d’une école](https://lapresse.tn/2025/09/18/gafsa-saisie-de-produits-alimentaires-perimes-a-proximite-dune-ecole/)
+- [Balance commerciale alimentaire : un excédent de 683,2 MD fin août 2025](https://lapresse.tn/2025/09/18/balance-commerciale-alimentaire-un-excedent-de-6832-md-fin-aout-2025/)
+- [Le ministre de la Défense s’entretient avec le prince héritier du Koweït](https://lapresse.tn/2025/09/18/le-ministre-de-la-defense-sentretient-avec-le-prince-heritier-du-koweit/)
 - [Météo : Jeudi sous un ciel partiellement voilé, mer agitée et chaleur persistante au Sud !](https://lapresse.tn/2025/09/18/meteo-jeudi-sous-un-ciel-partiellement-voile-mer-agitee-et-chaleur-persistante-au-sud/)
 - [Kef: à cause des coupures incessantes de la SONEDE, la crise de la soif se poursuit](https://lapresse.tn/2025/09/17/kef-a-cause-des-coupures-incessantes-de-la-sonede-la-crise-de-la-soif-se-poursuit/)
-- [Des parlementaires proposent des mesures urgentes pour sauver la prochaine récolte oléicole](https://lapresse.tn/2025/09/17/des-parlementaires-proposent-des-mesures-urgentes-pour-saiver-la-prochaine-recolte-oleicole/)
 - [La Tunisie accueillera le premier congrès arabe de chirurgie thoracique](https://lapresse.tn/2025/09/18/la-tunisie-accueillera-le-premier-congres-arabe-de-chirurgie-thoracique/)
 - [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
 - [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
