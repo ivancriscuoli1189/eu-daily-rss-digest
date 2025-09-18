@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 12:17*
+*Generato: 18 Sep 2025, 13:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [Mandat de dépôt pour le Président de l’Avenir Sportif de Kasserine](https://lapresse.tn/2025/09/18/mandat-de-depot-pour-le-president-de-lavenir-sportif-de-kasserine/)
-- [Gafsa : saisie de produits alimentaires périmés à proximité d’une école](https://lapresse.tn/2025/09/18/gafsa-saisie-de-produits-alimentaires-perimes-a-proximite-dune-ecole/)
-- [Balance commerciale alimentaire : un excédent de 683,2 MD fin août 2025](https://lapresse.tn/2025/09/18/balance-commerciale-alimentaire-un-excedent-de-6832-md-fin-aout-2025/)
+- [El Hamma : un homme frappe son ex-femme de plusieurs coups de couteau](https://lapresse.tn/2025/09/18/el-hamma-un-homme-frappe-son-ex-femme-de-plusieurs-coups-de-couteau/)
+- [Tunisie : le boom du tourisme pourrait créer 30 000 emplois d’ici 2030](https://lapresse.tn/2025/09/18/tunisie-le-boom-du-tourisme-pourrait-creer-30-000-emplois-dici-2030/)
+- [Tunisair s’apprête à lancer une nouvelle stratégie commerciale](https://lapresse.tn/2025/09/18/tunisair-sapprete-a-lancer-une-nouvelle-strategie-commerciale/)
+- [Les autorités libyennes réfutent la fermeture du passage de Ras Jdir](https://lapresse.tn/2025/09/18/les-autorites-libyennes-refutent-la-fermeture-du-passage-de-ras-jdir/)
 - [Le ministre de la Défense s’entretient avec le prince héritier du Koweït](https://lapresse.tn/2025/09/18/le-ministre-de-la-defense-sentretient-avec-le-prince-heritier-du-koweit/)
-- [Météo : Jeudi sous un ciel partiellement voilé, mer agitée et chaleur persistante au Sud !](https://lapresse.tn/2025/09/18/meteo-jeudi-sous-un-ciel-partiellement-voile-mer-agitee-et-chaleur-persistante-au-sud/)
-- [Kef: à cause des coupures incessantes de la SONEDE, la crise de la soif se poursuit](https://lapresse.tn/2025/09/17/kef-a-cause-des-coupures-incessantes-de-la-sonede-la-crise-de-la-soif-se-poursuit/)
+- [Commission du pélerinage et de la Omra : examen des préparatifs pour la saison du Hadj 1447 de l’hégire](https://lapresse.tn/2025/09/18/commission-du-pelerinage-et-de-la-omra-examen-des-preparatifs-pour-la-saison-du-hadj-1447-de-lhegire/)
+- [L’Institut Pasteur mise sur la qualité de ses laboratoires de diagnostic biologique](https://lapresse.tn/2025/09/18/linstitut-pasteur-mise-sur-la-qualite-de-ses-laboratoires-de-diagnostic-biologique/)
+- [Gafsa : saisie de produits alimentaires périmés à proximité d’une école](https://lapresse.tn/2025/09/18/gafsa-saisie-de-produits-alimentaires-perimes-a-proximite-dune-ecole/)
 - [La Tunisie accueillera le premier congrès arabe de chirurgie thoracique](https://lapresse.tn/2025/09/18/la-tunisie-accueillera-le-premier-congres-arabe-de-chirurgie-thoracique/)
-- [Bou Argoub: la récolte de figues de barbarie chute de 40% à cause de la cochenille](https://lapresse.tn/2025/09/17/bou-argoub-la-recolte-de-figues-de-barbarie-chute-de-40-a-cause-de-la-cochenille/)
-- [Port de la Goulette: saisie de 15 plaques de cannabis](https://lapresse.tn/2025/09/17/port-de-la-goulette-saisie-de-15-plaques-de-cannabis/)
 
 ## NGOs – Amnesty International – Tunisia
 
