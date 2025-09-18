@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 15:11*
+*Generato: 18 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -160,16 +160,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La vitesse supérieure](https://lapresse.tn/2025/09/17/la-vitesse-superieure/)
-- [El Hamma : un homme frappe son ex-femme de plusieurs coups de couteau](https://lapresse.tn/2025/09/18/el-hamma-un-homme-frappe-son-ex-femme-de-plusieurs-coups-de-couteau/)
-- [Tunisie : le boom du tourisme pourrait créer 30 000 emplois d’ici 2030](https://lapresse.tn/2025/09/18/tunisie-le-boom-du-tourisme-pourrait-creer-30-000-emplois-dici-2030/)
-- [Tunisair s’apprête à lancer une nouvelle stratégie commerciale](https://lapresse.tn/2025/09/18/tunisair-sapprete-a-lancer-une-nouvelle-strategie-commerciale/)
-- [Les autorités libyennes réfutent la fermeture du passage de Ras Jdir](https://lapresse.tn/2025/09/18/les-autorites-libyennes-refutent-la-fermeture-du-passage-de-ras-jdir/)
-- [Le ministre de la Défense s’entretient avec le prince héritier du Koweït](https://lapresse.tn/2025/09/18/le-ministre-de-la-defense-sentretient-avec-le-prince-heritier-du-koweit/)
-- [Commission du pélerinage et de la Omra : examen des préparatifs pour la saison du Hadj 1447 de l’hégire](https://lapresse.tn/2025/09/18/commission-du-pelerinage-et-de-la-omra-examen-des-preparatifs-pour-la-saison-du-hadj-1447-de-lhegire/)
-- [L’Institut Pasteur mise sur la qualité de ses laboratoires de diagnostic biologique](https://lapresse.tn/2025/09/18/linstitut-pasteur-mise-sur-la-qualite-de-ses-laboratoires-de-diagnostic-biologique/)
-- [Gafsa : saisie de produits alimentaires périmés à proximité d’une école](https://lapresse.tn/2025/09/18/gafsa-saisie-de-produits-alimentaires-perimes-a-proximite-dune-ecole/)
-- [La Tunisie accueillera le premier congrès arabe de chirurgie thoracique](https://lapresse.tn/2025/09/18/la-tunisie-accueillera-le-premier-congres-arabe-de-chirurgie-thoracique/)
+- [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
+- [Tunisie-Bulgarie: un premier vol direct arrive à l’aéroport Enfidha-Hammamet](https://lapresse.tn/2025/09/18/tunisie-bulgarie-un-premier-vol-direct-arrive-a-laeroport-enfidha-hammamet/)
+- [Prix des jeunes artistes 2025 – 90’s Reloaded : Un thème très « Cool, Raoul »](https://lapresse.tn/2025/09/18/prix-des-jeunes-artistes-2025-90s-reloaded-un-theme-tres-cool-raoul/)
+- [Météo: cette nuit, ciel partiellement nuageux et des températures comprises entre 22 et 28 degrés](https://lapresse.tn/2025/09/18/meteo-cette-nuit-ciel-partiellement-nuageux-et-des-temperatures-comprises-entre-22-et-28-degres/)
+- [Les travaux de l’entrée sud de Tunis seront achevés au milieu de l’année 2026](https://lapresse.tn/2025/09/18/les-travaux-de-lentree-sud-de-tunis-seront-acheves-au-milieu-de-lannee-2026/)
+- [Le droit à l’éducation étant un droit constitutionnel : Saïed exige des conditions sûres et dignes pour tous](https://lapresse.tn/2025/09/18/le-droit-a-leducation-etant-un-droit-constitutionnel-saied-exige-des-conditions-sures-et-dignes-pour-tous/)
+- [Ecologie : Des défis environnementaux aux opportunités de développement durable](https://lapresse.tn/2025/09/18/ecologie-des-defis-environnementaux-aux-opportunites-de-developpement-durable/)
+- [OTIC – premier bilan de la campagne nationale en faveur du pouvoir d’achat du citoyen : La traque bat son plein](https://lapresse.tn/2025/09/18/otic-premier-bilan-de-la-campagne-nationale-en-faveur-du-pouvoir-dachat-du-citoyen-la-traque-bat-son-plein/)
+- [Santé : Gafsa s’offre un nouvel hôpital après des décennies d’attente](https://lapresse.tn/2025/09/18/sante-gafsa-soffre-un-nouvel-hopital-apres-des-decennies-dattente/)
+- [Pourquoi : La Cnam encore et toujours…](https://lapresse.tn/2025/09/18/pourquoi-la-cnam-encore-et-toujours/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [87e prix Albert Londres : Matteo Maillard, journaliste de « Jeune Afrique », parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
+- [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
+- [En Algérie, l’ancien ministre Hassan Haddam et les 60 milliards de la CNAS devant les juges](https://www.jeuneafrique.com/1722685/politique/en-algerie-lancien-ministre-hassan-haddam-et-les-60-milliards-de-la-cnas-devant-les-juges/)
 - [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
 - [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
+- [Est de la RDC : pour Thomas Lubanga, retour à la case maquis](https://www.jeuneafrique.com/1720765/politique/est-de-la-rdc-pour-thomas-lubanga-retour-a-la-case-maquis/)
 - [Islamophobie : en France, deux musulmans sur trois victimes de racisme](https://www.jeuneafrique.com/1722360/politique/islamophobie-en-france-deux-musulmans-sur-trois-victimes-de-racisme/)
 - [Référendum en Guinée : comment Mamadi Doumbouya s’assure le soutien de la Haute-Guinée](https://www.jeuneafrique.com/1722253/politique/referendum-en-guinee-comment-mamadi-doumbouya-sassure-le-soutien-de-la-haute-guinee/)
-- [Togo : pourquoi l’ex-ministre des Armées, Marguerite Gnakadè, a été arrêtée](https://www.jeuneafrique.com/1722589/politique/togo-pourquoi-lex-ministre-des-armees-marguerite-gnakade-a-ete-arretee/)
-- [Centrafrique-Bénin : l’activiste Mbaikassi dans le viseur de Faustin-Archange Touadéra](https://www.jeuneafrique.com/1722554/politique/centrafrique-benin-lactiviste-mbaikassi-dans-le-viseur-de-faustin-archange-touadera/)
-- [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
-- [Présidentielle en Côte d’Ivoire : des lobbyistes américains aux côtés de Tidjane Thiam](https://www.jeuneafrique.com/1722248/politique/presidentielle-en-cote-divoire-des-lobbyistes-americains-aux-cotes-de-tidjane-thiam/)
+- [Pourquoi le Cameroun a si mal à ses routes](https://www.jeuneafrique.com/1722607/economie-entreprises/pourquoi-le-cameroun-a-si-mal-a-ses-routes/)
 - [Taxes sur le mobile money au Sénégal : les opérateurs sauront-ils convaincre Sonko ?](https://www.jeuneafrique.com/1722573/economie-entreprises/taxes-sur-le-mobile-money-au-senegal-les-operateurs-sauront-ils-convaincre-sonko/)
-- [Nigeria : Bayo Ojulari, de Shell à la NNPC, un parcours déjà compromis ?](https://www.jeuneafrique.com/1721828/economie-entreprises/nigeria-bayo-ojulari-de-shell-a-la-nnpc-un-parcours-deja-compromis/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
