@@ -1,19 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Sep 2025, 21:02*
-
-## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
-
-- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
-- [La Farnesina](https://www.esteri.it/it/ministero/)
-- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
-- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
-- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
-- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
-- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
-- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
-- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
+*Generato: 18 Sep 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -212,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
-- [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 - [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 - [Asia Pacific Region: human rights defenders consider how to address new UN Cybercrime Convention](https://www.icj.org/asia-pacific-region-human-rights-defenders-consider-how-to-address-new-un-cybercrime-convention/)
-- [HRC60 Joint Statement: Enhanced interactive dialogue on the High Commissioner’s report and Independent Investigative Mechanism for Myanmar](https://www.icj.org/hrc60-joint-statement-enhanced-interactive-dialogue-on-the-high-commissioners-report-and-independent-investigative-mechanism-for-myanmar/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +251,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Centrafrique-Bénin : l’activiste Mbaikassi dans le viseur de Faustin-Archange Touadéra](https://www.jeuneafrique.com/1722554/politique/centrafrique-benin-lactiviste-mbaikassi-dans-le-viseur-de-faustin-archange-touadera/)
 - [Boualem Sansal ne veut pas être nominé au prix Sakharov par l’extrême droite](https://www.jeuneafrique.com/1722474/politique/boualem-sansal-ne-veut-pas-etre-nomine-au-prix-sakharov-par-lextreme-droite/)
 - [Casablanca 1965 : un premier sommet marocain mouvementé pour la Ligue arabe](https://www.jeuneafrique.com/1721714/politique/casablanca-1965-un-premier-sommet-marocain-mouvemente-pour-la-ligue-arabe/)
+- [Au Mali, quand le chaos sécuritaire nourrit le grand banditisme](https://www.jeuneafrique.com/1721954/politique/au-mali-quand-le-chaos-securitaire-nourrit-le-grand-banditisme/)
 - [Présidentielle au Cameroun : le RDPC de Paul Biya à la reconquête de la diaspora](https://www.jeuneafrique.com/1722067/politique/presidentielle-au-cameroun-le-rdpc-de-paul-biya-a-la-reconquete-de-la-diaspora/)
 - [Le Mali, le Burkina Faso et le Niger préparent leur retrait de la CPI](https://www.jeuneafrique.com/1722355/politique/le-mali-le-burkina-faso-et-le-niger-preparent-leur-retrait-de-la-cpi/)
 - [« Dans l’est de la RDC, les sanctions ne sont pas la recette miracle », selon Maxime Prévot, ministre belge des Affaires étrangères](https://www.jeuneafrique.com/1721435/politique/dans-lest-de-la-rdc-les-sanctions-ne-sont-pas-la-recette-miracle-selon-maxime-prevot-ministre-belge-des-affaires-etrangeres/)
 - [Référendum constitutionnel en Guinée : Cellou Dalein Diallo préfère un boycott à un « non »](https://www.jeuneafrique.com/1722208/politique/referendum-constitutionnel-en-guinee-cellou-dalein-diallo-prefere-un-boycott-a-un-non/)
-- [Au Maroc, cinq questions pour comprendre la crise de succession au sein de la confrérie Boutchichiya](https://www.jeuneafrique.com/1721011/politique/au-maroc-cinq-questions-pour-comprendre-la-crise-de-succession-de-la-confrerie-boutchichiya/)
-- [Assemblée générale de l’ONU : pourquoi Alassane Ouattara annule in extremis sa venue](https://www.jeuneafrique.com/1722133/politique/assemblee-generale-de-lonu-pourquoi-alassane-ouattara-annule-in-extremis-sa-venue/)
 - [L’âge d’or de l’automobile et de l’outsourcing au Maroc est-il derrière nous ?](https://www.jeuneafrique.com/1722401/economie-entreprises/lage-dor-de-lautomobile-et-de-loutsourcing-au-maroc-est-il-derriere-nous/)
 - [En discussion avec Rubis, Trafigura tente un coup de maître dans le carburant africain](https://www.jeuneafrique.com/1722363/economie-entreprises/en-discussion-avec-rubis-trafigura-tente-un-coup-de-maitre-dans-le-carburant-africain/)
 
