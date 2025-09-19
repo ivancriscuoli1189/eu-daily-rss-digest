@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Sep 2025, 21:03*
+*Generato: 19 Sep 2025, 06:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
-- [Saisie de cinq tonnes de farine dans une boulangerie non conforme à Ariana](https://lapresse.tn/2025/09/18/saisie-de-farine-et-de-semoule-une-boulangerie-de-lariana-dans-lillegalite/)
+- [Saïed préside la réunion du Conseil des ministres pour examiner plusieurs projets de lois et décrets](https://lapresse.tn/2025/09/19/saied-preside-la-reunion-du-conseil-des-ministres-pour-examiner-plusieurs-projets-de-lois-et-decrets/)
+- [Météo : Soleil et mer calme](https://lapresse.tn/2025/09/19/meteo-soleil-et-mer-calme/)
+- [La compagnie bulgare Electra Airways inaugure deux nouvelles lignes vers Enfidha](https://lapresse.tn/2025/09/19/la-compagnie-bulgare-electra-airways-inaugure-deux-nouvelles-lignes-vers-enfidha/)
 - [Ben Arous: la construction du pont au niveau de Oued Meliane sera achevée d’ici la fin de l’année](https://lapresse.tn/2025/09/18/ben-arous-la-construction-du-pont-au-niveau-de-oued-meliane-sera-achevee-dici-la-fin-de-lannee/)
 - [Accidents du travail et maladies professionnelles : une nouvelle loi en faveur des travailleurs](https://lapresse.tn/2025/09/18/accidents-du-travail-et-maladies-professionnelles-une-nouvelle-loi-en-faveur-des-travailleurs/)
-- [Fathi Ben Khlifa: « l’instauration d’un climat de confiance est indispensable pour la réussite de la saison oléicole » »](https://lapresse.tn/2025/09/18/fathi-ben-khlifa-linstauration-dun-climat-de-confiance-est-indispensable-pour-la-reussite-de-la-saison-oleicole/)
-- [Tunisie-Bulgarie: un premier vol direct arrive à l’aéroport Enfidha-Hammamet](https://lapresse.tn/2025/09/18/tunisie-bulgarie-un-premier-vol-direct-arrive-a-laeroport-enfidha-hammamet/)
+- [Saisie de cinq tonnes de farine dans une boulangerie non conforme à Ariana](https://lapresse.tn/2025/09/18/saisie-de-farine-et-de-semoule-une-boulangerie-de-lariana-dans-lillegalite/)
 - [Zaghouan et Kairouan: vers la valorisation du patrimoine culinaire traditionnel](https://lapresse.tn/2025/09/18/zaghouan-et-kairouan-vers-la-valorisation-du-patrimoine-culinaire-traditionnel/)
 - [Produits artisanaux : lancement prochain d’un label national](https://lapresse.tn/2025/09/18/produits-artisanaux-lancement-prochain-dun-label-national/)
 - [La BH BANK renouvelle ses interventions sociales en partenariat avec l’Union Tunisienne de Solidarité Sociale](https://lapresse.tn/2025/09/18/la-bh-bank-renouvelle-ses-interventions-sociales-en-partenariat-avec-lunion-tunisienne-de-solidarite-sociale-2/)
-- [Express](https://lapresse.tn/2025/09/18/express-264/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
 - [87e prix Albert Londres : Matteo Maillard, journaliste de « Jeune Afrique », parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
+- [10 choses à savoir sur Adjoua Henriette Lagou, candidate à la présidentielle ivoirienne](https://www.jeuneafrique.com/1722681/politique/10-choses-a-savoir-sur-henriette-lagou-adjoua-candidate-a-la-presidentielle-ivoirienne/)
 - [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
 - [En Algérie, l’ancien ministre Hassan Haddam et les 60 milliards de la CNAS devant les juges](https://www.jeuneafrique.com/1722685/politique/en-algerie-lancien-ministre-hassan-haddam-et-les-60-milliards-de-la-cnas-devant-les-juges/)
 - [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
 - [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
 - [Est de la RDC : pour Thomas Lubanga, retour à la case maquis](https://www.jeuneafrique.com/1720765/politique/est-de-la-rdc-pour-thomas-lubanga-retour-a-la-case-maquis/)
-- [Islamophobie : en France, deux musulmans sur trois victimes de racisme](https://www.jeuneafrique.com/1722360/politique/islamophobie-en-france-deux-musulmans-sur-trois-victimes-de-racisme/)
-- [Référendum en Guinée : comment Mamadi Doumbouya s’assure le soutien de la Haute-Guinée](https://www.jeuneafrique.com/1722253/politique/referendum-en-guinee-comment-mamadi-doumbouya-sassure-le-soutien-de-la-haute-guinee/)
+- [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 - [Pourquoi le Cameroun a si mal à ses routes](https://www.jeuneafrique.com/1722607/economie-entreprises/pourquoi-le-cameroun-a-si-mal-a-ses-routes/)
-- [Taxes sur le mobile money au Sénégal : les opérateurs sauront-ils convaincre Sonko ?](https://www.jeuneafrique.com/1722573/economie-entreprises/taxes-sur-le-mobile-money-au-senegal-les-operateurs-sauront-ils-convaincre-sonko/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
