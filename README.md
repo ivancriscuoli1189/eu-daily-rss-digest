@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 15:11*
+*Generato: 19 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
-- [La Tunisie repousse l’Invasion de criquets pèlerins, mais la Vigilance reste de mise](https://lapresse.tn/2025/09/19/la-tunisie-repousse-linvasion-de-criquets-pelerins-mais-la-vigilance-reste-de-mise/)
-- [Zarzis Clôture sa Saison Estivale Maritime](https://lapresse.tn/2025/09/19/zarzis-cloture-sa-saison-estivale-maritime/)
-- [Sousse au cœur de l’innovation médicale : un nouveau centre d’oxygénothérapie hyperbare](https://lapresse.tn/2025/09/19/sousse-au-coeur-de-linnovation-medicale-un-nouveau-centre-doxygenotherapie-hyperbare/)
-- [Défense : lancement d’un concours pour le recrutement de 7 ingénieurs principaux spécialisés en informatique](https://lapresse.tn/2025/09/19/defense-lancement-dun-concours-pour-le-recrutement-de-7-ingenieurs-principaux-specialises-en-informatique/)
-- [Affaire de corruption : Taieb Rached et Najib Ismail resteront derrière les barreaux](https://lapresse.tn/2025/09/19/affaire-de-corruption-taieb-rached-et-najib-ismail-resteront-derriere-les-barreaux/)
-- [Tunisie : arrestation de 19 criminels dangereux à Zahrouni](https://lapresse.tn/2025/09/19/tunisie-arrestation-de-19-criminels-dangereux-a-zahrouni/)
-- [Un Nouveau Cap pour la Santé Tunisienne : L’Hôpital Mongi Slim Innove avec la Médecine Traditionnelle Chinoise](https://lapresse.tn/2025/09/19/un-nouveau-cap-pour-la-sante-tunisienne-lhopital-mongi-slim-innove-avec-la-medecine-traditionnelle-chinoise/)
-- [Céréales : Bientôt des trains pour acheminer les récoltes](https://lapresse.tn/2025/09/19/cereales-bientot-des-trains-pour-acheminer-les-recoltes/)
-- [Registre national des entreprises : arrêt temporaire des services ce week-end](https://lapresse.tn/2025/09/19/registre-national-des-entreprises-arret-temporaire-des-services-ce-week-end/)
+- [Les députés prêts à retourner à l’hémicycle](https://lapresse.tn/2025/09/19/les-deputes-prets-a-retourner-a-lhemicycle/)
+- [Centre national des arts de la marionnette : Une nouvelle saison se prépare](https://lapresse.tn/2025/09/19/centre-national-des-arts-de-la-marionnette-une-nouvelle-saison-se-prepare/)
+- [Donations à la bibliothèque nationale : Les livres des grands font patrimoine](https://lapresse.tn/2025/09/19/donations-a-la-bibliotheque-nationale-les-livres-des-grands-font-patrimoine/)
+- [Croissance, inflation, dette publique… L’économie tunisienne est sur la voie du redressement](https://lapresse.tn/2025/09/19/croissance-inflation-dette-publique-leconomie-tunisienne-est-sur-la-voie-du-redressement/)
+- [Principe immuable du projet du Président Kaïs Saïed : Le volet social appelé à régir toute l’action socioéconomique de la Tunisie](https://lapresse.tn/2025/09/19/principe-immuable-du-projet-du-president-kais-saied-le-volet-social-appele-a-regir-toute-laction-socioeconomique-de-la-tunisie/)
+- [Saison céréalière 2024-2025 : Une collecte qui dépasse la moyenne des cinq dernières années](https://lapresse.tn/2025/09/19/saison-cerealiere-2024-2025-une-collecte-qui-depasse-la-moyenne-des-cinq-dernieres-annees/)
+- [Économie tunisienne : Des signaux positifs au terme des 8 premiers mois de 2025](https://lapresse.tn/2025/09/19/economie-tunisienne-des-signaux-positifs-au-terme-des-8-premiers-mois-de-2025/)
+- [Bouhajla : des enseignants contraints de faire cours aux élèves dans la cour d’une école](https://lapresse.tn/2025/09/19/bouhajla-des-enseignants-contraints-de-faire-cours-aux-eleves-dans-la-cour-dune-ecole/)
+- [Revendications des TAXIMEN : Le prix de départ bientôt à 2 dinars](https://lapresse.tn/2025/09/19/revendications-des-taximen-le-prix-de-depart-bientot-a-2-dinars/)
+- [Sousse : Lancement de quatre projets écologiques, premiers du genre en Afrique](https://lapresse.tn/2025/09/19/sousse-lancement-de-quatre-projets-ecologiques-premiers-du-genre-en-afrique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
-- [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 - [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
-- [Serbia: Political leaders must cease interference with the judiciary](https://www.icj.org/serbia-political-leaders-must-cease-interference-with-the-judiciary/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dix-huit militants du parti de Gbagbo libérés en Côte d’Ivoire](https://www.jeuneafrique.com/1723358/politique/dix-huit-militants-du-parti-de-gbagbo-liberes-en-cote-divoire/)
 - [Au Cameroun, Brenda Biya ne votera pas pour son père, Paul Biya](https://www.jeuneafrique.com/1723149/politique/au-cameroun-brenda-biya-ne-votera-pas-pour-son-pere-paul-biya/)
-- [Présidentielle au Bénin : Romuald Wadagni, un dauphin dans le grand bain](https://www.jeuneafrique.com/1722497/politique/benin-pourquoi-patrice-talon-a-choisi-romuald-wadagni-le-plus-politique-des-financiers/)
+- [Expulsés par les États-Unis, des migrants ouest-africains portent plainte contre le Ghana](https://www.jeuneafrique.com/1723120/politique/expulses-par-les-etats-unis-des-migrants-ouest-africains-portent-plainte-contre-le-ghana/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
 - [Décès par césarienne, cafards dans les blocs : à Agadir, les failles de l’hôpital public secouent l’ensemble du système de santé marocain](https://www.jeuneafrique.com/1722699/politique/deces-par-cesarienne-cafards-dans-les-blocs-a-agadir-les-failles-de-lhopital-public-secouent-lensemble-du-systeme-de-sante-marocain/)
+- [Présidentielle au Cameroun : les notes secrètes adressées à Paul Biya par les services de renseignements](https://www.jeuneafrique.com/1722224/politique/presidentielle-au-cameroun-les-notes-secretes-adressees-a-paul-biya-par-les-services-de-renseignement/)
 - [Présidentielle au Cameroun – Issa Tchiroma Bakary : « Si j’avais volé quoi que ce soit, cela se serait su »](https://www.jeuneafrique.com/1722819/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-si-javais-vole-quoi-que-ce-soit-cela-se-serait-su/)
 - [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
-- [Barthélémy Dias n’est plus maire de Dakar, confirme la Cour suprême du Sénégal](https://www.jeuneafrique.com/1722874/politique/barthelemy-dias-nest-plus-maire-de-dakar-confirme-la-cour-supreme-du-senegal/)
-- [Félix Tshisekedi en Afrique du Sud pour un tête-à-tête avec Cyril Ramaphosa](https://www.jeuneafrique.com/1722798/politique/felix-tshisekedi-en-afrique-du-sud-pour-un-tete-a-tete-avec-cyril-ramaphosa/)
 - [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
 - [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 
