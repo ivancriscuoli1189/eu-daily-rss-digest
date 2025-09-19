@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 18:13*
+*Generato: 19 Sep 2025, 21:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les députés prêts à retourner à l’hémicycle](https://lapresse.tn/2025/09/19/les-deputes-prets-a-retourner-a-lhemicycle/)
-- [Centre national des arts de la marionnette : Une nouvelle saison se prépare](https://lapresse.tn/2025/09/19/centre-national-des-arts-de-la-marionnette-une-nouvelle-saison-se-prepare/)
-- [Donations à la bibliothèque nationale : Les livres des grands font patrimoine](https://lapresse.tn/2025/09/19/donations-a-la-bibliotheque-nationale-les-livres-des-grands-font-patrimoine/)
-- [Croissance, inflation, dette publique… L’économie tunisienne est sur la voie du redressement](https://lapresse.tn/2025/09/19/croissance-inflation-dette-publique-leconomie-tunisienne-est-sur-la-voie-du-redressement/)
+- [Sidi Bou Saïd : 6 mois de prison pour un individu avec une arme factice](https://lapresse.tn/2025/09/19/sidi-bou-said-6-mois-de-prison-pour-un-individu-avec-une-arme-factice/)
+- [Tourisme à Tozeur : un festival international de montgolfières en préparation](https://lapresse.tn/2025/09/19/tourisme-a-touzer-un-festival-international-de-montgolfieres-en-preparation/)
+- [Fermeture inattendue d’une usine textile à Zaghouan : des dizaines d’employés au chômage](https://lapresse.tn/2025/09/19/fermeture-inattendue-dune-usine-textile-a-zaghouan-des-dizaines-demployes-au-chomage/)
+- [La grenade de Testour : une récolte prometteuse malgré un léger repli](https://lapresse.tn/2025/09/19/la-grenade-de-testour-une-recolte-prometteuse-malgre-un-leger-repli/)
+- [Transport aérien international: l’IATA s’engage à soutenir les compagnies tunisiennes](https://lapresse.tn/2025/09/19/transport-aerien-international-liata-sengage-a-soutenir-les-compagnies-tunisiennes/)
 - [Principe immuable du projet du Président Kaïs Saïed : Le volet social appelé à régir toute l’action socioéconomique de la Tunisie](https://lapresse.tn/2025/09/19/principe-immuable-du-projet-du-president-kais-saied-le-volet-social-appele-a-regir-toute-laction-socioeconomique-de-la-tunisie/)
-- [Saison céréalière 2024-2025 : Une collecte qui dépasse la moyenne des cinq dernières années](https://lapresse.tn/2025/09/19/saison-cerealiere-2024-2025-une-collecte-qui-depasse-la-moyenne-des-cinq-dernieres-annees/)
-- [Économie tunisienne : Des signaux positifs au terme des 8 premiers mois de 2025](https://lapresse.tn/2025/09/19/economie-tunisienne-des-signaux-positifs-au-terme-des-8-premiers-mois-de-2025/)
-- [Bouhajla : des enseignants contraints de faire cours aux élèves dans la cour d’une école](https://lapresse.tn/2025/09/19/bouhajla-des-enseignants-contraints-de-faire-cours-aux-eleves-dans-la-cour-dune-ecole/)
-- [Revendications des TAXIMEN : Le prix de départ bientôt à 2 dinars](https://lapresse.tn/2025/09/19/revendications-des-taximen-le-prix-de-depart-bientot-a-2-dinars/)
-- [Sousse : Lancement de quatre projets écologiques, premiers du genre en Afrique](https://lapresse.tn/2025/09/19/sousse-lancement-de-quatre-projets-ecologiques-premiers-du-genre-en-afrique/)
+- [Bizerte: découverte d’un atelier clandestin de fabrication de « salami »](https://lapresse.tn/2025/09/19/bizerte-decouverte-dun-atelier-clandestin-de-fabrication-de-salami/)
+- [Croissance, inflation, dette publique… L’économie tunisienne est sur la voie du redressement](https://lapresse.tn/2025/09/19/croissance-inflation-dette-publique-leconomie-tunisienne-est-sur-la-voie-du-redressement/)
+- [Global Innovation Index 2025 : La Tunisie fait un bond et intègre le top 80 mondial](https://lapresse.tn/2025/09/19/global-innovation-index-2025-la-tunisie-fait-un-bond-et-integre-le-top-80-mondial/)
 
 ## NGOs – Amnesty International – Tunisia
 
