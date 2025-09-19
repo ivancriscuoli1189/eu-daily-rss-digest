@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 13:22*
+*Generato: 19 Sep 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
-- [Céréales : Bientôt des trains pour acheminer les récoltes](https://lapresse.tn/2025/09/19/cereales-bientot-des-trains-pour-acheminer-les-recoltes/)
-- [Registre national des entreprises : arrêt temporaire des services ce week-end](https://lapresse.tn/2025/09/19/registre-national-des-entreprises-arret-temporaire-des-services-ce-week-end/)
-- [Dimanche, campagne de vaccination gratuite pour les chats et les chiens à Ezzahra et Ben Arous](https://lapresse.tn/2025/09/19/dimanche-campagne-de-vaccination-gratuite-pour-les-chats-et-les-chiens-a-ezzahra-et-ben-arous/)
+- [La Tunisie repousse l’Invasion de criquets pèlerins, mais la Vigilance reste de mise](https://lapresse.tn/2025/09/19/la-tunisie-repousse-linvasion-de-criquets-pelerins-mais-la-vigilance-reste-de-mise/)
+- [Zarzis Clôture sa Saison Estivale Maritime](https://lapresse.tn/2025/09/19/zarzis-cloture-sa-saison-estivale-maritime/)
+- [Sousse au cœur de l’innovation médicale : un nouveau centre d’oxygénothérapie hyperbare](https://lapresse.tn/2025/09/19/sousse-au-coeur-de-linnovation-medicale-un-nouveau-centre-doxygenotherapie-hyperbare/)
+- [Défense : lancement d’un concours pour le recrutement de 7 ingénieurs principaux spécialisés en informatique](https://lapresse.tn/2025/09/19/defense-lancement-dun-concours-pour-le-recrutement-de-7-ingenieurs-principaux-specialises-en-informatique/)
 - [Affaire de corruption : Taieb Rached et Najib Ismail resteront derrière les barreaux](https://lapresse.tn/2025/09/19/affaire-de-corruption-taieb-rached-et-najib-ismail-resteront-derriere-les-barreaux/)
 - [Tunisie : arrestation de 19 criminels dangereux à Zahrouni](https://lapresse.tn/2025/09/19/tunisie-arrestation-de-19-criminels-dangereux-a-zahrouni/)
-- [Saïed préside la réunion du Conseil des ministres pour examiner plusieurs projets de lois et décrets](https://lapresse.tn/2025/09/19/saied-preside-la-reunion-du-conseil-des-ministres-pour-examiner-plusieurs-projets-de-lois-et-decrets/)
-- [Hôpital de Zaghouan : première opération complexe du cervelet réussie](https://lapresse.tn/2025/09/19/hopital-de-zaghouan-premiere-operation-complexe-du-cervelet-reussie/)
-- [Bouargoub: la cochenille du cactus se propage dans les fermes des habitants](https://lapresse.tn/2025/09/19/bouargoub-la-cochenille-du-cactus-se-propage-dans-les-fermes-des-habitants/)
-- [Ben Arous : cette nuit, déviation partielle de la circulation au niveau de l’hôpital des grands brûlés](https://lapresse.tn/2025/09/19/ben-arous-cette-nuit-deviation-partielle-de-la-circulation-au-niveau-de-lhopital-des-grands-brules/)
+- [Un Nouveau Cap pour la Santé Tunisienne : L’Hôpital Mongi Slim Innove avec la Médecine Traditionnelle Chinoise](https://lapresse.tn/2025/09/19/un-nouveau-cap-pour-la-sante-tunisienne-lhopital-mongi-slim-innove-avec-la-medecine-traditionnelle-chinoise/)
+- [Céréales : Bientôt des trains pour acheminer les récoltes](https://lapresse.tn/2025/09/19/cereales-bientot-des-trains-pour-acheminer-les-recoltes/)
+- [Registre national des entreprises : arrêt temporaire des services ce week-end](https://lapresse.tn/2025/09/19/registre-national-des-entreprises-arret-temporaire-des-services-ce-week-end/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, Brenda Biya ne votera pas pour son père, Paul Biya](https://www.jeuneafrique.com/1723149/politique/au-cameroun-brenda-biya-ne-votera-pas-pour-son-pere-paul-biya/)
+- [Présidentielle au Bénin : Romuald Wadagni, un dauphin dans le grand bain](https://www.jeuneafrique.com/1722497/politique/benin-pourquoi-patrice-talon-a-choisi-romuald-wadagni-le-plus-politique-des-financiers/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
+- [Décès par césarienne, cafards dans les blocs : à Agadir, les failles de l’hôpital public secouent l’ensemble du système de santé marocain](https://www.jeuneafrique.com/1722699/politique/deces-par-cesarienne-cafards-dans-les-blocs-a-agadir-les-failles-de-lhopital-public-secouent-lensemble-du-systeme-de-sante-marocain/)
 - [Présidentielle au Cameroun – Issa Tchiroma Bakary : « Si j’avais volé quoi que ce soit, cela se serait su »](https://www.jeuneafrique.com/1722819/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-si-javais-vole-quoi-que-ce-soit-cela-se-serait-su/)
 - [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
 - [Barthélémy Dias n’est plus maire de Dakar, confirme la Cour suprême du Sénégal](https://www.jeuneafrique.com/1722874/politique/barthelemy-dias-nest-plus-maire-de-dakar-confirme-la-cour-supreme-du-senegal/)
 - [Félix Tshisekedi en Afrique du Sud pour un tête-à-tête avec Cyril Ramaphosa](https://www.jeuneafrique.com/1722798/politique/felix-tshisekedi-en-afrique-du-sud-pour-un-tete-a-tete-avec-cyril-ramaphosa/)
-- [87e prix Albert Londres : Matteo Maillard, journaliste de Jeune Afrique, parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
-- [10 choses à savoir sur Adjoua Henriette Lagou, candidate à la présidentielle ivoirienne](https://www.jeuneafrique.com/1722681/politique/10-choses-a-savoir-sur-henriette-lagou-adjoua-candidate-a-la-presidentielle-ivoirienne/)
-- [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
 - [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
 - [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 
