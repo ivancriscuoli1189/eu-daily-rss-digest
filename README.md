@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 11:04*
+*Generato: 19 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
-- [BNA Assurances présente sa première communication financière après son introduction en Bourse](https://lapresse.tn/2025/09/19/bna-assurances-presente-sa-premiere-communication-financiere-apres-son-introduction-en-bourse/)
-- [Le CAB enchaîne un deuxième succès contre : l’ASG Trois points précieux !](https://lapresse.tn/2025/09/19/le-cab-enchaine-un-deuxieme-succes-contre-lasg-trois-points-precieux/)
-- [Bouargoub: la cochenille du cactus se propage dans les fermes des habitants](https://lapresse.tn/2025/09/19/bouargoub-la-cochenille-du-cactus-se-propage-dans-les-fermes-des-habitants/)
+- [Céréales : Bientôt des trains pour acheminer les récoltes](https://lapresse.tn/2025/09/19/cereales-bientot-des-trains-pour-acheminer-les-recoltes/)
+- [Registre national des entreprises : arrêt temporaire des services ce week-end](https://lapresse.tn/2025/09/19/registre-national-des-entreprises-arret-temporaire-des-services-ce-week-end/)
+- [Dimanche, campagne de vaccination gratuite pour les chats et les chiens à Ezzahra et Ben Arous](https://lapresse.tn/2025/09/19/dimanche-campagne-de-vaccination-gratuite-pour-les-chats-et-les-chiens-a-ezzahra-et-ben-arous/)
 - [Affaire de corruption : Taieb Rached et Najib Ismail resteront derrière les barreaux](https://lapresse.tn/2025/09/19/affaire-de-corruption-taieb-rached-et-najib-ismail-resteront-derriere-les-barreaux/)
 - [Tunisie : arrestation de 19 criminels dangereux à Zahrouni](https://lapresse.tn/2025/09/19/tunisie-arrestation-de-19-criminels-dangereux-a-zahrouni/)
 - [Saïed préside la réunion du Conseil des ministres pour examiner plusieurs projets de lois et décrets](https://lapresse.tn/2025/09/19/saied-preside-la-reunion-du-conseil-des-ministres-pour-examiner-plusieurs-projets-de-lois-et-decrets/)
+- [Hôpital de Zaghouan : première opération complexe du cervelet réussie](https://lapresse.tn/2025/09/19/hopital-de-zaghouan-premiere-operation-complexe-du-cervelet-reussie/)
+- [Bouargoub: la cochenille du cactus se propage dans les fermes des habitants](https://lapresse.tn/2025/09/19/bouargoub-la-cochenille-du-cactus-se-propage-dans-les-fermes-des-habitants/)
 - [Ben Arous : cette nuit, déviation partielle de la circulation au niveau de l’hôpital des grands brûlés](https://lapresse.tn/2025/09/19/ben-arous-cette-nuit-deviation-partielle-de-la-circulation-au-niveau-de-lhopital-des-grands-brules/)
-- [Sidi Bouzid : Les habitants d’El Hichria réclament l’accélération de la construction d’une rocade](https://lapresse.tn/2025/09/19/sidi-bouzid-les-habitants-del-hichria-reclament-lacceleration-de-la-construction-dune-rocade/)
-- [Vente de stupéfiants en milieu scolaire : un dealer condamné à neuf ans de prison](https://lapresse.tn/2025/09/19/vente-de-stupefiants-en-milieu-scolaire-un-dealer-condamne-a-neuf-ans-de-prison/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
 - [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
+- [Barthélémy Dias n’est plus maire de Dakar, confirme la Cour suprême du Sénégal](https://www.jeuneafrique.com/1722874/politique/barthelemy-dias-nest-plus-maire-de-dakar-confirme-la-cour-supreme-du-senegal/)
 - [Félix Tshisekedi en Afrique du Sud pour un tête-à-tête avec Cyril Ramaphosa](https://www.jeuneafrique.com/1722798/politique/felix-tshisekedi-en-afrique-du-sud-pour-un-tete-a-tete-avec-cyril-ramaphosa/)
 - [87e prix Albert Londres : Matteo Maillard, journaliste de Jeune Afrique, parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
 - [10 choses à savoir sur Adjoua Henriette Lagou, candidate à la présidentielle ivoirienne](https://www.jeuneafrique.com/1722681/politique/10-choses-a-savoir-sur-henriette-lagou-adjoua-candidate-a-la-presidentielle-ivoirienne/)
 - [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
 - [En Algérie, l’ancien ministre Hassan Haddam et les 60 milliards de la CNAS devant les juges](https://www.jeuneafrique.com/1722685/politique/en-algerie-lancien-ministre-hassan-haddam-et-les-60-milliards-de-la-cnas-devant-les-juges/)
-- [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
+- [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
 - [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
-- [Comment le Qatar succombe à son tour à l’appel des mines africaines](https://www.jeuneafrique.com/1722575/economie-entreprises/comment-le-qatar-succombe-a-son-tour-a-lappel-des-mines-africaines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
