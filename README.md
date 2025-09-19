@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 12:17*
+*Generato: 19 Sep 2025, 13:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
+- [Présidentielle au Cameroun – Issa Tchiroma Bakary : « Si j’avais volé quoi que ce soit, cela se serait su »](https://www.jeuneafrique.com/1722819/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-si-javais-vole-quoi-que-ce-soit-cela-se-serait-su/)
 - [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
 - [Barthélémy Dias n’est plus maire de Dakar, confirme la Cour suprême du Sénégal](https://www.jeuneafrique.com/1722874/politique/barthelemy-dias-nest-plus-maire-de-dakar-confirme-la-cour-supreme-du-senegal/)
 - [Félix Tshisekedi en Afrique du Sud pour un tête-à-tête avec Cyril Ramaphosa](https://www.jeuneafrique.com/1722798/politique/felix-tshisekedi-en-afrique-du-sud-pour-un-tete-a-tete-avec-cyril-ramaphosa/)
 - [87e prix Albert Londres : Matteo Maillard, journaliste de Jeune Afrique, parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
 - [10 choses à savoir sur Adjoua Henriette Lagou, candidate à la présidentielle ivoirienne](https://www.jeuneafrique.com/1722681/politique/10-choses-a-savoir-sur-henriette-lagou-adjoua-candidate-a-la-presidentielle-ivoirienne/)
 - [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
-- [En Algérie, l’ancien ministre Hassan Haddam et les 60 milliards de la CNAS devant les juges](https://www.jeuneafrique.com/1722685/politique/en-algerie-lancien-ministre-hassan-haddam-et-les-60-milliards-de-la-cnas-devant-les-juges/)
 - [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
 - [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 
