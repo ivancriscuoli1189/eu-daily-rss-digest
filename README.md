@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 06:19*
+*Generato: 19 Sep 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La transition numérique, un levier essentiel pour une administration efficace](https://lapresse.tn/2025/09/18/la-transition-numerique-un-levier-essentiel-pour-une-administration-efficace/)
+- [Transavia ouvre une liaison directe Montpellier–Djerba dès avril 2026](https://lapresse.tn/2025/09/19/transavia-ouvre-une-liaison-directe-montpellier-djerba-des-avril-2026/)
+- [La BH BANK renouvelle ses interventions sociales en partenariat avec l’Union Tunisienne de Solidarité Sociale](https://lapresse.tn/2025/09/19/la-bh-bank-renouvelle-ses-interventions-sociales-en-partenariat-avec-lunion-tunisienne-de-solidarite-sociale-2/)
+- [Tunisair : le ministre des Transports accorde 15 jours pour améliorer les services de la compagnie](https://lapresse.tn/2025/09/19/tunisair-le-ministre-des-transports-accorde-15-jours-pour-ameliorer-les-services-de-la-compagnie/)
+- [Tunisie : arrestation de 19 criminels dangereux à Zahrouni](https://lapresse.tn/2025/09/19/tunisie-arrestation-de-19-criminels-dangereux-a-zahrouni/)
 - [Saïed préside la réunion du Conseil des ministres pour examiner plusieurs projets de lois et décrets](https://lapresse.tn/2025/09/19/saied-preside-la-reunion-du-conseil-des-ministres-pour-examiner-plusieurs-projets-de-lois-et-decrets/)
 - [Météo : Soleil et mer calme](https://lapresse.tn/2025/09/19/meteo-soleil-et-mer-calme/)
-- [La compagnie bulgare Electra Airways inaugure deux nouvelles lignes vers Enfidha](https://lapresse.tn/2025/09/19/la-compagnie-bulgare-electra-airways-inaugure-deux-nouvelles-lignes-vers-enfidha/)
-- [Ben Arous: la construction du pont au niveau de Oued Meliane sera achevée d’ici la fin de l’année](https://lapresse.tn/2025/09/18/ben-arous-la-construction-du-pont-au-niveau-de-oued-meliane-sera-achevee-dici-la-fin-de-lannee/)
-- [Accidents du travail et maladies professionnelles : une nouvelle loi en faveur des travailleurs](https://lapresse.tn/2025/09/18/accidents-du-travail-et-maladies-professionnelles-une-nouvelle-loi-en-faveur-des-travailleurs/)
-- [Saisie de cinq tonnes de farine dans une boulangerie non conforme à Ariana](https://lapresse.tn/2025/09/18/saisie-de-farine-et-de-semoule-une-boulangerie-de-lariana-dans-lillegalite/)
-- [Zaghouan et Kairouan: vers la valorisation du patrimoine culinaire traditionnel](https://lapresse.tn/2025/09/18/zaghouan-et-kairouan-vers-la-valorisation-du-patrimoine-culinaire-traditionnel/)
-- [Produits artisanaux : lancement prochain d’un label national](https://lapresse.tn/2025/09/18/produits-artisanaux-lancement-prochain-dun-label-national/)
-- [La BH BANK renouvelle ses interventions sociales en partenariat avec l’Union Tunisienne de Solidarité Sociale](https://lapresse.tn/2025/09/18/la-bh-bank-renouvelle-ses-interventions-sociales-en-partenariat-avec-lunion-tunisienne-de-solidarite-sociale-2/)
+- [Tunisie : El Fouladh lance un concours pour recruter 60 agents](https://lapresse.tn/2025/09/19/tunisie-el-fouladh-lance-un-concours-pour-recruter-60-agents/)
+- [Suppression des ralentisseurs illégaux autour des écoles à Sousse](https://lapresse.tn/2025/09/19/suppression-des-ralentisseurs-illegaux-autour-des-ecoles-a-sousse/)
+- [Tunisie : mobilisation anticipée contre le risque d’inondations](https://lapresse.tn/2025/09/19/tunisie-mobilisation-anticipee-contre-le-risque-dinondations/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
 - [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
+- [Félix Tshisekedi en Afrique du Sud pour un tête-à-tête avec Cyril Ramaphosa](https://www.jeuneafrique.com/1722798/politique/felix-tshisekedi-en-afrique-du-sud-pour-un-tete-a-tete-avec-cyril-ramaphosa/)
 - [87e prix Albert Londres : Matteo Maillard, journaliste de « Jeune Afrique », parmi les finalistes](https://www.jeuneafrique.com/1722757/politique/87e-prix-albert-londres-matteo-maillard-journaliste-de-jeune-afrique-parmi-les-finalistes/)
 - [10 choses à savoir sur Adjoua Henriette Lagou, candidate à la présidentielle ivoirienne](https://www.jeuneafrique.com/1722681/politique/10-choses-a-savoir-sur-henriette-lagou-adjoua-candidate-a-la-presidentielle-ivoirienne/)
 - [Pascal Tsaty Mabiala : « Denis Sassou Nguesso a toutes les cartes en main, mais le Congo n’avance pas »](https://www.jeuneafrique.com/1716024/politique/pascal-tsaty-mabiala-denis-sassou-nguesso-a-toutes-les-cartes-en-main-mais-le-congo-navance-pas/)
 - [En Algérie, l’ancien ministre Hassan Haddam et les 60 milliards de la CNAS devant les juges](https://www.jeuneafrique.com/1722685/politique/en-algerie-lancien-ministre-hassan-haddam-et-les-60-milliards-de-la-cnas-devant-les-juges/)
 - [Au Burkina Faso, deux journalistes enlevés et portés disparus depuis plus d’un an ont été libérés](https://www.jeuneafrique.com/1722696/politique/au-burkina-faso-deux-journalistes-enleves-et-portes-disparus-depuis-plus-dun-an-ont-ete-liberes/)
-- [Libye : plus d’une centaine de réfugiés ont péri en mer ou sont portés disparus](https://www.jeuneafrique.com/1722689/politique/libye-plus-dune-centaine-de-refugies-ont-peri-en-mer-ou-sont-portes-disparus/)
-- [Est de la RDC : pour Thomas Lubanga, retour à la case maquis](https://www.jeuneafrique.com/1720765/politique/est-de-la-rdc-pour-thomas-lubanga-retour-a-la-case-maquis/)
 - [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 - [Pourquoi le Cameroun a si mal à ses routes](https://www.jeuneafrique.com/1722607/economie-entreprises/pourquoi-le-cameroun-a-si-mal-a-ses-routes/)
 
