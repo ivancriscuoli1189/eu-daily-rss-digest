@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 13:22*
+*Generato: 22 Sep 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,8 +272,8 @@
 - [Présidentielle au Bénin : vers un duel Patrice Talon – Thomas Boni Yayi par procuration](https://www.jeuneafrique.com/1723140/politique/presidentielle-au-benin-vers-un-duel-patrice-talon-thomas-boni-yayi-par-procuration/)
 - [Référendum en Guinée : à nouvelle Constitution nouvelle cartographie électorale](https://www.jeuneafrique.com/1721722/politique/referendum-en-guinee-a-nouvelle-constitution-nouvelle-cartographie-electorale/)
 - [Quand la réalisatrice tunisienne Kaouther Ben Hania impose le cauchemar de Gaza sur grand écran](https://www.jeuneafrique.com/1723037/politique/quand-la-realisatrice-tunisienne-kaouther-ben-hania-impose-le-cauchemar-de-gaza-sur-grand-ecran/)
+- [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 - [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
-- [Millionnaires africains : quels sont les pays qui accueillent le plus d’ultrariches ?](https://www.jeuneafrique.com/1723108/economie-entreprises/millionnaires-africains-quels-sont-les-pays-qui-accueillent-le-plus-dultrariches/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
