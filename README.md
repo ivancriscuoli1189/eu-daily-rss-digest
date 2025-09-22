@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 18:13*
+*Generato: 22 Sep 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Célébration du 40e jour de la mort de Fadhel Jaziri : Hommage à la hauteur de l’artiste](https://lapresse.tn/2025/09/22/celebration-du-40e-jour-de-la-mort-de-fadhel-jaziri-hommage-a-la-hauteur-de-lartiste/)
-- [« Faux » d’Abdelkader Ben Saïd : Le théâtre tunisien rayonne en Jordanie](https://lapresse.tn/2025/09/22/faux-dabdelkader-ben-said-le-theatre-tunisien-rayonne-en-jordanie/)
-- [Nouvelles parutions – «Tant mieux » d’Amélie Nothomb : L’enfance, la mère et l’étrange pouvoir du verbe](https://lapresse.tn/2025/09/22/nouvelles-parutions-tant-mieux-damelie-nothomb-lenfance-la-mere-et-letrange-pouvoir-du-verbe/)
+- [Ballon d’Or: Yamal remporte le Trophée Kopa du meilleur jeune joueur du monde](https://lapresse.tn/2025/09/22/ballon-dor-yamal-remporte-le-trophee-kopa-du-meilleur-jeune-joueur-du-monde/)
+- [Jeunesse et Sport: une cérémonie en l’honneur des athlètes qui se sont distingués aux championnats de Tokyo 2025](https://lapresse.tn/2025/09/22/jeunesse-et-sport-une-ceremonie-en-lhonneur-des-athletes-qui-se-sont-distingues-aux-championnats-de-tokyo-2025/)
+- [Saisie de plus de 4 mille kg de produits alimentaires impropres à la consommation](https://lapresse.tn/2025/09/22/saisie-de-plus-de-4-mille-kg-de-produits-alimentaires-impropres-a-la-consommation/)
 - [École de la 2e chance : Une expérience à pérenniser](https://lapresse.tn/2025/09/22/ecole-de-la-2e-chance-une-experience-a-perenniser/)
 - [80e session de l’Assemblée générale des Nations Unies : Saïed dépêche Nafti pour représenter la Tunisie](https://lapresse.tn/2025/09/22/80e-session-de-lassemblee-generale-des-nations-unies-saied-depeche-nafti-pour-representer-la-tunisie/)
 - [Pollution marine à Soliman : Une mer jaune et des poissons morts sèment l’inquiétude](https://lapresse.tn/2025/09/22/pollution-marine-a-soliman-une-mer-jaune-et-des-poissons-morts-sement-linquietude-2/)
-- [Gafsa-PAU : La santé au centre d’une alliance tuniso-française](https://lapresse.tn/2025/09/22/gafsa-pau-la-sante-au-centre-dune-alliance-tuniso-francaise/)
-- [Face aux dangers des animaux errants : L’urgence d’agir](https://lapresse.tn/2025/09/22/face-aux-dangers-des-animaux-errants-lurgence-dagir/)
-- [Pourquoi : Les chiens, encore les chiens](https://lapresse.tn/2025/09/22/pourquoi-les-chiens-encore-les-chiens/)
+- [Hausse des violences conjugales : le centre Najia d’Aswat Nisaa tire la sonnette d’alarme](https://lapresse.tn/2025/09/22/hausse-des-violences-conjugales-le-centre-najia-daswat-nisaa-tire-la-sonnette-dalarme/)
+- [Selon le Dr. Afef Hammami: « Il y a des signes annonciateurs de l’Alzheimer »](https://lapresse.tn/2025/09/22/selon-le-dr-afef-hammami-il-y-a-des-signes-annonciateurs-de-lalzheimer/)
+- [Intempéries-protection civile: appel à rester à l’écart des oueds et des zones inondables](https://lapresse.tn/2025/09/22/intemperies-protection-civile-appel-a-rester-a-lecart-des-oueds-et-des-zones-inondables/)
 
 ## NGOs – Amnesty International – Tunisia
 
