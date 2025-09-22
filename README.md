@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 11:04*
+*Generato: 22 Sep 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
-- [Tourisme : quelles nationalités visitent le plus Sousse ?](https://lapresse.tn/2025/09/22/tourisme-quelles-nationalites-visitent-le-plus-sousse/)
-- [Récente cyberattaque : « le chaos » règne dans la plupart des aéroports européens](https://lapresse.tn/2025/09/22/recente-cyberattaque-le-chaos-regne-dans-la-plupart-des-aeroports-europeens/)
-- [Ligue des champions – 1er tour préliminaire (aller) : Le scénario parfait !](https://lapresse.tn/2025/09/22/ligue-des-champions-1er-tour-preliminaire-aller-le-scenario-parfait/)
+- [Gafsa : une secousse sismique de magnitude 3,2 enregistrée à El Guattar](https://lapresse.tn/2025/09/22/gafsa-une-secousse-sismique-de-magnitude-32-enregistree-a-el-guattar/)
+- [Suspension de la ligne ferroviaire Sousse-Tunis : les voyageurs de Kalâa Kebira en colère](https://lapresse.tn/2025/09/22/suspension-de-la-ligne-ferroviaire-sousse-tunis-les-voyageurs-de-kalaa-kebira-en-colere/)
+- [Perturbations climatiques attendues : l’observatoire de la sécurité routière appelle les automobilistes à la vigilance](https://lapresse.tn/2025/09/22/perturbations-climatiques-attendues-lobservatoire-de-la-securite-routiere-appelle-les-automobilistes-a-la-vigilance/)
+- [Les dernières quantités de pluie enregistrées sur plusieurs régions](https://lapresse.tn/2025/09/22/les-dernieres-quantites-de-pluie-enregistrees-sur-plusieurs-regions/)
+- [Cybercriminalité : Le Ministère de l’Intérieur passe à l’offensive !](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)
 - [Jusqu’à 70 mm de pluie et vents violents : la Tunisie en alerte météo](https://lapresse.tn/2025/09/22/jusqua-70-mm-de-pluie-et-vents-violents-la-tunisie-en-alerte-meteo/)
-- [Mardi prochain, le 1er du mois de Rabi Ath-thani 1447 de l’hégire](https://lapresse.tn/2025/09/22/mardi-prochain-le-1er-du-mois-de-rabi-ath-thani-1447-de-lhegire/)
-- [Météo : Pluies orageuses et risque de grêle dans certaines régions](https://lapresse.tn/2025/09/22/meteo-pluies-orageuses-et-risque-de-grele-dans-certaines-regions/)
 - [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/22/les-barrages-tunisiens-en-chiffres-4/)
 - [Au gré du jour : La dame et l’horodateur](https://lapresse.tn/2025/09/21/au-gre-du-jour-la-dame-et-lhorodateur/)
-- [Kairouan : Des monuments mal entretenus méconnaissables](https://lapresse.tn/2025/09/21/kairouan-des-monuments-mal-entretenus-meconnaissables/)
+- [Tourisme : quelles nationalités visitent le plus Sousse ?](https://lapresse.tn/2025/09/22/tourisme-quelles-nationalites-visitent-le-plus-sousse/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
 - [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
 - [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
@@ -286,4 +287,3 @@
 - [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
 - [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
 - [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
-- [Il Trattato di Tordesillas](https://www.limesonline.com/rubriche/mappe-parlanti/1-il-trattato-di-tordesillas-19406525/)
