@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 06:19*
+*Generato: 22 Sep 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
-- [Visas pour la France : des procédures encore complexes pour les Tunisiens](https://lapresse.tn/2025/09/22/visas-pour-la-france-des-procedures-encore-complexes-pour-les-tunisiens/)
-- [Restauration et ouverture du Palais Ahmed Bey : D’une demeure oubliée à un joyau culturel](https://lapresse.tn/2025/09/21/restauration-et-ouverture-du-palais-ahmed-bey-dune-demeure-oubliee-a-un-joyau-culturel/)
-- [Festival du Film Arabe de Fameck : Le cinéma tunisien à l’honneur](https://lapresse.tn/2025/09/21/festival-du-film-arabe-de-fameck-le-cinema-tunisien-a-lhonneur/)
-- [Poissons échoués sur la plage de Soliman: le ministre de l’environnement évalue la situation sur le terrain](https://lapresse.tn/2025/09/21/poissons-echoues-sur-la-plage-de-soliman-le-ministre-de-lenvironnement-evalue-la-situation/)
-- [Retour sur un point essentiel du programme du Président Kaïs Saïed : La souveraineté nationale au-dessus de tout autre considération](https://lapresse.tn/2025/09/21/retour-sur-un-point-essentiel-du-programme-du-president-kais-saied-la-souverainete-nationale-au-dessus-de-tout-autre-consideration/)
-- [Comité de pilotage du programme de logement social : Accélération de la distribution des logements sociaux à leurs bénéficiaires](https://lapresse.tn/2025/09/21/comite-de-pilotage-du-programme-de-logement-social-acceleration-de-la-distribution-des-logements-sociaux-a-leurs-beneficiaires/)
+- [Cybercriminalité : Le Ministère de l’Intérieur passe à l’offensive !](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)
+- [Pluies diluviennes en Espagne : un mort, transports aériens et ferroviaires paralysés](https://lapresse.tn/2025/09/22/pluies-diluviennes-en-espagne-un-mort-transports-aeriens-et-ferroviaires-paralyses/)
+- [Jusqu’à 70 mm de pluie et vents violents : la Tunisie en alerte météo](https://lapresse.tn/2025/09/22/jusqua-70-mm-de-pluie-et-vents-violents-la-tunisie-en-alerte-meteo/)
+- [Mardi prochain, le 1er du mois de Rabi Ath-thani 1447 de l’hégire](https://lapresse.tn/2025/09/22/mardi-prochain-le-1er-du-mois-de-rabi-ath-thani-1447-de-lhegire/)
+- [Météo : Pluies orageuses et risque de grêle dans certaines régions](https://lapresse.tn/2025/09/22/meteo-pluies-orageuses-et-risque-de-grele-dans-certaines-regions/)
+- [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/22/les-barrages-tunisiens-en-chiffres-4/)
 - [Au gré du jour : La dame et l’horodateur](https://lapresse.tn/2025/09/21/au-gre-du-jour-la-dame-et-lhorodateur/)
 - [Kairouan : Des monuments mal entretenus méconnaissables](https://lapresse.tn/2025/09/21/kairouan-des-monuments-mal-entretenus-meconnaissables/)
 - [Bizerte: fermeture temporaire de la piscine municipale pour cause de travaux](https://lapresse.tn/2025/09/21/bizerte-fermeture-temporaire-de-la-piscine-municipale-pour-cause-de-travaux/)
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Référendum en Guinée : une forte affluence des électeurs](https://www.jeuneafrique.com/1723534/politique/referendum-en-guinee-une-forte-affluence-des-electeurs/)
+- [Anatole Collinet Makosso : « Les Congolais se sont habitués à voir l’État s’occuper de tout, il faut changer les mentalités »](https://www.jeuneafrique.com/1718580/politique/anatole-collinet-makosso-les-congolais-se-sont-habitues-a-voir-letat-soccuper-de-tout-il-faut-changer-les-mentalites/)
 - [Au Togo, l’ex-ministre des Armées inculpée, le rappeur Aamron en liberté provisoire](https://www.jeuneafrique.com/1723514/politique/au-togo-lex-ministre-des-armees-inculpee-le-rappeur-aamron-en-liberte-provisoire/)
 - [Présidentielle au Bénin : vers un duel Patrice Talon – Thomas Boni Yayi par procuration](https://www.jeuneafrique.com/1723140/politique/presidentielle-au-benin-vers-un-duel-patrice-talon-thomas-boni-yayi-par-procuration/)
 - [Quand la réalisatrice tunisienne Kaouther Ben Hania impose le cauchemar de Gaza sur grand écran](https://www.jeuneafrique.com/1723037/politique/quand-la-realisatrice-tunisienne-kaouther-ben-hania-impose-le-cauchemar-de-gaza-sur-grand-ecran/)
 - [Crise Mali-Algérie : « refus de procédure à la CIJ »](https://www.jeuneafrique.com/1723496/politique/crise-mali-algerie-refus-de-procedure-a-la-cij/)
 - [Blocus du JNIM sur le Mali, bilan de Ouattara, guerre des clans autour de Biya… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1722920/politique/blocus-du-jnim-sur-le-mali-bilan-de-ouattara-guerre-des-clans-autour-de-biya-les-5-infos-incontournables-de-la-semaine/)
 - [Présidentielle en Côte d’Ivoire : qui gère la campagne d’Alassane Ouattara ?](https://www.jeuneafrique.com/1723094/politique/presidentielle-en-cote-divoire-qui-gere-la-campagne-dalassane-ouattara/)
-- [Dix-huit militants du parti de Gbagbo libérés en Côte d’Ivoire](https://www.jeuneafrique.com/1723358/politique/dix-huit-militants-du-parti-de-gbagbo-liberes-en-cote-divoire/)
+- [Millionnaires africains : quels sont les pays qui accueillent le plus d’ultrariches ?](https://www.jeuneafrique.com/1723108/economie-entreprises/millionnaires-africains-quels-sont-les-pays-qui-accueillent-le-plus-dultrariches/)
 - [Au Maroc, la famille Chaâbi relance la croissance d’Ynna Holding sur fond de conflit familial](https://www.jeuneafrique.com/1723432/economie-entreprises/au-maroc-la-famille-chaabi-relance-la-croissance-dynna-holding-sur-fond-de-conflit-familial/)
-- [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
