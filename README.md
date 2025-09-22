@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 09:14*
+*Generato: 22 Sep 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
 - [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 - [Parliament adopts its position on the future of EU agriculture policy](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30180/parliament-adopts-its-position-on-the-future-of-eu-agriculture-policy)
-- [State of the EU: Security, Ukraine, Gaza, Competitiveness, EU-US trade](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30179/state-of-the-eu-security-ukraine-gaza-competitiveness-eu-us-trade)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
-- [Cybercriminalité : Le Ministère de l’Intérieur passe à l’offensive !](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)
-- [Pluies diluviennes en Espagne : un mort, transports aériens et ferroviaires paralysés](https://lapresse.tn/2025/09/22/pluies-diluviennes-en-espagne-un-mort-transports-aeriens-et-ferroviaires-paralyses/)
+- [Tourisme : quelles nationalités visitent le plus Sousse ?](https://lapresse.tn/2025/09/22/tourisme-quelles-nationalites-visitent-le-plus-sousse/)
+- [Récente cyberattaque : « le chaos » règne dans la plupart des aéroports européens](https://lapresse.tn/2025/09/22/recente-cyberattaque-le-chaos-regne-dans-la-plupart-des-aeroports-europeens/)
+- [Ligue des champions – 1er tour préliminaire (aller) : Le scénario parfait !](https://lapresse.tn/2025/09/22/ligue-des-champions-1er-tour-preliminaire-aller-le-scenario-parfait/)
 - [Jusqu’à 70 mm de pluie et vents violents : la Tunisie en alerte météo](https://lapresse.tn/2025/09/22/jusqua-70-mm-de-pluie-et-vents-violents-la-tunisie-en-alerte-meteo/)
 - [Mardi prochain, le 1er du mois de Rabi Ath-thani 1447 de l’hégire](https://lapresse.tn/2025/09/22/mardi-prochain-le-1er-du-mois-de-rabi-ath-thani-1447-de-lhegire/)
 - [Météo : Pluies orageuses et risque de grêle dans certaines régions](https://lapresse.tn/2025/09/22/meteo-pluies-orageuses-et-risque-de-grele-dans-certaines-regions/)
 - [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/22/les-barrages-tunisiens-en-chiffres-4/)
 - [Au gré du jour : La dame et l’horodateur](https://lapresse.tn/2025/09/21/au-gre-du-jour-la-dame-et-lhorodateur/)
 - [Kairouan : Des monuments mal entretenus méconnaissables](https://lapresse.tn/2025/09/21/kairouan-des-monuments-mal-entretenus-meconnaissables/)
-- [Bizerte: fermeture temporaire de la piscine municipale pour cause de travaux](https://lapresse.tn/2025/09/21/bizerte-fermeture-temporaire-de-la-piscine-municipale-pour-cause-de-travaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
-- [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 - [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
-- [HRC60: International Commission of Jurists in the General Debate under Item 2](https://www.icj.org/hrc60-international-commission-of-jurists-in-the-general-debate-under-item-2/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Référendum en Guinée : une forte affluence des électeurs](https://www.jeuneafrique.com/1723534/politique/referendum-en-guinee-une-forte-affluence-des-electeurs/)
+- [Entre urgence et nostalgie, ces Israéliens qui demandent un passeport marocain](https://www.jeuneafrique.com/1721191/politique/entre-urgence-et-nostalgie-ces-israeliens-qui-demandent-un-passeport-marocain/)
 - [Anatole Collinet Makosso : « Les Congolais se sont habitués à voir l’État s’occuper de tout, il faut changer les mentalités »](https://www.jeuneafrique.com/1718580/politique/anatole-collinet-makosso-les-congolais-se-sont-habitues-a-voir-letat-soccuper-de-tout-il-faut-changer-les-mentalites/)
+- [Présidentielle au Cameroun : Paul Biya attendu en Suisse, à trois semaines du scrutin](https://www.jeuneafrique.com/1723509/politique/presidentielle-au-cameroun-paul-biya-attendu-en-suisse-a-trois-semaines-du-scrutin/)
 - [Au Togo, l’ex-ministre des Armées inculpée, le rappeur Aamron en liberté provisoire](https://www.jeuneafrique.com/1723514/politique/au-togo-lex-ministre-des-armees-inculpee-le-rappeur-aamron-en-liberte-provisoire/)
 - [Présidentielle au Bénin : vers un duel Patrice Talon – Thomas Boni Yayi par procuration](https://www.jeuneafrique.com/1723140/politique/presidentielle-au-benin-vers-un-duel-patrice-talon-thomas-boni-yayi-par-procuration/)
+- [Référendum en Guinée : à nouvelle Constitution nouvelle cartographie électorale](https://www.jeuneafrique.com/1721722/politique/referendum-en-guinee-a-nouvelle-constitution-nouvelle-cartographie-electorale/)
 - [Quand la réalisatrice tunisienne Kaouther Ben Hania impose le cauchemar de Gaza sur grand écran](https://www.jeuneafrique.com/1723037/politique/quand-la-realisatrice-tunisienne-kaouther-ben-hania-impose-le-cauchemar-de-gaza-sur-grand-ecran/)
-- [Crise Mali-Algérie : « refus de procédure à la CIJ »](https://www.jeuneafrique.com/1723496/politique/crise-mali-algerie-refus-de-procedure-a-la-cij/)
-- [Blocus du JNIM sur le Mali, bilan de Ouattara, guerre des clans autour de Biya… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1722920/politique/blocus-du-jnim-sur-le-mali-bilan-de-ouattara-guerre-des-clans-autour-de-biya-les-5-infos-incontournables-de-la-semaine/)
-- [Présidentielle en Côte d’Ivoire : qui gère la campagne d’Alassane Ouattara ?](https://www.jeuneafrique.com/1723094/politique/presidentielle-en-cote-divoire-qui-gere-la-campagne-dalassane-ouattara/)
+- [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
 - [Millionnaires africains : quels sont les pays qui accueillent le plus d’ultrariches ?](https://www.jeuneafrique.com/1723108/economie-entreprises/millionnaires-africains-quels-sont-les-pays-qui-accueillent-le-plus-dultrariches/)
-- [Au Maroc, la famille Chaâbi relance la croissance d’Ynna Holding sur fond de conflit familial](https://www.jeuneafrique.com/1723432/economie-entreprises/au-maroc-la-famille-chaabi-relance-la-croissance-dynna-holding-sur-fond-de-conflit-familial/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
