@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Sep 2025, 21:15*
+*Generato: 22 Sep 2025, 06:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Les députés prêts à retourner à l’hémicycle](https://lapresse.tn/2025/09/19/les-deputes-prets-a-retourner-a-lhemicycle/)
-- [Sidi Bou Saïd : 6 mois de prison pour un individu avec une arme factice](https://lapresse.tn/2025/09/19/sidi-bou-said-6-mois-de-prison-pour-un-individu-avec-une-arme-factice/)
-- [Tourisme à Tozeur : un festival international de montgolfières en préparation](https://lapresse.tn/2025/09/19/tourisme-a-touzer-un-festival-international-de-montgolfieres-en-preparation/)
-- [Fermeture inattendue d’une usine textile à Zaghouan : des dizaines d’employés au chômage](https://lapresse.tn/2025/09/19/fermeture-inattendue-dune-usine-textile-a-zaghouan-des-dizaines-demployes-au-chomage/)
-- [La grenade de Testour : une récolte prometteuse malgré un léger repli](https://lapresse.tn/2025/09/19/la-grenade-de-testour-une-recolte-prometteuse-malgre-un-leger-repli/)
-- [Transport aérien international: l’IATA s’engage à soutenir les compagnies tunisiennes](https://lapresse.tn/2025/09/19/transport-aerien-international-liata-sengage-a-soutenir-les-compagnies-tunisiennes/)
-- [Principe immuable du projet du Président Kaïs Saïed : Le volet social appelé à régir toute l’action socioéconomique de la Tunisie](https://lapresse.tn/2025/09/19/principe-immuable-du-projet-du-president-kais-saied-le-volet-social-appele-a-regir-toute-laction-socioeconomique-de-la-tunisie/)
-- [Bizerte: découverte d’un atelier clandestin de fabrication de « salami »](https://lapresse.tn/2025/09/19/bizerte-decouverte-dun-atelier-clandestin-de-fabrication-de-salami/)
-- [Croissance, inflation, dette publique… L’économie tunisienne est sur la voie du redressement](https://lapresse.tn/2025/09/19/croissance-inflation-dette-publique-leconomie-tunisienne-est-sur-la-voie-du-redressement/)
-- [Global Innovation Index 2025 : La Tunisie fait un bond et intègre le top 80 mondial](https://lapresse.tn/2025/09/19/global-innovation-index-2025-la-tunisie-fait-un-bond-et-integre-le-top-80-mondial/)
+- [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
+- [Visas pour la France : des procédures encore complexes pour les Tunisiens](https://lapresse.tn/2025/09/22/visas-pour-la-france-des-procedures-encore-complexes-pour-les-tunisiens/)
+- [Restauration et ouverture du Palais Ahmed Bey : D’une demeure oubliée à un joyau culturel](https://lapresse.tn/2025/09/21/restauration-et-ouverture-du-palais-ahmed-bey-dune-demeure-oubliee-a-un-joyau-culturel/)
+- [Festival du Film Arabe de Fameck : Le cinéma tunisien à l’honneur](https://lapresse.tn/2025/09/21/festival-du-film-arabe-de-fameck-le-cinema-tunisien-a-lhonneur/)
+- [Poissons échoués sur la plage de Soliman: le ministre de l’environnement évalue la situation sur le terrain](https://lapresse.tn/2025/09/21/poissons-echoues-sur-la-plage-de-soliman-le-ministre-de-lenvironnement-evalue-la-situation/)
+- [Retour sur un point essentiel du programme du Président Kaïs Saïed : La souveraineté nationale au-dessus de tout autre considération](https://lapresse.tn/2025/09/21/retour-sur-un-point-essentiel-du-programme-du-president-kais-saied-la-souverainete-nationale-au-dessus-de-tout-autre-consideration/)
+- [Comité de pilotage du programme de logement social : Accélération de la distribution des logements sociaux à leurs bénéficiaires](https://lapresse.tn/2025/09/21/comite-de-pilotage-du-programme-de-logement-social-acceleration-de-la-distribution-des-logements-sociaux-a-leurs-beneficiaires/)
+- [Au gré du jour : La dame et l’horodateur](https://lapresse.tn/2025/09/21/au-gre-du-jour-la-dame-et-lhorodateur/)
+- [Kairouan : Des monuments mal entretenus méconnaissables](https://lapresse.tn/2025/09/21/kairouan-des-monuments-mal-entretenus-meconnaissables/)
+- [Bizerte: fermeture temporaire de la piscine municipale pour cause de travaux](https://lapresse.tn/2025/09/21/bizerte-fermeture-temporaire-de-la-piscine-municipale-pour-cause-de-travaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Référendum en Guinée : une forte affluence des électeurs](https://www.jeuneafrique.com/1723534/politique/referendum-en-guinee-une-forte-affluence-des-electeurs/)
+- [Au Togo, l’ex-ministre des Armées inculpée, le rappeur Aamron en liberté provisoire](https://www.jeuneafrique.com/1723514/politique/au-togo-lex-ministre-des-armees-inculpee-le-rappeur-aamron-en-liberte-provisoire/)
+- [Présidentielle au Bénin : vers un duel Patrice Talon – Thomas Boni Yayi par procuration](https://www.jeuneafrique.com/1723140/politique/presidentielle-au-benin-vers-un-duel-patrice-talon-thomas-boni-yayi-par-procuration/)
+- [Quand la réalisatrice tunisienne Kaouther Ben Hania impose le cauchemar de Gaza sur grand écran](https://www.jeuneafrique.com/1723037/politique/quand-la-realisatrice-tunisienne-kaouther-ben-hania-impose-le-cauchemar-de-gaza-sur-grand-ecran/)
+- [Crise Mali-Algérie : « refus de procédure à la CIJ »](https://www.jeuneafrique.com/1723496/politique/crise-mali-algerie-refus-de-procedure-a-la-cij/)
+- [Blocus du JNIM sur le Mali, bilan de Ouattara, guerre des clans autour de Biya… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1722920/politique/blocus-du-jnim-sur-le-mali-bilan-de-ouattara-guerre-des-clans-autour-de-biya-les-5-infos-incontournables-de-la-semaine/)
+- [Présidentielle en Côte d’Ivoire : qui gère la campagne d’Alassane Ouattara ?](https://www.jeuneafrique.com/1723094/politique/presidentielle-en-cote-divoire-qui-gere-la-campagne-dalassane-ouattara/)
 - [Dix-huit militants du parti de Gbagbo libérés en Côte d’Ivoire](https://www.jeuneafrique.com/1723358/politique/dix-huit-militants-du-parti-de-gbagbo-liberes-en-cote-divoire/)
-- [Au Cameroun, Brenda Biya ne votera pas pour son père, Paul Biya](https://www.jeuneafrique.com/1723149/politique/au-cameroun-brenda-biya-ne-votera-pas-pour-son-pere-paul-biya/)
-- [Expulsés par les États-Unis, des migrants ouest-africains portent plainte contre le Ghana](https://www.jeuneafrique.com/1723120/politique/expulses-par-les-etats-unis-des-migrants-ouest-africains-portent-plainte-contre-le-ghana/)
-- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo ne soutiendra aucun autre candidat](https://www.jeuneafrique.com/1723039/politique/presidentielle-en-cote-divoire-laurent-gbagbo-ne-soutiendra-aucun-autre-candidat/)
-- [Décès par césarienne, cafards dans les blocs : à Agadir, les failles de l’hôpital public secouent l’ensemble du système de santé marocain](https://www.jeuneafrique.com/1722699/politique/deces-par-cesarienne-cafards-dans-les-blocs-a-agadir-les-failles-de-lhopital-public-secouent-lensemble-du-systeme-de-sante-marocain/)
-- [Présidentielle au Cameroun : les notes secrètes adressées à Paul Biya par les services de renseignements](https://www.jeuneafrique.com/1722224/politique/presidentielle-au-cameroun-les-notes-secretes-adressees-a-paul-biya-par-les-services-de-renseignement/)
-- [Présidentielle au Cameroun – Issa Tchiroma Bakary : « Si j’avais volé quoi que ce soit, cela se serait su »](https://www.jeuneafrique.com/1722819/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-si-javais-vole-quoi-que-ce-soit-cela-se-serait-su/)
-- [Sous-marins : le Maroc cherche à combler son retard face à l’Algérie](https://www.jeuneafrique.com/1722913/politique/sous-marins-le-maroc-cherche-a-combler-son-retard-face-a-lalgerie/)
+- [Au Maroc, la famille Chaâbi relance la croissance d’Ynna Holding sur fond de conflit familial](https://www.jeuneafrique.com/1723432/economie-entreprises/au-maroc-la-famille-chaabi-relance-la-croissance-dynna-holding-sur-fond-de-conflit-familial/)
 - [Pétrole : le Cameroun en bout de course ?](https://www.jeuneafrique.com/1722814/economie-entreprises/petrole-le-cameroun-en-bout-de-course/)
-- [Donald Trump revoit la liste des minerais critiques, une aubaine pour l’Afrique ?](https://www.jeuneafrique.com/1722694/economie-entreprises/donald-trump-revoit-la-liste-des-minerais-critiques-une-aubaine-pour-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
