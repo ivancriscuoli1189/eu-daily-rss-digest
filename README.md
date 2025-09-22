@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 15:03*
+*Generato: 22 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
-- [Championnats du monde d’haltérophilie en Norvège : les athlètes Ghofrane Belkhir et Aymen Bacha représentent la Tunisie](https://lapresse.tn/2025/09/22/championnats-du-monde-dhalterophilie-en-norvege-les-athletes-ghofrane-belkhir-et-aymen-bacha-representent-la-tunisie/)
-- [Caisses sociales – retard des délais de remboursement : les assurés sociaux lourdement pénalisés](https://lapresse.tn/2025/09/22/caisses-sociales-retard-des-delais-de-remboursement-les-assures-sociaux-lourdement-penalises/)
-- [Viandes rouges : les prix continuent d’augmenter](https://lapresse.tn/2025/09/22/viandes-rouges-les-prix-continuent-daugmenter/)
-- [Les dernières quantités de pluie enregistrées sur plusieurs régions](https://lapresse.tn/2025/09/22/les-dernieres-quantites-de-pluie-enregistrees-sur-plusieurs-regions/)
-- [Cybercriminalité : Le Ministère de l’Intérieur passe à l’offensive !](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)
-- [Jusqu’à 70 mm de pluie et vents violents : la Tunisie en alerte météo](https://lapresse.tn/2025/09/22/jusqua-70-mm-de-pluie-et-vents-violents-la-tunisie-en-alerte-meteo/)
-- [Gafsa : une secousse sismique de magnitude 3,2 enregistrée à El Guettar](https://lapresse.tn/2025/09/22/gafsa-une-secousse-sismique-de-magnitude-32-enregistree-a-el-guattar/)
-- [Suspension de la ligne ferroviaire Sousse-Tunis : les voyageurs de Kalâa Kebira en colère](https://lapresse.tn/2025/09/22/suspension-de-la-ligne-ferroviaire-sousse-tunis-les-voyageurs-de-kalaa-kebira-en-colere/)
-- [Composants automobiles : 10 fournisseurs chinois prospectent le marché tunisien](https://lapresse.tn/2025/09/22/composants-automobiles-10-fournisseurs-chinois-prospectent-le-marche-tunisien/)
+- [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
+- [Célébration du 40e jour de la mort de Fadhel Jaziri : Hommage à la hauteur de l’artiste](https://lapresse.tn/2025/09/22/celebration-du-40e-jour-de-la-mort-de-fadhel-jaziri-hommage-a-la-hauteur-de-lartiste/)
+- [« Faux » d’Abdelkader Ben Saïd : Le théâtre tunisien rayonne en Jordanie](https://lapresse.tn/2025/09/22/faux-dabdelkader-ben-said-le-theatre-tunisien-rayonne-en-jordanie/)
+- [Nouvelles parutions – «Tant mieux » d’Amélie Nothomb : L’enfance, la mère et l’étrange pouvoir du verbe](https://lapresse.tn/2025/09/22/nouvelles-parutions-tant-mieux-damelie-nothomb-lenfance-la-mere-et-letrange-pouvoir-du-verbe/)
+- [École de la 2e chance : Une expérience à pérenniser](https://lapresse.tn/2025/09/22/ecole-de-la-2e-chance-une-experience-a-perenniser/)
+- [80e session de l’Assemblée générale des Nations Unies : Saïed dépêche Nafti pour représenter la Tunisie](https://lapresse.tn/2025/09/22/80e-session-de-lassemblee-generale-des-nations-unies-saied-depeche-nafti-pour-representer-la-tunisie/)
+- [Pollution marine à Soliman : Une mer jaune et des poissons morts sèment l’inquiétude](https://lapresse.tn/2025/09/22/pollution-marine-a-soliman-une-mer-jaune-et-des-poissons-morts-sement-linquietude-2/)
+- [Gafsa-PAU : La santé au centre d’une alliance tuniso-française](https://lapresse.tn/2025/09/22/gafsa-pau-la-sante-au-centre-dune-alliance-tuniso-francaise/)
+- [Face aux dangers des animaux errants : L’urgence d’agir](https://lapresse.tn/2025/09/22/face-aux-dangers-des-animaux-errants-lurgence-dagir/)
+- [Pourquoi : Les chiens, encore les chiens](https://lapresse.tn/2025/09/22/pourquoi-les-chiens-encore-les-chiens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
-- [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 - [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
-- [HRC60: Statement by the International Commission of Jurists in the Interactive Dialogue with the UN Special Rapporteur on truth, justice, reparation and guarantees of non-recurrence](https://www.icj.org/hrc60-statement-by-the-international-commission-of-jurists-in-the-interactive-dialogue-with-the-un-special-rapporteur-on-truth-justice-reparation-and-guarantees-of-non-recurrence/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Référendum en Guinée : les électeurs restés sourds à l’appel au boycott de l’opposition](https://www.jeuneafrique.com/1723567/politique/referendum-en-guinee-les-electeurs-restes-sourds-a-lappel-au-boycott-de-lopposition/)
+- [Est de la RDC : les wazalendo sont-ils des alliés fiables pour Kinshasa ?](https://www.jeuneafrique.com/1723284/politique/est-de-la-rdc-les-wazalendo-sont-ils-des-allies-fiables-pour-kinshasa/)
 - [Référendum en Guinée : une forte affluence des électeurs](https://www.jeuneafrique.com/1723534/politique/referendum-en-guinee-une-forte-affluence-des-electeurs/)
+- [Assemblée générale de l’ONU : l’Afrique a-t-elle quoi que ce soit à attendre ?](https://www.jeuneafrique.com/1723247/politique/assemblee-generale-de-lonu-lafrique-a-t-elle-quoi-que-ce-soit-a-attendre/)
 - [Entre urgence et nostalgie, ces Israéliens qui demandent un passeport marocain](https://www.jeuneafrique.com/1721191/politique/entre-urgence-et-nostalgie-ces-israeliens-qui-demandent-un-passeport-marocain/)
 - [Anatole Collinet Makosso : « Les Congolais se sont habitués à voir l’État s’occuper de tout, il faut changer les mentalités »](https://www.jeuneafrique.com/1718580/politique/anatole-collinet-makosso-les-congolais-se-sont-habitues-a-voir-letat-soccuper-de-tout-il-faut-changer-les-mentalites/)
 - [Présidentielle au Cameroun : Paul Biya attendu en Suisse, à trois semaines du scrutin](https://www.jeuneafrique.com/1723509/politique/presidentielle-au-cameroun-paul-biya-attendu-en-suisse-a-trois-semaines-du-scrutin/)
 - [Au Togo, l’ex-ministre des Armées inculpée, le rappeur Aamron en liberté provisoire](https://www.jeuneafrique.com/1723514/politique/au-togo-lex-ministre-des-armees-inculpee-le-rappeur-aamron-en-liberte-provisoire/)
-- [Présidentielle au Bénin : vers un duel Patrice Talon – Thomas Boni Yayi par procuration](https://www.jeuneafrique.com/1723140/politique/presidentielle-au-benin-vers-un-duel-patrice-talon-thomas-boni-yayi-par-procuration/)
-- [Référendum en Guinée : à nouvelle Constitution nouvelle cartographie électorale](https://www.jeuneafrique.com/1721722/politique/referendum-en-guinee-a-nouvelle-constitution-nouvelle-cartographie-electorale/)
-- [Quand la réalisatrice tunisienne Kaouther Ben Hania impose le cauchemar de Gaza sur grand écran](https://www.jeuneafrique.com/1723037/politique/quand-la-realisatrice-tunisienne-kaouther-ben-hania-impose-le-cauchemar-de-gaza-sur-grand-ecran/)
 - [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 - [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
 
