@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 12:20*
+*Generato: 22 Sep 2025, 13:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Spéculation : quand la République reprend la main](https://lapresse.tn/2025/09/21/speculation-quand-la-republique-reprend-la-main/)
-- [Gafsa : une secousse sismique de magnitude 3,2 enregistrée à El Guattar](https://lapresse.tn/2025/09/22/gafsa-une-secousse-sismique-de-magnitude-32-enregistree-a-el-guattar/)
-- [Suspension de la ligne ferroviaire Sousse-Tunis : les voyageurs de Kalâa Kebira en colère](https://lapresse.tn/2025/09/22/suspension-de-la-ligne-ferroviaire-sousse-tunis-les-voyageurs-de-kalaa-kebira-en-colere/)
-- [Perturbations climatiques attendues : l’observatoire de la sécurité routière appelle les automobilistes à la vigilance](https://lapresse.tn/2025/09/22/perturbations-climatiques-attendues-lobservatoire-de-la-securite-routiere-appelle-les-automobilistes-a-la-vigilance/)
+- [Championnats du monde d’haltérophilie en Norvège : les athlètes Ghofrane Belkhir et Aymen Bacha représentent la Tunisie](https://lapresse.tn/2025/09/22/championnats-du-monde-dhalterophilie-en-norvege-les-athletes-ghofrane-belkhir-et-aymen-bacha-representent-la-tunisie/)
+- [Caisses sociales – retard des délais de remboursement : les assurés sociaux lourdement pénalisés](https://lapresse.tn/2025/09/22/caisses-sociales-retard-des-delais-de-remboursement-les-assures-sociaux-lourdement-penalises/)
+- [Viandes rouges : les prix continuent d’augmenter](https://lapresse.tn/2025/09/22/viandes-rouges-les-prix-continuent-daugmenter/)
 - [Les dernières quantités de pluie enregistrées sur plusieurs régions](https://lapresse.tn/2025/09/22/les-dernieres-quantites-de-pluie-enregistrees-sur-plusieurs-regions/)
 - [Cybercriminalité : Le Ministère de l’Intérieur passe à l’offensive !](https://lapresse.tn/2025/09/22/cybercriminalite-le-ministere-de-linterieur-passe-a-loffensive/)
 - [Jusqu’à 70 mm de pluie et vents violents : la Tunisie en alerte météo](https://lapresse.tn/2025/09/22/jusqua-70-mm-de-pluie-et-vents-violents-la-tunisie-en-alerte-meteo/)
-- [Les barrages tunisiens en chiffres](https://lapresse.tn/2025/09/22/les-barrages-tunisiens-en-chiffres-4/)
-- [Au gré du jour : La dame et l’horodateur](https://lapresse.tn/2025/09/21/au-gre-du-jour-la-dame-et-lhorodateur/)
-- [Tourisme : quelles nationalités visitent le plus Sousse ?](https://lapresse.tn/2025/09/22/tourisme-quelles-nationalites-visitent-le-plus-sousse/)
+- [Gafsa : une secousse sismique de magnitude 3,2 enregistrée à El Guettar](https://lapresse.tn/2025/09/22/gafsa-une-secousse-sismique-de-magnitude-32-enregistree-a-el-guattar/)
+- [Suspension de la ligne ferroviaire Sousse-Tunis : les voyageurs de Kalâa Kebira en colère](https://lapresse.tn/2025/09/22/suspension-de-la-ligne-ferroviaire-sousse-tunis-les-voyageurs-de-kalaa-kebira-en-colere/)
+- [Composants automobiles : 10 fournisseurs chinois prospectent le marché tunisien](https://lapresse.tn/2025/09/22/composants-automobiles-10-fournisseurs-chinois-prospectent-le-marche-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
