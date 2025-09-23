@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 12:17*
+*Generato: 23 Sep 2025, 13:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Parlement-Proposition de loi: réglementer l’activité des muezzins dans les mosquées](https://lapresse.tn/2025/09/23/parlement-proposition-de-loi-reglementer-lactivite-des-muezzins-dans-les-mosquees/)
-- [Tunisie-SFI : un partenariat renforcé pour stimuler l’investissement](https://lapresse.tn/2025/09/23/tunisie-sfi-un-partenariat-renforce-pour-stimuler-linvestissement/)
-- [Siliana-pluies torrentielles : la direction de l’Équipement mène une série d’interventions pour faire face aux inondations](https://lapresse.tn/2025/09/23/siliana-pluies-torrentielles-la-direction-de-lequipement-mene-une-serie-dinterventions-pour-faire-face-aux-inondations/)
+- [Grand-Tunis : Les quartiers « stars » de la location dévoilés !](https://lapresse.tn/2025/09/23/grand-tunis-les-quartiers-stars-de-la-location-devoiles/)
+- [Location longue durée : Hammamet arrive en tête, suivie de Nabeul centre et de Sousse](https://lapresse.tn/2025/09/23/location-longue-duree-hammamet-arrive-en-tete-suivie-de-nabeul-centre-et-de-sousse/)
+- [BTS : faciliter l’accès au financement pour les artisans](https://lapresse.tn/2025/09/23/bts-faciliter-lacces-au-financement-pour-les-artisans/)
 - [Tunisie : Décès d’Ahmed El Ibrahimi, fondateur de la chaîne hôtelière Abou Nawas](https://lapresse.tn/2025/09/23/tunisie-deces-dahmed-el-ibrahimi-fondateur-de-la-chaine-hoteliere-abou-nawas/)
 - [Cartes d’identité, certificats et inscriptions : tout se fera en ligne en Tunisie](https://lapresse.tn/2025/09/23/cartes-didentite-certificats-et-inscriptions-tout-se-fera-en-ligne-en-tunisie/)
 - [Port de Radès : 10 millions de comprimés de drogue saisis dans un conteneur européen](https://lapresse.tn/2025/09/23/port-de-rades-10-millions-de-comprimes-de-drogue-saisis-dans-un-conteneur-europeen/)
+- [Siliana-pluies torrentielles : la direction de l’Équipement mène une série d’interventions pour faire face aux inondations](https://lapresse.tn/2025/09/23/siliana-pluies-torrentielles-la-direction-de-lequipement-mene-une-serie-dinterventions-pour-faire-face-aux-inondations/)
 - [Kasserine-intempéries : suspension des cours dans les établissements scolaires](https://lapresse.tn/2025/09/23/kasserine-intemperies-suspension-des-cours-dans-les-etablissements-scolaires/)
 - [Kairouan-Hôpital Chbika : lancement des premières consultations en ligne dans le service de neurologie](https://lapresse.tn/2025/09/23/kairouan-hopital-chbika-lancement-des-premieres-consultations-en-ligne-dans-le-service-de-neurologie/)
-- [Bizerte : le premier pont du genre en Afrique sera achevé en 2027](https://lapresse.tn/2025/09/23/bizerte-le-premier-pont-du-genre-en-afrique-sera-acheve-en-2027/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-- [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
 - [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
-- [India: Joint statement urging Indian authorities to immediately and unconditionally release human rights defender and student activist Umar Khalid](https://www.icj.org/india-joint-statement-urging-indian-authorities-to-immediately-and-unconditionally-release-human-rights-defender-and-student-activist-umar-khalid/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
 - [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
+- [Au Maghreb, satisfaction prudente après la reconnaissance de l’État palestinien par la France](https://www.jeuneafrique.com/1723846/politique/au-maghreb-satisfaction-prudente-apres-la-reconnaissance-de-letat-palestinien-par-la-france/)
 - [En Égypte, le militant Alaa Abdel-Fattah gracié par al-Sissi](https://www.jeuneafrique.com/1723891/politique/en-egypte-le-militant-alaa-abdel-fattah-gracie-par-al-sissi/)
 - [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
 - [Le Burkina Faso, le Mali et le Niger quittent la Cour pénale internationale](https://www.jeuneafrique.com/1723839/politique/le-burkina-faso-le-mali-et-le-niger-quittent-la-cour-penale-internationale/)
+- [RDC : menacé de destitution, Vital Kamerhe démissionne](https://www.jeuneafrique.com/1723615/politique/rdc-menace-de-destitution-vital-kamerhe-demissionne/)
 - [Présidentielle au Cameroun : Issa Tchiroma Bakary, de héraut à héros ?](https://www.jeuneafrique.com/1723531/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-de-heraut-a-heros/)
-- [Algérie : la traque du général Nacer El Djinn replonge le pays dans la psychose](https://www.jeuneafrique.com/1723633/politique/algerie-la-traque-du-general-nacer-el-djinn-replonge-le-pays-dans-la-psychose/)
-- [Au Mali, entre Iyad Ag Ghaly et Assimi Goïta, une guerre totale](https://www.jeuneafrique.com/1722977/politique/au-mali-entre-assimi-goita-et-iyad-ag-ghaly-une-guerre-totale/)
-- [Référendum en Guinée : les électeurs restés sourds à l’appel au boycott de l’opposition](https://www.jeuneafrique.com/1723567/politique/referendum-en-guinee-les-electeurs-restes-sourds-a-lappel-au-boycott-de-lopposition/)
+- [Pourquoi BNP Paribas réduit discrètement la voilure en Algérie](https://www.jeuneafrique.com/1723786/economie-entreprises/pourquoi-bnp-paribas-reduit-discretement-la-voilure-en-algerie/)
 - [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
-- [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
