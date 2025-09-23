@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Sep 2025, 21:10*
+*Generato: 23 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Ballon d’Or: Yamal remporte le Trophée Kopa du meilleur jeune joueur du monde](https://lapresse.tn/2025/09/22/ballon-dor-yamal-remporte-le-trophee-kopa-du-meilleur-jeune-joueur-du-monde/)
-- [Jeunesse et Sport: une cérémonie en l’honneur des athlètes qui se sont distingués aux championnats de Tokyo 2025](https://lapresse.tn/2025/09/22/jeunesse-et-sport-une-ceremonie-en-lhonneur-des-athletes-qui-se-sont-distingues-aux-championnats-de-tokyo-2025/)
+- [Kais Saïed souligne la priorité aux citoyens victimes de l’exclusion et la stabilité nationale](https://lapresse.tn/2025/09/23/kais-saied-souligne-la-priorite-aux-citoyens-victimes-de-lexclusion-et-la-stabilite-nationale/)
+- [Rencontre entre Kais Saied et Khaled Souheli sur la coopération Tunisie-Koweït](https://lapresse.tn/2025/09/23/rencontre-entre-kais-saied-et-khaled-souheli-sur-la-cooperation-tunisie-koweit/)
+- [Kais Saïed : « Le peuple tunisien connaît la vérité sur ceux qui se croient au-dessus de la loi »](https://lapresse.tn/2025/09/23/kais-saied-le-peuple-tunisien-connait-la-verite-sur-ceux-qui-se-croient-au-dessus-de-la-loi/)
+- [Le président Kaïs Saïed cible réseaux criminels et pratiques spéculatives](https://lapresse.tn/2025/09/23/le-president-kais-saied-cible-reseaux-criminels-et-pratiques-speculatives/)
 - [Saisie de plus de 4 mille kg de produits alimentaires impropres à la consommation](https://lapresse.tn/2025/09/22/saisie-de-plus-de-4-mille-kg-de-produits-alimentaires-impropres-a-la-consommation/)
-- [École de la 2e chance : Une expérience à pérenniser](https://lapresse.tn/2025/09/22/ecole-de-la-2e-chance-une-experience-a-perenniser/)
-- [80e session de l’Assemblée générale des Nations Unies : Saïed dépêche Nafti pour représenter la Tunisie](https://lapresse.tn/2025/09/22/80e-session-de-lassemblee-generale-des-nations-unies-saied-depeche-nafti-pour-representer-la-tunisie/)
-- [Pollution marine à Soliman : Une mer jaune et des poissons morts sèment l’inquiétude](https://lapresse.tn/2025/09/22/pollution-marine-a-soliman-une-mer-jaune-et-des-poissons-morts-sement-linquietude-2/)
 - [Hausse des violences conjugales : le centre Najia d’Aswat Nisaa tire la sonnette d’alarme](https://lapresse.tn/2025/09/22/hausse-des-violences-conjugales-le-centre-najia-daswat-nisaa-tire-la-sonnette-dalarme/)
 - [Selon le Dr. Afef Hammami: « Il y a des signes annonciateurs de l’Alzheimer »](https://lapresse.tn/2025/09/22/selon-le-dr-afef-hammami-il-y-a-des-signes-annonciateurs-de-lalzheimer/)
 - [Intempéries-protection civile: appel à rester à l’écart des oueds et des zones inondables](https://lapresse.tn/2025/09/22/intemperies-protection-civile-appel-a-rester-a-lecart-des-oueds-et-des-zones-inondables/)
+- [Finance digitale : L’IA révolutionne le secteur bancaire](https://lapresse.tn/2025/09/22/finance-digitale-lia-revolutionne-le-secteur-bancaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -241,7 +241,7 @@
 - [Qualche considerazione sull’annuncio (si spera prematuro) del tramonto del diritto internazionale](https://www.cespi.it/it/eventi-attualita/editoriale/qualche-considerazione-sullannuncio-si-spera-prematuro-del-tramonto-del)
 - [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
 - [Colonial legacy in South Asia. Focus on India](https://www.cespi.it/it/eventi-note/eventi/colonial-legacy-south-asia-focus-india)
-- [Selezione ricercatore junior](https://www.cespi.it/it/eventi-note/comunicazioni/selezione-ricercatore-junior)
+- [AVVISO PUBBLICO - PROCEDURA DI SELEZIONE COMPARATIVA PER TITOLI DI N.1 FORMATORE LINGUA ITALIANA L2.](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-pubblico-procedura-di-selezione-comparativa-titoli-di-n1-formatore)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Référendum en Guinée : les électeurs restés sourds à l’appel au boycott de l’opposition](https://www.jeuneafrique.com/1723567/politique/referendum-en-guinee-les-electeurs-restes-sourds-a-lappel-au-boycott-de-lopposition/)
+- [Les familles marocaines piégées à Gaza demandent l’aide de Rabat](https://www.jeuneafrique.com/1723544/politique/les-familles-marocaines-piegees-a-gaza-demandent-laide-de-rabat/)
 - [Est de la RDC : les wazalendo sont-ils des alliés fiables pour Kinshasa ?](https://www.jeuneafrique.com/1723284/politique/est-de-la-rdc-les-wazalendo-sont-ils-des-allies-fiables-pour-kinshasa/)
 - [Référendum en Guinée : une forte affluence des électeurs](https://www.jeuneafrique.com/1723534/politique/referendum-en-guinee-une-forte-affluence-des-electeurs/)
 - [Assemblée générale de l’ONU : l’Afrique a-t-elle quoi que ce soit à attendre ?](https://www.jeuneafrique.com/1723247/politique/assemblee-generale-de-lonu-lafrique-a-t-elle-quoi-que-ce-soit-a-attendre/)
 - [Entre urgence et nostalgie, ces Israéliens qui demandent un passeport marocain](https://www.jeuneafrique.com/1721191/politique/entre-urgence-et-nostalgie-ces-israeliens-qui-demandent-un-passeport-marocain/)
 - [Anatole Collinet Makosso : « Les Congolais se sont habitués à voir l’État s’occuper de tout, il faut changer les mentalités »](https://www.jeuneafrique.com/1718580/politique/anatole-collinet-makosso-les-congolais-se-sont-habitues-a-voir-letat-soccuper-de-tout-il-faut-changer-les-mentalites/)
 - [Présidentielle au Cameroun : Paul Biya attendu en Suisse, à trois semaines du scrutin](https://www.jeuneafrique.com/1723509/politique/presidentielle-au-cameroun-paul-biya-attendu-en-suisse-a-trois-semaines-du-scrutin/)
-- [Au Togo, l’ex-ministre des Armées inculpée, le rappeur Aamron en liberté provisoire](https://www.jeuneafrique.com/1723514/politique/au-togo-lex-ministre-des-armees-inculpee-le-rappeur-aamron-en-liberte-provisoire/)
 - [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 - [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
 
