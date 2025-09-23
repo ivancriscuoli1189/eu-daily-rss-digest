@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 18:15*
+*Generato: 23 Sep 2025, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
-- [BCT: Mise en circulation à compter du 23 septembre 2025 d’un nouveau billet de banque de cinquante dinars](https://lapresse.tn/2025/09/23/bct-mise-en-circulation-a-compter-du-23-septembre-2025-dun-nouveau-billet-de-banque-de-cinquante-dinars/)
-- [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
-- [Natation – championnats des jeunes : Une formule à changer](https://lapresse.tn/2025/09/23/natation-championnats-des-jeunes-une-formule-a-changer/)
+- [Sarra Zaafrani Zenzri: le projet de loi de finances reflète les valeurs de la Constitution et consacre le développement équitable](https://lapresse.tn/2025/09/23/sarra-zaafrani-zenzri-le-projet-de-loi-de-finances-reflete-les-valeurs-de-la-constitution-et-consacre-le-developpement-equitable/)
+- [Selon les experts: l’IA, une opportunité à saisir pour les chercheurs](https://lapresse.tn/2025/09/23/selon-les-experts-lia-une-opportunite-a-saisir-pour-les-chercheurs/)
+- [Sidi Bouzid: l’hôpital universitaire se dote d’une unité de banque de sang](https://lapresse.tn/2025/09/23/sidi-bouzid-lhopital-universitaire-se-dote-dune-unite-de-banque-de-sang/)
+- [Diplômés au chômage longue durée: une proposition de loi qui fixe les conditions de leur intégration](https://lapresse.tn/2025/09/23/diplomes-au-chomage-longue-duree-une-proposition-de-loi-qui-fixe-les-conditions-de-leur-integration-2/)
 - [Une Tunisie nouvelle se dessine : Le cap irréversible du Président Saïed](https://lapresse.tn/2025/09/23/une-tunisie-nouvelle-se-dessine-le-cap-irreversible-du-president-saied/)
-- [Conteneurs piégés au port de Radès : La technique du «cheval de Troie» de nouveau au cœur d’une importante saisie de drogue !](https://lapresse.tn/2025/09/23/conteneurs-pieges-au-port-de-rades-la-technique-du-cheval-de-troie-de-nouveau-au-coeur-dune-importante-saisie-de-drogue/)
-- [Kunming 2025 : Les médias internationaux débattent du rôle de l’information dans l’Initiative ceinture et Route](https://lapresse.tn/2025/09/23/kunming-2025-les-medias-internationaux-debattent-du-role-de-linformation-dans-linitiative-ceinture-et-route/)
+- [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
 - [Viandes blanches : Une stratégie à revoir](https://lapresse.tn/2025/09/23/viandes-blanches-une-strategie-a-revoir/)
 - [Pourquoi : Les criquets pèlerins et leurs méfaits](https://lapresse.tn/2025/09/23/pourquoi-les-criquets-pelerins-et-leurs-mefaits/)
-- [3000 croisiéristes internationaux au port de la Goulette](https://lapresse.tn/2025/09/23/3000-croisieristes-internationaux-au-port-de-la-goulette/)
+- [Financement des PME en Tunisie: lancement d’une ligne de crédit italienne de 55 millions d’euros](https://lapresse.tn/2025/09/23/financement-des-pme-en-tunisie-lancement-dune-ligne-de-credit-italienne-de-55-millions-deuros/)
 
 ## NGOs – Amnesty International – Tunisia
 
