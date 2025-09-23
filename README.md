@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 09:12*
+*Generato: 23 Sep 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,8 +83,6 @@
 ## UE – EP – Press Room
 
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
-- [Highlights of this week's International Trade Committee](https://www.europarl.europa.eu/news/en/press-room/20250923IPR30529/highlights-of-this-week-s-international-trade-committee)
-- [Trade Committee reactions to signing of trade agreement between EU and Indonesia](https://www.europarl.europa.eu/news/en/press-room/20250923IPR30528/trade-committee-reactions-to-signing-of-trade-agreement-between-eu-and-indonesia)
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
@@ -92,6 +90,8 @@
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 - [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
+- [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Le joueur du PSG Ousmane Dembélé remporte le Ballon d’Or](https://lapresse.tn/2025/09/23/le-joueur-du-psg-ousmane-dembele-remporte-le-ballon-dor/)
-- [Cartes d’identité, certificats et inscriptions : tout se fera en ligne en Tunisie](https://lapresse.tn/2025/09/23/cartes-didentite-certificats-et-inscriptions-tout-se-fera-en-ligne-en-tunisie/)
-- [Bizerte : le premier pont du genre en Afrique sera achevé en 2027](https://lapresse.tn/2025/09/23/bizerte-le-premier-pont-du-genre-en-afrique-sera-acheve-en-2027/)
+- [Mondial Volley : Fin de Parcours pour la Tunisie !](https://lapresse.tn/2025/09/23/mondial-volley-fin-de-parcours-pour-la-tunisie/)
+- [Bilel Sahnoun alerte : « La Bourse ne finance que 5 à 10 % de l’économie tunisienne »](https://lapresse.tn/2025/09/23/bilel-sahnoun-alerte-la-bourse-ne-finance-que-5-a-10-de-leconomie-tunisienne/)
+- [Tunisie : l’arrière-saison touristique attire toujours plus de visiteurs](https://lapresse.tn/2025/09/23/tunisie-larriere-saison-touristique-attire-toujours-plus-de-visiteurs/)
 - [Port de Radès : 10 millions de comprimés de drogue saisis dans un conteneur européen](https://lapresse.tn/2025/09/23/port-de-rades-10-millions-de-comprimes-de-drogue-saisis-dans-un-conteneur-europeen/)
 - [Quasi-collision à Nice : que s’est-il réellement passé entre Nouvelair et EasyJet ?](https://lapresse.tn/2025/09/23/quasi-collision-a-nice-que-sest-il-reellement-passe-entre-nouvelair-et-easyjet/)
 - [Grêle et pluies orageuses attendues aujourd’hui en Tunisie](https://lapresse.tn/2025/09/23/grele-et-pluies-orageuses-attendues-aujourdhui-en-tunisie/)
+- [Kairouan-Hôpital Chbika : lancement des premières consultations en ligne dans le service de neurologie](https://lapresse.tn/2025/09/23/kairouan-hopital-chbika-lancement-des-premieres-consultations-en-ligne-dans-le-service-de-neurologie/)
+- [Bizerte : le premier pont du genre en Afrique sera achevé en 2027](https://lapresse.tn/2025/09/23/bizerte-le-premier-pont-du-genre-en-afrique-sera-acheve-en-2027/)
 - [Algérie–Tunisie : les nouvelles règles de voyage en train](https://lapresse.tn/2025/09/23/algerie-tunisie-les-nouvelles-regles-de-voyage-en-train/)
-- [Saisie de plus de 4 mille kg de produits alimentaires impropres à la consommation](https://lapresse.tn/2025/09/22/saisie-de-plus-de-4-mille-kg-de-produits-alimentaires-impropres-a-la-consommation/)
-- [Hausse des violences conjugales : le centre Najia d’Aswat Nisaa tire la sonnette d’alarme](https://lapresse.tn/2025/09/22/hausse-des-violences-conjugales-le-centre-najia-daswat-nisaa-tire-la-sonnette-dalarme/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
 - [En Égypte, le militant Alaa Abdel-Fattah gracié par al-Sissi](https://www.jeuneafrique.com/1723891/politique/en-egypte-le-militant-alaa-abdel-fattah-gracie-par-al-sissi/)
 - [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
 - [Le Burkina Faso, le Mali et le Niger quittent la Cour pénale internationale](https://www.jeuneafrique.com/1723839/politique/le-burkina-faso-le-mali-et-le-niger-quittent-la-cour-penale-internationale/)
 - [Présidentielle au Cameroun : Issa Tchiroma Bakary, de héraut à héros ?](https://www.jeuneafrique.com/1723531/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-de-heraut-a-heros/)
+- [Algérie : la traque du général Nacer El Djinn replonge le pays dans la psychose](https://www.jeuneafrique.com/1723633/politique/algerie-la-traque-du-general-nacer-el-djinn-replonge-le-pays-dans-la-psychose/)
 - [Au Mali, entre Iyad Ag Ghaly et Assimi Goïta, une guerre totale](https://www.jeuneafrique.com/1722977/politique/au-mali-entre-assimi-goita-et-iyad-ag-ghaly-une-guerre-totale/)
 - [Référendum en Guinée : les électeurs restés sourds à l’appel au boycott de l’opposition](https://www.jeuneafrique.com/1723567/politique/referendum-en-guinee-les-electeurs-restes-sourds-a-lappel-au-boycott-de-lopposition/)
-- [Les familles marocaines piégées à Gaza demandent l’aide de Rabat](https://www.jeuneafrique.com/1723544/politique/les-familles-marocaines-piegees-a-gaza-demandent-laide-de-rabat/)
-- [Est de la RDC : les wazalendo sont-ils des alliés fiables pour Kinshasa ?](https://www.jeuneafrique.com/1723284/politique/est-de-la-rdc-les-wazalendo-sont-ils-des-allies-fiables-pour-kinshasa/)
 - [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 - [Canal+ acte le rachat de MultiChoice et devient le leader africain de la télévision payante](https://www.jeuneafrique.com/1723634/economie-entreprises/canal-acte-le-rachat-de-multichoice-et-devient-le-leader-africain-de-la-television-payante/)
 
