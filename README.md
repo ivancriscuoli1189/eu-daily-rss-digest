@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 13:21*
+*Generato: 23 Sep 2025, 15:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
+- [Diplômés au chômage longue durée : une proposition de loi qui fixe les conditions de leur intégration](https://lapresse.tn/2025/09/23/diplomes-au-chomage-longue-duree-une-proposition-de-loi-qui-fixe-les-conditions-de-leur-integration/)
+- [Rym Ghachem : « L’éthique, pilier non-négociable pour faire de la Tunisie un pôle médical d’excellence »](https://lapresse.tn/2025/09/23/rym-ghachem-lethique-pilier-non-negociable-pour-faire-de-la-tunisie-un-pole-medical-dexcellence/)
 - [Grand-Tunis : Les quartiers « stars » de la location dévoilés !](https://lapresse.tn/2025/09/23/grand-tunis-les-quartiers-stars-de-la-location-devoiles/)
-- [Location longue durée : Hammamet arrive en tête, suivie de Nabeul centre et de Sousse](https://lapresse.tn/2025/09/23/location-longue-duree-hammamet-arrive-en-tete-suivie-de-nabeul-centre-et-de-sousse/)
-- [BTS : faciliter l’accès au financement pour les artisans](https://lapresse.tn/2025/09/23/bts-faciliter-lacces-au-financement-pour-les-artisans/)
+- [Parlement-Proposition de loi: réglementer l’activité des muezzins dans les mosquées](https://lapresse.tn/2025/09/23/parlement-proposition-de-loi-reglementer-lactivite-des-muezzins-dans-les-mosquees/)
 - [Tunisie : Décès d’Ahmed El Ibrahimi, fondateur de la chaîne hôtelière Abou Nawas](https://lapresse.tn/2025/09/23/tunisie-deces-dahmed-el-ibrahimi-fondateur-de-la-chaine-hoteliere-abou-nawas/)
 - [Cartes d’identité, certificats et inscriptions : tout se fera en ligne en Tunisie](https://lapresse.tn/2025/09/23/cartes-didentite-certificats-et-inscriptions-tout-se-fera-en-ligne-en-tunisie/)
-- [Port de Radès : 10 millions de comprimés de drogue saisis dans un conteneur européen](https://lapresse.tn/2025/09/23/port-de-rades-10-millions-de-comprimes-de-drogue-saisis-dans-un-conteneur-europeen/)
 - [Siliana-pluies torrentielles : la direction de l’Équipement mène une série d’interventions pour faire face aux inondations](https://lapresse.tn/2025/09/23/siliana-pluies-torrentielles-la-direction-de-lequipement-mene-une-serie-dinterventions-pour-faire-face-aux-inondations/)
 - [Kasserine-intempéries : suspension des cours dans les établissements scolaires](https://lapresse.tn/2025/09/23/kasserine-intemperies-suspension-des-cours-dans-les-etablissements-scolaires/)
 - [Kairouan-Hôpital Chbika : lancement des premières consultations en ligne dans le service de neurologie](https://lapresse.tn/2025/09/23/kairouan-hopital-chbika-lancement-des-premieres-consultations-en-ligne-dans-le-service-de-neurologie/)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
-- [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
-- [Nepal: Protesters Demand Integrity, Rights, Rule of Law](https://www.icj.org/nepal-protesters-demand-integrity-rights-rule-of-law/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
 - [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
 - [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
 - [Au Maghreb, satisfaction prudente après la reconnaissance de l’État palestinien par la France](https://www.jeuneafrique.com/1723846/politique/au-maghreb-satisfaction-prudente-apres-la-reconnaissance-de-letat-palestinien-par-la-france/)
@@ -271,7 +272,6 @@
 - [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
 - [Le Burkina Faso, le Mali et le Niger quittent la Cour pénale internationale](https://www.jeuneafrique.com/1723839/politique/le-burkina-faso-le-mali-et-le-niger-quittent-la-cour-penale-internationale/)
 - [RDC : menacé de destitution, Vital Kamerhe démissionne](https://www.jeuneafrique.com/1723615/politique/rdc-menace-de-destitution-vital-kamerhe-demissionne/)
-- [Présidentielle au Cameroun : Issa Tchiroma Bakary, de héraut à héros ?](https://www.jeuneafrique.com/1723531/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-de-heraut-a-heros/)
 - [Pourquoi BNP Paribas réduit discrètement la voilure en Algérie](https://www.jeuneafrique.com/1723786/economie-entreprises/pourquoi-bnp-paribas-reduit-discretement-la-voilure-en-algerie/)
 - [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 
