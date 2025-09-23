@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 15:04*
+*Generato: 23 Sep 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Diplômés au chômage longue durée : une proposition de loi qui fixe les conditions de leur intégration](https://lapresse.tn/2025/09/23/diplomes-au-chomage-longue-duree-une-proposition-de-loi-qui-fixe-les-conditions-de-leur-integration/)
-- [Rym Ghachem : « L’éthique, pilier non-négociable pour faire de la Tunisie un pôle médical d’excellence »](https://lapresse.tn/2025/09/23/rym-ghachem-lethique-pilier-non-negociable-pour-faire-de-la-tunisie-un-pole-medical-dexcellence/)
-- [Grand-Tunis : Les quartiers « stars » de la location dévoilés !](https://lapresse.tn/2025/09/23/grand-tunis-les-quartiers-stars-de-la-location-devoiles/)
-- [Parlement-Proposition de loi: réglementer l’activité des muezzins dans les mosquées](https://lapresse.tn/2025/09/23/parlement-proposition-de-loi-reglementer-lactivite-des-muezzins-dans-les-mosquees/)
-- [Tunisie : Décès d’Ahmed El Ibrahimi, fondateur de la chaîne hôtelière Abou Nawas](https://lapresse.tn/2025/09/23/tunisie-deces-dahmed-el-ibrahimi-fondateur-de-la-chaine-hoteliere-abou-nawas/)
-- [Cartes d’identité, certificats et inscriptions : tout se fera en ligne en Tunisie](https://lapresse.tn/2025/09/23/cartes-didentite-certificats-et-inscriptions-tout-se-fera-en-ligne-en-tunisie/)
-- [Siliana-pluies torrentielles : la direction de l’Équipement mène une série d’interventions pour faire face aux inondations](https://lapresse.tn/2025/09/23/siliana-pluies-torrentielles-la-direction-de-lequipement-mene-une-serie-dinterventions-pour-faire-face-aux-inondations/)
-- [Kasserine-intempéries : suspension des cours dans les établissements scolaires](https://lapresse.tn/2025/09/23/kasserine-intemperies-suspension-des-cours-dans-les-etablissements-scolaires/)
-- [Kairouan-Hôpital Chbika : lancement des premières consultations en ligne dans le service de neurologie](https://lapresse.tn/2025/09/23/kairouan-hopital-chbika-lancement-des-premieres-consultations-en-ligne-dans-le-service-de-neurologie/)
+- [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
+- [BCT: Mise en circulation à compter du 23 septembre 2025 d’un nouveau billet de banque de cinquante dinars](https://lapresse.tn/2025/09/23/bct-mise-en-circulation-a-compter-du-23-septembre-2025-dun-nouveau-billet-de-banque-de-cinquante-dinars/)
+- [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
+- [Natation – championnats des jeunes : Une formule à changer](https://lapresse.tn/2025/09/23/natation-championnats-des-jeunes-une-formule-a-changer/)
+- [Une Tunisie nouvelle se dessine : Le cap irréversible du Président Saïed](https://lapresse.tn/2025/09/23/une-tunisie-nouvelle-se-dessine-le-cap-irreversible-du-president-saied/)
+- [Conteneurs piégés au port de Radès : La technique du «cheval de Troie» de nouveau au cœur d’une importante saisie de drogue !](https://lapresse.tn/2025/09/23/conteneurs-pieges-au-port-de-rades-la-technique-du-cheval-de-troie-de-nouveau-au-coeur-dune-importante-saisie-de-drogue/)
+- [Kunming 2025 : Les médias internationaux débattent du rôle de l’information dans l’Initiative ceinture et Route](https://lapresse.tn/2025/09/23/kunming-2025-les-medias-internationaux-debattent-du-role-de-linformation-dans-linitiative-ceinture-et-route/)
+- [Viandes blanches : Une stratégie à revoir](https://lapresse.tn/2025/09/23/viandes-blanches-une-strategie-a-revoir/)
+- [Pourquoi : Les criquets pèlerins et leurs méfaits](https://lapresse.tn/2025/09/23/pourquoi-les-criquets-pelerins-et-leurs-mefaits/)
+- [3000 croisiéristes internationaux au port de la Goulette](https://lapresse.tn/2025/09/23/3000-croisieristes-internationaux-au-port-de-la-goulette/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
 - [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
+- [Pourquoi l’Africa CDC s’offre les services de Troy Fitrell](https://www.jeuneafrique.com/1723893/politique/pourquoi-lafrica-cdc-soffre-les-services-de-troy-fitrell/)
 - [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
 - [Au Maghreb, satisfaction prudente après la reconnaissance de l’État palestinien par la France](https://www.jeuneafrique.com/1723846/politique/au-maghreb-satisfaction-prudente-apres-la-reconnaissance-de-letat-palestinien-par-la-france/)
 - [En Égypte, le militant Alaa Abdel-Fattah gracié par al-Sissi](https://www.jeuneafrique.com/1723891/politique/en-egypte-le-militant-alaa-abdel-fattah-gracie-par-al-sissi/)
 - [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
 - [Le Burkina Faso, le Mali et le Niger quittent la Cour pénale internationale](https://www.jeuneafrique.com/1723839/politique/le-burkina-faso-le-mali-et-le-niger-quittent-la-cour-penale-internationale/)
-- [RDC : menacé de destitution, Vital Kamerhe démissionne](https://www.jeuneafrique.com/1723615/politique/rdc-menace-de-destitution-vital-kamerhe-demissionne/)
+- [Le Congo a-t-il les moyens d’investir dans son avenir ?](https://www.jeuneafrique.com/1720091/economie-entreprises/le-congo-a-t-il-les-moyens-dinvestir-dans-son-avenir/)
 - [Pourquoi BNP Paribas réduit discrètement la voilure en Algérie](https://www.jeuneafrique.com/1723786/economie-entreprises/pourquoi-bnp-paribas-reduit-discretement-la-voilure-en-algerie/)
-- [Au Sénégal, Ousmane Sonko dégaine ses « diaspora bonds »](https://www.jeuneafrique.com/1723561/economie-entreprises/au-senegal-ousmane-sonko-degaine-ses-diaspora-bonds/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
