@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 11:04*
+*Generato: 23 Sep 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
@@ -91,7 +92,6 @@
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 - [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
-- [MEPs approve cohesion funding reform to deal with new challenges](https://www.europarl.europa.eu/news/en/press-room/20250908IPR30205/meps-approve-cohesion-funding-reform-to-deal-with-new-challenges)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Au Bardo, on édifie l’avenir](https://lapresse.tn/2025/09/22/au-bardo-on-edifie-lavenir/)
-- [Mondial Volley : Fin de Parcours pour la Tunisie !](https://lapresse.tn/2025/09/23/mondial-volley-fin-de-parcours-pour-la-tunisie/)
-- [Bilel Sahnoun alerte : « La Bourse ne finance que 5 à 10 % de l’économie tunisienne »](https://lapresse.tn/2025/09/23/bilel-sahnoun-alerte-la-bourse-ne-finance-que-5-a-10-de-leconomie-tunisienne/)
-- [Tunisie : l’arrière-saison touristique attire toujours plus de visiteurs](https://lapresse.tn/2025/09/23/tunisie-larriere-saison-touristique-attire-toujours-plus-de-visiteurs/)
+- [Parlement-Proposition de loi: réglementer l’activité des muezzins dans les mosquées](https://lapresse.tn/2025/09/23/parlement-proposition-de-loi-reglementer-lactivite-des-muezzins-dans-les-mosquees/)
+- [Tunisie-SFI : un partenariat renforcé pour stimuler l’investissement](https://lapresse.tn/2025/09/23/tunisie-sfi-un-partenariat-renforce-pour-stimuler-linvestissement/)
+- [Siliana-pluies torrentielles : la direction de l’Équipement mène une série d’interventions pour faire face aux inondations](https://lapresse.tn/2025/09/23/siliana-pluies-torrentielles-la-direction-de-lequipement-mene-une-serie-dinterventions-pour-faire-face-aux-inondations/)
+- [Tunisie : Décès d’Ahmed El Ibrahimi, fondateur de la chaîne hôtelière Abou Nawas](https://lapresse.tn/2025/09/23/tunisie-deces-dahmed-el-ibrahimi-fondateur-de-la-chaine-hoteliere-abou-nawas/)
+- [Cartes d’identité, certificats et inscriptions : tout se fera en ligne en Tunisie](https://lapresse.tn/2025/09/23/cartes-didentite-certificats-et-inscriptions-tout-se-fera-en-ligne-en-tunisie/)
 - [Port de Radès : 10 millions de comprimés de drogue saisis dans un conteneur européen](https://lapresse.tn/2025/09/23/port-de-rades-10-millions-de-comprimes-de-drogue-saisis-dans-un-conteneur-europeen/)
-- [Quasi-collision à Nice : que s’est-il réellement passé entre Nouvelair et EasyJet ?](https://lapresse.tn/2025/09/23/quasi-collision-a-nice-que-sest-il-reellement-passe-entre-nouvelair-et-easyjet/)
-- [Grêle et pluies orageuses attendues aujourd’hui en Tunisie](https://lapresse.tn/2025/09/23/grele-et-pluies-orageuses-attendues-aujourdhui-en-tunisie/)
+- [Kasserine-intempéries : suspension des cours dans les établissements scolaires](https://lapresse.tn/2025/09/23/kasserine-intemperies-suspension-des-cours-dans-les-etablissements-scolaires/)
 - [Kairouan-Hôpital Chbika : lancement des premières consultations en ligne dans le service de neurologie](https://lapresse.tn/2025/09/23/kairouan-hopital-chbika-lancement-des-premieres-consultations-en-ligne-dans-le-service-de-neurologie/)
 - [Bizerte : le premier pont du genre en Afrique sera achevé en 2027](https://lapresse.tn/2025/09/23/bizerte-le-premier-pont-du-genre-en-afrique-sera-acheve-en-2027/)
-- [Algérie–Tunisie : les nouvelles règles de voyage en train](https://lapresse.tn/2025/09/23/algerie-tunisie-les-nouvelles-regles-de-voyage-en-train/)
 
 ## NGOs – Amnesty International – Tunisia
 
