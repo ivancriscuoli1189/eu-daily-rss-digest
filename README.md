@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 18:14*
+*Generato: 24 Sep 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -106,6 +106,19 @@
 - [Delegations](https://www.europarl.europa.eu/delegations/en)
 - [EU budget](https://eubudget.europarl.europa.eu/en)
 
+## UE – Commission – News & media hub
+
+- [bg български](https://commission.europa.eu/news-and-media_bg)
+- [es español](https://commission.europa.eu/news-and-media_es)
+- [cs čeština](https://commission.europa.eu/news-and-media_cs)
+- [da dansk](https://commission.europa.eu/news-and-media_da)
+- [de Deutsch](https://commission.europa.eu/news-and-media_de)
+- [et eesti](https://commission.europa.eu/news-and-media_et)
+- [el ελληνικά](https://commission.europa.eu/news-and-media_el)
+- [en English](https://commission.europa.eu/news-and-media_en)
+- [fr français](https://commission.europa.eu/news-and-media_fr)
+- [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
 ## UE – DG NEAR – Tunisia – News
 
 - [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
@@ -161,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
-- [Tennis – Vainqueur au challenger de Saint-Tropez : Moez Chergui : « Je n’ai pas de sponsor ! »](https://lapresse.tn/2025/09/24/tennis-vainqueur-au-challenger-de-saint-tropez-moez-chergui-je-nai-pas-de-sponsor/)
-- [Volley-mondial – le six Tunisien éliminé aux huitièmes : Une différence d’écart !](https://lapresse.tn/2025/09/24/volley-mondial-le-six-tunisien-elimine-aux-huitiemes-une-difference-decart/)
-- [Dream City 2025 du 3 au 19 octobre : La Palestine comme centre de gravité moral](https://lapresse.tn/2025/09/24/dream-city-2025-du-3-au-19-octobre-la-palestine-comme-centre-de-gravite-moral/)
+- [Nafti défend à l’ONU une « réforme juste et globale » du système financier international](https://lapresse.tn/2025/09/24/nafti-defend-a-lonu-une-reforme-juste-et-globale-du-systeme-financier-international/)
+- [Le projet du budget économique pour l’année 2026 au centre d’un conseil ministériel](https://lapresse.tn/2025/09/24/le-projet-du-budget-economique-pour-lannee-2026-au-centre-dun-conseil-ministeriel/)
+- [Football-Championnat de la Ligue 1 (7eme journée) : résultats et classement](https://lapresse.tn/2025/09/24/football-championnat-de-la-ligue-1-7eme-journee-resultats-et-classement/)
+- [La loi sur les contrats de travail et la sous-traitance publiée dans le journal officiel](https://lapresse.tn/2025/09/24/la-loi-sur-les-contrats-de-travail-et-la-sous-traitance-publiee-dans-le-journal-officiel/)
 - [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
-- [Kasserine : un fonctionnaire déféré et un promoteur placé en garde à vue pour usage de faux](https://lapresse.tn/2025/09/24/kasserine-un-fonctionnaire-defere-et-un-promoteur-place-en-garde-a-vue-pour-usage-de-faux/)
-- [Parlement-Commission de la santé: audit du projet de loi sur le secteur de la santé](https://lapresse.tn/2025/09/24/parlement-commission-de-la-sante-audit-du-projet-de-loi-sur-le-secteur-de-la-sante/)
 - [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
 - [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
 - [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/24/indiscretions-delyssa-17/)
+- [Pourquoi : Les viandes rouges et… blanches](https://lapresse.tn/2025/09/24/pourquoi-les-viandes-rouges-et-blanches/)
 
 ## NGOs – Amnesty International – Tunisia
 
