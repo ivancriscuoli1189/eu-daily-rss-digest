@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Sep 2025, 21:11*
+*Generato: 24 Sep 2025, 06:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,11 +174,11 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
+- [Mohamed Ali Nafti en marge des travaux des Nations Unies: « Nous devons tenir à nos aspirations originelles et bâtir un avenir radieux »](https://lapresse.tn/2025/09/23/mohamed-ali-nafti-en-marge-des-travaux-des-nations-unies-nous-devons-tenir-a-nos-aspirations-originelles-et-batir-un-avenir-radieux/)
+- [La plus tunisienne des italiennes Claudia Cardinale a tiré sa révérence](https://lapresse.tn/2025/09/23/la-plus-tunisienne-des-italiennes-claudia-cardinale-a-tire-sa-reverence/)
+- [Mohamed Ali Nafti à l’Assemblée générale des Nations Unies: « la santé humaine un pilier de la paix et de la stabilité mondiales »](https://lapresse.tn/2025/09/23/mohamed-ali-nafti-a-lassemblee-generale-des-nations-unies-la-sante-humaine-un-pilier-de-la-paix-et-de-la-stabilite-mondiales/)
 - [Sarra Zaafrani Zenzri: le projet de loi de finances reflète les valeurs de la Constitution et consacre le développement équitable](https://lapresse.tn/2025/09/23/sarra-zaafrani-zenzri-le-projet-de-loi-de-finances-reflete-les-valeurs-de-la-constitution-et-consacre-le-developpement-equitable/)
-- [Selon les experts: l’IA, une opportunité à saisir pour les chercheurs](https://lapresse.tn/2025/09/23/selon-les-experts-lia-une-opportunite-a-saisir-pour-les-chercheurs/)
 - [Sidi Bouzid: l’hôpital universitaire se dote d’une unité de banque de sang](https://lapresse.tn/2025/09/23/sidi-bouzid-lhopital-universitaire-se-dote-dune-unite-de-banque-de-sang/)
-- [Diplômés au chômage longue durée: une proposition de loi qui fixe les conditions de leur intégration](https://lapresse.tn/2025/09/23/diplomes-au-chomage-longue-duree-une-proposition-de-loi-qui-fixe-les-conditions-de-leur-integration-2/)
-- [Une Tunisie nouvelle se dessine : Le cap irréversible du Président Saïed](https://lapresse.tn/2025/09/23/une-tunisie-nouvelle-se-dessine-le-cap-irreversible-du-president-saied/)
 - [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
 - [Viandes blanches : Une stratégie à revoir](https://lapresse.tn/2025/09/23/viandes-blanches-une-strategie-a-revoir/)
 - [Pourquoi : Les criquets pèlerins et leurs méfaits](https://lapresse.tn/2025/09/23/pourquoi-les-criquets-pelerins-et-leurs-mefaits/)
@@ -266,12 +266,12 @@
 
 - [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
 - [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
+- [« Faire entendre le droit et préserver ce qui fait notre humanité »: le plaidoyer de Bassirou Diomaye Faye à l’ONU en faveur des Palestiniens](https://www.jeuneafrique.com/1723978/politique/faire-entendre-le-droit-et-preserver-ce-qui-fait-notre-humanite-le-plaidoyer-de-bassirou-diomaye-faye-a-lonu-en-faveur-des-palestiniens/)
 - [Pourquoi l’Africa CDC s’offre les services de Troy Fitrell](https://www.jeuneafrique.com/1723893/politique/pourquoi-lafrica-cdc-soffre-les-services-de-troy-fitrell/)
 - [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
 - [Au Maghreb, satisfaction prudente après la reconnaissance de l’État palestinien par la France](https://www.jeuneafrique.com/1723846/politique/au-maghreb-satisfaction-prudente-apres-la-reconnaissance-de-letat-palestinien-par-la-france/)
 - [En Égypte, le militant Alaa Abdel-Fattah gracié par al-Sissi](https://www.jeuneafrique.com/1723891/politique/en-egypte-le-militant-alaa-abdel-fattah-gracie-par-al-sissi/)
 - [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
-- [Le Burkina Faso, le Mali et le Niger quittent la Cour pénale internationale](https://www.jeuneafrique.com/1723839/politique/le-burkina-faso-le-mali-et-le-niger-quittent-la-cour-penale-internationale/)
 - [Le Congo a-t-il les moyens d’investir dans son avenir ?](https://www.jeuneafrique.com/1720091/economie-entreprises/le-congo-a-t-il-les-moyens-dinvestir-dans-son-avenir/)
 - [Pourquoi BNP Paribas réduit discrètement la voilure en Algérie](https://www.jeuneafrique.com/1723786/economie-entreprises/pourquoi-bnp-paribas-reduit-discretement-la-voilure-en-algerie/)
 
