@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 06:24*
+*Generato: 24 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
+- [Tozeur : la centrale photovoltaïque avance à grands pas](https://lapresse.tn/2025/09/24/tozeur-la-centrale-photovoltaique-avance-a-grands-pas/)
+- [Météo : nuages, pluie et orages au rendez-vous ce mercredi !](https://lapresse.tn/2025/09/24/meteo-nuages-pluie-et-orages-au-rendez-vous-ce-mercredi/)
 - [Mohamed Ali Nafti en marge des travaux des Nations Unies: « Nous devons tenir à nos aspirations originelles et bâtir un avenir radieux »](https://lapresse.tn/2025/09/23/mohamed-ali-nafti-en-marge-des-travaux-des-nations-unies-nous-devons-tenir-a-nos-aspirations-originelles-et-batir-un-avenir-radieux/)
 - [La plus tunisienne des italiennes Claudia Cardinale a tiré sa révérence](https://lapresse.tn/2025/09/23/la-plus-tunisienne-des-italiennes-claudia-cardinale-a-tire-sa-reverence/)
 - [Mohamed Ali Nafti à l’Assemblée générale des Nations Unies: « la santé humaine un pilier de la paix et de la stabilité mondiales »](https://lapresse.tn/2025/09/23/mohamed-ali-nafti-a-lassemblee-generale-des-nations-unies-la-sante-humaine-un-pilier-de-la-paix-et-de-la-stabilite-mondiales/)
-- [Sarra Zaafrani Zenzri: le projet de loi de finances reflète les valeurs de la Constitution et consacre le développement équitable](https://lapresse.tn/2025/09/23/sarra-zaafrani-zenzri-le-projet-de-loi-de-finances-reflete-les-valeurs-de-la-constitution-et-consacre-le-developpement-equitable/)
 - [Sidi Bouzid: l’hôpital universitaire se dote d’une unité de banque de sang](https://lapresse.tn/2025/09/23/sidi-bouzid-lhopital-universitaire-se-dote-dune-unite-de-banque-de-sang/)
 - [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
 - [Viandes blanches : Une stratégie à revoir](https://lapresse.tn/2025/09/23/viandes-blanches-une-strategie-a-revoir/)
 - [Pourquoi : Les criquets pèlerins et leurs méfaits](https://lapresse.tn/2025/09/23/pourquoi-les-criquets-pelerins-et-leurs-mefaits/)
-- [Financement des PME en Tunisie: lancement d’une ligne de crédit italienne de 55 millions d’euros](https://lapresse.tn/2025/09/23/financement-des-pme-en-tunisie-lancement-dune-ligne-de-credit-italienne-de-55-millions-deuros/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« L’intégrité territoriale de la RDC doit être respectée » : Emmanuel Macron convoque une conférence à Paris](https://www.jeuneafrique.com/1724374/politique/lintegrite-territoriale-de-la-rdc-doit-etre-respectee-emmanuel-macron-convoque-une-conference-a-paris/)
+- [Le JNIM publie une vidéo montrant des soldats maliens et burkinabè pris en otage](https://www.jeuneafrique.com/1724371/politique/le-jnim-publie-une-video-montrant-des-soldats-maliens-et-burkinabe-pris-en-otage/)
 - [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
 - [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
+- [Maroc–Chine : l’histoire, le Sahara et les milliards](https://www.jeuneafrique.com/1723711/politique/maroc-chine-lhistoire-le-sahara-et-les-milliards/)
 - [« Faire entendre le droit et préserver ce qui fait notre humanité »: le plaidoyer de Bassirou Diomaye Faye à l’ONU en faveur des Palestiniens](https://www.jeuneafrique.com/1723978/politique/faire-entendre-le-droit-et-preserver-ce-qui-fait-notre-humanite-le-plaidoyer-de-bassirou-diomaye-faye-a-lonu-en-faveur-des-palestiniens/)
 - [Pourquoi l’Africa CDC s’offre les services de Troy Fitrell](https://www.jeuneafrique.com/1723893/politique/pourquoi-lafrica-cdc-soffre-les-services-de-troy-fitrell/)
 - [Est de la RDC : Félix Tshisekedi accuse le Rwanda de « faire semblant d’avoir retiré ses troupes »](https://www.jeuneafrique.com/1723960/politique/est-de-la-rdc-felix-tshisekedi-accuse-le-rwanda-de-faire-semblant-davoir-retire-ses-troupes/)
-- [Au Maghreb, satisfaction prudente après la reconnaissance de l’État palestinien par la France](https://www.jeuneafrique.com/1723846/politique/au-maghreb-satisfaction-prudente-apres-la-reconnaissance-de-letat-palestinien-par-la-france/)
-- [En Égypte, le militant Alaa Abdel-Fattah gracié par al-Sissi](https://www.jeuneafrique.com/1723891/politique/en-egypte-le-militant-alaa-abdel-fattah-gracie-par-al-sissi/)
-- [Référendum en Guinée : plus de 91% de participation, selon des résultats partiels](https://www.jeuneafrique.com/1723837/politique/referendum-en-guinee-plus-de-91-de-participation-selon-des-resultats-partiels/)
-- [Le Congo a-t-il les moyens d’investir dans son avenir ?](https://www.jeuneafrique.com/1720091/economie-entreprises/le-congo-a-t-il-les-moyens-dinvestir-dans-son-avenir/)
-- [Pourquoi BNP Paribas réduit discrètement la voilure en Algérie](https://www.jeuneafrique.com/1723786/economie-entreprises/pourquoi-bnp-paribas-reduit-discretement-la-voilure-en-algerie/)
+- [Société générale Côte d’Ivoire : 62 ans d’histoire et toujours la crainte d’un départ du groupe](https://www.jeuneafrique.com/1723997/economie-entreprises/societe-generale-cote-divoire-62-ans-dhistoire-et-toujours-la-crainte-dun-depart-du-groupe/)
+- [Pétrole en Afrique : TotalEnergies prêt à (re)passer à la vitesse supérieure](https://www.jeuneafrique.com/1724182/economie-entreprises/petrole-en-afrique-totalenergies-pret-a-repasser-a-la-vitesse-superieure/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
