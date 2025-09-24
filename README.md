@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 15:03*
+*Generato: 24 Sep 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
@@ -91,7 +92,6 @@
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
-- [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -105,19 +105,6 @@
 - [Committees](https://www.europarl.europa.eu/committees/en)
 - [Delegations](https://www.europarl.europa.eu/delegations/en)
 - [EU budget](https://eubudget.europarl.europa.eu/en)
-
-## UE – Commission – News & media hub
-
-- [bg български](https://commission.europa.eu/news-and-media_bg)
-- [es español](https://commission.europa.eu/news-and-media_es)
-- [cs čeština](https://commission.europa.eu/news-and-media_cs)
-- [da dansk](https://commission.europa.eu/news-and-media_da)
-- [de Deutsch](https://commission.europa.eu/news-and-media_de)
-- [et eesti](https://commission.europa.eu/news-and-media_et)
-- [el ελληνικά](https://commission.europa.eu/news-and-media_el)
-- [en English](https://commission.europa.eu/news-and-media_en)
-- [fr français](https://commission.europa.eu/news-and-media_fr)
-- [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
 ## UE – DG NEAR – Tunisia – News
 
@@ -173,16 +160,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
-- [Tozeur-dattes : les prévisions tablent sur une récolte de 60.000 tonnes](https://lapresse.tn/2025/09/24/tozeur-dattes-les-previsions-tablent-sur-une-recolte-de-60-000-tonnes/)
-- [Sousse : hausse de 10% de la production d’olives](https://lapresse.tn/2025/09/24/sousse-hausse-de-10-de-la-production-dolives/)
-- [Jendouba : un éclair endommage plusieurs maisons](https://lapresse.tn/2025/09/24/jendouba-nord-un-eclair-endommage-plusieurs-maisons/)
+- [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
+- [Tennis – Vainqueur au challenger de Saint-Tropez : Moez Chergui : « Je n’ai pas de sponsor ! »](https://lapresse.tn/2025/09/24/tennis-vainqueur-au-challenger-de-saint-tropez-moez-chergui-je-nai-pas-de-sponsor/)
+- [Volley-mondial – le six Tunisien éliminé aux huitièmes : Une différence d’écart !](https://lapresse.tn/2025/09/24/volley-mondial-le-six-tunisien-elimine-aux-huitiemes-une-difference-decart/)
+- [Dream City 2025 du 3 au 19 octobre : La Palestine comme centre de gravité moral](https://lapresse.tn/2025/09/24/dream-city-2025-du-3-au-19-octobre-la-palestine-comme-centre-de-gravite-moral/)
 - [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
 - [Kasserine : un fonctionnaire déféré et un promoteur placé en garde à vue pour usage de faux](https://lapresse.tn/2025/09/24/kasserine-un-fonctionnaire-defere-et-un-promoteur-place-en-garde-a-vue-pour-usage-de-faux/)
 - [Parlement-Commission de la santé: audit du projet de loi sur le secteur de la santé](https://lapresse.tn/2025/09/24/parlement-commission-de-la-sante-audit-du-projet-de-loi-sur-le-secteur-de-la-sante/)
-- [Ce samedi, journée de vaccination gratuite contre la rage au parc du Belvédère](https://lapresse.tn/2025/09/24/ce-samedi-journee-de-vaccination-gratuite-contre-la-rage-au-parc-du-belvedere/)
-- [Lotfi Riahi : « les bouchers réalisent une marge bénéficiaire de 34 dinars par kg de viande rouge »](https://lapresse.tn/2025/09/24/lotfi-riahi-les-bouchers-realisent-une-marge-beneficiaire-de-34-dinars-par-kg-de-viande-rouge/)
-- [Sidi Bouzid: l’hôpital universitaire se dote d’une unité de banque de sang](https://lapresse.tn/2025/09/23/sidi-bouzid-lhopital-universitaire-se-dote-dune-unite-de-banque-de-sang/)
+- [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
+- [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
+- [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/24/indiscretions-delyssa-17/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -214,10 +201,10 @@
 
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
+- [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
+- [Oral Statement of the ICJ in the interactive dialogue with the Independent International Fact-Finding Mission on the situation in Venezuela](https://www.icj.org/oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-independent-international-fact-finding-mission-on-the-situation-in-venezuela/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
-- [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
-- [International Commission of Jurists in the interactive dialogue on the oral update of the Group of Independent Experts on Belarus](https://www.icj.org/international-commission-of-jurists-in-the-interactive-dialogue-on-the-oral-update-of-the-group-of-independent-experts-on-belarus/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Un député français prend la nationalité béninoise pour dénoncer le racisme dans l’Hexagone](https://www.jeuneafrique.com/1724479/politique/un-depute-francais-prend-la-nationalite-beninoise-pour-denoncer-le-racisme-dans-lhexagone/)
+- [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
+- [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
 - [« L’intégrité territoriale de la RDC doit être respectée » : Emmanuel Macron convoque une conférence à Paris](https://www.jeuneafrique.com/1724374/politique/lintegrite-territoriale-de-la-rdc-doit-etre-respectee-emmanuel-macron-convoque-une-conference-a-paris/)
 - [Le JNIM publie une vidéo montrant des soldats maliens et burkinabè pris en otage](https://www.jeuneafrique.com/1724371/politique/le-jnim-publie-une-video-montrant-des-soldats-maliens-et-burkinabe-pris-en-otage/)
+- [Référendum en Guinée : la nouvelle Constitution approuvée à plus de 89 %](https://www.jeuneafrique.com/1724365/politique/referendum-en-guinee-la-nouvelle-constitution-approuvee-a-plus-de-89/)
+- [L’Afrique face au colonialisme climatique : les chiffres d’une transition énergétique injuste](https://www.jeuneafrique.com/1724142/politique/lafrique-face-au-colonialisme-climatique-les-chiffres-dune-transition-energetique-injuste/)
 - [Démissions, contestations, candidature dissidente…Tidjane Thiam imperturbable face à la crise qui secoue le PDCI](https://www.jeuneafrique.com/1723998/politique/demissions-contestations-candidature-dissidente-tidjane-thiam-imperturbable-face-a-la-crise-qui-secoue-le-pdci/)
-- [Mali : autrefois putschiste tonitruant, Amadou Haya Sanogo se résigne à jouer les figurants](https://www.jeuneafrique.com/1724106/politique/mali-autrefois-putschiste-tonitruant-amadou-haya-sanogo-se-resigne-a-jouer-les-figurants/)
-- [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
-- [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
-- [Maroc–Chine : l’histoire, le Sahara et les milliards](https://www.jeuneafrique.com/1723711/politique/maroc-chine-lhistoire-le-sahara-et-les-milliards/)
-- [« Faire entendre le droit et préserver ce qui fait notre humanité »: le plaidoyer de Bassirou Diomaye Faye à l’ONU en faveur des Palestiniens](https://www.jeuneafrique.com/1723978/politique/faire-entendre-le-droit-et-preserver-ce-qui-fait-notre-humanite-le-plaidoyer-de-bassirou-diomaye-faye-a-lonu-en-faveur-des-palestiniens/)
+- [Du ciment aux hôtels, le holding royal Al Mada au cœur du dispositif Coupe du monde](https://www.jeuneafrique.com/1724293/economie-entreprises/du-ciment-aux-hotels-le-holding-royal-al-mada-au-coeur-du-dispositif-coupe-du-monde/)
 - [Société générale Côte d’Ivoire : 62 ans d’histoire et toujours la crainte d’un départ du groupe](https://www.jeuneafrique.com/1723997/economie-entreprises/societe-generale-cote-divoire-62-ans-dhistoire-et-toujours-la-crainte-dun-depart-du-groupe/)
-- [Pétrole en Afrique : TotalEnergies prêt à (re)passer à la vitesse supérieure](https://www.jeuneafrique.com/1724182/economie-entreprises/petrole-en-afrique-totalenergies-pret-a-repasser-a-la-vitesse-superieure/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
