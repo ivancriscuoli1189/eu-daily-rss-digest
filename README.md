@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 12:19*
+*Generato: 24 Sep 2025, 13:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
+- [Jendouba : un éclair endommage plusieurs maisons](https://lapresse.tn/2025/09/24/jendouba-nord-un-eclair-endommage-plusieurs-maisons/)
 - [Ligue 1 – championnat national (7e journée) – EST : Assurer et rassurer](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-est-assurer-et-rassurer/)
 - [L’OMS dément les propos de Trump sur le lien entre le paracétamol et l’autisme](https://lapresse.tn/2025/09/24/loms-dement-les-propos-de-trump-sur-le-paracetamol-et-lautisme/)
-- [Ligue 1 – championnat national (7e journée) – ST : Ne rien lâcher](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-st-ne-rien-lacher/)
 - [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
 - [Kasserine : un fonctionnaire déféré et un promoteur placé en garde à vue pour usage de faux](https://lapresse.tn/2025/09/24/kasserine-un-fonctionnaire-defere-et-un-promoteur-place-en-garde-a-vue-pour-usage-de-faux/)
 - [Parlement-Commission de la santé: audit du projet de loi sur le secteur de la santé](https://lapresse.tn/2025/09/24/parlement-commission-de-la-sante-audit-du-projet-de-loi-sur-le-secteur-de-la-sante/)
