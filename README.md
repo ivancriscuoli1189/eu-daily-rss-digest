@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 13:24*
+*Generato: 24 Sep 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
@@ -91,7 +92,6 @@
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 - [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 - [MEPs ready to start talks on new traveller protection rules](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30191/meps-ready-to-start-talks-on-new-traveller-protection-rules)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20250903IPR30127/ep-today-thursday-11-september)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
+- [Tozeur-dattes : les prévisions tablent sur une récolte de 60.000 tonnes](https://lapresse.tn/2025/09/24/tozeur-dattes-les-previsions-tablent-sur-une-recolte-de-60-000-tonnes/)
+- [Sousse : hausse de 10% de la production d’olives](https://lapresse.tn/2025/09/24/sousse-hausse-de-10-de-la-production-dolives/)
 - [Jendouba : un éclair endommage plusieurs maisons](https://lapresse.tn/2025/09/24/jendouba-nord-un-eclair-endommage-plusieurs-maisons/)
-- [Ligue 1 – championnat national (7e journée) – EST : Assurer et rassurer](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-est-assurer-et-rassurer/)
-- [L’OMS dément les propos de Trump sur le lien entre le paracétamol et l’autisme](https://lapresse.tn/2025/09/24/loms-dement-les-propos-de-trump-sur-le-paracetamol-et-lautisme/)
 - [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
 - [Kasserine : un fonctionnaire déféré et un promoteur placé en garde à vue pour usage de faux](https://lapresse.tn/2025/09/24/kasserine-un-fonctionnaire-defere-et-un-promoteur-place-en-garde-a-vue-pour-usage-de-faux/)
 - [Parlement-Commission de la santé: audit du projet de loi sur le secteur de la santé](https://lapresse.tn/2025/09/24/parlement-commission-de-la-sante-audit-du-projet-de-loi-sur-le-secteur-de-la-sante/)
