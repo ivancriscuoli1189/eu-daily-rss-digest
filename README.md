@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 11:03*
+*Generato: 24 Sep 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Digitalisation : la voie d’un redressement économique sécurisé](https://lapresse.tn/2025/09/23/digitalisation-la-voie-dun-redressement-economique-securise/)
-- [Ligue 1 – championnat national (7e journée) – CAB : Rester dans la même dynamique !](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-cab-rester-dans-la-meme-dynamique/)
+- [Ligue 1 – championnat national (7e journée) – EST : Assurer et rassurer](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-est-assurer-et-rassurer/)
+- [L’OMS dément les propos de Trump sur le lien entre le paracétamol et l’autisme](https://lapresse.tn/2025/09/24/loms-dement-les-propos-de-trump-sur-le-paracetamol-et-lautisme/)
+- [Ligue 1 – championnat national (7e journée) – ST : Ne rien lâcher](https://lapresse.tn/2025/09/24/ligue-1-championnat-national-7e-journee-st-ne-rien-lacher/)
 - [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
 - [Kasserine : un fonctionnaire déféré et un promoteur placé en garde à vue pour usage de faux](https://lapresse.tn/2025/09/24/kasserine-un-fonctionnaire-defere-et-un-promoteur-place-en-garde-a-vue-pour-usage-de-faux/)
 - [Parlement-Commission de la santé: audit du projet de loi sur le secteur de la santé](https://lapresse.tn/2025/09/24/parlement-commission-de-la-sante-audit-du-projet-de-loi-sur-le-secteur-de-la-sante/)
-- [Mohamed Ali Nafti en marge de l’Assemblée Générale de l’ONU : « il faut parvenir à une gestion concernée de la politique migratoire »](https://lapresse.tn/2025/09/24/mohamed-ali-nafti-en-marge-de-lassemblee-generale-de-lonu-il-faut-parvenir-a-une-gestion-concernee-de-la-politique-migratoire/)
+- [Ce samedi, journée de vaccination gratuite contre la rage au parc du Belvédère](https://lapresse.tn/2025/09/24/ce-samedi-journee-de-vaccination-gratuite-contre-la-rage-au-parc-du-belvedere/)
 - [Lotfi Riahi : « les bouchers réalisent une marge bénéficiaire de 34 dinars par kg de viande rouge »](https://lapresse.tn/2025/09/24/lotfi-riahi-les-bouchers-realisent-une-marge-beneficiaire-de-34-dinars-par-kg-de-viande-rouge/)
 - [Sidi Bouzid: l’hôpital universitaire se dote d’une unité de banque de sang](https://lapresse.tn/2025/09/23/sidi-bouzid-lhopital-universitaire-se-dote-dune-unite-de-banque-de-sang/)
-- [Djerba-Port de pêche de Houmet Souk: le mur de la discorde](https://lapresse.tn/2025/09/23/djerba-port-de-peche-de-houmet-souk-le-mur-de-la-discorde/)
-- [Viandes blanches : Une stratégie à revoir](https://lapresse.tn/2025/09/23/viandes-blanches-une-strategie-a-revoir/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -217,7 +217,7 @@
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
-- [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
+- [International Commission of Jurists in the interactive dialogue on the oral update of the Group of Independent Experts on Belarus](https://www.icj.org/international-commission-of-jurists-in-the-interactive-dialogue-on-the-oral-update-of-the-group-of-independent-experts-on-belarus/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
@@ -266,12 +266,12 @@
 
 - [« L’intégrité territoriale de la RDC doit être respectée » : Emmanuel Macron convoque une conférence à Paris](https://www.jeuneafrique.com/1724374/politique/lintegrite-territoriale-de-la-rdc-doit-etre-respectee-emmanuel-macron-convoque-une-conference-a-paris/)
 - [Le JNIM publie une vidéo montrant des soldats maliens et burkinabè pris en otage](https://www.jeuneafrique.com/1724371/politique/le-jnim-publie-une-video-montrant-des-soldats-maliens-et-burkinabe-pris-en-otage/)
+- [Démissions, contestations, candidature dissidente…Tidjane Thiam imperturbable face à la crise qui secoue le PDCI](https://www.jeuneafrique.com/1723998/politique/demissions-contestations-candidature-dissidente-tidjane-thiam-imperturbable-face-a-la-crise-qui-secoue-le-pdci/)
 - [Mali : autrefois putschiste tonitruant, Amadou Haya Sanogo se résigne à jouer les figurants](https://www.jeuneafrique.com/1724106/politique/mali-autrefois-putschiste-tonitruant-amadou-haya-sanogo-se-resigne-a-jouer-les-figurants/)
 - [Le Ghana renvoie au Togo des migrants ouest-africains expulsés par les États-Unis](https://www.jeuneafrique.com/1724113/politique/le-ghana-renvoie-au-togo-des-migrants-ouest-africains-expulses-par-les-etats-unis/)
 - [En RDC, Vital Kamerhe « devance l’iguane dans l’eau » en démissionnant du perchoir](https://www.jeuneafrique.com/1723965/politique/en-rdc-vital-kamerhe-devance-liguane-dans-leau-en-demissionnant-du-perchoir/)
 - [Maroc–Chine : l’histoire, le Sahara et les milliards](https://www.jeuneafrique.com/1723711/politique/maroc-chine-lhistoire-le-sahara-et-les-milliards/)
 - [« Faire entendre le droit et préserver ce qui fait notre humanité »: le plaidoyer de Bassirou Diomaye Faye à l’ONU en faveur des Palestiniens](https://www.jeuneafrique.com/1723978/politique/faire-entendre-le-droit-et-preserver-ce-qui-fait-notre-humanite-le-plaidoyer-de-bassirou-diomaye-faye-a-lonu-en-faveur-des-palestiniens/)
-- [Pourquoi l’Africa CDC s’offre les services de Troy Fitrell](https://www.jeuneafrique.com/1723893/politique/pourquoi-lafrica-cdc-soffre-les-services-de-troy-fitrell/)
 - [Société générale Côte d’Ivoire : 62 ans d’histoire et toujours la crainte d’un départ du groupe](https://www.jeuneafrique.com/1723997/economie-entreprises/societe-generale-cote-divoire-62-ans-dhistoire-et-toujours-la-crainte-dun-depart-du-groupe/)
 - [Pétrole en Afrique : TotalEnergies prêt à (re)passer à la vitesse supérieure](https://www.jeuneafrique.com/1724182/economie-entreprises/petrole-en-afrique-totalenergies-pret-a-repasser-a-la-vitesse-superieure/)
 
