@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 11:04*
+*Generato: 25 Sep 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
+- [Tourisme : L’arrivée de 4 500 croisiéristes redonne vie à la médina de Tunis](https://lapresse.tn/2025/09/25/tourisme-larrivee-de-4-500-croisieristes-redonne-vie-a-la-medina-de-tunis/)
+- [Le Palais des expositions du Kram accueille le Festival des sports 2025](https://lapresse.tn/2025/09/25/le-palais-des-expositions-du-kram-accueille-le-festival-des-sports-2025/)
+- [Viandes blanches : le réajustement des prix s’étendra à 13 gouvernorats](https://lapresse.tn/2025/09/25/viandes-blanches-le-reajustement-des-prix-setendra-a-13-gouvernorats/)
+- [Transferts des tunisiens à l’étranger : les prévisions tablent sur une hausse de 6.4% en 2026](https://lapresse.tn/2025/09/25/transferts-des-tunisiens-a-letranger-les-previsions-tablent-sur-une-hausse-de-6-4-en-2026/)
 - [Crise des visas américains : Les talents tunisiens et mondiaux se tournent vers le Royaume-Uni et le Canada ?](https://lapresse.tn/2025/09/25/crise-des-visas-americains-les-talents-tunisiens-et-mondiaux-se-tournent-vers-le-royaume-uni-et-le-canada/)
 - [Météo : des pluies attendues sur la plupart des régions aujourd’hui](https://lapresse.tn/2025/09/25/meteo-des-pluies-attendues-sur-la-plupart-des-regions-aujourdhui/)
 - [Lutte contre l’abattage clandestin : 3 tonnes de viandes et volailles saisies en Tunisie](https://lapresse.tn/2025/09/25/lutte-contre-labattage-clandestin-3-tonnes-de-viandes-et-volailles-saisies-en-tunisie/)
-- [Les Émirats arabes unis ont-ils suspendu les visas pour les Tunisiens ?](https://lapresse.tn/2025/09/25/les-emirats-arabes-unis-ont-ils-suspendu-les-visas-pour-les-tunisiens/)
-- [L’ambassade des États-Unis à Tunis recrute](https://lapresse.tn/2025/09/25/lambassade-des-etats-unis-a-tunis-recrute/)
 - [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
 - [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
-- [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/24/indiscretions-delyssa-17/)
-- [Tunisie : le groupe Arabi Holding prévoit des projets majeurs dans le tourisme et l’industrie](https://lapresse.tn/2025/09/25/tunisie-le-groupe-arabi-holding-prevoit-des-projets-majeurs-dans-le-tourisme-et-lindustrie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -273,7 +273,7 @@
 - [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
 - [Cameroun : des conseillers américains ont sécurisé le voyage de Paul Biya en Suisse](https://www.jeuneafrique.com/1724014/politique/cameroun-des-conseillers-americains-ont-securise-le-voyage-de-paul-biya-en-suisse/)
 - [Ce qu’il se cache derrière « Genova », le projet IA de MTN](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
-- [De Société générale à Mamadi Doumbouya, Djiba Diakité, le conseiller de l’ombre devenu « M. Simandou »](https://www.jeuneafrique.com/1724367/economie-entreprises/de-societe-generale-a-mamadi-doumbouya-djiba-diakite-le-conseiller-de-lombre-devenu-m-simandou/)
+- [Côte d’Ivoire : qui sont les étoiles montantes de l’économie ivoirienne ?](https://www.jeuneafrique.com/1724213/economie-entreprises/cote-divoire-qui-sont-les-etoiles-montantes-de-leconomie-ivoirienne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
