@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 09:13*
+*Generato: 25 Sep 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-19)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة و السيدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد النّوري وزير الداخلية، والسيدين مراد سعيدان، المدير العام للأمن الوطني، وحسين الغربي، المدير العام آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%D8%8C-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D8%AF-%D8%B3%D8%B9%D9%8A%D8%AF%D8%A7%D9%86%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد السهيلي وزير الدفاع الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%87%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-2)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-3)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
-- [Ligue 1 – championnat national (7e journée) : L’EST, le ST et l’USM assurent](https://lapresse.tn/2025/09/25/ligue-1-championnat-national-7e-journee-lest-le-st-et-lusm-assurent/)
-- [Face à Tanger Med et Port-Saïd, où se situe le port de Radès dans le classement africain ?](https://lapresse.tn/2025/09/25/face-a-tanger-med-et-port-said-ou-se-situe-le-port-de-rades-dans-le-classement-africain/)
-- [Monnaie et inflation : pourquoi le nouveau billet de 50 dinars inquiète ?](https://lapresse.tn/2025/09/25/monnaie-et-inflation-pourquoi-le-nouveau-billet-de-50-dinars-inquiete/)
-- [Loi de finances 2026 : Kaïs Saïed plaide pour la justice sociale et la réduction des inégalités](https://lapresse.tn/2025/09/25/loi-de-finances-2026-kais-saied-plaide-pour-la-justice-sociale-et-la-reduction-des-inegalites/)
-- [Crash évité de justesse à l’aéroport de Nice: le réflexe héroïque du pilote de Nouvelair](https://lapresse.tn/2025/09/24/une-catastrophe-a-failli-survenir-a-laeroport-de-nice-dimanche-dernier-a-23h30-heure-francaise-un-airbus-de-nouvel-air-en-provenance-de-tunis-sapprete-a-atterrir-sur-le-tarmac-ni/)
-- [Nafti défend à l’ONU une « réforme juste et globale » du système financier international](https://lapresse.tn/2025/09/24/nafti-defend-a-lonu-une-reforme-juste-et-globale-du-systeme-financier-international/)
+- [Crise des visas américains : Les talents tunisiens et mondiaux se tournent vers le Royaume-Uni et le Canada ?](https://lapresse.tn/2025/09/25/crise-des-visas-americains-les-talents-tunisiens-et-mondiaux-se-tournent-vers-le-royaume-uni-et-le-canada/)
+- [Météo : des pluies attendues sur la plupart des régions aujourd’hui](https://lapresse.tn/2025/09/25/meteo-des-pluies-attendues-sur-la-plupart-des-regions-aujourdhui/)
+- [Lutte contre l’abattage clandestin : 3 tonnes de viandes et volailles saisies en Tunisie](https://lapresse.tn/2025/09/25/lutte-contre-labattage-clandestin-3-tonnes-de-viandes-et-volailles-saisies-en-tunisie/)
+- [Les Émirats arabes unis ont-ils suspendu les visas pour les Tunisiens ?](https://lapresse.tn/2025/09/25/les-emirats-arabes-unis-ont-ils-suspendu-les-visas-pour-les-tunisiens/)
+- [L’ambassade des États-Unis à Tunis recrute](https://lapresse.tn/2025/09/25/lambassade-des-etats-unis-a-tunis-recrute/)
 - [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
 - [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
 - [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/24/indiscretions-delyssa-17/)
+- [Tunisie : le groupe Arabi Holding prévoit des projets majeurs dans le tourisme et l’industrie](https://lapresse.tn/2025/09/25/tunisie-le-groupe-arabi-holding-prevoit-des-projets-majeurs-dans-le-tourisme-et-lindustrie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet de nouvelles élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
+- [Le prochain sommet Afrique-France se tiendra au Kenya les 11 et 12 mai 2026](https://www.jeuneafrique.com/1724822/politique/le-prochain-sommet-afrique-france-se-tiendra-au-kenya-les-11-et-12-mai-2026/)
+- [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet des élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
 - [Présidentielle au Malawi : Peter Mutharika revient au pouvoir à 85 ans, Lazarus Chakwera reconnaît sa défaite](https://www.jeuneafrique.com/1724752/politique/presidentielle-au-malawi-peter-mutharika-revient-au-pouvoir-a-85-ans-lazarus-chakwera-reconnait-sa-defaite/)
 - [En Algérie, six islamistes armés tués dans une opération de l’armée](https://www.jeuneafrique.com/1724743/politique/en-algerie-six-islamistes-armes-tues-dans-une-operation-de-larmee/)
 - [Un député français prend la nationalité béninoise pour dénoncer le racisme dans l’Hexagone](https://www.jeuneafrique.com/1724479/politique/un-depute-francais-prend-la-nationalite-beninoise-pour-denoncer-le-racisme-dans-lhexagone/)
 - [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
 - [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
 - [Cameroun : des conseillers américains ont sécurisé le voyage de Paul Biya en Suisse](https://www.jeuneafrique.com/1724014/politique/cameroun-des-conseillers-americains-ont-securise-le-voyage-de-paul-biya-en-suisse/)
-- [« L’intégrité territoriale de la RDC doit être respectée » : Emmanuel Macron convoque une conférence à Paris](https://www.jeuneafrique.com/1724374/politique/lintegrite-territoriale-de-la-rdc-doit-etre-respectee-emmanuel-macron-convoque-une-conference-a-paris/)
 - [Ce qu’il se cache derrière « Genova », le projet IA de MTN](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
-- [Du ciment aux hôtels, le holding royal Al Mada au cœur du dispositif Coupe du monde](https://www.jeuneafrique.com/1724293/economie-entreprises/du-ciment-aux-hotels-le-holding-royal-al-mada-au-coeur-du-dispositif-coupe-du-monde/)
+- [De Société générale à Mamadi Doumbouya, Djiba Diakité, le conseiller de l’ombre devenu « M. Simandou »](https://www.jeuneafrique.com/1724367/economie-entreprises/de-societe-generale-a-mamadi-doumbouya-djiba-diakite-le-conseiller-de-lombre-devenu-m-simandou/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
