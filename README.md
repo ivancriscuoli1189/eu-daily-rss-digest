@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 15:10*
+*Generato: 25 Sep 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
-- [Fonction publique en Tunisie : fin de « l’épée de Damoclès » grâce à la réforme du Code pénal](https://lapresse.tn/2025/09/25/fonction-publique-en-tunisie-fin-de-lepee-de-damocles-grace-a-la-reforme-du-code-penal/)
-- [Mohamed Ali Nafti préside une séance de l’Assemblée générale des Nations unies à New York](https://lapresse.tn/2025/09/25/mohamed-ali-nafti-preside-une-seance-de-lassemblee-generale-des-nations-unies-a-new-york/)
-- [Cette ville tunisienne attire massivement les touristes algériens en 2025](https://lapresse.tn/2025/09/25/cette-ville-tunisienne-attire-massivement-les-touristes-algeriens-en-2025/)
-- [Tunisie Telecom et Ahmed Jaouadi : un duo pour porter haut les couleurs de la Tunisie](https://lapresse.tn/2025/09/25/tunisie-telecom-et-ahmed-jaouadi-un-duo-pour-porter-haut-les-couleurs-de-la-tunisie/)
-- [MAE-Rencontre avec Ministère des Affaires Etrangères des Émirats Arabes Unis: consolider la coopération dans les domaines universitaire, médical et paramédical](https://lapresse.tn/2025/09/25/mae-rencontre-avec-ministere-des-affaires-etrangeres-des-emirats-arabes-unis-consolider-la-cooperation-dans-les-domaines-universitaire-medical-et-paramedical/)
-- [Le climat rend malade : alerte sur de nouvelles maladies en Tunisie](https://lapresse.tn/2025/09/25/le-climat-rend-malade-alerte-sur-de-nouvelles-maladies-en-tunisie/)
-- [60 % de l’île de Kerkennah menacée de disparition](https://lapresse.tn/2025/09/25/60-de-lile-de-kerkennah-menacee-de-disparition/)
-- [Viandes blanches : le réajustement des prix s’étendra à 13 gouvernorats](https://lapresse.tn/2025/09/25/viandes-blanches-le-reajustement-des-prix-setendra-a-13-gouvernorats/)
-- [Expo universelle Osaka 2025 : Le pavillon tunisien a attiré plus de 550 mille visiteurs](https://lapresse.tn/2025/09/25/expo-universelle-osaka-2025-le-pavillon-tunisien-a-attire-plus-de-550-mille-visiteurs/)
+- [La sécurité sociale, élément crucial du système de santé](https://lapresse.tn/2025/09/25/la-securite-sociale-element-crucial-du-systeme-de-sante/)
+- [Ouverture de la saison au MACAM : Illuminations contemporaines](https://lapresse.tn/2025/09/25/ouverture-de-la-saison-au-macam-illuminations-contemporaines/)
+- [Gafsa – Transport urbain : Bus neufs et itinéraires repensés](https://lapresse.tn/2025/09/25/gafsa-transport-urbain-bus-neufs-et-itineraires-repenses/)
+- [Journée Mondiale de la Mer : Des enjeux importants sous le signe de l’urgence écologique en Tunisie](https://lapresse.tn/2025/09/25/journee-mondiale-de-la-mer-des-enjeux-importants-sous-le-signe-de-lurgence-ecologique-en-tunisie/)
+- [Transferts de la diaspora : Une alternative de choix pour financer le développement en Afrique](https://lapresse.tn/2025/09/25/transferts-de-la-diaspora-une-alternative-de-choix-pour-financer-le-developpement-en-afrique/)
+- [Évaluation post-campagne céréalière : Un bilan qui prête à confusion !](https://lapresse.tn/2025/09/25/evaluation-post-campagne-cerealiere-un-bilan-qui-prete-a-confusion/)
+- [Rentrée scolaire et universitaire : Sous le signe de la persévérance et de la militance](https://lapresse.tn/2025/09/25/rentree-scolaire-et-universitaire-sous-le-signe-de-la-perseverance-et-de-la-militance/)
+- [Ventes de voitures en Tunisie : les marques asiatiques dominent, le secteur parallèle monte](https://lapresse.tn/2025/09/25/ventes-de-voitures-en-tunisie-les-marques-asiatiques-dominent-le-secteur-parallele-monte/)
+- [Pourquoi : Le vent semble tourner…](https://lapresse.tn/2025/09/25/pourquoi-le-vent-semble-tourner/)
+- [Loi de finances 2026 : Jeter les bases d’une fiscalité plus performante et plus juste](https://lapresse.tn/2025/09/25/loi-de-finances-2026-jeter-les-bases-dune-fiscalite-plus-performante-et-plus-juste/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
 - [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
+- [Financement libyen : l’ex-président français Nicolas Sarkozy condamné à cinq ans de prison](https://www.jeuneafrique.com/1725080/politique/financement-libyen-lex-president-francais-nicolas-sarkozy-condamne-a-cinq-ans-de-prison/)
+- [Nacer El Djinn, le général réfugié en Espagne qui fait trembler Alger](https://www.jeuneafrique.com/1724940/politique/nacer-el-djinn-le-general-refugie-en-espagne-qui-fait-trembler-alger/)
 - [Le prochain sommet Afrique-France se tiendra au Kenya les 11 et 12 mai 2026](https://www.jeuneafrique.com/1724822/politique/le-prochain-sommet-afrique-france-se-tiendra-au-kenya-les-11-et-12-mai-2026/)
 - [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet des élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
 - [Présidentielle au Malawi : Peter Mutharika revient au pouvoir à 85 ans, Lazarus Chakwera reconnaît sa défaite](https://www.jeuneafrique.com/1724752/politique/presidentielle-au-malawi-peter-mutharika-revient-au-pouvoir-a-85-ans-lazarus-chakwera-reconnait-sa-defaite/)
 - [En Algérie, six islamistes armés tués dans une opération de l’armée](https://www.jeuneafrique.com/1724743/politique/en-algerie-six-islamistes-armes-tues-dans-une-operation-de-larmee/)
-- [Pourquoi le Niger a dissous 400 entreprises de sécurité](https://www.jeuneafrique.com/1724592/politique/pourquoi-le-niger-a-dissous-400-entreprises-de-securite/)
-- [Un député français prend la nationalité béninoise pour dénoncer le racisme dans l’Hexagone](https://www.jeuneafrique.com/1724479/politique/un-depute-francais-prend-la-nationalite-beninoise-pour-denoncer-le-racisme-dans-lhexagone/)
-- [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
+- [Carlyle : le retour opportuniste du géant américain de l’investissement en Afrique](https://www.jeuneafrique.com/1724306/economie-entreprises/carlyle-le-retour-opportuniste-du-geant-americain-de-linvestissement-en-afrique/)
 - [Ce que Genova révèle sur l’ambition IA de MTN en Afrique](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
-- [Côte d’Ivoire : qui sont les étoiles montantes de l’économie ivoirienne ?](https://www.jeuneafrique.com/1724213/economie-entreprises/cote-divoire-qui-sont-les-etoiles-montantes-de-leconomie-ivoirienne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
