@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 13:25*
+*Generato: 25 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
-- [Expo universelle Osaka 2025 : Le pavillon tunisien a attiré plus de 550 mille visiteurs](https://lapresse.tn/2025/09/25/expo-universelle-osaka-2025-le-pavillon-tunisien-a-attire-plus-de-550-mille-visiteurs/)
-- [Kasserine : après les dernières pluies, la saison agricole s’annonce prometteuse](https://lapresse.tn/2025/09/25/kasserine-apres-les-dernieres-pluies-la-saison-agricole-sannonce-prometteuse/)
+- [Fonction publique en Tunisie : fin de « l’épée de Damoclès » grâce à la réforme du Code pénal](https://lapresse.tn/2025/09/25/fonction-publique-en-tunisie-fin-de-lepee-de-damocles-grace-a-la-reforme-du-code-penal/)
+- [Mohamed Ali Nafti préside une séance de l’Assemblée générale des Nations unies à New York](https://lapresse.tn/2025/09/25/mohamed-ali-nafti-preside-une-seance-de-lassemblee-generale-des-nations-unies-a-new-york/)
+- [Cette ville tunisienne attire massivement les touristes algériens en 2025](https://lapresse.tn/2025/09/25/cette-ville-tunisienne-attire-massivement-les-touristes-algeriens-en-2025/)
+- [Tunisie Telecom et Ahmed Jaouadi : un duo pour porter haut les couleurs de la Tunisie](https://lapresse.tn/2025/09/25/tunisie-telecom-et-ahmed-jaouadi-un-duo-pour-porter-haut-les-couleurs-de-la-tunisie/)
 - [MAE-Rencontre avec Ministère des Affaires Etrangères des Émirats Arabes Unis: consolider la coopération dans les domaines universitaire, médical et paramédical](https://lapresse.tn/2025/09/25/mae-rencontre-avec-ministere-des-affaires-etrangeres-des-emirats-arabes-unis-consolider-la-cooperation-dans-les-domaines-universitaire-medical-et-paramedical/)
-- [Le MAE rencontre son homologue estonien : une volonté partagée de renforcer la coopération bilatérale](https://lapresse.tn/2025/09/25/le-mae-rencontre-son-homologue-estonien-une-volonte-partagee-de-renforcer-la-cooperation-bilaterale/)
-- [Entretien entre Mohamed Ali Nafti et le Secrétaire Général adjoint de l’ONU aux opérations de paix](https://lapresse.tn/2025/09/25/entretien-entre-mohamed-ali-nafti-et-le-secretaire-general-adjoint-de-lonu-aux-operations-de-paix/)
-- [Transferts des tunisiens à l’étranger : les prévisions tablent sur une hausse de 6.4% en 2026](https://lapresse.tn/2025/09/25/transferts-des-tunisiens-a-letranger-les-previsions-tablent-sur-une-hausse-de-6-4-en-2026/)
+- [Le climat rend malade : alerte sur de nouvelles maladies en Tunisie](https://lapresse.tn/2025/09/25/le-climat-rend-malade-alerte-sur-de-nouvelles-maladies-en-tunisie/)
+- [60 % de l’île de Kerkennah menacée de disparition](https://lapresse.tn/2025/09/25/60-de-lile-de-kerkennah-menacee-de-disparition/)
 - [Viandes blanches : le réajustement des prix s’étendra à 13 gouvernorats](https://lapresse.tn/2025/09/25/viandes-blanches-le-reajustement-des-prix-setendra-a-13-gouvernorats/)
-- [Lutte contre l’abattage clandestin : 3 tonnes de viandes et volailles saisies en Tunisie](https://lapresse.tn/2025/09/25/lutte-contre-labattage-clandestin-3-tonnes-de-viandes-et-volailles-saisies-en-tunisie/)
-- [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
+- [Expo universelle Osaka 2025 : Le pavillon tunisien a attiré plus de 550 mille visiteurs](https://lapresse.tn/2025/09/25/expo-universelle-osaka-2025-le-pavillon-tunisien-a-attire-plus-de-550-mille-visiteurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
-- [Time to Act: Reflections on the UN80 Ministerial Roundtable on Human Rights Reform](https://www.icj.org/time-to-act-reflections-on-the-un80-ministerial-roundtable-on-human-rights-reform/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [Oral Statement of the ICJ in the interactive dialogue with the Independent International Fact-Finding Mission on the situation in Venezuela](https://www.icj.org/oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-independent-international-fact-finding-mission-on-the-situation-in-venezuela/)
+- [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
@@ -240,7 +240,7 @@
 
 - [Qualche considerazione sull’annuncio (si spera prematuro) del tramonto del diritto internazionale](https://www.cespi.it/it/eventi-attualita/editoriale/qualche-considerazione-sullannuncio-si-spera-prematuro-del-tramonto-del)
 - [Migrazioni e integrazione: una storia](https://www.cespi.it/it/eventi-attualita/editoriale/migrazioni-integrazione-una-storia)
-- [Colonial legacy in South Asia. Focus on India](https://www.cespi.it/it/eventi-note/eventi/colonial-legacy-south-asia-focus-india)
+- [A HISTORY OF INDIA](https://www.cespi.it/it/eventi-note/eventi/history-india)
 - [AVVISO PUBBLICO - PROCEDURA DI SELEZIONE COMPARATIVA PER TITOLI DI N.1 FORMATORE LINGUA ITALIANA L2.](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-pubblico-procedura-di-selezione-comparativa-titoli-di-n1-formatore)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
 - [Le prochain sommet Afrique-France se tiendra au Kenya les 11 et 12 mai 2026](https://www.jeuneafrique.com/1724822/politique/le-prochain-sommet-afrique-france-se-tiendra-au-kenya-les-11-et-12-mai-2026/)
 - [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet des élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
 - [Présidentielle au Malawi : Peter Mutharika revient au pouvoir à 85 ans, Lazarus Chakwera reconnaît sa défaite](https://www.jeuneafrique.com/1724752/politique/presidentielle-au-malawi-peter-mutharika-revient-au-pouvoir-a-85-ans-lazarus-chakwera-reconnait-sa-defaite/)
 - [En Algérie, six islamistes armés tués dans une opération de l’armée](https://www.jeuneafrique.com/1724743/politique/en-algerie-six-islamistes-armes-tues-dans-une-operation-de-larmee/)
+- [Pourquoi le Niger a dissous 400 entreprises de sécurité](https://www.jeuneafrique.com/1724592/politique/pourquoi-le-niger-a-dissous-400-entreprises-de-securite/)
 - [Un député français prend la nationalité béninoise pour dénoncer le racisme dans l’Hexagone](https://www.jeuneafrique.com/1724479/politique/un-depute-francais-prend-la-nationalite-beninoise-pour-denoncer-le-racisme-dans-lhexagone/)
 - [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
-- [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
-- [Cameroun : des conseillers américains ont sécurisé le voyage de Paul Biya en Suisse](https://www.jeuneafrique.com/1724014/politique/cameroun-des-conseillers-americains-ont-securise-le-voyage-de-paul-biya-en-suisse/)
 - [Ce que Genova révèle sur l’ambition IA de MTN en Afrique](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
 - [Côte d’Ivoire : qui sont les étoiles montantes de l’économie ivoirienne ?](https://www.jeuneafrique.com/1724213/economie-entreprises/cote-divoire-qui-sont-les-etoiles-montantes-de-leconomie-ivoirienne/)
 
