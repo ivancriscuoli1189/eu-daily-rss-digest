@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Sep 2025, 21:03*
+*Generato: 25 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
+- [Crash évité de justesse à l’aéroport de Nice: le réflexe héroïque du pilote de Nouvelair](https://lapresse.tn/2025/09/24/une-catastrophe-a-failli-survenir-a-laeroport-de-nice-dimanche-dernier-a-23h30-heure-francaise-un-airbus-de-nouvel-air-en-provenance-de-tunis-sapprete-a-atterrir-sur-le-tarmac-ni/)
 - [Nafti défend à l’ONU une « réforme juste et globale » du système financier international](https://lapresse.tn/2025/09/24/nafti-defend-a-lonu-une-reforme-juste-et-globale-du-systeme-financier-international/)
 - [Le projet du budget économique pour l’année 2026 au centre d’un conseil ministériel](https://lapresse.tn/2025/09/24/le-projet-du-budget-economique-pour-lannee-2026-au-centre-dun-conseil-ministeriel/)
-- [Football-Championnat de la Ligue 1 (7eme journée) : résultats et classement](https://lapresse.tn/2025/09/24/football-championnat-de-la-ligue-1-7eme-journee-resultats-et-classement/)
 - [La loi sur les contrats de travail et la sous-traitance publiée dans le journal officiel](https://lapresse.tn/2025/09/24/la-loi-sur-les-contrats-de-travail-et-la-sous-traitance-publiee-dans-le-journal-officiel/)
-- [Alerte météo : forts orages et pluies intenses cet après-midi mercredi dans certaines régions](https://lapresse.tn/2025/09/24/meteo-forts-orages-et-pluies-intenses-cet-apres-midi-mercredi-dans-certaines-regions/)
 - [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
 - [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
 - [INDISCRETIONS D’ELYSSA](https://lapresse.tn/2025/09/24/indiscretions-delyssa-17/)
 - [Pourquoi : Les viandes rouges et… blanches](https://lapresse.tn/2025/09/24/pourquoi-les-viandes-rouges-et-blanches/)
+- [Transferts des tunisiens à l’étranger : en 2026, ils devront atteindre 7900 millions de dinars](https://lapresse.tn/2025/09/24/transferts-des-tunisiens-a-letranger-en-2026-ils-devront-atteindre-7900-millions-de-dinars/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,11 +267,11 @@
 - [Un député français prend la nationalité béninoise pour dénoncer le racisme dans l’Hexagone](https://www.jeuneafrique.com/1724479/politique/un-depute-francais-prend-la-nationalite-beninoise-pour-denoncer-le-racisme-dans-lhexagone/)
 - [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
 - [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
+- [Cameroun : des conseillers américains ont sécurisé le voyage de Paul Biya en Suisse](https://www.jeuneafrique.com/1724014/politique/cameroun-des-conseillers-americains-ont-securise-le-voyage-de-paul-biya-en-suisse/)
 - [« L’intégrité territoriale de la RDC doit être respectée » : Emmanuel Macron convoque une conférence à Paris](https://www.jeuneafrique.com/1724374/politique/lintegrite-territoriale-de-la-rdc-doit-etre-respectee-emmanuel-macron-convoque-une-conference-a-paris/)
 - [Le JNIM publie une vidéo montrant des soldats maliens et burkinabè pris en otage](https://www.jeuneafrique.com/1724371/politique/le-jnim-publie-une-video-montrant-des-soldats-maliens-et-burkinabe-pris-en-otage/)
 - [Référendum en Guinée : la nouvelle Constitution approuvée à plus de 89 %](https://www.jeuneafrique.com/1724365/politique/referendum-en-guinee-la-nouvelle-constitution-approuvee-a-plus-de-89/)
 - [L’Afrique face au colonialisme climatique : les chiffres d’une transition énergétique injuste](https://www.jeuneafrique.com/1724142/politique/lafrique-face-au-colonialisme-climatique-les-chiffres-dune-transition-energetique-injuste/)
-- [Démissions, contestations, candidature dissidente…Tidjane Thiam imperturbable face à la crise qui secoue le PDCI](https://www.jeuneafrique.com/1723998/politique/demissions-contestations-candidature-dissidente-tidjane-thiam-imperturbable-face-a-la-crise-qui-secoue-le-pdci/)
 - [Du ciment aux hôtels, le holding royal Al Mada au cœur du dispositif Coupe du monde](https://www.jeuneafrique.com/1724293/economie-entreprises/du-ciment-aux-hotels-le-holding-royal-al-mada-au-coeur-du-dispositif-coupe-du-monde/)
 - [Société générale Côte d’Ivoire : 62 ans d’histoire et toujours la crainte d’un départ du groupe](https://www.jeuneafrique.com/1723997/economie-entreprises/societe-generale-cote-divoire-62-ans-dhistoire-et-toujours-la-crainte-dun-depart-du-groupe/)
 
