@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 12:19*
+*Generato: 25 Sep 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [L’isolement !](https://lapresse.tn/2025/09/24/lisolement/)
-- [Tourisme : L’arrivée de 4 500 croisiéristes redonne vie à la médina de Tunis](https://lapresse.tn/2025/09/25/tourisme-larrivee-de-4-500-croisieristes-redonne-vie-a-la-medina-de-tunis/)
-- [Le Palais des expositions du Kram accueille le Festival des sports 2025](https://lapresse.tn/2025/09/25/le-palais-des-expositions-du-kram-accueille-le-festival-des-sports-2025/)
-- [Viandes blanches : le réajustement des prix s’étendra à 13 gouvernorats](https://lapresse.tn/2025/09/25/viandes-blanches-le-reajustement-des-prix-setendra-a-13-gouvernorats/)
+- [Expo universelle Osaka 2025 : Le pavillon tunisien a attiré plus de 550 mille visiteurs](https://lapresse.tn/2025/09/25/expo-universelle-osaka-2025-le-pavillon-tunisien-a-attire-plus-de-550-mille-visiteurs/)
+- [Kasserine : après les dernières pluies, la saison agricole s’annonce prometteuse](https://lapresse.tn/2025/09/25/kasserine-apres-les-dernieres-pluies-la-saison-agricole-sannonce-prometteuse/)
+- [MAE-Rencontre avec Ministère des Affaires Etrangères des Émirats Arabes Unis: consolider la coopération dans les domaines universitaire, médical et paramédical](https://lapresse.tn/2025/09/25/mae-rencontre-avec-ministere-des-affaires-etrangeres-des-emirats-arabes-unis-consolider-la-cooperation-dans-les-domaines-universitaire-medical-et-paramedical/)
+- [Le MAE rencontre son homologue estonien : une volonté partagée de renforcer la coopération bilatérale](https://lapresse.tn/2025/09/25/le-mae-rencontre-son-homologue-estonien-une-volonte-partagee-de-renforcer-la-cooperation-bilaterale/)
+- [Entretien entre Mohamed Ali Nafti et le Secrétaire Général adjoint de l’ONU aux opérations de paix](https://lapresse.tn/2025/09/25/entretien-entre-mohamed-ali-nafti-et-le-secretaire-general-adjoint-de-lonu-aux-operations-de-paix/)
 - [Transferts des tunisiens à l’étranger : les prévisions tablent sur une hausse de 6.4% en 2026](https://lapresse.tn/2025/09/25/transferts-des-tunisiens-a-letranger-les-previsions-tablent-sur-une-hausse-de-6-4-en-2026/)
-- [Crise des visas américains : Les talents tunisiens et mondiaux se tournent vers le Royaume-Uni et le Canada ?](https://lapresse.tn/2025/09/25/crise-des-visas-americains-les-talents-tunisiens-et-mondiaux-se-tournent-vers-le-royaume-uni-et-le-canada/)
-- [Météo : des pluies attendues sur la plupart des régions aujourd’hui](https://lapresse.tn/2025/09/25/meteo-des-pluies-attendues-sur-la-plupart-des-regions-aujourdhui/)
+- [Viandes blanches : le réajustement des prix s’étendra à 13 gouvernorats](https://lapresse.tn/2025/09/25/viandes-blanches-le-reajustement-des-prix-setendra-a-13-gouvernorats/)
 - [Lutte contre l’abattage clandestin : 3 tonnes de viandes et volailles saisies en Tunisie](https://lapresse.tn/2025/09/25/lutte-contre-labattage-clandestin-3-tonnes-de-viandes-et-volailles-saisies-en-tunisie/)
 - [Heikel Hachlef: « Nous cherchons à fournir un million de quintaux de semences sélectionnées pour augmenter la production céréalière »](https://lapresse.tn/2025/09/24/heikel-hachlef-nous-cherchons-a-fournir-un-million-de-quintaux-de-semences-selectionnees-pour-augmenter-la-production-cerealiere/)
-- [Huile d’olive : Un dossier prioritaire](https://lapresse.tn/2025/09/24/huile-dolive-un-dossier-prioritaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Time to Act: Reflections on the UN80 Ministerial Roundtable on Human Rights Reform](https://www.icj.org/time-to-act-reflections-on-the-un80-ministerial-roundtable-on-human-rights-reform/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [Oral Statement of the ICJ in the interactive dialogue with the Independent International Fact-Finding Mission on the situation in Venezuela](https://www.icj.org/oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-independent-international-fact-finding-mission-on-the-situation-in-venezuela/)
-- [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
@@ -272,7 +272,7 @@
 - [Maroc : ce que l’on sait de la convocation de Yassine Mansouri par la justice néerlandaise](https://www.jeuneafrique.com/1724554/politique/maroc-ce-que-lon-sait-de-la-convocation-de-yassine-mansouri-par-la-justice-neerlandaise/)
 - [Pourquoi certains pays africains acceptent les migrants expulsés des États-Unis](https://www.jeuneafrique.com/1724404/politique/pourquoi-certains-pays-africains-acceptent-les-migrants-expulses-des-etats-unis/)
 - [Cameroun : des conseillers américains ont sécurisé le voyage de Paul Biya en Suisse](https://www.jeuneafrique.com/1724014/politique/cameroun-des-conseillers-americains-ont-securise-le-voyage-de-paul-biya-en-suisse/)
-- [Ce qu’il se cache derrière « Genova », le projet IA de MTN](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
+- [Ce que Genova révèle sur l’ambition IA de MTN en Afrique](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
 - [Côte d’Ivoire : qui sont les étoiles montantes de l’économie ivoirienne ?](https://www.jeuneafrique.com/1724213/economie-entreprises/cote-divoire-qui-sont-les-etoiles-montantes-de-leconomie-ivoirienne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
