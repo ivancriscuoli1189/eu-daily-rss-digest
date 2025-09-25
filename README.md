@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 18:16*
+*Generato: 25 Sep 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La sécurité sociale, élément crucial du système de santé](https://lapresse.tn/2025/09/25/la-securite-sociale-element-crucial-du-systeme-de-sante/)
-- [Ouverture de la saison au MACAM : Illuminations contemporaines](https://lapresse.tn/2025/09/25/ouverture-de-la-saison-au-macam-illuminations-contemporaines/)
-- [Gafsa – Transport urbain : Bus neufs et itinéraires repensés](https://lapresse.tn/2025/09/25/gafsa-transport-urbain-bus-neufs-et-itineraires-repenses/)
-- [Journée Mondiale de la Mer : Des enjeux importants sous le signe de l’urgence écologique en Tunisie](https://lapresse.tn/2025/09/25/journee-mondiale-de-la-mer-des-enjeux-importants-sous-le-signe-de-lurgence-ecologique-en-tunisie/)
+- [Tunisie : un record de 25,5 milliards de dinars en circulation](https://lapresse.tn/2025/09/25/tunisie-un-record-de-255-milliards-de-dinars-en-circulation/)
+- [LIGUE 2 – en prévision de la 2e journée : Les leaders à l’épreuve du déplacement](https://lapresse.tn/2025/09/25/ligue-2-en-prevision-de-la-2e-journee-les-leaders-a-lepreuve-du-deplacement/)
+- [Volley – en marge du mondial : Honnête et encourageant](https://lapresse.tn/2025/09/25/volley-en-marge-du-mondial-honnete-et-encourageant/)
+- [Lutte contre la corruption : Kaïs Saïed intraitable sur le sujet](https://lapresse.tn/2025/09/25/lutte-contre-la-corruption-kais-saied-intraitable-sur-le-sujet/)
 - [Transferts de la diaspora : Une alternative de choix pour financer le développement en Afrique](https://lapresse.tn/2025/09/25/transferts-de-la-diaspora-une-alternative-de-choix-pour-financer-le-developpement-en-afrique/)
 - [Évaluation post-campagne céréalière : Un bilan qui prête à confusion !](https://lapresse.tn/2025/09/25/evaluation-post-campagne-cerealiere-un-bilan-qui-prete-a-confusion/)
-- [Rentrée scolaire et universitaire : Sous le signe de la persévérance et de la militance](https://lapresse.tn/2025/09/25/rentree-scolaire-et-universitaire-sous-le-signe-de-la-perseverance-et-de-la-militance/)
-- [Ventes de voitures en Tunisie : les marques asiatiques dominent, le secteur parallèle monte](https://lapresse.tn/2025/09/25/ventes-de-voitures-en-tunisie-les-marques-asiatiques-dominent-le-secteur-parallele-monte/)
-- [Pourquoi : Le vent semble tourner…](https://lapresse.tn/2025/09/25/pourquoi-le-vent-semble-tourner/)
-- [Loi de finances 2026 : Jeter les bases d’une fiscalité plus performante et plus juste](https://lapresse.tn/2025/09/25/loi-de-finances-2026-jeter-les-bases-dune-fiscalite-plus-performante-et-plus-juste/)
+- [La Douane tunisienne intercepte une cargaison record d’ecstasy au port de La Goulette](https://lapresse.tn/2025/09/25/la-douane-tunisienne-intercepte-une-cargaison-record-decstasy-au-port-de-la-goulette/)
+- [Trafic de drogue : un responsable d’entreprise impliqué dans l’affaire des 12 millions de comprimés](https://lapresse.tn/2025/09/25/trafic-de-drogue-un-responsable-dentreprise-implique-dans-laffaire-des-12-millions-de-comprimes/)
+- [Gafsa – Transport urbain : Bus neufs et itinéraires repensés](https://lapresse.tn/2025/09/25/gafsa-transport-urbain-bus-neufs-et-itineraires-repenses/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,6 +222,19 @@
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
