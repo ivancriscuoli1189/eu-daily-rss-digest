@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 06:16*
+*Generato: 26 Sep 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,15 +173,15 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La sécurité sociale, élément crucial du système de santé](https://lapresse.tn/2025/09/25/la-securite-sociale-element-crucial-du-systeme-de-sante/)
-- [Tunisie : Augmentation des indemnités pour les cadres et enseignants du secteur éducatif](https://lapresse.tn/2025/09/26/tunisie-augmentation-des-indemnites-pour-les-cadres-et-enseignants-du-secteur-educatif/)
+- [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
+- [Mohamed Ali Nafti à la réunion ministérielle du G20 : « la priorité accordée aux intérêts de chaque pays nuit aux efforts de solidarité internationale »](https://lapresse.tn/2025/09/26/mohamed-ali-nafti-a-la-reunion-ministerielle-du-g20-la-priorite-accordee-aux-interets-de-chaque-pays-nuit-aux-efforts-de-solidarite-internationale/)
+- [Mohamed Ali Nafti à l’Assemblée des Nations Unies : « Accroître la résilience des sociétés et instaurer une paix juste et durable »](https://lapresse.tn/2025/09/26/mohamed-ali-nafti-a-lassemblee-des-nations-unies-accroitre-la-resilience-des-societes-et-instaurer-une-paix-juste-et-durable/)
+- [Nafti s’entretient avec le président de la Commission de l’Union africaine : Le renforcement du rôle des structures africaines spécialisées à l’examen](https://lapresse.tn/2025/09/26/nafti-sentretient-avec-le-president-de-la-commission-de-lunion-africaine-le-renforcement-du-role-des-structures-africaines-specialisees-a-lexamen/)
 - [Cession obligatoire des biens mobiliers hors d’usage des structures publiques à El-Fouladh](https://lapresse.tn/2025/09/26/cession-obligatoire-des-biens-mobiliers-hors-dusage-des-structures-publiques-a-el-fouladh/)
-- [Météo : vendredi sous les orages, la grêle et les vents forts !](https://lapresse.tn/2025/09/26/meteo-vendredi-sous-les-orages-la-grele-et-les-vents-forts/)
-- [Un enseignant retrouvé mort, le corps entièrement brûlé, dans son appartement à Manouba](https://lapresse.tn/2025/09/25/un-enseignant-retrouve-mort-le-corps-entierement-brule-dans-son-appartement-a-manouba/)
-- [Lutte contre la corruption : Kaïs Saïed intraitable sur le sujet](https://lapresse.tn/2025/09/25/lutte-contre-la-corruption-kais-saied-intraitable-sur-le-sujet/)
-- [La Douane tunisienne intercepte une cargaison record d’ecstasy au port de La Goulette](https://lapresse.tn/2025/09/25/la-douane-tunisienne-intercepte-une-cargaison-record-decstasy-au-port-de-la-goulette/)
-- [Trafic de drogue : un responsable d’entreprise impliqué dans l’affaire des 12 millions de comprimés](https://lapresse.tn/2025/09/25/trafic-de-drogue-un-responsable-dentreprise-implique-dans-laffaire-des-12-millions-de-comprimes/)
-- [Gafsa – Transport urbain : Bus neufs et itinéraires repensés](https://lapresse.tn/2025/09/25/gafsa-transport-urbain-bus-neufs-et-itineraires-repenses/)
+- [Qualité des eaux marines : 71 % des sites tunisiens hors normes](https://lapresse.tn/2025/09/26/qualite-des-eaux-marines-71-des-sites-tunisiens-hors-normes/)
+- [Récolte de dattes 2025–2026 : une saison prometteuse s’annonce](https://lapresse.tn/2025/09/26/recolte-de-dattes-2025-2026-une-saison-prometteuse-sannonce/)
+- [Médicaments : vers une rupture de stock si les retards de paiement persistent](https://lapresse.tn/2025/09/26/medicaments-vers-une-rupture-de-stock-si-les-retards-de-paiement-persistent/)
+- [Violences à l’hôpital de Gafsa : les agents de sécurité pris pour cible](https://lapresse.tn/2025/09/26/violences-a-lhopital-de-gafsa-les-agents-de-securite-pris-pour-cible/)
 - [Tunisie : un record de 25,5 milliards de dinars en circulation](https://lapresse.tn/2025/09/25/tunisie-un-record-de-255-milliards-de-dinars-en-circulation/)
 
 ## NGOs – Amnesty International – Tunisia
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo en appelle « à la communauté internationale »](https://www.jeuneafrique.com/1725364/politique/presidentielle-en-cote-divoire-laurent-gbagbo-en-appelle-a-la-communaute-internationale/)
+- [Présidentielle en Centrafrique : l’opposition dénonce une impasse politique](https://www.jeuneafrique.com/1725345/politique/presidentielle-en-centrafrique-lopposition-denonce-une-impasse-politique/)
+- [À Madagascar, une foule en colère paralyse la capitale et vise des proches du président Rajoelina](https://www.jeuneafrique.com/1725335/politique/a-madagascar-une-foule-en-colere-paralyse-la-capitale-et-vise-des-proches-du-president-rajoelina/)
 - [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
 - [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
+- [Prise d’otages au Mali : ce que l’on sait de l’enlèvement de trois étrangers près de Bamako](https://www.jeuneafrique.com/1725046/politique/prise-dotages-au-mali-ce-que-lon-sait-de-lenlevement-de-trois-etrangers-pres-de-bamako/)
 - [Financement libyen : l’ex-président français Nicolas Sarkozy condamné à cinq ans de prison](https://www.jeuneafrique.com/1725080/politique/financement-libyen-lex-president-francais-nicolas-sarkozy-condamne-a-cinq-ans-de-prison/)
 - [Nacer El Djinn, le général réfugié en Espagne qui fait trembler Alger](https://www.jeuneafrique.com/1724940/politique/nacer-el-djinn-le-general-refugie-en-espagne-qui-fait-trembler-alger/)
-- [Présidentielle au Cameroun : dix choses à savoir sur Erik Essousse, maître d’œuvre controversé de l’élection](https://www.jeuneafrique.com/1724724/politique/presidentielle-au-cameroun-dix-choses-a-savoir-sur-erik-essousse-maitre-doeuvre-controverse-de-lelection/)
-- [Le prochain sommet Afrique-France se tiendra au Kenya les 11 et 12 mai 2026](https://www.jeuneafrique.com/1724822/politique/le-prochain-sommet-afrique-france-se-tiendra-au-kenya-les-11-et-12-mai-2026/)
-- [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet des élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
-- [Présidentielle au Malawi : Peter Mutharika revient au pouvoir à 85 ans, Lazarus Chakwera reconnaît sa défaite](https://www.jeuneafrique.com/1724752/politique/presidentielle-au-malawi-peter-mutharika-revient-au-pouvoir-a-85-ans-lazarus-chakwera-reconnait-sa-defaite/)
 - [Pétrole : dans l’ombre du Sénégal, la Gambie espère profiter de la manne](https://www.jeuneafrique.com/1725092/economie-entreprises/petrole-dans-lombre-du-senegal-la-gambie-espere-profiter-de-la-manne/)
 - [Carlyle : le retour opportuniste du géant américain de l’investissement en Afrique](https://www.jeuneafrique.com/1724306/economie-entreprises/carlyle-le-retour-opportuniste-du-geant-americain-de-linvestissement-en-afrique/)
 
