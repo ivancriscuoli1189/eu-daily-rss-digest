@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 13:21*
+*Generato: 26 Sep 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
-- [Des pays donateurs décident d’apporter leur soutien financier à l’Autorité Palestinienne](https://lapresse.tn/2025/09/26/des-pays-donateurs-decident-dapporter-leur-soutien-financier-a-lautorite-palestinienne/)
-- [Après lui avoir confisqué son téléphone: une élève se jette du premier étage d’un collège de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
-- [Club Africain : pour cause de blessure, Houssem Ben Ali absent des terrain](https://lapresse.tn/2025/09/26/club-africain-pour-cause-de-blessure-houssem-ben-ali-absent-des-terrain/)
+- [Gabès : Plus de 4 000 chiens et chats déjà vaccinés contre la rage](https://lapresse.tn/2025/09/26/gabes-plus-de-4-000-chiens-et-chats-deja-vaccines-contre-la-rage/)
+- [Indices boursiers : la BVMT annonce des ajustements à partir du 1er octobre](https://lapresse.tn/2025/09/26/indices-boursiers-la-bvmt-annonce-des-ajustements-a-partir-du-1er-octobre/)
+- [Tunisie : les exportations industrielles atteignent 38,2 milliards de dinars](https://lapresse.tn/2025/09/26/tunisie-les-exportations-industrielles-atteignent-382-milliards-de-dinars/)
+- [Tunisie : un ressortissant étranger en détention pour attaque présumée contre la Flottille Soumoud à Sidi Bou Saïd](https://lapresse.tn/2025/09/26/tunisie-un-ressortissant-etranger-en-detention-pour-attaque-presumee-contre-la-flottille-soumoud-a-sidi-bou-said/)
+- [Mohamed Ali Nafti à l’ONU: « la bonne santé et le bien-être psychologique sont les garants du développement durable dans le monde »](https://lapresse.tn/2025/09/26/mohamed-ali-nafti-a-lonu-la-bonne-sante-et-le-bien-etre-psychologique-sont-les-garants-du-developpement-durable-dans-le-monde/)
 - [MAE-Rencontre avec Mme Rola Dashti Secrétaire Exécutive de l’ESCWA](https://lapresse.tn/2025/09/26/mae-rencontre-avec-mme-rola-dashti-secretaire-executive-de-lescwa/)
-- [MAE-rencontre avec le ministre des Affaires Etrangères belge : renforcer les relations d’amitié et de coopération](https://lapresse.tn/2025/09/26/mae-rencontre-avec-le-ministre-des-affaires-etrangeres-belge-renforcer-les-relations-damitie-et-de-cooperation/)
-- [Rencontre de Mohamed Ali Nafti avec le responsable de l’UNOP : renforcer les perspectives de partenariat dans les secteurs vitaux](https://lapresse.tn/2025/09/26/rencontre-de-mohamed-ali-nafti-avec-le-responsable-de-lunop-renforcer-les-perspectives-de-partenariat-dans-les-secteurs-vitaux/)
+- [Après lui avoir confisqué son téléphone: une élève se jette du premier étage d’un collège de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
 - [Marchés-des peines allant jusqu’à sept ans de prison pour les intermédiaires (habbata)](https://lapresse.tn/2025/09/26/marches-des-peines-allant-jusqua-sept-ans-de-prison-pour-les-intermediaires-habbata/)
 - [22 femmes mortes sous les coups depuis janvier dernier !](https://lapresse.tn/2025/09/26/22-femmes-mortes-sous-les-coups-depuis-janvier-dernier-le-bilan-tragique-des-feminicides-en-tunisie/)
-- [Qualité des eaux marines : 71 % des sites tunisiens hors normes](https://lapresse.tn/2025/09/26/qualite-des-eaux-marines-71-des-sites-tunisiens-hors-normes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [Au Bénin, le rêve présidentiel brisé de Joseph Djogbénou](https://www.jeuneafrique.com/1724350/politique/au-benin-le-reve-presidentiel-brise-de-joseph-djogbenou/)
 - [Au Sénégal, Mansour Faye, beau-frère de Macky Sall, en liberté provisoire](https://www.jeuneafrique.com/1725275/politique/au-senegal-mansour-faye-beau-frere-de-macky-sall-en-liberte-provisoire/)
 - [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
+- [MTN, OCP, Tanger Med, Sifca… Qui sont les champions africains de la RSE ?](https://www.jeuneafrique.com/1721165/economie-entreprises/mtn-ocp-tanger-med-sifca-qui-sont-les-champions-africains-de-la-rse/)
 - [Côte d’Ivoire : pourquoi ENI fait une place à Vitol sur le gisement Baleine](https://www.jeuneafrique.com/1725233/economie-entreprises/cote-divoire-pourquoi-eni-fait-une-place-a-vitol-sur-le-gisement-baleine/)
-- [Pétrole : dans l’ombre du Sénégal, la Gambie espère profiter de la manne](https://www.jeuneafrique.com/1725092/economie-entreprises/petrole-dans-lombre-du-senegal-la-gambie-espere-profiter-de-la-manne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
