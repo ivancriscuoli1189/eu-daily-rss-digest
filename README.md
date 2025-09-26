@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 18:13*
+*Generato: 26 Sep 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
+- [EST- Première apparition du nouveau venu, Florian Danho : Quand puissance rime avec technique…](https://lapresse.tn/2025/09/26/est-premiere-apparition-du-nouveau-venu-florian-danho-quand-puissance-rime-avec-technique/)
 - [Le ST assure une 4e victoire consécutive : Le leader tranquille](https://lapresse.tn/2025/09/26/le-st-assure-une-4e-victoire-consecutive-le-leader-tranquille/)
 - [Le CAB perd une nouvelle fois en déplacement : L’ombre de son ombre !](https://lapresse.tn/2025/09/26/le-cab-perd-une-nouvelle-fois-en-deplacement-lombre-de-son-ombre/)
-- [SN – les sections rugby et football veulent sortir du club : À l’aube de ses 89 ans, le Stade Nabeulien sera-t-il disloqué ?](https://lapresse.tn/2025/09/26/sn-les-sections-rugby-et-football-veulent-sortir-du-club-a-laube-de-ses-89-ans-le-stade-nabeulien-sera-t-il-disloque/)
 - [Tunisie–Italie : dévoilement du nom de l’entreprise chargée du projet de câble électrique sous-marin](https://lapresse.tn/2025/09/26/tunisie-italie-devoilement-du-nom-de-lentreprise-chargee-du-projet-de-cable-electrique-sous-marin/)
 - [Ahmed Ounais à La Presse : «La reconnaissance d’un État n’implique pas sa création effective, mais c’est un grand pas vers l’avant»](https://lapresse.tn/2025/09/26/ahmed-ounais-a-la-presse-la-reconnaissance-dun-etat-nimplique-pas-sa-creation-effective-mais-cest-un-grand-pas-vers-lavant/)
 - [Météo : orages et fortes pluies attendus aujourd’hui et demain en Tunisie](https://lapresse.tn/2025/09/26/meteo-orages-et-fortes-pluies-attendus-aujourdhui-et-demain-en-tunisie/)
@@ -203,12 +203,12 @@
 - [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
 - [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
 - [Tunisian Human Rights Defender on Hunger Strike](https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike)
 - [Tunisia: Drastic Closure of Civic Space](https://www.hrw.org/news/2025/01/16/tunisia-drastic-closure-civic-space)
 - [Joint Statement: Tunisia is Not a Place of Safety for People Rescued at Sea](https://www.hrw.org/news/2024/10/04/joint-statement-tunisia-not-place-safety-people-rescued-sea)
-- [Tunisia: Authorities Undermine Election Integrity](https://www.hrw.org/news/2024/10/03/tunisia-authorities-undermine-election-integrity)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
