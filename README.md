@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 11:03*
+*Generato: 26 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
-- [Ligue 1 – 7e journée – L’Étoile est rentrée avec trois points de Soliman : Un bol d’air…](https://lapresse.tn/2025/09/26/ligue-1-7e-journee-letoile-est-rentree-avec-trois-points-de-soliman-un-bol-dair/)
-- [Mohamed Ali Nafti à l’ONU: « la bonne santé et le bien-être psychologique sont les garants du développement durable dans le monde »](https://lapresse.tn/2025/09/26/mohamed-ali-nafti-a-lonu-la-bonne-sante-et-le-bien-etre-psychologique-sont-les-garants-du-developpement-durable-dans-le-monde/)
-- [22 femmes mortes sous les coups depuis janvier dernier !](https://lapresse.tn/2025/09/26/22-femmes-mortes-sous-les-coups-depuis-janvier-dernier-le-bilan-tragique-des-feminicides-en-tunisie/)
+- [Des pays donateurs décident d’apporter leur soutien financier à l’Autorité Palestinienne](https://lapresse.tn/2025/09/26/des-pays-donateurs-decident-dapporter-leur-soutien-financier-a-lautorite-palestinienne/)
+- [Parce qu’on lui a confisqué son téléphone : une élève se jette du premier d’un établissement de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
+- [Club Africain : pour cause de blessure, Houssem Ben Ali absent des terrain](https://lapresse.tn/2025/09/26/club-africain-pour-cause-de-blessure-houssem-ben-ali-absent-des-terrain/)
 - [MAE-Rencontre avec Mme Rola Dashti Secrétaire Exécutive de l’ESCWA](https://lapresse.tn/2025/09/26/mae-rencontre-avec-mme-rola-dashti-secretaire-executive-de-lescwa/)
 - [MAE-rencontre avec le ministre des Affaires Etrangères belge : renforcer les relations d’amitié et de coopération](https://lapresse.tn/2025/09/26/mae-rencontre-avec-le-ministre-des-affaires-etrangeres-belge-renforcer-les-relations-damitie-et-de-cooperation/)
 - [Rencontre de Mohamed Ali Nafti avec le responsable de l’UNOP : renforcer les perspectives de partenariat dans les secteurs vitaux](https://lapresse.tn/2025/09/26/rencontre-de-mohamed-ali-nafti-avec-le-responsable-de-lunop-renforcer-les-perspectives-de-partenariat-dans-les-secteurs-vitaux/)
+- [Marchés-des peines allant jusqu’à sept ans de prison pour les intermédiaires (habbata)](https://lapresse.tn/2025/09/26/marches-des-peines-allant-jusqua-sept-ans-de-prison-pour-les-intermediaires-habbata/)
+- [22 femmes mortes sous les coups depuis janvier dernier !](https://lapresse.tn/2025/09/26/22-femmes-mortes-sous-les-coups-depuis-janvier-dernier-le-bilan-tragique-des-feminicides-en-tunisie/)
 - [Qualité des eaux marines : 71 % des sites tunisiens hors normes](https://lapresse.tn/2025/09/26/qualite-des-eaux-marines-71-des-sites-tunisiens-hors-normes/)
-- [Récolte de dattes 2025–2026 : une saison prometteuse s’annonce](https://lapresse.tn/2025/09/26/recolte-de-dattes-2025-2026-une-saison-prometteuse-sannonce/)
-- [Médicaments : vers une rupture de stock si les retards de paiement persistent](https://lapresse.tn/2025/09/26/medicaments-vers-une-rupture-de-stock-si-les-retards-de-paiement-persistent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -280,11 +267,11 @@
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo en appelle « à la communauté internationale »](https://www.jeuneafrique.com/1725364/politique/presidentielle-en-cote-divoire-laurent-gbagbo-en-appelle-a-la-communaute-internationale/)
 - [Présidentielle en Centrafrique : l’opposition dénonce une impasse politique](https://www.jeuneafrique.com/1725345/politique/presidentielle-en-centrafrique-lopposition-denonce-une-impasse-politique/)
 - [À Madagascar, une foule en colère paralyse la capitale et vise des proches du président Rajoelina](https://www.jeuneafrique.com/1725335/politique/a-madagascar-une-foule-en-colere-paralyse-la-capitale-et-vise-des-proches-du-president-rajoelina/)
+- [Au Gabon, Zita Oligui Nguema tourne la page Sylvia Bongo](https://www.jeuneafrique.com/1724730/politique/au-gabon-zita-oligui-nguema-tourne-la-page-sylvia-bongo/)
+- [Au Bénin, le rêve présidentiel brisé de Joseph Djogbénou](https://www.jeuneafrique.com/1724350/politique/au-benin-le-reve-presidentiel-brise-de-joseph-djogbenou/)
 - [Au Sénégal, Mansour Faye, beau-frère de Macky Sall, en liberté provisoire](https://www.jeuneafrique.com/1725275/politique/au-senegal-mansour-faye-beau-frere-de-macky-sall-en-liberte-provisoire/)
 - [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
 - [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
-- [Prise d’otages au Mali : ce que l’on sait de l’enlèvement de trois étrangers près de Bamako](https://www.jeuneafrique.com/1725046/politique/prise-dotages-au-mali-ce-que-lon-sait-de-lenlevement-de-trois-etrangers-pres-de-bamako/)
-- [Financement libyen : l’ex-président français Nicolas Sarkozy condamné à cinq ans de prison](https://www.jeuneafrique.com/1725080/politique/financement-libyen-lex-president-francais-nicolas-sarkozy-condamne-a-cinq-ans-de-prison/)
 - [Côte d’Ivoire : pourquoi ENI fait une place à Vitol sur le gisement Baleine](https://www.jeuneafrique.com/1725233/economie-entreprises/cote-divoire-pourquoi-eni-fait-une-place-a-vitol-sur-le-gisement-baleine/)
 - [Pétrole : dans l’ombre du Sénégal, la Gambie espère profiter de la manne](https://www.jeuneafrique.com/1725092/economie-entreprises/petrole-dans-lombre-du-senegal-la-gambie-espere-profiter-de-la-manne/)
 
