@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Sep 2025, 21:03*
+*Generato: 26 Sep 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La sécurité sociale, élément crucial du système de santé](https://lapresse.tn/2025/09/25/la-securite-sociale-element-crucial-du-systeme-de-sante/)
-- [Tunisie : un record de 25,5 milliards de dinars en circulation](https://lapresse.tn/2025/09/25/tunisie-un-record-de-255-milliards-de-dinars-en-circulation/)
-- [LIGUE 2 – en prévision de la 2e journée : Les leaders à l’épreuve du déplacement](https://lapresse.tn/2025/09/25/ligue-2-en-prevision-de-la-2e-journee-les-leaders-a-lepreuve-du-deplacement/)
-- [Volley – en marge du mondial : Honnête et encourageant](https://lapresse.tn/2025/09/25/volley-en-marge-du-mondial-honnete-et-encourageant/)
+- [Tunisie : Augmentation des indemnités pour les cadres et enseignants du secteur éducatif](https://lapresse.tn/2025/09/26/tunisie-augmentation-des-indemnites-pour-les-cadres-et-enseignants-du-secteur-educatif/)
+- [Cession obligatoire des biens mobiliers hors d’usage des structures publiques à El-Fouladh](https://lapresse.tn/2025/09/26/cession-obligatoire-des-biens-mobiliers-hors-dusage-des-structures-publiques-a-el-fouladh/)
+- [Météo : vendredi sous les orages, la grêle et les vents forts !](https://lapresse.tn/2025/09/26/meteo-vendredi-sous-les-orages-la-grele-et-les-vents-forts/)
+- [Un enseignant retrouvé mort, le corps entièrement brûlé, dans son appartement à Manouba](https://lapresse.tn/2025/09/25/un-enseignant-retrouve-mort-le-corps-entierement-brule-dans-son-appartement-a-manouba/)
 - [Lutte contre la corruption : Kaïs Saïed intraitable sur le sujet](https://lapresse.tn/2025/09/25/lutte-contre-la-corruption-kais-saied-intraitable-sur-le-sujet/)
-- [Transferts de la diaspora : Une alternative de choix pour financer le développement en Afrique](https://lapresse.tn/2025/09/25/transferts-de-la-diaspora-une-alternative-de-choix-pour-financer-le-developpement-en-afrique/)
-- [Évaluation post-campagne céréalière : Un bilan qui prête à confusion !](https://lapresse.tn/2025/09/25/evaluation-post-campagne-cerealiere-un-bilan-qui-prete-a-confusion/)
 - [La Douane tunisienne intercepte une cargaison record d’ecstasy au port de La Goulette](https://lapresse.tn/2025/09/25/la-douane-tunisienne-intercepte-une-cargaison-record-decstasy-au-port-de-la-goulette/)
 - [Trafic de drogue : un responsable d’entreprise impliqué dans l’affaire des 12 millions de comprimés](https://lapresse.tn/2025/09/25/trafic-de-drogue-un-responsable-dentreprise-implique-dans-laffaire-des-12-millions-de-comprimes/)
 - [Gafsa – Transport urbain : Bus neufs et itinéraires repensés](https://lapresse.tn/2025/09/25/gafsa-transport-urbain-bus-neufs-et-itineraires-repenses/)
+- [Tunisie : un record de 25,5 milliards de dinars en circulation](https://lapresse.tn/2025/09/25/tunisie-un-record-de-255-milliards-de-dinars-en-circulation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 - [Lebanon: Ensure draft media law upholds free expression](https://www.icj.org/lebanon-ensure-draft-media-law-upholds-free-expression/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -281,12 +268,12 @@
 - [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
 - [Financement libyen : l’ex-président français Nicolas Sarkozy condamné à cinq ans de prison](https://www.jeuneafrique.com/1725080/politique/financement-libyen-lex-president-francais-nicolas-sarkozy-condamne-a-cinq-ans-de-prison/)
 - [Nacer El Djinn, le général réfugié en Espagne qui fait trembler Alger](https://www.jeuneafrique.com/1724940/politique/nacer-el-djinn-le-general-refugie-en-espagne-qui-fait-trembler-alger/)
+- [Présidentielle au Cameroun : dix choses à savoir sur Erik Essousse, maître d’œuvre controversé de l’élection](https://www.jeuneafrique.com/1724724/politique/presidentielle-au-cameroun-dix-choses-a-savoir-sur-erik-essousse-maitre-doeuvre-controverse-de-lelection/)
 - [Le prochain sommet Afrique-France se tiendra au Kenya les 11 et 12 mai 2026](https://www.jeuneafrique.com/1724822/politique/le-prochain-sommet-afrique-france-se-tiendra-au-kenya-les-11-et-12-mai-2026/)
 - [Guinée : après l’adoption de la nouvelle Constitution, Bah Oury promet des élections avant la fin de 2025](https://www.jeuneafrique.com/1724770/politique/guinee-apres-ladoption-de-la-nouvelle-constitution-bah-oury-promet-de-nouvelles-elections-avant-la-fin-de-2025/)
 - [Présidentielle au Malawi : Peter Mutharika revient au pouvoir à 85 ans, Lazarus Chakwera reconnaît sa défaite](https://www.jeuneafrique.com/1724752/politique/presidentielle-au-malawi-peter-mutharika-revient-au-pouvoir-a-85-ans-lazarus-chakwera-reconnait-sa-defaite/)
-- [En Algérie, six islamistes armés tués dans une opération de l’armée](https://www.jeuneafrique.com/1724743/politique/en-algerie-six-islamistes-armes-tues-dans-une-operation-de-larmee/)
+- [Pétrole : dans l’ombre du Sénégal, la Gambie espère profiter de la manne](https://www.jeuneafrique.com/1725092/economie-entreprises/petrole-dans-lombre-du-senegal-la-gambie-espere-profiter-de-la-manne/)
 - [Carlyle : le retour opportuniste du géant américain de l’investissement en Afrique](https://www.jeuneafrique.com/1724306/economie-entreprises/carlyle-le-retour-opportuniste-du-geant-americain-de-linvestissement-en-afrique/)
-- [Ce que Genova révèle sur l’ambition IA de MTN en Afrique](https://www.jeuneafrique.com/1724667/economie-entreprises/ce-quil-se-cache-derriere-genova-le-projet-ia-de-mtn/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
