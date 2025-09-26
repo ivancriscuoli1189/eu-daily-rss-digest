@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 12:18*
+*Generato: 26 Sep 2025, 13:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -175,7 +175,7 @@
 
 - [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
 - [Des pays donateurs décident d’apporter leur soutien financier à l’Autorité Palestinienne](https://lapresse.tn/2025/09/26/des-pays-donateurs-decident-dapporter-leur-soutien-financier-a-lautorite-palestinienne/)
-- [Parce qu’on lui a confisqué son téléphone : une élève se jette du premier d’un établissement de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
+- [Après lui avoir confisqué son téléphone: une élève se jette du premier étage d’un collège de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
 - [Club Africain : pour cause de blessure, Houssem Ben Ali absent des terrain](https://lapresse.tn/2025/09/26/club-africain-pour-cause-de-blessure-houssem-ben-ali-absent-des-terrain/)
 - [MAE-Rencontre avec Mme Rola Dashti Secrétaire Exécutive de l’ESCWA](https://lapresse.tn/2025/09/26/mae-rencontre-avec-mme-rola-dashti-secretaire-executive-de-lescwa/)
 - [MAE-rencontre avec le ministre des Affaires Etrangères belge : renforcer les relations d’amitié et de coopération](https://lapresse.tn/2025/09/26/mae-rencontre-avec-le-ministre-des-affaires-etrangeres-belge-renforcer-les-relations-damitie-et-de-cooperation/)
@@ -223,6 +223,19 @@
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, la chasse aux fonctionnaires « fictifs » est lancée](https://www.jeuneafrique.com/1725439/politique/au-mali-la-chasse-aux-fonctionnaires-fictifs-est-lancee/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo en appelle « à la communauté internationale »](https://www.jeuneafrique.com/1725364/politique/presidentielle-en-cote-divoire-laurent-gbagbo-en-appelle-a-la-communaute-internationale/)
 - [Présidentielle en Centrafrique : l’opposition dénonce une impasse politique](https://www.jeuneafrique.com/1725345/politique/presidentielle-en-centrafrique-lopposition-denonce-une-impasse-politique/)
 - [À Madagascar, une foule en colère paralyse la capitale et vise des proches du président Rajoelina](https://www.jeuneafrique.com/1725335/politique/a-madagascar-une-foule-en-colere-paralyse-la-capitale-et-vise-des-proches-du-president-rajoelina/)
@@ -271,7 +285,6 @@
 - [Au Bénin, le rêve présidentiel brisé de Joseph Djogbénou](https://www.jeuneafrique.com/1724350/politique/au-benin-le-reve-presidentiel-brise-de-joseph-djogbenou/)
 - [Au Sénégal, Mansour Faye, beau-frère de Macky Sall, en liberté provisoire](https://www.jeuneafrique.com/1725275/politique/au-senegal-mansour-faye-beau-frere-de-macky-sall-en-liberte-provisoire/)
 - [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
-- [Yoweri Museveni vs Bobi Wine : en Ouganda, vers un remake de la présidentielle de 2021 ?](https://www.jeuneafrique.com/1724998/politique/yoweri-museveni-vs-bobi-wine-en-ouganda-vers-un-remake-de-la-presidentielle-de-2021/)
 - [Côte d’Ivoire : pourquoi ENI fait une place à Vitol sur le gisement Baleine](https://www.jeuneafrique.com/1725233/economie-entreprises/cote-divoire-pourquoi-eni-fait-une-place-a-vitol-sur-le-gisement-baleine/)
 - [Pétrole : dans l’ombre du Sénégal, la Gambie espère profiter de la manne](https://www.jeuneafrique.com/1725092/economie-entreprises/petrole-dans-lombre-du-senegal-la-gambie-espere-profiter-de-la-manne/)
 
