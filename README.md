@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 15:10*
+*Generato: 26 Sep 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
-- [Gabès : Plus de 4 000 chiens et chats déjà vaccinés contre la rage](https://lapresse.tn/2025/09/26/gabes-plus-de-4-000-chiens-et-chats-deja-vaccines-contre-la-rage/)
-- [Indices boursiers : la BVMT annonce des ajustements à partir du 1er octobre](https://lapresse.tn/2025/09/26/indices-boursiers-la-bvmt-annonce-des-ajustements-a-partir-du-1er-octobre/)
-- [Tunisie : les exportations industrielles atteignent 38,2 milliards de dinars](https://lapresse.tn/2025/09/26/tunisie-les-exportations-industrielles-atteignent-382-milliards-de-dinars/)
-- [Tunisie : un ressortissant étranger en détention pour attaque présumée contre la Flottille Soumoud à Sidi Bou Saïd](https://lapresse.tn/2025/09/26/tunisie-un-ressortissant-etranger-en-detention-pour-attaque-presumee-contre-la-flottille-soumoud-a-sidi-bou-said/)
-- [Mohamed Ali Nafti à l’ONU: « la bonne santé et le bien-être psychologique sont les garants du développement durable dans le monde »](https://lapresse.tn/2025/09/26/mohamed-ali-nafti-a-lonu-la-bonne-sante-et-le-bien-etre-psychologique-sont-les-garants-du-developpement-durable-dans-le-monde/)
-- [MAE-Rencontre avec Mme Rola Dashti Secrétaire Exécutive de l’ESCWA](https://lapresse.tn/2025/09/26/mae-rencontre-avec-mme-rola-dashti-secretaire-executive-de-lescwa/)
-- [Après lui avoir confisqué son téléphone: une élève se jette du premier étage d’un collège de Kairouan](https://lapresse.tn/2025/09/26/parce-quon-lui-a-confisque-son-telephone-une-eleve-se-jette-du-premier-dun-etablissement-de-kairouan/)
-- [Marchés-des peines allant jusqu’à sept ans de prison pour les intermédiaires (habbata)](https://lapresse.tn/2025/09/26/marches-des-peines-allant-jusqua-sept-ans-de-prison-pour-les-intermediaires-habbata/)
-- [22 femmes mortes sous les coups depuis janvier dernier !](https://lapresse.tn/2025/09/26/22-femmes-mortes-sous-les-coups-depuis-janvier-dernier-le-bilan-tragique-des-feminicides-en-tunisie/)
+- [Le ST assure une 4e victoire consécutive : Le leader tranquille](https://lapresse.tn/2025/09/26/le-st-assure-une-4e-victoire-consecutive-le-leader-tranquille/)
+- [Le CAB perd une nouvelle fois en déplacement : L’ombre de son ombre !](https://lapresse.tn/2025/09/26/le-cab-perd-une-nouvelle-fois-en-deplacement-lombre-de-son-ombre/)
+- [SN – les sections rugby et football veulent sortir du club : À l’aube de ses 89 ans, le Stade Nabeulien sera-t-il disloqué ?](https://lapresse.tn/2025/09/26/sn-les-sections-rugby-et-football-veulent-sortir-du-club-a-laube-de-ses-89-ans-le-stade-nabeulien-sera-t-il-disloque/)
+- [Tunisie–Italie : dévoilement du nom de l’entreprise chargée du projet de câble électrique sous-marin](https://lapresse.tn/2025/09/26/tunisie-italie-devoilement-du-nom-de-lentreprise-chargee-du-projet-de-cable-electrique-sous-marin/)
+- [Ahmed Ounais à La Presse : «La reconnaissance d’un État n’implique pas sa création effective, mais c’est un grand pas vers l’avant»](https://lapresse.tn/2025/09/26/ahmed-ounais-a-la-presse-la-reconnaissance-dun-etat-nimplique-pas-sa-creation-effective-mais-cest-un-grand-pas-vers-lavant/)
+- [Météo : orages et fortes pluies attendus aujourd’hui et demain en Tunisie](https://lapresse.tn/2025/09/26/meteo-orages-et-fortes-pluies-attendus-aujourdhui-et-demain-en-tunisie/)
+- [Spéculation : Ces requins qui écument le marché](https://lapresse.tn/2025/09/26/speculation-ces-requins-qui-ecument-le-marche/)
+- [Tozeur : Un aéroport, deux ambitions : énergie verte et attractivité touristique](https://lapresse.tn/2025/09/26/tozeur-un-aeroport-deux-ambitions-energie-verte-et-attractivite-touristique/)
+- [15 hôpitaux régionaux binetôt intégrés dans le système d’imagerie médicale à distance](https://lapresse.tn/2025/09/26/15-hopitaux-regionaux-binetot-integres-dans-le-systeme-dimagerie-medicale-a-distance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
-- [Oral Statement of the ICJ in the interactive dialogue with the Independent International Fact-Finding Mission on the situation in Venezuela](https://www.icj.org/oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-independent-international-fact-finding-mission-on-the-situation-in-venezuela/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Acidification de l’océan : quel impact pour les pêcheurs africains ?](https://www.jeuneafrique.com/1725456/politique/acidification-de-locean-quel-impact-pour-les-pecheurs-africains/)
 - [Au Mali, la chasse aux fonctionnaires « fictifs » est lancée](https://www.jeuneafrique.com/1725439/politique/au-mali-la-chasse-aux-fonctionnaires-fictifs-est-lancee/)
+- [Maroc : pourquoi le « prince rouge » attaque-t-il un youtubeur en justice ?](https://www.jeuneafrique.com/1725172/politique/maroc-pourquoi-le-prince-rouge-attaque-t-il-un-youtubeur-en-justice/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo en appelle « à la communauté internationale »](https://www.jeuneafrique.com/1725364/politique/presidentielle-en-cote-divoire-laurent-gbagbo-en-appelle-a-la-communaute-internationale/)
 - [Présidentielle en Centrafrique : l’opposition dénonce une impasse politique](https://www.jeuneafrique.com/1725345/politique/presidentielle-en-centrafrique-lopposition-denonce-une-impasse-politique/)
 - [À Madagascar, une foule en colère paralyse la capitale et vise des proches du président Rajoelina](https://www.jeuneafrique.com/1725335/politique/a-madagascar-une-foule-en-colere-paralyse-la-capitale-et-vise-des-proches-du-president-rajoelina/)
-- [Au Gabon, Zita Oligui Nguema tourne la page Sylvia Bongo](https://www.jeuneafrique.com/1724730/politique/au-gabon-zita-oligui-nguema-tourne-la-page-sylvia-bongo/)
-- [Au Bénin, le rêve présidentiel brisé de Joseph Djogbénou](https://www.jeuneafrique.com/1724350/politique/au-benin-le-reve-presidentiel-brise-de-joseph-djogbenou/)
-- [Au Sénégal, Mansour Faye, beau-frère de Macky Sall, en liberté provisoire](https://www.jeuneafrique.com/1725275/politique/au-senegal-mansour-faye-beau-frere-de-macky-sall-en-liberte-provisoire/)
-- [À Madagascar, la Gen Z se soulève contre les pénuries d’eau et d’électricité](https://www.jeuneafrique.com/1725287/politique/a-madagascar-la-gen-z-se-souleve-contre-les-penuries-deau-et-delectricite/)
-- [MTN, OCP, Tanger Med, Sifca… Qui sont les champions africains de la RSE ?](https://www.jeuneafrique.com/1721165/economie-entreprises/mtn-ocp-tanger-med-sifca-qui-sont-les-champions-africains-de-la-rse/)
-- [Côte d’Ivoire : pourquoi ENI fait une place à Vitol sur le gisement Baleine](https://www.jeuneafrique.com/1725233/economie-entreprises/cote-divoire-pourquoi-eni-fait-une-place-a-vitol-sur-le-gisement-baleine/)
+- [En Algérie, le Premier ministre en dit plus sur les malversations des frères Kouninef](https://www.jeuneafrique.com/1724736/politique/en-algerie-le-premier-ministre-en-dit-plus-sur-les-malversations-des-freres-kouninef/)
+- [Présidentielle au Cameroun : Pierre Kwemo, l’ex-ami de Paul Biya devenu opposant socialiste](https://www.jeuneafrique.com/1724237/politique/presidentielle-au-cameroun-pierre-kwemo-lex-ami-de-paul-biya-devenu-opposant-socialiste/)
+- [Uranium au Niger : Orano obtient une « petite victoire » face à la junte](https://www.jeuneafrique.com/1725700/economie-entreprises/uranium-au-niger-orano-obtient-une-petite-victoire-face-a-la-junte/)
+- [Comment l’américain Seaboard veut contrer le blé russe dans le Sahel](https://www.jeuneafrique.com/1725463/economie-entreprises/comment-lamericain-seaboard-veut-contrer-le-ble-russe-dans-le-sahel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
