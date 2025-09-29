@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 15:11*
+*Generato: 29 Sep 2025, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [Assurance maladie: 19 % des tunisiens n’ont pas de couverture](https://lapresse.tn/2025/09/29/assurance-maladie-19-des-tunisiens-nont-pas-de-couverture/)
-- [Hammamet : lancement officiel de l’Organisation tunisienne des énergies propres](https://lapresse.tn/2025/09/29/hammamet-lancement-officiel-de-lorganisation-tunisienne-des-energies-propres/)
-- [Plages de Takelsa: les effets du changement climatique se font sentir](https://lapresse.tn/2025/09/29/plages-de-takelsa-les-effets-du-changement-climatique-se-font-sentir/)
-- [Mohamed Ali Nafti rencontre des étudiants et des compétences nationales en marge de l’AG de l’ONU](https://lapresse.tn/2025/09/29/mohamed-ali-nafti-rencontre-des-etudiants-et-des-competences-nationales-en-marge-de-lag-de-lonu/)
-- [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
-- [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
-- [INS : 67,8 % des diplômés de l’enseignement supérieur sont des femmes et 32,2 % des hommes](https://lapresse.tn/2025/09/29/ins-678-des-diplomes-de-lenseignement-superieur-sont-des-femmes-et-322-des-hommes/)
-- [Lotfi Riahi : « de nombreux bouchers ont adhéré à l’initiative de réduction des prix des viandes rouges »](https://lapresse.tn/2025/09/29/lotfi-riahi-de-nombreux-bouchers-ont-adhere-a-linitiative-de-reduction-des-prix-des-viandes-rouges/)
-- [Selon les derniers chiffres de l’INS : 75.1% des ménages sont propriétaires de leur logement](https://lapresse.tn/2025/09/29/selon-les-derniers-chiffres-de-lins-75-1-des-menages-sont-proprietaires-de-leur-logement/)
+- [« Ruines Imaginaires » à la librairie Al Kitab : Des lieux qui dorment et des artistes qui les réveillent](https://lapresse.tn/2025/09/29/ruines-imaginaires-a-la-librairie-al-kitab-des-lieux-qui-dorment-et-des-artistes-qui-les-reveillent/)
+- [Dar el Founoun : Voir grand](https://lapresse.tn/2025/09/29/dar-el-founoun-voir-grand/)
+- [Maîtrise des prix : Alléger le fardeau financier des citoyens](https://lapresse.tn/2025/09/29/maitrise-des-prix-alleger-le-fardeau-financier-des-citoyens/)
+- [Face au discours de crise : Le Président de la République prône le langage de vérité](https://lapresse.tn/2025/09/29/face-au-discours-de-crise-le-president-de-la-republique-prone-le-langage-de-verite/)
+- [Plaques de cannabis, véhicules, zodiacs et armes saisis : Un réseau transnational démantelé](https://lapresse.tn/2025/09/29/plaques-de-cannabis-vehicules-zodiacs-et-armes-saisis-un-reseau-transnational-demantele/)
+- [Recul de l’âge moyen du mariage en Tunisie : quand les hommes et les femmes se marient de plus en plus tard](https://lapresse.tn/2025/09/29/recul-de-lage-moyen-du-mariage-en-tunisie-quand-les-hommes-et-les-femmes-se-marient-de-plus-en-plus-tard/)
+- [Mobilité estudiantine : Un transport à la carte](https://lapresse.tn/2025/09/29/mobilite-estudiantine-un-transport-a-la-carte/)
+- [Italie – 28e édition du «Cous Cous Fest», à San Vito Lo Capo (Sicile) : La Tunisie termine sur le podium du championnat du monde de couscous 2025](https://lapresse.tn/2025/09/29/italie-28e-edition-du-cous-cous-fest-a-san-vito-lo-capo-sicile-la-tunisie-termine-sur-le-podium-du-championnat-du-monde-de-couscous-2025/)
+- [Clin d’œil : Et si les infrastructures se plaignaient des usagers !](https://lapresse.tn/2025/09/29/clin-doeil-et-si-les-infrastructures-se-plaignaient-des-usagers/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : le procès de l’ancien Premier ministre Moussa Mara s’est ouvert](https://www.jeuneafrique.com/1726027/politique/mali-le-proces-de-lancien-premier-ministre-moussa-mara-sest-ouvert/)
 - [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
+- [Au Maroc, les manifestations spontanées du collectif « GenZ 212 » se poursuivent](https://www.jeuneafrique.com/1725812/politique/au-maroc-les-manifestations-spontanees-du-collectif-genz-212-se-poursuivent/)
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
 - [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
+- [CAN 2025 : le football met (déjà) à l’épreuve les relations algéro-marocaines](https://www.jeuneafrique.com/1724989/politique/can-2025-le-football-met-deja-a-lepreuve-les-relations-algero-marocaines/)
 - [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
 - [Présidentielle au Cameroun : Paul Biya face aux palais abandonnés de la République](https://www.jeuneafrique.com/1722528/politique/presidentielle-au-cameroun-paul-biya-face-aux-palais-abandonnes-de-la-republique/)
-- [Au Sénégal, un mandat d’arrêt international a été émis contre l’éditorialiste Madiambal Diagne](https://www.jeuneafrique.com/1725771/politique/au-senegal-un-mandat-darret-international-a-ete-emis-contre-leditorialiste-madiambal-diagne/)
-- [Les États-Unis lèvent les restrictions de visas pour le Ghana](https://www.jeuneafrique.com/1725768/politique/les-etats-unis-levent-les-restrictions-de-visas-pour-le-ghana/)
-- [Au Gabon, des élections législatives et locales pour clore la transition](https://www.jeuneafrique.com/1725764/politique/au-gabon-des-elections-legislatives-et-locales-pour-clore-la-transition/)
+- [Sénégal : ce que craignent les opérateurs de mobile money avec la nouvelle taxation](https://www.jeuneafrique.com/1725572/economie-entreprises/senegal-ce-que-craignent-les-operateurs-de-mobile-money-avec-la-nouvelle-taxation/)
 - [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
-- [CAN 2025 : quand le Maroc fête le football africain en durcissant ses conditions d’entrée](https://www.jeuneafrique.com/1725594/economie-entreprises/can-2025-quand-le-maroc-fete-le-football-africain-en-durcissant-ses-conditions-dentree/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
