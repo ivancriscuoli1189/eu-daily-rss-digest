@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 18:17*
+*Generato: 29 Sep 2025, 21:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [« Ruines Imaginaires » à la librairie Al Kitab : Des lieux qui dorment et des artistes qui les réveillent](https://lapresse.tn/2025/09/29/ruines-imaginaires-a-la-librairie-al-kitab-des-lieux-qui-dorment-et-des-artistes-qui-les-reveillent/)
-- [Dar el Founoun : Voir grand](https://lapresse.tn/2025/09/29/dar-el-founoun-voir-grand/)
-- [Maîtrise des prix : Alléger le fardeau financier des citoyens](https://lapresse.tn/2025/09/29/maitrise-des-prix-alleger-le-fardeau-financier-des-citoyens/)
+- [CAB – On ne se bouscule pas au portillon : Pas de candidat à la présidence !](https://lapresse.tn/2025/09/29/cab-on-ne-se-bouscule-pas-au-portillon-pas-de-candidat-a-la-presidence/)
+- [L’ASG rétropédale : En dents de scie](https://lapresse.tn/2025/09/29/lasg-retropedale-en-dents-de-scie/)
+- [Expatriés : Come-back payant de Skhiri](https://lapresse.tn/2025/09/29/expatries-come-back-payant-de-skhiri/)
 - [Face au discours de crise : Le Président de la République prône le langage de vérité](https://lapresse.tn/2025/09/29/face-au-discours-de-crise-le-president-de-la-republique-prone-le-langage-de-verite/)
 - [Plaques de cannabis, véhicules, zodiacs et armes saisis : Un réseau transnational démantelé](https://lapresse.tn/2025/09/29/plaques-de-cannabis-vehicules-zodiacs-et-armes-saisis-un-reseau-transnational-demantele/)
 - [Recul de l’âge moyen du mariage en Tunisie : quand les hommes et les femmes se marient de plus en plus tard](https://lapresse.tn/2025/09/29/recul-de-lage-moyen-du-mariage-en-tunisie-quand-les-hommes-et-les-femmes-se-marient-de-plus-en-plus-tard/)
@@ -223,19 +223,6 @@
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Procès de Moussa Mara au Mali : deux ans de prison requis contre l’ancien Premier ministre](https://www.jeuneafrique.com/1726108/politique/proces-de-moussa-mara-au-mali-deux-ans-de-prison-requis-contre-lancien-premier-ministre/)
 - [Mali : le procès de l’ancien Premier ministre Moussa Mara s’est ouvert](https://www.jeuneafrique.com/1726027/politique/mali-le-proces-de-lancien-premier-ministre-moussa-mara-sest-ouvert/)
 - [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
 - [Au Maroc, les manifestations spontanées du collectif « GenZ 212 » se poursuivent](https://www.jeuneafrique.com/1725812/politique/au-maroc-les-manifestations-spontanees-du-collectif-genz-212-se-poursuivent/)
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
+- [Présidentielle en Côte d’Ivoire : quels sont les stratèges de l’ombre des candidats ?](https://www.jeuneafrique.com/1724961/politique/presidentielle-en-cote-divoire-quels-sont-les-strateges-de-lombre-des-candidats/)
 - [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
 - [CAN 2025 : le football met (déjà) à l’épreuve les relations algéro-marocaines](https://www.jeuneafrique.com/1724989/politique/can-2025-le-football-met-deja-a-lepreuve-les-relations-algero-marocaines/)
-- [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
-- [Présidentielle au Cameroun : Paul Biya face aux palais abandonnés de la République](https://www.jeuneafrique.com/1722528/politique/presidentielle-au-cameroun-paul-biya-face-aux-palais-abandonnes-de-la-republique/)
 - [Sénégal : ce que craignent les opérateurs de mobile money avec la nouvelle taxation](https://www.jeuneafrique.com/1725572/economie-entreprises/senegal-ce-que-craignent-les-operateurs-de-mobile-money-avec-la-nouvelle-taxation/)
 - [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
 
