@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 06:17*
+*Generato: 29 Sep 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة و السيدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد بالسّادة خالد النّوري وزير الدّاخلية وسفيان بالصّادق كاتب الدّولة لدى وزير الدّاخلية المكلّف بالأمن الوطني و مراد سعيدان المدير العامّ للأمن الوطني وحسين الغربي المدير العامّ آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%91%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد النّوري وزير الداخلية، والسيدين مراد سعيدان، المدير العام للأمن الوطني، وحسين الغربي، المدير العام آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%D8%8C-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D8%AF-%D8%B3%D8%B9%D9%8A%D8%AF%D8%A7%D9%86%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد السهيلي وزير الدفاع الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%87%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-2)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-3)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Pour une dynamique renouvelée de la coopération internationale](https://lapresse.tn/2025/09/28/pour-une-dynamique-renouvelee-de-la-cooperation-internationale/)
+- [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
+- [Protection civile : 392 interventions en 24 heures](https://lapresse.tn/2025/09/29/protection-civile-392-interventions-en-24-heures/)
+- [CNAM-changement du régime de soins : demain, dernier délai](https://lapresse.tn/2025/09/29/cnam-changement-du-regime-de-soins-demain-dernier-delai/)
+- [“La voix de Hind Rajab” lauréat du prix du public au 73ème Festival de San Sebastián en Espagne](https://lapresse.tn/2025/09/29/la-voix-de-hind-rajab-laureat-du-prix-du-public-au-73eme-festival-de-san-sebastian-en-espagne/)
 - [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
-- [Fusillade dans une église du Michigan : plusieurs blessés, l’édifice en feu](https://lapresse.tn/2025/09/28/fusillade-dans-une-eglise-du-michigan-plusieurs-blesses-ledifice-en-feu/)
-- [Journée mondiale du tourisme : Sejnane met en lumière son patrimoine](https://lapresse.tn/2025/09/28/sejnane-bizerte-celebre-son-patrimoine-pour-la-journee-mondiale-du-tourisme/)
 - [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
 - [Mohamed Ali Nafti s’entretient avec son homologue allemand à New York : Renforcer la coopération bilatérale et le partenariat tuniso-européen](https://lapresse.tn/2025/09/28/mohamed-ali-nafti-sentretient-avec-son-homologue-allemand-a-new-york-renforcer-la-cooperation-bilaterale-et-le-partenariat-tuniso-europeen/)
-- [Diplomatie et sécurité : Femmes tunisiennes, forces vives de la paix](https://lapresse.tn/2025/09/28/diplomatie-et-securite-femmes-tunisiennes-forces-vives-de-la-paix/)
+- [Journée mondiale du tourisme : Sejnane met en lumière son patrimoine](https://lapresse.tn/2025/09/28/sejnane-bizerte-celebre-son-patrimoine-pour-la-journee-mondiale-du-tourisme/)
 - [Tunisie : Les récoltes des olives et des dattes s’annoncent sous les meilleurs auspices](https://lapresse.tn/2025/09/28/tunisie-les-recoltes-des-olives-et-des-dattes-sannoncent-sous-les-meilleurs-auspices/)
-- [Climat : Pluies d’automne, mêmes défaillances](https://lapresse.tn/2025/09/28/climat-pluies-dautomne-memes-defaillances/)
-- [Kairouan : Des chauffeurs de taxi indélicats](https://lapresse.tn/2025/09/28/kairouan-des-chauffeurs-de-taxi-indelicats/)
+- [Projets du budget économique 2026 : Entre ambitions sociales et croissance économique](https://lapresse.tn/2025/09/28/projets-du-budget-economique-2026-entre-ambitions-sociales-et-croissance-economique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,29 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
-- [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-- [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
 - [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
+- [Présidentielle au Cameroun : Paul Biya face aux palais abandonnés de la République](https://www.jeuneafrique.com/1722528/politique/presidentielle-au-cameroun-paul-biya-face-aux-palais-abandonnes-de-la-republique/)
 - [Au Sénégal, un mandat d’arrêt international a été émis contre l’éditorialiste Madiambal Diagne](https://www.jeuneafrique.com/1725771/politique/au-senegal-un-mandat-darret-international-a-ete-emis-contre-leditorialiste-madiambal-diagne/)
 - [Les États-Unis lèvent les restrictions de visas pour le Ghana](https://www.jeuneafrique.com/1725768/politique/les-etats-unis-levent-les-restrictions-de-visas-pour-le-ghana/)
 - [Au Gabon, des élections législatives et locales pour clore la transition](https://www.jeuneafrique.com/1725764/politique/au-gabon-des-elections-legislatives-et-locales-pour-clore-la-transition/)
 - [Mhamed Lachkar Mrabo, écrivain : « La figure d’Abdelkrim dépasse largement le cadre marocain et maghrébin »](https://www.jeuneafrique.com/1725330/politique/mhamed-lachkar-mrabo-ecrivain-la-figure-dabdelkrim-depasse-largement-le-cadre-marocain-et-maghrebin/)
 - [Présidentielle au Cameroun : Paul Biya face à une opposition fragmentée](https://www.jeuneafrique.com/1725486/politique/presidentielle-au-cameroun-paul-biya-face-a-une-opposition-fragmentee/)
-- [Au Niger, les frappes aériennes de l’armée font « des dizaines de victimes civiles »](https://www.jeuneafrique.com/1725758/politique/au-niger-les-frappes-aeriennes-de-larmee-font-des-dizaines-de-victimes-civiles/)
-- [Madagascar : le président Rajoelina limoge son ministre de l’Énergie et dénonce « une forme de coup d’État »](https://www.jeuneafrique.com/1725751/politique/madagascar-le-president-rajoelina-limoge-son-ministre-de-lenergie-et-denonce-une-forme-de-coup-detat/)
 - [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
 - [CAN 2025 : quand le Maroc fête le football africain en durcissant ses conditions d’entrée](https://www.jeuneafrique.com/1725594/economie-entreprises/can-2025-quand-le-maroc-fete-le-football-africain-en-durcissant-ses-conditions-dentree/)
 
