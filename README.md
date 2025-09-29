@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 13:24*
+*Generato: 29 Sep 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [Lotfi Riahi : « de nombreux bouchers ont adhéré à l’initiative de réduction des prix des viandes rouges »](https://lapresse.tn/2025/09/29/lotfi-riahi-de-nombreux-bouchers-ont-adhere-a-linitiative-de-reduction-des-prix-des-viandes-rouges/)
-- [Port de Radès : la douane du déjoue une tentative de contrebande de 572,5 kg de cannabis](https://lapresse.tn/2025/09/29/port-de-rades-la-douane-du-dejoue-une-tentative-de-contrebande-de-5725-kg-de-cannabis/)
-- [Ligue des champions – L’EST se qualifie avec aisance au second tour préliminaire : Des signes révélateurs…](https://lapresse.tn/2025/09/29/ligue-des-champions-lest-se-qualifie-avec-aisance-au-second-tour-preliminaire-des-signes-revelateurs/)
+- [Assurance maladie: 19 % des tunisiens n’ont pas de couverture](https://lapresse.tn/2025/09/29/assurance-maladie-19-des-tunisiens-nont-pas-de-couverture/)
+- [Hammamet : lancement officiel de l’Organisation tunisienne des énergies propres](https://lapresse.tn/2025/09/29/hammamet-lancement-officiel-de-lorganisation-tunisienne-des-energies-propres/)
+- [Plages de Takelsa: les effets du changement climatique se font sentir](https://lapresse.tn/2025/09/29/plages-de-takelsa-les-effets-du-changement-climatique-se-font-sentir/)
 - [Mohamed Ali Nafti rencontre des étudiants et des compétences nationales en marge de l’AG de l’ONU](https://lapresse.tn/2025/09/29/mohamed-ali-nafti-rencontre-des-etudiants-et-des-competences-nationales-en-marge-de-lag-de-lonu/)
 - [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
 - [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
-- [150 mille tunisiens ont quitté le pays, au cours des cinq dernières années](https://lapresse.tn/2025/09/29/150-mille-tunisiens-ont-quitte-le-pays-au-cours-des-cinq-dernieres-annees/)
-- [Tunisie : Le divorce a doublé en deux décennies !](https://lapresse.tn/2025/09/29/tunisie-le-divorce-a-double-en-deux-decennies/)
-- [Gafsa : la garde nationale déjoue une tentative de commercialisation d’alcool frelaté](https://lapresse.tn/2025/09/29/gafsa-la-garde-nationale-dejoue-une-tentative-de-commercialisation-dalcool-frelate/)
+- [INS : 67,8 % des diplômés de l’enseignement supérieur sont des femmes et 32,2 % des hommes](https://lapresse.tn/2025/09/29/ins-678-des-diplomes-de-lenseignement-superieur-sont-des-femmes-et-322-des-hommes/)
+- [Lotfi Riahi : « de nombreux bouchers ont adhéré à l’initiative de réduction des prix des viandes rouges »](https://lapresse.tn/2025/09/29/lotfi-riahi-de-nombreux-bouchers-ont-adhere-a-linitiative-de-reduction-des-prix-des-viandes-rouges/)
+- [Selon les derniers chiffres de l’INS : 75.1% des ménages sont propriétaires de leur logement](https://lapresse.tn/2025/09/29/selon-les-derniers-chiffres-de-lins-75-1-des-menages-sont-proprietaires-de-leur-logement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
 - [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
@@ -247,7 +248,6 @@
 - [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
 - [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
 - [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
-- [A call on Europe to help prevent large-scale war between Iran and the United States](https://ecfr.eu/article/a-call-on-europe-to-help-prevent-large-scale-war-between-iran-and-the-united-states/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
 - [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
 - [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
@@ -284,7 +285,6 @@
 - [Au Sénégal, un mandat d’arrêt international a été émis contre l’éditorialiste Madiambal Diagne](https://www.jeuneafrique.com/1725771/politique/au-senegal-un-mandat-darret-international-a-ete-emis-contre-leditorialiste-madiambal-diagne/)
 - [Les États-Unis lèvent les restrictions de visas pour le Ghana](https://www.jeuneafrique.com/1725768/politique/les-etats-unis-levent-les-restrictions-de-visas-pour-le-ghana/)
 - [Au Gabon, des élections législatives et locales pour clore la transition](https://www.jeuneafrique.com/1725764/politique/au-gabon-des-elections-legislatives-et-locales-pour-clore-la-transition/)
-- [Mhamed Lachkar Mrabo, écrivain : « La figure d’Abdelkrim dépasse largement le cadre marocain et maghrébin »](https://www.jeuneafrique.com/1725330/politique/mhamed-lachkar-mrabo-ecrivain-la-figure-dabdelkrim-depasse-largement-le-cadre-marocain-et-maghrebin/)
 - [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
 - [CAN 2025 : quand le Maroc fête le football africain en durcissant ses conditions d’entrée](https://www.jeuneafrique.com/1725594/economie-entreprises/can-2025-quand-le-maroc-fete-le-football-africain-en-durcissant-ses-conditions-dentree/)
 
