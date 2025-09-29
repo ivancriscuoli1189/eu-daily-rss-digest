@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Sep 2025, 21:04*
+*Generato: 29 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Protéger l’école, sanctuaire de la République](https://lapresse.tn/2025/09/26/proteger-lecole-sanctuaire-de-la-republique/)
-- [EST- Première apparition du nouveau venu, Florian Danho : Quand puissance rime avec technique…](https://lapresse.tn/2025/09/26/est-premiere-apparition-du-nouveau-venu-florian-danho-quand-puissance-rime-avec-technique/)
-- [Le ST assure une 4e victoire consécutive : Le leader tranquille](https://lapresse.tn/2025/09/26/le-st-assure-une-4e-victoire-consecutive-le-leader-tranquille/)
-- [Le CAB perd une nouvelle fois en déplacement : L’ombre de son ombre !](https://lapresse.tn/2025/09/26/le-cab-perd-une-nouvelle-fois-en-deplacement-lombre-de-son-ombre/)
-- [Tunisie–Italie : dévoilement du nom de l’entreprise chargée du projet de câble électrique sous-marin](https://lapresse.tn/2025/09/26/tunisie-italie-devoilement-du-nom-de-lentreprise-chargee-du-projet-de-cable-electrique-sous-marin/)
-- [Ahmed Ounais à La Presse : «La reconnaissance d’un État n’implique pas sa création effective, mais c’est un grand pas vers l’avant»](https://lapresse.tn/2025/09/26/ahmed-ounais-a-la-presse-la-reconnaissance-dun-etat-nimplique-pas-sa-creation-effective-mais-cest-un-grand-pas-vers-lavant/)
-- [Météo : orages et fortes pluies attendus aujourd’hui et demain en Tunisie](https://lapresse.tn/2025/09/26/meteo-orages-et-fortes-pluies-attendus-aujourdhui-et-demain-en-tunisie/)
-- [Spéculation : Ces requins qui écument le marché](https://lapresse.tn/2025/09/26/speculation-ces-requins-qui-ecument-le-marche/)
-- [Tozeur : Un aéroport, deux ambitions : énergie verte et attractivité touristique](https://lapresse.tn/2025/09/26/tozeur-un-aeroport-deux-ambitions-energie-verte-et-attractivite-touristique/)
-- [15 hôpitaux régionaux binetôt intégrés dans le système d’imagerie médicale à distance](https://lapresse.tn/2025/09/26/15-hopitaux-regionaux-binetot-integres-dans-le-systeme-dimagerie-medicale-a-distance/)
+- [Pour une dynamique renouvelée de la coopération internationale](https://lapresse.tn/2025/09/28/pour-une-dynamique-renouvelee-de-la-cooperation-internationale/)
+- [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
+- [Fusillade dans une église du Michigan : plusieurs blessés, l’édifice en feu](https://lapresse.tn/2025/09/28/fusillade-dans-une-eglise-du-michigan-plusieurs-blesses-ledifice-en-feu/)
+- [Journée mondiale du tourisme : Sejnane met en lumière son patrimoine](https://lapresse.tn/2025/09/28/sejnane-bizerte-celebre-son-patrimoine-pour-la-journee-mondiale-du-tourisme/)
+- [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
+- [Mohamed Ali Nafti s’entretient avec son homologue allemand à New York : Renforcer la coopération bilatérale et le partenariat tuniso-européen](https://lapresse.tn/2025/09/28/mohamed-ali-nafti-sentretient-avec-son-homologue-allemand-a-new-york-renforcer-la-cooperation-bilaterale-et-le-partenariat-tuniso-europeen/)
+- [Diplomatie et sécurité : Femmes tunisiennes, forces vives de la paix](https://lapresse.tn/2025/09/28/diplomatie-et-securite-femmes-tunisiennes-forces-vives-de-la-paix/)
+- [Tunisie : Les récoltes des olives et des dattes s’annoncent sous les meilleurs auspices](https://lapresse.tn/2025/09/28/tunisie-les-recoltes-des-olives-et-des-dattes-sannoncent-sous-les-meilleurs-auspices/)
+- [Climat : Pluies d’automne, mêmes défaillances](https://lapresse.tn/2025/09/28/climat-pluies-dautomne-memes-defaillances/)
+- [Kairouan : Des chauffeurs de taxi indélicats](https://lapresse.tn/2025/09/28/kairouan-des-chauffeurs-de-taxi-indelicats/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 - [The International Commission of Jurists Welcomes Our New Commissioners](https://www.icj.org/the-international-commission-of-jurists-welcomes-our-new-commissioners/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Acidification de l’océan : quel impact pour les pêcheurs africains ?](https://www.jeuneafrique.com/1725456/politique/acidification-de-locean-quel-impact-pour-les-pecheurs-africains/)
-- [Au Mali, la chasse aux fonctionnaires « fictifs » est lancée](https://www.jeuneafrique.com/1725439/politique/au-mali-la-chasse-aux-fonctionnaires-fictifs-est-lancee/)
-- [Maroc : pourquoi le « prince rouge » attaque-t-il un youtubeur en justice ?](https://www.jeuneafrique.com/1725172/politique/maroc-pourquoi-le-prince-rouge-attaque-t-il-un-youtubeur-en-justice/)
-- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo en appelle « à la communauté internationale »](https://www.jeuneafrique.com/1725364/politique/presidentielle-en-cote-divoire-laurent-gbagbo-en-appelle-a-la-communaute-internationale/)
-- [Présidentielle en Centrafrique : l’opposition dénonce une impasse politique](https://www.jeuneafrique.com/1725345/politique/presidentielle-en-centrafrique-lopposition-denonce-une-impasse-politique/)
-- [À Madagascar, une foule en colère paralyse la capitale et vise des proches du président Rajoelina](https://www.jeuneafrique.com/1725335/politique/a-madagascar-une-foule-en-colere-paralyse-la-capitale-et-vise-des-proches-du-president-rajoelina/)
-- [En Algérie, le Premier ministre en dit plus sur les malversations des frères Kouninef](https://www.jeuneafrique.com/1724736/politique/en-algerie-le-premier-ministre-en-dit-plus-sur-les-malversations-des-freres-kouninef/)
-- [Présidentielle au Cameroun : Pierre Kwemo, l’ex-ami de Paul Biya devenu opposant socialiste](https://www.jeuneafrique.com/1724237/politique/presidentielle-au-cameroun-pierre-kwemo-lex-ami-de-paul-biya-devenu-opposant-socialiste/)
-- [Uranium au Niger : Orano obtient une « petite victoire » face à la junte](https://www.jeuneafrique.com/1725700/economie-entreprises/uranium-au-niger-orano-obtient-une-petite-victoire-face-a-la-junte/)
-- [Comment l’américain Seaboard veut contrer le blé russe dans le Sahel](https://www.jeuneafrique.com/1725463/economie-entreprises/comment-lamericain-seaboard-veut-contrer-le-ble-russe-dans-le-sahel/)
+- [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
+- [Au Sénégal, un mandat d’arrêt international a été émis contre l’éditorialiste Madiambal Diagne](https://www.jeuneafrique.com/1725771/politique/au-senegal-un-mandat-darret-international-a-ete-emis-contre-leditorialiste-madiambal-diagne/)
+- [Les États-Unis lèvent les restrictions de visas pour le Ghana](https://www.jeuneafrique.com/1725768/politique/les-etats-unis-levent-les-restrictions-de-visas-pour-le-ghana/)
+- [Au Gabon, des élections législatives et locales pour clore la transition](https://www.jeuneafrique.com/1725764/politique/au-gabon-des-elections-legislatives-et-locales-pour-clore-la-transition/)
+- [Mhamed Lachkar Mrabo, écrivain : « La figure d’Abdelkrim dépasse largement le cadre marocain et maghrébin »](https://www.jeuneafrique.com/1725330/politique/mhamed-lachkar-mrabo-ecrivain-la-figure-dabdelkrim-depasse-largement-le-cadre-marocain-et-maghrebin/)
+- [Présidentielle au Cameroun : Paul Biya face à une opposition fragmentée](https://www.jeuneafrique.com/1725486/politique/presidentielle-au-cameroun-paul-biya-face-a-une-opposition-fragmentee/)
+- [Au Niger, les frappes aériennes de l’armée font « des dizaines de victimes civiles »](https://www.jeuneafrique.com/1725758/politique/au-niger-les-frappes-aeriennes-de-larmee-font-des-dizaines-de-victimes-civiles/)
+- [Madagascar : le président Rajoelina limoge son ministre de l’Énergie et dénonce « une forme de coup d’État »](https://www.jeuneafrique.com/1725751/politique/madagascar-le-president-rajoelina-limoge-son-ministre-de-lenergie-et-denonce-une-forme-de-coup-detat/)
+- [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
+- [CAN 2025 : quand le Maroc fête le football africain en durcissant ses conditions d’entrée](https://www.jeuneafrique.com/1725594/economie-entreprises/can-2025-quand-le-maroc-fete-le-football-africain-en-durcissant-ses-conditions-dentree/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
