@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 09:13*
+*Generato: 29 Sep 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [Protection civile : 392 interventions en 24 heures](https://lapresse.tn/2025/09/29/protection-civile-392-interventions-en-24-heures/)
-- [CNAM-changement du régime de soins : demain, dernier délai](https://lapresse.tn/2025/09/29/cnam-changement-du-regime-de-soins-demain-dernier-delai/)
-- [“La voix de Hind Rajab” lauréat du prix du public au 73ème Festival de San Sebastián en Espagne](https://lapresse.tn/2025/09/29/la-voix-de-hind-rajab-laureat-du-prix-du-public-au-73eme-festival-de-san-sebastian-en-espagne/)
+- [Égypte : 8 morts et 14 blessés dans un terrible accident de la route](https://lapresse.tn/2025/09/29/egypte-8-morts-et-14-blesses-dans-un-terrible-accident-de-la-route/)
+- [2 et 3 octobre prochains : lancement de la cinquième édition du salon de l’emploi](https://lapresse.tn/2025/09/29/2-et-3-octobre-prochains-lancement-de-la-cinquieme-edition-du-salon-de-lemploi/)
+- [Ooredoo et Samsung lancent la 2ème édition de la “Ooredoo Padel Cup Samsung” au profit de la lutte contre le cancer du sein](https://lapresse.tn/2025/09/29/ooredoo-et-samsung-lancent-la-2eme-edition-de-la-ooredoo-padel-cup-samsung-au-profit-de-la-lutte-contre-le-cancer-du-sein/)
 - [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
 - [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
 - [Mohamed Ali Nafti s’entretient avec son homologue allemand à New York : Renforcer la coopération bilatérale et le partenariat tuniso-européen](https://lapresse.tn/2025/09/28/mohamed-ali-nafti-sentretient-avec-son-homologue-allemand-a-new-york-renforcer-la-cooperation-bilaterale-et-le-partenariat-tuniso-europeen/)
-- [Journée mondiale du tourisme : Sejnane met en lumière son patrimoine](https://lapresse.tn/2025/09/28/sejnane-bizerte-celebre-son-patrimoine-pour-la-journee-mondiale-du-tourisme/)
-- [Tunisie : Les récoltes des olives et des dattes s’annoncent sous les meilleurs auspices](https://lapresse.tn/2025/09/28/tunisie-les-recoltes-des-olives-et-des-dattes-sannoncent-sous-les-meilleurs-auspices/)
-- [Projets du budget économique 2026 : Entre ambitions sociales et croissance économique](https://lapresse.tn/2025/09/28/projets-du-budget-economique-2026-entre-ambitions-sociales-et-croissance-economique/)
+- [150 mille tunisiens ont quitté le pays, au cours des cinq dernières années](https://lapresse.tn/2025/09/29/150-mille-tunisiens-ont-quitte-le-pays-au-cours-des-cinq-dernieres-annees/)
+- [Tunisie : Le divorce a doublé en deux décennies !](https://lapresse.tn/2025/09/29/tunisie-le-divorce-a-double-en-deux-decennies/)
+- [Gafsa : la garde nationale déjoue une tentative de commercialisation d’alcool frelaté](https://lapresse.tn/2025/09/29/gafsa-la-garde-nationale-dejoue-une-tentative-de-commercialisation-dalcool-frelate/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Open Letter: Call for UN member states to uphold, preserve and strengthen international refugee, human rights and humanitarian treaties](https://www.icj.org/open-letter-call-for-un-member-states-to-uphold-preserve-and-strengthen-international-refugee-human-rights-and-humanitarian-treaties/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
-- [HRC60: Oral Statement in the General Debate under Item 4 on Tunisia](https://www.icj.org/hrc60-oral-statement-in-the-general-debate-under-item-4-on-tunisia/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
@@ -278,13 +278,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
+- [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
 - [La présidentielle en Guinée aura lieu le 28 décembre](https://www.jeuneafrique.com/1725775/politique/la-presidentielle-en-guinee-aura-lieu-le-28-decembre/)
 - [Présidentielle au Cameroun : Paul Biya face aux palais abandonnés de la République](https://www.jeuneafrique.com/1722528/politique/presidentielle-au-cameroun-paul-biya-face-aux-palais-abandonnes-de-la-republique/)
 - [Au Sénégal, un mandat d’arrêt international a été émis contre l’éditorialiste Madiambal Diagne](https://www.jeuneafrique.com/1725771/politique/au-senegal-un-mandat-darret-international-a-ete-emis-contre-leditorialiste-madiambal-diagne/)
 - [Les États-Unis lèvent les restrictions de visas pour le Ghana](https://www.jeuneafrique.com/1725768/politique/les-etats-unis-levent-les-restrictions-de-visas-pour-le-ghana/)
 - [Au Gabon, des élections législatives et locales pour clore la transition](https://www.jeuneafrique.com/1725764/politique/au-gabon-des-elections-legislatives-et-locales-pour-clore-la-transition/)
 - [Mhamed Lachkar Mrabo, écrivain : « La figure d’Abdelkrim dépasse largement le cadre marocain et maghrébin »](https://www.jeuneafrique.com/1725330/politique/mhamed-lachkar-mrabo-ecrivain-la-figure-dabdelkrim-depasse-largement-le-cadre-marocain-et-maghrebin/)
-- [Présidentielle au Cameroun : Paul Biya face à une opposition fragmentée](https://www.jeuneafrique.com/1725486/politique/presidentielle-au-cameroun-paul-biya-face-a-une-opposition-fragmentee/)
 - [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
 - [CAN 2025 : quand le Maroc fête le football africain en durcissant ses conditions d’entrée](https://www.jeuneafrique.com/1725594/economie-entreprises/can-2025-quand-le-maroc-fete-le-football-africain-en-durcissant-ses-conditions-dentree/)
 
