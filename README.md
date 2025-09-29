@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 12:19*
+*Generato: 29 Sep 2025, 13:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [Coupe de la CAF – L’Étoile poursuit l’aventure africaine : Un si long dénouement…](https://lapresse.tn/2025/09/29/coupe-de-la-caf-letoile-poursuit-laventure-africaine-un-si-long-denouement/)
-- [Selon les derniers chiffres de l’INS : 75.1% des ménages sont propriétaires de leur logement](https://lapresse.tn/2025/09/29/selon-les-derniers-chiffres-de-lins-75-1-des-menages-sont-proprietaires-de-leur-logement/)
-- [Égypte : 8 morts et 14 blessés dans un terrible accident de la route](https://lapresse.tn/2025/09/29/egypte-8-morts-et-14-blesses-dans-un-terrible-accident-de-la-route/)
+- [Lotfi Riahi : « de nombreux bouchers ont adhéré à l’initiative de réduction des prix des viandes rouges »](https://lapresse.tn/2025/09/29/lotfi-riahi-de-nombreux-bouchers-ont-adhere-a-linitiative-de-reduction-des-prix-des-viandes-rouges/)
+- [Port de Radès : la douane du déjoue une tentative de contrebande de 572,5 kg de cannabis](https://lapresse.tn/2025/09/29/port-de-rades-la-douane-du-dejoue-une-tentative-de-contrebande-de-5725-kg-de-cannabis/)
+- [Ligue des champions – L’EST se qualifie avec aisance au second tour préliminaire : Des signes révélateurs…](https://lapresse.tn/2025/09/29/ligue-des-champions-lest-se-qualifie-avec-aisance-au-second-tour-preliminaire-des-signes-revelateurs/)
+- [Mohamed Ali Nafti rencontre des étudiants et des compétences nationales en marge de l’AG de l’ONU](https://lapresse.tn/2025/09/29/mohamed-ali-nafti-rencontre-des-etudiants-et-des-competences-nationales-en-marge-de-lag-de-lonu/)
 - [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
 - [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
-- [Mohamed Ali Nafti s’entretient avec son homologue allemand à New York : Renforcer la coopération bilatérale et le partenariat tuniso-européen](https://lapresse.tn/2025/09/28/mohamed-ali-nafti-sentretient-avec-son-homologue-allemand-a-new-york-renforcer-la-cooperation-bilaterale-et-le-partenariat-tuniso-europeen/)
 - [150 mille tunisiens ont quitté le pays, au cours des cinq dernières années](https://lapresse.tn/2025/09/29/150-mille-tunisiens-ont-quitte-le-pays-au-cours-des-cinq-dernieres-annees/)
 - [Tunisie : Le divorce a doublé en deux décennies !](https://lapresse.tn/2025/09/29/tunisie-le-divorce-a-double-en-deux-decennies/)
 - [Gafsa : la garde nationale déjoue une tentative de commercialisation d’alcool frelaté](https://lapresse.tn/2025/09/29/gafsa-la-garde-nationale-dejoue-une-tentative-de-commercialisation-dalcool-frelate/)
@@ -222,6 +222,19 @@
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
