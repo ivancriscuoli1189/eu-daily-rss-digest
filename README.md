@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 11:03*
+*Generato: 29 Sep 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
+- [Coupe de la CAF – L’Étoile poursuit l’aventure africaine : Un si long dénouement…](https://lapresse.tn/2025/09/29/coupe-de-la-caf-letoile-poursuit-laventure-africaine-un-si-long-denouement/)
+- [Selon les derniers chiffres de l’INS : 75.1% des ménages sont propriétaires de leur logement](https://lapresse.tn/2025/09/29/selon-les-derniers-chiffres-de-lins-75-1-des-menages-sont-proprietaires-de-leur-logement/)
 - [Égypte : 8 morts et 14 blessés dans un terrible accident de la route](https://lapresse.tn/2025/09/29/egypte-8-morts-et-14-blesses-dans-un-terrible-accident-de-la-route/)
-- [2 et 3 octobre prochains : lancement de la cinquième édition du salon de l’emploi](https://lapresse.tn/2025/09/29/2-et-3-octobre-prochains-lancement-de-la-cinquieme-edition-du-salon-de-lemploi/)
-- [Ooredoo et Samsung lancent la 2ème édition de la “Ooredoo Padel Cup Samsung” au profit de la lutte contre le cancer du sein](https://lapresse.tn/2025/09/29/ooredoo-et-samsung-lancent-la-2eme-edition-de-la-ooredoo-padel-cup-samsung-au-profit-de-la-lutte-contre-le-cancer-du-sein/)
 - [Météo : Nuages et températures en légère hausse ce Lundi !](https://lapresse.tn/2025/09/29/meteo-nuages-et-temperatures-en-legere-hausse-ce-lundi/)
 - [Déclaration de la Tunisie au débat général de la partie de haut niveau de la 80e session de l’Assemblée générale des Nations Unies.](https://lapresse.tn/2025/09/28/declaration-de-la-tunisie-au-debat-general-de-la-partie-de-haut-niveau-de-la-80e-session-de-lassemblee-generale-des-nations-unies/)
 - [Mohamed Ali Nafti s’entretient avec son homologue allemand à New York : Renforcer la coopération bilatérale et le partenariat tuniso-européen](https://lapresse.tn/2025/09/28/mohamed-ali-nafti-sentretient-avec-son-homologue-allemand-a-new-york-renforcer-la-cooperation-bilaterale-et-le-partenariat-tuniso-europeen/)
@@ -222,19 +222,6 @@
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -290,6 +277,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
 - [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
 - [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
 - [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
@@ -299,4 +287,3 @@
 - [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
 - [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
 - [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
-- [I Territori d'Oltremare francesi, tra paradiso e inferno](https://www.limesonline.com/rubriche/mappe-parlanti/2-i-territori-d-oltremare-francesi-tra-paradiso-e-inferno-19454941/)
