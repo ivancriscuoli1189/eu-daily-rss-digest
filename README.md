@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Sep 2025, 11:03*
+*Generato: 30 Sep 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,6 +30,7 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
+- [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
@@ -39,7 +40,6 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-- [Criminalità minorile](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/criminalita-minorile)
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
+- [Le mariage en Tunisie devient un marché d’intérêts, selon un sociologue](https://lapresse.tn/2025/09/30/le-mariage-en-tunisie-devient-un-marche-dinterets-selon-un-sociologue/)
+- [L’UNESCO inaugure le premier Musée virtuel mondial des biens culturels volés](https://lapresse.tn/2025/09/30/lunesco-inaugure-le-premier-musee-virtuel-mondial-des-biens-culturels-voles/)
+- [Logement en Tunisie : 20 % des habitations restent vides](https://lapresse.tn/2025/09/30/logement-en-tunisie-20-des-habitations-restent-vides/)
 - [Tunisie : “Wallah We Can” envoie une aide scolaire à Gaza malgré le blocus](https://lapresse.tn/2025/09/30/tunisie-wallah-we-can-envoie-une-aide-scolaire-a-gaza-malgre-le-blocus/)
-- [La Tunisie, leader mondial des exportations de dattes et deuxième exportateur d’olives](https://lapresse.tn/2025/09/30/la-tunisie-leader-mondial-des-exportations-de-dattes-et-deuxieme-exportateur-dolives/)
-- [L’or atteint un nouveau record et vise sa meilleure performance mensuelle depuis 14 ans](https://lapresse.tn/2025/09/30/lor-atteint-un-nouveau-record-et-vise-sa-meilleure-performance-mensuelle-depuis-14-ans/)
 - [Les douanes tunisiennes stoppent un énorme trafic de cannabis et de cocaïne](https://lapresse.tn/2025/09/30/les-douanes-tunisiennes-stoppent-un-enorme-trafic-de-cannabis-et-de-cocaine/)
 - [A l’Assemblée générale des Nations unies à New York : La voix tunisienne appelle à lever le blocus de Gaza](https://lapresse.tn/2025/09/30/a-lassemblee-generale-des-nations-unies-a-new-york-la-voix-tunisienne-appelle-a-lever-le-blocus-de-gaza/)
-- [Étudiants tunisiens : attention aux arnaques, alerte de l’Ambassade de Chine à Tunis](https://lapresse.tn/2025/09/30/etudiants-tunisiens-attention-aux-arnaques-alerte-de-lambassade-de-chine-a-tunis/)
 - [Gabès : 14 élèves hospitalisés après une fuite de gaz toxique](https://lapresse.tn/2025/09/30/gabes-14-eleves-hospitalises-apres-une-fuite-de-gaz-toxique/)
 - [Gafsa : 33 blessés dans une collision entre un camion lourd et un bus transportant des ouvriers](https://lapresse.tn/2025/09/30/gafsa-33-blesses-dans-une-collision-entre-un-camion-lourd-et-un-bus-transportant-des-ouvriers/)
 - [Tunisie : Arrestation de 40 dealers de drogue dans les écoles de Tunis](https://lapresse.tn/2025/09/30/tunisie-arrestation-de-40-dealers-de-drogue-dans-les-ecoles-de-tunis/)
