@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Sep 2025, 06:17*
+*Generato: 30 Sep 2025, 09:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
+- [Gabès : 14 élèves hospitalisés après une fuite de gaz toxique](https://lapresse.tn/2025/09/30/gabes-14-eleves-hospitalises-apres-une-fuite-de-gaz-toxique/)
+- [Gafsa : 33 blessés dans une collision entre un camion lourd et un bus transportant des ouvriers](https://lapresse.tn/2025/09/30/gafsa-33-blesses-dans-une-collision-entre-un-camion-lourd-et-un-bus-transportant-des-ouvriers/)
+- [Tunisie : Arrestation de 40 dealers de drogue dans les écoles de Tunis](https://lapresse.tn/2025/09/30/tunisie-arrestation-de-40-dealers-de-drogue-dans-les-ecoles-de-tunis/)
+- [Étudiants tunisiens : attention aux arnaques, alerte de l’Ambassade de Chine à Tunis](https://lapresse.tn/2025/09/30/etudiants-tunisiens-attention-aux-arnaques-alerte-de-lambassade-de-chine-a-tunis/)
+- [Nafti rencontre à New York son homologue algérien](https://lapresse.tn/2025/09/30/nafti-rencontre-a-new-york-son-homologue-algerien/)
 - [Météo : Ciel partiellement nuageux et légère hausse des températures ce mardi !](https://lapresse.tn/2025/09/30/meteo-ciel-partiellement-nuageux-et-legere-hausse-des-temperatures-ce-mardi/)
-- [Ooreedoo IA Summit: Ooreedoo veut booster l’IA en tunisie](https://lapresse.tn/2025/09/29/ooreedoo-ia-summit-ooreedoo-veut-booster-lia-en-tunisie/)
-- [CAB – On ne se bouscule pas au portillon : Pas de candidat à la présidence !](https://lapresse.tn/2025/09/29/cab-on-ne-se-bouscule-pas-au-portillon-pas-de-candidat-a-la-presidence/)
-- [Le MAE rencontre la Secrétaire Générale de l’Organisation Internationale de la Francophonie](https://lapresse.tn/2025/09/29/le-mae-rencontre-la-secretaire-generale-de-lorganisation-internationale-de-la-francophonie/)
-- [Face au discours de crise : Le Président de la République prône le langage de vérité](https://lapresse.tn/2025/09/29/face-au-discours-de-crise-le-president-de-la-republique-prone-le-langage-de-verite/)
-- [Mobilité estudiantine : Un transport à la carte](https://lapresse.tn/2025/09/29/mobilite-estudiantine-un-transport-a-la-carte/)
-- [Italie – 28e édition du «Cous Cous Fest», à San Vito Lo Capo (Sicile) : La Tunisie termine sur le podium du championnat du monde de couscous 2025](https://lapresse.tn/2025/09/29/italie-28e-edition-du-cous-cous-fest-a-san-vito-lo-capo-sicile-la-tunisie-termine-sur-le-podium-du-championnat-du-monde-de-couscous-2025/)
-- [Clin d’œil : Et si les infrastructures se plaignaient des usagers !](https://lapresse.tn/2025/09/29/clin-doeil-et-si-les-infrastructures-se-plaignaient-des-usagers/)
-- [Pourquoi : Pluies d’automne](https://lapresse.tn/2025/09/29/pourquoi-pluies-dautomne/)
+- [Entrée sud de Tunis : le ministre appelle à accélérer les travaux](https://lapresse.tn/2025/09/30/entree-sud-de-tunis-le-ministre-appelle-a-accelerer-les-travaux/)
+- [“Pas de pression fiscale excessive en Tunisie…”, affirme Amin Bouzeyene](https://lapresse.tn/2025/09/30/pas-de-pression-fiscale-excessive-en-tunisie-affirme-amin-bouzeyene/)
+- [Maîtrise des prix : Alléger le fardeau financier des citoyens](https://lapresse.tn/2025/09/29/maitrise-des-prix-alleger-le-fardeau-financier-des-citoyens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -226,15 +226,15 @@
 ## THINK TANK – ECFR – MENA
 
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
-- [Flaunting mischief: Three aims of Russia’s airspace incursions](https://ecfr.eu/article/flaunting-mischief-three-aims-of-russias-airspace-incursions/)
-- [Love thy neighbour: Moldova’s election is a stress test for European resilience](https://ecfr.eu/article/love-thy-neighbour-moldovas-election-is-a-stress-test-for-european-resilience/)
-- [Know thy field: China’s new consumerist ethos](https://ecfr.eu/article/know-thy-field-chinas-new-consumerist-ethos/)
-- [Not so fast: What China’s new climate target means for Europe and the planet](https://ecfr.eu/article/not-so-fast-what-chinas-new-climate-target-means-for-europe-and-the-planet/)
-- [J.D. Vance’s foreign policy: When restraint meets culture war](https://ecfr.eu/article/j-d-vances-foreign-policy-when-restraint-meets-culture-war/)
-- [From battlefield to ballot box: Why Russia is drafting war veterans into politics](https://ecfr.eu/article/from-battlefield-to-ballot-box-why-russia-is-drafting-war-veterans-into-politics/)
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
-- [Americans have 400 days to save their democracy](https://ecfr.eu/article/americans-have-400-days-to-save-their-democracy/)
-- [Podium of power: Von der Leyen’s State of the Union address confronts Europe’s defence preparedness](https://ecfr.eu/article/podium-of-power-von-der-leyens-state-of-the-union-address-confronts-europes-defence-preparedness/)
+- [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
+- [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
+- [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
+- [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
+- [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
+- [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
+- [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
+- [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Comment Madiambal Diagne, patron de presse influent, est devenu l’un des hommes les plus recherchés du Sénégal](https://www.jeuneafrique.com/1726075/politique/comment-madiambal-diagne-patron-de-presse-influent-est-devenu-lun-des-hommes-les-plus-recherches-du-senegal/)
+- [Rwanda-États-Unis : Kigali signe des partenariats avec des équipes de NBA et de NFL](https://www.jeuneafrique.com/1726126/politique/rwanda-etats-unis-kigali-signe-des-partenariats-avec-des-equipes-de-nba-et-de-nfl/)
+- [Le jour où le génocide contre les Tutsi a commencé](https://www.jeuneafrique.com/1547929/politique/le-jour-ou-le-genocide-contre-les-tutsi-a-commence/)
 - [Procès de Moussa Mara au Mali : deux ans de prison requis contre l’ancien Premier ministre](https://www.jeuneafrique.com/1726108/politique/proces-de-moussa-mara-au-mali-deux-ans-de-prison-requis-contre-lancien-premier-ministre/)
 - [Mali : le procès de l’ancien Premier ministre Moussa Mara s’est ouvert](https://www.jeuneafrique.com/1726027/politique/mali-le-proces-de-lancien-premier-ministre-moussa-mara-sest-ouvert/)
 - [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
 - [Au Maroc, les manifestations spontanées du collectif « GenZ 212 » se poursuivent](https://www.jeuneafrique.com/1725812/politique/au-maroc-les-manifestations-spontanees-du-collectif-genz-212-se-poursuivent/)
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
-- [Maroc-Algérie : F-35 et Soukhoï Su-57… la bataille des airs aura-t-elle lieu ?](https://www.jeuneafrique.com/1721112/politique/maroc-algerie-la-bataille-des-airs-aura-t-elle-lieu/)
-- [Présidentielle en Côte d’Ivoire : quels sont les stratèges de l’ombre des candidats ?](https://www.jeuneafrique.com/1724961/politique/presidentielle-en-cote-divoire-quels-sont-les-strateges-de-lombre-des-candidats/)
-- [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
+- [En plein bras de fer avec le Mali, Mark Bristow passe la main à la tête de Barrick](https://www.jeuneafrique.com/1726000/economie-entreprises/en-plein-bras-de-fer-avec-le-mali-mark-bristow-passe-la-main-a-la-tete-de-barrick/)
 - [Sénégal : ce que craignent les opérateurs de mobile money avec la nouvelle taxation](https://www.jeuneafrique.com/1725572/economie-entreprises/senegal-ce-que-craignent-les-operateurs-de-mobile-money-avec-la-nouvelle-taxation/)
-- [Pourquoi l’Afrique a plus à gagner avec des hommes d’affaires qu’avec des hommes en treillis – par Aurélie M’Bida](https://www.jeuneafrique.com/1723077/economie-entreprises/pourquoi-lafrique-a-plus-a-gagner-avec-des-hommes-daffaires-quavec-des-hommes-en-treillis-par-aurelie-mbida/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
