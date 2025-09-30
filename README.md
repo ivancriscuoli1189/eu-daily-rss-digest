@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Sep 2025, 18:15*
+*Generato: 30 Sep 2025, 21:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
-- [A l’honneur au festival Lumière- Lyon : Tarik Saleh, le thriller sous tension](https://lapresse.tn/2025/09/30/a-lhonneur-au-festival-lumiere-lyon-tarik-saleh-le-thriller-sous-tension/)
+- [La Tunisie vise 7800 touristes japonais d’ici fin 2025](https://lapresse.tn/2025/09/30/la-tunisie-vise-7800-touristes-japonais-dici-fin-2025/)
+- [La flottille internationale pour Gaza atteint la “zone orange”](https://lapresse.tn/2025/09/30/la-flottille-internationale-pour-gaza-atteint-la-zone-orange/)
+- [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
+- [Coupure de l’eau potable, à El Mida, Menzel Temime , Kélibia et Hammam El Ghezaz jeudi](https://lapresse.tn/2025/09/30/coupure-de-leau-potable-a-el-mida-menzel-temime-kelibia-et-hammam-el-ghezaz-jeudi/)
+- [La marine italienne se retire de l’escorte de la flottille « Soumoud » en route vers Gaza](https://lapresse.tn/2025/09/30/la-marine-italienne-se-retire-de-lescorte-de-la-flottille-soumoud-en-route-vers-gaza/)
 - [Météo : fortes pluies et vents violents attendus cette nuit](https://lapresse.tn/2025/09/30/meteo-fortes-pluies-et-vents-violents-attendus-cette-nuit/)
-- [« Derrière le soleil » de Dhia Jerbi : Questionner son histoire et ses origines](https://lapresse.tn/2025/09/30/derriere-le-soleil-de-dhia-jerbi-questionner-son-histoire-et-ses-origines/)
-- [Tunisie : Une délégation de l’ARP effectue une visite en Algérie](https://lapresse.tn/2025/09/30/tunisie-une-delegation-de-larp-effectue-une-visite-en-algerie/)
-- [Grâce aux positions judicieuses du Président Kaïs Saïed : La Tunisie demeure un pilier respecté de la communauté internationale](https://lapresse.tn/2025/09/30/grace-aux-positions-judicieuses-du-president-kais-saied-la-tunisie-demeure-un-pilier-respecte-de-la-communaute-internationale/)
-- [Retrait de confiance aux membres des conseils locaux, régionaux et du CNRD : Un choix libre, responsable et serein](https://lapresse.tn/2025/09/30/retrait-de-confiance-aux-membres-des-conseils-locaux-regionaux-et-du-cnrd-un-choix-libre-responsable-et-serein-2/)
 - [Biosimilaires : la Tunisie veut passer de l’importation à la production locale](https://lapresse.tn/2025/09/30/biosimilaires-la-tunisie-veut-passer-de-limportation-a-la-production-locale/)
 - [Nabeul : effondrement partiel de la façade de la municipalité](https://lapresse.tn/2025/09/30/nabeul-effondrement-partiel-de-la-facade-de-la-municipalite/)
 - [Tozeur : Un projet innovant pour soutenir les jeunes et renforcer la résilience locale](https://lapresse.tn/2025/09/30/tozeur-un-projet-innovant-pour-soutenir-les-jeunes-et-renforcer-la-resilience-locale/)
