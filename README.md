@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Sep 2025, 21:05*
+*Generato: 30 Sep 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
+- [Météo : Ciel partiellement nuageux et légère hausse des températures ce mardi !](https://lapresse.tn/2025/09/30/meteo-ciel-partiellement-nuageux-et-legere-hausse-des-temperatures-ce-mardi/)
+- [Ooreedoo IA Summit: Ooreedoo veut booster l’IA en tunisie](https://lapresse.tn/2025/09/29/ooreedoo-ia-summit-ooreedoo-veut-booster-lia-en-tunisie/)
 - [CAB – On ne se bouscule pas au portillon : Pas de candidat à la présidence !](https://lapresse.tn/2025/09/29/cab-on-ne-se-bouscule-pas-au-portillon-pas-de-candidat-a-la-presidence/)
-- [L’ASG rétropédale : En dents de scie](https://lapresse.tn/2025/09/29/lasg-retropedale-en-dents-de-scie/)
-- [Expatriés : Come-back payant de Skhiri](https://lapresse.tn/2025/09/29/expatries-come-back-payant-de-skhiri/)
+- [Le MAE rencontre la Secrétaire Générale de l’Organisation Internationale de la Francophonie](https://lapresse.tn/2025/09/29/le-mae-rencontre-la-secretaire-generale-de-lorganisation-internationale-de-la-francophonie/)
 - [Face au discours de crise : Le Président de la République prône le langage de vérité](https://lapresse.tn/2025/09/29/face-au-discours-de-crise-le-president-de-la-republique-prone-le-langage-de-verite/)
-- [Plaques de cannabis, véhicules, zodiacs et armes saisis : Un réseau transnational démantelé](https://lapresse.tn/2025/09/29/plaques-de-cannabis-vehicules-zodiacs-et-armes-saisis-un-reseau-transnational-demantele/)
-- [Recul de l’âge moyen du mariage en Tunisie : quand les hommes et les femmes se marient de plus en plus tard](https://lapresse.tn/2025/09/29/recul-de-lage-moyen-du-mariage-en-tunisie-quand-les-hommes-et-les-femmes-se-marient-de-plus-en-plus-tard/)
 - [Mobilité estudiantine : Un transport à la carte](https://lapresse.tn/2025/09/29/mobilite-estudiantine-un-transport-a-la-carte/)
 - [Italie – 28e édition du «Cous Cous Fest», à San Vito Lo Capo (Sicile) : La Tunisie termine sur le podium du championnat du monde de couscous 2025](https://lapresse.tn/2025/09/29/italie-28e-edition-du-cous-cous-fest-a-san-vito-lo-capo-sicile-la-tunisie-termine-sur-le-podium-du-championnat-du-monde-de-couscous-2025/)
 - [Clin d’œil : Et si les infrastructures se plaignaient des usagers !](https://lapresse.tn/2025/09/29/clin-doeil-et-si-les-infrastructures-se-plaignaient-des-usagers/)
+- [Pourquoi : Pluies d’automne](https://lapresse.tn/2025/09/29/pourquoi-pluies-dautomne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -226,15 +226,15 @@
 ## THINK TANK – ECFR – MENA
 
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
+- [Flaunting mischief: Three aims of Russia’s airspace incursions](https://ecfr.eu/article/flaunting-mischief-three-aims-of-russias-airspace-incursions/)
+- [Love thy neighbour: Moldova’s election is a stress test for European resilience](https://ecfr.eu/article/love-thy-neighbour-moldovas-election-is-a-stress-test-for-european-resilience/)
+- [Know thy field: China’s new consumerist ethos](https://ecfr.eu/article/know-thy-field-chinas-new-consumerist-ethos/)
+- [Not so fast: What China’s new climate target means for Europe and the planet](https://ecfr.eu/article/not-so-fast-what-chinas-new-climate-target-means-for-europe-and-the-planet/)
+- [J.D. Vance’s foreign policy: When restraint meets culture war](https://ecfr.eu/article/j-d-vances-foreign-policy-when-restraint-meets-culture-war/)
+- [From battlefield to ballot box: Why Russia is drafting war veterans into politics](https://ecfr.eu/article/from-battlefield-to-ballot-box-why-russia-is-drafting-war-veterans-into-politics/)
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
-- [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
-- [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
-- [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
-- [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
-- [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
-- [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
-- [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
-- [ECFR Council Members urge Europe to halt Iran–U.S. escalation](https://ecfr.eu/newsroom/ecfr-council-members-urge-europe-to-halt-iran-u-s-escalation/)
+- [Americans have 400 days to save their democracy](https://ecfr.eu/article/americans-have-400-days-to-save-their-democracy/)
+- [Podium of power: Von der Leyen’s State of the Union address confronts Europe’s defence preparedness](https://ecfr.eu/article/podium-of-power-von-der-leyens-state-of-the-union-address-confronts-europes-defence-preparedness/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -269,11 +269,11 @@
 - [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
 - [Au Maroc, les manifestations spontanées du collectif « GenZ 212 » se poursuivent](https://www.jeuneafrique.com/1725812/politique/au-maroc-les-manifestations-spontanees-du-collectif-genz-212-se-poursuivent/)
 - [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
+- [Maroc-Algérie : F-35 et Soukhoï Su-57… la bataille des airs aura-t-elle lieu ?](https://www.jeuneafrique.com/1721112/politique/maroc-algerie-la-bataille-des-airs-aura-t-elle-lieu/)
 - [Présidentielle en Côte d’Ivoire : quels sont les stratèges de l’ombre des candidats ?](https://www.jeuneafrique.com/1724961/politique/presidentielle-en-cote-divoire-quels-sont-les-strateges-de-lombre-des-candidats/)
 - [Présidentielle au Cameroun : Cabral Libii peut-il refaire le coup de 2018 ?](https://www.jeuneafrique.com/1724336/politique/presidentielle-au-cameroun-cabral-libii-peut-il-refaire-le-coup-de-2018/)
-- [CAN 2025 : le football met (déjà) à l’épreuve les relations algéro-marocaines](https://www.jeuneafrique.com/1724989/politique/can-2025-le-football-met-deja-a-lepreuve-les-relations-algero-marocaines/)
 - [Sénégal : ce que craignent les opérateurs de mobile money avec la nouvelle taxation](https://www.jeuneafrique.com/1725572/economie-entreprises/senegal-ce-que-craignent-les-operateurs-de-mobile-money-avec-la-nouvelle-taxation/)
-- [« L’uranium du Niger appartient au Niger » : Niamey accuse Paris de l’empêcher d’exploiter son minerai](https://www.jeuneafrique.com/1725790/economie-entreprises/luranium-du-niger-appartient-au-niger-niamey-accuse-paris-de-lempecher-dexploiter-son-minerai/)
+- [Pourquoi l’Afrique a plus à gagner avec des hommes d’affaires qu’avec des hommes en treillis – par Aurélie M’Bida](https://www.jeuneafrique.com/1723077/economie-entreprises/pourquoi-lafrique-a-plus-a-gagner-avec-des-hommes-daffaires-quavec-des-hommes-en-treillis-par-aurelie-mbida/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
