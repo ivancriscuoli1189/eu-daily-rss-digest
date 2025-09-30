@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Sep 2025, 13:24*
+*Generato: 30 Sep 2025, 15:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, boussole de sagesse dans un monde désorienté](https://lapresse.tn/2025/09/29/la-tunisie-boussole-de-sagesse-dans-un-monde-desoriente/)
-- [Le mariage en Tunisie devient un marché d’intérêts, selon un sociologue](https://lapresse.tn/2025/09/30/le-mariage-en-tunisie-devient-un-marche-dinterets-selon-un-sociologue/)
-- [L’UNESCO inaugure le premier Musée virtuel mondial des biens culturels volés](https://lapresse.tn/2025/09/30/lunesco-inaugure-le-premier-musee-virtuel-mondial-des-biens-culturels-voles/)
-- [Logement en Tunisie : 20 % des habitations restent vides](https://lapresse.tn/2025/09/30/logement-en-tunisie-20-des-habitations-restent-vides/)
+- [Exonération fiscale de 4 ans pour les nouvelles entreprises : conditions et échéances](https://lapresse.tn/2025/09/30/exoneration-fiscale-de-4-ans-pour-les-nouvelles-entreprises-conditions-et-echeances/)
+- [“La Caisse des Dépôts et Consignations, un point noir de l’économie nationale”, affirme le deputé Badreddine Gamoudi](https://lapresse.tn/2025/09/30/la-caisse-des-depots-et-consignations-un-point-noir-de-leconomie-nationale-affirme-le-depute-badreddine-gamoudi/)
+- [L’Espérance de Tunis proteste officiellement contre l’arbitrage](https://lapresse.tn/2025/09/30/lesperance-de-tunis-proteste-officiellement-contre-larbitrage/)
+- [Royaume-Uni : les Tunisiens visés par le durcissement de l’accès à la résidence permanente](https://lapresse.tn/2025/09/30/royaume-uni-les-tunisiens-vises-par-le-durcissement-de-lacces-a-la-residence-permanente/)
 - [Tunisie : “Wallah We Can” envoie une aide scolaire à Gaza malgré le blocus](https://lapresse.tn/2025/09/30/tunisie-wallah-we-can-envoie-une-aide-scolaire-a-gaza-malgre-le-blocus/)
 - [Les douanes tunisiennes stoppent un énorme trafic de cannabis et de cocaïne](https://lapresse.tn/2025/09/30/les-douanes-tunisiennes-stoppent-un-enorme-trafic-de-cannabis-et-de-cocaine/)
-- [A l’Assemblée générale des Nations unies à New York : La voix tunisienne appelle à lever le blocus de Gaza](https://lapresse.tn/2025/09/30/a-lassemblee-generale-des-nations-unies-a-new-york-la-voix-tunisienne-appelle-a-lever-le-blocus-de-gaza/)
+- [Le mariage en Tunisie devient un marché d’intérêts, selon un sociologue](https://lapresse.tn/2025/09/30/le-mariage-en-tunisie-devient-un-marche-dinterets-selon-un-sociologue/)
 - [Gabès : 14 élèves hospitalisés après une fuite de gaz toxique](https://lapresse.tn/2025/09/30/gabes-14-eleves-hospitalises-apres-une-fuite-de-gaz-toxique/)
 - [Gafsa : 33 blessés dans une collision entre un camion lourd et un bus transportant des ouvriers](https://lapresse.tn/2025/09/30/gafsa-33-blesses-dans-une-collision-entre-un-camion-lourd-et-un-bus-transportant-des-ouvriers/)
-- [Tunisie : Arrestation de 40 dealers de drogue dans les écoles de Tunis](https://lapresse.tn/2025/09/30/tunisie-arrestation-de-40-dealers-de-drogue-dans-les-ecoles-de-tunis/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Madagascar, Andry Rajoelina ne parvient pas à calmer la colère des manifestants](https://www.jeuneafrique.com/1726313/politique/a-madagascar-andry-rajoelina-ne-parvient-pas-a-calmer-la-colere-des-manifestants/)
 - [Rwanda-États-Unis : Kigali signe des partenariats avec des équipes de NBA et de NFL](https://www.jeuneafrique.com/1726126/politique/rwanda-etats-unis-kigali-signe-des-partenariats-avec-des-equipes-de-nba-et-de-nfl/)
+- [Procès de Moussa Mara au Mali : deux ans de prison requis contre l’ancien Premier ministre](https://www.jeuneafrique.com/1726108/politique/proces-de-moussa-mara-au-mali-deux-ans-de-prison-requis-contre-lancien-premier-ministre/)
 - [De Brazzaville à Paris, le pari de Firmin Édouard Matoko, l’homme qui veut diriger l’Unesco](https://www.jeuneafrique.com/1715921/politique/de-brazzaville-a-paris-le-pari-de-firmin-edouard-matoko-lhomme-qui-veut-diriger-lunesco/)
 - [Entre le Maroc et l’Algérie, qui a l’armée de l’air la plus puissante ?](https://www.jeuneafrique.com/1725826/politique/entre-le-maroc-et-lalgerie-qui-a-larmee-de-lair-la-plus-puissante/)
 - [Mali : le procès de l’ancien Premier ministre Moussa Mara s’est ouvert](https://www.jeuneafrique.com/1726027/politique/mali-le-proces-de-lancien-premier-ministre-moussa-mara-sest-ouvert/)
 - [Au Bénin, Thomas Boni Yayi cherche un candidat pour la présidentielle](https://www.jeuneafrique.com/1725910/politique/au-benin-thomas-boni-yayi-cherche-un-candidat-pour-la-presidentielle/)
 - [Au Maroc, les manifestations spontanées du collectif « GenZ 212 » se poursuivent](https://www.jeuneafrique.com/1725812/politique/au-maroc-les-manifestations-spontanees-du-collectif-genz-212-se-poursuivent/)
-- [Côte d’Ivoire-Burkina Faso : Ibrahim Traoré accuse six fonctionnaires ivoiriens d’« espionnage »](https://www.jeuneafrique.com/1725800/politique/cote-divoire-burkina-faso-ibrahim-traore-accuse-six-fonctionnaires-ivoiriens-d-espionnage/)
-- [Maroc-Algérie : F-35 et Soukhoï Su-57… la bataille des airs aura-t-elle lieu ?](https://www.jeuneafrique.com/1721112/politique/maroc-algerie-la-bataille-des-airs-aura-t-elle-lieu/)
 - [En plein bras de fer avec le Mali, Mark Bristow passe la main à la tête de Barrick](https://www.jeuneafrique.com/1726000/economie-entreprises/en-plein-bras-de-fer-avec-le-mali-mark-bristow-passe-la-main-a-la-tete-de-barrick/)
 - [États-Unis-Afrique : le quasi-clap de fin de l’Agoa qui met en péril l’industrie africaine](https://www.jeuneafrique.com/1725879/economie-entreprises/etats-unis-afrique-le-quasi-clap-de-fin-de-lagoa-qui-met-en-peril-lindustrie-africaine/)
 
