@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 06:14*
+*Generato: 01 Oct 2025, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,9 +70,9 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [اجتمع رئيس الجمهوريّة قيس سعيّد عصر يوم أمس الثلاثاء 30 سبتمبر بكلّ من السيّدين مصطفى الفرجاني، وزير الصحة، وحبيب عبيد، وزير البيئة، والسيّدة فاطمة ثابت شيبوب، وزيرة الصناعة والطاقة والمناجم، وتناول اللقاء الوضع البيئي في مدينة قابس.](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-30-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A8%D9%83%D9%84%D9%91-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد بالسّادة خالد النّوري وزير الدّاخلية وسفيان بالصّادق كاتب الدّولة لدى وزير الدّاخلية المكلّف بالأمن الوطني و مراد سعيدان المدير العامّ للأمن الوطني وحسين الغربي المدير العامّ آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%91%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد النّوري وزير الداخلية، والسيدين مراد سعيدان، المدير العام للأمن الوطني، وحسين الغربي، المدير العام آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9%D8%8C-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D9%8A%D9%86-%D9%85%D8%B1%D8%A7%D8%AF-%D8%B3%D8%B9%D9%8A%D8%AF%D8%A7%D9%86%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد السهيلي وزير الدفاع الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%87%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-2)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة و السيدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-3)
 - [إشراف رئيس الجمهورية قيس سعيّد على اجتماع مجلس الوزراء](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-10)
 - [اجتماع رئيس الجمهورية قيس سعيّد بأعضاء المجلس الأعلى للتربية والتعليم وبوزيري الداخلية و النقل](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D9%88%D8%A8%D9%88%D8%B2%D9%8A%D8%B1%D9%8A-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D8%A7%D9%84%D9%86%D9%82%D9%84)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
+- [Le gouvernement américain entre en shutdown pour la première fois depuis près de 7 ans](https://lapresse.tn/2025/10/01/le-gouvernement-americain-entre-en-shutdown-pour-la-premiere-fois-depuis-pres-de-7-ans/)
+- [20 % de garantie bancaire : la règle qui menace les PME de services](https://lapresse.tn/2025/10/01/20-de-garantie-bancaire-la-regle-qui-menace-les-pme-de-services/)
+- [Yassine Guenichi offre l’argent à la Tunisie et signe un record d’Afrique au lancer du poids](https://lapresse.tn/2025/10/01/yassine-guenichi-offre-largent-a-la-tunisie-et-signe-un-record-dafrique-au-lancer-du-poids/)
 - [Météo : soleil, orages et températures en légère hausse !](https://lapresse.tn/2025/10/01/meteo-soleil-orages-et-temperatures-en-legere-hausse/)
-- [La Tunisie vise 7800 touristes japonais d’ici fin 2025](https://lapresse.tn/2025/09/30/la-tunisie-vise-7800-touristes-japonais-dici-fin-2025/)
 - [La flottille internationale pour Gaza atteint la “zone orange”](https://lapresse.tn/2025/09/30/la-flottille-internationale-pour-gaza-atteint-la-zone-orange/)
 - [Coupure de l’eau potable, à El Mida, Menzel Temime , Kélibia et Hammam El Ghezaz jeudi](https://lapresse.tn/2025/09/30/coupure-de-leau-potable-a-el-mida-menzel-temime-kelibia-et-hammam-el-ghezaz-jeudi/)
-- [La marine italienne se retire de l’escorte de la flottille « Soumoud » en route vers Gaza](https://lapresse.tn/2025/09/30/la-marine-italienne-se-retire-de-lescorte-de-la-flottille-soumoud-en-route-vers-gaza/)
 - [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
 - [Biosimilaires : la Tunisie veut passer de l’importation à la production locale](https://lapresse.tn/2025/09/30/biosimilaires-la-tunisie-veut-passer-de-limportation-a-la-production-locale/)
 - [Nabeul : effondrement partiel de la façade de la municipalité](https://lapresse.tn/2025/09/30/nabeul-effondrement-partiel-de-la-facade-de-la-municipalite/)
-- [Tozeur : Un projet innovant pour soutenir les jeunes et renforcer la résilience locale](https://lapresse.tn/2025/09/30/tozeur-un-projet-innovant-pour-soutenir-les-jeunes-et-renforcer-la-resilience-locale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
+- [« Exportateurs de terroristes », « soudards »… À l’ONU, l’Algérie et le Mali échangent des noms d’oiseaux](https://www.jeuneafrique.com/1726314/politique/exportateurs-de-terroristes-soudards-a-lonu-lalgerie-et-le-mali-echangent-des-noms-doiseaux/)
 - [Présidentielle au Cameroun : face à Biya, deux coalitions, des cavaliers seuls et un infime espoir](https://www.jeuneafrique.com/1725928/politique/presidentielle-au-cameroun-face-a-biya-deux-coalitions-des-cavaliers-seuls-et-un-infime-espoir/)
 - [L’ambassadeur d’Afrique du Sud en France retrouvé mort au pied d’un hôtel à Paris](https://www.jeuneafrique.com/1726353/politique/lambassadeur-dafrique-du-sud-en-france-retrouve-mort-au-pied-dun-hotel-a-paris/)
 - [À Madagascar, Andry Rajoelina ne parvient pas à calmer la colère des manifestants](https://www.jeuneafrique.com/1726313/politique/a-madagascar-andry-rajoelina-ne-parvient-pas-a-calmer-la-colere-des-manifestants/)
 - [Présidentielle en Côte d’Ivoire : pourquoi Simone Ehivet Gbagbo fait bande à part](https://www.jeuneafrique.com/1725949/politique/presidentielle-en-cote-divoire-pourquoi-simone-ehivet-gbagbo-fait-bande-a-part/)
 - [Comment Madiambal Diagne, patron de presse influent, est devenu l’un des hommes les plus recherchés du Sénégal](https://www.jeuneafrique.com/1726075/politique/comment-madiambal-diagne-patron-de-presse-influent-est-devenu-lun-des-hommes-les-plus-recherches-du-senegal/)
 - [Rwanda-États-Unis : Kigali signe des partenariats avec des équipes de NBA et de NFL](https://www.jeuneafrique.com/1726126/politique/rwanda-etats-unis-kigali-signe-des-partenariats-avec-des-equipes-de-nba-et-de-nfl/)
-- [La justice espagnole ouvre à son tour le dossier de la corruption en Algérie sous l’ère Bouteflika](https://www.jeuneafrique.com/1725930/politique/la-justice-espagnole-ouvre-a-son-tour-le-dossier-de-la-corruption-en-algerie-sous-lere-bouteflika/)
-- [Mahamat Idriss Déby Itno dans les pas de son père : deux générations, une même volonté de mandats sans limitation](https://www.jeuneafrique.com/1724621/politique/mahamat-idriss-deby-itno-dans-les-pas-de-son-pere-deux-generations-une-meme-volonte-de-mandats-sans-limitation/)
 - [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
 - [Pourquoi Uber a perdu la partie face à Yango en Côte d’Ivoire](https://www.jeuneafrique.com/1726449/economie-entreprises/pourquoi-uber-a-perdu-la-partie-face-a-yango-en-cote-divoire/)
 
