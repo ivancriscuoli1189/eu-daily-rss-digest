@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 13:25*
+*Generato: 01 Oct 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
@@ -91,7 +92,6 @@
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 - [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
-- [Human rights violations in Cyprus, Rwanda and Togo](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30190/human-rights-violations-in-cyprus-rwanda-and-togo)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
-- [Tunisie – Italie : lancement officiel du projet TANIT KT pour une agriculture durable](https://lapresse.tn/2025/10/01/tunisie-italie-lancement-officiel-du-projet-tanit-kt-pour-une-agriculture-durable/)
-- [Tunisie : le prix de la banane plafonné à 7 dinars par kilo](https://lapresse.tn/2025/10/01/tunisie-le-prix-de-la-banane-plafonne-a-7-dinars-par-kilo/)
-- [EST : Seule la victoire compte…](https://lapresse.tn/2025/10/01/est-seule-la-victoire-compte/)
+- [Tunisie : les forces de l’ordre appuient la baisse du prix de la viande d’agneau à 40 dinars](https://lapresse.tn/2025/10/01/tunisie-les-forces-de-lordre-appuient-la-baisse-du-prix-de-la-viande-dagneau-a-40-dinars/)
+- [La Tunisie, leader africain de la chirurgie esthétique oculaire](https://lapresse.tn/2025/10/01/la-tunisie-leader-africain-de-la-chirurgie-esthetique-oculaire/)
+- [Tunisie : La DGI fixe les dates limites de dépôt des déclarations fiscales pour octobre 2025](https://lapresse.tn/2025/10/01/tunisie-la-dgi-fixe-les-dates-limites-de-depot-des-declarations-fiscales-pour-octobre-2025/)
+- [La Tunisie réitère, à Genève, son soutien aux droits des Palestiniens](https://lapresse.tn/2025/10/01/la-tunisie-reitere-a-geneve-son-soutien-aux-droits-des-palestiniens/)
 - [Tunisie–France : du nouveau dans l’affaire Halima Ben Ali](https://lapresse.tn/2025/10/01/tunisie-france-du-nouveau-dans-laffaire-halima-ben-ali/)
-- [Pollution à Gafsa : le groupe chimique sous pression, l’État réagit](https://lapresse.tn/2025/10/01/pollution-a-gafsa-le-groupe-chimique-sous-pression-letat-reagit/)
-- [L’ambassade américaine en Tunisie suspend temporairement la mise à jour de ses comptes officiels](https://lapresse.tn/2025/10/01/lambassade-americaine-en-tunisie-suspend-temporairement-la-mise-a-jour-de-ses-comptes-officiels/)
+- [Tunisie : vers une carte d’assurance automobile unique et numérique](https://lapresse.tn/2025/10/01/tunisie-vers-une-carte-dassurance-automobile-unique-et-numerique/)
+- [Tunisie : le prix de la banane plafonné à 7 dinars par kilo](https://lapresse.tn/2025/10/01/tunisie-le-prix-de-la-banane-plafonne-a-7-dinars-par-kilo/)
 - [Viande malade, poulets illégaux, harissa douteuse : plus de 7 tonnes de produits impropres saisis](https://lapresse.tn/2025/10/01/viande-malade-poulets-illegaux-harissa-douteuse-plus-de-7-tonnes-de-produits-impropres-saisis/)
-- [Tunisie : Le ministère de la Santé ouvre 402 postes dans plusieurs spécialités](https://lapresse.tn/2025/10/01/tunisie-le-ministere-de-la-sante-ouvre-402-postes-dans-plusieurs-specialites/)
-- [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
+- [Tunisie – Italie : lancement officiel du projet TANIT KT pour une agriculture durable](https://lapresse.tn/2025/10/01/tunisie-italie-lancement-officiel-du-projet-tanit-kt-pour-une-agriculture-durable/)
 
 ## NGOs – Amnesty International – Tunisia
 
