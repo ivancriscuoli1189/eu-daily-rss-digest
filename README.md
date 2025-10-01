@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 11:04*
+*Generato: 01 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
-- [Viande malade, poulets illégaux, harissa douteuse : plus de 7 tonnes de produits impropres saisis](https://lapresse.tn/2025/10/01/viande-malade-poulets-illegaux-harissa-douteuse-plus-de-7-tonnes-de-produits-impropres-saisis/)
-- [Tunisie–France : du nouveau dans l’affaire Halima Ben Ali](https://lapresse.tn/2025/10/01/tunisie-france-du-nouveau-dans-laffaire-halima-ben-ali/)
+- [“Chakchouka” et “zaatar” font leur entrée dans le dictionnaire français](https://lapresse.tn/2025/10/01/chakchouka-et-zaatar-font-leur-entree-dans-le-dictionnaire-francais/)
+- [ESS : Un moment favorable…](https://lapresse.tn/2025/10/01/ess-un-moment-favorable/)
+- [ST : Garder la dynamique](https://lapresse.tn/2025/10/01/st-garder-la-dynamique/)
 - [Pollution à Gafsa : le groupe chimique sous pression, l’État réagit](https://lapresse.tn/2025/10/01/pollution-a-gafsa-le-groupe-chimique-sous-pression-letat-reagit/)
 - [L’ambassade américaine en Tunisie suspend temporairement la mise à jour de ses comptes officiels](https://lapresse.tn/2025/10/01/lambassade-americaine-en-tunisie-suspend-temporairement-la-mise-a-jour-de-ses-comptes-officiels/)
 - [Tunisie : Kaïs Saïed dénonce « l’assassinat de l’environnement » à Gabès](https://lapresse.tn/2025/10/01/tunisie-kais-saied-denonce-lassassinat-de-lenvironnement-a-gabes/)
+- [Viande malade, poulets illégaux, harissa douteuse : plus de 7 tonnes de produits impropres saisis](https://lapresse.tn/2025/10/01/viande-malade-poulets-illegaux-harissa-douteuse-plus-de-7-tonnes-de-produits-impropres-saisis/)
 - [Tunisie : Le ministère de la Santé ouvre 402 postes dans plusieurs spécialités](https://lapresse.tn/2025/10/01/tunisie-le-ministere-de-la-sante-ouvre-402-postes-dans-plusieurs-specialites/)
 - [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
-- [Biosimilaires : la Tunisie veut passer de l’importation à la production locale](https://lapresse.tn/2025/09/30/biosimilaires-la-tunisie-veut-passer-de-limportation-a-la-production-locale/)
-- [200 millions de dinars de fraude détectés dans l’assurance automobile en Tunisie](https://lapresse.tn/2025/10/01/200-millions-de-dinars-de-fraude-detectes-dans-lassurance-automobile-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -281,10 +268,10 @@
 - [Il y a quarante ans, Israël bombardait le siège de l’OLP à Tunis](https://www.jeuneafrique.com/1725942/politique/il-y-a-quarante-ans-israel-bombardait-le-siege-de-lolp-a-tunis/)
 - [Grand oral d’Ibrahim Traoré : la Côte d’Ivoire est « la base arrière des ennemis du Burkina »](https://www.jeuneafrique.com/1726327/politique/grand-oral-dibrahim-traore-la-cote-divoire-est-la-base-arriere-des-ennemis-du-burkina/)
 - [« Exportateurs de terroristes », « soudards »… À l’ONU, l’Algérie et le Mali échangent des noms d’oiseaux](https://www.jeuneafrique.com/1726314/politique/exportateurs-de-terroristes-soudards-a-lonu-lalgerie-et-le-mali-echangent-des-noms-doiseaux/)
+- [RDC : l’ancien président Joseph Kabila condamné à la peine de mort](https://www.jeuneafrique.com/1720994/politique/rdc-lancien-president-joseph-kabila-condamne-a-la-peine-de-mort/)
 - [Présidentielle au Cameroun : face à Biya, deux coalitions, des cavaliers seuls et un infime espoir](https://www.jeuneafrique.com/1725928/politique/presidentielle-au-cameroun-face-a-biya-deux-coalitions-des-cavaliers-seuls-et-un-infime-espoir/)
 - [L’ambassadeur d’Afrique du Sud en France retrouvé mort au pied d’un hôtel à Paris](https://www.jeuneafrique.com/1726353/politique/lambassadeur-dafrique-du-sud-en-france-retrouve-mort-au-pied-dun-hotel-a-paris/)
 - [À Madagascar, Andry Rajoelina ne parvient pas à calmer la colère des manifestants](https://www.jeuneafrique.com/1726313/politique/a-madagascar-andry-rajoelina-ne-parvient-pas-a-calmer-la-colere-des-manifestants/)
-- [Présidentielle en Côte d’Ivoire : pourquoi Simone Ehivet Gbagbo fait bande à part](https://www.jeuneafrique.com/1725949/politique/presidentielle-en-cote-divoire-pourquoi-simone-ehivet-gbagbo-fait-bande-a-part/)
 - [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
 - [Pourquoi Uber a perdu la partie face à Yango en Côte d’Ivoire](https://www.jeuneafrique.com/1726449/economie-entreprises/pourquoi-uber-a-perdu-la-partie-face-a-yango-en-cote-divoire/)
 
