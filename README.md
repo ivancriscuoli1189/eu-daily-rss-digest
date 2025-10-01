@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 18:16*
+*Generato: 01 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
-- [« Bord à bord » de Sahar El Echi, sélectionné au Festival de Namur : Une nouvelle distinction](https://lapresse.tn/2025/10/01/bord-a-bord-de-sahar-el-echi-selectionne-au-festival-de-namur-une-nouvelle-distinction/)
-- [Carthage Symphony Orchestra au Théâtre municipal de Tunis : « Les Voies de la Paix »](https://lapresse.tn/2025/10/01/carthage-symphony-orchestra-au-theatre-municipal-de-tunis-les-voies-de-la-paix/)
-- [Les binationaux tunisiens peuvent accomplir leur service militaire à l’étranger : les détails](https://lapresse.tn/2025/10/01/les-binationaux-tunisiens-peuvent-accomplir-leur-service-militaire-a-letranger-les-details/)
+- [La FTAV met en garde contre l’exploitation médiatique de l’incident Nouvelair à Nice](https://lapresse.tn/2025/10/01/la-ftav-met-en-garde-contre-lexploitation-mediatique-de-lincident-nouvelair-a-nice/)
+- [Le plus grand syndicat italien appelle à une grève contre le blocage de la flottille Sumud](https://lapresse.tn/2025/10/01/le-plus-grand-syndicat-italien-appelle-a-une-greve-contre-le-blocage-de-la-flottille-sumud/)
+- [Trump signe un décret garantissant la sécurité du Qatar](https://lapresse.tn/2025/10/01/trump-signe-un-decret-garantissant-la-securite-du-qatar/)
+- [Flottille Sumud : interception et brouillage des caméras, incertitude sur le sort des militants](https://lapresse.tn/2025/10/01/flottille-sumud-interception-et-brouillage-des-cameras-incertitude-sur-le-sort-des-militants/)
+- [Interception redoutée : la flottille Global Sumud s’attend à une attaque dans l’heure](https://lapresse.tn/2025/10/01/interception-redoutee-la-flottille-global-sumud-sattend-a-une-attaque-dans-lheure/)
 - [Quand sécurité rime avec équité : La stratégie de Kaïs Saïed](https://lapresse.tn/2025/10/01/quand-securite-rime-avec-equite-la-strategie-de-kais-saied/)
-- [Nafti rencontre à New York son homologue algérien : Consolider les relations au niveau bilatéral et africain](https://lapresse.tn/2025/10/01/nafti-rencontre-a-new-york-son-homologue-algerien-consolider-les-relations-au-niveau-bilateral-et-africain/)
-- [Météo : vents forts annoncés dans plusieurs régions de Tunisie](https://lapresse.tn/2025/10/01/meteo-vents-forts-annonces-dans-plusieurs-regions-de-tunisie/)
+- [Les binationaux tunisiens peuvent accomplir leur service militaire à l’étranger : les détails](https://lapresse.tn/2025/10/01/les-binationaux-tunisiens-peuvent-accomplir-leur-service-militaire-a-letranger-les-details/)
 - [la nouvelle équation du transport tunisien : Plus de confort, moins de ralentisseurs](https://lapresse.tn/2025/10/01/la-nouvelle-equation-du-transport-tunisien-plus-de-confort-moins-de-ralentisseurs/)
 - [Tourisme : A Tozeur, la pluie des bonnes nouvelles ? (II)](https://lapresse.tn/2025/10/01/tourisme-a-tozeur-la-pluie-des-bonnes-nouvelles-ii/)
-- [Pourquoi : Les narcotrafiquants…](https://lapresse.tn/2025/10/01/pourquoi-les-narcotrafiquants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
 - [Arrêtée à Paris, Halima Ben Ali risque-t-elle d’être extradée vers la Tunisie ?](https://www.jeuneafrique.com/1726553/politique/arretee-a-paris-halima-ben-ali-risque-t-elle-detre-extradee-vers-la-tunisie/)
 - [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
@@ -271,7 +272,6 @@
 - [Au Gabon, le parti d’Oligui Nguema en tête d’élections critiquées](https://www.jeuneafrique.com/1726348/politique/au-gabon-le-parti-doligui-nguema-en-tete-delections-critiquees/)
 - [Présidentielle au Cameroun : Bello Bouba Maïgari peut-il faire oublier le passé ?](https://www.jeuneafrique.com/1725327/politique/presidentielle-au-cameroun-bello-bouba-maigari-peut-il-faire-oublier-le-passe/)
 - [Grand oral d’Ibrahim Traoré : la Côte d’Ivoire est « la base arrière des ennemis du Burkina »](https://www.jeuneafrique.com/1726327/politique/grand-oral-dibrahim-traore-la-cote-divoire-est-la-base-arriere-des-ennemis-du-burkina/)
-- [« Exportateurs de terroristes », « soudards »… À l’ONU, l’Algérie et le Mali échangent des noms d’oiseaux](https://www.jeuneafrique.com/1726314/politique/exportateurs-de-terroristes-soudards-a-lonu-lalgerie-et-le-mali-echangent-des-noms-doiseaux/)
 - [Paiement instantané : sans Wave, la BCEAO peut-elle tenir sa promesse d’inclusion financière ?](https://www.jeuneafrique.com/1726520/economie-entreprises/paiement-instantane-sans-wave-la-bceao-peut-elle-tenir-sa-promesse-dinclusion-financiere/)
 - [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
 
