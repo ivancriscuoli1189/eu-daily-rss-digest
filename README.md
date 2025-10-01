@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 12:19*
+*Generato: 01 Oct 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
-- [“Chakchouka” et “zaatar” font leur entrée dans le dictionnaire français](https://lapresse.tn/2025/10/01/chakchouka-et-zaatar-font-leur-entree-dans-le-dictionnaire-francais/)
-- [ESS : Un moment favorable…](https://lapresse.tn/2025/10/01/ess-un-moment-favorable/)
-- [ST : Garder la dynamique](https://lapresse.tn/2025/10/01/st-garder-la-dynamique/)
+- [Tunisie – Italie : lancement officiel du projet TANIT KT pour une agriculture durable](https://lapresse.tn/2025/10/01/tunisie-italie-lancement-officiel-du-projet-tanit-kt-pour-une-agriculture-durable/)
+- [Tunisie : le prix de la banane plafonné à 7 dinars par kilo](https://lapresse.tn/2025/10/01/tunisie-le-prix-de-la-banane-plafonne-a-7-dinars-par-kilo/)
+- [EST : Seule la victoire compte…](https://lapresse.tn/2025/10/01/est-seule-la-victoire-compte/)
+- [Tunisie–France : du nouveau dans l’affaire Halima Ben Ali](https://lapresse.tn/2025/10/01/tunisie-france-du-nouveau-dans-laffaire-halima-ben-ali/)
 - [Pollution à Gafsa : le groupe chimique sous pression, l’État réagit](https://lapresse.tn/2025/10/01/pollution-a-gafsa-le-groupe-chimique-sous-pression-letat-reagit/)
 - [L’ambassade américaine en Tunisie suspend temporairement la mise à jour de ses comptes officiels](https://lapresse.tn/2025/10/01/lambassade-americaine-en-tunisie-suspend-temporairement-la-mise-a-jour-de-ses-comptes-officiels/)
-- [Tunisie : Kaïs Saïed dénonce « l’assassinat de l’environnement » à Gabès](https://lapresse.tn/2025/10/01/tunisie-kais-saied-denonce-lassassinat-de-lenvironnement-a-gabes/)
 - [Viande malade, poulets illégaux, harissa douteuse : plus de 7 tonnes de produits impropres saisis](https://lapresse.tn/2025/10/01/viande-malade-poulets-illegaux-harissa-douteuse-plus-de-7-tonnes-de-produits-impropres-saisis/)
 - [Tunisie : Le ministère de la Santé ouvre 402 postes dans plusieurs spécialités](https://lapresse.tn/2025/10/01/tunisie-le-ministere-de-la-sante-ouvre-402-postes-dans-plusieurs-specialites/)
 - [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
