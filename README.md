@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 15:10*
+*Generato: 01 Oct 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,8 +30,8 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
+- [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
 - [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
-- [Tunisie : les forces de l’ordre appuient la baisse du prix de la viande d’agneau à 40 dinars](https://lapresse.tn/2025/10/01/tunisie-les-forces-de-lordre-appuient-la-baisse-du-prix-de-la-viande-dagneau-a-40-dinars/)
-- [La Tunisie, leader africain de la chirurgie esthétique oculaire](https://lapresse.tn/2025/10/01/la-tunisie-leader-africain-de-la-chirurgie-esthetique-oculaire/)
-- [Tunisie : La DGI fixe les dates limites de dépôt des déclarations fiscales pour octobre 2025](https://lapresse.tn/2025/10/01/tunisie-la-dgi-fixe-les-dates-limites-de-depot-des-declarations-fiscales-pour-octobre-2025/)
-- [La Tunisie réitère, à Genève, son soutien aux droits des Palestiniens](https://lapresse.tn/2025/10/01/la-tunisie-reitere-a-geneve-son-soutien-aux-droits-des-palestiniens/)
-- [Tunisie–France : du nouveau dans l’affaire Halima Ben Ali](https://lapresse.tn/2025/10/01/tunisie-france-du-nouveau-dans-laffaire-halima-ben-ali/)
-- [Tunisie : vers une carte d’assurance automobile unique et numérique](https://lapresse.tn/2025/10/01/tunisie-vers-une-carte-dassurance-automobile-unique-et-numerique/)
-- [Tunisie : le prix de la banane plafonné à 7 dinars par kilo](https://lapresse.tn/2025/10/01/tunisie-le-prix-de-la-banane-plafonne-a-7-dinars-par-kilo/)
-- [Viande malade, poulets illégaux, harissa douteuse : plus de 7 tonnes de produits impropres saisis](https://lapresse.tn/2025/10/01/viande-malade-poulets-illegaux-harissa-douteuse-plus-de-7-tonnes-de-produits-impropres-saisis/)
-- [Tunisie – Italie : lancement officiel du projet TANIT KT pour une agriculture durable](https://lapresse.tn/2025/10/01/tunisie-italie-lancement-officiel-du-projet-tanit-kt-pour-une-agriculture-durable/)
+- [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
+- [« Bord à bord » de Sahar El Echi, sélectionné au Festival de Namur : Une nouvelle distinction](https://lapresse.tn/2025/10/01/bord-a-bord-de-sahar-el-echi-selectionne-au-festival-de-namur-une-nouvelle-distinction/)
+- [Carthage Symphony Orchestra au Théâtre municipal de Tunis : « Les Voies de la Paix »](https://lapresse.tn/2025/10/01/carthage-symphony-orchestra-au-theatre-municipal-de-tunis-les-voies-de-la-paix/)
+- [Les binationaux tunisiens peuvent accomplir leur service militaire à l’étranger : les détails](https://lapresse.tn/2025/10/01/les-binationaux-tunisiens-peuvent-accomplir-leur-service-militaire-a-letranger-les-details/)
+- [Quand sécurité rime avec équité : La stratégie de Kaïs Saïed](https://lapresse.tn/2025/10/01/quand-securite-rime-avec-equite-la-strategie-de-kais-saied/)
+- [Nafti rencontre à New York son homologue algérien : Consolider les relations au niveau bilatéral et africain](https://lapresse.tn/2025/10/01/nafti-rencontre-a-new-york-son-homologue-algerien-consolider-les-relations-au-niveau-bilateral-et-africain/)
+- [Météo : vents forts annoncés dans plusieurs régions de Tunisie](https://lapresse.tn/2025/10/01/meteo-vents-forts-annonces-dans-plusieurs-regions-de-tunisie/)
+- [la nouvelle équation du transport tunisien : Plus de confort, moins de ralentisseurs](https://lapresse.tn/2025/10/01/la-nouvelle-equation-du-transport-tunisien-plus-de-confort-moins-de-ralentisseurs/)
+- [Tourisme : A Tozeur, la pluie des bonnes nouvelles ? (II)](https://lapresse.tn/2025/10/01/tourisme-a-tozeur-la-pluie-des-bonnes-nouvelles-ii/)
+- [Pourquoi : Les narcotrafiquants…](https://lapresse.tn/2025/10/01/pourquoi-les-narcotrafiquants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
+- [Arrêtée à Paris, Halima Ben Ali risque-t-elle d’être extradée vers la Tunisie ?](https://www.jeuneafrique.com/1726553/politique/arretee-a-paris-halima-ben-ali-risque-t-elle-detre-extradee-vers-la-tunisie/)
 - [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
 - [Il y a quarante ans, Israël bombardait le siège de l’OLP à Tunis](https://www.jeuneafrique.com/1725942/politique/il-y-a-quarante-ans-israel-bombardait-le-siege-de-lolp-a-tunis/)
+- [Au Gabon, le parti d’Oligui Nguema en tête d’élections critiquées](https://www.jeuneafrique.com/1726348/politique/au-gabon-le-parti-doligui-nguema-en-tete-delections-critiquees/)
+- [Présidentielle au Cameroun : Bello Bouba Maïgari peut-il faire oublier le passé ?](https://www.jeuneafrique.com/1725327/politique/presidentielle-au-cameroun-bello-bouba-maigari-peut-il-faire-oublier-le-passe/)
 - [Grand oral d’Ibrahim Traoré : la Côte d’Ivoire est « la base arrière des ennemis du Burkina »](https://www.jeuneafrique.com/1726327/politique/grand-oral-dibrahim-traore-la-cote-divoire-est-la-base-arriere-des-ennemis-du-burkina/)
 - [« Exportateurs de terroristes », « soudards »… À l’ONU, l’Algérie et le Mali échangent des noms d’oiseaux](https://www.jeuneafrique.com/1726314/politique/exportateurs-de-terroristes-soudards-a-lonu-lalgerie-et-le-mali-echangent-des-noms-doiseaux/)
-- [RDC : l’ancien président Joseph Kabila condamné à la peine de mort](https://www.jeuneafrique.com/1720994/politique/rdc-lancien-president-joseph-kabila-condamne-a-la-peine-de-mort/)
-- [Présidentielle au Cameroun : face à Biya, deux coalitions, des cavaliers seuls et un infime espoir](https://www.jeuneafrique.com/1725928/politique/presidentielle-au-cameroun-face-a-biya-deux-coalitions-des-cavaliers-seuls-et-un-infime-espoir/)
-- [L’ambassadeur d’Afrique du Sud en France retrouvé mort au pied d’un hôtel à Paris](https://www.jeuneafrique.com/1726353/politique/lambassadeur-dafrique-du-sud-en-france-retrouve-mort-au-pied-dun-hotel-a-paris/)
-- [À Madagascar, Andry Rajoelina ne parvient pas à calmer la colère des manifestants](https://www.jeuneafrique.com/1726313/politique/a-madagascar-andry-rajoelina-ne-parvient-pas-a-calmer-la-colere-des-manifestants/)
+- [Paiement instantané : sans Wave, la BCEAO peut-elle tenir sa promesse d’inclusion financière ?](https://www.jeuneafrique.com/1726520/economie-entreprises/paiement-instantane-sans-wave-la-bceao-peut-elle-tenir-sa-promesse-dinclusion-financiere/)
 - [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
-- [Pourquoi Uber a perdu la partie face à Yango en Côte d’Ivoire](https://www.jeuneafrique.com/1726449/economie-entreprises/pourquoi-uber-a-perdu-la-partie-face-a-yango-en-cote-divoire/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
