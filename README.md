@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Sep 2025, 21:05*
+*Generato: 01 Oct 2025, 06:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Inclusion fiscale](https://lapresse.tn/2025/09/30/inclusion-fiscale/)
+- [Météo : soleil, orages et températures en légère hausse !](https://lapresse.tn/2025/10/01/meteo-soleil-orages-et-temperatures-en-legere-hausse/)
 - [La Tunisie vise 7800 touristes japonais d’ici fin 2025](https://lapresse.tn/2025/09/30/la-tunisie-vise-7800-touristes-japonais-dici-fin-2025/)
 - [La flottille internationale pour Gaza atteint la “zone orange”](https://lapresse.tn/2025/09/30/la-flottille-internationale-pour-gaza-atteint-la-zone-orange/)
-- [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
 - [Coupure de l’eau potable, à El Mida, Menzel Temime , Kélibia et Hammam El Ghezaz jeudi](https://lapresse.tn/2025/09/30/coupure-de-leau-potable-a-el-mida-menzel-temime-kelibia-et-hammam-el-ghezaz-jeudi/)
 - [La marine italienne se retire de l’escorte de la flottille « Soumoud » en route vers Gaza](https://lapresse.tn/2025/09/30/la-marine-italienne-se-retire-de-lescorte-de-la-flottille-soumoud-en-route-vers-gaza/)
-- [Météo : fortes pluies et vents violents attendus cette nuit](https://lapresse.tn/2025/09/30/meteo-fortes-pluies-et-vents-violents-attendus-cette-nuit/)
+- [Le SPOT renonce à l’arrêt du tiers payant pour les maladies ordinaires](https://lapresse.tn/2025/09/30/le-spot-renonce-a-larret-du-tiers-payant-pour-les-maladies-ordinaires/)
 - [Biosimilaires : la Tunisie veut passer de l’importation à la production locale](https://lapresse.tn/2025/09/30/biosimilaires-la-tunisie-veut-passer-de-limportation-a-la-production-locale/)
 - [Nabeul : effondrement partiel de la façade de la municipalité](https://lapresse.tn/2025/09/30/nabeul-effondrement-partiel-de-la-facade-de-la-municipalite/)
 - [Tozeur : Un projet innovant pour soutenir les jeunes et renforcer la résilience locale](https://lapresse.tn/2025/09/30/tozeur-un-projet-innovant-pour-soutenir-les-jeunes-et-renforcer-la-resilience-locale/)
@@ -223,6 +223,19 @@
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
@@ -264,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle au Cameroun : face à Biya, deux coalitions, des cavaliers seuls et un infime espoir](https://www.jeuneafrique.com/1725928/politique/presidentielle-au-cameroun-face-a-biya-deux-coalitions-des-cavaliers-seuls-et-un-infime-espoir/)
 - [L’ambassadeur d’Afrique du Sud en France retrouvé mort au pied d’un hôtel à Paris](https://www.jeuneafrique.com/1726353/politique/lambassadeur-dafrique-du-sud-en-france-retrouve-mort-au-pied-dun-hotel-a-paris/)
 - [À Madagascar, Andry Rajoelina ne parvient pas à calmer la colère des manifestants](https://www.jeuneafrique.com/1726313/politique/a-madagascar-andry-rajoelina-ne-parvient-pas-a-calmer-la-colere-des-manifestants/)
+- [Présidentielle en Côte d’Ivoire : pourquoi Simone Ehivet Gbagbo fait bande à part](https://www.jeuneafrique.com/1725949/politique/presidentielle-en-cote-divoire-pourquoi-simone-ehivet-gbagbo-fait-bande-a-part/)
 - [Comment Madiambal Diagne, patron de presse influent, est devenu l’un des hommes les plus recherchés du Sénégal](https://www.jeuneafrique.com/1726075/politique/comment-madiambal-diagne-patron-de-presse-influent-est-devenu-lun-des-hommes-les-plus-recherches-du-senegal/)
 - [Rwanda-États-Unis : Kigali signe des partenariats avec des équipes de NBA et de NFL](https://www.jeuneafrique.com/1726126/politique/rwanda-etats-unis-kigali-signe-des-partenariats-avec-des-equipes-de-nba-et-de-nfl/)
 - [La justice espagnole ouvre à son tour le dossier de la corruption en Algérie sous l’ère Bouteflika](https://www.jeuneafrique.com/1725930/politique/la-justice-espagnole-ouvre-a-son-tour-le-dossier-de-la-corruption-en-algerie-sous-lere-bouteflika/)
 - [Mahamat Idriss Déby Itno dans les pas de son père : deux générations, une même volonté de mandats sans limitation](https://www.jeuneafrique.com/1724621/politique/mahamat-idriss-deby-itno-dans-les-pas-de-son-pere-deux-generations-une-meme-volonte-de-mandats-sans-limitation/)
-- [Procès de Moussa Mara au Mali : deux ans de prison requis contre l’ancien Premier ministre](https://www.jeuneafrique.com/1726108/politique/proces-de-moussa-mara-au-mali-deux-ans-de-prison-requis-contre-lancien-premier-ministre/)
-- [Génération Z Madagascar : face à Andry Rajoelina, une contestation sans précédent](https://www.jeuneafrique.com/1726078/politique/generation-z-madagascar-face-a-andry-rajoelina-une-contestation-sans-precedent/)
 - [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
-- [Cameroun : entre Paul Biya et le patronat, tout reste à faire](https://www.jeuneafrique.com/1725626/economie-entreprises/cameroun-entre-paul-biya-et-le-patronat-tout-reste-a-faire/)
+- [Pourquoi Uber a perdu la partie face à Yango en Côte d’Ivoire](https://www.jeuneafrique.com/1726449/economie-entreprises/pourquoi-uber-a-perdu-la-partie-face-a-yango-en-cote-divoire/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
