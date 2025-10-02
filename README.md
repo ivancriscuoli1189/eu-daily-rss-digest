@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Oct 2025, 21:04*
+*Generato: 02 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
@@ -264,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
+- [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
+- [En Guinée, après le référendum, Mamadi Doumbouya en route vers la présidentielle](https://www.jeuneafrique.com/1726598/politique/en-guinee-apres-le-referendum-mamadi-doumbouya-en-route-vers-la-presidentielle/)
 - [Arrêtée à Paris, Halima Ben Ali risque-t-elle d’être extradée vers la Tunisie ?](https://www.jeuneafrique.com/1726553/politique/arretee-a-paris-halima-ben-ali-risque-t-elle-detre-extradee-vers-la-tunisie/)
 - [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
 - [Il y a quarante ans, Israël bombardait le siège de l’OLP à Tunis](https://www.jeuneafrique.com/1725942/politique/il-y-a-quarante-ans-israel-bombardait-le-siege-de-lolp-a-tunis/)
 - [Au Gabon, le parti d’Oligui Nguema en tête d’élections critiquées](https://www.jeuneafrique.com/1726348/politique/au-gabon-le-parti-doligui-nguema-en-tete-delections-critiquees/)
 - [Présidentielle au Cameroun : Bello Bouba Maïgari peut-il faire oublier le passé ?](https://www.jeuneafrique.com/1725327/politique/presidentielle-au-cameroun-bello-bouba-maigari-peut-il-faire-oublier-le-passe/)
-- [Grand oral d’Ibrahim Traoré : la Côte d’Ivoire est « la base arrière des ennemis du Burkina »](https://www.jeuneafrique.com/1726327/politique/grand-oral-dibrahim-traore-la-cote-divoire-est-la-base-arriere-des-ennemis-du-burkina/)
+- [Yassine Mfadel, porte-étendard de Radisson au Maroc et visage d’un groupe familial en expansion](https://www.jeuneafrique.com/1721708/economie-entreprises/yassine-mfadel-porte-etendard-de-radisson-au-maroc-et-visage-dun-groupe-familial-en-expansion/)
 - [Paiement instantané : sans Wave, la BCEAO peut-elle tenir sa promesse d’inclusion financière ?](https://www.jeuneafrique.com/1726520/economie-entreprises/paiement-instantane-sans-wave-la-bceao-peut-elle-tenir-sa-promesse-dinclusion-financiere/)
-- [Maroc : Abdellatif Jouahri a-t-il vraiment annoncé son départ de Bank Al-Maghrib ?](https://www.jeuneafrique.com/1726492/economie-entreprises/maroc-abdellatif-jouahri-a-t-il-vraiment-annonce-son-depart-de-bank-al-maghrib/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
