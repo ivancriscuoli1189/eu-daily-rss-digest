@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 13:20*
+*Generato: 02 Oct 2025, 15:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
 - [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
@@ -91,12 +92,11 @@
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 - [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
-- [Colombia: political violence and terrorism threaten democracy, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30192/colombia-political-violence-and-terrorism-threaten-democracy-say-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
-- [Un séisme de magnitude 5 frappe la Turquie](https://lapresse.tn/2025/10/02/un-seisme-de-magnitude-5-frappe-la-turquie/)
-- [Tunisie : Décès de l’ancien mufti de la République Hamda Saïed](https://lapresse.tn/2025/10/02/tunisie-deces-de-lancien-mufti-de-la-republique-hamda-saied/)
-- [Ben Arous: séance de travail sur la situation environnementale et la pollution](https://lapresse.tn/2025/10/02/ben-arous-seance-de-travail-sur-la-situation-environnementale-et-la-pollution/)
-- [Les pays européens condamnent l’entité sioniste pour avoir intercepté la flottille Soumoud près de Gaza](https://lapresse.tn/2025/10/02/les-pays-europeens-condamnent-lentite-sioniste-pour-avoir-intercepte-la-flottille-soumoud-pres-de-gaza/)
-- [Flottille Sumud : un navire franchit les eaux territoriales gazaouies](https://lapresse.tn/2025/10/02/flottille-sumud-un-navire-franchit-les-eaux-territoriales-gazaouies/)
-- [Flottille Soumoud : Neuf Tunisiens arrêtés lors de l’interception du bateau « Deir Yassine »](https://lapresse.tn/2025/10/02/flottille-soumoud-neuf-tunisiens-arretes-lors-de-linterception-du-bateau-deir-yassine/)
-- [Coup d’envoi de l’Octobre Rose : des consultations gratuites dans tous les gouvernorats](https://lapresse.tn/2025/10/02/coup-denvoi-de-loctobre-rose-des-consultations-gratuites-dans-tous-les-gouvernorats/)
-- [Hammamet : des caméras de surveillance dans les collèges et les lycées?](https://lapresse.tn/2025/10/02/hammamet-des-cameras-de-surveillance-dans-les-colleges-et-les-lycees/)
-- [La Tunisie engagée dans un projet euro-méditerranéen pour valoriser les déchets de l’huile d’olive](https://lapresse.tn/2025/10/02/la-tunisie-engagee-dans-un-projet-euro-mediterraneen-pour-valoriser-les-dechets-de-lhuile-dolive/)
+- [Approvisionnement en médicaments: Le Conseil de l’Ordre des Pharmaciens appelle à des mesures urgentes](https://lapresse.tn/2025/10/02/approvisionnement-en-medicaments-le-conseil-de-lordre-des-pharmaciens-appelle-a-des-mesures-urgentes/)
+- [Météo: des températures supérieures à la normale pour les mois d’octobre, novembre et décembre](https://lapresse.tn/2025/10/02/meteo-des-temperatures-superieures-a-la-normale-pour-les-mois-doctobre-novembre-et-decembre/)
+- [Attaque devant une synagogue à Manchester](https://lapresse.tn/2025/10/02/attaque-devant-une-synagogue-a-manchester/)
+- [Éliminatoires de la Coupe du Monde 2026 : la liste des joueurs de l’équipe nationale pour les matchs contre Sao Tomé et la Namibiedévoilée](https://lapresse.tn/2025/10/02/eliminatoires-de-la-coupe-du-monde-2026-la-liste-des-joueurs-de-lequipe-nationale-pour-les-matchs-contre-sao-tome-et-la-namibiedevoilee/)
+- [Le groupe TUI installe sa marque « The Mora » à Tozeur en remplacement d’Anantara](https://lapresse.tn/2025/10/02/le-groupe-tui-installe-sa-marque-the-mora-a-tozeur-en-remplacement-danantara/)
+- [Tunisie : Incarcération de l’ancienne DG de la CDC pour suspicion de corruption](https://lapresse.tn/2025/10/02/tunisie-incarceration-de-lancienne-dg-de-la-cdc-pour-suspicion-de-corruption/)
+- [Gafsa-Mdhilla1 : des mesures pour lutter contre les émissions toxiques bientôt adoptées](https://lapresse.tn/2025/10/02/gafsa-mdhilla1-des-mesures-pour-lutter-contre-les-emissions-toxiques-bientot-adoptees/)
+- [Festival arabe de la radio et de la télévision: les recettes de la dernière édition reversées aux villages SOS](https://lapresse.tn/2025/10/02/festival-arabe-de-la-radio-et-de-la-television-les-recettes-de-la-derniere-edition-reversees-aux-villages-sos/)
+- [El Kbida, la troisième société communautaire de Manouba, ouvre ses souscriptions](https://lapresse.tn/2025/10/02/el-kbida-la-troisieme-societe-communautaire-de-manouba-ouvre-ses-souscriptions/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -240,7 +240,7 @@
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [A HISTORY OF INDIA](https://www.cespi.it/it/eventi-note/eventi/history-india)
-- [AVVISO PUBBLICO - PROCEDURA DI SELEZIONE COMPARATIVA PER TITOLI DI N.1 FORMATORE LINGUA ITALIANA L2.](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-pubblico-procedura-di-selezione-comparativa-titoli-di-n1-formatore)
+- [Graduatoria finale della procedura comparativa per titoli di figure professionali cui affidare incarichi nell’ambito del progetto SU.PR.EME. 2](https://www.cespi.it/it/eventi-note/comunicazioni/graduatoria-finale-della-procedura-comparativa-titoli-di-figure-3)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Tunisie, les maires et les conseils municipaux toujours aux abonnés absents](https://www.jeuneafrique.com/1726174/politique/en-tunisie-les-maires-et-les-conseils-municipaux-toujours-aux-abonnes-absents/)
+- [Manifestations au Maroc : le mouvement se durcit, deux morts à Leqliâa](https://www.jeuneafrique.com/1727012/politique/manifestations-au-maroc-le-mouvement-se-durcit-deux-morts-a-leqliaa/)
 - [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
 - [Algérie : Fethi Ghares à nouveau devant les tribunaux pour avoir critiqué le président Tebboune](https://www.jeuneafrique.com/1726570/politique/algerie-fethi-ghares-a-nouveau-devant-les-tribunaux-pour-avoir-critique-le-president-tebboune/)
 - [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
 - [Sénégal : pourquoi Amadou Sall, le fils de Macky Sall, est recherché par la justice](https://www.jeuneafrique.com/1726516/politique/senegal-pourquoi-amadou-sall-le-fils-de-macky-sall-est-recherche-par-la-justice/)
 - [Du pupitre de l’ONU aux collines du Kivu : les fragiles promesses de paix de Donald Trump](https://www.jeuneafrique.com/1726653/politique/du-pupitre-de-lonu-aux-collines-du-kivu-les-fragiles-promesses-de-paix-de-donald-trump/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
-- [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
 - [AFIS 2025 : Awori, Ekué, Jouahri… Des VIP de la finance en quête de souveraineté financière](https://www.jeuneafrique.com/1726774/economie-entreprises/afis-2025-awori-ekue-jouahri-des-vip-de-la-finance-en-quete-dune-souverainete-financiere/)
 - [Côte d’Ivoire, Cameroun : la recette de CFAO pour développer Carrefour… sans Carrefour](https://www.jeuneafrique.com/1726448/economie-entreprises/cote-divoire-cameroun-la-recette-de-cfao-pour-developper-carrefour-sans-carrefour/)
 
