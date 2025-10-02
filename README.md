@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 06:15*
+*Generato: 02 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
-- [La FTAV met en garde contre l’exploitation médiatique de l’incident Nouvelair à Nice](https://lapresse.tn/2025/10/01/la-ftav-met-en-garde-contre-lexploitation-mediatique-de-lincident-nouvelair-a-nice/)
-- [Le plus grand syndicat italien appelle à une grève contre le blocage de la flottille Sumud](https://lapresse.tn/2025/10/01/le-plus-grand-syndicat-italien-appelle-a-une-greve-contre-le-blocage-de-la-flottille-sumud/)
-- [Trump signe un décret garantissant la sécurité du Qatar](https://lapresse.tn/2025/10/01/trump-signe-un-decret-garantissant-la-securite-du-qatar/)
-- [Flottille Sumud : interception et brouillage des caméras, incertitude sur le sort des militants](https://lapresse.tn/2025/10/01/flottille-sumud-interception-et-brouillage-des-cameras-incertitude-sur-le-sort-des-militants/)
-- [Interception redoutée : la flottille Global Sumud s’attend à une attaque dans l’heure](https://lapresse.tn/2025/10/01/interception-redoutee-la-flottille-global-sumud-sattend-a-une-attaque-dans-lheure/)
-- [Quand sécurité rime avec équité : La stratégie de Kaïs Saïed](https://lapresse.tn/2025/10/01/quand-securite-rime-avec-equite-la-strategie-de-kais-saied/)
+- [Tunisie : Inauguration du laboratoire Industrie 4.0 à Sfax pour former les talents de demain](https://lapresse.tn/2025/10/02/tunisie-inauguration-du-laboratoire-industrie-4-0-a-sfax-pour-former-les-talents-de-demain/)
+- [Flottille Sumud : un navire franchit les eaux territoriales gazaouies](https://lapresse.tn/2025/10/02/flottille-sumud-un-navire-franchit-les-eaux-territoriales-gazaouies/)
+- [Patrimoine immobilier en Tunisie : un nouvel impôt qui fait débat](https://lapresse.tn/2025/10/02/patrimoine-immobilier-en-tunisie-un-nouvel-impot-qui-fait-debat/)
+- [Flottille Soumoud : Neuf Tunisiens arrêtés lors de l’interception du bateau « Deir Yassine »](https://lapresse.tn/2025/10/02/flottille-soumoud-neuf-tunisiens-arretes-lors-de-linterception-du-bateau-deir-yassine/)
+- [42 milles séparent la flottille Soumoud de Gaza](https://lapresse.tn/2025/10/02/42-milles-separent-la-flottille-soumoud-de-gaza/)
+- [Pluies, orages et baisse des températures attendus en Tunisie](https://lapresse.tn/2025/10/02/pluies-orages-et-baisse-des-temperatures-attendus-en-tunisie/)
+- [La Tunisie engagée dans un projet euro-méditerranéen pour valoriser les déchets de l’huile d’olive](https://lapresse.tn/2025/10/02/la-tunisie-engagee-dans-un-projet-euro-mediterraneen-pour-valoriser-les-dechets-de-lhuile-dolive/)
 - [Les binationaux tunisiens peuvent accomplir leur service militaire à l’étranger : les détails](https://lapresse.tn/2025/10/01/les-binationaux-tunisiens-peuvent-accomplir-leur-service-militaire-a-letranger-les-details/)
 - [la nouvelle équation du transport tunisien : Plus de confort, moins de ralentisseurs](https://lapresse.tn/2025/10/01/la-nouvelle-equation-du-transport-tunisien-plus-de-confort-moins-de-ralentisseurs/)
-- [Tourisme : A Tozeur, la pluie des bonnes nouvelles ? (II)](https://lapresse.tn/2025/10/01/tourisme-a-tozeur-la-pluie-des-bonnes-nouvelles-ii/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 - [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
+- [Algérie : Fethi Ghares à nouveau devant les tribunaux pour avoir critiqué le président Tebboune](https://www.jeuneafrique.com/1726570/politique/algerie-fethi-ghares-a-nouveau-devant-les-tribunaux-pour-avoir-critique-le-president-tebboune/)
+- [Sénégal : pourquoi Amadou Sall, le fils de Macky Sall, est recherché par la justice](https://www.jeuneafrique.com/1726516/politique/senegal-pourquoi-amadou-sall-le-fils-de-macky-sall-est-recherche-par-la-justice/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
 - [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
-- [En Guinée, après le référendum, Mamadi Doumbouya en route vers la présidentielle](https://www.jeuneafrique.com/1726598/politique/en-guinee-apres-le-referendum-mamadi-doumbouya-en-route-vers-la-presidentielle/)
+- [Au Maroc, la pression s’accentue sur le gouvernement alors que les manifestations ont connu leurs premières violences](https://www.jeuneafrique.com/1726525/politique/au-maroc-la-pression-saccentue-sur-le-gouvernement-alors-que-les-manifestations-ont-connu-leurs-premieres-violences/)
 - [Arrêtée à Paris, Halima Ben Ali risque-t-elle d’être extradée vers la Tunisie ?](https://www.jeuneafrique.com/1726553/politique/arretee-a-paris-halima-ben-ali-risque-t-elle-detre-extradee-vers-la-tunisie/)
 - [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
-- [Il y a quarante ans, Israël bombardait le siège de l’OLP à Tunis](https://www.jeuneafrique.com/1725942/politique/il-y-a-quarante-ans-israel-bombardait-le-siege-de-lolp-a-tunis/)
-- [Au Gabon, le parti d’Oligui Nguema en tête d’élections critiquées](https://www.jeuneafrique.com/1726348/politique/au-gabon-le-parti-doligui-nguema-en-tete-delections-critiquees/)
-- [Présidentielle au Cameroun : Bello Bouba Maïgari peut-il faire oublier le passé ?](https://www.jeuneafrique.com/1725327/politique/presidentielle-au-cameroun-bello-bouba-maigari-peut-il-faire-oublier-le-passe/)
+- [Sénégal-FMI : malgré le coup de pression de Diomaye Faye, les négociations patinent](https://www.jeuneafrique.com/1726606/economie-entreprises/senegal-fmi-malgre-le-coup-de-pression-de-diomaye-faye-les-negociations-patinent/)
 - [Yassine Mfadel, porte-étendard de Radisson au Maroc et visage d’un groupe familial en expansion](https://www.jeuneafrique.com/1721708/economie-entreprises/yassine-mfadel-porte-etendard-de-radisson-au-maroc-et-visage-dun-groupe-familial-en-expansion/)
-- [Paiement instantané : sans Wave, la BCEAO peut-elle tenir sa promesse d’inclusion financière ?](https://www.jeuneafrique.com/1726520/economie-entreprises/paiement-instantane-sans-wave-la-bceao-peut-elle-tenir-sa-promesse-dinclusion-financiere/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
