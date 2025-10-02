@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 18:15*
+*Generato: 02 Oct 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
+- [L’Ostéoporose touche 25 pc des femmes de plus de 45 ans en Tunisie](https://lapresse.tn/2025/10/02/losteoporose-touche-25-pc-des-femmes-de-plus-de-45-ans-en-tunisie/)
+- [«Mon espoir… Ma douleur» de Naoufel Azara à «El Teatro» : Cultiver l’espoir sur scène](https://lapresse.tn/2025/10/02/mon-espoir-ma-douleur-de-naoufel-azara-a-el-teatro-cultiver-lespoir-sur-scene/)
+- [Pluies éparses et mer agitée attendues ce soir en Tunisie](https://lapresse.tn/2025/10/02/pluies-eparses-et-mer-agitee-attendues-ce-soir-en-tunisie/)
 - [Tunisie : signature d’un accord entre la STEG et la BEI pour l’interconnexion électrique avec l’Italie](https://lapresse.tn/2025/10/02/tunisie-signature-dun-accord-entre-la-steg-et-la-bei-pour-linterconnexion-electrique-avec-litalie/)
-- [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
-- [Colloque international à la cité de la culture : La traduction et son rôle dans la construction de l’enfance](https://lapresse.tn/2025/10/02/colloque-international-a-la-cite-de-la-culture-la-traduction-et-son-role-dans-la-construction-de-lenfance/)
 - [Flottille Soumoud : Liste des Tunisiens arrêtés par les forces sionistes](https://lapresse.tn/2025/10/02/flottille-soumoud-liste-des-tunisiens-arretes-par-les-forces-sionistes/)
 - [Flottille Soumoud: Des députés appellent à la tenue d’une séance extraordinaire au parlement](https://lapresse.tn/2025/10/02/flottille-soumoud-des-deputes-appellent-a-la-tenue-dune-seance-extraordinaire-au-parlement/)
-- [Gestion environnementale : Pour que Gabès respire de nouveau](https://lapresse.tn/2025/10/02/gestion-environnementale-pour-que-gabes-respire-de-nouveau/)
+- [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
 - [Viandes rouges : Pour une étude sérieuse et trêve de polémique](https://lapresse.tn/2025/10/02/viandes-rouges-pour-une-etude-serieuse-et-treve-de-polemique/)
 - [Ben Guerdane : Multiplier les visites de suivi](https://lapresse.tn/2025/10/02/ben-guerdane-multiplier-les-visites-de-suivi/)
-- [Le secteur des assurances en Tunisie : Entre croissance et défis](https://lapresse.tn/2025/10/02/le-secteur-des-assurances-en-tunisie-entre-croissance-et-defis/)
 
 ## NGOs – Amnesty International – Tunisia
 
