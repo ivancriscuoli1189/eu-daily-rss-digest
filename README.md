@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 12:18*
+*Generato: 02 Oct 2025, 13:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
+- [Un séisme de magnitude 5 frappe la Turquie](https://lapresse.tn/2025/10/02/un-seisme-de-magnitude-5-frappe-la-turquie/)
+- [Tunisie : Décès de l’ancien mufti de la République Hamda Saïed](https://lapresse.tn/2025/10/02/tunisie-deces-de-lancien-mufti-de-la-republique-hamda-saied/)
 - [Ben Arous: séance de travail sur la situation environnementale et la pollution](https://lapresse.tn/2025/10/02/ben-arous-seance-de-travail-sur-la-situation-environnementale-et-la-pollution/)
-- [20 octobre prochain : dernier délai pour la déclaration d’impôts pour les personnes morales](https://lapresse.tn/2025/10/02/20-octobre-prochain-dernier-delai-pour-la-declaration-dimpots-pour-les-personnes-morales/)
-- [BNA assurances renforce sa numérisation et lance de nouveaux services d’assurance maladie](https://lapresse.tn/2025/10/02/bna-assurances-renforce-sa-numerisation-et-lance-de-nouveaux-services-dassurance-maladie/)
+- [Les pays européens condamnent l’entité sioniste pour avoir intercepté la flottille Soumoud près de Gaza](https://lapresse.tn/2025/10/02/les-pays-europeens-condamnent-lentite-sioniste-pour-avoir-intercepte-la-flottille-soumoud-pres-de-gaza/)
 - [Flottille Sumud : un navire franchit les eaux territoriales gazaouies](https://lapresse.tn/2025/10/02/flottille-sumud-un-navire-franchit-les-eaux-territoriales-gazaouies/)
 - [Flottille Soumoud : Neuf Tunisiens arrêtés lors de l’interception du bateau « Deir Yassine »](https://lapresse.tn/2025/10/02/flottille-soumoud-neuf-tunisiens-arretes-lors-de-linterception-du-bateau-deir-yassine/)
-- [42 milles séparent la flottille Soumoud de Gaza](https://lapresse.tn/2025/10/02/42-milles-separent-la-flottille-soumoud-de-gaza/)
 - [Coup d’envoi de l’Octobre Rose : des consultations gratuites dans tous les gouvernorats](https://lapresse.tn/2025/10/02/coup-denvoi-de-loctobre-rose-des-consultations-gratuites-dans-tous-les-gouvernorats/)
 - [Hammamet : des caméras de surveillance dans les collèges et les lycées?](https://lapresse.tn/2025/10/02/hammamet-des-cameras-de-surveillance-dans-les-colleges-et-les-lycees/)
 - [La Tunisie engagée dans un projet euro-méditerranéen pour valoriser les déchets de l’huile d’olive](https://lapresse.tn/2025/10/02/la-tunisie-engagee-dans-un-projet-euro-mediterraneen-pour-valoriser-les-dechets-de-lhuile-dolive/)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [Open Letter: Call for UN member states to uphold, preserve and strengthen international refugee, human rights and humanitarian treaties](https://www.icj.org/open-letter-call-for-un-member-states-to-uphold-preserve-and-strengthen-international-refugee-human-rights-and-humanitarian-treaties/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
-- [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 - [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
-- [Sri Lanka: ICJ calls for repeal or substantial revision of Online Safety Act](https://www.icj.org/sri-lanka-icj-calls-for-repeal-or-substantial-revision-of-online-safety-act/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -272,8 +272,8 @@
 - [Du pupitre de l’ONU aux collines du Kivu : les fragiles promesses de paix de Donald Trump](https://www.jeuneafrique.com/1726653/politique/du-pupitre-de-lonu-aux-collines-du-kivu-les-fragiles-promesses-de-paix-de-donald-trump/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
 - [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
+- [AFIS 2025 : Awori, Ekué, Jouahri… Des VIP de la finance en quête de souveraineté financière](https://www.jeuneafrique.com/1726774/economie-entreprises/afis-2025-awori-ekue-jouahri-des-vip-de-la-finance-en-quete-dune-souverainete-financiere/)
 - [Côte d’Ivoire, Cameroun : la recette de CFAO pour développer Carrefour… sans Carrefour](https://www.jeuneafrique.com/1726448/economie-entreprises/cote-divoire-cameroun-la-recette-de-cfao-pour-developper-carrefour-sans-carrefour/)
-- [Sénégal-FMI : malgré le coup de pression de Diomaye Faye, les négociations patinent](https://www.jeuneafrique.com/1726606/economie-entreprises/senegal-fmi-malgre-le-coup-de-pression-de-diomaye-faye-les-negociations-patinent/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
