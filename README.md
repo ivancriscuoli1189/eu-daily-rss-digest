@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 09:12*
+*Generato: 02 Oct 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
-- [Tunisie : Inauguration du laboratoire Industrie 4.0 à Sfax pour former les talents de demain](https://lapresse.tn/2025/10/02/tunisie-inauguration-du-laboratoire-industrie-4-0-a-sfax-pour-former-les-talents-de-demain/)
+- [Ben Arous: séance de travail sur la situation environnementale et la pollution](https://lapresse.tn/2025/10/02/ben-arous-seance-de-travail-sur-la-situation-environnementale-et-la-pollution/)
+- [20 octobre prochain : dernier délai pour la déclaration d’impôts pour les personnes morales](https://lapresse.tn/2025/10/02/20-octobre-prochain-dernier-delai-pour-la-declaration-dimpots-pour-les-personnes-morales/)
+- [BNA assurances renforce sa numérisation et lance de nouveaux services d’assurance maladie](https://lapresse.tn/2025/10/02/bna-assurances-renforce-sa-numerisation-et-lance-de-nouveaux-services-dassurance-maladie/)
 - [Flottille Sumud : un navire franchit les eaux territoriales gazaouies](https://lapresse.tn/2025/10/02/flottille-sumud-un-navire-franchit-les-eaux-territoriales-gazaouies/)
-- [Patrimoine immobilier en Tunisie : un nouvel impôt qui fait débat](https://lapresse.tn/2025/10/02/patrimoine-immobilier-en-tunisie-un-nouvel-impot-qui-fait-debat/)
 - [Flottille Soumoud : Neuf Tunisiens arrêtés lors de l’interception du bateau « Deir Yassine »](https://lapresse.tn/2025/10/02/flottille-soumoud-neuf-tunisiens-arretes-lors-de-linterception-du-bateau-deir-yassine/)
 - [42 milles séparent la flottille Soumoud de Gaza](https://lapresse.tn/2025/10/02/42-milles-separent-la-flottille-soumoud-de-gaza/)
-- [Pluies, orages et baisse des températures attendus en Tunisie](https://lapresse.tn/2025/10/02/pluies-orages-et-baisse-des-temperatures-attendus-en-tunisie/)
+- [Coup d’envoi de l’Octobre Rose : des consultations gratuites dans tous les gouvernorats](https://lapresse.tn/2025/10/02/coup-denvoi-de-loctobre-rose-des-consultations-gratuites-dans-tous-les-gouvernorats/)
+- [Hammamet : des caméras de surveillance dans les collèges et les lycées?](https://lapresse.tn/2025/10/02/hammamet-des-cameras-de-surveillance-dans-les-colleges-et-les-lycees/)
 - [La Tunisie engagée dans un projet euro-méditerranéen pour valoriser les déchets de l’huile d’olive](https://lapresse.tn/2025/10/02/la-tunisie-engagee-dans-un-projet-euro-mediterraneen-pour-valoriser-les-dechets-de-lhuile-dolive/)
-- [Les binationaux tunisiens peuvent accomplir leur service militaire à l’étranger : les détails](https://lapresse.tn/2025/10/01/les-binationaux-tunisiens-peuvent-accomplir-leur-service-militaire-a-letranger-les-details/)
-- [la nouvelle équation du transport tunisien : Plus de confort, moins de ralentisseurs](https://lapresse.tn/2025/10/01/la-nouvelle-equation-du-transport-tunisien-plus-de-confort-moins-de-ralentisseurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
 - [Algérie : Fethi Ghares à nouveau devant les tribunaux pour avoir critiqué le président Tebboune](https://www.jeuneafrique.com/1726570/politique/algerie-fethi-ghares-a-nouveau-devant-les-tribunaux-pour-avoir-critique-le-president-tebboune/)
+- [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
 - [Sénégal : pourquoi Amadou Sall, le fils de Macky Sall, est recherché par la justice](https://www.jeuneafrique.com/1726516/politique/senegal-pourquoi-amadou-sall-le-fils-de-macky-sall-est-recherche-par-la-justice/)
+- [Du pupitre de l’ONU aux collines du Kivu : les fragiles promesses de paix de Donald Trump](https://www.jeuneafrique.com/1726653/politique/du-pupitre-de-lonu-aux-collines-du-kivu-les-fragiles-promesses-de-paix-de-donald-trump/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
 - [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
 - [Au Maroc, la pression s’accentue sur le gouvernement alors que les manifestations ont connu leurs premières violences](https://www.jeuneafrique.com/1726525/politique/au-maroc-la-pression-saccentue-sur-le-gouvernement-alors-que-les-manifestations-ont-connu-leurs-premieres-violences/)
-- [Arrêtée à Paris, Halima Ben Ali risque-t-elle d’être extradée vers la Tunisie ?](https://www.jeuneafrique.com/1726553/politique/arretee-a-paris-halima-ben-ali-risque-t-elle-detre-extradee-vers-la-tunisie/)
-- [Côte d’Ivoire : deux cadres du parti de Laurent Gbagbo incarcérés pour « appel à l’insurrection »](https://www.jeuneafrique.com/1726538/politique/cote-divoire-deux-cadres-du-parti-de-laurent-gbagbo-incarceres-pour-appel-a-linsurrection/)
+- [Côte d’Ivoire, Cameroun : la recette de CFAO pour développer Carrefour… sans Carrefour](https://www.jeuneafrique.com/1726448/economie-entreprises/cote-divoire-cameroun-la-recette-de-cfao-pour-developper-carrefour-sans-carrefour/)
 - [Sénégal-FMI : malgré le coup de pression de Diomaye Faye, les négociations patinent](https://www.jeuneafrique.com/1726606/economie-entreprises/senegal-fmi-malgre-le-coup-de-pression-de-diomaye-faye-les-negociations-patinent/)
-- [Yassine Mfadel, porte-étendard de Radisson au Maroc et visage d’un groupe familial en expansion](https://www.jeuneafrique.com/1721708/economie-entreprises/yassine-mfadel-porte-etendard-de-radisson-au-maroc-et-visage-dun-groupe-familial-en-expansion/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
