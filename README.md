@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 15:05*
+*Generato: 02 Oct 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Fin de la guerre, paix éternelle ?](https://lapresse.tn/2025/10/01/fin-de-la-guerre-paix-eternelle/)
-- [Approvisionnement en médicaments: Le Conseil de l’Ordre des Pharmaciens appelle à des mesures urgentes](https://lapresse.tn/2025/10/02/approvisionnement-en-medicaments-le-conseil-de-lordre-des-pharmaciens-appelle-a-des-mesures-urgentes/)
-- [Météo: des températures supérieures à la normale pour les mois d’octobre, novembre et décembre](https://lapresse.tn/2025/10/02/meteo-des-temperatures-superieures-a-la-normale-pour-les-mois-doctobre-novembre-et-decembre/)
-- [Attaque devant une synagogue à Manchester](https://lapresse.tn/2025/10/02/attaque-devant-une-synagogue-a-manchester/)
-- [Éliminatoires de la Coupe du Monde 2026 : la liste des joueurs de l’équipe nationale pour les matchs contre Sao Tomé et la Namibiedévoilée](https://lapresse.tn/2025/10/02/eliminatoires-de-la-coupe-du-monde-2026-la-liste-des-joueurs-de-lequipe-nationale-pour-les-matchs-contre-sao-tome-et-la-namibiedevoilee/)
-- [Le groupe TUI installe sa marque « The Mora » à Tozeur en remplacement d’Anantara](https://lapresse.tn/2025/10/02/le-groupe-tui-installe-sa-marque-the-mora-a-tozeur-en-remplacement-danantara/)
-- [Tunisie : Incarcération de l’ancienne DG de la CDC pour suspicion de corruption](https://lapresse.tn/2025/10/02/tunisie-incarceration-de-lancienne-dg-de-la-cdc-pour-suspicion-de-corruption/)
-- [Gafsa-Mdhilla1 : des mesures pour lutter contre les émissions toxiques bientôt adoptées](https://lapresse.tn/2025/10/02/gafsa-mdhilla1-des-mesures-pour-lutter-contre-les-emissions-toxiques-bientot-adoptees/)
-- [Festival arabe de la radio et de la télévision: les recettes de la dernière édition reversées aux villages SOS](https://lapresse.tn/2025/10/02/festival-arabe-de-la-radio-et-de-la-television-les-recettes-de-la-derniere-edition-reversees-aux-villages-sos/)
-- [El Kbida, la troisième société communautaire de Manouba, ouvre ses souscriptions](https://lapresse.tn/2025/10/02/el-kbida-la-troisieme-societe-communautaire-de-manouba-ouvre-ses-souscriptions/)
+- [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
+- [Tunisie : signature d’un accord entre la STEG et la BEI pour l’interconnexion électrique avec l’Italie](https://lapresse.tn/2025/10/02/tunisie-signature-dun-accord-entre-la-steg-et-la-bei-pour-linterconnexion-electrique-avec-litalie/)
+- [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
+- [Colloque international à la cité de la culture : La traduction et son rôle dans la construction de l’enfance](https://lapresse.tn/2025/10/02/colloque-international-a-la-cite-de-la-culture-la-traduction-et-son-role-dans-la-construction-de-lenfance/)
+- [Flottille Soumoud : Liste des Tunisiens arrêtés par les forces sionistes](https://lapresse.tn/2025/10/02/flottille-soumoud-liste-des-tunisiens-arretes-par-les-forces-sionistes/)
+- [Flottille Soumoud: Des députés appellent à la tenue d’une séance extraordinaire au parlement](https://lapresse.tn/2025/10/02/flottille-soumoud-des-deputes-appellent-a-la-tenue-dune-seance-extraordinaire-au-parlement/)
+- [Gestion environnementale : Pour que Gabès respire de nouveau](https://lapresse.tn/2025/10/02/gestion-environnementale-pour-que-gabes-respire-de-nouveau/)
+- [Viandes rouges : Pour une étude sérieuse et trêve de polémique](https://lapresse.tn/2025/10/02/viandes-rouges-pour-une-etude-serieuse-et-treve-de-polemique/)
+- [Ben Guerdane : Multiplier les visites de suivi](https://lapresse.tn/2025/10/02/ben-guerdane-multiplier-les-visites-de-suivi/)
+- [Le secteur des assurances en Tunisie : Entre croissance et défis](https://lapresse.tn/2025/10/02/le-secteur-des-assurances-en-tunisie-entre-croissance-et-defis/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie : les appels à manifester lancés par le mystérieux collectif GenZ213 inquiètent les autorités](https://www.jeuneafrique.com/1727283/politique/algerie-les-appels-a-manifester-lances-par-le-mysterieux-collectif-genz213-inquietent-les-autorites/)
+- [Avec GenZ212, Discord devient le nouvel espace d’expression politique de la jeunesse marocaine](https://www.jeuneafrique.com/1727145/politique/avec-genz212-discord-devient-le-nouvel-espace-dexpression-politique-de-la-jeunesse-marocaine/)
+- [10 choses à savoir sur Déthié Fall, l’allié récompensé par un « super ministère »](https://www.jeuneafrique.com/1726881/politique/10-choses-a-savoir-sur-dethie-fall-lallie-recompense-par-un-super-ministere/)
 - [En Tunisie, les maires et les conseils municipaux toujours aux abonnés absents](https://www.jeuneafrique.com/1726174/politique/en-tunisie-les-maires-et-les-conseils-municipaux-toujours-aux-abonnes-absents/)
 - [Manifestations au Maroc : le mouvement se durcit, deux morts à Leqliâa](https://www.jeuneafrique.com/1727012/politique/manifestations-au-maroc-le-mouvement-se-durcit-deux-morts-a-leqliaa/)
 - [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
 - [Algérie : Fethi Ghares à nouveau devant les tribunaux pour avoir critiqué le président Tebboune](https://www.jeuneafrique.com/1726570/politique/algerie-fethi-ghares-a-nouveau-devant-les-tribunaux-pour-avoir-critique-le-president-tebboune/)
-- [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
-- [Sénégal : pourquoi Amadou Sall, le fils de Macky Sall, est recherché par la justice](https://www.jeuneafrique.com/1726516/politique/senegal-pourquoi-amadou-sall-le-fils-de-macky-sall-est-recherche-par-la-justice/)
-- [Du pupitre de l’ONU aux collines du Kivu : les fragiles promesses de paix de Donald Trump](https://www.jeuneafrique.com/1726653/politique/du-pupitre-de-lonu-aux-collines-du-kivu-les-fragiles-promesses-de-paix-de-donald-trump/)
-- [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
+- [En Guinée, à qui Mamadi Doumbouya confiera-t-il les rênes de sa campagne ?](https://www.jeuneafrique.com/1726730/politique/en-guinee-a-qui-mamadi-doumbouya-confiera-t-il-les-renes-de-sa-campagne/)
+- [Cacao : pourquoi l’avenir de l’alliance Côte d’Ivoire-Ghana se joue aussi en Équateur](https://www.jeuneafrique.com/1727008/economie-entreprises/cacao-pourquoi-lavenir-de-lalliance-cote-divoire-ghana-se-joue-aussi-en-equateur/)
 - [AFIS 2025 : Awori, Ekué, Jouahri… Des VIP de la finance en quête de souveraineté financière](https://www.jeuneafrique.com/1726774/economie-entreprises/afis-2025-awori-ekue-jouahri-des-vip-de-la-finance-en-quete-dune-souverainete-financiere/)
-- [Côte d’Ivoire, Cameroun : la recette de CFAO pour développer Carrefour… sans Carrefour](https://www.jeuneafrique.com/1726448/economie-entreprises/cote-divoire-cameroun-la-recette-de-cfao-pour-developper-carrefour-sans-carrefour/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
