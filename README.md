@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Oct 2025, 11:04*
+*Generato: 02 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, les maires et les conseils municipaux toujours aux abonnés absents](https://www.jeuneafrique.com/1726174/politique/en-tunisie-les-maires-et-les-conseils-municipaux-toujours-aux-abonnes-absents/)
 - [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
 - [Algérie : Fethi Ghares à nouveau devant les tribunaux pour avoir critiqué le président Tebboune](https://www.jeuneafrique.com/1726570/politique/algerie-fethi-ghares-a-nouveau-devant-les-tribunaux-pour-avoir-critique-le-president-tebboune/)
 - [Abdourahamane Tiani à Ouagadougou et Bamako : l’AES, la réponse à tous les maux](https://www.jeuneafrique.com/1726663/politique/abdourahamane-tiani-a-ouagadougou-et-bamako-laes-la-reponse-a-tous-les-maux/)
@@ -271,7 +272,6 @@
 - [Du pupitre de l’ONU aux collines du Kivu : les fragiles promesses de paix de Donald Trump](https://www.jeuneafrique.com/1726653/politique/du-pupitre-de-lonu-aux-collines-du-kivu-les-fragiles-promesses-de-paix-de-donald-trump/)
 - [En Guinée, l’enlèvement du père d’un journaliste critique du pouvoir suscite l’indignation](https://www.jeuneafrique.com/1726940/politique/en-guinee-lenlevement-du-pere-dun-journaliste-critique-du-pouvoir-suscite-lindignation/)
 - [La mort mystérieuse, à Paris, de l’ambassadeur d’Afrique du Sud relance les interrogations sur son passé politique](https://www.jeuneafrique.com/1726782/politique/la-mort-mysterieuse-a-paris-de-lambassadeur-dafrique-du-sud-relance-les-interrogations-sur-son-passe-politique/)
-- [Au Maroc, la pression s’accentue sur le gouvernement alors que les manifestations ont connu leurs premières violences](https://www.jeuneafrique.com/1726525/politique/au-maroc-la-pression-saccentue-sur-le-gouvernement-alors-que-les-manifestations-ont-connu-leurs-premieres-violences/)
 - [Côte d’Ivoire, Cameroun : la recette de CFAO pour développer Carrefour… sans Carrefour](https://www.jeuneafrique.com/1726448/economie-entreprises/cote-divoire-cameroun-la-recette-de-cfao-pour-developper-carrefour-sans-carrefour/)
 - [Sénégal-FMI : malgré le coup de pression de Diomaye Faye, les négociations patinent](https://www.jeuneafrique.com/1726606/economie-entreprises/senegal-fmi-malgre-le-coup-de-pression-de-diomaye-faye-les-negociations-patinent/)
 
