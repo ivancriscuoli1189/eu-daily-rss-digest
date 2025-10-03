@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 12:17*
+*Generato: 03 Oct 2025, 13:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
 - [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
@@ -91,12 +92,11 @@
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 - [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
-- [Parliament pushes for Gaza aid, the hostages’ release and justice](https://www.europarl.europa.eu/news/en/press-room/20250905IPR30185/parliament-pushes-for-gaza-aid-the-hostages-release-and-justice)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
