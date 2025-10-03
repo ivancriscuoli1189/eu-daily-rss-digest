@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 13:21*
+*Generato: 03 Oct 2025, 15:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
-- [Dhehiba : saisie de plus de 1 200 boîtes de médicaments destinées à la contrebande](https://lapresse.tn/2025/10/03/dhehiba-saisie-de-plus-de-1-200-boites-de-medicaments-destinees-a-la-contrebande/)
-- [LIGUE 1 – 9E Journée – CA : Plus de points à perdre !](https://lapresse.tn/2025/10/03/ligue-1-9e-journee-ca-plus-de-points-a-perdre/)
+- [Zaghouan : deuxième décès confirmé lié au virus du Nil occidental](https://lapresse.tn/2025/10/03/zaghouan-deuxieme-deces-confirme-lie-au-virus-du-nil-occidental/)
+- [Sami Mensi : « L’attentisme n’est plus une option pour la Tunisie »](https://lapresse.tn/2025/10/03/sami-mensi-lattentisme-nest-plus-une-option-pour-la-tunisie/)
+- [L’Espérance de Tunis exige des arbitres étrangers pour les prochains classico](https://lapresse.tn/2025/10/03/lesperance-de-tunis-exige-des-arbitres-etrangers-pour-les-prochains-classicos/)
 - [Interception de la Flottille humanitaire vers Gaza : Un crime de guerre commis par les sionistes en haute mer](https://lapresse.tn/2025/10/03/interception-de-la-flottille-humanitaire-vers-gaza-un-crime-de-guerre-commis-par-les-sionistes-en-haute-mer/)
 - [Affaire de corruption : un cadre douanier et un homme d’affaires condamnés à de lourdes peines](https://lapresse.tn/2025/10/03/affaire-de-corruption-un-cadre-douanier-et-un-homme-daffaires-condamnes-a-de-lourdes-peines/)
 - [«5+5 Défense » : La Tunisie préside la réunion des chefs d’état-major des armées](https://lapresse.tn/2025/10/03/55-defense-la-tunisie-preside-la-reunion-des-chefs-detat-major-des-armees/)
 - [Fermeture temporaire du pont mobile de Bizerte pour travaux de maintenance](https://lapresse.tn/2025/10/03/fermeture-temporaire-du-pont-mobile-de-bizerte-pour-travaux-de-maintenance/)
 - [L’Ostéoporose touche 25 pc des femmes de plus de 45 ans en Tunisie](https://lapresse.tn/2025/10/02/losteoporose-touche-25-pc-des-femmes-de-plus-de-45-ans-en-tunisie/)
 - [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
-- [Viandes rouges : Pour une étude sérieuse et trêve de polémique](https://lapresse.tn/2025/10/02/viandes-rouges-pour-une-etude-serieuse-et-treve-de-polemique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Madagascar : Andry Rajoelina dénonce une tentative de « coup d’État »](https://www.jeuneafrique.com/1727665/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-coup-detat/)
+- [Manifestations au Maroc : le gouvernement propose le dialogue, GenZ212 appelle à sa « dissolution »](https://www.jeuneafrique.com/1727420/politique/manifestations-au-maroc-le-gouvernement-propose-le-dialogue-genz212-appelle-a-sa-dissolution/)
 - [Manifestations interdites en Côte d’Ivoire : tout comprendre au bras de fer entre les autorités et l’opposition](https://www.jeuneafrique.com/1727242/politique/manifestations-interdites-en-cote-divoire-tout-comprendre-au-bras-de-fer-entre-les-autorites-et-lopposition/)
 - [Présidentielle au Cameroun : comment Paul Biya et ses rivaux veulent conquérir le web](https://www.jeuneafrique.com/1726855/politique/presidentielle-au-cameroun-comment-paul-biya-et-ses-rivaux-veulent-conquerir-le-web/)
 - [Secrétariat général de l’ONU : Embaló fait campagne pour Macky Sall](https://www.jeuneafrique.com/1727253/politique/secretariat-general-de-lonu-embalo-fait-campagne-pour-macky-sall/)
 - [Algérie : les appels à manifester lancés par le mystérieux collectif GenZ213 inquiètent les autorités](https://www.jeuneafrique.com/1727283/politique/algerie-les-appels-a-manifester-lances-par-le-mysterieux-collectif-genz213-inquietent-les-autorites/)
 - [Avec GenZ212, Discord devient le nouvel espace d’expression politique de la jeunesse marocaine](https://www.jeuneafrique.com/1727145/politique/avec-genz212-discord-devient-le-nouvel-espace-dexpression-politique-de-la-jeunesse-marocaine/)
 - [Macky Sall : « Au Sénégal, parler de dette cachée est un non-sens »](https://www.jeuneafrique.com/1727035/politique/macky-sall-au-senegal-parler-de-dette-cachee-est-un-non-sens/)
-- [Présidentielle en Côte d’Ivoire : un dispositif sécuritaire XXL pour conjurer les menaces](https://www.jeuneafrique.com/1726662/politique/presidentielle-en-cote-divoire-un-dispositif-securitaire-xxl-pour-conjurer-les-menaces/)
-- [10 choses à savoir sur Déthié Fall, l’allié récompensé par un « super ministère »](https://www.jeuneafrique.com/1726881/politique/10-choses-a-savoir-sur-dethie-fall-lallie-recompense-par-un-super-ministere/)
 - [Au Gabon, une pollution au pétrole frappe à nouveau le littoral](https://www.jeuneafrique.com/1727429/economie-entreprises/au-gabon-une-pollution-au-petrole-frappe-a-nouveau-le-littoral/)
 - [Coca-Cola, Nestlé, TotalEnergies… Les investissements verts des multinationales au banc d’essai](https://www.jeuneafrique.com/1719699/economie-entreprises/coca-cola-nestle-totalenergies-les-investissements-verts-des-multinationales-au-banc-dessai/)
 
