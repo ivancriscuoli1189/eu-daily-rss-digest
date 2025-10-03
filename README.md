@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 06:16*
+*Generato: 03 Oct 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
-- [Conférant avec le ministre des Affaires sociales : Le Chef de l’État appelle à une approche globale des politiques sociales](https://lapresse.tn/2025/10/03/conferant-avec-le-ministre-des-affaires-sociales-le-chef-de-letat-appelle-a-une-approche-globale-des-politiques-sociales/)
-- [Recevant le ministre de l’emploi : Le Président encourage le développement des sociétés communautaires pour stimuler l’emploi](https://lapresse.tn/2025/10/03/recevant-le-ministre-de-lemploi-le-president-encourage-le-developpement-des-societes-communautaires-pour-stimuler-lemploi/)
-- [Flotille soumoud: Kaïs Saïed exige le retour immédiat des Tunisiens retenus par l’entité sioniste](https://lapresse.tn/2025/10/02/kais-saied-appelle-a-intensifier-les-efforts-pour-le-retour-des-tunisiens-detenus-par-lentite-sioniste/)
-- [Pluies éparses et mer agitée attendues ce soir en Tunisie](https://lapresse.tn/2025/10/02/pluies-eparses-et-mer-agitee-attendues-ce-soir-en-tunisie/)
+- [Un séisme de magnitude 5,1 secoue le centre de l’Iran](https://lapresse.tn/2025/10/03/un-seisme-de-magnitude-51-secoue-le-centre-de-liran/)
+- [Affaire de corruption : un cadre douanier et un homme d’affaires condamnés à de lourdes peines](https://lapresse.tn/2025/10/03/affaire-de-corruption-un-cadre-douanier-et-un-homme-daffaires-condamnes-a-de-lourdes-peines/)
+- [Le dinar tunisien poursuit sa dépréciation face à l’euro](https://lapresse.tn/2025/10/03/le-dinar-tunisien-poursuit-sa-depreciation-face-a-leuro/)
+- [«5+5 Défense » : La Tunisie préside la réunion des chefs d’état-major des armées](https://lapresse.tn/2025/10/03/55-defense-la-tunisie-preside-la-reunion-des-chefs-detat-major-des-armees/)
+- [Météo : quelques pluies éparses et vent du nord sur le pays](https://lapresse.tn/2025/10/03/meteo-quelques-pluies-eparses-et-vent-du-nord-sur-le-pays/)
+- [Tous les militants de la flottille Soumoud transférés vers la prison de Kesdiot](https://lapresse.tn/2025/10/03/tous-les-militants-de-la-flottille-soumoud-transferes-vers-la-prison-de-kesdiot/)
+- [Fermeture temporaire du pont mobile de Bizerte pour travaux de maintenance](https://lapresse.tn/2025/10/03/fermeture-temporaire-du-pont-mobile-de-bizerte-pour-travaux-de-maintenance/)
 - [L’Ostéoporose touche 25 pc des femmes de plus de 45 ans en Tunisie](https://lapresse.tn/2025/10/02/losteoporose-touche-25-pc-des-femmes-de-plus-de-45-ans-en-tunisie/)
 - [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
-- [Viandes rouges : Pour une étude sérieuse et trêve de polémique](https://lapresse.tn/2025/10/02/viandes-rouges-pour-une-etude-serieuse-et-treve-de-polemique/)
-- [Ben Guerdane : Multiplier les visites de suivi](https://lapresse.tn/2025/10/02/ben-guerdane-multiplier-les-visites-de-suivi/)
-- [Changement climatique : La Tunisie plaide en faveur d’un financement climatique équitable](https://lapresse.tn/2025/10/02/changement-climatique-la-tunisie-plaide-en-faveur-dun-financement-climatique-equitable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Secrétariat général de l’ONU : Embaló fait campagne pour Macky Sall](https://www.jeuneafrique.com/1727253/politique/secretariat-general-de-lonu-embalo-fait-campagne-pour-macky-sall/)
 - [Algérie : les appels à manifester lancés par le mystérieux collectif GenZ213 inquiètent les autorités](https://www.jeuneafrique.com/1727283/politique/algerie-les-appels-a-manifester-lances-par-le-mysterieux-collectif-genz213-inquietent-les-autorites/)
 - [Avec GenZ212, Discord devient le nouvel espace d’expression politique de la jeunesse marocaine](https://www.jeuneafrique.com/1727145/politique/avec-genz212-discord-devient-le-nouvel-espace-dexpression-politique-de-la-jeunesse-marocaine/)
 - [Macky Sall : « Au Sénégal, parler de dette cachée est un non-sens »](https://www.jeuneafrique.com/1727035/politique/macky-sall-au-senegal-parler-de-dette-cachee-est-un-non-sens/)
@@ -271,9 +272,8 @@
 - [10 choses à savoir sur Déthié Fall, l’allié récompensé par un « super ministère »](https://www.jeuneafrique.com/1726881/politique/10-choses-a-savoir-sur-dethie-fall-lallie-recompense-par-un-super-ministere/)
 - [En Tunisie, les maires et les conseils municipaux toujours aux abonnés absents](https://www.jeuneafrique.com/1726174/politique/en-tunisie-les-maires-et-les-conseils-municipaux-toujours-aux-abonnes-absents/)
 - [Manifestations au Maroc : le mouvement se durcit, deux morts à Leqliâa](https://www.jeuneafrique.com/1727012/politique/manifestations-au-maroc-le-mouvement-se-durcit-deux-morts-a-leqliaa/)
-- [Gen Z à Madagascar : Rajoelina organise une réunion après sept jours de manifestations](https://www.jeuneafrique.com/1727027/politique/gen-z-a-madagascar-rajoelina-organise-une-reunion-apres-sept-jours-de-manifestations/)
-- [Cacao : pourquoi l’avenir de l’alliance Côte d’Ivoire-Ghana se joue aussi en Équateur](https://www.jeuneafrique.com/1727008/economie-entreprises/cacao-pourquoi-lavenir-de-lalliance-cote-divoire-ghana-se-joue-aussi-en-equateur/)
-- [AFIS 2025 : Awori, Ekué, Jouahri… Des VIP de la finance en quête de souveraineté financière](https://www.jeuneafrique.com/1726774/economie-entreprises/afis-2025-awori-ekue-jouahri-des-vip-de-la-finance-en-quete-dune-souverainete-financiere/)
+- [Au Gabon, une pollution au pétrole frappe à nouveau le littoral](https://www.jeuneafrique.com/1727429/economie-entreprises/au-gabon-une-pollution-au-petrole-frappe-a-nouveau-le-littoral/)
+- [Pétrole : comment la Côte d’Ivoire espère mettre la main sur le principal lobby africain](https://www.jeuneafrique.com/1727318/economie-entreprises/petrole-comment-la-cote-divoire-espere-mettre-la-main-sur-le-principal-lobby-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
