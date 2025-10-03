@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 18:14*
+*Generato: 03 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La Tunisie, l’exemple](https://lapresse.tn/2025/10/03/la-tunisie-lexemple/)
-- [La SNCFT annonce la modification des horaires sur la ligne Sousse–Monastir–Mahdia](https://lapresse.tn/2025/10/03/la-sncft-annonce-la-modification-des-horaires-sur-la-ligne-sousse-monastir-mahdia/)
-- [Logement en Tunisie : la facture s’alourdit pour les acheteurs](https://lapresse.tn/2025/10/03/logement-en-tunisie-la-facture-salourdit-pour-les-acheteurs/)
-- [Commentaire – Géopolitique du football : la Russie, l’entité sioniste et le « deux poids deux mesures » d’Infantino](https://lapresse.tn/2025/10/03/commentaire-geopolitique-du-football-la-russie-lentite-sioniste-et-le-deux-poids-deux-mesures-dinfantino/)
+- [Tunis-Ariana-Manouba : la rocade X20 sur le point d’entrer en service](https://lapresse.tn/2025/10/03/tunis-ariana-manouba-la-rocade-x20-sur-le-point-dentrer-en-service/)
+- [Tunisie : Les avoirs en devises reculent à 24,2 milliards de dinars, selon la Banque centrale](https://lapresse.tn/2025/10/03/tunisie-les-avoirs-en-devises-reculent-a-242-milliards-de-dinars-selon-la-banque-centrale/)
+- [Tunisie : un décret instaure une allocation familiale pour les enfants de 6 à 18 ans](https://lapresse.tn/2025/10/03/tunisie-un-decret-instaure-une-allocation-familiale-pour-les-enfants-de-6-a-18-ans/)
+- [Tunisie–Union Européenne : Le nouveau Pacte pour la Méditerranée et le partenariat tuniso-européen à l’ordre du jour](https://lapresse.tn/2025/10/03/tunisie-union-europeenne-le-nouveau-pacte-pour-la-mediterranee-et-le-partenariat-tuniso-europeen-a-lordre-du-jour/)
 - [Cinquième édition des RDV de l’emploi : Affluence remarquable des jeunes candidats](https://lapresse.tn/2025/10/03/cinquieme-edition-des-rdv-de-lemploi-affluence-remarquable-des-jeunes-candidats/)
 - [Flottille Soumoud : aucun Tunisien n’a signé la demande de départ immédiat](https://lapresse.tn/2025/10/03/flottille-soumoud-aucun-tunisien-na-signe-la-demande-de-depart-immediat/)
-- [Dhehiba : saisie de plus de 1 200 boîtes de médicaments destinées à la contrebande](https://lapresse.tn/2025/10/03/dhehiba-saisie-de-plus-de-1-200-boites-de-medicaments-destinees-a-la-contrebande/)
+- [La SNCFT annonce la modification des horaires sur la ligne Sousse–Monastir–Mahdia](https://lapresse.tn/2025/10/03/la-sncft-annonce-la-modification-des-horaires-sur-la-ligne-sousse-monastir-mahdia/)
 - [Fruits : La consommation en baisse !](https://lapresse.tn/2025/10/03/fruits-la-consommation-en-baisse/)
-- [Kairouan : La récolte des olives estimée à 248.000 tonnes](https://lapresse.tn/2025/10/03/kairouan-la-recolte-des-olives-estimee-a-248-000-tonnes/)
-- [Internat du lycée pilote de Kairouan : Nuit cauchemardesque pour les pensionnaires](https://lapresse.tn/2025/10/03/internat-du-lycee-pilote-de-kairouan-nuit-cauchemardesque-pour-les-pensionnaires/)
+- [Logement en Tunisie : la facture s’alourdit pour les acheteurs](https://lapresse.tn/2025/10/03/logement-en-tunisie-la-facture-salourdit-pour-les-acheteurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
