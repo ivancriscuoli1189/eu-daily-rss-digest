@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 15:05*
+*Generato: 03 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
-- [Zaghouan : deuxième décès confirmé lié au virus du Nil occidental](https://lapresse.tn/2025/10/03/zaghouan-deuxieme-deces-confirme-lie-au-virus-du-nil-occidental/)
-- [Sami Mensi : « L’attentisme n’est plus une option pour la Tunisie »](https://lapresse.tn/2025/10/03/sami-mensi-lattentisme-nest-plus-une-option-pour-la-tunisie/)
-- [L’Espérance de Tunis exige des arbitres étrangers pour les prochains classico](https://lapresse.tn/2025/10/03/lesperance-de-tunis-exige-des-arbitres-etrangers-pour-les-prochains-classicos/)
-- [Interception de la Flottille humanitaire vers Gaza : Un crime de guerre commis par les sionistes en haute mer](https://lapresse.tn/2025/10/03/interception-de-la-flottille-humanitaire-vers-gaza-un-crime-de-guerre-commis-par-les-sionistes-en-haute-mer/)
-- [Affaire de corruption : un cadre douanier et un homme d’affaires condamnés à de lourdes peines](https://lapresse.tn/2025/10/03/affaire-de-corruption-un-cadre-douanier-et-un-homme-daffaires-condamnes-a-de-lourdes-peines/)
-- [«5+5 Défense » : La Tunisie préside la réunion des chefs d’état-major des armées](https://lapresse.tn/2025/10/03/55-defense-la-tunisie-preside-la-reunion-des-chefs-detat-major-des-armees/)
-- [Fermeture temporaire du pont mobile de Bizerte pour travaux de maintenance](https://lapresse.tn/2025/10/03/fermeture-temporaire-du-pont-mobile-de-bizerte-pour-travaux-de-maintenance/)
-- [L’Ostéoporose touche 25 pc des femmes de plus de 45 ans en Tunisie](https://lapresse.tn/2025/10/02/losteoporose-touche-25-pc-des-femmes-de-plus-de-45-ans-en-tunisie/)
-- [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
+- [La Tunisie, l’exemple](https://lapresse.tn/2025/10/03/la-tunisie-lexemple/)
+- [La SNCFT annonce la modification des horaires sur la ligne Sousse–Monastir–Mahdia](https://lapresse.tn/2025/10/03/la-sncft-annonce-la-modification-des-horaires-sur-la-ligne-sousse-monastir-mahdia/)
+- [Logement en Tunisie : la facture s’alourdit pour les acheteurs](https://lapresse.tn/2025/10/03/logement-en-tunisie-la-facture-salourdit-pour-les-acheteurs/)
+- [Commentaire – Géopolitique du football : la Russie, l’entité sioniste et le « deux poids deux mesures » d’Infantino](https://lapresse.tn/2025/10/03/commentaire-geopolitique-du-football-la-russie-lentite-sioniste-et-le-deux-poids-deux-mesures-dinfantino/)
+- [Cinquième édition des RDV de l’emploi : Affluence remarquable des jeunes candidats](https://lapresse.tn/2025/10/03/cinquieme-edition-des-rdv-de-lemploi-affluence-remarquable-des-jeunes-candidats/)
+- [Flottille Soumoud : aucun Tunisien n’a signé la demande de départ immédiat](https://lapresse.tn/2025/10/03/flottille-soumoud-aucun-tunisien-na-signe-la-demande-de-depart-immediat/)
+- [Dhehiba : saisie de plus de 1 200 boîtes de médicaments destinées à la contrebande](https://lapresse.tn/2025/10/03/dhehiba-saisie-de-plus-de-1-200-boites-de-medicaments-destinees-a-la-contrebande/)
+- [Fruits : La consommation en baisse !](https://lapresse.tn/2025/10/03/fruits-la-consommation-en-baisse/)
+- [Kairouan : La récolte des olives estimée à 248.000 tonnes](https://lapresse.tn/2025/10/03/kairouan-la-recolte-des-olives-estimee-a-248-000-tonnes/)
+- [Internat du lycée pilote de Kairouan : Nuit cauchemardesque pour les pensionnaires](https://lapresse.tn/2025/10/03/internat-du-lycee-pilote-de-kairouan-nuit-cauchemardesque-pour-les-pensionnaires/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,19 +212,20 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [Open Letter: Call for UN member states to uphold, preserve and strengthen international refugee, human rights and humanitarian treaties](https://www.icj.org/open-letter-call-for-un-member-states-to-uphold-preserve-and-strengthen-international-refugee-human-rights-and-humanitarian-treaties/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
-- [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
 - [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
-- [EU: Procedural safeguards for migrant children must not regress under the Pact on Migration and Asylum](https://www.icj.org/eu-procedural-safeguards-for-migrant-children-must-not-regress-under-the-pact-on-migration-and-asylum/)
 
 ## THINK TANK – ECFR – MENA
 
+- [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
@@ -234,7 +235,6 @@
 - [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
 - [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
 - [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
-- [Axis of unease: Why Europeans should try to manage a Turkey-Israel rivalry](https://ecfr.eu/article/axis-of-unease-why-europeans-should-try-to-manage-a-turkey-israel-rivalry/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,14 +266,14 @@
 
 - [Madagascar : Andry Rajoelina dénonce une tentative de « coup d’État »](https://www.jeuneafrique.com/1727665/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-coup-detat/)
 - [Manifestations au Maroc : le gouvernement propose le dialogue, GenZ212 appelle à sa « dissolution »](https://www.jeuneafrique.com/1727420/politique/manifestations-au-maroc-le-gouvernement-propose-le-dialogue-genz212-appelle-a-sa-dissolution/)
+- [En Algérie, Abdelmadjid Tebboune et son Premier ministre en pleine lune de miel](https://www.jeuneafrique.com/1726304/politique/en-algerie-abdelmadjid-tebboune-et-son-premier-ministre-en-pleine-lune-de-miel/)
+- [Gen Z Madagascar : pourquoi Andry Rajoelina est sur un siège éjectable](https://www.jeuneafrique.com/1727106/politique/gen-z-madagascar-pourquoi-andry-rajoelina-est-sur-un-siege-ejectable/)
+- [« On a eu envie de vomir » : après la condamnation à mort de Joseph Kabila en RDC, son camp appelle à résister](https://www.jeuneafrique.com/1727180/politique/on-a-eu-envie-de-vomir-apres-la-condamnation-a-mort-de-joseph-kabila-en-rdc-son-camp-appelle-a-resister/)
 - [Manifestations interdites en Côte d’Ivoire : tout comprendre au bras de fer entre les autorités et l’opposition](https://www.jeuneafrique.com/1727242/politique/manifestations-interdites-en-cote-divoire-tout-comprendre-au-bras-de-fer-entre-les-autorites-et-lopposition/)
 - [Présidentielle au Cameroun : comment Paul Biya et ses rivaux veulent conquérir le web](https://www.jeuneafrique.com/1726855/politique/presidentielle-au-cameroun-comment-paul-biya-et-ses-rivaux-veulent-conquerir-le-web/)
 - [Secrétariat général de l’ONU : Embaló fait campagne pour Macky Sall](https://www.jeuneafrique.com/1727253/politique/secretariat-general-de-lonu-embalo-fait-campagne-pour-macky-sall/)
-- [Algérie : les appels à manifester lancés par le mystérieux collectif GenZ213 inquiètent les autorités](https://www.jeuneafrique.com/1727283/politique/algerie-les-appels-a-manifester-lances-par-le-mysterieux-collectif-genz213-inquietent-les-autorites/)
-- [Avec GenZ212, Discord devient le nouvel espace d’expression politique de la jeunesse marocaine](https://www.jeuneafrique.com/1727145/politique/avec-genz212-discord-devient-le-nouvel-espace-dexpression-politique-de-la-jeunesse-marocaine/)
-- [Macky Sall : « Au Sénégal, parler de dette cachée est un non-sens »](https://www.jeuneafrique.com/1727035/politique/macky-sall-au-senegal-parler-de-dette-cachee-est-un-non-sens/)
-- [Au Gabon, une pollution au pétrole frappe à nouveau le littoral](https://www.jeuneafrique.com/1727429/economie-entreprises/au-gabon-une-pollution-au-petrole-frappe-a-nouveau-le-littoral/)
-- [Coca-Cola, Nestlé, TotalEnergies… Les investissements verts des multinationales au banc d’essai](https://www.jeuneafrique.com/1719699/economie-entreprises/coca-cola-nestle-totalenergies-les-investissements-verts-des-multinationales-au-banc-dessai/)
+- [BFA : l’introduction en bourse qui réveille la place financière de Luanda](https://www.jeuneafrique.com/1727455/economie-entreprises/bfa-lintroduction-en-bourse-qui-reveille-la-place-financiere-de-luanda/)
+- [Bakary Séga Bathily : « Le souverainisme à la sénégalaise, ce n’est pas du nationalisme »](https://www.jeuneafrique.com/1726507/economie-entreprises/bakary-sega-bathily-le-souverainisme-a-la-senegalaise-ce-nest-pas-du-nationalisme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
