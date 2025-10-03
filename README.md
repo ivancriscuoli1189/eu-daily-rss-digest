@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 11:04*
+*Generato: 03 Oct 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Coopération Tuniso-Japonaise : toujours plus haut](https://lapresse.tn/2025/10/02/cooperation-tuniso-japonaise-toujours-plus-haut/)
+- [Dhehiba : saisie de plus de 1 200 boîtes de médicaments destinées à la contrebande](https://lapresse.tn/2025/10/03/dhehiba-saisie-de-plus-de-1-200-boites-de-medicaments-destinees-a-la-contrebande/)
+- [LIGUE 1 – 9E Journée – CA : Plus de points à perdre !](https://lapresse.tn/2025/10/03/ligue-1-9e-journee-ca-plus-de-points-a-perdre/)
 - [Interception de la Flottille humanitaire vers Gaza : Un crime de guerre commis par les sionistes en haute mer](https://lapresse.tn/2025/10/03/interception-de-la-flottille-humanitaire-vers-gaza-un-crime-de-guerre-commis-par-les-sionistes-en-haute-mer/)
-- [Tunisie : La STIP enregistre une perte de 7,9 millions de dinars](https://lapresse.tn/2025/10/03/tunisie-la-stip-enregistre-une-perte-de-79-millions-de-dinars/)
-- [La jebba tunisienne en lice pour le patrimoine immatériel de l’UNESCO](https://lapresse.tn/2025/10/03/la-jebba-tunisienne-en-lice-pour-le-patrimoine-immateriel-de-lunesco/)
 - [Affaire de corruption : un cadre douanier et un homme d’affaires condamnés à de lourdes peines](https://lapresse.tn/2025/10/03/affaire-de-corruption-un-cadre-douanier-et-un-homme-daffaires-condamnes-a-de-lourdes-peines/)
 - [«5+5 Défense » : La Tunisie préside la réunion des chefs d’état-major des armées](https://lapresse.tn/2025/10/03/55-defense-la-tunisie-preside-la-reunion-des-chefs-detat-major-des-armees/)
-- [Météo : quelques pluies éparses et vent du nord sur le pays](https://lapresse.tn/2025/10/03/meteo-quelques-pluies-eparses-et-vent-du-nord-sur-le-pays/)
 - [Fermeture temporaire du pont mobile de Bizerte pour travaux de maintenance](https://lapresse.tn/2025/10/03/fermeture-temporaire-du-pont-mobile-de-bizerte-pour-travaux-de-maintenance/)
 - [L’Ostéoporose touche 25 pc des femmes de plus de 45 ans en Tunisie](https://lapresse.tn/2025/10/02/losteoporose-touche-25-pc-des-femmes-de-plus-de-45-ans-en-tunisie/)
 - [Bizerte : démantèlement d’un réseau de drogue et saisie de milliers de comprimés et d’injections](https://lapresse.tn/2025/10/02/bizerte-demantelement-dun-reseau-de-drogue-et-saisie-de-milliers-de-comprimes-et-dinjections/)
+- [Viandes rouges : Pour une étude sérieuse et trêve de polémique](https://lapresse.tn/2025/10/02/viandes-rouges-pour-une-etude-serieuse-et-treve-de-polemique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Macky Sall : « Au Sénégal, parler de dette cachée est un non-sens »](https://www.jeuneafrique.com/1727035/politique/macky-sall-au-senegal-parler-de-dette-cachee-est-un-non-sens/)
 - [Présidentielle en Côte d’Ivoire : un dispositif sécuritaire XXL pour conjurer les menaces](https://www.jeuneafrique.com/1726662/politique/presidentielle-en-cote-divoire-un-dispositif-securitaire-xxl-pour-conjurer-les-menaces/)
 - [10 choses à savoir sur Déthié Fall, l’allié récompensé par un « super ministère »](https://www.jeuneafrique.com/1726881/politique/10-choses-a-savoir-sur-dethie-fall-lallie-recompense-par-un-super-ministere/)
-- [BFA : l’introduction en bourse qui réveille la place financière de Luanda](https://www.jeuneafrique.com/1727455/economie-entreprises/bfa-lintroduction-en-bourse-qui-reveille-la-place-financiere-de-luanda/)
 - [Au Gabon, une pollution au pétrole frappe à nouveau le littoral](https://www.jeuneafrique.com/1727429/economie-entreprises/au-gabon-une-pollution-au-petrole-frappe-a-nouveau-le-littoral/)
+- [Coca-Cola, Nestlé, TotalEnergies… Les investissements verts des multinationales au banc d’essai](https://www.jeuneafrique.com/1719699/economie-entreprises/coca-cola-nestle-totalenergies-les-investissements-verts-des-multinationales-au-banc-dessai/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
