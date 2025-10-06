@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 11:03*
+*Generato: 06 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
-- [Hammamet accueille le congrès national de la Société Tunisienne de Gériatrie et de Gérontologie](https://lapresse.tn/2025/10/06/hammamet-accueille-le-congres-national-de-la-societe-tunisienne-de-geriatrie-et-de-gerontologie/)
-- [Les recettes touristiques et les transferts de la diaspora couvrent 102,9 % de la dette extérieure](https://lapresse.tn/2025/10/06/les-recettes-touristiques-et-les-transferts-de-la-diaspora-couvrent-1029-de-la-dette-exterieure/)
+- [Tourisme golfique : le TO finlandais OnGolf signe le retour de la Tunisie](https://lapresse.tn/2025/10/06/tourisme-golfique-le-to-finlandais-ongolf-signe-le-retour-de-la-tunisie/)
+- [Tourisme : la Tunisie reste dans le Top 3 des ventes en France](https://lapresse.tn/2025/10/06/tourisme-la-tunisie-reste-dans-le-top-3-des-ventes-en-france/)
+- [Garantie bancaire de 20 % : un bouclier contre les impayés dans la sous-traitance](https://lapresse.tn/2025/10/06/garantie-bancaire-de-20-un-bouclier-contre-les-impayes-dans-la-sous-traitance/)
 - [Flottille Soumoud : demain, rapatriement probable des derniers activistes tunisiens](https://lapresse.tn/2025/10/06/flottille-de-la-resilience-demain-rapatriement-probable-des-derniers-activistes-tunisiens/)
 - [Météo : baisse relative des températures et mer agitée au nord](https://lapresse.tn/2025/10/06/meteo-baisse-relative-des-temperatures-et-mer-agitee-au-nord/)
 - [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
-- [justice sociale : Saïed trace les fondements d’un État social irréversible](https://lapresse.tn/2025/10/05/justice-sociale-saied-trace-les-fondements-dun-etat-social-irreversible/)
+- [Hammamet accueille le congrès national de la Société Tunisienne de Gériatrie et de Gérontologie](https://lapresse.tn/2025/10/06/hammamet-accueille-le-congres-national-de-la-societe-tunisienne-de-geriatrie-et-de-gerontologie/)
 - [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
 - [Tunisie : Succès de deux opérations de greffe d’organes à Kairouan](https://lapresse.tn/2025/10/06/tunisie-succes-de-deux-operations-de-greffe-dorganes-a-kairouan/)
-- [Clôture du canal Medjerda : le ministère de l’Agriculture précise](https://lapresse.tn/2025/10/06/cloture-du-canal-medjerda-le-ministere-de-lagriculture-precise/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [Open Letter: Call for UN member states to uphold, preserve and strengthen international refugee, human rights and humanitarian treaties](https://www.icj.org/open-letter-call-for-un-member-states-to-uphold-preserve-and-strengthen-international-refugee-human-rights-and-humanitarian-treaties/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Oral Statement of the International Commission of Jurists (ICJ) On the Universal Periodic Review outcome for Lao PDR](https://www.icj.org/oral-statement-of-the-international-commission-of-jurists-icj-on-the-universal-periodic-review-outcome-for-lao-pdr/)
-- [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 - [Lesotho: ICJ initiates project to combat sexual and gender-based violence](https://www.icj.org/lesotho-icj-initiates-project-to-combat-sexual-and-gender-based-violence/)
 - [ICJ mourns the passing of ICJ Commissioner Justice Moses Hungwe Chinhengo](https://www.icj.org/icj-mourns-the-passing-of-icj-commissioner-justice-moses-hungwe-chinhengo/)
-- [HRC 60: Oral Statement on arbitrary detention and enforced disappearances in Egypt](https://www.icj.org/hrc-60-oral-statement-on-arbitrary-detention-and-enforced-disappearances-in-egypt/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
+- [Vote crucial à l’Unesco pour désigner son prochain chef](https://www.jeuneafrique.com/1728038/politique/vote-crucial-a-lunesco-pour-designer-son-prochain-chef/)
 - [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
 - [Présidentielle au Cameroun : rencontre avec cette diaspora qui a juré de faire tomber Paul Biya](https://www.jeuneafrique.com/1727626/politique/presidentielle-au-cameroun-rencontre-avec-cette-diaspora-qui-a-jure-de-faire-tomber-paul-biya/)
 - [Entre le Maroc et les pays du Golfe, une proximité régulièrement mise à l’épreuve](https://www.jeuneafrique.com/1725257/politique/entre-le-maroc-et-les-pays-du-golfe-une-proximite-regulierement-mise-a-lepreuve/)
 - [Présidentielle au Congo : Sassou Nguesso pas encore candidat, mais déjà en campagne](https://www.jeuneafrique.com/1721734/politique/presidentielle-au-congo-sassou-nguesso-pas-encore-candidat-mais-deja-en-campagne/)
 - [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
 - [Madagascar : manifestants pro-Rajoelina et Gen Z se font face à Antananarivo](https://www.jeuneafrique.com/1727988/politique/madagascar-manifestants-pro-rajoelina-et-gen-z-se-font-face-a-antananarivo/)
-- [Présidentielle en Centrafrique : Touadéra candidat et futur cavalier seul ?](https://www.jeuneafrique.com/1727846/politique/presidentielle-en-centrafrique-touadera-candidat-et-futur-cavalier-seul/)
 - [Nucléaire : face au Nigeria à l’ouest, le Kenya et l’Éthiopie ouvrent la voie à l’est](https://www.jeuneafrique.com/1727639/economie-entreprises/nucleaire-face-au-nigeria-a-louest-le-kenya-et-lethiopie-ouvrent-la-voie-a-lest/)
 - [Les biocarburants roulent-ils vraiment pour la transition énergétique africaine ?](https://www.jeuneafrique.com/1719831/economie-entreprises/les-biocarburants-roulent-ils-vraiment-pour-la-transition-energetique-africaine/)
 
