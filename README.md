@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Oct 2025, 21:04*
+*Generato: 06 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
@@ -52,7 +53,6 @@
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
 - [Indice des prix à la consommation, Juin 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juin-2025)
-- [Commerce Extérieur aux prix courants, Mai 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mai-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La Tunisie, l’exemple](https://lapresse.tn/2025/10/03/la-tunisie-lexemple/)
-- [Tunis-Ariana-Manouba : la rocade X20 sur le point d’entrer en service](https://lapresse.tn/2025/10/03/tunis-ariana-manouba-la-rocade-x20-sur-le-point-dentrer-en-service/)
-- [Tunisie : Les avoirs en devises reculent à 24,2 milliards de dinars, selon la Banque centrale](https://lapresse.tn/2025/10/03/tunisie-les-avoirs-en-devises-reculent-a-242-milliards-de-dinars-selon-la-banque-centrale/)
-- [Tunisie : un décret instaure une allocation familiale pour les enfants de 6 à 18 ans](https://lapresse.tn/2025/10/03/tunisie-un-decret-instaure-une-allocation-familiale-pour-les-enfants-de-6-a-18-ans/)
-- [Tunisie–Union Européenne : Le nouveau Pacte pour la Méditerranée et le partenariat tuniso-européen à l’ordre du jour](https://lapresse.tn/2025/10/03/tunisie-union-europeenne-le-nouveau-pacte-pour-la-mediterranee-et-le-partenariat-tuniso-europeen-a-lordre-du-jour/)
-- [Cinquième édition des RDV de l’emploi : Affluence remarquable des jeunes candidats](https://lapresse.tn/2025/10/03/cinquieme-edition-des-rdv-de-lemploi-affluence-remarquable-des-jeunes-candidats/)
-- [Flottille Soumoud : aucun Tunisien n’a signé la demande de départ immédiat](https://lapresse.tn/2025/10/03/flottille-soumoud-aucun-tunisien-na-signe-la-demande-de-depart-immediat/)
-- [La SNCFT annonce la modification des horaires sur la ligne Sousse–Monastir–Mahdia](https://lapresse.tn/2025/10/03/la-sncft-annonce-la-modification-des-horaires-sur-la-ligne-sousse-monastir-mahdia/)
-- [Fruits : La consommation en baisse !](https://lapresse.tn/2025/10/03/fruits-la-consommation-en-baisse/)
-- [Logement en Tunisie : la facture s’alourdit pour les acheteurs](https://lapresse.tn/2025/10/03/logement-en-tunisie-la-facture-salourdit-pour-les-acheteurs/)
+- [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
+- [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
+- [Immobilier : un Ordre professionnel en préparation pour encadrer le métier en Tunisie](https://lapresse.tn/2025/10/05/immobilier-un-ordre-professionnel-en-preparation-pour-encadrer-le-metier-en-tunisie/)
+- [Aviron : la Tunisie décroche 20 médailles à la Régate Internationale du Lac de Tunis](https://lapresse.tn/2025/10/05/aviron-la-tunisie-decroche-20-medailles-a-la-regate-internationale-du-lac-de-tunis/)
+- [justice sociale : Saïed trace les fondements d’un État social irréversible](https://lapresse.tn/2025/10/05/justice-sociale-saied-trace-les-fondements-dun-etat-social-irreversible/)
+- [En photos : Arrivée à Tunis-Carthage du premier groupe de militants tunisiens de la Flottille Soumoud](https://lapresse.tn/2025/10/05/en-photos-arrivee-a-tunis-carthage-du-premier-groupe-de-militants-tunisiens-de-la-flottille-soumoud/)
+- [Tribune : Une seule Chine: la Résolution 2758 ne saurait être ni déformée ni contestée](https://lapresse.tn/2025/10/05/tribune-une-seule-chine-la-resolution-2758-ne-saurait-etre-ni-deformee-ni-contestee/)
+- [Tunisie–Oman : coopération renforcée autour du concept « Une seule santé »](https://lapresse.tn/2025/10/05/tunisie-oman-cooperation-renforcee-autour-du-concept-une-seule-sante/)
+- [Gafsa : Des ralentisseurs hors normes, les automobilistes au bord de l’exaspération](https://lapresse.tn/2025/10/05/gafsa-des-ralentisseurs-hors-normes-les-automobilistes-au-bord-de-lexasperation/)
+- [Lutte contre la rage : La vaccination ne suffit pas à elle seule !](https://lapresse.tn/2025/10/05/lutte-contre-la-rage-la-vaccination-ne-suffit-pas-a-elle-seule/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Madagascar : Andry Rajoelina dénonce une tentative de « coup d’État »](https://www.jeuneafrique.com/1727665/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-coup-detat/)
-- [Manifestations au Maroc : le gouvernement propose le dialogue, GenZ212 appelle à sa « dissolution »](https://www.jeuneafrique.com/1727420/politique/manifestations-au-maroc-le-gouvernement-propose-le-dialogue-genz212-appelle-a-sa-dissolution/)
-- [En Algérie, Abdelmadjid Tebboune et son Premier ministre en pleine lune de miel](https://www.jeuneafrique.com/1726304/politique/en-algerie-abdelmadjid-tebboune-et-son-premier-ministre-en-pleine-lune-de-miel/)
-- [Gen Z Madagascar : pourquoi Andry Rajoelina est sur un siège éjectable](https://www.jeuneafrique.com/1727106/politique/gen-z-madagascar-pourquoi-andry-rajoelina-est-sur-un-siege-ejectable/)
-- [« On a eu envie de vomir » : après la condamnation à mort de Joseph Kabila en RDC, son camp appelle à résister](https://www.jeuneafrique.com/1727180/politique/on-a-eu-envie-de-vomir-apres-la-condamnation-a-mort-de-joseph-kabila-en-rdc-son-camp-appelle-a-resister/)
-- [Manifestations interdites en Côte d’Ivoire : tout comprendre au bras de fer entre les autorités et l’opposition](https://www.jeuneafrique.com/1727242/politique/manifestations-interdites-en-cote-divoire-tout-comprendre-au-bras-de-fer-entre-les-autorites-et-lopposition/)
-- [Présidentielle au Cameroun : comment Paul Biya et ses rivaux veulent conquérir le web](https://www.jeuneafrique.com/1726855/politique/presidentielle-au-cameroun-comment-paul-biya-et-ses-rivaux-veulent-conquerir-le-web/)
-- [Secrétariat général de l’ONU : Embaló fait campagne pour Macky Sall](https://www.jeuneafrique.com/1727253/politique/secretariat-general-de-lonu-embalo-fait-campagne-pour-macky-sall/)
+- [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
+- [Madagascar : manifestants pro-Rajoelina et Gen Z se font face à Antananarivo](https://www.jeuneafrique.com/1727988/politique/madagascar-manifestants-pro-rajoelina-et-gen-z-se-font-face-a-antananarivo/)
+- [Tunisie : l’ancien Premier ministre Hichem Mechichi raconte enfin « son » 25 juillet 2021](https://www.jeuneafrique.com/1727434/politique/tunisie-lancien-premier-ministre-hichem-mechichi-raconte-enfin-son-25-juillet-2021/)
+- [Au Tchad, le septennat renouvelable sans limite a été adopté par le Parlement](https://www.jeuneafrique.com/1727981/politique/au-tchad-le-septennat-renouvelable-sans-limite-a-ete-adopte-par-le-parlement/)
+- [Présidentielle au Cameroun : Issa Tchiroma Bakary rassemble ses sympathisants lors d’un meeting à Yaoundé](https://www.jeuneafrique.com/1727977/politique/presidentielle-au-cameroun-le-meeting-dissa-tchiroma-bakary-rassemble-des-centaines-de-sympathisants/)
+- [Au Cameroun, Nyemb Popoli, le caricaturiste qui fait rire ses lecteurs… un peu moins Paul Biya](https://www.jeuneafrique.com/1721592/politique/au-cameroun-nyemb-popoli-le-caricaturiste-qui-fait-rire-ses-lecteurs-un-peu-moins-paul-biya/)
+- [« Nous vivons dans la faim » : au Niger, la pire crise économique depuis une génération](https://www.jeuneafrique.com/1726787/politique/nous-vivons-dans-la-faim-au-niger-la-pire-crise-economique-depuis-une-generation/)
+- [Le mouvement GenZ, Mamadi Doumbouya, Ibrahim Traoré… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1727239/politique/le-mouvement-genz-mamadi-doumbouya-ibrahim-traore-les-5-infos-incontournables-de-la-semaine/)
 - [BFA : l’introduction en bourse qui réveille la place financière de Luanda](https://www.jeuneafrique.com/1727455/economie-entreprises/bfa-lintroduction-en-bourse-qui-reveille-la-place-financiere-de-luanda/)
 - [Bakary Séga Bathily : « Le souverainisme à la sénégalaise, ce n’est pas du nationalisme »](https://www.jeuneafrique.com/1726507/economie-entreprises/bakary-sega-bathily-le-souverainisme-a-la-senegalaise-ce-nest-pas-du-nationalisme/)
 
