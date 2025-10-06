@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 06:15*
+*Generato: 06 Oct 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
 - [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
 - [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
@@ -91,12 +92,11 @@
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 - [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
-- [Parliament inaugurates permanent presence in Kyiv](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30430/parliament-inaugurates-permanent-presence-in-kyiv)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
+- [Indonésie: l’effondrement d’une école fait 54 morts](https://lapresse.tn/2025/10/06/indonesie-leffondrement-dune-ecole-fait-54-morts/)
+- [Industrie des composants aéronautiques: 80 entreprises pourvoyeuses de 20 000 emplois](https://lapresse.tn/2025/10/06/industrie-des-composants-aeronautiques-80-entreprises-pourvoyeuses-de-20-000-emplois/)
+- [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
 - [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
-- [Immobilier : un Ordre professionnel en préparation pour encadrer le métier en Tunisie](https://lapresse.tn/2025/10/05/immobilier-un-ordre-professionnel-en-preparation-pour-encadrer-le-metier-en-tunisie/)
-- [Aviron : la Tunisie décroche 20 médailles à la Régate Internationale du Lac de Tunis](https://lapresse.tn/2025/10/05/aviron-la-tunisie-decroche-20-medailles-a-la-regate-internationale-du-lac-de-tunis/)
 - [justice sociale : Saïed trace les fondements d’un État social irréversible](https://lapresse.tn/2025/10/05/justice-sociale-saied-trace-les-fondements-dun-etat-social-irreversible/)
 - [En photos : Arrivée à Tunis-Carthage du premier groupe de militants tunisiens de la Flottille Soumoud](https://lapresse.tn/2025/10/05/en-photos-arrivee-a-tunis-carthage-du-premier-groupe-de-militants-tunisiens-de-la-flottille-soumoud/)
-- [Tribune : Une seule Chine: la Résolution 2758 ne saurait être ni déformée ni contestée](https://lapresse.tn/2025/10/05/tribune-une-seule-chine-la-resolution-2758-ne-saurait-etre-ni-deformee-ni-contestee/)
-- [Tunisie–Oman : coopération renforcée autour du concept « Une seule santé »](https://lapresse.tn/2025/10/05/tunisie-oman-cooperation-renforcee-autour-du-concept-une-seule-sante/)
-- [Gafsa : Des ralentisseurs hors normes, les automobilistes au bord de l’exaspération](https://lapresse.tn/2025/10/05/gafsa-des-ralentisseurs-hors-normes-les-automobilistes-au-bord-de-lexasperation/)
-- [Lutte contre la rage : La vaccination ne suffit pas à elle seule !](https://lapresse.tn/2025/10/05/lutte-contre-la-rage-la-vaccination-ne-suffit-pas-a-elle-seule/)
+- [Tunisie : Succès de deux opérations de greffe d’organes à Kairouan](https://lapresse.tn/2025/10/06/tunisie-succes-de-deux-operations-de-greffe-dorganes-a-kairouan/)
+- [Clôture du canal Medjerda : le ministère de l’Agriculture précise](https://lapresse.tn/2025/10/06/cloture-du-canal-medjerda-le-ministere-de-lagriculture-precise/)
+- [Immobilier : un Ordre professionnel en préparation pour encadrer le métier en Tunisie](https://lapresse.tn/2025/10/05/immobilier-un-ordre-professionnel-en-preparation-pour-encadrer-le-metier-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
+- [Entre le Maroc et les pays du Golfe, une proximité régulièrement mise à l’épreuve](https://www.jeuneafrique.com/1725257/politique/entre-le-maroc-et-les-pays-du-golfe-une-proximite-regulierement-mise-a-lepreuve/)
+- [Présidentielle au Congo : Sassou Nguesso pas encore candidat, mais déjà en campagne](https://www.jeuneafrique.com/1721734/politique/presidentielle-au-congo-sassou-nguesso-pas-encore-candidat-mais-deja-en-campagne/)
 - [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
 - [Madagascar : manifestants pro-Rajoelina et Gen Z se font face à Antananarivo](https://www.jeuneafrique.com/1727988/politique/madagascar-manifestants-pro-rajoelina-et-gen-z-se-font-face-a-antananarivo/)
+- [Présidentielle en Centrafrique : Touadéra candidat et futur cavalier seul ?](https://www.jeuneafrique.com/1727846/politique/presidentielle-en-centrafrique-touadera-candidat-et-futur-cavalier-seul/)
 - [Tunisie : l’ancien Premier ministre Hichem Mechichi raconte enfin « son » 25 juillet 2021](https://www.jeuneafrique.com/1727434/politique/tunisie-lancien-premier-ministre-hichem-mechichi-raconte-enfin-son-25-juillet-2021/)
 - [Au Tchad, le septennat renouvelable sans limite a été adopté par le Parlement](https://www.jeuneafrique.com/1727981/politique/au-tchad-le-septennat-renouvelable-sans-limite-a-ete-adopte-par-le-parlement/)
-- [Présidentielle au Cameroun : Issa Tchiroma Bakary rassemble ses sympathisants lors d’un meeting à Yaoundé](https://www.jeuneafrique.com/1727977/politique/presidentielle-au-cameroun-le-meeting-dissa-tchiroma-bakary-rassemble-des-centaines-de-sympathisants/)
-- [Au Cameroun, Nyemb Popoli, le caricaturiste qui fait rire ses lecteurs… un peu moins Paul Biya](https://www.jeuneafrique.com/1721592/politique/au-cameroun-nyemb-popoli-le-caricaturiste-qui-fait-rire-ses-lecteurs-un-peu-moins-paul-biya/)
-- [« Nous vivons dans la faim » : au Niger, la pire crise économique depuis une génération](https://www.jeuneafrique.com/1726787/politique/nous-vivons-dans-la-faim-au-niger-la-pire-crise-economique-depuis-une-generation/)
-- [Le mouvement GenZ, Mamadi Doumbouya, Ibrahim Traoré… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1727239/politique/le-mouvement-genz-mamadi-doumbouya-ibrahim-traore-les-5-infos-incontournables-de-la-semaine/)
-- [BFA : l’introduction en bourse qui réveille la place financière de Luanda](https://www.jeuneafrique.com/1727455/economie-entreprises/bfa-lintroduction-en-bourse-qui-reveille-la-place-financiere-de-luanda/)
-- [Bakary Séga Bathily : « Le souverainisme à la sénégalaise, ce n’est pas du nationalisme »](https://www.jeuneafrique.com/1726507/economie-entreprises/bakary-sega-bathily-le-souverainisme-a-la-senegalaise-ce-nest-pas-du-nationalisme/)
+- [Nucléaire : face au Nigeria à l’ouest, le Kenya et l’Éthiopie ouvrent la voie à l’est](https://www.jeuneafrique.com/1727639/economie-entreprises/nucleaire-face-au-nigeria-a-louest-le-kenya-et-lethiopie-ouvrent-la-voie-a-lest/)
+- [Les biocarburants roulent-ils vraiment pour la transition énergétique africaine ?](https://www.jeuneafrique.com/1719831/economie-entreprises/les-biocarburants-roulent-ils-vraiment-pour-la-transition-energetique-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
