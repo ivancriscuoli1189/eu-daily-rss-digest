@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 09:14*
+*Generato: 06 Oct 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
-- [Indonésie: l’effondrement d’une école fait 54 morts](https://lapresse.tn/2025/10/06/indonesie-leffondrement-dune-ecole-fait-54-morts/)
-- [Industrie des composants aéronautiques: 80 entreprises pourvoyeuses de 20 000 emplois](https://lapresse.tn/2025/10/06/industrie-des-composants-aeronautiques-80-entreprises-pourvoyeuses-de-20-000-emplois/)
-- [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
+- [Hammamet accueille le congrès national de la Société Tunisienne de Gériatrie et de Gérontologie](https://lapresse.tn/2025/10/06/hammamet-accueille-le-congres-national-de-la-societe-tunisienne-de-geriatrie-et-de-gerontologie/)
+- [Les recettes touristiques et les transferts de la diaspora couvrent 102,9 % de la dette extérieure](https://lapresse.tn/2025/10/06/les-recettes-touristiques-et-les-transferts-de-la-diaspora-couvrent-1029-de-la-dette-exterieure/)
+- [Flottille Soumoud : demain, rapatriement probable des derniers activistes tunisiens](https://lapresse.tn/2025/10/06/flottille-de-la-resilience-demain-rapatriement-probable-des-derniers-activistes-tunisiens/)
+- [Météo : baisse relative des températures et mer agitée au nord](https://lapresse.tn/2025/10/06/meteo-baisse-relative-des-temperatures-et-mer-agitee-au-nord/)
 - [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
 - [justice sociale : Saïed trace les fondements d’un État social irréversible](https://lapresse.tn/2025/10/05/justice-sociale-saied-trace-les-fondements-dun-etat-social-irreversible/)
-- [En photos : Arrivée à Tunis-Carthage du premier groupe de militants tunisiens de la Flottille Soumoud](https://lapresse.tn/2025/10/05/en-photos-arrivee-a-tunis-carthage-du-premier-groupe-de-militants-tunisiens-de-la-flottille-soumoud/)
+- [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
 - [Tunisie : Succès de deux opérations de greffe d’organes à Kairouan](https://lapresse.tn/2025/10/06/tunisie-succes-de-deux-operations-de-greffe-dorganes-a-kairouan/)
 - [Clôture du canal Medjerda : le ministère de l’Agriculture précise](https://lapresse.tn/2025/10/06/cloture-du-canal-medjerda-le-ministere-de-lagriculture-precise/)
-- [Immobilier : un Ordre professionnel en préparation pour encadrer le métier en Tunisie](https://lapresse.tn/2025/10/05/immobilier-un-ordre-professionnel-en-preparation-pour-encadrer-le-metier-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
+- [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
+- [Présidentielle au Cameroun : rencontre avec cette diaspora qui a juré de faire tomber Paul Biya](https://www.jeuneafrique.com/1727626/politique/presidentielle-au-cameroun-rencontre-avec-cette-diaspora-qui-a-jure-de-faire-tomber-paul-biya/)
 - [Entre le Maroc et les pays du Golfe, une proximité régulièrement mise à l’épreuve](https://www.jeuneafrique.com/1725257/politique/entre-le-maroc-et-les-pays-du-golfe-une-proximite-regulierement-mise-a-lepreuve/)
 - [Présidentielle au Congo : Sassou Nguesso pas encore candidat, mais déjà en campagne](https://www.jeuneafrique.com/1721734/politique/presidentielle-au-congo-sassou-nguesso-pas-encore-candidat-mais-deja-en-campagne/)
 - [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
 - [Madagascar : manifestants pro-Rajoelina et Gen Z se font face à Antananarivo](https://www.jeuneafrique.com/1727988/politique/madagascar-manifestants-pro-rajoelina-et-gen-z-se-font-face-a-antananarivo/)
 - [Présidentielle en Centrafrique : Touadéra candidat et futur cavalier seul ?](https://www.jeuneafrique.com/1727846/politique/presidentielle-en-centrafrique-touadera-candidat-et-futur-cavalier-seul/)
-- [Tunisie : l’ancien Premier ministre Hichem Mechichi raconte enfin « son » 25 juillet 2021](https://www.jeuneafrique.com/1727434/politique/tunisie-lancien-premier-ministre-hichem-mechichi-raconte-enfin-son-25-juillet-2021/)
-- [Au Tchad, le septennat renouvelable sans limite a été adopté par le Parlement](https://www.jeuneafrique.com/1727981/politique/au-tchad-le-septennat-renouvelable-sans-limite-a-ete-adopte-par-le-parlement/)
 - [Nucléaire : face au Nigeria à l’ouest, le Kenya et l’Éthiopie ouvrent la voie à l’est](https://www.jeuneafrique.com/1727639/economie-entreprises/nucleaire-face-au-nigeria-a-louest-le-kenya-et-lethiopie-ouvrent-la-voie-a-lest/)
 - [Les biocarburants roulent-ils vraiment pour la transition énergétique africaine ?](https://www.jeuneafrique.com/1719831/economie-entreprises/les-biocarburants-roulent-ils-vraiment-pour-la-transition-energetique-africaine/)
 
