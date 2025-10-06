@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 15:03*
+*Generato: 06 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Roberta Metsola: “Words and ideas, not weapons, and not hate, must shape our dialogue”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30658/metsola-words-and-ideas-not-weapons-and-not-hate-must-shape-our-dialogue)
 - [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
-- [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
-- [Gabès : « Stop à la pollution» réclame l’assainissement des zones touchées par la pollution industrielle](https://lapresse.tn/2025/10/06/gabes-stop-a-la-pollution-reclame-lassainissement-des-zones-touchees-par-la-pollution-industrielle/)
-- [Jendouba Sport limoge son staff technique](https://lapresse.tn/2025/10/06/jendouba-sport-limoge-son-staff-technique/)
-- [Reconnaissance de la Palestine : Demain, Journées portes ouvertes à la Radio Tunisienne](https://lapresse.tn/2025/10/06/reconnaissance-de-la-palestine-demain-journees-portes-ouvertes-a-la-radio-tunisienne/)
-- [Une étrangère condamnée à 20 ans de prison pour trafic de drogue à Tunis](https://lapresse.tn/2025/10/06/une-etrangere-condamnee-a-20-ans-de-prison-pour-trafic-de-drogue-a-tunis/)
-- [Flottille Soumoud : demain, rapatriement probable des derniers activistes tunisiens](https://lapresse.tn/2025/10/06/flottille-de-la-resilience-demain-rapatriement-probable-des-derniers-activistes-tunisiens/)
-- [Météo : baisse relative des températures et mer agitée au nord](https://lapresse.tn/2025/10/06/meteo-baisse-relative-des-temperatures-et-mer-agitee-au-nord/)
-- [Vents violents et mer très agitée : possibles perturbations des horaires du bac de Kerkennah aujourd’hui et demain](https://lapresse.tn/2025/10/06/vents-violents-et-mer-tres-agitee-possibles-perturbations-des-horaires-du-bac-de-kerkennah-aujourdhui-et-demain/)
-- [Kasserine : Campagne de sensibilisation et de prévention à l’addiction aux écrans chez les enfants](https://lapresse.tn/2025/10/06/kasserine-campagne-de-sensibilisation-et-de-prevention-a-laddiction-aux-ecrans-chez-les-enfants/)
-- [Thon rouge : le ministère de l’Agriculture diligente une enquête](https://lapresse.tn/2025/10/06/thon-rouge-le-ministere-de-lagriculture-diligente-une-enquete/)
+- [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
+- [Théâtre : «Les Fugueuses» de Wafa Taboubi : Sur la route, les voix de la liberté](https://lapresse.tn/2025/10/06/theatre-les-fugueuses-de-wafa-taboubi-sur-la-route-les-voix-de-la-liberte/)
+- [Relations bilatérales : La Tunisie et l’Argentine préparent la Commission Mixte 2026](https://lapresse.tn/2025/10/06/relations-bilaterales-la-tunisie-et-largentine-preparent-la-commission-mixte-2026/)
+- [hommage posthume : Pas de deuil pour Hassouna !](https://lapresse.tn/2025/10/06/hommage-posthume-pas-de-deuil-pour-hassouna/)
+- [Le géant japonais NTN Corporation choisit la Tunisie pour son premier projet africain dans l’industrie automobile](https://lapresse.tn/2025/10/06/le-geant-japonais-ntn-corporation-choisit-la-tunisie-pour-son-premier-projet-africain-dans-lindustrie-automobile/)
+- [Nouveau décret-loi sur les sociétés communautaires : Détermination sans faille de Saïed à réussir son projet de société pour les Tunisiens](https://lapresse.tn/2025/10/06/nouveau-decret-loi-sur-les-societes-communautaires-determination-sans-faille-de-saied-a-reussir-son-projet-de-societe-pour-les-tunisiens/)
+- [Médecine de famille : Un corps médical de première ligne](https://lapresse.tn/2025/10/06/medecine-de-famille-un-corps-medical-de-premiere-ligne/)
+- [Classement des passeports : où en est la Tunisie en 2025 ?](https://lapresse.tn/2025/10/06/classement-des-passeports-ou-en-est-la-tunisie-en-2025/)
+- [Offre de transport : La modernisation de la Transtu se poursuit](https://lapresse.tn/2025/10/06/offre-de-transport-la-modernisation-de-la-transtu-se-poursuit/)
+- [Frank Legault (Team organisation des défis du chott) : La destination Tunisie pourrait encore séduire](https://lapresse.tn/2025/10/06/frank-legault-team-organisation-des-defis-du-chott-la-destination-tunisie-pourrait-encore-seduire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,13 +267,13 @@
 - [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
 - [Vote crucial à l’Unesco pour désigner son prochain chef](https://www.jeuneafrique.com/1728038/politique/vote-crucial-a-lunesco-pour-designer-son-prochain-chef/)
+- [Au Maroc, la Palestine attire plus de manifestants que GenZ212](https://www.jeuneafrique.com/1728016/politique/au-maroc-la-palestine-attire-plus-de-manifestants-que-genz212/)
 - [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
+- [Au Togo, pourquoi Faure Gnassingbé tarde à nommer un nouveau gouvernement](https://www.jeuneafrique.com/1727100/politique/au-togo-pourquoi-faure-gnassingbe-tarde-a-nommer-un-nouveau-gouvernement/)
 - [Présidentielle au Cameroun : rencontre avec cette diaspora qui a juré de faire tomber Paul Biya](https://www.jeuneafrique.com/1727626/politique/presidentielle-au-cameroun-rencontre-avec-cette-diaspora-qui-a-jure-de-faire-tomber-paul-biya/)
-- [Entre le Maroc et les pays du Golfe, une proximité régulièrement mise à l’épreuve](https://www.jeuneafrique.com/1725257/politique/entre-le-maroc-et-les-pays-du-golfe-une-proximite-regulierement-mise-a-lepreuve/)
-- [Présidentielle au Congo : Sassou Nguesso pas encore candidat, mais déjà en campagne](https://www.jeuneafrique.com/1721734/politique/presidentielle-au-congo-sassou-nguesso-pas-encore-candidat-mais-deja-en-campagne/)
-- [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
-- [Maroc : Saham Bank s’invite à la table d’Attijariwafa, BCP et Bank of Africa](https://www.jeuneafrique.com/1728149/economie-entreprises/maroc-saham-bank-sinvite-a-la-table-dattijariwafa-bcp-et-bank-of-africa/)
-- [Nucléaire : face au Nigeria à l’ouest, le Kenya et l’Éthiopie ouvrent la voie à l’est](https://www.jeuneafrique.com/1727639/economie-entreprises/nucleaire-face-au-nigeria-a-louest-le-kenya-et-lethiopie-ouvrent-la-voie-a-lest/)
+- [Côte d’Ivoire : des palais africains au Kremlin, les mille réseaux du candidat souverainiste Ahoua Don Mello](https://www.jeuneafrique.com/1727427/politique/des-palais-africains-au-kremlin-les-mille-reseaux-du-candidat-souverainiste-ahoua-don-mello/)
+- [« Le capitaine Traoré a dit » : le petit livre blanc du timonier burkinabè](https://www.jeuneafrique.com/1728172/economie-entreprises/le-capitaine-traore-a-dit-le-petit-livre-blanc-du-timonier-burkinabe/)
+- [Du cobalt au lithium, la Chine prend racine au Maroc… et Paris s’en méfie](https://www.jeuneafrique.com/1727834/economie-entreprises/du-cobalt-au-lithium-la-chine-prend-racine-au-maroc-et-paris-sen-mefie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
