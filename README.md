@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 13:29*
+*Generato: 06 Oct 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
 - [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
@@ -91,7 +92,6 @@
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
-- [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
-- [Oléiculture : une récolte record permettra de cibler des marchés prometteurs en Afrique et en Asie](https://lapresse.tn/2025/10/06/oleiculture-une-recolte-record-permettra-de-cibler-des-marches-prometteurs-en-afrique-et-en-asie/)
-- [Kasserine : Campagne de sensibilisation et de prévention à l’addiction aux écrans chez les enfants](https://lapresse.tn/2025/10/06/kasserine-campagne-de-sensibilisation-et-de-prevention-a-laddiction-aux-ecrans-chez-les-enfants/)
-- [Thon rouge : le ministère de l’Agriculture diligente une enquête](https://lapresse.tn/2025/10/06/thon-rouge-le-ministere-de-lagriculture-diligente-une-enquete/)
+- [Gabès : « Stop à la pollution» réclame l’assainissement des zones touchées par la pollution industrielle](https://lapresse.tn/2025/10/06/gabes-stop-a-la-pollution-reclame-lassainissement-des-zones-touchees-par-la-pollution-industrielle/)
+- [Jendouba Sport limoge son staff technique](https://lapresse.tn/2025/10/06/jendouba-sport-limoge-son-staff-technique/)
+- [Reconnaissance de la Palestine : Demain, Journées portes ouvertes à la Radio Tunisienne](https://lapresse.tn/2025/10/06/reconnaissance-de-la-palestine-demain-journees-portes-ouvertes-a-la-radio-tunisienne/)
+- [Une étrangère condamnée à 20 ans de prison pour trafic de drogue à Tunis](https://lapresse.tn/2025/10/06/une-etrangere-condamnee-a-20-ans-de-prison-pour-trafic-de-drogue-a-tunis/)
 - [Flottille Soumoud : demain, rapatriement probable des derniers activistes tunisiens](https://lapresse.tn/2025/10/06/flottille-de-la-resilience-demain-rapatriement-probable-des-derniers-activistes-tunisiens/)
 - [Météo : baisse relative des températures et mer agitée au nord](https://lapresse.tn/2025/10/06/meteo-baisse-relative-des-temperatures-et-mer-agitee-au-nord/)
-- [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
-- [Hammamet accueille le congrès national de la Société Tunisienne de Gériatrie et de Gérontologie](https://lapresse.tn/2025/10/06/hammamet-accueille-le-congres-national-de-la-societe-tunisienne-de-geriatrie-et-de-gerontologie/)
-- [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
-- [Tourisme golfique : le TO finlandais OnGolf signe le retour de la Tunisie](https://lapresse.tn/2025/10/06/tourisme-golfique-le-to-finlandais-ongolf-signe-le-retour-de-la-tunisie/)
+- [Vents violents et mer très agitée : possibles perturbations des horaires du bac de Kerkennah aujourd’hui et demain](https://lapresse.tn/2025/10/06/vents-violents-et-mer-tres-agitee-possibles-perturbations-des-horaires-du-bac-de-kerkennah-aujourdhui-et-demain/)
+- [Kasserine : Campagne de sensibilisation et de prévention à l’addiction aux écrans chez les enfants](https://lapresse.tn/2025/10/06/kasserine-campagne-de-sensibilisation-et-de-prevention-a-laddiction-aux-ecrans-chez-les-enfants/)
+- [Thon rouge : le ministère de l’Agriculture diligente une enquête](https://lapresse.tn/2025/10/06/thon-rouge-le-ministere-de-lagriculture-diligente-une-enquete/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,8 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
+- [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
 - [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
@@ -233,8 +235,6 @@
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 - [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
-- [Crisis and control in Gaza and the West Bank](https://ecfr.eu/podcasts/episode/crisis-and-control-in-gaza-and-the-west-bank/)
-- [In the crossfire: How the Gulf can support de-escalation between Iran and Israel](https://ecfr.eu/article/in-the-crossfire-how-the-gulf-states-can-steer-dialogue-between-iran-and-israel/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
 - [Vote crucial à l’Unesco pour désigner son prochain chef](https://www.jeuneafrique.com/1728038/politique/vote-crucial-a-lunesco-pour-designer-son-prochain-chef/)
 - [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
@@ -271,9 +272,8 @@
 - [Entre le Maroc et les pays du Golfe, une proximité régulièrement mise à l’épreuve](https://www.jeuneafrique.com/1725257/politique/entre-le-maroc-et-les-pays-du-golfe-une-proximite-regulierement-mise-a-lepreuve/)
 - [Présidentielle au Congo : Sassou Nguesso pas encore candidat, mais déjà en campagne](https://www.jeuneafrique.com/1721734/politique/presidentielle-au-congo-sassou-nguesso-pas-encore-candidat-mais-deja-en-campagne/)
 - [Présidentielle au Bénin : Romuald Wadagni investi candidat de la majorité](https://www.jeuneafrique.com/1727993/politique/presidentielle-au-benin-romuald-wadagni-investi-candidat-de-la-majorite/)
-- [Madagascar : manifestants pro-Rajoelina et Gen Z se font face à Antananarivo](https://www.jeuneafrique.com/1727988/politique/madagascar-manifestants-pro-rajoelina-et-gen-z-se-font-face-a-antananarivo/)
+- [Maroc : Saham Bank s’invite à la table d’Attijariwafa, BCP et Bank of Africa](https://www.jeuneafrique.com/1728149/economie-entreprises/maroc-saham-bank-sinvite-a-la-table-dattijariwafa-bcp-et-bank-of-africa/)
 - [Nucléaire : face au Nigeria à l’ouest, le Kenya et l’Éthiopie ouvrent la voie à l’est](https://www.jeuneafrique.com/1727639/economie-entreprises/nucleaire-face-au-nigeria-a-louest-le-kenya-et-lethiopie-ouvrent-la-voie-a-lest/)
-- [Les biocarburants roulent-ils vraiment pour la transition énergétique africaine ?](https://www.jeuneafrique.com/1719831/economie-entreprises/les-biocarburants-roulent-ils-vraiment-pour-la-transition-energetique-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
