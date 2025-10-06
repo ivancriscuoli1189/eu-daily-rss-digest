@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 18:14*
+*Generato: 06 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [COP30: MEPs want EU climate policy to maintain a high degree of ambition](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30716/cop30-meps-want-eu-climate-policy-to-maintain-a-high-degree-of-ambition)
 - [Roberta Metsola: “Words and ideas, not weapons, and not hate, must shape our dialogue”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30658/metsola-words-and-ideas-not-weapons-and-not-hate-must-shape-our-dialogue)
 - [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
@@ -91,7 +92,6 @@
 - [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
 - [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
-- [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
-- [Théâtre : «Les Fugueuses» de Wafa Taboubi : Sur la route, les voix de la liberté](https://lapresse.tn/2025/10/06/theatre-les-fugueuses-de-wafa-taboubi-sur-la-route-les-voix-de-la-liberte/)
+- [Tunisie-Égypte : Kaïs Saïed félicite Abdel Fattah al-Sissi à l’occasion du 52ᵉ anniversaire de la guerre d’Octobre](https://lapresse.tn/2025/10/06/tunisie-egypte-kais-saied-felicite-abdel-fattah-al-sissi-a-loccasion-du-52%e1%b5%89-anniversaire-de-la-guerre-doctobre/)
+- [Le ST avance en mode rouleau compresseur : Irrésistibles Stadistes !](https://lapresse.tn/2025/10/06/le-st-avance-en-mode-rouleau-compresseur-irresistibles-stadistes/)
+- [Le CAB ramène un point contre : l’ASS Mieux que rien !](https://lapresse.tn/2025/10/06/le-cab-ramene-un-point-contre-lass-mieux-que-rien/)
 - [Relations bilatérales : La Tunisie et l’Argentine préparent la Commission Mixte 2026](https://lapresse.tn/2025/10/06/relations-bilaterales-la-tunisie-et-largentine-preparent-la-commission-mixte-2026/)
-- [hommage posthume : Pas de deuil pour Hassouna !](https://lapresse.tn/2025/10/06/hommage-posthume-pas-de-deuil-pour-hassouna/)
 - [Le géant japonais NTN Corporation choisit la Tunisie pour son premier projet africain dans l’industrie automobile](https://lapresse.tn/2025/10/06/le-geant-japonais-ntn-corporation-choisit-la-tunisie-pour-son-premier-projet-africain-dans-lindustrie-automobile/)
 - [Nouveau décret-loi sur les sociétés communautaires : Détermination sans faille de Saïed à réussir son projet de société pour les Tunisiens](https://lapresse.tn/2025/10/06/nouveau-decret-loi-sur-les-societes-communautaires-determination-sans-faille-de-saied-a-reussir-son-projet-de-societe-pour-les-tunisiens/)
-- [Médecine de famille : Un corps médical de première ligne](https://lapresse.tn/2025/10/06/medecine-de-famille-un-corps-medical-de-premiere-ligne/)
+- [Retour du Trésor de Zama de Rome à la Tunisie](https://lapresse.tn/2025/10/06/retour-du-tresor-de-zama-de-rome-a-la-tunisie/)
 - [Classement des passeports : où en est la Tunisie en 2025 ?](https://lapresse.tn/2025/10/06/classement-des-passeports-ou-en-est-la-tunisie-en-2025/)
 - [Offre de transport : La modernisation de la Transtu se poursuit](https://lapresse.tn/2025/10/06/offre-de-transport-la-modernisation-de-la-transtu-se-poursuit/)
-- [Frank Legault (Team organisation des défis du chott) : La destination Tunisie pourrait encore séduire](https://lapresse.tn/2025/10/06/frank-legault-team-organisation-des-defis-du-chott-la-destination-tunisie-pourrait-encore-seduire/)
 
 ## NGOs – Amnesty International – Tunisia
 
