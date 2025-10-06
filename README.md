@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 12:19*
+*Generato: 06 Oct 2025, 13:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
 - [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
@@ -91,12 +92,11 @@
 - [MEPs back measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30501/meps-back-measures-to-boost-eu-support-for-security-and-defence-investments)
 - [MEPs seek to improve trainees’ working conditions across the EU](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30500/meps-seek-to-improve-trainees-working-conditions-across-the-eu)
 - [2025 Sakharov Prize: presentation of nominees on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20250918IPR30456/2025-sakharov-prize-presentation-of-nominees-on-tuesday)
-- [President Metsola in Kyiv reaffirms European Parliament’s continued support to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20250917IPR30445/president-metsola-in-kyiv-reaffirms-parliament-s-continued-support-to-ukraine)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le textile-habillement se maintient malgré la conjoncture et la concurrence](https://lapresse.tn/2025/10/05/le-textile-habillement-se-maintient-malgre-la-conjoncture-et-la-concurrence/)
-- [Tourisme golfique : le TO finlandais OnGolf signe le retour de la Tunisie](https://lapresse.tn/2025/10/06/tourisme-golfique-le-to-finlandais-ongolf-signe-le-retour-de-la-tunisie/)
-- [Tourisme : la Tunisie reste dans le Top 3 des ventes en France](https://lapresse.tn/2025/10/06/tourisme-la-tunisie-reste-dans-le-top-3-des-ventes-en-france/)
-- [Garantie bancaire de 20 % : un bouclier contre les impayés dans la sous-traitance](https://lapresse.tn/2025/10/06/garantie-bancaire-de-20-un-bouclier-contre-les-impayes-dans-la-sous-traitance/)
+- [Oléiculture : une récolte record permettra de cibler des marchés prometteurs en Afrique et en Asie](https://lapresse.tn/2025/10/06/oleiculture-une-recolte-record-permettra-de-cibler-des-marches-prometteurs-en-afrique-et-en-asie/)
+- [Kasserine : Campagne de sensibilisation et de prévention à l’addiction aux écrans chez les enfants](https://lapresse.tn/2025/10/06/kasserine-campagne-de-sensibilisation-et-de-prevention-a-laddiction-aux-ecrans-chez-les-enfants/)
+- [Thon rouge : le ministère de l’Agriculture diligente une enquête](https://lapresse.tn/2025/10/06/thon-rouge-le-ministere-de-lagriculture-diligente-une-enquete/)
 - [Flottille Soumoud : demain, rapatriement probable des derniers activistes tunisiens](https://lapresse.tn/2025/10/06/flottille-de-la-resilience-demain-rapatriement-probable-des-derniers-activistes-tunisiens/)
 - [Météo : baisse relative des températures et mer agitée au nord](https://lapresse.tn/2025/10/06/meteo-baisse-relative-des-temperatures-et-mer-agitee-au-nord/)
 - [Projet Elmed : la Tunisie entre intégration énergétique et vigilance syndicale](https://lapresse.tn/2025/10/05/projet-elmed-la-tunisie-entre-integration-energetique-et-vigilance-syndicale/)
 - [Hammamet accueille le congrès national de la Société Tunisienne de Gériatrie et de Gérontologie](https://lapresse.tn/2025/10/06/hammamet-accueille-le-congres-national-de-la-societe-tunisienne-de-geriatrie-et-de-gerontologie/)
 - [Algérie–Tunisie en train : la SNTF publie les nouveaux horaires et tarifs](https://lapresse.tn/2025/10/06/algerie-tunisie-en-train-la-sntf-publie-les-nouveaux-horaires-et-tarifs/)
-- [Tunisie : Succès de deux opérations de greffe d’organes à Kairouan](https://lapresse.tn/2025/10/06/tunisie-succes-de-deux-operations-de-greffe-dorganes-a-kairouan/)
+- [Tourisme golfique : le TO finlandais OnGolf signe le retour de la Tunisie](https://lapresse.tn/2025/10/06/tourisme-golfique-le-to-finlandais-ongolf-signe-le-retour-de-la-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
 - [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
 - [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
 - [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
@@ -286,4 +287,3 @@
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
 - [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
 - [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
-- [Tra isole greche contese e missili made in France](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-tra-isole-greche-contese-e-missili-made-in-france-19500733/)
