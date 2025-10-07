@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Oct 2025, 11:11*
+*Generato: 07 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 - [More flexible visa suspension mechanism](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30660/more-flexible-visa-suspension-mechanism)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30671/ep-today)
 - [COP30: MEPs want EU climate policy to maintain a high degree of ambition](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30716/cop30-meps-want-eu-climate-policy-to-maintain-a-high-degree-of-ambition)
@@ -91,12 +92,11 @@
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
 - [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
-- [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
+- [Enseignement supérieur : L’Allemagne, deuxième destination pour les étudiants tunisiens à l’étranger](https://lapresse.tn/2025/10/07/enseignement-superieur-lallemagne-deuxieme-destination-pour-les-etudiants-tunisiens-a-letranger/)
 - [Football-EST : blessures musculaires pour Tougai et Ben Ali](https://lapresse.tn/2025/10/07/football-est-blessures-musculaires-pour-tougai-et-ben-ali/)
 - [Insécurité dans les urgences : l’Association Tunisienne des Jeunes Médecins dénonce l’absence de mesures concrètes](https://lapresse.tn/2025/10/07/insecurite-dans-les-urgences-lassociation-tunisienne-des-jeunes-medecins-denonce-labsence-de-mesures-concretes/)
-- [Mondial 2026-Eliminatoires : Mohamed Amine Cherni appelé en renfort à la place de Mortadha Ben Ouanès](https://lapresse.tn/2025/10/07/mondial-2026-eliminatoires-mohamed-amine-cherni-appele-en-renfort-a-la-place-de-mortadha-ben-ouanes/)
 - [Flottille «Soumoud» : Il faut sauver Yacine !](https://lapresse.tn/2025/10/07/flottille-soumoud-il-faut-sauver-yacine/)
 - [Météo : pluies éparses au nord et températures en baisse](https://lapresse.tn/2025/10/07/meteo-pluies-eparses-au-nord-et-temperatures-en-baisse/)
 - [Huile d’olive : Le Président trace la route d’une campagne record](https://lapresse.tn/2025/10/07/huile-dolive-le-president-trace-la-route-dune-campagne-record/)
 - [Faculté de Médecine de Monastir : ouverture du premier centre de santé mentale et physique, au régional et national](https://lapresse.tn/2025/10/07/faculte-de-medecine-de-monastir-ouverture-du-premier-centre-de-sante-mentale-et-physique-au-regional-et-national/)
 - [Retour du Trésor de Zama de Rome à la Tunisie](https://lapresse.tn/2025/10/06/retour-du-tresor-de-zama-de-rome-a-la-tunisie/)
-- [Classement des passeports : où en est la Tunisie en 2025 ?](https://lapresse.tn/2025/10/06/classement-des-passeports-ou-en-est-la-tunisie-en-2025/)
+- [En dépit de la conjoncture mondiale difficile, la région MENA affiche des perspectives économiques positives](https://lapresse.tn/2025/10/07/en-depit-de-la-conjoncture-mondiale-difficile-la-region-mena-affiche-des-perspectives-economiques-positives/)
 
 ## NGOs – Amnesty International – Tunisia
 
