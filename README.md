@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Oct 2025, 18:16*
+*Generato: 07 Oct 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – Press Room
 
-- [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 - [2026 LUX Audience Award shortlisted films unveiled at the European Parliament](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30740/2026-lux-audience-award-shortlisted-films-unveiled-at-the-european-parliament)
+- [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 - [More flexible visa suspension mechanism](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30660/more-flexible-visa-suspension-mechanism)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30671/ep-today)
 - [COP30: MEPs want EU climate policy to maintain a high degree of ambition](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30716/cop30-meps-want-eu-climate-policy-to-maintain-a-high-degree-of-ambition)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,14 +174,14 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
+- [Huile d’olive, dattes et grandes cultures : les priorités de l’UTAP pour 2025](https://lapresse.tn/2025/10/07/huile-dolive-dattes-et-grandes-cultures-les-priorites-de-lutap-pour-2025/)
+- [Tunisie : lancement officiel de Radio Houriya, la première radio web féministe universitaire](https://lapresse.tn/2025/10/07/tunisie-lancement-officiel-de-radio-houriya-la-premiere-radio-web-feministe-universitaire/)
+- [Kairouan se prépare à lancer ses premières transplantations rénales](https://lapresse.tn/2025/10/07/kairouan-se-prepare-a-lancer-ses-premieres-transplantations-renales/)
+- [Patrimoine en danger : Quand une maison oubliée devient vitrine de l’identité tunisienne](https://lapresse.tn/2025/10/07/patrimoine-en-danger-quand-une-maison-oubliee-devient-vitrine-de-lidentite-tunisienne/)
 - [Tunisie–Algérie : un nouvel accord pour renforcer la coopération militaire](https://lapresse.tn/2025/10/07/tunisie-algerie-un-nouvel-accord-pour-renforcer-la-cooperation-militaire/)
 - [Tunisie–Oman : une vision commune pour la souveraineté sanitaire et la justice sociale](https://lapresse.tn/2025/10/07/tunisie-oman-une-vision-commune-pour-la-souverainete-sanitaire-et-la-justice-sociale/)
-- [L’été 2025 classé parmi les plus chauds en Tunisie depuis 1950](https://lapresse.tn/2025/10/07/lete-2025-classe-parmi-les-plus-chauds-en-tunisie-depuis-1950/)
-- [RNE : de la digitalisation à l’adoption du smart contracting](https://lapresse.tn/2025/10/07/rne-de-la-digitalisation-a-ladoption-du-smart-contracting/)
 - [Octobre rose – série d’actions et programme d’activité de la société civile : Le combat se poursuit](https://lapresse.tn/2025/10/07/octobre-rose-serie-dactions-et-programme-dactivite-de-la-societe-civile-le-combat-se-poursuit/)
 - [Marina Gabès : Un projet de développement local alternatif en instance](https://lapresse.tn/2025/10/07/marina-gabes-un-projet-de-developpement-local-alternatif-en-instance/)
-- [Pourquoi : L’appât du gain…](https://lapresse.tn/2025/10/07/pourquoi-lappat-du-gain/)
-- [Programme d’intégration des enfants autistes : 1000 enfants bénéficiaires d’ici fin 2025](https://lapresse.tn/2025/10/07/programme-dintegration-des-enfants-autistes-1000-enfants-beneficiaires-dici-fin-2025/)
 - [CRF 2025 : quand la technologie rencontre la régulation des entreprises](https://lapresse.tn/2025/10/07/crf-2025-quand-la-technologie-rencontre-la-regulation-des-entreprises/)
 
 ## NGOs – Amnesty International – Tunisia
@@ -266,14 +266,14 @@
 
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
+- [Présidentielle au Cameroun : 5 questions pour comprendre les enjeux du scrutin](https://www.jeuneafrique.com/1728268/politique/presidentielle-au-cameroun-5-questions-pour-comprendre-les-enjeux-du-scrutin/)
 - [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
 - [« Pas de vainqueur ni de vaincu » : en RDC, Félix Tshisekedi met fin à la guerre des chefs à l’UDPS](https://www.jeuneafrique.com/1728120/politique/pas-de-vainqueur-ni-de-vaincu-en-rdc-felix-tshisekedi-met-fin-a-la-guerre-des-chefs-a-ludps/)
 - [Présidentielle au Cameroun : qui gagnera le cœur des électeurs anglophones ?](https://www.jeuneafrique.com/1728068/politique/presidentielle-au-cameroun-qui-gagnera-le-coeur-des-electeurs-anglophones/)
 - [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
-- [Présidentielle au Cameroun : face à la « vague Tchiroma », Paul Biya attendu à Maroua](https://www.jeuneafrique.com/1728075/politique/presidentielle-au-cameroun-face-a-la-vague-tchiroma-paul-biya-tarde-a-entrer-en-scene/)
+- [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
 - [La RDC entend faire respecter les quotas d’exportation du cobalt](https://www.jeuneafrique.com/1728671/economie-entreprises/la-rdc-entend-faire-respecter-les-quotas-dexportation-du-cobalt/)
-- [Nigeria, Côte d’Ivoire, Éthiopie… Où la Banque mondiale voit le plus fort potentiel de croissance en Afrique](https://www.jeuneafrique.com/1728314/economie-entreprises/nigeria-cote-divoire-ethiopie-ou-la-banque-mondiale-voit-le-plus-fort-potentiel-de-croissance-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
