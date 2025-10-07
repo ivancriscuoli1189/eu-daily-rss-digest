@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Oct 2025, 15:12*
+*Generato: 07 Oct 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
-- [Tunisie : la Banque Mondiale table sur une croissance de 2,6 %](https://lapresse.tn/2025/10/07/tunisie-la-banque-mondiale-table-sur-une-croissance-de-26/)
+- [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
+- [Tunisie–Algérie : un nouvel accord pour renforcer la coopération militaire](https://lapresse.tn/2025/10/07/tunisie-algerie-un-nouvel-accord-pour-renforcer-la-cooperation-militaire/)
+- [Tunisie–Oman : une vision commune pour la souveraineté sanitaire et la justice sociale](https://lapresse.tn/2025/10/07/tunisie-oman-une-vision-commune-pour-la-souverainete-sanitaire-et-la-justice-sociale/)
+- [L’été 2025 classé parmi les plus chauds en Tunisie depuis 1950](https://lapresse.tn/2025/10/07/lete-2025-classe-parmi-les-plus-chauds-en-tunisie-depuis-1950/)
+- [RNE : de la digitalisation à l’adoption du smart contracting](https://lapresse.tn/2025/10/07/rne-de-la-digitalisation-a-ladoption-du-smart-contracting/)
+- [Octobre rose – série d’actions et programme d’activité de la société civile : Le combat se poursuit](https://lapresse.tn/2025/10/07/octobre-rose-serie-dactions-et-programme-dactivite-de-la-societe-civile-le-combat-se-poursuit/)
+- [Marina Gabès : Un projet de développement local alternatif en instance](https://lapresse.tn/2025/10/07/marina-gabes-un-projet-de-developpement-local-alternatif-en-instance/)
+- [Pourquoi : L’appât du gain…](https://lapresse.tn/2025/10/07/pourquoi-lappat-du-gain/)
 - [Programme d’intégration des enfants autistes : 1000 enfants bénéficiaires d’ici fin 2025](https://lapresse.tn/2025/10/07/programme-dintegration-des-enfants-autistes-1000-enfants-beneficiaires-dici-fin-2025/)
-- [Décès de l’éminente professeure pédiatre Saayda Ben Becher](https://lapresse.tn/2025/10/07/deces-de-leminente-professeure-pediatre-saayda-ben-becher/)
-- [24e session de la conférence du COMESA : le ministre des Affaires Etrangères préside la délégation tunisienne](https://lapresse.tn/2025/10/07/24e-session-de-la-conference-du-comesa-le-ministre-des-affaires-etrangeres-preside-la-delegation-tunisienne/)
-- [Flottille Soumoud: les derniers militants sont arrivés en Jordanie](https://lapresse.tn/2025/10/07/flottille-soumoud-les-derniers-militants-sont-arrives-en-jordanie/)
-- [Flottille «Soumoud» : Il faut sauver Yacine !](https://lapresse.tn/2025/10/07/flottille-soumoud-il-faut-sauver-yacine/)
-- [Selon une étude, 50 % des personnes âgées souffrent de dépression](https://lapresse.tn/2025/10/07/selon-une-etude-50-des-personnes-agees-souffrent-de-depression-2/)
-- [Enseignement supérieur : L’Allemagne, deuxième destination pour les étudiants tunisiens à l’étranger](https://lapresse.tn/2025/10/07/enseignement-superieur-lallemagne-deuxieme-destination-pour-les-etudiants-tunisiens-a-letranger/)
-- [Tozeur-saison touristique hivernale : des hôtels fermés réouvrent leurs portes](https://lapresse.tn/2025/10/07/tozeur-saison-touristique-hivernale-des-hotels-fermes-reouvrent-leurs-portes/)
+- [CRF 2025 : quand la technologie rencontre la régulation des entreprises](https://lapresse.tn/2025/10/07/crf-2025-quand-la-technologie-rencontre-la-regulation-des-entreprises/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -217,11 +217,11 @@
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
-- [Open Letter: Call for UN member states to uphold, preserve and strengthen international refugee, human rights and humanitarian treaties](https://www.icj.org/open-letter-call-for-un-member-states-to-uphold-preserve-and-strengthen-international-refugee-human-rights-and-humanitarian-treaties/)
+- [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 - [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
-- [Lesotho: Further measures needed to ensure access to justice for persons with disabilities – New ICJ Report](https://www.icj.org/lesotho-further-measures-needed-to-ensure-access-to-justice-for-persons-with-disabilities-new-icj-report/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
+- [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
+- [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
+- [« Pas de vainqueur ni de vaincu » : en RDC, Félix Tshisekedi met fin à la guerre des chefs à l’UDPS](https://www.jeuneafrique.com/1728120/politique/pas-de-vainqueur-ni-de-vaincu-en-rdc-felix-tshisekedi-met-fin-a-la-guerre-des-chefs-a-ludps/)
 - [Présidentielle au Cameroun : qui gagnera le cœur des électeurs anglophones ?](https://www.jeuneafrique.com/1728068/politique/presidentielle-au-cameroun-qui-gagnera-le-coeur-des-electeurs-anglophones/)
 - [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
 - [Présidentielle au Cameroun : face à la « vague Tchiroma », Paul Biya attendu à Maroua](https://www.jeuneafrique.com/1728075/politique/presidentielle-au-cameroun-face-a-la-vague-tchiroma-paul-biya-tarde-a-entrer-en-scene/)
-- [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
-- [Vote crucial à l’Unesco pour désigner son prochain chef](https://www.jeuneafrique.com/1728038/politique/vote-crucial-a-lunesco-pour-designer-son-prochain-chef/)
-- [Au Maroc, la Palestine attire plus de manifestants que GenZ212](https://www.jeuneafrique.com/1728016/politique/au-maroc-la-palestine-attire-plus-de-manifestants-que-genz212/)
-- [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
+- [La RDC entend faire respecter les quotas d’exportation du cobalt](https://www.jeuneafrique.com/1728671/economie-entreprises/la-rdc-entend-faire-respecter-les-quotas-dexportation-du-cobalt/)
 - [Nigeria, Côte d’Ivoire, Éthiopie… Où la Banque mondiale voit le plus fort potentiel de croissance en Afrique](https://www.jeuneafrique.com/1728314/economie-entreprises/nigeria-cote-divoire-ethiopie-ou-la-banque-mondiale-voit-le-plus-fort-potentiel-de-croissance-en-afrique/)
-- [« Le capitaine Traoré a dit » : le petit livre blanc du timonier burkinabè](https://www.jeuneafrique.com/1728172/economie-entreprises/le-capitaine-traore-a-dit-le-petit-livre-blanc-du-timonier-burkinabe/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
