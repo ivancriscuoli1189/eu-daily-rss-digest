@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Oct 2025, 21:04*
+*Generato: 07 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,21 +174,21 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
+- [Kaïs Saïed ordonne la fin de l’impunité financière : « La loi doit être appliquée, pas contournée »](https://lapresse.tn/2025/10/07/kais-saied-ordonne-la-fin-de-limpunite-financiere-la-loi-doit-etre-appliquee-pas-contournee/)
 - [Tunisie-Égypte : Kaïs Saïed félicite Abdel Fattah al-Sissi à l’occasion du 52ᵉ anniversaire de la guerre d’Octobre](https://lapresse.tn/2025/10/06/tunisie-egypte-kais-saied-felicite-abdel-fattah-al-sissi-a-loccasion-du-52%e1%b5%89-anniversaire-de-la-guerre-doctobre/)
 - [Le ST avance en mode rouleau compresseur : Irrésistibles Stadistes !](https://lapresse.tn/2025/10/06/le-st-avance-en-mode-rouleau-compresseur-irresistibles-stadistes/)
-- [Le CAB ramène un point contre : l’ASS Mieux que rien !](https://lapresse.tn/2025/10/06/le-cab-ramene-un-point-contre-lass-mieux-que-rien/)
 - [Relations bilatérales : La Tunisie et l’Argentine préparent la Commission Mixte 2026](https://lapresse.tn/2025/10/06/relations-bilaterales-la-tunisie-et-largentine-preparent-la-commission-mixte-2026/)
 - [Le géant japonais NTN Corporation choisit la Tunisie pour son premier projet africain dans l’industrie automobile](https://lapresse.tn/2025/10/06/le-geant-japonais-ntn-corporation-choisit-la-tunisie-pour-son-premier-projet-africain-dans-lindustrie-automobile/)
-- [Nouveau décret-loi sur les sociétés communautaires : Détermination sans faille de Saïed à réussir son projet de société pour les Tunisiens](https://lapresse.tn/2025/10/06/nouveau-decret-loi-sur-les-societes-communautaires-determination-sans-faille-de-saied-a-reussir-son-projet-de-societe-pour-les-tunisiens/)
 - [Retour du Trésor de Zama de Rome à la Tunisie](https://lapresse.tn/2025/10/06/retour-du-tresor-de-zama-de-rome-a-la-tunisie/)
 - [Classement des passeports : où en est la Tunisie en 2025 ?](https://lapresse.tn/2025/10/06/classement-des-passeports-ou-en-est-la-tunisie-en-2025/)
 - [Offre de transport : La modernisation de la Transtu se poursuit](https://lapresse.tn/2025/10/06/offre-de-transport-la-modernisation-de-la-transtu-se-poursuit/)
+- [Frank Legault (Team organisation des défis du chott) : La destination Tunisie pourrait encore séduire](https://lapresse.tn/2025/10/06/frank-legault-team-organisation-des-defis-du-chott-la-destination-tunisie-pourrait-encore-seduire/)
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Authorities must immediately overturn death sentence for peaceful dissent](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-overturn-death-sentence-for-peaceful-dissent/)
 - [Tunisia: Mass convictions in ‘Conspiracy Case 2’ deepen rule of law crisis](https://www.amnesty.org/en/latest/news/2025/07/tunisia-mass-convictions-in-conspiracy-case-2-deepen-rule-of-law-crisis/)
 - [‘We were only asking for our rights’: Tunisian authorities punish mobilization for socioeconomic and environmental rights](https://www.amnesty.org/en/latest/news/2025/06/we-were-only-asking-for-our-rights-tunisian-authorities-punish-mobilization-for-socioeconomic-and-environmental-rights/)
-- [Tunisia: Year-long arbitrary detention of human rights defenders working with refugees and migrants](https://www.amnesty.org/en/latest/news/2025/05/draft-tunisia-year-long-arbitrary-detention-of-human-rights-defenders-working-with-refugees-and-migrants/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
+- [Présidentielle au Cameroun : face à la « vague Tchiroma », Paul Biya attendu à Maroua](https://www.jeuneafrique.com/1728075/politique/presidentielle-au-cameroun-face-a-la-vague-tchiroma-paul-biya-tarde-a-entrer-en-scene/)
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
 - [Vote crucial à l’Unesco pour désigner son prochain chef](https://www.jeuneafrique.com/1728038/politique/vote-crucial-a-lunesco-pour-designer-son-prochain-chef/)
 - [Au Maroc, la Palestine attire plus de manifestants que GenZ212](https://www.jeuneafrique.com/1728016/politique/au-maroc-la-palestine-attire-plus-de-manifestants-que-genz212/)
 - [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
 - [Au Togo, pourquoi Faure Gnassingbé tarde à nommer un nouveau gouvernement](https://www.jeuneafrique.com/1727100/politique/au-togo-pourquoi-faure-gnassingbe-tarde-a-nommer-un-nouveau-gouvernement/)
 - [Présidentielle au Cameroun : rencontre avec cette diaspora qui a juré de faire tomber Paul Biya](https://www.jeuneafrique.com/1727626/politique/presidentielle-au-cameroun-rencontre-avec-cette-diaspora-qui-a-jure-de-faire-tomber-paul-biya/)
-- [Côte d’Ivoire : des palais africains au Kremlin, les mille réseaux du candidat souverainiste Ahoua Don Mello](https://www.jeuneafrique.com/1727427/politique/des-palais-africains-au-kremlin-les-mille-reseaux-du-candidat-souverainiste-ahoua-don-mello/)
 - [« Le capitaine Traoré a dit » : le petit livre blanc du timonier burkinabè](https://www.jeuneafrique.com/1728172/economie-entreprises/le-capitaine-traore-a-dit-le-petit-livre-blanc-du-timonier-burkinabe/)
-- [Du cobalt au lithium, la Chine prend racine au Maroc… et Paris s’en méfie](https://www.jeuneafrique.com/1727834/economie-entreprises/du-cobalt-au-lithium-la-chine-prend-racine-au-maroc-et-paris-sen-mefie/)
+- [Maroc : Saham Bank s’invite à la table d’Attijariwafa, BCP et Bank of Africa](https://www.jeuneafrique.com/1728149/economie-entreprises/maroc-saham-bank-sinvite-a-la-table-dattijariwafa-bcp-et-bank-of-africa/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
