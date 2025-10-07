@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Oct 2025, 06:15*
+*Generato: 07 Oct 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30671/ep-today)
 - [COP30: MEPs want EU climate policy to maintain a high degree of ambition](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30716/cop30-meps-want-eu-climate-policy-to-maintain-a-high-degree-of-ambition)
 - [Roberta Metsola: “Words and ideas, not weapons, and not hate, must shape our dialogue”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30658/metsola-words-and-ideas-not-weapons-and-not-hate-must-shape-our-dialogue)
 - [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
@@ -91,7 +92,6 @@
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30643/press-briefing-on-next-week-s-plenary-session)
 - [Metsola to EU leaders: Simplification means more jobs, stability and security](https://www.europarl.europa.eu/news/en/press-room/20251001IPR30640/metsola-to-eu-leaders-simplification-means-more-jobs-stability-and-security)
 - [Danish Presidency debriefs EP committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20250714IPR29637/danish-presidency-debriefs-ep-committees-on-priorities)
-- [First vote on simplification of EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20250922IPR30511/first-vote-on-simplification-of-eu-agriculture-laws)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le message de la Tunisie à l’UE](https://lapresse.tn/2025/10/06/le-message-de-la-tunisie-a-lue/)
-- [Kaïs Saïed ordonne la fin de l’impunité financière : « La loi doit être appliquée, pas contournée »](https://lapresse.tn/2025/10/07/kais-saied-ordonne-la-fin-de-limpunite-financiere-la-loi-doit-etre-appliquee-pas-contournee/)
-- [Tunisie-Égypte : Kaïs Saïed félicite Abdel Fattah al-Sissi à l’occasion du 52ᵉ anniversaire de la guerre d’Octobre](https://lapresse.tn/2025/10/06/tunisie-egypte-kais-saied-felicite-abdel-fattah-al-sissi-a-loccasion-du-52%e1%b5%89-anniversaire-de-la-guerre-doctobre/)
-- [Le ST avance en mode rouleau compresseur : Irrésistibles Stadistes !](https://lapresse.tn/2025/10/06/le-st-avance-en-mode-rouleau-compresseur-irresistibles-stadistes/)
-- [Relations bilatérales : La Tunisie et l’Argentine préparent la Commission Mixte 2026](https://lapresse.tn/2025/10/06/relations-bilaterales-la-tunisie-et-largentine-preparent-la-commission-mixte-2026/)
-- [Le géant japonais NTN Corporation choisit la Tunisie pour son premier projet africain dans l’industrie automobile](https://lapresse.tn/2025/10/06/le-geant-japonais-ntn-corporation-choisit-la-tunisie-pour-son-premier-projet-africain-dans-lindustrie-automobile/)
+- [Flottille Soumoud: les derniers militants sont arrivés en Jordanie](https://lapresse.tn/2025/10/07/flottille-soumoud-les-derniers-militants-sont-arrives-en-jordanie/)
+- [REMERCIEMENTS ET FARK : Aïcha TAKROUNI](https://lapresse.tn/2025/10/07/remerciements-et-fark-aicha-takrouni/)
+- [Faculté de Médecine de Monastir : ouverture du premier centre de santé mentale et physique, au régional et national](https://lapresse.tn/2025/10/07/faculte-de-medecine-de-monastir-ouverture-du-premier-centre-de-sante-mentale-et-physique-au-regional-et-national/)
+- [Flottille «Soumoud» : Il faut sauver Yacine !](https://lapresse.tn/2025/10/07/flottille-soumoud-il-faut-sauver-yacine/)
+- [Météo : pluies éparses au nord et températures en baisse](https://lapresse.tn/2025/10/07/meteo-pluies-eparses-au-nord-et-temperatures-en-baisse/)
+- [Huile d’olive : Le Président trace la route d’une campagne record](https://lapresse.tn/2025/10/07/huile-dolive-le-president-trace-la-route-dune-campagne-record/)
 - [Retour du Trésor de Zama de Rome à la Tunisie](https://lapresse.tn/2025/10/06/retour-du-tresor-de-zama-de-rome-a-la-tunisie/)
 - [Classement des passeports : où en est la Tunisie en 2025 ?](https://lapresse.tn/2025/10/06/classement-des-passeports-ou-en-est-la-tunisie-en-2025/)
 - [Offre de transport : La modernisation de la Transtu se poursuit](https://lapresse.tn/2025/10/06/offre-de-transport-la-modernisation-de-la-transtu-se-poursuit/)
-- [Frank Legault (Team organisation des défis du chott) : La destination Tunisie pourrait encore séduire](https://lapresse.tn/2025/10/06/frank-legault-team-organisation-des-defis-du-chott-la-destination-tunisie-pourrait-encore-seduire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
 - [Présidentielle au Cameroun : face à la « vague Tchiroma », Paul Biya attendu à Maroua](https://www.jeuneafrique.com/1728075/politique/presidentielle-au-cameroun-face-a-la-vague-tchiroma-paul-biya-tarde-a-entrer-en-scene/)
 - [Côte d’Ivoire : le PDCI s’insurge contre l’arrestation de huit de ses membres](https://www.jeuneafrique.com/1728036/politique/cote-divoire-le-pdci-sinsurge-contre-larrestation-de-huit-de-ses-membres/)
@@ -271,7 +272,6 @@
 - [Au Maroc, la Palestine attire plus de manifestants que GenZ212](https://www.jeuneafrique.com/1728016/politique/au-maroc-la-palestine-attire-plus-de-manifestants-que-genz212/)
 - [La Tunisie et ses quatre vigies – par Frida Dahmani](https://www.jeuneafrique.com/1721288/politique/la-tunisie-et-ses-quatre-vigies/)
 - [Au Togo, pourquoi Faure Gnassingbé tarde à nommer un nouveau gouvernement](https://www.jeuneafrique.com/1727100/politique/au-togo-pourquoi-faure-gnassingbe-tarde-a-nommer-un-nouveau-gouvernement/)
-- [Présidentielle au Cameroun : rencontre avec cette diaspora qui a juré de faire tomber Paul Biya](https://www.jeuneafrique.com/1727626/politique/presidentielle-au-cameroun-rencontre-avec-cette-diaspora-qui-a-jure-de-faire-tomber-paul-biya/)
 - [« Le capitaine Traoré a dit » : le petit livre blanc du timonier burkinabè](https://www.jeuneafrique.com/1728172/economie-entreprises/le-capitaine-traore-a-dit-le-petit-livre-blanc-du-timonier-burkinabe/)
 - [Maroc : Saham Bank s’invite à la table d’Attijariwafa, BCP et Bank of Africa](https://www.jeuneafrique.com/1728149/economie-entreprises/maroc-saham-bank-sinvite-a-la-table-dattijariwafa-bcp-et-bank-of-africa/)
 
