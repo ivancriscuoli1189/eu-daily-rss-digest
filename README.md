@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 15:10*
+*Generato: 08 Oct 2025, 18:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
-- [Chatgpt, une menace pour l’enseignement et l’éducation en Tunisie](https://lapresse.tn/2025/10/08/chatgpt-une-menace-pour-lenseignement-et-leducation-en-tunisie/)
-- [Mohsen Ghrissi sur l’exode des ingénieurs: « il faut stopper l’hémorragie et améliorer les salaires »](https://lapresse.tn/2025/10/08/mohsen-ghrissi-sur-lexode-des-ingenieurs-il-faut-stopper-lhemorragie-et-ameliorer-les-salaires/)
-- [Plan Trump : Hamas exige la libération de Barghouthi en échange des otages](https://lapresse.tn/2025/10/08/plan-trump-hamas-exige-la-liberation-de-barghouthi-en-echange-des-otages/)
-- [57 430 cyberattaques ont été enregistrés en Tunisie au premier semestre 2025](https://lapresse.tn/2025/10/08/57-430-cyberattaques-ont-ete-enregistres-en-tunisie-au-premier-semestre-2025/)
-- [Un scientifique arabe parmi les lauréats du prix Nobel de chimie 2025](https://lapresse.tn/2025/10/08/un-scientifique-arabe-parmi-les-laureats-du-prix-nobel-de-chimie-2025/)
-- [La Société Tunisienne de Psychologie met en garde contre la diffusion des données confidentielles des patients](https://lapresse.tn/2025/10/08/la-societe-tunisienne-de-psychologie-met-en-garde-contre-la-diffusion-des-donnees-confidentielles-des-patients/)
-- [Monastir : une mer noire étouffe sous les déchets](https://lapresse.tn/2025/10/08/monastir-une-mer-noire-etouffe-sous-les-dechets/)
-- [Hyène rare exploitée pour la magie noire : Neuf arrestations à Grombalia](https://lapresse.tn/2025/10/08/hyene-rare-exploitee-pour-la-magie-noire-neuf-arrestations-a-grombalia/)
-- [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
+- [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
+- [Tennis de table – Aujourd’hui, le Tournoi International Juniors : Gagner en expérience !](https://lapresse.tn/2025/10/08/tennis-de-table-aujourdhui-le-tournoi-international-juniors-gagner-en-experience/)
+- [Théâtre – « El Kabbout » de Amir Ayouni : Un drame, un brin burlesque](https://lapresse.tn/2025/10/08/theatre-el-kabbout-de-amir-ayouni-un-drame-un-brin-burlesque/)
+- [Foire internationale du livre de Riyad 2025 : Une forte présence tunisienne](https://lapresse.tn/2025/10/08/foire-internationale-du-livre-de-riyad-2025-une-forte-presence-tunisienne/)
+- [Lutte nationale contre la spéculation : Poursuivre les spéculateurs en justice](https://lapresse.tn/2025/10/08/lutte-nationale-contre-la-speculation-poursuivre-les-speculateurs-en-justice/)
+- [Gaza : Mobilisation citoyenne en Occident : Les peuples libres se rebellent contre leurs gouvernants](https://lapresse.tn/2025/10/08/gaza-mobilisation-citoyenne-en-occident-les-peuples-libres-se-rebellent-contre-leurs-gouvernants/)
+- [6e édition du séminaire sur l’électromobilité : BNA Assurances, partenaire d’un futur branché sur l’innovation](https://lapresse.tn/2025/10/08/6e-edition-du-seminaire-sur-lelectromobilite-bna-assurances-partenaire-dun-futur-branche-sur-linnovation/)
+- [Tunisie : Les Foulées vertes reviennent à la Marsa avec la participation de 1500 coureurs](https://lapresse.tn/2025/10/08/tunisie-les-foulees-vertes-reviennent-a-la-marsa-avec-la-participation-de-1500-coureurs/)
+- [L’hôpital Sahloul de Sousse se dote d’un équipement de pointe pour le traitement des calculs rénaux](https://lapresse.tn/2025/10/08/lhopital-sahloul-de-sousse-se-dote-dun-equipement-de-pointe-pour-le-traitement-des-calculs-renaux/)
+- [Ouverture de la 2e édition du Salon professionnel de l’artisanat : Une façon de se démarquer](https://lapresse.tn/2025/10/08/ouverture-de-la-2e-edition-du-salon-professionnel-de-lartisanat-une-facon-de-se-demarquer/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
 - [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
+- [Face aux revendications de la Gen Z marocaine, quelles options politiques possibles ?](https://www.jeuneafrique.com/1728397/politique/face-aux-revendications-de-la-gen-z-marocaine-quelles-options-politiques-possibles/)
+- [Présidentielle au Cameroun : Maurice Kamto, de l’espoir de 2018 au piège de 2025](https://www.jeuneafrique.com/1726376/politique/presidentielle-au-cameroun-maurice-kamto-de-lespoir-de-2018-au-piege-de-2025/)
 - [Mali : comment Assimi Goïta et Malick Diaw comptent remodeler le « parlement » de la transition](https://www.jeuneafrique.com/1728534/politique/mali-comment-assimi-goita-et-malick-diaw-comptent-remodeler-le-parlement-de-la-transition/)
 - [Sénégal : pourquoi Madiambal Diagne se retrouve au cœur d’un scandale financier dans le BTP](https://www.jeuneafrique.com/1728427/politique/senegal-pourquoi-madiambal-diagne-se-retrouve-au-coeur-dun-scandale-financier-dans-le-btp/)
 - [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
 - [RDC – Adolphe Muzito : « En temps de guerre, on doit tous travailler ensemble »](https://www.jeuneafrique.com/1727658/politique/rdc-adolphe-muzito-en-temps-de-guerre-on-doit-tous-travailler-ensemble/)
-- [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
-- [Gbagbo, Thiam, Affi Nguessan… En Côte d’Ivoire, l’opposition inéligible n’a pas dit son dernier mot](https://www.jeuneafrique.com/1728441/politique/gbagbo-thiam-affi-nguessan-en-cote-divoire-lopposition-ineligible-na-pas-dit-son-dernier-mot/)
-- [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
+- [Comment l’Inde est devenue un partenaire incontournable pour l’Afrique](https://www.jeuneafrique.com/1725176/economie-entreprises/comment-linde-est-devenue-un-partenaire-incontournable-pour-lafrique/)
 - [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
-- [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
