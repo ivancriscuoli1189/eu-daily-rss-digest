@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 18:23*
+*Generato: 08 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,8 +83,8 @@
 ## UE – EP – Press Room
 
 - [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
-- [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
+- [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
 - [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
 - [€3 million in support for 915 laid off employees in Germany](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30666/EU3-million-in-support-for-915-laid-off-employees-in-germany)
 - [Parliament ready to negotiate better working conditions for trainees](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30723/parliament-ready-to-negotiate-better-working-conditions-for-trainees)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [Tennis de table – Aujourd’hui, le Tournoi International Juniors : Gagner en expérience !](https://lapresse.tn/2025/10/08/tennis-de-table-aujourdhui-le-tournoi-international-juniors-gagner-en-experience/)
-- [Théâtre – « El Kabbout » de Amir Ayouni : Un drame, un brin burlesque](https://lapresse.tn/2025/10/08/theatre-el-kabbout-de-amir-ayouni-un-drame-un-brin-burlesque/)
-- [Foire internationale du livre de Riyad 2025 : Une forte présence tunisienne](https://lapresse.tn/2025/10/08/foire-internationale-du-livre-de-riyad-2025-une-forte-presence-tunisienne/)
-- [Lutte nationale contre la spéculation : Poursuivre les spéculateurs en justice](https://lapresse.tn/2025/10/08/lutte-nationale-contre-la-speculation-poursuivre-les-speculateurs-en-justice/)
-- [Gaza : Mobilisation citoyenne en Occident : Les peuples libres se rebellent contre leurs gouvernants](https://lapresse.tn/2025/10/08/gaza-mobilisation-citoyenne-en-occident-les-peuples-libres-se-rebellent-contre-leurs-gouvernants/)
-- [6e édition du séminaire sur l’électromobilité : BNA Assurances, partenaire d’un futur branché sur l’innovation](https://lapresse.tn/2025/10/08/6e-edition-du-seminaire-sur-lelectromobilite-bna-assurances-partenaire-dun-futur-branche-sur-linnovation/)
+- [Hommage à Claudia Cardinale lundi prochain à l’IFT : Projection de « L’île du Pardon » de Ridha Béhi](https://lapresse.tn/2025/10/08/hommage-a-claudia-cardinale-lundi-prochain-a-lift-projection-de-lile-du-pardon-de-ridha-behi/)
+- [Le ministère de la Santé recrute](https://lapresse.tn/2025/10/08/le-ministere-de-la-sante-recrute/)
+- [Qualifications Mondial 2026 – l’Équipe de Tunisie à pied d’œuvre pour le match de SaoTomé-Et-Principe (vendredi 17h00) : Un « Clean Sheet » à préserver !](https://lapresse.tn/2025/10/08/qualifications-mondial-2026-lequipe-de-tunisie-a-pied-doeuvre-pour-le-match-de-saotome-et-principe-vendredi-17h00-un-clean-sheet-a-preserver/)
+- [Tunisie : Nafti ouvre la réunion des ministres des Affaires étrangères du COMESA à Nairobi](https://lapresse.tn/2025/10/08/tunisie-nafti-ouvre-la-reunion-des-ministres-des-affaires-etrangeres-du-comesa-a-nairobi/)
+- [Tunisie : un conseil ministériel trace les grandes lignes de la politique économique et sociale](https://lapresse.tn/2025/10/08/tunisie-un-conseil-ministeriel-trace-les-grandes-lignes-de-la-politique-economique-et-sociale/)
+- [Arrivée à Tunis du deuxième groupe de participants tunisiens de la flottille Sou_moud](https://lapresse.tn/2025/10/08/arrivee-a-tunis-du-deuxieme-groupe-de-participants-tunisiens-de-la-flottille-sou_moud/)
+- [Des gènes féminins sous la loupe : quand la science redéfinit la dépression](https://lapresse.tn/2025/10/08/des-genes-feminins-sous-la-loupe-quand-la-science-redefinit-la-depression/)
+- [Transition énergétique : l’Organisation tunisienne des énergies propres réclame une réforme urgente](https://lapresse.tn/2025/10/08/transition-energetique-lorganisation-tunisienne-des-energies-propres-reclame-une-reforme-urgente/)
 - [Tunisie : Les Foulées vertes reviennent à la Marsa avec la participation de 1500 coureurs](https://lapresse.tn/2025/10/08/tunisie-les-foulees-vertes-reviennent-a-la-marsa-avec-la-participation-de-1500-coureurs/)
-- [L’hôpital Sahloul de Sousse se dote d’un équipement de pointe pour le traitement des calculs rénaux](https://lapresse.tn/2025/10/08/lhopital-sahloul-de-sousse-se-dote-dun-equipement-de-pointe-pour-le-traitement-des-calculs-renaux/)
-- [Ouverture de la 2e édition du Salon professionnel de l’artisanat : Une façon de se démarquer](https://lapresse.tn/2025/10/08/ouverture-de-la-2e-edition-du-salon-professionnel-de-lartisanat-une-facon-de-se-demarquer/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -204,11 +204,11 @@
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
 - [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
 - [Tunisian Human Rights Defender on Hunger Strike](https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike)
 - [Tunisia: Drastic Closure of Civic Space](https://www.hrw.org/news/2025/01/16/tunisia-drastic-closure-civic-space)
-- [Joint Statement: Tunisia is Not a Place of Safety for People Rescued at Sea](https://www.hrw.org/news/2024/10/04/joint-statement-tunisia-not-place-safety-people-rescued-sea)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
