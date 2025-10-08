@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 13:23*
+*Generato: 08 Oct 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
+- [Chatgpt, une menace pour l’enseignement et l’éducation en Tunisie](https://lapresse.tn/2025/10/08/chatgpt-une-menace-pour-lenseignement-et-leducation-en-tunisie/)
+- [Mohsen Ghrissi sur l’exode des ingénieurs: « il faut stopper l’hémorragie et améliorer les salaires »](https://lapresse.tn/2025/10/08/mohsen-ghrissi-sur-lexode-des-ingenieurs-il-faut-stopper-lhemorragie-et-ameliorer-les-salaires/)
+- [Plan Trump : Hamas exige la libération de Barghouthi en échange des otages](https://lapresse.tn/2025/10/08/plan-trump-hamas-exige-la-liberation-de-barghouthi-en-echange-des-otages/)
+- [57 430 cyberattaques ont été enregistrés en Tunisie au premier semestre 2025](https://lapresse.tn/2025/10/08/57-430-cyberattaques-ont-ete-enregistres-en-tunisie-au-premier-semestre-2025/)
 - [Un scientifique arabe parmi les lauréats du prix Nobel de chimie 2025](https://lapresse.tn/2025/10/08/un-scientifique-arabe-parmi-les-laureats-du-prix-nobel-de-chimie-2025/)
 - [La Société Tunisienne de Psychologie met en garde contre la diffusion des données confidentielles des patients](https://lapresse.tn/2025/10/08/la-societe-tunisienne-de-psychologie-met-en-garde-contre-la-diffusion-des-donnees-confidentielles-des-patients/)
-- [Immobilier en Tunisie : 9 acteurs sur 10 opéreraient dans l’illégalité](https://lapresse.tn/2025/10/08/immobilier-en-tunisie-9-acteurs-sur-10-opereraient-dans-lillegalite/)
-- [Qui est Bill Bazzi, le nouvel ambassadeur des États-Unis à Tunis ?](https://lapresse.tn/2025/10/08/qui-est-bill-bazzi-le-nouvel-ambassadeur-des-etats-unis-a-tunis/)
-- [Évoquée par Kaïs Saïed : quel rôle pour la Commission Tunisienne des Analyses Financières ?](https://lapresse.tn/2025/10/08/evoquee-par-kais-saied-quel-role-pour-la-commission-tunisienne-des-analyses-financieres/)
 - [Monastir : une mer noire étouffe sous les déchets](https://lapresse.tn/2025/10/08/monastir-une-mer-noire-etouffe-sous-les-dechets/)
 - [Hyène rare exploitée pour la magie noire : Neuf arrestations à Grombalia](https://lapresse.tn/2025/10/08/hyene-rare-exploitee-pour-la-magie-noire-neuf-arrestations-a-grombalia/)
 - [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
-- [Campagne de contrôle à Tunis : 119 infractions relevées et 373 kg d’agneau saisis](https://lapresse.tn/2025/10/08/campagne-de-controle-a-tunis-119-infractions-relevees-et-373-kg-dagneau-saisis/)
 
 ## NGOs – Amnesty International – Tunisia
 
