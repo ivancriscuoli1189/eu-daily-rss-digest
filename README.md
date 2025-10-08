@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 09:13*
+*Generato: 08 Oct 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
-- [Algérie : Un séisme de 3,8 degrés enregistré à Tizi Ouzou](https://lapresse.tn/2025/10/08/algerie-un-seisme-de-38-degres-enregistre-a-tizi-ouzou/)
-- [Docteur Rym Abdelmalek : « le virus du Nil occidental ne se transmet pas d’humain à humain »](https://lapresse.tn/2025/10/08/docteur-rym-abdelmalek-le-virus-du-nil-occidental-ne-se-transmet-pas-dhumain-a-humain/)
-- [Club Africain : Oussema Cherimi officiellement qualifié](https://lapresse.tn/2025/10/08/club-africain-oussema-cherimi-officiellement-qualifie/)
+- [Tunisie : La dette extérieure 2025 entièrement remboursée trois mois avant l’échéance](https://lapresse.tn/2025/10/08/tunisie-la-dette-exterieure-2025-entierement-remboursee-trois-mois-avant-lecheance/)
+- [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
+- [Salon international du textile «INTERTEX TUNISIA» du 16 au 18 octobre 2025: 700 hommes d’affaires de différents pays attendus](https://lapresse.tn/2025/10/08/salon-international-du-textile-intertex-tunisia-du-16-au-18-octobre-2025-700-hommes-daffaires-de-differents-pays-attendus/)
+- [Tunisie : Le ministère de l’Intérieur renforce sa lutte contre la cybercriminalité](https://lapresse.tn/2025/10/08/tunisie-le-ministere-de-linterieur-renforce-sa-lutte-contre-la-cybercriminalite/)
+- [Plus de 45 000 ingénieurs tunisiens ont quitté le pays, alerte le doyen de l’Ordre](https://lapresse.tn/2025/10/08/plus-de-45-000-ingenieurs-tunisiens-ont-quitte-le-pays-alerte-le-doyen-de-lordre/)
 - [Flottille Soumoud : Retour imminent des participants tunisiens](https://lapresse.tn/2025/10/08/flottille-soumoud-retour-imminent-des-participants-tunisiens/)
-- [Météo : temps ensoleillé ce mercredi !](https://lapresse.tn/2025/10/08/meteo-temps-ensoleille-ce-mercredi-2/)
-- [Tunisie : Zanzeri préside un Conseil ministériel sur les réformes financières structurelles](https://lapresse.tn/2025/10/07/tunisie-zanzeri-preside-un-conseil-ministeriel-sur-les-reformes-financieres-structurelles/)
-- [Grève des enseignants du primaire : La crainte légitime des familles](https://lapresse.tn/2025/10/08/greve-des-enseignants-du-primaire-la-crainte-legitime-des-familles/)
-- [Tunisie : lancement officiel de Radio Houriya, la première radio web féministe universitaire](https://lapresse.tn/2025/10/07/tunisie-lancement-officiel-de-radio-houriya-la-premiere-radio-web-feministe-universitaire/)
-- [Kairouan se prépare à lancer ses premières transplantations rénales](https://lapresse.tn/2025/10/07/kairouan-se-prepare-a-lancer-ses-premieres-transplantations-renales/)
+- [Campagne de contrôle à Tunis : 119 infractions relevées et 373 kg d’agneau saisis](https://lapresse.tn/2025/10/08/campagne-de-controle-a-tunis-119-infractions-relevees-et-373-kg-dagneau-saisis/)
+- [L’Ordre des Ingénieurs se mobilise contre l’usage illégal du terme « ingénieur ».](https://lapresse.tn/2025/10/08/lordre-des-ingenieurs-se-mobilise-contre-lusage-illegal-du-terme-ingenieur/)
+- [Docteur Rym Abdelmalek : « le virus du Nil occidental ne se transmet pas d’humain à humain »](https://lapresse.tn/2025/10/08/docteur-rym-abdelmalek-le-virus-du-nil-occidental-ne-se-transmet-pas-dhumain-a-humain/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Mali : comment Assimi Goïta et Malick Diaw comptent remodeler le « parlement » de la transition](https://www.jeuneafrique.com/1728534/politique/mali-comment-assimi-goita-et-malick-diaw-comptent-remodeler-le-parlement-de-la-transition/)
 - [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
+- [RDC – Adolphe Muzito : « En temps de guerre, on doit tous travailler ensemble »](https://www.jeuneafrique.com/1727658/politique/rdc-adolphe-muzito-en-temps-de-guerre-on-doit-tous-travailler-ensemble/)
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
 - [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
 - [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
-- [« Pas de vainqueur ni de vaincu » : en RDC, Félix Tshisekedi met fin à la guerre des chefs à l’UDPS](https://www.jeuneafrique.com/1728120/politique/pas-de-vainqueur-ni-de-vaincu-en-rdc-felix-tshisekedi-met-fin-a-la-guerre-des-chefs-a-ludps/)
+- [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 - [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
-- [La RDC entend faire respecter les quotas d’exportation du cobalt](https://www.jeuneafrique.com/1728671/economie-entreprises/la-rdc-entend-faire-respecter-les-quotas-dexportation-du-cobalt/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
