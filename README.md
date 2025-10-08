@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 11:04*
+*Generato: 08 Oct 2025, 12:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
+- [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
+- [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
+- [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
+- [€3 million in support for 915 laid off employees in Germany](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30666/EU3-million-in-support-for-915-laid-off-employees-in-germany)
 - [Parliament ready to negotiate better working conditions for trainees](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30723/parliament-ready-to-negotiate-better-working-conditions-for-trainees)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30672/ep-today)
 - [2026 LUX Audience Award shortlisted films unveiled at the European Parliament](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30740/2026-lux-audience-award-shortlisted-films-unveiled-at-the-european-parliament)
 - [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 - [More flexible visa suspension mechanism](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30660/more-flexible-visa-suspension-mechanism)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30671/ep-today)
-- [COP30: MEPs want EU climate policy to maintain a high degree of ambition](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30716/cop30-meps-want-eu-climate-policy-to-maintain-a-high-degree-of-ambition)
-- [Roberta Metsola: “Words and ideas, not weapons, and not hate, must shape our dialogue”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30658/metsola-words-and-ideas-not-weapons-and-not-hate-must-shape-our-dialogue)
-- [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
-- [Tunisie : La dette extérieure 2025 entièrement remboursée trois mois avant l’échéance](https://lapresse.tn/2025/10/08/tunisie-la-dette-exterieure-2025-entierement-remboursee-trois-mois-avant-lecheance/)
-- [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
-- [Salon international du textile «INTERTEX TUNISIA» du 16 au 18 octobre 2025: 700 hommes d’affaires de différents pays attendus](https://lapresse.tn/2025/10/08/salon-international-du-textile-intertex-tunisia-du-16-au-18-octobre-2025-700-hommes-daffaires-de-differents-pays-attendus/)
+- [Hyène rare exploitée pour la magie noire : Neuf arrestations à Grombalia](https://lapresse.tn/2025/10/08/hyene-rare-exploitee-pour-la-magie-noire-neuf-arrestations-a-grombalia/)
+- [Qualifications Mondial 2026 : début de la vente des billets pour Tunisie – Sao Tomé-et-Principe](https://lapresse.tn/2025/10/08/qualifications-mondial-2026-debut-de-la-vente-des-billets-pour-tunisie-sao-tome-et-principe/)
+- [Huile d’olive tunisienne : stop au gâchis du vrac !](https://lapresse.tn/2025/10/08/huile-dolive-tunisienne-stop-au-gachis-du-vrac/)
+- [Évoquée par Kaïs Saïed : quel rôle pour la Commission Tunisienne des Analyses Financières ?](https://lapresse.tn/2025/10/08/evoquee-par-kais-saied-quel-role-pour-la-commission-tunisienne-des-analyses-financieres/)
 - [Tunisie : Le ministère de l’Intérieur renforce sa lutte contre la cybercriminalité](https://lapresse.tn/2025/10/08/tunisie-le-ministere-de-linterieur-renforce-sa-lutte-contre-la-cybercriminalite/)
 - [Plus de 45 000 ingénieurs tunisiens ont quitté le pays, alerte le doyen de l’Ordre](https://lapresse.tn/2025/10/08/plus-de-45-000-ingenieurs-tunisiens-ont-quitte-le-pays-alerte-le-doyen-de-lordre/)
-- [Flottille Soumoud : Retour imminent des participants tunisiens](https://lapresse.tn/2025/10/08/flottille-soumoud-retour-imminent-des-participants-tunisiens/)
+- [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
 - [Campagne de contrôle à Tunis : 119 infractions relevées et 373 kg d’agneau saisis](https://lapresse.tn/2025/10/08/campagne-de-controle-a-tunis-119-infractions-relevees-et-373-kg-dagneau-saisis/)
 - [L’Ordre des Ingénieurs se mobilise contre l’usage illégal du terme « ingénieur ».](https://lapresse.tn/2025/10/08/lordre-des-ingenieurs-se-mobilise-contre-lusage-illegal-du-terme-ingenieur/)
-- [Docteur Rym Abdelmalek : « le virus du Nil occidental ne se transmet pas d’humain à humain »](https://lapresse.tn/2025/10/08/docteur-rym-abdelmalek-le-virus-du-nil-occidental-ne-se-transmet-pas-dhumain-a-humain/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
 - [RDC – Adolphe Muzito : « En temps de guerre, on doit tous travailler ensemble »](https://www.jeuneafrique.com/1727658/politique/rdc-adolphe-muzito-en-temps-de-guerre-on-doit-tous-travailler-ensemble/)
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
+- [Gbagbo, Thiam, Affi Nguessan… En Côte d’Ivoire, l’opposition inéligible n’a pas dit son dernier mot](https://www.jeuneafrique.com/1728441/politique/gbagbo-thiam-affi-nguessan-en-cote-divoire-lopposition-ineligible-na-pas-dit-son-dernier-mot/)
 - [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
 - [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
-- [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
 - [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 - [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
 
