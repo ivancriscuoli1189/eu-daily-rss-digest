@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Oct 2025, 21:03*
+*Generato: 08 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
+- [Gbagbo, Thiam, Affi Nguessan… En Côte d’Ivoire, l’opposition inéligible n’a pas dit son dernier mot](https://www.jeuneafrique.com/1728441/politique/gbagbo-thiam-affi-nguessan-en-cote-divoire-lopposition-ineligible-na-pas-dit-son-dernier-mot/)
+- [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
 - [Présidentielle au Cameroun : 5 questions pour comprendre les enjeux du scrutin](https://www.jeuneafrique.com/1728268/politique/presidentielle-au-cameroun-5-questions-pour-comprendre-les-enjeux-du-scrutin/)
 - [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
 - [« Pas de vainqueur ni de vaincu » : en RDC, Félix Tshisekedi met fin à la guerre des chefs à l’UDPS](https://www.jeuneafrique.com/1728120/politique/pas-de-vainqueur-ni-de-vaincu-en-rdc-felix-tshisekedi-met-fin-a-la-guerre-des-chefs-a-ludps/)
-- [Présidentielle au Cameroun : qui gagnera le cœur des électeurs anglophones ?](https://www.jeuneafrique.com/1728068/politique/presidentielle-au-cameroun-qui-gagnera-le-coeur-des-electeurs-anglophones/)
-- [À Madagascar, des centaines d’étudiants manifestent contre Andry Rajoelina dans les rues de la capitale](https://www.jeuneafrique.com/1728209/politique/a-madagascar-des-centaines-detudiants-manifestent-contre-andry-rajoelina-dans-les-rues-de-la-capitale/)
 - [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
 - [La RDC entend faire respecter les quotas d’exportation du cobalt](https://www.jeuneafrique.com/1728671/economie-entreprises/la-rdc-entend-faire-respecter-les-quotas-dexportation-du-cobalt/)
 
