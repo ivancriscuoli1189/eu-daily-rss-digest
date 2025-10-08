@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 06:15*
+*Generato: 08 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Parliament ready to negotiate better working conditions for trainees](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30723/parliament-ready-to-negotiate-better-working-conditions-for-trainees)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30672/ep-today)
 - [2026 LUX Audience Award shortlisted films unveiled at the European Parliament](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30740/2026-lux-audience-award-shortlisted-films-unveiled-at-the-european-parliament)
 - [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 - [More flexible visa suspension mechanism](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30660/more-flexible-visa-suspension-mechanism)
@@ -90,13 +92,11 @@
 - [Roberta Metsola: “Words and ideas, not weapons, and not hate, must shape our dialogue”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30658/metsola-words-and-ideas-not-weapons-and-not-hate-must-shape-our-dialogue)
 - [LUX Audience Award: press conference to announce the 2026 nominees](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30741/lux-audience-award-press-conference-to-announce-the-2026-nominees)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30670/ep-today)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30669/press-briefing-on-this-week-s-plenary-session)
-- [2025 Daphne Caruana Galizia Prize for Journalism: ten finalists shortlisted](https://www.europarl.europa.eu/news/en/press-room/20251002IPR30646/2025-daphne-caruana-galizia-prize-for-journalism-ten-finalists-shortlisted)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
-- [Huile d’olive, dattes et grandes cultures : les priorités de l’UTAP pour 2025](https://lapresse.tn/2025/10/07/huile-dolive-dattes-et-grandes-cultures-les-priorites-de-lutap-pour-2025/)
+- [Algérie : Un séisme de 3,8 degrés enregistré à Tizi Ouzou](https://lapresse.tn/2025/10/08/algerie-un-seisme-de-38-degres-enregistre-a-tizi-ouzou/)
+- [Docteur Rym Abdelmalek : « le virus du Nil occidental ne se transmet pas d’humain à humain »](https://lapresse.tn/2025/10/08/docteur-rym-abdelmalek-le-virus-du-nil-occidental-ne-se-transmet-pas-dhumain-a-humain/)
+- [Club Africain : Oussema Cherimi officiellement qualifié](https://lapresse.tn/2025/10/08/club-africain-oussema-cherimi-officiellement-qualifie/)
+- [Flottille Soumoud : Retour imminent des participants tunisiens](https://lapresse.tn/2025/10/08/flottille-soumoud-retour-imminent-des-participants-tunisiens/)
+- [Météo : temps ensoleillé ce mercredi !](https://lapresse.tn/2025/10/08/meteo-temps-ensoleille-ce-mercredi-2/)
+- [Tunisie : Zanzeri préside un Conseil ministériel sur les réformes financières structurelles](https://lapresse.tn/2025/10/07/tunisie-zanzeri-preside-un-conseil-ministeriel-sur-les-reformes-financieres-structurelles/)
+- [Grève des enseignants du primaire : La crainte légitime des familles](https://lapresse.tn/2025/10/08/greve-des-enseignants-du-primaire-la-crainte-legitime-des-familles/)
 - [Tunisie : lancement officiel de Radio Houriya, la première radio web féministe universitaire](https://lapresse.tn/2025/10/07/tunisie-lancement-officiel-de-radio-houriya-la-premiere-radio-web-feministe-universitaire/)
 - [Kairouan se prépare à lancer ses premières transplantations rénales](https://lapresse.tn/2025/10/07/kairouan-se-prepare-a-lancer-ses-premieres-transplantations-renales/)
-- [Patrimoine en danger : Quand une maison oubliée devient vitrine de l’identité tunisienne](https://lapresse.tn/2025/10/07/patrimoine-en-danger-quand-une-maison-oubliee-devient-vitrine-de-lidentite-tunisienne/)
-- [Tunisie–Algérie : un nouvel accord pour renforcer la coopération militaire](https://lapresse.tn/2025/10/07/tunisie-algerie-un-nouvel-accord-pour-renforcer-la-cooperation-militaire/)
-- [Tunisie–Oman : une vision commune pour la souveraineté sanitaire et la justice sociale](https://lapresse.tn/2025/10/07/tunisie-oman-une-vision-commune-pour-la-souverainete-sanitaire-et-la-justice-sociale/)
-- [Octobre rose – série d’actions et programme d’activité de la société civile : Le combat se poursuit](https://lapresse.tn/2025/10/07/octobre-rose-serie-dactions-et-programme-dactivite-de-la-societe-civile-le-combat-se-poursuit/)
-- [Marina Gabès : Un projet de développement local alternatif en instance](https://lapresse.tn/2025/10/07/marina-gabes-un-projet-de-developpement-local-alternatif-en-instance/)
-- [CRF 2025 : quand la technologie rencontre la régulation des entreprises](https://lapresse.tn/2025/10/07/crf-2025-quand-la-technologie-rencontre-la-regulation-des-entreprises/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,11 +264,11 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : comment Assimi Goïta et Malick Diaw comptent remodeler le « parlement » de la transition](https://www.jeuneafrique.com/1728534/politique/mali-comment-assimi-goita-et-malick-diaw-comptent-remodeler-le-parlement-de-la-transition/)
+- [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
-- [Gbagbo, Thiam, Affi Nguessan… En Côte d’Ivoire, l’opposition inéligible n’a pas dit son dernier mot](https://www.jeuneafrique.com/1728441/politique/gbagbo-thiam-affi-nguessan-en-cote-divoire-lopposition-ineligible-na-pas-dit-son-dernier-mot/)
 - [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
 - [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
-- [Présidentielle au Cameroun : 5 questions pour comprendre les enjeux du scrutin](https://www.jeuneafrique.com/1728268/politique/presidentielle-au-cameroun-5-questions-pour-comprendre-les-enjeux-du-scrutin/)
 - [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [Manifestations au Maroc : interpellée par la Gen Z, la classe politique sort finalement de son silence](https://www.jeuneafrique.com/1728237/politique/manifestations-au-maroc-interpelee-par-la-genz-la-classe-politique-sort-finalement-de-son-silence/)
 - [« Pas de vainqueur ni de vaincu » : en RDC, Félix Tshisekedi met fin à la guerre des chefs à l’UDPS](https://www.jeuneafrique.com/1728120/politique/pas-de-vainqueur-ni-de-vaincu-en-rdc-felix-tshisekedi-met-fin-a-la-guerre-des-chefs-a-ludps/)
