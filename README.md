@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 12:25*
+*Generato: 08 Oct 2025, 13:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tourisme : retour en force des marchés traditionnels](https://lapresse.tn/2025/10/07/tourisme-retour-en-force-des-marches-traditionnels/)
-- [Hyène rare exploitée pour la magie noire : Neuf arrestations à Grombalia](https://lapresse.tn/2025/10/08/hyene-rare-exploitee-pour-la-magie-noire-neuf-arrestations-a-grombalia/)
-- [Qualifications Mondial 2026 : début de la vente des billets pour Tunisie – Sao Tomé-et-Principe](https://lapresse.tn/2025/10/08/qualifications-mondial-2026-debut-de-la-vente-des-billets-pour-tunisie-sao-tome-et-principe/)
-- [Huile d’olive tunisienne : stop au gâchis du vrac !](https://lapresse.tn/2025/10/08/huile-dolive-tunisienne-stop-au-gachis-du-vrac/)
+- [Un scientifique arabe parmi les lauréats du prix Nobel de chimie 2025](https://lapresse.tn/2025/10/08/un-scientifique-arabe-parmi-les-laureats-du-prix-nobel-de-chimie-2025/)
+- [La Société Tunisienne de Psychologie met en garde contre la diffusion des données confidentielles des patients](https://lapresse.tn/2025/10/08/la-societe-tunisienne-de-psychologie-met-en-garde-contre-la-diffusion-des-donnees-confidentielles-des-patients/)
+- [Immobilier en Tunisie : 9 acteurs sur 10 opéreraient dans l’illégalité](https://lapresse.tn/2025/10/08/immobilier-en-tunisie-9-acteurs-sur-10-opereraient-dans-lillegalite/)
+- [Qui est Bill Bazzi, le nouvel ambassadeur des États-Unis à Tunis ?](https://lapresse.tn/2025/10/08/qui-est-bill-bazzi-le-nouvel-ambassadeur-des-etats-unis-a-tunis/)
 - [Évoquée par Kaïs Saïed : quel rôle pour la Commission Tunisienne des Analyses Financières ?](https://lapresse.tn/2025/10/08/evoquee-par-kais-saied-quel-role-pour-la-commission-tunisienne-des-analyses-financieres/)
-- [Tunisie : Le ministère de l’Intérieur renforce sa lutte contre la cybercriminalité](https://lapresse.tn/2025/10/08/tunisie-le-ministere-de-linterieur-renforce-sa-lutte-contre-la-cybercriminalite/)
-- [Plus de 45 000 ingénieurs tunisiens ont quitté le pays, alerte le doyen de l’Ordre](https://lapresse.tn/2025/10/08/plus-de-45-000-ingenieurs-tunisiens-ont-quitte-le-pays-alerte-le-doyen-de-lordre/)
+- [Monastir : une mer noire étouffe sous les déchets](https://lapresse.tn/2025/10/08/monastir-une-mer-noire-etouffe-sous-les-dechets/)
+- [Hyène rare exploitée pour la magie noire : Neuf arrestations à Grombalia](https://lapresse.tn/2025/10/08/hyene-rare-exploitee-pour-la-magie-noire-neuf-arrestations-a-grombalia/)
 - [Siliana : l’élève qui a agressé son professeur au couteau arrêté](https://lapresse.tn/2025/10/08/siliana-leleve-qui-a-agresse-son-professeur-au-couteau-arrete/)
 - [Campagne de contrôle à Tunis : 119 infractions relevées et 373 kg d’agneau saisis](https://lapresse.tn/2025/10/08/campagne-de-controle-a-tunis-119-infractions-relevees-et-373-kg-dagneau-saisis/)
-- [L’Ordre des Ingénieurs se mobilise contre l’usage illégal du terme « ingénieur ».](https://lapresse.tn/2025/10/08/lordre-des-ingenieurs-se-mobilise-contre-lusage-illegal-du-terme-ingenieur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
 - [Mali : comment Assimi Goïta et Malick Diaw comptent remodeler le « parlement » de la transition](https://www.jeuneafrique.com/1728534/politique/mali-comment-assimi-goita-et-malick-diaw-comptent-remodeler-le-parlement-de-la-transition/)
+- [Sénégal : pourquoi Madiambal Diagne se retrouve au cœur d’un scandale financier dans le BTP](https://www.jeuneafrique.com/1728427/politique/senegal-pourquoi-madiambal-diagne-se-retrouve-au-coeur-dun-scandale-financier-dans-le-btp/)
 - [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
 - [RDC – Adolphe Muzito : « En temps de guerre, on doit tous travailler ensemble »](https://www.jeuneafrique.com/1727658/politique/rdc-adolphe-muzito-en-temps-de-guerre-on-doit-tous-travailler-ensemble/)
 - [Mali : comment les tactiques militaires ukrainiennes s’importent au Sahel](https://www.jeuneafrique.com/1728489/politique/mali-comment-les-tactiques-militaires-ukrainiennes-simportent-au-sahel/)
 - [Gbagbo, Thiam, Affi Nguessan… En Côte d’Ivoire, l’opposition inéligible n’a pas dit son dernier mot](https://www.jeuneafrique.com/1728441/politique/gbagbo-thiam-affi-nguessan-en-cote-divoire-lopposition-ineligible-na-pas-dit-son-dernier-mot/)
 - [En Algérie, l’universitaire Amine Belghit condamné à trois ans pour ses propos sur l’identité amazighe](https://www.jeuneafrique.com/1728637/politique/en-algerie-luniversitaire-amine-belghit-condamne-a-trois-ans-pour-ses-propos-sur-lidentite-amazigh/)
-- [Sondage Jeune Afrique sur les élites africaines : pourquoi, malgré les incertitudes politiques, les Ivoiriens demeurent optimistes](https://www.jeuneafrique.com/1727125/politique/sondage-jeune-afrique-sur-les-elites-africaines-pourquoi-malgre-les-incertitudes-politiques-les-ivoiriens-demeurent-optimistes/)
-- [Madagascar : Andry Rajoelina nomme un militaire Premier ministre pour tenter de contenir la crise](https://www.jeuneafrique.com/1728406/politique/madagascar-andry-rajoelina-nomme-un-militaire-premier-ministre-pour-tenter-de-contenir-la-crise/)
 - [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 - [Angola, Mozambique… Les pays lusophones, nouveaux eldorados du GNL pour les majors](https://www.jeuneafrique.com/1728686/economie-entreprises/angola-mozambique-les-pays-lusophones-nouveaux-eldorados-du-gnl-pour-les-majors/)
 
