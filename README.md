@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 06:23*
+*Generato: 09 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30673/ep-today)
 - [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
 - [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30672/ep-today)
 - [2026 LUX Audience Award shortlisted films unveiled at the European Parliament](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30740/2026-lux-audience-award-shortlisted-films-unveiled-at-the-european-parliament)
 - [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
-- [More flexible visa suspension mechanism](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30660/more-flexible-visa-suspension-mechanism)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
+- [Jemmel redonne vie à sa vieille ville : un chantier à 350 000 dinars déjà terminé](https://lapresse.tn/2025/10/09/jemmel-redonne-vie-a-sa-vieille-ville-un-chantier-a-350-000-dinars-deja-termine/)
+- [Tunisie : les experts nuancent les chiffres sur le remboursement anticipé de la dette extérieure](https://lapresse.tn/2025/10/09/tunisie-les-experts-nuancent-les-chiffres-sur-le-remboursement-anticipe-de-la-dette-exterieure/)
+- [Taekwondo : l’équipe de Tunisie en route pour le Mondial en Chine](https://lapresse.tn/2025/10/09/taekwondo-lequipe-de-tunisie-en-route-pour-le-mondial-en-chine/)
+- [Météo : pluies attendues dans l’ouest du pays aujourd’hui](https://lapresse.tn/2025/10/09/meteo-pluies-attendues-dans-louest-du-pays-aujourdhui/)
+- [Tunisie : Arrestation de Lassaâd Yaâcoubi](https://lapresse.tn/2025/10/09/tunisie-arrestation-de-lassad-yacoubi/)
 - [Kaïs Saïed : « Les équilibres économiques doivent se ressentir dans la vie du citoyen »](https://lapresse.tn/2025/10/09/kais-saied-les-equilibres-economiques-doivent-se-ressentir-dans-la-vie-du-citoyen/)
-- [Hommage à Claudia Cardinale lundi prochain à l’IFT : Projection de « L’île du Pardon » de Ridha Béhi](https://lapresse.tn/2025/10/08/hommage-a-claudia-cardinale-lundi-prochain-a-lift-projection-de-lile-du-pardon-de-ridha-behi/)
-- [Le ministère de la Santé recrute](https://lapresse.tn/2025/10/08/le-ministere-de-la-sante-recrute/)
-- [Tunisie : Nafti ouvre la réunion des ministres des Affaires étrangères du COMESA à Nairobi](https://lapresse.tn/2025/10/08/tunisie-nafti-ouvre-la-reunion-des-ministres-des-affaires-etrangeres-du-comesa-a-nairobi/)
-- [Tunisie : un conseil ministériel trace les grandes lignes de la politique économique et sociale](https://lapresse.tn/2025/10/08/tunisie-un-conseil-ministeriel-trace-les-grandes-lignes-de-la-politique-economique-et-sociale/)
 - [Des gènes féminins sous la loupe : quand la science redéfinit la dépression](https://lapresse.tn/2025/10/08/des-genes-feminins-sous-la-loupe-quand-la-science-redefinit-la-depression/)
 - [Transition énergétique : l’Organisation tunisienne des énergies propres réclame une réforme urgente](https://lapresse.tn/2025/10/08/transition-energetique-lorganisation-tunisienne-des-energies-propres-reclame-une-reforme-urgente/)
 - [Tunisie : Les Foulées vertes reviennent à la Marsa avec la participation de 1500 coureurs](https://lapresse.tn/2025/10/08/tunisie-les-foulees-vertes-reviennent-a-la-marsa-avec-la-participation-de-1500-coureurs/)
-- [L’hôpital Sahloul de Sousse se dote d’un équipement de pointe pour le traitement des calculs rénaux](https://lapresse.tn/2025/10/08/lhopital-sahloul-de-sousse-se-dote-dun-equipement-de-pointe-pour-le-traitement-des-calculs-renaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle au Cameroun : entre Biya, Tchiroma et Bello, qui gagnera la bataille de l’Ouest ?](https://www.jeuneafrique.com/1728819/politique/presidentielle-au-cameroun-entre-biya-tchiroma-et-bello-qui-gagnera-la-bataille-de-louest/)
 - [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
 - [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
 - [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
@@ -271,7 +272,6 @@
 - [En Côte d’Ivoire, comment les candidats à la présidentielle financent-ils leur campagne ?](https://www.jeuneafrique.com/1728408/politique/en-cote-divoire-comment-les-candidats-a-la-presidentielle-financent-ils-leur-campagne/)
 - [Alger annonce un accord de coopération militaire avec la Tunisie… qui ne commente pas](https://www.jeuneafrique.com/1728821/politique/alger-annonce-un-accord-de-cooperation-militaire-avec-la-tunisie-qui-ne-commente-pas/)
 - [Face aux revendications de la Gen Z marocaine, quelles options politiques possibles ?](https://www.jeuneafrique.com/1728397/politique/face-aux-revendications-de-la-gen-z-marocaine-quelles-options-politiques-possibles/)
-- [Présidentielle au Cameroun : Maurice Kamto, de l’espoir de 2018 au piège de 2025](https://www.jeuneafrique.com/1726376/politique/presidentielle-au-cameroun-maurice-kamto-de-lespoir-de-2018-au-piege-de-2025/)
 - [Comment l’Inde est devenue un partenaire incontournable pour l’Afrique](https://www.jeuneafrique.com/1725176/economie-entreprises/comment-linde-est-devenue-un-partenaire-incontournable-pour-lafrique/)
 - [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 
