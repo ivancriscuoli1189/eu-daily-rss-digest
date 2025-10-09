@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Oct 2025, 21:04*
+*Generato: 09 Oct 2025, 06:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
+- [Kaïs Saïed : « Les équilibres économiques doivent se ressentir dans la vie du citoyen »](https://lapresse.tn/2025/10/09/kais-saied-les-equilibres-economiques-doivent-se-ressentir-dans-la-vie-du-citoyen/)
 - [Hommage à Claudia Cardinale lundi prochain à l’IFT : Projection de « L’île du Pardon » de Ridha Béhi](https://lapresse.tn/2025/10/08/hommage-a-claudia-cardinale-lundi-prochain-a-lift-projection-de-lile-du-pardon-de-ridha-behi/)
 - [Le ministère de la Santé recrute](https://lapresse.tn/2025/10/08/le-ministere-de-la-sante-recrute/)
-- [Qualifications Mondial 2026 – l’Équipe de Tunisie à pied d’œuvre pour le match de SaoTomé-Et-Principe (vendredi 17h00) : Un « Clean Sheet » à préserver !](https://lapresse.tn/2025/10/08/qualifications-mondial-2026-lequipe-de-tunisie-a-pied-doeuvre-pour-le-match-de-saotome-et-principe-vendredi-17h00-un-clean-sheet-a-preserver/)
 - [Tunisie : Nafti ouvre la réunion des ministres des Affaires étrangères du COMESA à Nairobi](https://lapresse.tn/2025/10/08/tunisie-nafti-ouvre-la-reunion-des-ministres-des-affaires-etrangeres-du-comesa-a-nairobi/)
 - [Tunisie : un conseil ministériel trace les grandes lignes de la politique économique et sociale](https://lapresse.tn/2025/10/08/tunisie-un-conseil-ministeriel-trace-les-grandes-lignes-de-la-politique-economique-et-sociale/)
-- [Arrivée à Tunis du deuxième groupe de participants tunisiens de la flottille Sou_moud](https://lapresse.tn/2025/10/08/arrivee-a-tunis-du-deuxieme-groupe-de-participants-tunisiens-de-la-flottille-sou_moud/)
 - [Des gènes féminins sous la loupe : quand la science redéfinit la dépression](https://lapresse.tn/2025/10/08/des-genes-feminins-sous-la-loupe-quand-la-science-redefinit-la-depression/)
 - [Transition énergétique : l’Organisation tunisienne des énergies propres réclame une réforme urgente](https://lapresse.tn/2025/10/08/transition-energetique-lorganisation-tunisienne-des-energies-propres-reclame-une-reforme-urgente/)
 - [Tunisie : Les Foulées vertes reviennent à la Marsa avec la participation de 1500 coureurs](https://lapresse.tn/2025/10/08/tunisie-les-foulees-vertes-reviennent-a-la-marsa-avec-la-participation-de-1500-coureurs/)
+- [L’hôpital Sahloul de Sousse se dote d’un équipement de pointe pour le traitement des calculs rénaux](https://lapresse.tn/2025/10/08/lhopital-sahloul-de-sousse-se-dote-dun-equipement-de-pointe-pour-le-traitement-des-calculs-renaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
+- [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
 - [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
+- [Madagascar : pourquoi Andry Rajoelina a choisi Ruphin Zafisambo comme Premier ministre](https://www.jeuneafrique.com/1728843/politique/madagascar-pourquoi-andry-rajoelina-a-choisi-ruphin-zafisambo-comme-premier-ministre/)
+- [En Côte d’Ivoire, comment les candidats à la présidentielle financent-ils leur campagne ?](https://www.jeuneafrique.com/1728408/politique/en-cote-divoire-comment-les-candidats-a-la-presidentielle-financent-ils-leur-campagne/)
+- [Alger annonce un accord de coopération militaire avec la Tunisie… qui ne commente pas](https://www.jeuneafrique.com/1728821/politique/alger-annonce-un-accord-de-cooperation-militaire-avec-la-tunisie-qui-ne-commente-pas/)
 - [Face aux revendications de la Gen Z marocaine, quelles options politiques possibles ?](https://www.jeuneafrique.com/1728397/politique/face-aux-revendications-de-la-gen-z-marocaine-quelles-options-politiques-possibles/)
 - [Présidentielle au Cameroun : Maurice Kamto, de l’espoir de 2018 au piège de 2025](https://www.jeuneafrique.com/1726376/politique/presidentielle-au-cameroun-maurice-kamto-de-lespoir-de-2018-au-piege-de-2025/)
-- [Mali : comment Assimi Goïta et Malick Diaw comptent remodeler le « parlement » de la transition](https://www.jeuneafrique.com/1728534/politique/mali-comment-assimi-goita-et-malick-diaw-comptent-remodeler-le-parlement-de-la-transition/)
-- [Sénégal : pourquoi Madiambal Diagne se retrouve au cœur d’un scandale financier dans le BTP](https://www.jeuneafrique.com/1728427/politique/senegal-pourquoi-madiambal-diagne-se-retrouve-au-coeur-dun-scandale-financier-dans-le-btp/)
-- [Présidentielle au Cameroun : « Le meilleur reste à venir », assure Paul Biya à Maroua](https://www.jeuneafrique.com/1728805/politique/presidentielle-au-cameroun-le-meilleur-reste-a-venir-assure-paul-biya-a-maroua/)
-- [RDC – Adolphe Muzito : « En temps de guerre, on doit tous travailler ensemble »](https://www.jeuneafrique.com/1727658/politique/rdc-adolphe-muzito-en-temps-de-guerre-on-doit-tous-travailler-ensemble/)
 - [Comment l’Inde est devenue un partenaire incontournable pour l’Afrique](https://www.jeuneafrique.com/1725176/economie-entreprises/comment-linde-est-devenue-un-partenaire-incontournable-pour-lafrique/)
 - [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 
