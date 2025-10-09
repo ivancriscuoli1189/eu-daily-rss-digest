@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 18:18*
+*Generato: 09 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
-- [La Tunisienne Sara Ben Ahmed championne du monde du 1000 m en eau libre](https://lapresse.tn/2025/10/09/la-tunisienne-sara-ben-ahmed-championne-du-monde-du-1000-m-en-eau-libre/)
-- [5e édition du Circuit Théâtre de Siliana : Les écoles dans le giron de la création](https://lapresse.tn/2025/10/09/5e-edition-du-circuit-theatre-de-siliana-les-ecoles-dans-le-giron-de-la-creation/)
-- [7E édition de « mahdia improvise » : Une passerelle de spontanéité créative](https://lapresse.tn/2025/10/09/7e-edition-de-mahdia-improvise-une-passerelle-de-spontaneite-creative/)
-- [Un magazine américain classe Tunis parmi les plus belles villes méconnues du monde](https://lapresse.tn/2025/10/09/un-magazine-americain-classe-tunis-parmi-les-plus-belles-villes-meconnues-du-monde/)
-- [Diplomatie et sécurité en Méditerranée : La Tunisie trace sa ligne rouge et appelle à un pacte partagé](https://lapresse.tn/2025/10/09/diplomatie-et-securite-en-mediterranee-la-tunisie-trace-sa-ligne-rouge-et-appelle-a-un-pacte-partage/)
-- [Neuf universités tunisiennes dans le classement mondial Times 2026](https://lapresse.tn/2025/10/09/neuf-universites-tunisiennes-dans-le-classement-mondial-times-2026/)
+- [Secteur automobile : la Tunisie structure sa réponse aux exigences de durabilité](https://lapresse.tn/2025/10/09/secteur-automobile-la-tunisie-structure-sa-reponse-aux-exigences-de-durabilite/)
+- [Pourquoi l’IA ne peut pas piloter seule la transformation responsable des entreprises ?](https://lapresse.tn/2025/10/09/pourquoi-lia-ne-peut-pas-piloter-seule-la-transformation-responsable-des-entreprises/)
+- [Qualification au Mondial 2026 : la Tunisie vise la victoire face à Sao Tomé-et-Principe](https://lapresse.tn/2025/10/09/qualification-au-mondial-2026-la-tunisie-vise-la-victoire-face-a-sao-tome-et-principe/)
+- [Demande de change : la Banque Centrale lève le voile sur sa nouvelle procédure](https://lapresse.tn/2025/10/09/demande-de-change-la-banque-centrale-leve-le-voile-sur-sa-nouvelle-procedure/)
+- [La Tunisie salue l’accord de cessez-le-feu et met en garde contre de nouvelles violations à Gaza](https://lapresse.tn/2025/10/09/la-tunisie-salue-laccord-de-cessez-le-feu-et-met-en-garde-contre-de-nouvelles-violations-a-gaza/)
+- [Tunisie : lancement du Balloons Event Show, un festival inédit de montgolfières dans le sud](https://lapresse.tn/2025/10/09/tunisie-lancement-du-balloons-event-show-un-festival-inedit-de-montgolfieres-dans-le-sud/)
 - [Déclaration de devises : ce qui va changer pour les voyageurs algériens en 2026](https://lapresse.tn/2025/10/09/declaration-de-devises-ce-qui-va-changer-pour-les-voyageurs-algeriens-en-2026/)
 - [Tekelsa : Une plage menacée entre érosion, pollution et initiatives citoyennes](https://lapresse.tn/2025/10/09/tekelsa-une-plage-menacee-entre-erosion-pollution-et-initiatives-citoyennes/)
 - [Spéculation : La fin de l’impunité et des stocks stratégiques](https://lapresse.tn/2025/10/09/speculation-la-fin-de-limpunite-et-des-stocks-strategiques/)
