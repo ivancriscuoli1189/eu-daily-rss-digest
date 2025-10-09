@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 13:25*
+*Generato: 09 Oct 2025, 15:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [László Krasznahorkai remporte le prix Nobel de littérature 2025](https://lapresse.tn/2025/10/09/laszlo-krasznahorkai-remporte-le-prix-nobel-de-litterature-2025/)
-- [Le président égyptien annonce la conclusion d’un accord de cessez-le-feu à Gaza](https://lapresse.tn/2025/10/09/le-president-egyptien-annonce-la-conclusion-dun-accord-de-cessez-le-feu-a-gaza/)
-- [Banque mondiale : déficit en baisse, dette allégée et investissements stables en Tunisie](https://lapresse.tn/2025/10/09/banque-mondiale-deficit-en-baisse-dette-allegee-et-investissements-stables-en-tunisie/)
-- [Kaïs Saïed : “Toutes les dettes de la Tunisie ont été remboursées à temps”](https://lapresse.tn/2025/10/09/kais-saied-toutes-les-dettes-de-la-tunisie-ont-ete-remboursees-a-temps/)
-- [Météo : pluies attendues dans l’ouest du pays aujourd’hui](https://lapresse.tn/2025/10/09/meteo-pluies-attendues-dans-louest-du-pays-aujourdhui/)
-- [Tunisie : Arrestation de Lassaâd Yaâcoubi](https://lapresse.tn/2025/10/09/tunisie-arrestation-de-lassad-yacoubi/)
+- [La Tunisie lance un appel d’offres pour l’achat de 100 000 tonnes de blé tendre](https://lapresse.tn/2025/10/09/la-tunisie-lance-un-appel-doffres-pour-lachat-de-100-000-tonnes-de-ble-tendre/)
+- [Ooredoo Tunisie obtient la certification ISO 22301:2019](https://lapresse.tn/2025/10/09/ooredoo-tunisie-obtient-la-certification-iso-223012019/)
+- [Tunisie : La Poste enregistre une hausse de 12 % et mise sur le paiement mobile](https://lapresse.tn/2025/10/09/tunisie-la-poste-enregistre-une-hausse-de-12-et-mise-sur-le-paiement-mobile/)
+- [Nouveau décret-loi sur les sociétés communautaires : voici ce qui change](https://lapresse.tn/2025/10/09/nouveau-decret-loi-sur-les-societes-communautaires-voici-ce-qui-change/)
+- [Ben Arous : garde à vue de Lassâad Yacoubi dans une affaire de spéculation](https://lapresse.tn/2025/10/09/ben-arous-garde-a-vue-de-lassaad-yacoubi-dans-une-affaire-de-speculation/)
+- [Bizerte : douze trafiquants de drogue arrêtés et placés en détention](https://lapresse.tn/2025/10/09/bizerte-douze-trafiquants-de-drogue-arretes-et-places-en-detention/)
 - [Le 18 octobre prochain, la Cité des Sciences célèbre la semaine mondiale de l’espace](https://lapresse.tn/2025/10/09/le-18-octobre-prochain-la-cite-des-sciences-celebre-la-semaine-mondiale-de-lespace/)
 - [Plus de 4,4 millions de dinars pour un mur d’un foyer universitaire : le gouvernorat de Kasserine justifie le coût](https://lapresse.tn/2025/10/09/plus-de-44-millions-de-dinars-pour-un-mur-dun-foyer-universitaire-le-gouvernorat-de-kasserine-justifie-le-cout/)
 - [Kasserine : un adolescent de 15 ans décède suite à une morsure de chien enragé](https://lapresse.tn/2025/10/09/kasserine-un-adolescent-de-15-ans-decede-suite-a-une-morsure-de-chien-enrage/)
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
-- [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
@@ -271,8 +271,8 @@
 - [Présidentielle au Cameroun : entre Biya, Tchiroma et Bello, qui gagnera la bataille de l’Ouest ?](https://www.jeuneafrique.com/1728819/politique/presidentielle-au-cameroun-entre-biya-tchiroma-et-bello-qui-gagnera-la-bataille-de-louest/)
 - [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
 - [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
-- [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
-- [Gabon : comment Oyima force le secteur privé à revoir ses comptes avec l’État](https://www.jeuneafrique.com/1728916/economie-entreprises/gabon-comment-oyima-force-le-secteur-prive-a-revoir-ses-comptes-avec-letat/)
+- [Au Burkina Faso, les dessous de l’arrestation pour espionnage de huit humanitaires](https://www.jeuneafrique.com/1729010/politique/au-burkina-faso-les-dessous-de-larrestation-pour-espionnage-de-huit-humanitaires/)
+- [La Russie en Afrique, une puissance économique en trompe-l’œil](https://www.jeuneafrique.com/1726396/economie-entreprises/la-russie-en-afrique-une-puissance-economique-en-trompe-loeil/)
 - [David Mignot, le « commercial hors pair » de Canal+ en Afrique](https://www.jeuneafrique.com/1727736/economie-entreprises/david-mignot-le-commercial-hors-pair-de-canal-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
