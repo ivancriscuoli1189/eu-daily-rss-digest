@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 11:05*
+*Generato: 09 Oct 2025, 12:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
 - [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
 - [MEPs reject motions of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30667/meps-reject-motions-of-censure-against-the-european-commission)
 - [Human rights violations in Equatorial Guinea, Haiti and China](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30668/human-rights-violations-in-equatorial-guinea-haiti-and-china)
@@ -91,7 +92,6 @@
 - [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
 - [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
 - [€3 million in support for 915 laid off employees in Germany](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30666/EU3-million-in-support-for-915-laid-off-employees-in-germany)
-- [Parliament ready to negotiate better working conditions for trainees](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30723/parliament-ready-to-negotiate-better-working-conditions-for-trainees)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [Baccalauréat 2026 : Ouverture des inscriptions pour les candidats](https://lapresse.tn/2025/10/09/baccalaureat-2026-ouverture-des-inscriptions-pour-les-candidats/)
-- [Vaccin contre la grippe dès le 15 octobre : deux vaccins disponibles à 37,600 à 40 dinars](https://lapresse.tn/2025/10/09/vaccin-contre-la-grippe-des-le-15-octobre-deux-vaccins-disponibles-a-37600-a-40-dinars/)
-- [Saison de la grenade : coup d’envoi d’une stratégie de promotion à l’échelle nationale et régionale](https://lapresse.tn/2025/10/09/saison-de-la-grenade-coup-denvoi-dune-strategie-de-promotion-a-lechelle-nationale-et-regionale/)
+- [Plus de 4,4 millions de dinars pour un mur d’un foyer universitaire : le gouvernorat de Kasserine justifie le coût](https://lapresse.tn/2025/10/09/plus-de-44-millions-de-dinars-pour-un-mur-dun-foyer-universitaire-le-gouvernorat-de-kasserine-justifie-le-cout/)
+- [Kasserine : un adolescent de 15 ans décède suite à une morsure de chien enragé](https://lapresse.tn/2025/10/09/kasserine-un-adolescent-de-15-ans-decede-suite-a-une-morsure-de-chien-enrage/)
+- [2ème édition du marathon “Kyranis Run” à Kerkennah](https://lapresse.tn/2025/10/09/2eme-edition-du-marathon-kyranis-run-a-kerkennah/)
 - [Kaïs Saïed : “Toutes les dettes de la Tunisie ont été remboursées à temps”](https://lapresse.tn/2025/10/09/kais-saied-toutes-les-dettes-de-la-tunisie-ont-ete-remboursees-a-temps/)
 - [Météo : pluies attendues dans l’ouest du pays aujourd’hui](https://lapresse.tn/2025/10/09/meteo-pluies-attendues-dans-louest-du-pays-aujourdhui/)
 - [Tunisie : Arrestation de Lassaâd Yaâcoubi](https://lapresse.tn/2025/10/09/tunisie-arrestation-de-lassad-yacoubi/)
-- [Logement social : des subventions jusqu’à 5 000 dinars pour les familles à bas revenus](https://lapresse.tn/2025/10/09/logement-social-des-subventions-jusqua-5-000-dinars-pour-les-familles-a-bas-revenus/)
+- [Baccalauréat 2026 : Ouverture des inscriptions pour les candidats](https://lapresse.tn/2025/10/09/baccalaureat-2026-ouverture-des-inscriptions-pour-les-candidats/)
+- [Vaccin contre la grippe dès le 15 octobre : deux vaccins disponibles à 37,600 à 40 dinars](https://lapresse.tn/2025/10/09/vaccin-contre-la-grippe-des-le-15-octobre-deux-vaccins-disponibles-a-37600-a-40-dinars/)
 - [FCR : 31 octobre, dernier délai pour bénéficier de 30% de réduction](https://lapresse.tn/2025/10/09/fcr-31-octobre-dernier-delai-pour-beneficier-de-30-de-reduction/)
-- [Tunisie : les experts nuancent les chiffres sur le remboursement anticipé de la dette extérieure](https://lapresse.tn/2025/10/09/tunisie-les-experts-nuancent-les-chiffres-sur-le-remboursement-anticipe-de-la-dette-exterieure/)
 
 ## NGOs – Amnesty International – Tunisia
 
