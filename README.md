@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 09:13*
+*Generato: 09 Oct 2025, 11:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
+- [MEPs reject motions of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30667/meps-reject-motions-of-censure-against-the-european-commission)
+- [Human rights violations in Equatorial Guinea, Haiti and China](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30668/human-rights-violations-in-equatorial-guinea-haiti-and-china)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30673/ep-today)
 - [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
@@ -89,9 +92,6 @@
 - [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
 - [€3 million in support for 915 laid off employees in Germany](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30666/EU3-million-in-support-for-915-laid-off-employees-in-germany)
 - [Parliament ready to negotiate better working conditions for trainees](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30723/parliament-ready-to-negotiate-better-working-conditions-for-trainees)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30672/ep-today)
-- [2026 LUX Audience Award shortlisted films unveiled at the European Parliament](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30740/2026-lux-audience-award-shortlisted-films-unveiled-at-the-european-parliament)
-- [Luc Frieden: “We cannot give up on the rules-based system and international law”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30661/luc-frieden-we-cannot-give-up-on-the-rules-based-system-and-international-law)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [Jemmel redonne vie à sa vieille ville : un chantier à 350 000 dinars déjà terminé](https://lapresse.tn/2025/10/09/jemmel-redonne-vie-a-sa-vieille-ville-un-chantier-a-350-000-dinars-deja-termine/)
-- [Tunisie : les experts nuancent les chiffres sur le remboursement anticipé de la dette extérieure](https://lapresse.tn/2025/10/09/tunisie-les-experts-nuancent-les-chiffres-sur-le-remboursement-anticipe-de-la-dette-exterieure/)
-- [Taekwondo : l’équipe de Tunisie en route pour le Mondial en Chine](https://lapresse.tn/2025/10/09/taekwondo-lequipe-de-tunisie-en-route-pour-le-mondial-en-chine/)
+- [Baccalauréat 2026 : Ouverture des inscriptions pour les candidats](https://lapresse.tn/2025/10/09/baccalaureat-2026-ouverture-des-inscriptions-pour-les-candidats/)
+- [Vaccin contre la grippe dès le 15 octobre : deux vaccins disponibles à 37,600 à 40 dinars](https://lapresse.tn/2025/10/09/vaccin-contre-la-grippe-des-le-15-octobre-deux-vaccins-disponibles-a-37600-a-40-dinars/)
+- [Saison de la grenade : coup d’envoi d’une stratégie de promotion à l’échelle nationale et régionale](https://lapresse.tn/2025/10/09/saison-de-la-grenade-coup-denvoi-dune-strategie-de-promotion-a-lechelle-nationale-et-regionale/)
+- [Kaïs Saïed : “Toutes les dettes de la Tunisie ont été remboursées à temps”](https://lapresse.tn/2025/10/09/kais-saied-toutes-les-dettes-de-la-tunisie-ont-ete-remboursees-a-temps/)
 - [Météo : pluies attendues dans l’ouest du pays aujourd’hui](https://lapresse.tn/2025/10/09/meteo-pluies-attendues-dans-louest-du-pays-aujourdhui/)
 - [Tunisie : Arrestation de Lassaâd Yaâcoubi](https://lapresse.tn/2025/10/09/tunisie-arrestation-de-lassad-yacoubi/)
-- [Kaïs Saïed : « Les équilibres économiques doivent se ressentir dans la vie du citoyen »](https://lapresse.tn/2025/10/09/kais-saied-les-equilibres-economiques-doivent-se-ressentir-dans-la-vie-du-citoyen/)
-- [Des gènes féminins sous la loupe : quand la science redéfinit la dépression](https://lapresse.tn/2025/10/08/des-genes-feminins-sous-la-loupe-quand-la-science-redefinit-la-depression/)
-- [Transition énergétique : l’Organisation tunisienne des énergies propres réclame une réforme urgente](https://lapresse.tn/2025/10/08/transition-energetique-lorganisation-tunisienne-des-energies-propres-reclame-une-reforme-urgente/)
-- [Tunisie : Les Foulées vertes reviennent à la Marsa avec la participation de 1500 coureurs](https://lapresse.tn/2025/10/08/tunisie-les-foulees-vertes-reviennent-a-la-marsa-avec-la-participation-de-1500-coureurs/)
+- [Logement social : des subventions jusqu’à 5 000 dinars pour les familles à bas revenus](https://lapresse.tn/2025/10/09/logement-social-des-subventions-jusqua-5-000-dinars-pour-les-familles-a-bas-revenus/)
+- [FCR : 31 octobre, dernier délai pour bénéficier de 30% de réduction](https://lapresse.tn/2025/10/09/fcr-31-octobre-dernier-delai-pour-beneficier-de-30-de-reduction/)
+- [Tunisie : les experts nuancent les chiffres sur le remboursement anticipé de la dette extérieure](https://lapresse.tn/2025/10/09/tunisie-les-experts-nuancent-les-chiffres-sur-le-remboursement-anticipe-de-la-dette-exterieure/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
+- [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
+- [Khalid Mouna : « Au Maroc, le Palais plaide pour la construction d’un État social et le gouvernement fait l’inverse »](https://www.jeuneafrique.com/1728580/politique/khalid-mouna-au-maroc-le-palais-plaide-pour-la-construction-dun-etat-social-et-le-gouvernement-fait-linverse/)
+- [Présidentielle en Centrafrique – Henri-Marie Dondra : « Il n’y a pas de recette miracle pour battre Touadéra »](https://www.jeuneafrique.com/1728808/politique/presidentielle-en-centrafrique-henri-marie-dondra-il-ny-a-pas-de-recette-miracle-pour-battre-touadera/)
 - [Présidentielle au Cameroun : entre Biya, Tchiroma et Bello, qui gagnera la bataille de l’Ouest ?](https://www.jeuneafrique.com/1728819/politique/presidentielle-au-cameroun-entre-biya-tchiroma-et-bello-qui-gagnera-la-bataille-de-louest/)
 - [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
 - [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
 - [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
-- [Madagascar : pourquoi Andry Rajoelina a choisi Ruphin Zafisambo comme Premier ministre](https://www.jeuneafrique.com/1728843/politique/madagascar-pourquoi-andry-rajoelina-a-choisi-ruphin-zafisambo-comme-premier-ministre/)
-- [En Côte d’Ivoire, comment les candidats à la présidentielle financent-ils leur campagne ?](https://www.jeuneafrique.com/1728408/politique/en-cote-divoire-comment-les-candidats-a-la-presidentielle-financent-ils-leur-campagne/)
-- [Alger annonce un accord de coopération militaire avec la Tunisie… qui ne commente pas](https://www.jeuneafrique.com/1728821/politique/alger-annonce-un-accord-de-cooperation-militaire-avec-la-tunisie-qui-ne-commente-pas/)
-- [Face aux revendications de la Gen Z marocaine, quelles options politiques possibles ?](https://www.jeuneafrique.com/1728397/politique/face-aux-revendications-de-la-gen-z-marocaine-quelles-options-politiques-possibles/)
+- [David Mignot, le « commercial hors pair » de Canal+ en Afrique](https://www.jeuneafrique.com/1727736/economie-entreprises/david-mignot-le-commercial-hors-pair-de-canal-en-afrique/)
 - [Comment l’Inde est devenue un partenaire incontournable pour l’Afrique](https://www.jeuneafrique.com/1725176/economie-entreprises/comment-linde-est-devenue-un-partenaire-incontournable-pour-lafrique/)
-- [Mines au Mali : la pénurie de carburant, épée de Damoclès pour le moteur économique du pays](https://www.jeuneafrique.com/1728354/economie-entreprises/mines-au-mali-la-penurie-de-carburant-epee-de-damocles-pour-le-moteur-economique-du-pays/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
