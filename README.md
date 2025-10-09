@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 12:17*
+*Generato: 09 Oct 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
 - [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
 - [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
 - [MEPs reject motions of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30667/meps-reject-motions-of-censure-against-the-european-commission)
@@ -91,12 +92,11 @@
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
 - [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
 - [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
-- [€3 million in support for 915 laid off employees in Germany](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30666/EU3-million-in-support-for-915-laid-off-employees-in-germany)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [Plus de 4,4 millions de dinars pour un mur d’un foyer universitaire : le gouvernorat de Kasserine justifie le coût](https://lapresse.tn/2025/10/09/plus-de-44-millions-de-dinars-pour-un-mur-dun-foyer-universitaire-le-gouvernorat-de-kasserine-justifie-le-cout/)
-- [Kasserine : un adolescent de 15 ans décède suite à une morsure de chien enragé](https://lapresse.tn/2025/10/09/kasserine-un-adolescent-de-15-ans-decede-suite-a-une-morsure-de-chien-enrage/)
-- [2ème édition du marathon “Kyranis Run” à Kerkennah](https://lapresse.tn/2025/10/09/2eme-edition-du-marathon-kyranis-run-a-kerkennah/)
+- [László Krasznahorkai remporte le prix Nobel de littérature 2025](https://lapresse.tn/2025/10/09/laszlo-krasznahorkai-remporte-le-prix-nobel-de-litterature-2025/)
+- [Le président égyptien annonce la conclusion d’un accord de cessez-le-feu à Gaza](https://lapresse.tn/2025/10/09/le-president-egyptien-annonce-la-conclusion-dun-accord-de-cessez-le-feu-a-gaza/)
+- [Banque mondiale : déficit en baisse, dette allégée et investissements stables en Tunisie](https://lapresse.tn/2025/10/09/banque-mondiale-deficit-en-baisse-dette-allegee-et-investissements-stables-en-tunisie/)
 - [Kaïs Saïed : “Toutes les dettes de la Tunisie ont été remboursées à temps”](https://lapresse.tn/2025/10/09/kais-saied-toutes-les-dettes-de-la-tunisie-ont-ete-remboursees-a-temps/)
 - [Météo : pluies attendues dans l’ouest du pays aujourd’hui](https://lapresse.tn/2025/10/09/meteo-pluies-attendues-dans-louest-du-pays-aujourdhui/)
 - [Tunisie : Arrestation de Lassaâd Yaâcoubi](https://lapresse.tn/2025/10/09/tunisie-arrestation-de-lassad-yacoubi/)
-- [Baccalauréat 2026 : Ouverture des inscriptions pour les candidats](https://lapresse.tn/2025/10/09/baccalaureat-2026-ouverture-des-inscriptions-pour-les-candidats/)
-- [Vaccin contre la grippe dès le 15 octobre : deux vaccins disponibles à 37,600 à 40 dinars](https://lapresse.tn/2025/10/09/vaccin-contre-la-grippe-des-le-15-octobre-deux-vaccins-disponibles-a-37600-a-40-dinars/)
-- [FCR : 31 octobre, dernier délai pour bénéficier de 30% de réduction](https://lapresse.tn/2025/10/09/fcr-31-octobre-dernier-delai-pour-beneficier-de-30-de-reduction/)
+- [Le 18 octobre prochain, la Cité des Sciences célèbre la semaine mondiale de l’espace](https://lapresse.tn/2025/10/09/le-18-octobre-prochain-la-cite-des-sciences-celebre-la-semaine-mondiale-de-lespace/)
+- [Plus de 4,4 millions de dinars pour un mur d’un foyer universitaire : le gouvernorat de Kasserine justifie le coût](https://lapresse.tn/2025/10/09/plus-de-44-millions-de-dinars-pour-un-mur-dun-foyer-universitaire-le-gouvernorat-de-kasserine-justifie-le-cout/)
+- [Kasserine : un adolescent de 15 ans décède suite à une morsure de chien enragé](https://lapresse.tn/2025/10/09/kasserine-un-adolescent-de-15-ans-decede-suite-a-une-morsure-de-chien-enrage/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
 - [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
 - [L’état de santé de Hannibal Kadhafi, en détention au Liban, est « alarmant » selon son avocat](https://www.jeuneafrique.com/1728958/politique/letat-de-sante-de-hannibal-kadhafi-en-detention-au-liban-est-alarmant-selon-son-avocat/)
+- [Gabon : comment Oyima force le secteur privé à revoir ses comptes avec l’État](https://www.jeuneafrique.com/1728916/economie-entreprises/gabon-comment-oyima-force-le-secteur-prive-a-revoir-ses-comptes-avec-letat/)
 - [David Mignot, le « commercial hors pair » de Canal+ en Afrique](https://www.jeuneafrique.com/1727736/economie-entreprises/david-mignot-le-commercial-hors-pair-de-canal-en-afrique/)
-- [Comment l’Inde est devenue un partenaire incontournable pour l’Afrique](https://www.jeuneafrique.com/1725176/economie-entreprises/comment-linde-est-devenue-un-partenaire-incontournable-pour-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
