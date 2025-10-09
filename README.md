@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 15:27*
+*Generato: 09 Oct 2025, 18:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le oui mais…](https://lapresse.tn/2025/10/08/le-oui-mais/)
-- [La Tunisie lance un appel d’offres pour l’achat de 100 000 tonnes de blé tendre](https://lapresse.tn/2025/10/09/la-tunisie-lance-un-appel-doffres-pour-lachat-de-100-000-tonnes-de-ble-tendre/)
-- [Ooredoo Tunisie obtient la certification ISO 22301:2019](https://lapresse.tn/2025/10/09/ooredoo-tunisie-obtient-la-certification-iso-223012019/)
-- [Tunisie : La Poste enregistre une hausse de 12 % et mise sur le paiement mobile](https://lapresse.tn/2025/10/09/tunisie-la-poste-enregistre-une-hausse-de-12-et-mise-sur-le-paiement-mobile/)
-- [Nouveau décret-loi sur les sociétés communautaires : voici ce qui change](https://lapresse.tn/2025/10/09/nouveau-decret-loi-sur-les-societes-communautaires-voici-ce-qui-change/)
-- [Ben Arous : garde à vue de Lassâad Yacoubi dans une affaire de spéculation](https://lapresse.tn/2025/10/09/ben-arous-garde-a-vue-de-lassaad-yacoubi-dans-une-affaire-de-speculation/)
-- [Bizerte : douze trafiquants de drogue arrêtés et placés en détention](https://lapresse.tn/2025/10/09/bizerte-douze-trafiquants-de-drogue-arretes-et-places-en-detention/)
-- [Le 18 octobre prochain, la Cité des Sciences célèbre la semaine mondiale de l’espace](https://lapresse.tn/2025/10/09/le-18-octobre-prochain-la-cite-des-sciences-celebre-la-semaine-mondiale-de-lespace/)
-- [Plus de 4,4 millions de dinars pour un mur d’un foyer universitaire : le gouvernorat de Kasserine justifie le coût](https://lapresse.tn/2025/10/09/plus-de-44-millions-de-dinars-pour-un-mur-dun-foyer-universitaire-le-gouvernorat-de-kasserine-justifie-le-cout/)
-- [Kasserine : un adolescent de 15 ans décède suite à une morsure de chien enragé](https://lapresse.tn/2025/10/09/kasserine-un-adolescent-de-15-ans-decede-suite-a-une-morsure-de-chien-enrage/)
+- [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
+- [La Tunisienne Sara Ben Ahmed championne du monde du 1000 m en eau libre](https://lapresse.tn/2025/10/09/la-tunisienne-sara-ben-ahmed-championne-du-monde-du-1000-m-en-eau-libre/)
+- [5e édition du Circuit Théâtre de Siliana : Les écoles dans le giron de la création](https://lapresse.tn/2025/10/09/5e-edition-du-circuit-theatre-de-siliana-les-ecoles-dans-le-giron-de-la-creation/)
+- [7E édition de « mahdia improvise » : Une passerelle de spontanéité créative](https://lapresse.tn/2025/10/09/7e-edition-de-mahdia-improvise-une-passerelle-de-spontaneite-creative/)
+- [Un magazine américain classe Tunis parmi les plus belles villes méconnues du monde](https://lapresse.tn/2025/10/09/un-magazine-americain-classe-tunis-parmi-les-plus-belles-villes-meconnues-du-monde/)
+- [Diplomatie et sécurité en Méditerranée : La Tunisie trace sa ligne rouge et appelle à un pacte partagé](https://lapresse.tn/2025/10/09/diplomatie-et-securite-en-mediterranee-la-tunisie-trace-sa-ligne-rouge-et-appelle-a-un-pacte-partage/)
+- [Neuf universités tunisiennes dans le classement mondial Times 2026](https://lapresse.tn/2025/10/09/neuf-universites-tunisiennes-dans-le-classement-mondial-times-2026/)
+- [Déclaration de devises : ce qui va changer pour les voyageurs algériens en 2026](https://lapresse.tn/2025/10/09/declaration-de-devises-ce-qui-va-changer-pour-les-voyageurs-algeriens-en-2026/)
+- [Tekelsa : Une plage menacée entre érosion, pollution et initiatives citoyennes](https://lapresse.tn/2025/10/09/tekelsa-une-plage-menacee-entre-erosion-pollution-et-initiatives-citoyennes/)
+- [Spéculation : La fin de l’impunité et des stocks stratégiques](https://lapresse.tn/2025/10/09/speculation-la-fin-de-limpunite-et-des-stocks-strategiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Est de la RDC : le risque d’une impasse diplomatique en pleine escalade militaire](https://www.jeuneafrique.com/1729215/politique/est-de-la-rdc-le-risque-dune-impasse-diplomatique-en-pleine-escalade-militaire/)
 - [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
 - [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
 - [Khalid Mouna : « Au Maroc, le Palais plaide pour la construction d’un État social et le gouvernement fait l’inverse »](https://www.jeuneafrique.com/1728580/politique/khalid-mouna-au-maroc-le-palais-plaide-pour-la-construction-dun-etat-social-et-le-gouvernement-fait-linverse/)
+- [« Nous régnons ici par décret divin » : au Niger, plongée exceptionnelle au cœur de la terreur jihadiste](https://www.jeuneafrique.com/1728339/politique/nous-regnons-ici-par-decret-divin-au-niger-plongee-exceptionnelle-au-coeur-de-la-terreur-jihadiste/)
+- [Présidentielle en Guinée : comment Mamadi Doumbouya a mis hors jeu ses adversaires](https://www.jeuneafrique.com/1728943/politique/presidentielle-en-guinee-comment-mamadi-doumbouya-a-mis-hors-jeu-ses-adversaires/)
 - [Présidentielle en Centrafrique – Henri-Marie Dondra : « Il n’y a pas de recette miracle pour battre Touadéra »](https://www.jeuneafrique.com/1728808/politique/presidentielle-en-centrafrique-henri-marie-dondra-il-ny-a-pas-de-recette-miracle-pour-battre-touadera/)
 - [Présidentielle au Cameroun : entre Biya, Tchiroma et Bello, qui gagnera la bataille de l’Ouest ?](https://www.jeuneafrique.com/1728819/politique/presidentielle-au-cameroun-entre-biya-tchiroma-et-bello-qui-gagnera-la-bataille-de-louest/)
-- [Centrafrique : le BRDC, principale plateforme d’opposition, boycottera la présidentielle](https://www.jeuneafrique.com/1729112/politique/centrafrique-le-brdc-principale-plateforme-dopposition-boycottera-la-presidentielle/)
-- [Au Mali, Assimi Goïta radie plusieurs officiers accusés de tentative de coup d’État](https://www.jeuneafrique.com/1729088/politique/au-mali-assimi-goita-radie-plusieurs-officiers-accuses-de-tentative-de-coup-detat/)
-- [Au Burkina Faso, les dessous de l’arrestation pour espionnage de huit humanitaires](https://www.jeuneafrique.com/1729010/politique/au-burkina-faso-les-dessous-de-larrestation-pour-espionnage-de-huit-humanitaires/)
 - [La Russie en Afrique, une puissance économique en trompe-l’œil](https://www.jeuneafrique.com/1726396/economie-entreprises/la-russie-en-afrique-une-puissance-economique-en-trompe-loeil/)
 - [David Mignot, le « commercial hors pair » de Canal+ en Afrique](https://www.jeuneafrique.com/1727736/economie-entreprises/david-mignot-le-commercial-hors-pair-de-canal-en-afrique/)
 
