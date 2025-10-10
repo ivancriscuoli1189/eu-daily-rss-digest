@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Oct 2025, 09:12*
+*Generato: 10 Oct 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
+- [Port punique de Mahdia : entre filets et histoire, un patrimoine en péril](https://lapresse.tn/2025/10/10/port-punique-de-mahdia-entre-filets-et-histoire-un-patrimoine-en-peril/)
+- [Exonération fiscale des véhicules R.S : les explications du colonel Chokri Jabri](https://lapresse.tn/2025/10/10/exoneration-fiscale-des-vehicules-n-t-les-explications-du-colonel-chokri-jabri/)
+- [Des drones d’origine inconnue survolent l’Europe : L’OTAN déclare l’état d’urgence](https://lapresse.tn/2025/10/10/des-drones-dorigine-inconnue-survolent-leurope-lotan-declare-letat-durgence/)
+- [Sidi Hssine : plus de 40 dealers de drogue arrêtés autour des établissements scolaires](https://lapresse.tn/2025/10/10/sidi-hssine-plus-de-40-dealers-de-drogue-arretes-autour-des-etablissements-scolaires/)
 - [Tunisie – Pharmacie centrale : fin des fonctions de Chokri Hammouda](https://lapresse.tn/2025/10/10/tunisie-pharmacie-centrale-fin-des-fonctions-de-chokri-hammouda/)
-- [Tunisie : Marwa Bouzayani parmi les dix meilleures mondiales du 3000 m steeple en 2025](https://lapresse.tn/2025/10/10/tunisie-marwa-bouzayani-parmi-les-dix-meilleures-mondiales-du-3000-m-steeple-en-2025/)
-- [Un séisme de magnitude 7,5 frappe le sud des Philippines, alertes aux tsunamis](https://lapresse.tn/2025/10/10/un-seisme-de-magnitude-75-frappe-le-sud-des-philippines-alertes-aux-tsunamis/)
 - [La Tunisie plaide en faveur d’une intégration plus efficace de l’Afrique dans l’économie mondiale](https://lapresse.tn/2025/10/10/la-tunisie-plaide-en-faveur-dune-integration-plus-efficace-de-lafrique-dans-leconomie-mondiale/)
-- [Météo : ciel dégagé et vent fort](https://lapresse.tn/2025/10/10/meteo-ciel-degage-et-vent-fort/)
-- [Secteur automobile : la Tunisie structure sa réponse aux exigences de durabilité](https://lapresse.tn/2025/10/09/secteur-automobile-la-tunisie-structure-sa-reponse-aux-exigences-de-durabilite/)
+- [Tunisie : Le projet de la Sebkha Ben Ghayadha passe à la vitesse supérieure](https://lapresse.tn/2025/10/10/tunisie-le-projet-de-la-sebkha-ben-ghayadha-passe-a-la-vitesse-superieure/)
 - [Tunisie : lancement du Balloons Event Show, un festival inédit de montgolfières dans le sud](https://lapresse.tn/2025/10/09/tunisie-lancement-du-balloons-event-show-un-festival-inedit-de-montgolfieres-dans-le-sud/)
 - [Déclaration de devises : ce qui va changer pour les voyageurs algériens en 2026](https://lapresse.tn/2025/10/09/declaration-de-devises-ce-qui-va-changer-pour-les-voyageurs-algeriens-en-2026/)
-- [Tekelsa : Une plage menacée entre érosion, pollution et initiatives citoyennes](https://lapresse.tn/2025/10/09/tekelsa-une-plage-menacee-entre-erosion-pollution-et-initiatives-citoyennes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,12 +266,12 @@
 
 - [En Côte d’Ivoire, treize membres du PDCI inculpés pour « complot contre l’autorité de l’État », selon leur avocat](https://www.jeuneafrique.com/1729531/politique/en-cote-divoire-treize-membres-du-pdci-inculpes-pour-complot-contre-lautorite-de-letat-selon-leur-avocat/)
 - [Afrique-États-Unis : le Burkina Faso affirme avoir refusé d’accueillir des expulsés de Donald Trump](https://www.jeuneafrique.com/1729522/politique/afrique-etats-unis-le-burkina-faso-affirme-avoir-refuse-daccueillir-des-expulses-de-donald-trump/)
+- [Présidentielle au Cameroun : pour le G20, c’est Paul Biya forever](https://www.jeuneafrique.com/1721581/politique/presidentielle-au-cameroun-pour-le-g20-cest-paul-biya-forever/)
 - [Est de la RDC : le risque d’une impasse diplomatique en pleine escalade militaire](https://www.jeuneafrique.com/1729215/politique/est-de-la-rdc-le-risque-dune-impasse-diplomatique-en-pleine-escalade-militaire/)
 - [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
 - [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
 - [Khalid Mouna : « Au Maroc, le Palais plaide pour la construction d’un État social et le gouvernement fait l’inverse »](https://www.jeuneafrique.com/1728580/politique/khalid-mouna-au-maroc-le-palais-plaide-pour-la-construction-dun-etat-social-et-le-gouvernement-fait-linverse/)
 - [« Nous régnons ici par décret divin » : au Niger, plongée exceptionnelle au cœur de la terreur jihadiste](https://www.jeuneafrique.com/1728339/politique/nous-regnons-ici-par-decret-divin-au-niger-plongee-exceptionnelle-au-coeur-de-la-terreur-jihadiste/)
-- [Présidentielle en Guinée : comment Mamadi Doumbouya a mis hors jeu ses adversaires](https://www.jeuneafrique.com/1728943/politique/presidentielle-en-guinee-comment-mamadi-doumbouya-a-mis-hors-jeu-ses-adversaires/)
 - [Banque mondiale : comment Ajay Banga prépare le big bang de l’institution](https://www.jeuneafrique.com/1729314/economie-entreprises/banque-mondiale-comment-ajay-banga-prepare-le-big-bang-de-linstitution/)
 - [Togo : les chantiers prioritaires du nouveau ministre de l’Économie](https://www.jeuneafrique.com/1729201/economie-entreprises/togo-les-chantiers-prioritaires-du-nouveau-ministre-de-leconomie/)
 
