@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Oct 2025, 11:04*
+*Generato: 10 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
+- [L’adversaire – Sao Tomé-et-Principe : Marquer les esprits](https://lapresse.tn/2025/10/10/ladversaire-sao-tome-et-principe-marquer-les-esprits/)
+- [Tunisie : Vers la création d’une plateforme numérique arabo-turque pour dynamiser la recherche et l’innovation](https://lapresse.tn/2025/10/10/tunisie-vers-la-creation-dune-plateforme-numerique-arabo-turque-pour-dynamiser-la-recherche-et-linnovation/)
 - [Port punique de Mahdia : entre filets et histoire, un patrimoine en péril](https://lapresse.tn/2025/10/10/port-punique-de-mahdia-entre-filets-et-histoire-un-patrimoine-en-peril/)
-- [Exonération fiscale des véhicules R.S : les explications du colonel Chokri Jabri](https://lapresse.tn/2025/10/10/exoneration-fiscale-des-vehicules-n-t-les-explications-du-colonel-chokri-jabri/)
-- [Des drones d’origine inconnue survolent l’Europe : L’OTAN déclare l’état d’urgence](https://lapresse.tn/2025/10/10/des-drones-dorigine-inconnue-survolent-leurope-lotan-declare-letat-durgence/)
+- [Effondrement d’un pont à Ben Arous : cinq responsables placés en détention](https://lapresse.tn/2025/10/10/effondrement-dun-pont-a-ben-arous-cinq-responsables-places-en-detention/)
 - [Sidi Hssine : plus de 40 dealers de drogue arrêtés autour des établissements scolaires](https://lapresse.tn/2025/10/10/sidi-hssine-plus-de-40-dealers-de-drogue-arretes-autour-des-etablissements-scolaires/)
 - [Tunisie – Pharmacie centrale : fin des fonctions de Chokri Hammouda](https://lapresse.tn/2025/10/10/tunisie-pharmacie-centrale-fin-des-fonctions-de-chokri-hammouda/)
-- [La Tunisie plaide en faveur d’une intégration plus efficace de l’Afrique dans l’économie mondiale](https://lapresse.tn/2025/10/10/la-tunisie-plaide-en-faveur-dune-integration-plus-efficace-de-lafrique-dans-leconomie-mondiale/)
 - [Tunisie : Le projet de la Sebkha Ben Ghayadha passe à la vitesse supérieure](https://lapresse.tn/2025/10/10/tunisie-le-projet-de-la-sebkha-ben-ghayadha-passe-a-la-vitesse-superieure/)
 - [Tunisie : lancement du Balloons Event Show, un festival inédit de montgolfières dans le sud](https://lapresse.tn/2025/10/09/tunisie-lancement-du-balloons-event-show-un-festival-inedit-de-montgolfieres-dans-le-sud/)
 - [Déclaration de devises : ce qui va changer pour les voyageurs algériens en 2026](https://lapresse.tn/2025/10/09/declaration-de-devises-ce-qui-va-changer-pour-les-voyageurs-algeriens-en-2026/)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Face aux manifestations, le Maroc suspendu à la prise de parole de Mohammed VI](https://www.jeuneafrique.com/1729610/politique/face-aux-manifestations-le-maroc-suspendu-a-la-prise-de-parole-de-mohammed-vi/)
 - [En Côte d’Ivoire, treize membres du PDCI inculpés pour « complot contre l’autorité de l’État », selon leur avocat](https://www.jeuneafrique.com/1729531/politique/en-cote-divoire-treize-membres-du-pdci-inculpes-pour-complot-contre-lautorite-de-letat-selon-leur-avocat/)
 - [Afrique-États-Unis : le Burkina Faso affirme avoir refusé d’accueillir des expulsés de Donald Trump](https://www.jeuneafrique.com/1729522/politique/afrique-etats-unis-le-burkina-faso-affirme-avoir-refuse-daccueillir-des-expulses-de-donald-trump/)
 - [Présidentielle au Cameroun : pour le G20, c’est Paul Biya forever](https://www.jeuneafrique.com/1721581/politique/presidentielle-au-cameroun-pour-le-g20-cest-paul-biya-forever/)
@@ -271,7 +272,6 @@
 - [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
 - [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
 - [Khalid Mouna : « Au Maroc, le Palais plaide pour la construction d’un État social et le gouvernement fait l’inverse »](https://www.jeuneafrique.com/1728580/politique/khalid-mouna-au-maroc-le-palais-plaide-pour-la-construction-dun-etat-social-et-le-gouvernement-fait-linverse/)
-- [« Nous régnons ici par décret divin » : au Niger, plongée exceptionnelle au cœur de la terreur jihadiste](https://www.jeuneafrique.com/1728339/politique/nous-regnons-ici-par-decret-divin-au-niger-plongee-exceptionnelle-au-coeur-de-la-terreur-jihadiste/)
 - [Banque mondiale : comment Ajay Banga prépare le big bang de l’institution](https://www.jeuneafrique.com/1729314/economie-entreprises/banque-mondiale-comment-ajay-banga-prepare-le-big-bang-de-linstitution/)
 - [Togo : les chantiers prioritaires du nouveau ministre de l’Économie](https://www.jeuneafrique.com/1729201/economie-entreprises/togo-les-chantiers-prioritaires-du-nouveau-ministre-de-leconomie/)
 
