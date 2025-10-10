@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Oct 2025, 06:15*
+*Generato: 10 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
 - [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
 - [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
@@ -91,7 +92,6 @@
 - [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
 - [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
-- [More than €900,000 in EU aid for 417 workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30707/more-than-EU900-000-in-eu-aid-for-417-workers-in-belgium)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
+- [Tunisie – Pharmacie centrale : fin des fonctions de Chokri Hammouda](https://lapresse.tn/2025/10/10/tunisie-pharmacie-centrale-fin-des-fonctions-de-chokri-hammouda/)
+- [Tunisie : Marwa Bouzayani parmi les dix meilleures mondiales du 3000 m steeple en 2025](https://lapresse.tn/2025/10/10/tunisie-marwa-bouzayani-parmi-les-dix-meilleures-mondiales-du-3000-m-steeple-en-2025/)
+- [Un séisme de magnitude 7,5 frappe le sud des Philippines, alertes aux tsunamis](https://lapresse.tn/2025/10/10/un-seisme-de-magnitude-75-frappe-le-sud-des-philippines-alertes-aux-tsunamis/)
+- [La Tunisie plaide en faveur d’une intégration plus efficace de l’Afrique dans l’économie mondiale](https://lapresse.tn/2025/10/10/la-tunisie-plaide-en-faveur-dune-integration-plus-efficace-de-lafrique-dans-leconomie-mondiale/)
+- [Météo : ciel dégagé et vent fort](https://lapresse.tn/2025/10/10/meteo-ciel-degage-et-vent-fort/)
 - [Secteur automobile : la Tunisie structure sa réponse aux exigences de durabilité](https://lapresse.tn/2025/10/09/secteur-automobile-la-tunisie-structure-sa-reponse-aux-exigences-de-durabilite/)
-- [Pourquoi l’IA ne peut pas piloter seule la transformation responsable des entreprises ?](https://lapresse.tn/2025/10/09/pourquoi-lia-ne-peut-pas-piloter-seule-la-transformation-responsable-des-entreprises/)
-- [Qualification au Mondial 2026 : la Tunisie vise la victoire face à Sao Tomé-et-Principe](https://lapresse.tn/2025/10/09/qualification-au-mondial-2026-la-tunisie-vise-la-victoire-face-a-sao-tome-et-principe/)
-- [Demande de change : la Banque Centrale lève le voile sur sa nouvelle procédure](https://lapresse.tn/2025/10/09/demande-de-change-la-banque-centrale-leve-le-voile-sur-sa-nouvelle-procedure/)
-- [La Tunisie salue l’accord de cessez-le-feu et met en garde contre de nouvelles violations à Gaza](https://lapresse.tn/2025/10/09/la-tunisie-salue-laccord-de-cessez-le-feu-et-met-en-garde-contre-de-nouvelles-violations-a-gaza/)
 - [Tunisie : lancement du Balloons Event Show, un festival inédit de montgolfières dans le sud](https://lapresse.tn/2025/10/09/tunisie-lancement-du-balloons-event-show-un-festival-inedit-de-montgolfieres-dans-le-sud/)
 - [Déclaration de devises : ce qui va changer pour les voyageurs algériens en 2026](https://lapresse.tn/2025/10/09/declaration-de-devises-ce-qui-va-changer-pour-les-voyageurs-algeriens-en-2026/)
 - [Tekelsa : Une plage menacée entre érosion, pollution et initiatives citoyennes](https://lapresse.tn/2025/10/09/tekelsa-une-plage-menacee-entre-erosion-pollution-et-initiatives-citoyennes/)
-- [Spéculation : La fin de l’impunité et des stocks stratégiques](https://lapresse.tn/2025/10/09/speculation-la-fin-de-limpunite-et-des-stocks-strategiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,7 +239,7 @@
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [A HISTORY OF INDIA](https://www.cespi.it/it/eventi-note/eventi/history-india)
+- [QUO VADIS, ARGENTINA? Prospettive politiche ed economiche dopo le elezioni di metà mandato](https://www.cespi.it/it/eventi-note/eventi/quo-vadis-argentina-prospettive-politiche-ed-economiche-dopo-le-elezioni-di-meta)
 - [Graduatoria finale della procedura comparativa per titoli di figure professionali cui affidare incarichi nell’ambito del progetto SU.PR.EME. 2](https://www.cespi.it/it/eventi-note/comunicazioni/graduatoria-finale-della-procedura-comparativa-titoli-di-figure-3)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Sur un Plateau », la nouvelle newsletter de Jeune Afrique, entièrement consacrée à la Côte d’Ivoire](https://www.jeuneafrique.com/1729407/politique/decouvrez-la-nouvelle-newsletter-de-jeune-afrique-entierement-consacree-a-la-politique-en-cote-divoire/)
+- [En Côte d’Ivoire, treize membres du PDCI inculpés pour « complot contre l’autorité de l’État », selon leur avocat](https://www.jeuneafrique.com/1729531/politique/en-cote-divoire-treize-membres-du-pdci-inculpes-pour-complot-contre-lautorite-de-letat-selon-leur-avocat/)
+- [Afrique-États-Unis : le Burkina Faso affirme avoir refusé d’accueillir des expulsés de Donald Trump](https://www.jeuneafrique.com/1729522/politique/afrique-etats-unis-le-burkina-faso-affirme-avoir-refuse-daccueillir-des-expulses-de-donald-trump/)
 - [Est de la RDC : le risque d’une impasse diplomatique en pleine escalade militaire](https://www.jeuneafrique.com/1729215/politique/est-de-la-rdc-le-risque-dune-impasse-diplomatique-en-pleine-escalade-militaire/)
 - [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
 - [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
 - [Khalid Mouna : « Au Maroc, le Palais plaide pour la construction d’un État social et le gouvernement fait l’inverse »](https://www.jeuneafrique.com/1728580/politique/khalid-mouna-au-maroc-le-palais-plaide-pour-la-construction-dun-etat-social-et-le-gouvernement-fait-linverse/)
 - [« Nous régnons ici par décret divin » : au Niger, plongée exceptionnelle au cœur de la terreur jihadiste](https://www.jeuneafrique.com/1728339/politique/nous-regnons-ici-par-decret-divin-au-niger-plongee-exceptionnelle-au-coeur-de-la-terreur-jihadiste/)
 - [Présidentielle en Guinée : comment Mamadi Doumbouya a mis hors jeu ses adversaires](https://www.jeuneafrique.com/1728943/politique/presidentielle-en-guinee-comment-mamadi-doumbouya-a-mis-hors-jeu-ses-adversaires/)
-- [Présidentielle en Centrafrique – Henri-Marie Dondra : « Il n’y a pas de recette miracle pour battre Touadéra »](https://www.jeuneafrique.com/1728808/politique/presidentielle-en-centrafrique-henri-marie-dondra-il-ny-a-pas-de-recette-miracle-pour-battre-touadera/)
+- [Banque mondiale : comment Ajay Banga prépare le big bang de l’institution](https://www.jeuneafrique.com/1729314/economie-entreprises/banque-mondiale-comment-ajay-banga-prepare-le-big-bang-de-linstitution/)
 - [Togo : les chantiers prioritaires du nouveau ministre de l’Économie](https://www.jeuneafrique.com/1729201/economie-entreprises/togo-les-chantiers-prioritaires-du-nouveau-ministre-de-leconomie/)
-- [La Russie en Afrique, une puissance économique en trompe-l’œil](https://www.jeuneafrique.com/1726396/economie-entreprises/la-russie-en-afrique-une-puissance-economique-en-trompe-loeil/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
