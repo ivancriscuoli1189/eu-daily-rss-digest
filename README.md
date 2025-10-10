@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Oct 2025, 15:05*
+*Generato: 10 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Des rapports exemplaires](https://lapresse.tn/2025/10/09/des-rapports-exemplaires/)
-- [Octobre Rose: l’accès difficile des femmes en situation d’handicap au dépistage précoce](https://lapresse.tn/2025/10/10/octobre-rose-lacces-difficile-des-femmes-en-situation-dhandicap-au-depistage-precoce/)
-- [Selon les psychologues, la génération actuelle des jeunes est fragile et vulnérable](https://lapresse.tn/2025/10/10/selon-les-psychologues-la-generation-actuelle-des-jeunes-est-fragile-et-vulnerable/)
-- [Gabès-Plage Essalem: des élèves étouffent pour la seconde fois suite à l’inhalation de gaz toxiques](https://lapresse.tn/2025/10/10/gabes-plage-essalem-des-eleves-etouffent-pour-la-seconde-fois-suite-a-linhalation-de-gaz-toxiques/)
-- [Tunisie : Vers la création d’une plateforme numérique arabo-turque pour dynamiser la recherche et l’innovation](https://lapresse.tn/2025/10/10/tunisie-vers-la-creation-dune-plateforme-numerique-arabo-turque-pour-dynamiser-la-recherche-et-linnovation/)
-- [Effondrement d’un pont à Ben Arous : cinq responsables placés en détention](https://lapresse.tn/2025/10/10/effondrement-dun-pont-a-ben-arous-cinq-responsables-places-en-detention/)
-- [Tunisie : Avancée majeure en chirurgie pédiatrique à Sidi Bouzid](https://lapresse.tn/2025/10/10/tunisie-avancee-majeure-en-chirurgie-pediatrique-a-sidi-bouzid/)
-- [Port punique de Mahdia : entre filets et histoire, un patrimoine en péril](https://lapresse.tn/2025/10/10/port-punique-de-mahdia-entre-filets-et-histoire-un-patrimoine-en-peril/)
-- [Tunisie : Le projet de la Sebkha Ben Ghayadha passe à la vitesse supérieure](https://lapresse.tn/2025/10/10/tunisie-le-projet-de-la-sebkha-ben-ghayadha-passe-a-la-vitesse-superieure/)
-- [Pourquoi les prix de la noisette flambent-ils en Tunisie ?](https://lapresse.tn/2025/10/10/pourquoi-les-prix-de-la-noisette-flambent-ils-en-tunisie/)
+- [Les équilibres budgétaires et financiers sur la bonne voie](https://lapresse.tn/2025/10/10/les-equilibres-budgetaires-et-financiers-sur-la-bonne-voie/)
+- [En Bref](https://lapresse.tn/2025/10/10/en-bref-20/)
+- [Kristalina Georgieva, en prélude des assemblées annuelles du FMI 2025 : « Maintenir le commerce comme moteur de croissance »](https://lapresse.tn/2025/10/10/kristalina-georgieva-en-prelude-des-assemblees-annuelles-du-fmi-2025-maintenir-le-commerce-comme-moteur-de-croissance/)
+- [Colloque national sur la transition énergétique : La Tunisie en retard sur ses objectifs 2030](https://lapresse.tn/2025/10/10/colloque-national-sur-la-transition-energetique-la-tunisie-en-retard-sur-ses-objectifs-2030/)
+- [Recevant le gouverneur de la BCT : Kaïs Saïed alerte sur les flux financiers occultes](https://lapresse.tn/2025/10/10/recevant-le-gouverneur-de-la-bct-kais-saied-alerte-sur-les-flux-financiers-occultes/)
+- [Tunis : cinq ans de prison pour un ancien président d’une association sportive](https://lapresse.tn/2025/10/10/tunis-cinq-ans-de-prison-pour-un-ancien-president-dune-association-sportive/)
+- [Le SPOT appelle l’État à éponger ses dettes envers la Pharmacie centrale](https://lapresse.tn/2025/10/10/le-spot-appelle-letat-a-eponger-ses-dettes-envers-la-pharmacie-centrale/)
+- [Décrochage scolaire en Tunisie : entre chiffres alarmants et l’espoir de l’École de la deuxième chance : Pour un nouveau départ](https://lapresse.tn/2025/10/10/decrochage-scolaire-en-tunisie-entre-chiffres-alarmants-et-lespoir-de-lecole-de-la-deuxieme-chance-pour-un-nouveau-depart/)
+- [Médenine : Examen médical pour les futurs pèlerins](https://lapresse.tn/2025/10/10/medenine-examen-medical-pour-les-futurs-pelerins/)
+- [Pourquoi : De bon augure !](https://lapresse.tn/2025/10/10/pourquoi-de-bon-augure/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,12 +268,12 @@
 - [Face aux manifestations, le Maroc suspendu à la prise de parole de Mohammed VI](https://www.jeuneafrique.com/1729610/politique/face-aux-manifestations-le-maroc-suspendu-a-la-prise-de-parole-de-mohammed-vi/)
 - [En Côte d’Ivoire, treize membres du PDCI inculpés pour « complot contre l’autorité de l’État », selon leur avocat](https://www.jeuneafrique.com/1729531/politique/en-cote-divoire-treize-membres-du-pdci-inculpes-pour-complot-contre-lautorite-de-letat-selon-leur-avocat/)
 - [Afrique-États-Unis : le Burkina Faso affirme avoir refusé d’accueillir des expulsés de Donald Trump](https://www.jeuneafrique.com/1729522/politique/afrique-etats-unis-le-burkina-faso-affirme-avoir-refuse-daccueillir-des-expulses-de-donald-trump/)
+- [Détention de Guy Hervé Kam au Burkina Faso : un « déni de justice intolérable », selon un collectif d’avocats africains](https://www.jeuneafrique.com/1729325/politique/detention-de-guy-herve-kam-au-burkina-faso-un-deni-de-justice-intolerable-selon-un-collectif-davocats-africains/)
+- [Mamadi Doumbouya : un référendum et bientôt une présidentielle pour devenir fréquentable](https://www.jeuneafrique.com/1728210/politique/mamadi-doumbouya-un-referendum-et-bientot-une-presidentielle-pour-devenir-frequentable/)
+- [« Sur un Plateau », la nouvelle newsletter de Jeune Afrique, entièrement consacrée à la Côte d’Ivoire](https://www.jeuneafrique.com/1729407/politique/decouvrez-la-nouvelle-newsletter-de-jeune-afrique-entierement-consacree-a-la-politique-en-cote-divoire/)
 - [Présidentielle au Cameroun : pour le G20, c’est Paul Biya forever](https://www.jeuneafrique.com/1721581/politique/presidentielle-au-cameroun-pour-le-g20-cest-paul-biya-forever/)
-- [Est de la RDC : le risque d’une impasse diplomatique en pleine escalade militaire](https://www.jeuneafrique.com/1729215/politique/est-de-la-rdc-le-risque-dune-impasse-diplomatique-en-pleine-escalade-militaire/)
-- [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
-- [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
 - [Au Mali, la Révolution française de 1789 ne sera plus enseignée aux écoliers](https://www.jeuneafrique.com/1729580/economie-entreprises/au-mali-la-revolution-francaise-de-1789-ne-sera-plus-enseignee-aux-ecoliers/)
-- [Japon, Corée, Singapour… Dans les pas de la Chine, ces « nouveaux players » qui marchent sur l’Afrique](https://www.jeuneafrique.com/1727766/economie-entreprises/japon-coree-singapour-dans-les-pas-de-la-chine-ces-nouveaux-players-qui-marchent-sur-lafrique/)
+- [Séraphin Prao : « La Côte d’Ivoire doit transformer sa croissance en prospérité partagée »](https://www.jeuneafrique.com/1726848/economie-entreprises/seraphin-prao-la-cote-divoire-doit-transformer-sa-croissance-en-prosperite-partagee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
