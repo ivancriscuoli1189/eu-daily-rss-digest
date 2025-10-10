@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Oct 2025, 21:04*
+*Generato: 10 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Sur un Plateau », la nouvelle newsletter de Jeune Afrique, entièrement consacrée à la Côte d’Ivoire](https://www.jeuneafrique.com/1729407/politique/decouvrez-la-nouvelle-newsletter-de-jeune-afrique-entierement-consacree-a-la-politique-en-cote-divoire/)
 - [Est de la RDC : le risque d’une impasse diplomatique en pleine escalade militaire](https://www.jeuneafrique.com/1729215/politique/est-de-la-rdc-le-risque-dune-impasse-diplomatique-en-pleine-escalade-militaire/)
 - [Plan Mattei : l’Italie peut-elle vraiment prendre la place de la France sur le continent ?](https://www.jeuneafrique.com/1728201/politique/plan-mattei-litalie-peut-elle-vraiment-prendre-la-place-de-la-france-sur-le-continent/)
 - [Au Togo, Faure Gnassingbé nomme un nouveau gouvernement, la plupart des ministres sont reconduits](https://www.jeuneafrique.com/1729186/politique/au-togo-faure-gnassingbe-nomme-un-nouveau-gouvernement-la-plupart-des-ministres-sont-reconduits/)
@@ -271,9 +272,8 @@
 - [« Nous régnons ici par décret divin » : au Niger, plongée exceptionnelle au cœur de la terreur jihadiste](https://www.jeuneafrique.com/1728339/politique/nous-regnons-ici-par-decret-divin-au-niger-plongee-exceptionnelle-au-coeur-de-la-terreur-jihadiste/)
 - [Présidentielle en Guinée : comment Mamadi Doumbouya a mis hors jeu ses adversaires](https://www.jeuneafrique.com/1728943/politique/presidentielle-en-guinee-comment-mamadi-doumbouya-a-mis-hors-jeu-ses-adversaires/)
 - [Présidentielle en Centrafrique – Henri-Marie Dondra : « Il n’y a pas de recette miracle pour battre Touadéra »](https://www.jeuneafrique.com/1728808/politique/presidentielle-en-centrafrique-henri-marie-dondra-il-ny-a-pas-de-recette-miracle-pour-battre-touadera/)
-- [Présidentielle au Cameroun : entre Biya, Tchiroma et Bello, qui gagnera la bataille de l’Ouest ?](https://www.jeuneafrique.com/1728819/politique/presidentielle-au-cameroun-entre-biya-tchiroma-et-bello-qui-gagnera-la-bataille-de-louest/)
+- [Togo : les chantiers prioritaires du nouveau ministre de l’Économie](https://www.jeuneafrique.com/1729201/economie-entreprises/togo-les-chantiers-prioritaires-du-nouveau-ministre-de-leconomie/)
 - [La Russie en Afrique, une puissance économique en trompe-l’œil](https://www.jeuneafrique.com/1726396/economie-entreprises/la-russie-en-afrique-une-puissance-economique-en-trompe-loeil/)
-- [David Mignot, le « commercial hors pair » de Canal+ en Afrique](https://www.jeuneafrique.com/1727736/economie-entreprises/david-mignot-le-commercial-hors-pair-de-canal-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
