@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Oct 2025, 18:14*
+*Generato: 10 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les équilibres budgétaires et financiers sur la bonne voie](https://lapresse.tn/2025/10/10/les-equilibres-budgetaires-et-financiers-sur-la-bonne-voie/)
-- [En Bref](https://lapresse.tn/2025/10/10/en-bref-20/)
-- [Kristalina Georgieva, en prélude des assemblées annuelles du FMI 2025 : « Maintenir le commerce comme moteur de croissance »](https://lapresse.tn/2025/10/10/kristalina-georgieva-en-prelude-des-assemblees-annuelles-du-fmi-2025-maintenir-le-commerce-comme-moteur-de-croissance/)
-- [Colloque national sur la transition énergétique : La Tunisie en retard sur ses objectifs 2030](https://lapresse.tn/2025/10/10/colloque-national-sur-la-transition-energetique-la-tunisie-en-retard-sur-ses-objectifs-2030/)
-- [Recevant le gouverneur de la BCT : Kaïs Saïed alerte sur les flux financiers occultes](https://lapresse.tn/2025/10/10/recevant-le-gouverneur-de-la-bct-kais-saied-alerte-sur-les-flux-financiers-occultes/)
-- [Tunis : cinq ans de prison pour un ancien président d’une association sportive](https://lapresse.tn/2025/10/10/tunis-cinq-ans-de-prison-pour-un-ancien-president-dune-association-sportive/)
-- [Le SPOT appelle l’État à éponger ses dettes envers la Pharmacie centrale](https://lapresse.tn/2025/10/10/le-spot-appelle-letat-a-eponger-ses-dettes-envers-la-pharmacie-centrale/)
+- [France : Sébastien Lecornu renommé Premier ministre après sa démission surprise](https://lapresse.tn/2025/10/10/france-sebastien-lecornu-renomme-premier-ministre-apres-sa-demission-surprise/)
+- [Tunisie : Jamila Boulakbeche bat deux records au 800 m nage libre à l’Open des Alpes](https://lapresse.tn/2025/10/10/tunisie-jamila-boulakbeche-bat-deux-records-au-800-m-nage-libre-a-lopen-des-alpes/)
+- [Le Tunisien Ahmed Jaoudi brille aux États-Unis et domine le 1000 yards nage libre](https://lapresse.tn/2025/10/10/le-tunisien-ahmed-jaoudi-brille-aux-etats-unis-et-domine-le-1000-yards-nage-libre/)
+- [Tunisie : Bouderbala reçoit les conseillers praticiens et agents d’encadrement exclus du concours 2021](https://lapresse.tn/2025/10/10/tunisie-bouderbala-recoit-les-conseillers-praticiens-et-agents-dencadrement-exclus-du-concours-2021/)
+- [Mohamed Ali Nafti salue le rôle de la communauté tunisienne au Kenya dans le rapprochement bilatéral](https://lapresse.tn/2025/10/10/mohamed-ali-nafti-salue-le-role-de-la-communaute-tunisienne-au-kenya-dans-le-rapprochement-bilateral/)
+- [Mondial2026 : La Tunisie domine Sao Tomé-et-Principe (6-0)](https://lapresse.tn/2025/10/10/mondial2026-la-tunisie-domine-sao-tome-et-principe-6-0/)
+- [Tunisie : Saisie massive dans une usine de fromages à Sousse](https://lapresse.tn/2025/10/10/tunisie-saisie-massive-dans-une-usine-de-fromages-a-sousse/)
+- [Logement en Tunisie : un QR-Code pour consulter les offres du FOPROLOS](https://lapresse.tn/2025/10/10/logement-en-tunisie-un-qr-code-pour-consulter-les-offres-du-foprolos/)
 - [Décrochage scolaire en Tunisie : entre chiffres alarmants et l’espoir de l’École de la deuxième chance : Pour un nouveau départ](https://lapresse.tn/2025/10/10/decrochage-scolaire-en-tunisie-entre-chiffres-alarmants-et-lespoir-de-lecole-de-la-deuxieme-chance-pour-un-nouveau-depart/)
-- [Médenine : Examen médical pour les futurs pèlerins](https://lapresse.tn/2025/10/10/medenine-examen-medical-pour-les-futurs-pelerins/)
-- [Pourquoi : De bon augure !](https://lapresse.tn/2025/10/10/pourquoi-de-bon-augure/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Mamadi Doumbouya : un référendum et bientôt une présidentielle pour devenir fréquentable](https://www.jeuneafrique.com/1728210/politique/mamadi-doumbouya-un-referendum-et-bientot-une-presidentielle-pour-devenir-frequentable/)
 - [« Sur un Plateau », la nouvelle newsletter de Jeune Afrique, entièrement consacrée à la Côte d’Ivoire](https://www.jeuneafrique.com/1729407/politique/decouvrez-la-nouvelle-newsletter-de-jeune-afrique-entierement-consacree-a-la-politique-en-cote-divoire/)
 - [Présidentielle au Cameroun : pour le G20, c’est Paul Biya forever](https://www.jeuneafrique.com/1721581/politique/presidentielle-au-cameroun-pour-le-g20-cest-paul-biya-forever/)
-- [Au Mali, la Révolution française de 1789 ne sera plus enseignée aux écoliers](https://www.jeuneafrique.com/1729580/economie-entreprises/au-mali-la-revolution-francaise-de-1789-ne-sera-plus-enseignee-aux-ecoliers/)
 - [Séraphin Prao : « La Côte d’Ivoire doit transformer sa croissance en prospérité partagée »](https://www.jeuneafrique.com/1726848/economie-entreprises/seraphin-prao-la-cote-divoire-doit-transformer-sa-croissance-en-prosperite-partagee/)
+- [Japon, Corée, Singapour… Dans les pas de la Chine, ces « nouveaux players » qui marchent sur l’Afrique](https://www.jeuneafrique.com/1727766/economie-entreprises/japon-coree-singapour-dans-les-pas-de-la-chine-ces-nouveaux-players-qui-marchent-sur-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
