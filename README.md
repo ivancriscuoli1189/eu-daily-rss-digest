@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 09:14*
+*Generato: 13 Oct 2025, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à la dignité](https://lapresse.tn/2025/10/12/le-droit-absolu-a-la-dignite/)
-- [L’ailier dribbleur des Aigles de Carthage : Elias Saâd, le booster offensif](https://lapresse.tn/2025/10/13/lailier-dribbleur-des-aigles-de-carthage-elias-saad-le-booster-offensif/)
-- [Cinquante milliards de dollars, c’est ce que coûtera la reconstruction de Gaza](https://lapresse.tn/2025/10/13/cinquante-milliards-de-dollars-cest-ce-que-coutera-la-reconstruction-de-gaza/)
-- [Faut-il craindre une nouvelle dépréciation du dinar tunisien ?](https://lapresse.tn/2025/10/13/faut-il-craindre-une-nouvelle-depreciation-du-dinar-tunisien/)
+- [Où suivre le match Tunisie – Namibie ?](https://lapresse.tn/2025/10/13/ou-suivre-le-match-tunisie-namibie/)
+- [Selon la directrice de l’OMS en Tunisie, 45 % des enfants de moins de 12 ans ont touché à la cigarette au moins une fois](https://lapresse.tn/2025/10/13/selon-la-directrice-de-loms-en-tunisie-45-des-enfants-de-moins-de-12-ans-ont-touche-a-la-cigarette-au-moins-une-fois/)
+- [La Tunisie accueillera le deuxième Forum méditerranéen sur l’IA en novembre prochain](https://lapresse.tn/2025/10/13/la-tunisie-accueillera-le-deuxieme-forum-mediterraneen-sur-lia-en-novembre-prochain/)
 - [Météo : pluies éparses et orages dans le nord de la Tunisie](https://lapresse.tn/2025/10/12/meteo-pluies-eparses-et-orages-dans-le-nord-de-la-tunisie/)
 - [Salon International du Textile et de l’Habillement de Sousse : Près de 7.000 visiteurs et 250 entreprises attendus à la 7e édition](https://lapresse.tn/2025/10/12/salon-international-du-textile-et-de-lhabillement-de-sousse-pres-de-7-000-visiteurs-et-250-entreprises-attendus-a-la-7e-edition/)
 - [Commentaire : Les pions s’agitent…](https://lapresse.tn/2025/10/12/commentaire-les-pions-sagitent/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
 - [Présidentielle en Côte d’Ivoire : le PDCI et le PPA-CI appellent à manifester « tous les jours »](https://www.jeuneafrique.com/1730168/politique/presidentielle-en-cote-divoire-le-pdci-et-le-ppa-ci-appellent-a-manifester-tous-les-jours/)
 - [Badinter, Kabila, Tshisekedi : la justice n’est pas la vengeance](https://www.jeuneafrique.com/1729761/politique/badinter-kabila-tshisekedi-la-justice-nest-pas-la-vengeance/)
 - [Ahmed Taleb Ibrahimi, l’homme qui a interdit Jeune Afrique en Algérie](https://www.jeuneafrique.com/1728944/politique/ahmed-taleb-ibrahimi-lhomme-qui-a-interdit-jeune-afrique-en-algerie/)
 - [Présidentielle aux Seychelles : Patrick Herminie l’emporte](https://www.jeuneafrique.com/1730095/politique/presidentielle-aux-seychelles-patrick-herminie-lemporte/)
 - [Madagascar : Andry Rajoelina dénonce « une tentative de prise du pouvoir illégale et par la force »](https://www.jeuneafrique.com/1730073/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-prise-du-pouvoir-illegale-et-par-la-force/)
-- [Présidentielle au Cameroun : entre espoir et méfiance, le pays s’apprête à voter](https://www.jeuneafrique.com/1729951/politique/presidentielle-au-cameroun-entre-espoir-et-mefiance-le-pays-sapprete-a-voter/)
-- [Côte d’Ivoire : à Abidjan, une manifestation de l’opposition dispersée par les forces de l’ordre](https://www.jeuneafrique.com/1729974/politique/cote-divoire-a-abidjan-une-manifestation-de-lopposition-dispersee-par-les-forces-de-lordre/)
-- [Madagascar : situation confuse à Antananarivo, où une partie de l’armée s’est mutinée](https://www.jeuneafrique.com/1729968/politique/appel-a-la-mutinerie-a-madagascar-ce-que-lon-sait-de-la-situation/)
+- [Présidentielle au Cameroun : après une journée de vote tendue, le duel entre Biya et Tchiroma Bakary se précise](https://www.jeuneafrique.com/1729401/politique/presidentielle-au-cameroun-suivez-la-journee-de-vote-en-direct/)
+- [Côte d’Ivoire : lors de son premier meeting, à Daloa, Alassane Ouattara promet de « faire plus »](https://www.jeuneafrique.com/1730048/politique/cote-divoire-lors-de-son-premier-meeting-a-daloa-alassane-ouattara-promet-de-faire-plus/)
 - [Tanger, Port-Saïd, Dakar… Quels sont les ports africains les plus performants ?](https://www.jeuneafrique.com/1729721/economie-entreprises/tanger-port-said-dakar-quels-sont-les-plus-grands-ports-africains/)
 - [Sénégal : Dakar dénonce la dégradation de sa note par l’agence Moody’s](https://www.jeuneafrique.com/1730026/economie-entreprises/senegal-dakar-denonce-la-degradation-de-sa-note-par-lagence-moodys/)
 
