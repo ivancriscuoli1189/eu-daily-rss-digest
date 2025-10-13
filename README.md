@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 11:11*
+*Generato: 13 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à la dignité](https://lapresse.tn/2025/10/12/le-droit-absolu-a-la-dignite/)
+- [Règlements : ce qu’il faut savoir sur les contrats des joueurs professionnels](https://lapresse.tn/2025/10/13/reglements-ce-quil-faut-savoir-sur-les-contrats-des-joueurs-professionnels/)
+- [Bou Salem : le corps de la femme emportée par les crues retrouvé ce lundi matin](https://lapresse.tn/2025/10/13/bou-salem-le-corps-de-la-femme-emportee-par-les-crues-retrouve-ce-lundi-matin/)
 - [Où suivre le match Tunisie – Namibie ?](https://lapresse.tn/2025/10/13/ou-suivre-le-match-tunisie-namibie/)
-- [Selon la directrice de l’OMS en Tunisie, 45 % des enfants de moins de 12 ans ont touché à la cigarette au moins une fois](https://lapresse.tn/2025/10/13/selon-la-directrice-de-loms-en-tunisie-45-des-enfants-de-moins-de-12-ans-ont-touche-a-la-cigarette-au-moins-une-fois/)
-- [La Tunisie accueillera le deuxième Forum méditerranéen sur l’IA en novembre prochain](https://lapresse.tn/2025/10/13/la-tunisie-accueillera-le-deuxieme-forum-mediterraneen-sur-lia-en-novembre-prochain/)
 - [Météo : pluies éparses et orages dans le nord de la Tunisie](https://lapresse.tn/2025/10/12/meteo-pluies-eparses-et-orages-dans-le-nord-de-la-tunisie/)
 - [Salon International du Textile et de l’Habillement de Sousse : Près de 7.000 visiteurs et 250 entreprises attendus à la 7e édition](https://lapresse.tn/2025/10/12/salon-international-du-textile-et-de-lhabillement-de-sousse-pres-de-7-000-visiteurs-et-250-entreprises-attendus-a-la-7e-edition/)
 - [Commentaire : Les pions s’agitent…](https://lapresse.tn/2025/10/12/commentaire-les-pions-sagitent/)
+- [Selon la directrice de l’OMS en Tunisie, 45 % des enfants de moins de 12 ans ont touché à la cigarette au moins une fois](https://lapresse.tn/2025/10/13/selon-la-directrice-de-loms-en-tunisie-45-des-enfants-de-moins-de-12-ans-ont-touche-a-la-cigarette-au-moins-une-fois/)
 - [Tunisie : Une femme emportée par les eaux de l’oued Dzira à Bou Salem](https://lapresse.tn/2025/10/13/tunisie-une-femme-emportee-par-les-eaux-de-loued-dzira-a-bou-salem/)
 - [Le ministère de l’Agriculture prépare une révision de l’arrêté sur la pêche du thon rouge](https://lapresse.tn/2025/10/13/le-ministere-de-lagriculture-prepare-une-revision-de-larrete-sur-la-peche-du-thon-rouge/)
-- [Deux jeunes femmes condamnées à 10 ans de prison pour trafic de drogue dans des boîtes de nuit à Gammarth](https://lapresse.tn/2025/10/12/deux-jeunes-femmes-condamnees-a-10-ans-de-prison-pour-trafic-de-drogue-dans-des-boites-de-nuit-a-gammarth/)
 
 ## NGOs – Amnesty International – Tunisia
 
