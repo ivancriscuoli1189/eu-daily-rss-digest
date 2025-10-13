@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 06:17*
+*Generato: 13 Oct 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à la dignité](https://lapresse.tn/2025/10/12/le-droit-absolu-a-la-dignite/)
-- [Météo : Temps partiellement nuageux et températures stables](https://lapresse.tn/2025/10/13/meteo-temps-partiellement-nuageux-et-temperatures-stables-3/)
-- [Tunisie : le déficit commercial se creuse à 16,7 milliards de dinars sur neuf mois](https://lapresse.tn/2025/10/13/tunisie-le-deficit-commercial-se-creuse-a-167-milliards-de-dinars-sur-neuf-mois/)
-- [Tunisie : Les avoirs en devises atteignent 24,6 milliards de dinars](https://lapresse.tn/2025/10/13/tunisie-les-avoirs-en-devises-atteignent-246-milliards-de-dinars/)
+- [L’ailier dribbleur des Aigles de Carthage : Elias Saâd, le booster offensif](https://lapresse.tn/2025/10/13/lailier-dribbleur-des-aigles-de-carthage-elias-saad-le-booster-offensif/)
+- [Cinquante milliards de dollars, c’est ce que coûtera la reconstruction de Gaza](https://lapresse.tn/2025/10/13/cinquante-milliards-de-dollars-cest-ce-que-coutera-la-reconstruction-de-gaza/)
+- [Faut-il craindre une nouvelle dépréciation du dinar tunisien ?](https://lapresse.tn/2025/10/13/faut-il-craindre-une-nouvelle-depreciation-du-dinar-tunisien/)
 - [Météo : pluies éparses et orages dans le nord de la Tunisie](https://lapresse.tn/2025/10/12/meteo-pluies-eparses-et-orages-dans-le-nord-de-la-tunisie/)
 - [Salon International du Textile et de l’Habillement de Sousse : Près de 7.000 visiteurs et 250 entreprises attendus à la 7e édition](https://lapresse.tn/2025/10/12/salon-international-du-textile-et-de-lhabillement-de-sousse-pres-de-7-000-visiteurs-et-250-entreprises-attendus-a-la-7e-edition/)
 - [Commentaire : Les pions s’agitent…](https://lapresse.tn/2025/10/12/commentaire-les-pions-sagitent/)
+- [Tunisie : Une femme emportée par les eaux de l’oued Dzira à Bou Salem](https://lapresse.tn/2025/10/13/tunisie-une-femme-emportee-par-les-eaux-de-loued-dzira-a-bou-salem/)
+- [Le ministère de l’Agriculture prépare une révision de l’arrêté sur la pêche du thon rouge](https://lapresse.tn/2025/10/13/le-ministere-de-lagriculture-prepare-une-revision-de-larrete-sur-la-peche-du-thon-rouge/)
 - [Deux jeunes femmes condamnées à 10 ans de prison pour trafic de drogue dans des boîtes de nuit à Gammarth](https://lapresse.tn/2025/10/12/deux-jeunes-femmes-condamnees-a-10-ans-de-prison-pour-trafic-de-drogue-dans-des-boites-de-nuit-a-gammarth/)
-- [Vive polémique à Sayada après la destruction des terrains de tennis du club local](https://lapresse.tn/2025/10/12/vive-polemique-a-sayada-apres-la-destruction-des-terrains-de-tennis-du-club-local/)
-- [Nabeul – Festival de la HARISSA 2025 : Du piment et du piquant pour titiller les papilles](https://lapresse.tn/2025/10/12/nabeul-festival-de-la-harissa-2025-du-piment-et-du-piquant-pour-titiller-les-papilles/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -270,10 +270,10 @@
 - [Présidentielle aux Seychelles : Patrick Herminie l’emporte](https://www.jeuneafrique.com/1730095/politique/presidentielle-aux-seychelles-patrick-herminie-lemporte/)
 - [Madagascar : Andry Rajoelina dénonce « une tentative de prise du pouvoir illégale et par la force »](https://www.jeuneafrique.com/1730073/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-prise-du-pouvoir-illegale-et-par-la-force/)
 - [Présidentielle au Cameroun : entre espoir et méfiance, le pays s’apprête à voter](https://www.jeuneafrique.com/1729951/politique/presidentielle-au-cameroun-entre-espoir-et-mefiance-le-pays-sapprete-a-voter/)
+- [Côte d’Ivoire : à Abidjan, une manifestation de l’opposition dispersée par les forces de l’ordre](https://www.jeuneafrique.com/1729974/politique/cote-divoire-a-abidjan-une-manifestation-de-lopposition-dispersee-par-les-forces-de-lordre/)
 - [Madagascar : situation confuse à Antananarivo, où une partie de l’armée s’est mutinée](https://www.jeuneafrique.com/1729968/politique/appel-a-la-mutinerie-a-madagascar-ce-que-lon-sait-de-la-situation/)
-- [Présidentielle en Côte d’Ivoire : Alassane Ouattara face à une opposition morcelée](https://www.jeuneafrique.com/1729807/politique/presidentielle-en-cote-divoire-alassane-ouattara-face-a-une-opposition-morcelee/)
+- [Tanger, Port-Saïd, Dakar… Quels sont les ports africains les plus performants ?](https://www.jeuneafrique.com/1729721/economie-entreprises/tanger-port-said-dakar-quels-sont-les-plus-grands-ports-africains/)
 - [Sénégal : Dakar dénonce la dégradation de sa note par l’agence Moody’s](https://www.jeuneafrique.com/1730026/economie-entreprises/senegal-dakar-denonce-la-degradation-de-sa-note-par-lagence-moodys/)
-- [Le Brésil est-il vraiment de retour en Afrique ?](https://www.jeuneafrique.com/1729293/economie-entreprises/le-bresil-est-il-vraiment-de-retour-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
