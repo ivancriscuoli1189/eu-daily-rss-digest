@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 12:19*
+*Generato: 13 Oct 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -145,38 +145,12 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-136_programme-de-relance-de-l-investissement-et-de-modernisation.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-36_appui-a-la-gestion-durable-des-ressources-halieutiques-et-aq.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à la dignité](https://lapresse.tn/2025/10/12/le-droit-absolu-a-la-dignite/)
+- [La BERD introduit en Tunisie son mécanisme de financement vert avec l’appui de l’UE](https://lapresse.tn/2025/10/13/la-berd-introduit-en-tunisie-son-mecanisme-de-financement-vert-avec-lappui-de-lue/)
 - [Règlements : ce qu’il faut savoir sur les contrats des joueurs professionnels](https://lapresse.tn/2025/10/13/reglements-ce-quil-faut-savoir-sur-les-contrats-des-joueurs-professionnels/)
 - [Bou Salem : le corps de la femme emportée par les crues retrouvé ce lundi matin](https://lapresse.tn/2025/10/13/bou-salem-le-corps-de-la-femme-emportee-par-les-crues-retrouve-ce-lundi-matin/)
-- [Où suivre le match Tunisie – Namibie ?](https://lapresse.tn/2025/10/13/ou-suivre-le-match-tunisie-namibie/)
 - [Météo : pluies éparses et orages dans le nord de la Tunisie](https://lapresse.tn/2025/10/12/meteo-pluies-eparses-et-orages-dans-le-nord-de-la-tunisie/)
 - [Salon International du Textile et de l’Habillement de Sousse : Près de 7.000 visiteurs et 250 entreprises attendus à la 7e édition](https://lapresse.tn/2025/10/12/salon-international-du-textile-et-de-lhabillement-de-sousse-pres-de-7-000-visiteurs-et-250-entreprises-attendus-a-la-7e-edition/)
 - [Commentaire : Les pions s’agitent…](https://lapresse.tn/2025/10/12/commentaire-les-pions-sagitent/)
