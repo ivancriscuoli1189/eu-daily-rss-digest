@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 18:14*
+*Generato: 13 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,6 +119,32 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -148,9 +174,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [GEFF en Tunisie : Amen Bank et UBCI reçoivent 20 millions d’euros de la BERD](https://lapresse.tn/2025/10/13/geff-en-tunisie-amen-bank-et-ubci-recoivent-20-millions-deuros-de-la-berd/)
-- [L’entreprise espagnole Martín Aranda envisage d’implanter une unité textile en Tunisie](https://lapresse.tn/2025/10/13/lentreprise-espagnole-martin-aranda-envisage-dimplanter-une-unite-textile-en-tunisie/)
-- [Le CMF prépare une réforme globale des prospectus d’émission pour moderniser le marché financier](https://lapresse.tn/2025/10/13/le-cmf-prepare-une-reforme-globale-des-prospectus-demission-pour-moderniser-le-marche-financier/)
+- [Apporter au CAB des garanties solides avant tout : Un comité provisoire, et après?](https://lapresse.tn/2025/10/13/apporter-au-cab-des-garanties-solides-avant-tout-un-comite-provisoire-et-apres/)
+- [Basket – Premier sacre Africain en 2011 de l’équipe nationale : Symbolique et inoubliable !](https://lapresse.tn/2025/10/13/basket-premier-sacre-africain-en-2011-de-lequipe-nationale-symbolique-et-inoubliable/)
+- [Présence italienne dans l’architecture tunisienne au palais Ahmed Bey : Une exposition en demi-teinte](https://lapresse.tn/2025/10/13/presence-italienne-dans-larchitecture-tunisienne-au-palais-ahmed-bey-une-exposition-en-demi-teinte/)
 - [Match amical contre le Brésil prévu en novembre prochain: la FTF finalise les derniers préparatifs](https://lapresse.tn/2025/10/13/match-amical-contre-le-bresil-prevu-en-novembre-prochain-la-ftf-finalise-les-derniers-preparatifs/)
 - [Complexe Chimique de Gabès : début des opérations de diagnostic par une équipe conjointe d’inspection de l’industrie et de l’environnement](https://lapresse.tn/2025/10/13/complexe-chimique-de-gabes-debut-des-operations-de-diagnostic-par-une-equipe-conjointe-dinspection-de-lindustrie-et-de-lenvironnement/)
 - [Des experts appellent à la valorisation du phosphogypse](https://lapresse.tn/2025/10/13/des-experts-appellent-a-la-valorisation-du-phosphogypse/)
@@ -239,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
+- [Présidentielle au Cameroun : le bras de fer entre Biya et Tchiroma Bakary a bel et bien commencé](https://www.jeuneafrique.com/1730246/politique/presidentielle-au-cameroun-le-bras-de-fer-entre-biya-et-tchiroma-bakary-a-bel-et-bien-commence/)
 - [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
 - [En Tunisie, le profil des électeurs du président Kaïs Saïed a bien changé depuis 2019](https://www.jeuneafrique.com/1730222/politique/en-tunisie-le-profil-des-electeurs-du-president-kais-saied-a-bien-change-depuis-2019/)
 - [« On ne veut plus de violences, mais on veut du changement » : en Côte d’Ivoire, Daoukro retient son souffle](https://www.jeuneafrique.com/1729175/politique/on-ne-veut-plus-de-violences-mais-on-veut-du-changement-en-cote-divoire-daoukro-retient-son-souffle/)
 - [Présidentielle en Côte d’Ivoire : le PDCI et le PPA-CI appellent à manifester « tous les jours »](https://www.jeuneafrique.com/1730168/politique/presidentielle-en-cote-divoire-le-pdci-et-le-ppa-ci-appellent-a-manifester-tous-les-jours/)
 - [Badinter, Kabila, Tshisekedi : la justice n’est pas la vengeance](https://www.jeuneafrique.com/1729761/politique/badinter-kabila-tshisekedi-la-justice-nest-pas-la-vengeance/)
 - [Anciens ministres, militaires, jeunes loups… Au Mali, qui aide Malick Diaw à gérer le CNT ?](https://www.jeuneafrique.com/1729364/politique/anciens-ministres-militaires-jeunes-loups-au-mali-qui-aide-malick-diaw-a-gerer-le-cnt/)
-- [Crise à Madagascar : « L’armée a répondu à l’appel du peuple », affirme le leader des mutins](https://www.jeuneafrique.com/1730103/politique/crise-a-madagascar-andry-rajoelina-denonce-une-tentative-de-coup-detat-situation-toujours-incertaine-a-antananarivo/)
 - [FMI-Banque mondiale : après l’Agoa, la croissance en Afrique, sujet chaud des assemblées annuelles](https://www.jeuneafrique.com/1730279/economie-entreprises/fmi-banque-mondiale-apres-lagoa-la-croissance-en-afrique-sujet-chaud-des-assemblees-annuelles/)
 - [Qatar Airways et Emirates, deux modèles qui s’affrontent dans le ciel africain](https://www.jeuneafrique.com/1721010/economie-entreprises/entre-qatar-airways-et-emirates-deux-modeles-saffrontent-dans-le-ciel-africain/)
 
