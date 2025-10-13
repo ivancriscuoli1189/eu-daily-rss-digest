@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 13:25*
+*Generato: 13 Oct 2025, 15:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,9 +70,9 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد رياض شوّد وزير التشغيل والتكوين المهني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B4%D9%88%D9%91%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عصام الأحمر وزير الشؤون الاجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد محمد علي النفطي وزير الشؤون الخارجية والهجرة والتونسيين بالخارج](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة فاطمة ثابت شيبوب وزيرة الصناعة و المناجم و الطّاقة والسيّد حبيب عبيد وزير البيئة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%A7%D8%B7%D9%85%D8%A9-%D8%AB%D8%A7%D8%A8%D8%AA-%D8%B4%D9%8A%D8%A8%D9%88%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%D9%85-%D9%88-%D8%A7%D9%84%D8%B7%D9%91%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد فتحي زهير النّوري محافظ البنك المركزي التّونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D9%88%D9%86%D8%B3%D9%8A)
 - [اجتمع رئيس الجمهوريّة قيس سعيّد عصر يوم أمس الثلاثاء 30 سبتمبر بكلّ من السيّدين مصطفى الفرجاني، وزير الصحة، وحبيب عبيد، وزير البيئة، والسيّدة فاطمة ثابت شيبوب، وزيرة الصناعة والطاقة والمناجم، وتناول اللقاء الوضع البيئي في مدينة قابس.](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%B1-%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B3-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-30-%D8%B3%D8%A8%D8%AA%D9%85%D8%A8%D8%B1-%D8%A8%D9%83%D9%84%D9%91-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد بالسّادة خالد النّوري وزير الدّاخلية وسفيان بالصّادق كاتب الدّولة لدى وزير الدّاخلية المكلّف بالأمن الوطني و مراد سعيدان المدير العامّ للأمن الوطني وحسين الغربي المدير العامّ آمر الحرس الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%91%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة و السيدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
 - [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
@@ -91,12 +92,11 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30673/ep-today)
 - [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
 - [MEPs back changes to strengthen farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30735/meps-back-changes-to-strengthen-farmers-position-in-the-food-supply-chain)
-- [Parliament ready to start talks about simplifying EU agriculture laws](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30659/parliament-ready-to-start-talks-about-simplifying-eu-agriculture-laws)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -119,44 +119,44 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
+## UE – Tunisie – Projects portal (Agriculture)
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-136_programme-de-relance-de-l-investissement-et-de-modernisation.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-36_appui-a-la-gestion-durable-des-ressources-halieutiques-et-aq.html)
 
-## UE – DG HOME – News
+## UE – Tunisie – Projects portal (Governance)
 
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le droit absolu à la dignité](https://lapresse.tn/2025/10/12/le-droit-absolu-a-la-dignite/)
-- [La BERD introduit en Tunisie son mécanisme de financement vert avec l’appui de l’UE](https://lapresse.tn/2025/10/13/la-berd-introduit-en-tunisie-son-mecanisme-de-financement-vert-avec-lappui-de-lue/)
-- [Règlements : ce qu’il faut savoir sur les contrats des joueurs professionnels](https://lapresse.tn/2025/10/13/reglements-ce-quil-faut-savoir-sur-les-contrats-des-joueurs-professionnels/)
-- [Bou Salem : le corps de la femme emportée par les crues retrouvé ce lundi matin](https://lapresse.tn/2025/10/13/bou-salem-le-corps-de-la-femme-emportee-par-les-crues-retrouve-ce-lundi-matin/)
+- [Flotille Soumoud: capturé par les forces de l’occupation, Ali Kniss de retour à Tunis](https://lapresse.tn/2025/10/13/flotille-soumoud-capture-par-les-forces-de-loccupation-ali-kniss-de-retour-a-tunis/)
+- [Jugement de non-lieu en faveur de l’ancien ministre de l’Environnement, Riadh Mouakher](https://lapresse.tn/2025/10/13/jugement-de-non-lieu-en-faveur-de-lancien-ministre-de-lenvironnement-riadh-mouakher/)
+- [Festival International du Film du Caire: sept films tunisiens en compétition](https://lapresse.tn/2025/10/13/festival-international-du-film-du-caire-sept-films-tunisiens-en-competition/)
+- [Météo : Temps partiellement nuageux et températures stables](https://lapresse.tn/2025/10/13/meteo-temps-partiellement-nuageux-et-temperatures-stables-3/)
 - [Météo : pluies éparses et orages dans le nord de la Tunisie](https://lapresse.tn/2025/10/12/meteo-pluies-eparses-et-orages-dans-le-nord-de-la-tunisie/)
-- [Salon International du Textile et de l’Habillement de Sousse : Près de 7.000 visiteurs et 250 entreprises attendus à la 7e édition](https://lapresse.tn/2025/10/12/salon-international-du-textile-et-de-lhabillement-de-sousse-pres-de-7-000-visiteurs-et-250-entreprises-attendus-a-la-7e-edition/)
-- [Commentaire : Les pions s’agitent…](https://lapresse.tn/2025/10/12/commentaire-les-pions-sagitent/)
+- [Usage de la langue des signes dans divers domaines: un projet de loi à l’étude](https://lapresse.tn/2025/10/13/usage-de-la-langue-des-signes-dans-divers-domaines-un-projet-de-loi-a-letude/)
+- [Bou Salem : le corps de la femme emportée par les crues retrouvé ce lundi matin](https://lapresse.tn/2025/10/13/bou-salem-le-corps-de-la-femme-emportee-par-les-crues-retrouve-ce-lundi-matin/)
 - [Selon la directrice de l’OMS en Tunisie, 45 % des enfants de moins de 12 ans ont touché à la cigarette au moins une fois](https://lapresse.tn/2025/10/13/selon-la-directrice-de-loms-en-tunisie-45-des-enfants-de-moins-de-12-ans-ont-touche-a-la-cigarette-au-moins-une-fois/)
 - [Tunisie : Une femme emportée par les eaux de l’oued Dzira à Bou Salem](https://lapresse.tn/2025/10/13/tunisie-une-femme-emportee-par-les-eaux-de-loued-dzira-a-bou-salem/)
-- [Le ministère de l’Agriculture prépare une révision de l’arrêté sur la pêche du thon rouge](https://lapresse.tn/2025/10/13/le-ministere-de-lagriculture-prepare-une-revision-de-larrete-sur-la-peche-du-thon-rouge/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
+- [En Tunisie, le profil des électeurs du président Kaïs Saïed a bien changé depuis 2019](https://www.jeuneafrique.com/1730222/politique/en-tunisie-le-profil-des-electeurs-du-president-kais-saied-a-bien-change-depuis-2019/)
 - [Présidentielle en Côte d’Ivoire : le PDCI et le PPA-CI appellent à manifester « tous les jours »](https://www.jeuneafrique.com/1730168/politique/presidentielle-en-cote-divoire-le-pdci-et-le-ppa-ci-appellent-a-manifester-tous-les-jours/)
 - [Badinter, Kabila, Tshisekedi : la justice n’est pas la vengeance](https://www.jeuneafrique.com/1729761/politique/badinter-kabila-tshisekedi-la-justice-nest-pas-la-vengeance/)
 - [Ahmed Taleb Ibrahimi, l’homme qui a interdit Jeune Afrique en Algérie](https://www.jeuneafrique.com/1728944/politique/ahmed-taleb-ibrahimi-lhomme-qui-a-interdit-jeune-afrique-en-algerie/)
 - [Présidentielle aux Seychelles : Patrick Herminie l’emporte](https://www.jeuneafrique.com/1730095/politique/presidentielle-aux-seychelles-patrick-herminie-lemporte/)
 - [Madagascar : Andry Rajoelina dénonce « une tentative de prise du pouvoir illégale et par la force »](https://www.jeuneafrique.com/1730073/politique/madagascar-andry-rajoelina-denonce-une-tentative-de-prise-du-pouvoir-illegale-et-par-la-force/)
 - [Présidentielle au Cameroun : après une journée de vote tendue, le duel entre Biya et Tchiroma Bakary se précise](https://www.jeuneafrique.com/1729401/politique/presidentielle-au-cameroun-suivez-la-journee-de-vote-en-direct/)
-- [Côte d’Ivoire : lors de son premier meeting, à Daloa, Alassane Ouattara promet de « faire plus »](https://www.jeuneafrique.com/1730048/politique/cote-divoire-lors-de-son-premier-meeting-a-daloa-alassane-ouattara-promet-de-faire-plus/)
+- [Raffinerie de Dangote : comment le pari du milliardaire nigérian résiste aux vents contraires](https://www.jeuneafrique.com/1729398/economie-entreprises/raffinerie-de-dangote-comment-le-pari-du-tycoon-nigerian-resiste-aux-vents-contraires/)
 - [Tanger, Port-Saïd, Dakar… Quels sont les ports africains les plus performants ?](https://www.jeuneafrique.com/1729721/economie-entreprises/tanger-port-said-dakar-quels-sont-les-plus-grands-ports-africains/)
-- [Sénégal : Dakar dénonce la dégradation de sa note par l’agence Moody’s](https://www.jeuneafrique.com/1730026/economie-entreprises/senegal-dakar-denonce-la-degradation-de-sa-note-par-lagence-moodys/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
