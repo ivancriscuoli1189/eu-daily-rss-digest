@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 11:03*
+*Generato: 14 Oct 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,6 +119,32 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -148,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [Tuninvest SICAR : revenus en forte hausse au 3ᵉ trimestre 2025 malgré des contentieux fiscaux](https://lapresse.tn/2025/10/14/tuninvest-sicar-revenus-en-forte-hausse-au-3%e1%b5%89-trimestre-2025-malgre-des-contentieux-fiscaux/)
-- [A partir de demain, l’activité de la chasse suspendue dans les gouvernorats de l’Ariana et de Bizerte](https://lapresse.tn/2025/10/14/a-partir-de-demain-lactivite-de-la-chasse-suspendue-dans-les-gouvernorats-de-lariana-et-de-bizerte/)
-- [La professeure tunisienne Habiba Ezzahi Ben Romdhane parmi les 2 % des chercheurs les plus influents au monde](https://lapresse.tn/2025/10/14/la-professeure-tunisienne-habiba-ezzahi-ben-romdhane-parmi-les-2-des-chercheurs-les-plus-influents-au-monde/)
+- [Développement durable : ONU-Habitat, FTED et BTE unissent leurs forces pour l’avenir de Kerkennah](https://lapresse.tn/2025/10/14/developpement-durable-onu-habitat-fted-et-bte-unissent-leurs-forces-pour-lavenir-de-kerkennah/)
+- [Le jeune Tunisien Mohamed Aziz El Haj Abdallah sacré champion de kick-boxing au Qatar](https://lapresse.tn/2025/10/14/le-jeune-tunisien-mohamed-aziz-el-haj-abdallah-sacre-champion-de-kick-boxing-au-qatar/)
+- [Tunisie : entrée remarquée dans le top 80 du classement mondial de l’innovation en 2025](https://lapresse.tn/2025/10/14/tunisie-entree-remarquee-dans-le-top-80-du-classement-mondial-de-linnovation-en-2025/)
 - [Assassinat de Chokri Belaïd : la Cour d’appel de Tunis prononce des condamnations lourdes](https://lapresse.tn/2025/10/14/assassinat-de-chokri-belaid-la-cour-dappel-de-tunis-prononce-des-condamnations-lourdes/)
 - [Le Groupe chimique tunisien investit 140 millions de dinars dans des projets environnementaux à El Mdhilla](https://lapresse.tn/2025/10/14/le-groupe-chimique-tunisien-investit-140-millions-de-dinars-dans-des-projets-environnementaux-a-el-mdhilla/)
 - [Météo : Températures Agréables et Ciel Partiellement Nuageux en Tunisie](https://lapresse.tn/2025/10/14/meteo-temperatures-agreables-et-ciel-partiellement-nuageux-en-tunisie/)
+- [A partir de demain, l’activité de la chasse suspendue dans les gouvernorats de l’Ariana et de Bizerte](https://lapresse.tn/2025/10/14/a-partir-de-demain-lactivite-de-la-chasse-suspendue-dans-les-gouvernorats-de-lariana-et-de-bizerte/)
 - [Tunisie : Le Dr Majed Zemni remporte le Prix Nelson Mandela 2025 de l’OMS](https://lapresse.tn/2025/10/14/tunisie-le-dr-majed-zemni-remporte-le-prix-nelson-mandela-2025-de-loms/)
 - [L’OTIC dénonce le blocage du décret anti-plomb](https://lapresse.tn/2025/10/14/lotic-denonce-le-blocage-du-decret-anti-plomb/)
-- [Education: le ministère publie le calendrier du contrôle continu dans les collèges et les lycées](https://lapresse.tn/2025/10/14/education-le-ministere-publie-le-calendrier-du-controle-continu-dans-les-colleges-et-les-lycees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
 - [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
+- [Est de la RDC : pourquoi Félix Tshisekedi préfère la stratégie de la main tendue au bras de fer](https://www.jeuneafrique.com/1730456/politique/est-de-la-rdc-pourquoi-felix-tshisekedi-prefere-la-strategie-de-la-main-tendue-au-bras-de-fer/)
 - [Côte d’Ivoire : la stratégie jusqu’au-boutiste de Thiam et Gbagbo peut-elle payer ?](https://www.jeuneafrique.com/1730503/politique/cote-divoire-la-strategie-jusquau-boutiste-de-thiam-et-gbagbo-peut-elle-payer/)
 - [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
 - [Majorité rassurée, opposition mobilisée, Gen Z frustrée : quelles réactions après le discours de Mohammed VI ?](https://www.jeuneafrique.com/1730370/politique/majorite-rassuree-opposition-mobilisee-genz-frustree-quelles-reactions-apres-le-discours-de-mohammed-vi/)
-- [Présidentielle au Cameroun : le bras de fer entre Biya et Tchiroma Bakary a bel et bien commencé](https://www.jeuneafrique.com/1730246/politique/presidentielle-au-cameroun-le-bras-de-fer-entre-biya-et-tchiroma-bakary-a-bel-et-bien-commence/)
-- [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
-- [Sans Mark Bristow, quel avenir pour Barrick au Mali ?](https://www.jeuneafrique.com/1729636/economie-entreprises/sans-mark-bristow-quel-avenir-pour-barrick-au-mali/)
+- [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
