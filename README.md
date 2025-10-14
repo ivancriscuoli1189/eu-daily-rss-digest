@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 06:17*
+*Generato: 14 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [Le Groupe chimique tunisien investit 140 millions de dinars dans des projets environnementaux à El Mdhilla](https://lapresse.tn/2025/10/14/le-groupe-chimique-tunisien-investit-140-millions-de-dinars-dans-des-projets-environnementaux-a-el-mdhilla/)
+- [Huile d’olive : La Tunisie vise le 2e rang mondial !](https://lapresse.tn/2025/10/14/huile-dolive-la-tunisie-vise-le-2e-rang-mondial/)
+- [Éliminatoires Mondial 2026 – Groupe H – Dernière journée – Tunisie-Namibie (3-0) : Une belle apothéose !](https://lapresse.tn/2025/10/14/eliminatoires-mondial-2026-groupe-h-derniere-journee-tunisie-namibie-3-0-une-belle-apotheose/)
+- [Fermeture temporaire de la salle olympique de Sousse](https://lapresse.tn/2025/10/14/fermeture-temporaire-de-la-salle-olympique-de-sousse/)
 - [Météo : Températures Agréables et Ciel Partiellement Nuageux en Tunisie](https://lapresse.tn/2025/10/14/meteo-temperatures-agreables-et-ciel-partiellement-nuageux-en-tunisie/)
-- [Apporter au CAB des garanties solides avant tout : Un comité provisoire, et après?](https://lapresse.tn/2025/10/13/apporter-au-cab-des-garanties-solides-avant-tout-un-comite-provisoire-et-apres/)
 - [Mustapha Ferjani installe la nouvelle directrice générale de la Pharmacie centrale de Tunisie](https://lapresse.tn/2025/10/13/mustapha-ferjani-installe-la-nouvelle-directrice-generale-de-la-pharmacie-centrale-de-tunisie/)
 - [Match amical contre le Brésil prévu en novembre prochain: la FTF finalise les derniers préparatifs](https://lapresse.tn/2025/10/13/match-amical-contre-le-bresil-prevu-en-novembre-prochain-la-ftf-finalise-les-derniers-preparatifs/)
+- [Bizerte accueille le premier trail de Tunisie : Une aventure sportive unique au cœur d’un cadre naturel exceptionnel](https://lapresse.tn/2025/10/14/bizerte-accueille-le-premier-trail-de-tunisie-une-aventure-sportive-unique-au-coeur-dun-cadre-naturel-exceptionnel/)
+- [Octobre Rose : l’Association Ahna Maak se mobilise pour la prévention du cancer du sein](https://lapresse.tn/2025/10/14/octobre-rose-lassociation-ahna-maak-se-mobilise-pour-la-prevention-du-cancer-du-sein/)
 - [Reprise du trafic des trains matinaux entre Le Kef, Sousse et Tunis](https://lapresse.tn/2025/10/13/reprise-du-trafic-des-trains-matinaux-entre-le-kef-sousse-et-tunis/)
-- [Les ministères de la Santé et de l’Enseignement supérieur mettent à la disposition des étudiants une ligne verte gratuite](https://lapresse.tn/2025/10/13/les-ministeres-de-la-sante-et-de-lenseignement-superieur-mettent-a-la-disposition-des-etudiants-une-ligne-verte-gratuite/)
-- [Kairouan : Sauver le village artisanal de Barrouta](https://lapresse.tn/2025/10/13/kairouan-sauver-le-village-artisanal-de-barrouta/)
-- [Académie de la mer d’Eelyssa – Rencontre avec Laurent Anselmi : «La Tunisie est une pépinière de savoirs »](https://lapresse.tn/2025/10/13/academie-de-la-mer-deelyssa-rencontre-avec-laurent-anselmi-la-tunisie-est-une-pepiniere-de-savoirs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
 - [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
+- [Majorité rassurée, opposition mobilisée, Gen Z frustrée : quelles réactions après le discours de Mohammed VI ?](https://www.jeuneafrique.com/1730370/politique/majorite-rassuree-opposition-mobilisee-genz-frustree-quelles-reactions-apres-le-discours-de-mohammed-vi/)
 - [Présidentielle au Cameroun : le bras de fer entre Biya et Tchiroma Bakary a bel et bien commencé](https://www.jeuneafrique.com/1730246/politique/presidentielle-au-cameroun-le-bras-de-fer-entre-biya-et-tchiroma-bakary-a-bel-et-bien-commence/)
 - [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
 - [En Tunisie, le profil des électeurs du président Kaïs Saïed a bien changé depuis 2019](https://www.jeuneafrique.com/1730222/politique/en-tunisie-le-profil-des-electeurs-du-president-kais-saied-a-bien-change-depuis-2019/)
-- [« On ne veut plus de violences, mais on veut du changement » : en Côte d’Ivoire, Daoukro retient son souffle](https://www.jeuneafrique.com/1729175/politique/on-ne-veut-plus-de-violences-mais-on-veut-du-changement-en-cote-divoire-daoukro-retient-son-souffle/)
-- [Présidentielle en Côte d’Ivoire : le PDCI et le PPA-CI appellent à manifester « tous les jours »](https://www.jeuneafrique.com/1730168/politique/presidentielle-en-cote-divoire-le-pdci-et-le-ppa-ci-appellent-a-manifester-tous-les-jours/)
-- [Badinter, Kabila, Tshisekedi : la justice n’est pas la vengeance](https://www.jeuneafrique.com/1729761/politique/badinter-kabila-tshisekedi-la-justice-nest-pas-la-vengeance/)
+- [L’ultime combat de Denis Sassou Nguesso ? – par Cécile Manciaux](https://www.jeuneafrique.com/1718260/politique/lultime-combat-de-denis-sassou-nguesso-par-cecile-manciaux/)
+- [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 - [FMI-Banque mondiale : après l’Agoa, la croissance en Afrique, sujet chaud des assemblées annuelles](https://www.jeuneafrique.com/1730279/economie-entreprises/fmi-banque-mondiale-apres-lagoa-la-croissance-en-afrique-sujet-chaud-des-assemblees-annuelles/)
-- [Qatar Airways et Emirates, deux modèles qui s’affrontent dans le ciel africain](https://www.jeuneafrique.com/1721010/economie-entreprises/entre-qatar-airways-et-emirates-deux-modeles-saffrontent-dans-le-ciel-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
