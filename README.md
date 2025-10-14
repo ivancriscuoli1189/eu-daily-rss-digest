@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 15:10*
+*Generato: 14 Oct 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -147,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [400 millions de dinars investis pour moderniser les écoles tunisiennes](https://lapresse.tn/2025/10/14/400-millions-de-dinars-investis-pour-moderniser-les-ecoles-tunisiennes/)
-- [Bientôt, une allocation de 30 dinars pour les familles pauvres et à faible revenu](https://lapresse.tn/2025/10/14/bientot-une-allocation-de-30-dinars-pour-les-familles-pauvres-et-a-faible-revenu/)
-- [Manouba : coupure d’eau potable jeudi](https://lapresse.tn/2025/10/14/manouba-coupure-deau-potable-jeudi/)
-- [Mohamed Ali Nafti conduit la délégation tunisienne au sommet du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/14/mohamed-ali-nafti-conduit-la-delegation-tunisienne-au-sommet-du-mouvement-des-non-alignes/)
-- [La professeure tunisienne Habiba Ezzahi Ben Romdhane parmi les 2 % des chercheurs les plus influents au monde](https://lapresse.tn/2025/10/14/la-professeure-tunisienne-habiba-ezzahi-ben-romdhane-parmi-les-2-des-chercheurs-les-plus-influents-au-monde/)
-- [Assassinat de Chokri Belaïd : la Cour d’appel de Tunis prononce des condamnations lourdes](https://lapresse.tn/2025/10/14/assassinat-de-chokri-belaid-la-cour-dappel-de-tunis-prononce-des-condamnations-lourdes/)
-- [Santé : l’obésité un danger pour la santé](https://lapresse.tn/2025/10/14/sante-lobesite-un-danger-pour-la-sante/)
-- [Développement durable : ONU-Habitat, FTED et BTE unissent leurs forces pour l’avenir de Kerkennah](https://lapresse.tn/2025/10/14/developpement-durable-onu-habitat-fted-et-bte-unissent-leurs-forces-pour-lavenir-de-kerkennah/)
-- [Tunisie : entrée remarquée dans le top 80 du classement mondial de l’innovation en 2025](https://lapresse.tn/2025/10/14/tunisie-entree-remarquee-dans-le-top-80-du-classement-mondial-de-linnovation-en-2025/)
+- [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
+- [FMI : une croissance de 2,5 % attendue pour la Tunisie en 2025](https://lapresse.tn/2025/10/14/fmi-une-croissance-de-25-attendue-pour-la-tunisie-en-2025/)
+- [Le Festival « Jazzmean » revient à Tunis : Une programmation riche en rythmes et en rencontres](https://lapresse.tn/2025/10/14/le-festival-jazzmean-revient-a-tunis-une-programmation-riche-en-rythmes-et-en-rencontres/)
+- [Exposition collective de sculptures à la galerie TGM : Mémoire de la main](https://lapresse.tn/2025/10/14/exposition-collective-de-sculptures-a-la-galerie-tgm-memoire-de-la-main/)
+- [Tunisie : fortes pluies et chutes de grêle prévues dans ces régions](https://lapresse.tn/2025/10/14/tunisie-fortes-pluies-et-chutes-de-grele-prevues-dans-ces-regions/)
+- [Médecine de haute précision : les robots chirurgicaux bientôt introduits en Tunisie](https://lapresse.tn/2025/10/14/medecine-de-haute-precision-les-robots-chirurgicaux-bientot-introduits-en-tunisie/)
+- [Bonne nouvelle pour les Algériens voulant voyager vers la Tunisie par train…](https://lapresse.tn/2025/10/14/bonne-nouvelle-pour-les-algeriens-voulant-voyager-vers-la-tunisie-par-train/)
+- [Démarrage en demi-teinte de la nouvelle campagne céréalière : On ne badine pas avec notre pain !](https://lapresse.tn/2025/10/14/demarrage-en-demi-teinte-de-la-nouvelle-campagne-cerealiere-on-ne-badine-pas-avec-notre-pain/)
+- [Sousse: démantèlement de deux centres de massage clandestins à Khzema](https://lapresse.tn/2025/10/14/sousse-demantelement-de-deux-centres-de-massage-clandestins-a-khzema/)
+- [Kairouan : La kessa kairouanaise toujours indémodable](https://lapresse.tn/2025/10/14/kairouan-la-kessa-kairouanaise-toujours-indemodable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, trois magistrats et deux journalistes « enlevés » ou « portés disparus »](https://www.jeuneafrique.com/1730651/politique/au-burkina-trois-magistrats-et-deux-journalistes-enleves-ou-portes-disparus/)
 - [Algérie-France : le départ de Bruno Retailleau du gouvernement, source d’apaisement ?](https://www.jeuneafrique.com/1730797/politique/algerie-france-le-depart-de-bruno-retailleau-du-gouvernement-source-dapaisement/)
 - [Présidentielle au Bénin : Renaud Agbodjo désigné candidat des Démocrates, le parti de Thomas Boni Yayi](https://www.jeuneafrique.com/1730845/politique/presidentielle-au-benin-renaud-agbodjo-designe-candidat-des-democrates-le-parti-de-thomas-boni-yayi/)
 - [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
+- [Présidentielle au Cameroun : Issa Tchiroma Bakary revendique une « victoire écrasante » et défie Paul Biya de le féliciter](https://www.jeuneafrique.com/1730582/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-revendique-une-victoire-ecrasante-et-defie-paul-biya-de-le-feliciter/)
 - [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
 - [Est de la RDC : pourquoi Félix Tshisekedi préfère la stratégie de la main tendue au bras de fer](https://www.jeuneafrique.com/1730456/politique/est-de-la-rdc-pourquoi-felix-tshisekedi-prefere-la-strategie-de-la-main-tendue-au-bras-de-fer/)
-- [Crise à Madagascar : Andry Rajoelina refuse de démissionner et appelle au « respect de la Constitution »](https://www.jeuneafrique.com/1730606/politique/crise-a-madagascar-andry-rajoelina-refuse-de-demissionner-et-appelle-au-respect-de-la-constitution/)
-- [Côte d’Ivoire : la stratégie jusqu’au-boutiste de Thiam et Gbagbo peut-elle payer ?](https://www.jeuneafrique.com/1730503/politique/cote-divoire-la-strategie-jusquau-boutiste-de-thiam-et-gbagbo-peut-elle-payer/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 - [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
