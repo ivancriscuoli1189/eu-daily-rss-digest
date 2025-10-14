@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 13:26*
+*Generato: 14 Oct 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -118,32 +118,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
 ## UE – Tunisie – Projects portal (Agriculture)
 
@@ -174,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [Inclusion économique des femmes en milieu rural : la Tunisie appelle à l’adoption d’une stratégie arabe commune](https://lapresse.tn/2025/10/14/inclusion-economique-des-femmes-en-milieu-rural-la-tunisie-appelle-a-ladoption-dune-strategie-arabe-commune/)
-- [Plus de 17 000 Tunisiens ont obtenu des microcrédits pour la première fois](https://lapresse.tn/2025/10/14/plus-de-17-000-tunisiens-ont-obtenu-des-microcredits-pour-la-premiere-fois/)
-- [Foot-LCA (2e tour préliminaire aller): L’Espérance ST privée de plusieurs joueurs face au FC Rahimou](https://lapresse.tn/2025/10/14/foot-lca-2e-tour-preliminaire-aller-lesperance-st-privee-de-plusieurs-joueurs-face-au-fc-rahimou/)
+- [400 millions de dinars investis pour moderniser les écoles tunisiennes](https://lapresse.tn/2025/10/14/400-millions-de-dinars-investis-pour-moderniser-les-ecoles-tunisiennes/)
+- [Bientôt, une allocation de 30 dinars pour les familles pauvres et à faible revenu](https://lapresse.tn/2025/10/14/bientot-une-allocation-de-30-dinars-pour-les-familles-pauvres-et-a-faible-revenu/)
+- [Manouba : coupure d’eau potable jeudi](https://lapresse.tn/2025/10/14/manouba-coupure-deau-potable-jeudi/)
 - [Mohamed Ali Nafti conduit la délégation tunisienne au sommet du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/14/mohamed-ali-nafti-conduit-la-delegation-tunisienne-au-sommet-du-mouvement-des-non-alignes/)
 - [La professeure tunisienne Habiba Ezzahi Ben Romdhane parmi les 2 % des chercheurs les plus influents au monde](https://lapresse.tn/2025/10/14/la-professeure-tunisienne-habiba-ezzahi-ben-romdhane-parmi-les-2-des-chercheurs-les-plus-influents-au-monde/)
 - [Assassinat de Chokri Belaïd : la Cour d’appel de Tunis prononce des condamnations lourdes](https://lapresse.tn/2025/10/14/assassinat-de-chokri-belaid-la-cour-dappel-de-tunis-prononce-des-condamnations-lourdes/)
-- [A partir de demain, l’activité de la chasse suspendue dans les gouvernorats de l’Ariana et de Bizerte](https://lapresse.tn/2025/10/14/a-partir-de-demain-lactivite-de-la-chasse-suspendue-dans-les-gouvernorats-de-lariana-et-de-bizerte/)
-- [Tunisie : Le Dr Majed Zemni remporte le Prix Nelson Mandela 2025 de l’OMS](https://lapresse.tn/2025/10/14/tunisie-le-dr-majed-zemni-remporte-le-prix-nelson-mandela-2025-de-loms/)
+- [Santé : l’obésité un danger pour la santé](https://lapresse.tn/2025/10/14/sante-lobesite-un-danger-pour-la-sante/)
 - [Développement durable : ONU-Habitat, FTED et BTE unissent leurs forces pour l’avenir de Kerkennah](https://lapresse.tn/2025/10/14/developpement-durable-onu-habitat-fted-et-bte-unissent-leurs-forces-pour-lavenir-de-kerkennah/)
+- [Tunisie : entrée remarquée dans le top 80 du classement mondial de l’innovation en 2025](https://lapresse.tn/2025/10/14/tunisie-entree-remarquee-dans-le-top-80-du-classement-mondial-de-linnovation-en-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie-France : le départ de Bruno Retailleau du gouvernement, source d’apaisement ?](https://www.jeuneafrique.com/1730797/politique/algerie-france-le-depart-de-bruno-retailleau-du-gouvernement-source-dapaisement/)
 - [Présidentielle au Bénin : Renaud Agbodjo désigné candidat des Démocrates, le parti de Thomas Boni Yayi](https://www.jeuneafrique.com/1730845/politique/presidentielle-au-benin-renaud-agbodjo-designe-candidat-des-democrates-le-parti-de-thomas-boni-yayi/)
+- [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
 - [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
 - [Est de la RDC : pourquoi Félix Tshisekedi préfère la stratégie de la main tendue au bras de fer](https://www.jeuneafrique.com/1730456/politique/est-de-la-rdc-pourquoi-felix-tshisekedi-prefere-la-strategie-de-la-main-tendue-au-bras-de-fer/)
 - [Crise à Madagascar : Andry Rajoelina refuse de démissionner et appelle au « respect de la Constitution »](https://www.jeuneafrique.com/1730606/politique/crise-a-madagascar-andry-rajoelina-refuse-de-demissionner-et-appelle-au-respect-de-la-constitution/)
 - [Côte d’Ivoire : la stratégie jusqu’au-boutiste de Thiam et Gbagbo peut-elle payer ?](https://www.jeuneafrique.com/1730503/politique/cote-divoire-la-strategie-jusquau-boutiste-de-thiam-et-gbagbo-peut-elle-payer/)
-- [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
-- [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 - [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
