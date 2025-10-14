@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 12:20*
+*Generato: 14 Oct 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [Développement durable : ONU-Habitat, FTED et BTE unissent leurs forces pour l’avenir de Kerkennah](https://lapresse.tn/2025/10/14/developpement-durable-onu-habitat-fted-et-bte-unissent-leurs-forces-pour-lavenir-de-kerkennah/)
-- [Le jeune Tunisien Mohamed Aziz El Haj Abdallah sacré champion de kick-boxing au Qatar](https://lapresse.tn/2025/10/14/le-jeune-tunisien-mohamed-aziz-el-haj-abdallah-sacre-champion-de-kick-boxing-au-qatar/)
-- [Tunisie : entrée remarquée dans le top 80 du classement mondial de l’innovation en 2025](https://lapresse.tn/2025/10/14/tunisie-entree-remarquee-dans-le-top-80-du-classement-mondial-de-linnovation-en-2025/)
+- [Inclusion économique des femmes en milieu rural : la Tunisie appelle à l’adoption d’une stratégie arabe commune](https://lapresse.tn/2025/10/14/inclusion-economique-des-femmes-en-milieu-rural-la-tunisie-appelle-a-ladoption-dune-strategie-arabe-commune/)
+- [Plus de 17 000 Tunisiens ont obtenu des microcrédits pour la première fois](https://lapresse.tn/2025/10/14/plus-de-17-000-tunisiens-ont-obtenu-des-microcredits-pour-la-premiere-fois/)
+- [Foot-LCA (2e tour préliminaire aller): L’Espérance ST privée de plusieurs joueurs face au FC Rahimou](https://lapresse.tn/2025/10/14/foot-lca-2e-tour-preliminaire-aller-lesperance-st-privee-de-plusieurs-joueurs-face-au-fc-rahimou/)
+- [Mohamed Ali Nafti conduit la délégation tunisienne au sommet du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/14/mohamed-ali-nafti-conduit-la-delegation-tunisienne-au-sommet-du-mouvement-des-non-alignes/)
+- [La professeure tunisienne Habiba Ezzahi Ben Romdhane parmi les 2 % des chercheurs les plus influents au monde](https://lapresse.tn/2025/10/14/la-professeure-tunisienne-habiba-ezzahi-ben-romdhane-parmi-les-2-des-chercheurs-les-plus-influents-au-monde/)
 - [Assassinat de Chokri Belaïd : la Cour d’appel de Tunis prononce des condamnations lourdes](https://lapresse.tn/2025/10/14/assassinat-de-chokri-belaid-la-cour-dappel-de-tunis-prononce-des-condamnations-lourdes/)
-- [Le Groupe chimique tunisien investit 140 millions de dinars dans des projets environnementaux à El Mdhilla](https://lapresse.tn/2025/10/14/le-groupe-chimique-tunisien-investit-140-millions-de-dinars-dans-des-projets-environnementaux-a-el-mdhilla/)
-- [Météo : Températures Agréables et Ciel Partiellement Nuageux en Tunisie](https://lapresse.tn/2025/10/14/meteo-temperatures-agreables-et-ciel-partiellement-nuageux-en-tunisie/)
 - [A partir de demain, l’activité de la chasse suspendue dans les gouvernorats de l’Ariana et de Bizerte](https://lapresse.tn/2025/10/14/a-partir-de-demain-lactivite-de-la-chasse-suspendue-dans-les-gouvernorats-de-lariana-et-de-bizerte/)
 - [Tunisie : Le Dr Majed Zemni remporte le Prix Nelson Mandela 2025 de l’OMS](https://lapresse.tn/2025/10/14/tunisie-le-dr-majed-zemni-remporte-le-prix-nelson-mandela-2025-de-loms/)
-- [L’OTIC dénonce le blocage du décret anti-plomb](https://lapresse.tn/2025/10/14/lotic-denonce-le-blocage-du-decret-anti-plomb/)
+- [Développement durable : ONU-Habitat, FTED et BTE unissent leurs forces pour l’avenir de Kerkennah](https://lapresse.tn/2025/10/14/developpement-durable-onu-habitat-fted-et-bte-unissent-leurs-forces-pour-lavenir-de-kerkennah/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
-- [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 - [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
-- [Joint Statement: Civil Society Welcomes Decision Not to Sign Egypt’s Draft Criminal Procedure Code into Law](https://www.icj.org/joint-statement-civil-society-welcomes-decision-not-to-sign-egypts-draft-criminal-procedure-code-into-law/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
+- [Présidentielle au Bénin : Renaud Agbodjo désigné candidat des Démocrates, le parti de Thomas Boni Yayi](https://www.jeuneafrique.com/1730845/politique/presidentielle-au-benin-renaud-agbodjo-designe-candidat-des-democrates-le-parti-de-thomas-boni-yayi/)
 - [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
 - [Est de la RDC : pourquoi Félix Tshisekedi préfère la stratégie de la main tendue au bras de fer](https://www.jeuneafrique.com/1730456/politique/est-de-la-rdc-pourquoi-felix-tshisekedi-prefere-la-strategie-de-la-main-tendue-au-bras-de-fer/)
+- [Crise à Madagascar : Andry Rajoelina refuse de démissionner et appelle au « respect de la Constitution »](https://www.jeuneafrique.com/1730606/politique/crise-a-madagascar-andry-rajoelina-refuse-de-demissionner-et-appelle-au-respect-de-la-constitution/)
 - [Côte d’Ivoire : la stratégie jusqu’au-boutiste de Thiam et Gbagbo peut-elle payer ?](https://www.jeuneafrique.com/1730503/politique/cote-divoire-la-strategie-jusquau-boutiste-de-thiam-et-gbagbo-peut-elle-payer/)
 - [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
-- [Majorité rassurée, opposition mobilisée, Gen Z frustrée : quelles réactions après le discours de Mohammed VI ?](https://www.jeuneafrique.com/1730370/politique/majorite-rassuree-opposition-mobilisee-genz-frustree-quelles-reactions-apres-le-discours-de-mohammed-vi/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 - [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
