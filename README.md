@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Oct 2025, 21:04*
+*Generato: 14 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
+- [Le Groupe chimique tunisien investit 140 millions de dinars dans des projets environnementaux à El Mdhilla](https://lapresse.tn/2025/10/14/le-groupe-chimique-tunisien-investit-140-millions-de-dinars-dans-des-projets-environnementaux-a-el-mdhilla/)
+- [Météo : Températures Agréables et Ciel Partiellement Nuageux en Tunisie](https://lapresse.tn/2025/10/14/meteo-temperatures-agreables-et-ciel-partiellement-nuageux-en-tunisie/)
 - [Apporter au CAB des garanties solides avant tout : Un comité provisoire, et après?](https://lapresse.tn/2025/10/13/apporter-au-cab-des-garanties-solides-avant-tout-un-comite-provisoire-et-apres/)
-- [Basket – Premier sacre Africain en 2011 de l’équipe nationale : Symbolique et inoubliable !](https://lapresse.tn/2025/10/13/basket-premier-sacre-africain-en-2011-de-lequipe-nationale-symbolique-et-inoubliable/)
-- [Présence italienne dans l’architecture tunisienne au palais Ahmed Bey : Une exposition en demi-teinte](https://lapresse.tn/2025/10/13/presence-italienne-dans-larchitecture-tunisienne-au-palais-ahmed-bey-une-exposition-en-demi-teinte/)
+- [Mustapha Ferjani installe la nouvelle directrice générale de la Pharmacie centrale de Tunisie](https://lapresse.tn/2025/10/13/mustapha-ferjani-installe-la-nouvelle-directrice-generale-de-la-pharmacie-centrale-de-tunisie/)
 - [Match amical contre le Brésil prévu en novembre prochain: la FTF finalise les derniers préparatifs](https://lapresse.tn/2025/10/13/match-amical-contre-le-bresil-prevu-en-novembre-prochain-la-ftf-finalise-les-derniers-preparatifs/)
-- [Complexe Chimique de Gabès : début des opérations de diagnostic par une équipe conjointe d’inspection de l’industrie et de l’environnement](https://lapresse.tn/2025/10/13/complexe-chimique-de-gabes-debut-des-operations-de-diagnostic-par-une-equipe-conjointe-dinspection-de-lindustrie-et-de-lenvironnement/)
-- [Des experts appellent à la valorisation du phosphogypse](https://lapresse.tn/2025/10/13/des-experts-appellent-a-la-valorisation-du-phosphogypse/)
 - [Reprise du trafic des trains matinaux entre Le Kef, Sousse et Tunis](https://lapresse.tn/2025/10/13/reprise-du-trafic-des-trains-matinaux-entre-le-kef-sousse-et-tunis/)
 - [Les ministères de la Santé et de l’Enseignement supérieur mettent à la disposition des étudiants une ligne verte gratuite](https://lapresse.tn/2025/10/13/les-ministeres-de-la-sante-et-de-lenseignement-superieur-mettent-a-la-disposition-des-etudiants-une-ligne-verte-gratuite/)
 - [Kairouan : Sauver le village artisanal de Barrouta](https://lapresse.tn/2025/10/13/kairouan-sauver-le-village-artisanal-de-barrouta/)
+- [Académie de la mer d’Eelyssa – Rencontre avec Laurent Anselmi : «La Tunisie est une pépinière de savoirs »](https://lapresse.tn/2025/10/13/academie-de-la-mer-deelyssa-rencontre-avec-laurent-anselmi-la-tunisie-est-une-pepiniere-de-savoirs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
 - [Présidentielle au Cameroun : le bras de fer entre Biya et Tchiroma Bakary a bel et bien commencé](https://www.jeuneafrique.com/1730246/politique/presidentielle-au-cameroun-le-bras-de-fer-entre-biya-et-tchiroma-bakary-a-bel-et-bien-commence/)
 - [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
@@ -271,7 +272,6 @@
 - [« On ne veut plus de violences, mais on veut du changement » : en Côte d’Ivoire, Daoukro retient son souffle](https://www.jeuneafrique.com/1729175/politique/on-ne-veut-plus-de-violences-mais-on-veut-du-changement-en-cote-divoire-daoukro-retient-son-souffle/)
 - [Présidentielle en Côte d’Ivoire : le PDCI et le PPA-CI appellent à manifester « tous les jours »](https://www.jeuneafrique.com/1730168/politique/presidentielle-en-cote-divoire-le-pdci-et-le-ppa-ci-appellent-a-manifester-tous-les-jours/)
 - [Badinter, Kabila, Tshisekedi : la justice n’est pas la vengeance](https://www.jeuneafrique.com/1729761/politique/badinter-kabila-tshisekedi-la-justice-nest-pas-la-vengeance/)
-- [Anciens ministres, militaires, jeunes loups… Au Mali, qui aide Malick Diaw à gérer le CNT ?](https://www.jeuneafrique.com/1729364/politique/anciens-ministres-militaires-jeunes-loups-au-mali-qui-aide-malick-diaw-a-gerer-le-cnt/)
 - [FMI-Banque mondiale : après l’Agoa, la croissance en Afrique, sujet chaud des assemblées annuelles](https://www.jeuneafrique.com/1730279/economie-entreprises/fmi-banque-mondiale-apres-lagoa-la-croissance-en-afrique-sujet-chaud-des-assemblees-annuelles/)
 - [Qatar Airways et Emirates, deux modèles qui s’affrontent dans le ciel africain](https://www.jeuneafrique.com/1721010/economie-entreprises/entre-qatar-airways-et-emirates-deux-modeles-saffrontent-dans-le-ciel-africain/)
 
