@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 18:15*
+*Generato: 14 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,9 +148,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
-- [FMI : une croissance de 2,5 % attendue pour la Tunisie en 2025](https://lapresse.tn/2025/10/14/fmi-une-croissance-de-25-attendue-pour-la-tunisie-en-2025/)
-- [Le Festival « Jazzmean » revient à Tunis : Une programmation riche en rythmes et en rencontres](https://lapresse.tn/2025/10/14/le-festival-jazzmean-revient-a-tunis-une-programmation-riche-en-rythmes-et-en-rencontres/)
-- [Exposition collective de sculptures à la galerie TGM : Mémoire de la main](https://lapresse.tn/2025/10/14/exposition-collective-de-sculptures-a-la-galerie-tgm-memoire-de-la-main/)
+- [Grêle et pluies attendues : les agriculteurs appelés à redoubler de prudence](https://lapresse.tn/2025/10/14/grele-et-pluies-attendues-les-agriculteurs-appeles-a-redoubler-de-prudence/)
+- [La Tunisie impose la facturation électronique aux cafés et restaurants : les détails](https://lapresse.tn/2025/10/14/la-tunisie-impose-la-facturation-electronique-aux-cafes-et-restaurants-les-details/)
+- [Skander Kasri, enfin, à l’ASG : «Très heureux de revenir»](https://lapresse.tn/2025/10/14/skander-kasri-enfin-a-lasg-tres-heureux-de-revenir/)
 - [Tunisie : fortes pluies et chutes de grêle prévues dans ces régions](https://lapresse.tn/2025/10/14/tunisie-fortes-pluies-et-chutes-de-grele-prevues-dans-ces-regions/)
 - [Médecine de haute précision : les robots chirurgicaux bientôt introduits en Tunisie](https://lapresse.tn/2025/10/14/medecine-de-haute-precision-les-robots-chirurgicaux-bientot-introduits-en-tunisie/)
 - [Bonne nouvelle pour les Algériens voulant voyager vers la Tunisie par train…](https://lapresse.tn/2025/10/14/bonne-nouvelle-pour-les-algeriens-voulant-voyager-vers-la-tunisie-par-train/)
