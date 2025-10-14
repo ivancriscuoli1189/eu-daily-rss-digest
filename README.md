@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 09:13*
+*Generato: 14 Oct 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,32 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -174,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les renégats ne passeront pas](https://lapresse.tn/2025/10/13/les-renegats-ne-passeront-pas/)
-- [Huile d’olive : La Tunisie vise le 2e rang mondial !](https://lapresse.tn/2025/10/14/huile-dolive-la-tunisie-vise-le-2e-rang-mondial/)
-- [Éliminatoires Mondial 2026 – Groupe H – Dernière journée – Tunisie-Namibie (3-0) : Une belle apothéose !](https://lapresse.tn/2025/10/14/eliminatoires-mondial-2026-groupe-h-derniere-journee-tunisie-namibie-3-0-une-belle-apotheose/)
-- [Fermeture temporaire de la salle olympique de Sousse](https://lapresse.tn/2025/10/14/fermeture-temporaire-de-la-salle-olympique-de-sousse/)
+- [Tuninvest SICAR : revenus en forte hausse au 3ᵉ trimestre 2025 malgré des contentieux fiscaux](https://lapresse.tn/2025/10/14/tuninvest-sicar-revenus-en-forte-hausse-au-3%e1%b5%89-trimestre-2025-malgre-des-contentieux-fiscaux/)
+- [A partir de demain, l’activité de la chasse suspendue dans les gouvernorats de l’Ariana et de Bizerte](https://lapresse.tn/2025/10/14/a-partir-de-demain-lactivite-de-la-chasse-suspendue-dans-les-gouvernorats-de-lariana-et-de-bizerte/)
+- [La professeure tunisienne Habiba Ezzahi Ben Romdhane parmi les 2 % des chercheurs les plus influents au monde](https://lapresse.tn/2025/10/14/la-professeure-tunisienne-habiba-ezzahi-ben-romdhane-parmi-les-2-des-chercheurs-les-plus-influents-au-monde/)
+- [Assassinat de Chokri Belaïd : la Cour d’appel de Tunis prononce des condamnations lourdes](https://lapresse.tn/2025/10/14/assassinat-de-chokri-belaid-la-cour-dappel-de-tunis-prononce-des-condamnations-lourdes/)
+- [Le Groupe chimique tunisien investit 140 millions de dinars dans des projets environnementaux à El Mdhilla](https://lapresse.tn/2025/10/14/le-groupe-chimique-tunisien-investit-140-millions-de-dinars-dans-des-projets-environnementaux-a-el-mdhilla/)
 - [Météo : Températures Agréables et Ciel Partiellement Nuageux en Tunisie](https://lapresse.tn/2025/10/14/meteo-temperatures-agreables-et-ciel-partiellement-nuageux-en-tunisie/)
-- [Mustapha Ferjani installe la nouvelle directrice générale de la Pharmacie centrale de Tunisie](https://lapresse.tn/2025/10/13/mustapha-ferjani-installe-la-nouvelle-directrice-generale-de-la-pharmacie-centrale-de-tunisie/)
-- [Match amical contre le Brésil prévu en novembre prochain: la FTF finalise les derniers préparatifs](https://lapresse.tn/2025/10/13/match-amical-contre-le-bresil-prevu-en-novembre-prochain-la-ftf-finalise-les-derniers-preparatifs/)
-- [Bizerte accueille le premier trail de Tunisie : Une aventure sportive unique au cœur d’un cadre naturel exceptionnel](https://lapresse.tn/2025/10/14/bizerte-accueille-le-premier-trail-de-tunisie-une-aventure-sportive-unique-au-coeur-dun-cadre-naturel-exceptionnel/)
-- [Octobre Rose : l’Association Ahna Maak se mobilise pour la prévention du cancer du sein](https://lapresse.tn/2025/10/14/octobre-rose-lassociation-ahna-maak-se-mobilise-pour-la-prevention-du-cancer-du-sein/)
-- [Reprise du trafic des trains matinaux entre Le Kef, Sousse et Tunis](https://lapresse.tn/2025/10/13/reprise-du-trafic-des-trains-matinaux-entre-le-kef-sousse-et-tunis/)
+- [Tunisie : Le Dr Majed Zemni remporte le Prix Nelson Mandela 2025 de l’OMS](https://lapresse.tn/2025/10/14/tunisie-le-dr-majed-zemni-remporte-le-prix-nelson-mandela-2025-de-loms/)
+- [L’OTIC dénonce le blocage du décret anti-plomb](https://lapresse.tn/2025/10/14/lotic-denonce-le-blocage-du-decret-anti-plomb/)
+- [Education: le ministère publie le calendrier du contrôle continu dans les collèges et les lycées](https://lapresse.tn/2025/10/14/education-le-ministere-publie-le-calendrier-du-controle-continu-dans-les-colleges-et-les-lycees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
+- [Côte d’Ivoire : la stratégie jusqu’au-boutiste de Thiam et Gbagbo peut-elle payer ?](https://www.jeuneafrique.com/1730503/politique/cote-divoire-la-strategie-jusquau-boutiste-de-thiam-et-gbagbo-peut-elle-payer/)
 - [Crise à Madagascar : ce que l’on sait des officiers qui ont pris les rênes de l’armée](https://www.jeuneafrique.com/1730376/politique/crise-a-madagascar-ce-que-lon-sait-des-officiers-qui-ont-pris-les-renes-de-larmee/)
 - [Mali-États-Unis : sur les visas, Assimi Goïta répond à Donald Trump du tac au tac](https://www.jeuneafrique.com/1730245/politique/mali-etats-unis-sur-les-visas-assimi-goita-reponds-a-donald-trump-du-tac-au-tac/)
 - [Majorité rassurée, opposition mobilisée, Gen Z frustrée : quelles réactions après le discours de Mohammed VI ?](https://www.jeuneafrique.com/1730370/politique/majorite-rassuree-opposition-mobilisee-genz-frustree-quelles-reactions-apres-le-discours-de-mohammed-vi/)
 - [Présidentielle au Cameroun : le bras de fer entre Biya et Tchiroma Bakary a bel et bien commencé](https://www.jeuneafrique.com/1730246/politique/presidentielle-au-cameroun-le-bras-de-fer-entre-biya-et-tchiroma-bakary-a-bel-et-bien-commence/)
 - [Crise à Madagascar : jusqu’à présent invisible, Andry Rajoelina doit prendre la parole ce lundi soir](https://www.jeuneafrique.com/1730250/politique/crise-a-madagascar-jusqua-present-invisible-andry-rajoelina-doit-prendre-la-parole-ce-lundi-soir/)
-- [En Tunisie, le profil des électeurs du président Kaïs Saïed a bien changé depuis 2019](https://www.jeuneafrique.com/1730222/politique/en-tunisie-le-profil-des-electeurs-du-president-kais-saied-a-bien-change-depuis-2019/)
-- [L’ultime combat de Denis Sassou Nguesso ? – par Cécile Manciaux](https://www.jeuneafrique.com/1718260/politique/lultime-combat-de-denis-sassou-nguesso-par-cecile-manciaux/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
-- [FMI-Banque mondiale : après l’Agoa, la croissance en Afrique, sujet chaud des assemblées annuelles](https://www.jeuneafrique.com/1730279/economie-entreprises/fmi-banque-mondiale-apres-lagoa-la-croissance-en-afrique-sujet-chaud-des-assemblees-annuelles/)
+- [Sans Mark Bristow, quel avenir pour Barrick au Mali ?](https://www.jeuneafrique.com/1729636/economie-entreprises/sans-mark-bristow-quel-avenir-pour-barrick-au-mali/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
