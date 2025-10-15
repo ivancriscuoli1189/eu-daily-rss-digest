@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 06:17*
+*Generato: 15 Oct 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
-- [Deux dépressions influencent la région: la Tunisie concernée dans les prochains jours](https://lapresse.tn/2025/10/14/deux-depressions-influencent-la-region-la-tunisie-concernee-dans-les-prochains-jours/)
-- [Grêle et pluies attendues : les agriculteurs appelés à redoubler de prudence](https://lapresse.tn/2025/10/14/grele-et-pluies-attendues-les-agriculteurs-appeles-a-redoubler-de-prudence/)
-- [La Tunisie impose la facturation électronique aux cafés et restaurants : les détails](https://lapresse.tn/2025/10/14/la-tunisie-impose-la-facturation-electronique-aux-cafes-et-restaurants-les-details/)
-- [BERD-UE: Un dispositif de 59 millions d’euros pour encourager l’adoption de technologies hautement performantes en Tunisie](https://lapresse.tn/2025/10/14/berd-ue-un-dispositif-de-59-millions-deuros-pour-encourager-ladoption-de-technologies-hautement-performantes-en-tunisie/)
-- [Tunisie : fortes pluies et chutes de grêle prévues dans ces régions](https://lapresse.tn/2025/10/14/tunisie-fortes-pluies-et-chutes-de-grele-prevues-dans-ces-regions/)
-- [Médecine de haute précision : les robots chirurgicaux bientôt introduits en Tunisie](https://lapresse.tn/2025/10/14/medecine-de-haute-precision-les-robots-chirurgicaux-bientot-introduits-en-tunisie/)
-- [Démarrage en demi-teinte de la nouvelle campagne céréalière : On ne badine pas avec notre pain !](https://lapresse.tn/2025/10/14/demarrage-en-demi-teinte-de-la-nouvelle-campagne-cerealiere-on-ne-badine-pas-avec-notre-pain/)
-- [Sousse: démantèlement de deux centres de massage clandestins à Khzema](https://lapresse.tn/2025/10/14/sousse-demantelement-de-deux-centres-de-massage-clandestins-a-khzema/)
-- [Kairouan : La kessa kairouanaise toujours indémodable](https://lapresse.tn/2025/10/14/kairouan-la-kessa-kairouanaise-toujours-indemodable/)
+- [Tunisie : demain dernier délai de dépôt des déclarations fiscales](https://lapresse.tn/2025/10/15/tunisie-demain-dernier-delai-de-depot-des-declarations-fiscales/)
+- [Tennis de table : Fadwa Garci et Abir Haj Salah offrent à la Tunisie le bronze en double féminin](https://lapresse.tn/2025/10/15/tennis-de-table-fadwa-garci-et-abir-haj-salah-offrent-a-la-tunisie-le-bronze-en-double-feminin/)
+- [Fête de l’évacuation : l’ARP appelle à s’inspirer des luttes nationales pour la libération](https://lapresse.tn/2025/10/15/fete-de-levacuation-larp-appelle-a-sinspirer-des-luttes-nationales-pour-la-liberation/)
+- [Restauration, cafés, salons de thé : les caisses enregistreuses deviennent obligatoires en Tunisie](https://lapresse.tn/2025/10/15/restauration-cafes-salons-de-the-les-caisses-enregistreuses-deviennent-obligatoires-en-tunisie/)
+- [INM : Jusqu’à 40 mm de pluie attendus dans plusieurs gouvernorats tunisiens](https://lapresse.tn/2025/10/15/inm-jusqua-40-mm-de-pluie-attendus-dans-plusieurs-gouvernorats-tunisiens/)
+- [Averses, orages et grêle : la météo se dégrade aujourd’hui](https://lapresse.tn/2025/10/15/averses-orages-et-grele-la-meteo-se-degrade-aujourdhui/)
+- [Tetra Pak s’allie à Swan Neck Bio pour révolutionner la fermentation alimentaire](https://lapresse.tn/2025/10/15/tetra-pak-sallie-a-swan-neck-bio-pour-revolutionner-la-fermentation-alimentaire/)
+- [L’Université Centrale, première école paramédicale africaine accréditée par l’ACESI canadienne](https://lapresse.tn/2025/10/15/luniversite-centrale-premiere-ecole-paramedicale-africaine-accreditee-par-lacesi-canadienne/)
+- [Sousse : Bab El Jebli fermé aux voitures dans ces heures…](https://lapresse.tn/2025/10/15/sousse-bab-el-jebli-ferme-aux-voitures-dans-ces-heures/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,6 +199,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 - [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
 - [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
 - [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
@@ -208,7 +209,6 @@
 - [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 - [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
-- [Decommission, not disarm: How Europe can help nudge Gaza toward peace](https://ecfr.eu/article/decommission-not-disarm-how-europe-can-help-nudge-gaza-toward-peace/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
+- [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
+- [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
+- [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
+- [Présidentielle au Cameroun : gouvernement et RDPC dénoncent l’« escroquerie » Tchiroma Bakary](https://www.jeuneafrique.com/1730966/politique/presidentielle-au-cameroun-le-gouvernement-et-le-rdpc-denoncent-l-imposture-et-l-escroquerie-de-tchiroma-bakary/)
 - [Au Burkina Faso, trois magistrats et deux journalistes « enlevés » ou « portés disparus »](https://www.jeuneafrique.com/1730651/politique/au-burkina-trois-magistrats-et-deux-journalistes-enleves-ou-portes-disparus/)
+- [Madagascar : des militaires annoncent prendre le pouvoir](https://www.jeuneafrique.com/1730939/politique/madagascar-des-militaires-annoncent-prendre-le-pouvoir/)
 - [Algérie-France : le départ de Bruno Retailleau du gouvernement, source d’apaisement ?](https://www.jeuneafrique.com/1730797/politique/algerie-france-le-depart-de-bruno-retailleau-du-gouvernement-source-dapaisement/)
-- [Présidentielle au Bénin : Renaud Agbodjo désigné candidat des Démocrates, le parti de Thomas Boni Yayi](https://www.jeuneafrique.com/1730845/politique/presidentielle-au-benin-renaud-agbodjo-designe-candidat-des-democrates-le-parti-de-thomas-boni-yayi/)
-- [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
-- [Présidentielle au Cameroun : reportage à Garoua, capitale du « Tchiroma président »](https://www.jeuneafrique.com/1730665/politique/presidentielle-au-cameroun-reportage-a-garoua-capitale-du-tchiroma-president/)
-- [Présidentielle au Cameroun : Issa Tchiroma Bakary revendique une « victoire écrasante » et défie Paul Biya de le féliciter](https://www.jeuneafrique.com/1730582/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-revendique-une-victoire-ecrasante-et-defie-paul-biya-de-le-feliciter/)
-- [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
-- [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
+- [Au Maroc, comment la filiale royale Nareva défie les géants mondiaux de l’énergie](https://www.jeuneafrique.com/1730242/economie-entreprises/au-maroc-comment-la-filiale-royale-nareva-defie-les-geants-mondiaux-de-lenergie/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
-- [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
