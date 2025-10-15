@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Oct 2025, 21:04*
+*Generato: 15 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,12 +148,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
+- [Deux dépressions influencent la région: la Tunisie concernée dans les prochains jours](https://lapresse.tn/2025/10/14/deux-depressions-influencent-la-region-la-tunisie-concernee-dans-les-prochains-jours/)
 - [Grêle et pluies attendues : les agriculteurs appelés à redoubler de prudence](https://lapresse.tn/2025/10/14/grele-et-pluies-attendues-les-agriculteurs-appeles-a-redoubler-de-prudence/)
 - [La Tunisie impose la facturation électronique aux cafés et restaurants : les détails](https://lapresse.tn/2025/10/14/la-tunisie-impose-la-facturation-electronique-aux-cafes-et-restaurants-les-details/)
-- [Skander Kasri, enfin, à l’ASG : «Très heureux de revenir»](https://lapresse.tn/2025/10/14/skander-kasri-enfin-a-lasg-tres-heureux-de-revenir/)
+- [BERD-UE: Un dispositif de 59 millions d’euros pour encourager l’adoption de technologies hautement performantes en Tunisie](https://lapresse.tn/2025/10/14/berd-ue-un-dispositif-de-59-millions-deuros-pour-encourager-ladoption-de-technologies-hautement-performantes-en-tunisie/)
 - [Tunisie : fortes pluies et chutes de grêle prévues dans ces régions](https://lapresse.tn/2025/10/14/tunisie-fortes-pluies-et-chutes-de-grele-prevues-dans-ces-regions/)
 - [Médecine de haute précision : les robots chirurgicaux bientôt introduits en Tunisie](https://lapresse.tn/2025/10/14/medecine-de-haute-precision-les-robots-chirurgicaux-bientot-introduits-en-tunisie/)
-- [Bonne nouvelle pour les Algériens voulant voyager vers la Tunisie par train…](https://lapresse.tn/2025/10/14/bonne-nouvelle-pour-les-algeriens-voulant-voyager-vers-la-tunisie-par-train/)
 - [Démarrage en demi-teinte de la nouvelle campagne céréalière : On ne badine pas avec notre pain !](https://lapresse.tn/2025/10/14/demarrage-en-demi-teinte-de-la-nouvelle-campagne-cerealiere-on-ne-badine-pas-avec-notre-pain/)
 - [Sousse: démantèlement de deux centres de massage clandestins à Khzema](https://lapresse.tn/2025/10/14/sousse-demantelement-de-deux-centres-de-massage-clandestins-a-khzema/)
 - [Kairouan : La kessa kairouanaise toujours indémodable](https://lapresse.tn/2025/10/14/kairouan-la-kessa-kairouanaise-toujours-indemodable/)
@@ -242,10 +242,10 @@
 - [Algérie-France : le départ de Bruno Retailleau du gouvernement, source d’apaisement ?](https://www.jeuneafrique.com/1730797/politique/algerie-france-le-depart-de-bruno-retailleau-du-gouvernement-source-dapaisement/)
 - [Présidentielle au Bénin : Renaud Agbodjo désigné candidat des Démocrates, le parti de Thomas Boni Yayi](https://www.jeuneafrique.com/1730845/politique/presidentielle-au-benin-renaud-agbodjo-designe-candidat-des-democrates-le-parti-de-thomas-boni-yayi/)
 - [Crise à Madagascar : Andry Rajoelina dissout l’Assemblée nationale avant un vote le visant pour abandon de poste](https://www.jeuneafrique.com/1730819/politique/crise-a-madagascar-andry-rajoelina-dissout-lassemblee-nationale-avant-un-vote-le-visant-pour-abandon-de-poste/)
+- [Présidentielle au Cameroun : reportage à Garoua, capitale du « Tchiroma président »](https://www.jeuneafrique.com/1730665/politique/presidentielle-au-cameroun-reportage-a-garoua-capitale-du-tchiroma-president/)
 - [Présidentielle au Cameroun : Issa Tchiroma Bakary revendique une « victoire écrasante » et défie Paul Biya de le féliciter](https://www.jeuneafrique.com/1730582/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-revendique-une-victoire-ecrasante-et-defie-paul-biya-de-le-feliciter/)
 - [Aliou Sall, le frère de l’ex-président sénégalais, échappe à la prison](https://www.jeuneafrique.com/1729672/politique/aliou-sall-le-frere-de-lex-president-senegalais-echappe-a-la-prison/)
 - [Maroc : le collectif GenZ 212 annonce des « sit-in pacifiques »](https://www.jeuneafrique.com/1730621/politique/maroc-le-collectif-genz-212-annonce-dessit-in-pacifiques/)
-- [Est de la RDC : pourquoi Félix Tshisekedi préfère la stratégie de la main tendue au bras de fer](https://www.jeuneafrique.com/1730456/politique/est-de-la-rdc-pourquoi-felix-tshisekedi-prefere-la-strategie-de-la-main-tendue-au-bras-de-fer/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 - [Blocus du JNIM : au Mali, la crise du carburant gagne doucement le ciel](https://www.jeuneafrique.com/1730251/economie-entreprises/blocus-du-jnim-au-mali-la-crise-du-carburant-gagne-doucement-le-ciel/)
 
