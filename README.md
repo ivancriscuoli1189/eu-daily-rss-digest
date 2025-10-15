@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 18:17*
+*Generato: 15 Oct 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
-- [Fatma Dellagi-Bouvet de la Maisonneuve, écrivaine et psychiatre à la Presse: « Décentraliser la pensée est une nécessité ! »](https://lapresse.tn/2025/10/15/fatma-dellagi-bouvet-de-la-maisonneuve-ecrivaine-et-psychiatre-a-la-presse-decentraliser-la-pensee-est-une-necessite/)
-- [La startup « Kayco motors »: Lancement de la première moto tunisienne 100 % électrique](https://lapresse.tn/2025/10/15/la-startup-kayco-motors-lancement-de-la-premiere-moto-tunisienne-100-electrique/)
-- [Secteur des assurances: Une croissance solide mais un potentiel à exploiter encore](https://lapresse.tn/2025/10/15/secteur-des-assurances-une-croissance-solide-mais-un-potentiel-a-exploiter-encore/)
+- [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
+- [Nafti réaffirme à Kampala l’attachement de la Tunisie aux principes du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/15/nafti-reaffirme-a-kampala-lattachement-de-la-tunisie-aux-principes-du-mouvement-des-non-alignes/)
+- [L’équipe nationale se qualifie au mondial en terminant à la première place du groupe H: Le plus dur commence](https://lapresse.tn/2025/10/15/lequipe-nationale-se-qualifie-au-mondial-en-terminant-a-la-premiere-place-du-groupe-h-le-plus-dur-commence/)
+- [L’État tunisien est Un et uni: Toutes les institutions, la BCT en tête, doivent soutenir l’économie nationale](https://lapresse.tn/2025/10/15/letat-tunisien-est-un-et-uni-toutes-les-institutions-la-bct-en-tete-doivent-soutenir-leconomie-nationale/)
 - [La Tunisie à New York : “Aucun traité n’a de valeur sans mécanismes de reddition de comptes”](https://lapresse.tn/2025/10/15/la-tunisie-a-new-york-aucun-traite-na-de-valeur-sans-mecanismes-de-reddition-de-comptes/)
 - [Ouverture de la session 2025-2026 au Conseil national des régions et des districts: Le système éducatif tunisien en débat](https://lapresse.tn/2025/10/15/ouverture-de-la-session-2025-2026-au-conseil-national-des-regions-et-des-districts-le-systeme-educatif-tunisien-en-debat/)
-- [Tunisie : pluies orageuses et vents forts attendus ce soir](https://lapresse.tn/2025/10/15/tunisie-pluies-orageuses-et-vents-forts-attendus-ce-soir/)
+- [A quand le passeport biométrique pour le citoyen “lambda”?](https://lapresse.tn/2025/10/15/a-quand-le-passeport-biometrique-pour-le-citoyen-lambda/)
 - [Tunisie : La CNSS prolonge les délais de paiement des cotisations suite à des difficultés techniques](https://lapresse.tn/2025/10/15/tunisie-la-cnam-prolonge-les-delais-de-paiement-des-cotisations-suite-a-des-difficultes-techniques/)
 - [Sfax se prépare à une récolte de 515 000 tonnes d’olives](https://lapresse.tn/2025/10/15/sfax-se-prepare-a-une-recolte-de-515-000-tonnes-dolives/)
-- [Hôpital Habib Bourguiba à Sfax : un enfant sauvé après un arrêt cardiaque soudain](https://lapresse.tn/2025/10/15/hopital-habib-bourguiba-a-sfax-un-enfant-sauve-apres-un-arret-cardiaque-soudain/)
 
 ## NGOs – Amnesty International – Tunisia
 
