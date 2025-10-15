@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 11:03*
+*Generato: 15 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,12 +148,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
+- [Projet de budget de l’État 2026 : les grandes orientations et hypothèses clés](https://lapresse.tn/2025/10/15/projet-de-budget-de-letat-2026-les-grandes-orientations-et-hypotheses-cles/)
+- [Tunisie: Kaïs Saïed préside la cérémonie du 62e anniversaire de la Fête de l’Évacuation à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-preside-la-ceremonie-du-62e-anniversaire-de-la-fete-de-levacuation-a-bizerte/)
 - [Tunisie : demain dernier délai de dépôt des déclarations fiscales](https://lapresse.tn/2025/10/15/tunisie-demain-dernier-delai-de-depot-des-declarations-fiscales/)
-- [Tennis de table : Fadwa Garci et Abir Haj Salah offrent à la Tunisie le bronze en double féminin](https://lapresse.tn/2025/10/15/tennis-de-table-fadwa-garci-et-abir-haj-salah-offrent-a-la-tunisie-le-bronze-en-double-feminin/)
 - [Fête de l’évacuation : l’ARP appelle à s’inspirer des luttes nationales pour la libération](https://lapresse.tn/2025/10/15/fete-de-levacuation-larp-appelle-a-sinspirer-des-luttes-nationales-pour-la-liberation/)
 - [Restauration, cafés, salons de thé : les caisses enregistreuses deviennent obligatoires en Tunisie](https://lapresse.tn/2025/10/15/restauration-cafes-salons-de-the-les-caisses-enregistreuses-deviennent-obligatoires-en-tunisie/)
 - [INM : Jusqu’à 40 mm de pluie attendus dans plusieurs gouvernorats tunisiens](https://lapresse.tn/2025/10/15/inm-jusqua-40-mm-de-pluie-attendus-dans-plusieurs-gouvernorats-tunisiens/)
-- [Averses, orages et grêle : la météo se dégrade aujourd’hui](https://lapresse.tn/2025/10/15/averses-orages-et-grele-la-meteo-se-degrade-aujourdhui/)
 - [Tetra Pak s’allie à Swan Neck Bio pour révolutionner la fermentation alimentaire](https://lapresse.tn/2025/10/15/tetra-pak-sallie-a-swan-neck-bio-pour-revolutionner-la-fermentation-alimentaire/)
 - [L’Université Centrale, première école paramédicale africaine accréditée par l’ACESI canadienne](https://lapresse.tn/2025/10/15/luniversite-centrale-premiere-ecole-paramedicale-africaine-accreditee-par-lacesi-canadienne/)
 - [Sousse : Bab El Jebli fermé aux voitures dans ces heures…](https://lapresse.tn/2025/10/15/sousse-bab-el-jebli-ferme-aux-voitures-dans-ces-heures/)
