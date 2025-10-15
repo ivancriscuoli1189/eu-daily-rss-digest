@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 15:10*
+*Generato: 15 Oct 2025, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,32 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -173,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
-- [Tourisme tunisien : un record post-Covid avec 7,16 millions d’arrivées sur huit mois](https://lapresse.tn/2025/10/15/tourisme-tunisien-un-record-post-covid-avec-716-millions-darrivees-sur-huit-mois/)
-- [MEMOIRE: Zied GHODHBANI](https://lapresse.tn/2025/10/15/memoire-zied-ghodhbani-4/)
+- [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
+- [Fatma Dellagi-Bouvet de la Maisonneuve, écrivaine et psychiatre à la Presse: « Décentraliser la pensée est une nécessité ! »](https://lapresse.tn/2025/10/15/fatma-dellagi-bouvet-de-la-maisonneuve-ecrivaine-et-psychiatre-a-la-presse-decentraliser-la-pensee-est-une-necessite/)
+- [La startup « Kayco motors »: Lancement de la première moto tunisienne 100 % électrique](https://lapresse.tn/2025/10/15/la-startup-kayco-motors-lancement-de-la-premiere-moto-tunisienne-100-electrique/)
+- [Secteur des assurances: Une croissance solide mais un potentiel à exploiter encore](https://lapresse.tn/2025/10/15/secteur-des-assurances-une-croissance-solide-mais-un-potentiel-a-exploiter-encore/)
+- [La Tunisie à New York : “Aucun traité n’a de valeur sans mécanismes de reddition de comptes”](https://lapresse.tn/2025/10/15/la-tunisie-a-new-york-aucun-traite-na-de-valeur-sans-mecanismes-de-reddition-de-comptes/)
+- [Ouverture de la session 2025-2026 au Conseil national des régions et des districts: Le système éducatif tunisien en débat](https://lapresse.tn/2025/10/15/ouverture-de-la-session-2025-2026-au-conseil-national-des-regions-et-des-districts-le-systeme-educatif-tunisien-en-debat/)
+- [Tunisie : pluies orageuses et vents forts attendus ce soir](https://lapresse.tn/2025/10/15/tunisie-pluies-orageuses-et-vents-forts-attendus-ce-soir/)
+- [Tunisie : La CNSS prolonge les délais de paiement des cotisations suite à des difficultés techniques](https://lapresse.tn/2025/10/15/tunisie-la-cnam-prolonge-les-delais-de-paiement-des-cotisations-suite-a-des-difficultes-techniques/)
+- [Sfax se prépare à une récolte de 515 000 tonnes d’olives](https://lapresse.tn/2025/10/15/sfax-se-prepare-a-une-recolte-de-515-000-tonnes-dolives/)
 - [Hôpital Habib Bourguiba à Sfax : un enfant sauvé après un arrêt cardiaque soudain](https://lapresse.tn/2025/10/15/hopital-habib-bourguiba-a-sfax-un-enfant-sauve-apres-un-arret-cardiaque-soudain/)
-- [Mohamed Ennaceur soutient le lancement de l’initiative politique “Engagement national” à Tunis](https://lapresse.tn/2025/10/15/mohamed-ennaceur-soutient-le-lancement-de-linitiative-politique-engagement-national-a-tunis/)
-- [Tunisie: Kaïs Saïed préside la cérémonie du 62e anniversaire de la Fête de l’Évacuation à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-preside-la-ceremonie-du-62e-anniversaire-de-la-fete-de-levacuation-a-bizerte/)
-- [Fête de l’évacuation : l’ARP appelle à s’inspirer des luttes nationales pour la libération](https://lapresse.tn/2025/10/15/fete-de-levacuation-larp-appelle-a-sinspirer-des-luttes-nationales-pour-la-liberation/)
-- [Tunis : huit ans de prison pour une employée municipale impliquée dans la falsification de contrats de propriété](https://lapresse.tn/2025/10/15/tunis-huit-ans-de-prison-pour-une-employee-municipale-impliquee-dans-la-falsification-de-contrats-de-propriete/)
-- [Kasserine : 27 500 coccinelles dispersées pour renforcer la lutte contre la cochenille du cactus](https://lapresse.tn/2025/10/15/kasserine-27-500-coccinelles-dispersees-pour-renforcer-la-lutte-contre-la-cochenille-du-cactus/)
-- [Tataouine : comment expliquer le glissement de terrain de Ghomrassen ?](https://lapresse.tn/2025/10/15/tataouine-comment-expliquer-le-glissement-de-terrain-de-ghomrassen/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -269,11 +243,11 @@
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
 - [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
 - [Kenya : décès de Raila Odinga, figure emblématique de l’opposition](https://www.jeuneafrique.com/1731086/politique/kenya-deces-de-raila-odinga-figure-emblematique-de-lopposition/)
+- [Bénin-Parfait Ahoyo : « Avec Romuald Wadagni, nous avons opté pour la continuité »](https://www.jeuneafrique.com/1730750/politique/benin-parfait-ahoyo-avec-romuald-wadagni-nous-avons-opte-pour-la-continuite/)
+- [Mali : pourquoi la radiation des généraux Néma Sagara et Abass Dembélé peut fragiliser Assimi Goïta](https://www.jeuneafrique.com/1730718/politique/mali-pourquoi-la-radiation-des-generaux-nema-sagara-et-abass-dembele-peut-fragiliser-assimi-goita/)
 - [Présidentielle au Cameroun : gouvernement et RDPC dénoncent l’« escroquerie » Tchiroma Bakary](https://www.jeuneafrique.com/1730966/politique/presidentielle-au-cameroun-le-gouvernement-et-le-rdpc-denoncent-l-imposture-et-l-escroquerie-de-tchiroma-bakary/)
-- [Au Burkina Faso, trois magistrats et deux journalistes « enlevés » ou « portés disparus »](https://www.jeuneafrique.com/1730651/politique/au-burkina-trois-magistrats-et-deux-journalistes-enleves-ou-portes-disparus/)
-- [Madagascar : des militaires annoncent prendre le pouvoir](https://www.jeuneafrique.com/1730939/politique/madagascar-des-militaires-annoncent-prendre-le-pouvoir/)
-- [Au Maroc, comment la filiale royale Nareva défie les géants mondiaux de l’énergie](https://www.jeuneafrique.com/1730242/economie-entreprises/au-maroc-comment-la-filiale-royale-nareva-defie-les-geants-mondiaux-de-lenergie/)
-- [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
+- [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
+- [Au Maroc, comment la filiale Nareva défie les géants mondiaux de l’énergie](https://www.jeuneafrique.com/1730242/economie-entreprises/au-maroc-comment-la-filiale-royale-nareva-defie-les-geants-mondiaux-de-lenergie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
