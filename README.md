@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 13:26*
+*Generato: 15 Oct 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,6 +119,32 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -148,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
-- [Tunisie : Kaïs Saïed célèbre la mémoire des martyrs de 1961 et suit l’avancement de projets à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-celebre-la-memoire-des-martyrs-de-1961-et-suit-lavancement-de-projets-a-bizerte/)
-- [Tataouine : comment expliquer le glissement de terrain de Ghomrassen ?](https://lapresse.tn/2025/10/15/tataouine-comment-expliquer-le-glissement-de-terrain-de-ghomrassen/)
-- [Tunisie : lancement du chantier de restauration du mur du vieux port de Ghar El Melh](https://lapresse.tn/2025/10/15/tunisie-lancement-du-chantier-de-restauration-du-mur-du-vieux-port-de-ghar-el-melh/)
+- [Tourisme tunisien : un record post-Covid avec 7,16 millions d’arrivées sur huit mois](https://lapresse.tn/2025/10/15/tourisme-tunisien-un-record-post-covid-avec-716-millions-darrivees-sur-huit-mois/)
+- [MEMOIRE: Zied GHODHBANI](https://lapresse.tn/2025/10/15/memoire-zied-ghodhbani-4/)
+- [Hôpital Habib Bourguiba à Sfax : un enfant sauvé après un arrêt cardiaque soudain](https://lapresse.tn/2025/10/15/hopital-habib-bourguiba-a-sfax-un-enfant-sauve-apres-un-arret-cardiaque-soudain/)
 - [Mohamed Ennaceur soutient le lancement de l’initiative politique “Engagement national” à Tunis](https://lapresse.tn/2025/10/15/mohamed-ennaceur-soutient-le-lancement-de-linitiative-politique-engagement-national-a-tunis/)
 - [Tunisie: Kaïs Saïed préside la cérémonie du 62e anniversaire de la Fête de l’Évacuation à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-preside-la-ceremonie-du-62e-anniversaire-de-la-fete-de-levacuation-a-bizerte/)
 - [Fête de l’évacuation : l’ARP appelle à s’inspirer des luttes nationales pour la libération](https://lapresse.tn/2025/10/15/fete-de-levacuation-larp-appelle-a-sinspirer-des-luttes-nationales-pour-la-liberation/)
-- [Tunisie – Gafsa : les sangliers dévastent les cultures](https://lapresse.tn/2025/10/15/tunisie-gafsa-les-sangliers-devastent-les-cultures/)
-- [Tetra Pak s’allie à Swan Neck Bio pour révolutionner la fermentation alimentaire](https://lapresse.tn/2025/10/15/tetra-pak-sallie-a-swan-neck-bio-pour-revolutionner-la-fermentation-alimentaire/)
-- [Projet de budget de l’État 2026 : les grandes orientations et hypothèses clés](https://lapresse.tn/2025/10/15/projet-de-budget-de-letat-2026-les-grandes-orientations-et-hypotheses-cles/)
+- [Tunis : huit ans de prison pour une employée municipale impliquée dans la falsification de contrats de propriété](https://lapresse.tn/2025/10/15/tunis-huit-ans-de-prison-pour-une-employee-municipale-impliquee-dans-la-falsification-de-contrats-de-propriete/)
+- [Kasserine : 27 500 coccinelles dispersées pour renforcer la lutte contre la cochenille du cactus](https://lapresse.tn/2025/10/15/kasserine-27-500-coccinelles-dispersees-pour-renforcer-la-lutte-contre-la-cochenille-du-cactus/)
+- [Tataouine : comment expliquer le glissement de terrain de Ghomrassen ?](https://lapresse.tn/2025/10/15/tataouine-comment-expliquer-le-glissement-de-terrain-de-ghomrassen/)
 
 ## NGOs – Amnesty International – Tunisia
 
