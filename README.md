@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 12:19*
+*Generato: 15 Oct 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Des secteurs toujours performants](https://lapresse.tn/2025/10/14/des-secteurs-toujours-performants/)
-- [Projet de budget de l’État 2026 : les grandes orientations et hypothèses clés](https://lapresse.tn/2025/10/15/projet-de-budget-de-letat-2026-les-grandes-orientations-et-hypotheses-cles/)
+- [Tunisie : Kaïs Saïed célèbre la mémoire des martyrs de 1961 et suit l’avancement de projets à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-celebre-la-memoire-des-martyrs-de-1961-et-suit-lavancement-de-projets-a-bizerte/)
+- [Tataouine : comment expliquer le glissement de terrain de Ghomrassen ?](https://lapresse.tn/2025/10/15/tataouine-comment-expliquer-le-glissement-de-terrain-de-ghomrassen/)
+- [Tunisie : lancement du chantier de restauration du mur du vieux port de Ghar El Melh](https://lapresse.tn/2025/10/15/tunisie-lancement-du-chantier-de-restauration-du-mur-du-vieux-port-de-ghar-el-melh/)
+- [Mohamed Ennaceur soutient le lancement de l’initiative politique “Engagement national” à Tunis](https://lapresse.tn/2025/10/15/mohamed-ennaceur-soutient-le-lancement-de-linitiative-politique-engagement-national-a-tunis/)
 - [Tunisie: Kaïs Saïed préside la cérémonie du 62e anniversaire de la Fête de l’Évacuation à Bizerte](https://lapresse.tn/2025/10/15/tunisie-kais-saied-preside-la-ceremonie-du-62e-anniversaire-de-la-fete-de-levacuation-a-bizerte/)
-- [Tunisie : demain dernier délai de dépôt des déclarations fiscales](https://lapresse.tn/2025/10/15/tunisie-demain-dernier-delai-de-depot-des-declarations-fiscales/)
 - [Fête de l’évacuation : l’ARP appelle à s’inspirer des luttes nationales pour la libération](https://lapresse.tn/2025/10/15/fete-de-levacuation-larp-appelle-a-sinspirer-des-luttes-nationales-pour-la-liberation/)
-- [Restauration, cafés, salons de thé : les caisses enregistreuses deviennent obligatoires en Tunisie](https://lapresse.tn/2025/10/15/restauration-cafes-salons-de-the-les-caisses-enregistreuses-deviennent-obligatoires-en-tunisie/)
-- [INM : Jusqu’à 40 mm de pluie attendus dans plusieurs gouvernorats tunisiens](https://lapresse.tn/2025/10/15/inm-jusqua-40-mm-de-pluie-attendus-dans-plusieurs-gouvernorats-tunisiens/)
+- [Tunisie – Gafsa : les sangliers dévastent les cultures](https://lapresse.tn/2025/10/15/tunisie-gafsa-les-sangliers-devastent-les-cultures/)
 - [Tetra Pak s’allie à Swan Neck Bio pour révolutionner la fermentation alimentaire](https://lapresse.tn/2025/10/15/tetra-pak-sallie-a-swan-neck-bio-pour-revolutionner-la-fermentation-alimentaire/)
-- [L’Université Centrale, première école paramédicale africaine accréditée par l’ACESI canadienne](https://lapresse.tn/2025/10/15/luniversite-centrale-premiere-ecole-paramedicale-africaine-accreditee-par-lacesi-canadienne/)
-- [Sousse : Bab El Jebli fermé aux voitures dans ces heures…](https://lapresse.tn/2025/10/15/sousse-bab-el-jebli-ferme-aux-voitures-dans-ces-heures/)
+- [Projet de budget de l’État 2026 : les grandes orientations et hypothèses clés](https://lapresse.tn/2025/10/15/projet-de-budget-de-letat-2026-les-grandes-orientations-et-hypotheses-cles/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -186,12 +186,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
-- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
@@ -242,10 +242,10 @@
 - [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
 - [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
+- [Kenya : décès de Raila Odinga, figure emblématique de l’opposition](https://www.jeuneafrique.com/1731086/politique/kenya-deces-de-raila-odinga-figure-emblematique-de-lopposition/)
 - [Présidentielle au Cameroun : gouvernement et RDPC dénoncent l’« escroquerie » Tchiroma Bakary](https://www.jeuneafrique.com/1730966/politique/presidentielle-au-cameroun-le-gouvernement-et-le-rdpc-denoncent-l-imposture-et-l-escroquerie-de-tchiroma-bakary/)
 - [Au Burkina Faso, trois magistrats et deux journalistes « enlevés » ou « portés disparus »](https://www.jeuneafrique.com/1730651/politique/au-burkina-trois-magistrats-et-deux-journalistes-enleves-ou-portes-disparus/)
 - [Madagascar : des militaires annoncent prendre le pouvoir](https://www.jeuneafrique.com/1730939/politique/madagascar-des-militaires-annoncent-prendre-le-pouvoir/)
-- [Algérie-France : le départ de Bruno Retailleau du gouvernement, source d’apaisement ?](https://www.jeuneafrique.com/1730797/politique/algerie-france-le-depart-de-bruno-retailleau-du-gouvernement-source-dapaisement/)
 - [Au Maroc, comment la filiale royale Nareva défie les géants mondiaux de l’énergie](https://www.jeuneafrique.com/1730242/economie-entreprises/au-maroc-comment-la-filiale-royale-nareva-defie-les-geants-mondiaux-de-lenergie/)
 - [Safran propulse le Maroc dans le club des pays assembleurs de moteurs d’avions](https://www.jeuneafrique.com/1730631/economie-entreprises/safran-propulse-le-maroc-dans-le-club-des-pays-assembleurs-de-moteurs-davions/)
 
