@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 12:19*
+*Generato: 16 Oct 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
+- [Plus de 1 700 Tunisiens sur la liste d’attente pour une greffe d’organes](https://lapresse.tn/2025/10/16/plus-de-1-700-tunisiens-sur-la-liste-dattente-pour-une-greffe-dorganes/)
+- [Près de 21 millions de tentatives d’attaques détectées au Maroc au 1er semestre 2025](https://lapresse.tn/2025/10/16/pres-de-21-millions-de-tentatives-dattaques-detectees-au-maroc-au-1er-semestre-2025/)
 - [Nouveau classement des passeports les plus puissants du monde : les USA quittent le top 10](https://lapresse.tn/2025/10/16/nouveau-classement-des-passeports-les-plus-puissants-du-monde-les-usa-quittent-le-top-10/)
-- [Décès de l’acteur tunisien Ali Fersi](https://lapresse.tn/2025/10/16/deces-de-lacteur-tunisien-ali-fersi/)
-- [Faouzi Zayani appelle à financer le secteur de l’huile d’olive à hauteur de 4 milliards de dinars](https://lapresse.tn/2025/10/16/faouzi-zayani-appelle-a-financer-le-secteur-de-lhuile-dolive-a-hauteur-de-4-milliards-de-dinars/)
 - [Tunis : Jusqu’à 31 ans de prison pour un réseau international de trafic de cocaïne](https://lapresse.tn/2025/10/16/tunis-jusqua-31-ans-de-prison-pour-un-reseau-international-de-trafic-de-cocaine/)
 - [Météo : Perturbations météorologiques attendues sur le nord de la Tunisie](https://lapresse.tn/2025/10/16/meteo-perturbations-meteorologiques-attendues-sur-le-nord-de-la-tunisie/)
 - [Tunisie : Le PLF 2026 prévoit une hausse des salaires et des pensions](https://lapresse.tn/2025/10/15/tunisie-le-plf-2026-prevoit-une-hausse-des-salaires-et-des-pensions/)
 - [Pêche au poulpe : la fermeture de la saison prolongée d’un mois supplémentaire](https://lapresse.tn/2025/10/16/peche-au-poulpe-la-fermeture-de-la-saison-prolongee-dun-mois-supplementaire/)
 - [Le 29 octobre prochain, coup d’envoi de la 9ème édition du festival de la grenade de Testour](https://lapresse.tn/2025/10/16/le-29-octobre-prochain-coup-denvoi-de-la-9eme-edition-du-festival-de-la-grenade-de-testour/)
-- [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
+- [Faouzi Zayani appelle à financer le secteur de l’huile d’olive à hauteur de 4 milliards de dinars](https://lapresse.tn/2025/10/16/faouzi-zayani-appelle-a-financer-le-secteur-de-lhuile-dolive-a-hauteur-de-4-milliards-de-dinars/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
-- [Guillaume Ngefa, ministre de la Justice en RDC : « Je ne crois pas à la peine de mort »](https://www.jeuneafrique.com/1729409/politique/guillaume-ngefa-ministre-de-la-justice-en-rdc-je-ne-crois-pas-a-la-peine-de-mort/)
+- [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
 - [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
+- [Mort de Raila Odinga : fin d’une légende de la politique kényane](https://www.jeuneafrique.com/1731184/politique/mort-de-raila-odinga-fin-dune-legende-de-la-politique-kenyane/)
 - [Andry Rajoelina renversé à Madagascar : ses dernières heures au pouvoir](https://www.jeuneafrique.com/1731110/politique/andry-rajoelina-renverse-a-madagascar-ses-dernieres-heures-au-pouvoir/)
 - [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
 - [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
-- [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
 - [Pourquoi le renouvellement du contrat d’Addax fait grincer des dents en Mauritanie](https://www.jeuneafrique.com/1731360/economie-entreprises/pourquoi-le-renouvellement-du-contrat-daddax-fait-grincer-des-dents-en-mauritanie/)
 - [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
 
