@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 09:05*
+*Generato: 16 Oct 2025, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
+- [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
 - [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
 - [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
 - [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
@@ -90,8 +92,6 @@
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
 - [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
-- [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
-- [MEPs reject motions of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30667/meps-reject-motions-of-censure-against-the-european-commission)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
-- [Indonésie : un séisme de 6,5 frappe la province de Papouasie](https://lapresse.tn/2025/10/16/indonesie-un-seisme-de-65-frappe-la-province-de-papouasie/)
-- [CÉRÉMONIE DU FARK : AMOR ZBIDI](https://lapresse.tn/2025/10/16/ceremonie-du-fark-amor-zbidi/)
-- [Fonction publique : l’État tunisien relance les recrutements en 2026](https://lapresse.tn/2025/10/16/fonction-publique-letat-tunisien-relance-les-recrutements-en-2026/)
+- [Nouveau classement des passeports les plus puissants du monde : les USA quittent le top 10](https://lapresse.tn/2025/10/16/nouveau-classement-des-passeports-les-plus-puissants-du-monde-les-usa-quittent-le-top-10/)
+- [Décès de l’acteur tunisien Ali Fersi](https://lapresse.tn/2025/10/16/deces-de-lacteur-tunisien-ali-fersi/)
+- [Faouzi Zayani appelle à financer le secteur de l’huile d’olive à hauteur de 4 milliards de dinars](https://lapresse.tn/2025/10/16/faouzi-zayani-appelle-a-financer-le-secteur-de-lhuile-dolive-a-hauteur-de-4-milliards-de-dinars/)
+- [Tunis : Jusqu’à 31 ans de prison pour un réseau international de trafic de cocaïne](https://lapresse.tn/2025/10/16/tunis-jusqua-31-ans-de-prison-pour-un-reseau-international-de-trafic-de-cocaine/)
 - [Météo : Perturbations météorologiques attendues sur le nord de la Tunisie](https://lapresse.tn/2025/10/16/meteo-perturbations-meteorologiques-attendues-sur-le-nord-de-la-tunisie/)
 - [Tunisie : Le PLF 2026 prévoit une hausse des salaires et des pensions](https://lapresse.tn/2025/10/15/tunisie-le-plf-2026-prevoit-une-hausse-des-salaires-et-des-pensions/)
-- [Nafti réaffirme à Kampala l’attachement de la Tunisie aux principes du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/15/nafti-reaffirme-a-kampala-lattachement-de-la-tunisie-aux-principes-du-mouvement-des-non-alignes/)
+- [Pêche au poulpe : la fermeture de la saison prolongée d’un mois supplémentaire](https://lapresse.tn/2025/10/16/peche-au-poulpe-la-fermeture-de-la-saison-prolongee-dun-mois-supplementaire/)
+- [Le 29 octobre prochain, coup d’envoi de la 9ème édition du festival de la grenade de Testour](https://lapresse.tn/2025/10/16/le-29-octobre-prochain-coup-denvoi-de-la-9eme-edition-du-festival-de-la-grenade-de-testour/)
 - [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
-- [A quand le passeport biométrique pour le citoyen “lambda”?](https://lapresse.tn/2025/10/15/a-quand-le-passeport-biometrique-pour-le-citoyen-lambda/)
-- [Tunisie : La CNSS prolonge les délais de paiement des cotisations suite à des difficultés techniques](https://lapresse.tn/2025/10/15/tunisie-la-cnam-prolonge-les-delais-de-paiement-des-cotisations-suite-a-des-difficultes-techniques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
+- [Guillaume Ngefa, ministre de la Justice en RDC : « Je ne crois pas à la peine de mort »](https://www.jeuneafrique.com/1729409/politique/guillaume-ngefa-ministre-de-la-justice-en-rdc-je-ne-crois-pas-a-la-peine-de-mort/)
+- [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
 - [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
 - [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
 - [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
 - [Kenya : décès de Raila Odinga, figure emblématique de l’opposition](https://www.jeuneafrique.com/1731086/politique/kenya-deces-de-raila-odinga-figure-emblematique-de-lopposition/)
-- [Présidentielle au Cameroun : avant Tchiroma Bakary, Fru Ndi et Kamto avaient aussi revendiqué la victoire](https://www.jeuneafrique.com/1730883/politique/presidentielle-au-cameroun-avant-tchiroma-bakary-fru-ndi-et-kamto-avaient-aussi-revendique-la-victoire/)
-- [Bénin-Parfait Ahoyo : « Avec Romuald Wadagni, nous avons opté pour la continuité »](https://www.jeuneafrique.com/1730750/politique/benin-parfait-ahoyo-avec-romuald-wadagni-nous-avons-opte-pour-la-continuite/)
+- [Pourquoi le renouvellement du contrat d’Addax fait grincer des dents en Mauritanie](https://www.jeuneafrique.com/1731360/economie-entreprises/pourquoi-le-renouvellement-du-contrat-daddax-fait-grincer-des-dents-en-mauritanie/)
 - [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
-- [Khadim Bamba Diagne, le stratège de l’or noir sénégalais](https://www.jeuneafrique.com/1730822/economie-entreprises/khadim-bamba-diagne-le-stratege-de-lor-noir-senegalais/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
