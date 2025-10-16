@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 15:11*
+*Generato: 16 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
-- [Ouverture du centre d’Excellence pour l’entrepreneuriat » au profit des artisanes tunisiennes](https://lapresse.tn/2025/10/16/ouverture-du-centre-dexcellence-pour-lentrepreneuriat-au-profit-des-artisanes-tunisiennes/)
-- [PLF 2026 : l’État tunisien renonce aux dettes de l’Office de Commerce et la Société du sucre](https://lapresse.tn/2025/10/16/plf-2026-letat-tunisien-renonce-aux-dettes-de-loffice-de-commerce-et-la-societe-du-sucre/)
-- [Formation professionnelle: 25 000 demandes approuvées](https://lapresse.tn/2025/10/16/formation-professionnelle-25-000-demandes-approuvees/)
-- [Le passeport tunisien permet désormais de voyager vers 68 pays sans visa](https://lapresse.tn/2025/10/16/le-passeport-tunisien-permet-desormais-de-voyager-vers-68-pays-sans-visa/)
-- [Échange de violence entre étudiants et jet de chaises dans un restaurant universitaire à Sousse](https://lapresse.tn/2025/10/16/echange-de-violence-entre-etudiants-et-jet-de-chaises-dans-un-restaurant-universitaire-a-sousse/)
-- [Tunisie : L’Institut supérieur de biotechnologie de Béja décroche une double accréditation internationale](https://lapresse.tn/2025/10/16/tunisie-linstitut-superieur-de-biotechnologie-de-beja-decroche-une-double-accreditation-internationale/)
-- [30 greffes d’organes ont été réalisées au cours des neuf derniers mois](https://lapresse.tn/2025/10/16/30-greffes-dorganes-ont-ete-realisees-au-cours-des-neuf-derniers-mois/)
-- [Tunisie : Bilan des précipitations enregistrées durant les dernières 24 heures](https://lapresse.tn/2025/10/16/tunisie-bilan-des-precipitations-enregistrees-durant-les-dernieres-24-heures/)
-- [Investissement et agriculture : ce que prévoit le projet de loi de finances 2026](https://lapresse.tn/2025/10/16/investissement-et-agriculture-ce-que-prevoit-le-projet-de-loi-de-finances-2026/)
+- [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
+- [Tunisie : un budget de 63,5 milliards de dinars pour l’exercice 2026](https://lapresse.tn/2025/10/16/tunisie-un-budget-de-635-milliards-de-dinars-pour-lexercice-2026/)
+- [L’Assemblée se penche sur le budget 2026 et la crise environnementale à Gabès](https://lapresse.tn/2025/10/16/lassemblee-se-penche-sur-le-budget-2026-et-la-crise-environnementale-a-gabes/)
+- [Aucun arbitre Tunisien à la coupe arabe des nations : Une inquiétante énième absence !](https://lapresse.tn/2025/10/16/aucun-arbitre-tunisien-a-la-coupe-arabe-des-nations-une-inquietante-enieme-absence/)
+- [Météo : passages nuageux et faibles pluies au nord ce soir](https://lapresse.tn/2025/10/16/meteo-passages-nuageux-et-faibles-pluies-au-nord-ce-soir/)
+- [Tribune : La guerre de Bizerte, la bataille pour l’évacuation](https://lapresse.tn/2025/10/16/tribune-la-guerre-de-bizerte-la-bataille-pour-levacuation/)
+- [Tunisie : une plateforme gratuite pour simplifier les opérations de change](https://lapresse.tn/2025/10/16/tunisie-une-plateforme-gratuite-pour-simplifier-les-operations-de-change/)
+- [Ben Guerdane : saisie de 45 000 comprimés de drogue et de cocaïne dans une ambulance libyenne](https://lapresse.tn/2025/10/16/ben-guerdane-saisie-de-45-000-comprimes-de-drogue-et-de-cocaine-dans-une-ambulance-libyenne/)
+- [Pourquoi : Vivement des élèves-surveillants…](https://lapresse.tn/2025/10/16/pourquoi-vivement-des-eleves-surveillants/)
+- [Tunisie : l’équipe BlackShark s’envole pour la Battle of Robots 2025 en Russie](https://lapresse.tn/2025/10/16/tunisie-lequipe-blackshark-senvole-pour-la-battle-of-robots-2025-en-russie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Tunisie, l’ « Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
+- [Tensions après la présidentielle au Cameroun : ce qu’il s’est passé à Dschang, Bafoussam ou Douala](https://www.jeuneafrique.com/1731467/politique/tensions-apres-la-presidentielle-au-cameroun-ce-quil-sest-passe-a-dschang-bafoussam-ou-douala/)
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
 - [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
 - [Comment Wagner a détourné des équipements de l’armée malienne](https://www.jeuneafrique.com/1730529/politique/comment-wagner-a-detourne-des-equipements-de-larmee-malienne/)
 - [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
 - [Mort de Raila Odinga : fin d’une légende de la politique kényane](https://www.jeuneafrique.com/1731184/politique/mort-de-raila-odinga-fin-dune-legende-de-la-politique-kenyane/)
 - [Andry Rajoelina renversé à Madagascar : ses dernières heures au pouvoir](https://www.jeuneafrique.com/1731110/politique/andry-rajoelina-renverse-a-madagascar-ses-dernieres-heures-au-pouvoir/)
-- [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
 - [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
-- [Pourquoi le renouvellement du contrat d’Addax fait grincer des dents en Mauritanie](https://www.jeuneafrique.com/1731360/economie-entreprises/pourquoi-le-renouvellement-du-contrat-daddax-fait-grincer-des-dents-en-mauritanie/)
+- [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
