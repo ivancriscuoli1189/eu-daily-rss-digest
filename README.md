@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 06:15*
+*Generato: 16 Oct 2025, 09:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
+- [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
+- [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
 - [Sustainability reporting and due diligence: simpler rules for fewer companies](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30836/sustainability-reporting-and-due-diligence-simpler-rules-for-fewer-companies)
 - [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
@@ -89,14 +92,11 @@
 - [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
 - [Afghanistan: unblock aid to earthquake victims and end “gender apartheid”](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30662/afghanistan-unblock-aid-to-earthquake-victims-and-end-gender-apartheid)
 - [MEPs reject motions of censure against the European Commission](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30667/meps-reject-motions-of-censure-against-the-european-commission)
-- [Human rights violations in Equatorial Guinea, Haiti and China](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30668/human-rights-violations-in-equatorial-guinea-haiti-and-china)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30673/ep-today)
-- [Premier of Greenland: The EU and Greenland need each other](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30665/premier-of-greenland-the-eu-and-greenland-need-each-other)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
+- [Indonésie : un séisme de 6,5 frappe la province de Papouasie](https://lapresse.tn/2025/10/16/indonesie-un-seisme-de-65-frappe-la-province-de-papouasie/)
+- [CÉRÉMONIE DU FARK : AMOR ZBIDI](https://lapresse.tn/2025/10/16/ceremonie-du-fark-amor-zbidi/)
+- [Fonction publique : l’État tunisien relance les recrutements en 2026](https://lapresse.tn/2025/10/16/fonction-publique-letat-tunisien-relance-les-recrutements-en-2026/)
+- [Météo : Perturbations météorologiques attendues sur le nord de la Tunisie](https://lapresse.tn/2025/10/16/meteo-perturbations-meteorologiques-attendues-sur-le-nord-de-la-tunisie/)
 - [Tunisie : Le PLF 2026 prévoit une hausse des salaires et des pensions](https://lapresse.tn/2025/10/15/tunisie-le-plf-2026-prevoit-une-hausse-des-salaires-et-des-pensions/)
-- [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
 - [Nafti réaffirme à Kampala l’attachement de la Tunisie aux principes du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/15/nafti-reaffirme-a-kampala-lattachement-de-la-tunisie-aux-principes-du-mouvement-des-non-alignes/)
-- [L’État tunisien est Un et uni: Toutes les institutions, la BCT en tête, doivent soutenir l’économie nationale](https://lapresse.tn/2025/10/15/letat-tunisien-est-un-et-uni-toutes-les-institutions-la-bct-en-tete-doivent-soutenir-leconomie-nationale/)
-- [La Tunisie à New York : “Aucun traité n’a de valeur sans mécanismes de reddition de comptes”](https://lapresse.tn/2025/10/15/la-tunisie-a-new-york-aucun-traite-na-de-valeur-sans-mecanismes-de-reddition-de-comptes/)
+- [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
 - [A quand le passeport biométrique pour le citoyen “lambda”?](https://lapresse.tn/2025/10/15/a-quand-le-passeport-biometrique-pour-le-citoyen-lambda/)
 - [Tunisie : La CNSS prolonge les délais de paiement des cotisations suite à des difficultés techniques](https://lapresse.tn/2025/10/15/tunisie-la-cnam-prolonge-les-delais-de-paiement-des-cotisations-suite-a-des-difficultes-techniques/)
-- [La startup « Kayco motors »: Lancement de la première moto tunisienne 100 % électrique](https://lapresse.tn/2025/10/15/la-startup-kayco-motors-lancement-de-la-premiere-moto-tunisienne-100-electrique/)
-- [Secteur des assurances: Une croissance solide mais un potentiel à exploiter encore](https://lapresse.tn/2025/10/15/secteur-des-assurances-une-croissance-solide-mais-un-potentiel-a-exploiter-encore/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
 - [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
 - [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
@@ -271,9 +272,8 @@
 - [Kenya : décès de Raila Odinga, figure emblématique de l’opposition](https://www.jeuneafrique.com/1731086/politique/kenya-deces-de-raila-odinga-figure-emblematique-de-lopposition/)
 - [Présidentielle au Cameroun : avant Tchiroma Bakary, Fru Ndi et Kamto avaient aussi revendiqué la victoire](https://www.jeuneafrique.com/1730883/politique/presidentielle-au-cameroun-avant-tchiroma-bakary-fru-ndi-et-kamto-avaient-aussi-revendique-la-victoire/)
 - [Bénin-Parfait Ahoyo : « Avec Romuald Wadagni, nous avons opté pour la continuité »](https://www.jeuneafrique.com/1730750/politique/benin-parfait-ahoyo-avec-romuald-wadagni-nous-avons-opte-pour-la-continuite/)
-- [Mali : pourquoi la radiation des généraux Néma Sagara et Abass Dembélé peut fragiliser Assimi Goïta](https://www.jeuneafrique.com/1730718/politique/mali-pourquoi-la-radiation-des-generaux-nema-sagara-et-abass-dembele-peut-fragiliser-assimi-goita/)
 - [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
-- [Comment NSIA Côte d’Ivoire est devenue la deuxième banque de l’Uemoa](https://www.jeuneafrique.com/1730972/economie-entreprises/comment-nsia-cote-divoire-est-devenue-la-deuxieme-banque-de-luemoa/)
+- [Khadim Bamba Diagne, le stratège de l’or noir sénégalais](https://www.jeuneafrique.com/1730822/economie-entreprises/khadim-bamba-diagne-le-stratege-de-lor-noir-senegalais/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
