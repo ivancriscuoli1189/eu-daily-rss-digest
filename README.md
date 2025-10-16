@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Oct 2025, 21:10*
+*Generato: 16 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -119,6 +119,32 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -148,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
+- [Tunisie : Le PLF 2026 prévoit une hausse des salaires et des pensions](https://lapresse.tn/2025/10/15/tunisie-le-plf-2026-prevoit-une-hausse-des-salaires-et-des-pensions/)
 - [Association Tunisienne d’Assistance aux Malades du Cancer du Sein : 300 femmes mobilisées pour la santé et la vie](https://lapresse.tn/2025/10/15/association-tunisienne-dassistance-aux-malades-du-cancer-du-sein-300-femmes-mobilisees-pour-la-sante-et-la-vie/)
 - [Nafti réaffirme à Kampala l’attachement de la Tunisie aux principes du Mouvement des Non-Alignés](https://lapresse.tn/2025/10/15/nafti-reaffirme-a-kampala-lattachement-de-la-tunisie-aux-principes-du-mouvement-des-non-alignes/)
-- [L’équipe nationale se qualifie au mondial en terminant à la première place du groupe H: Le plus dur commence](https://lapresse.tn/2025/10/15/lequipe-nationale-se-qualifie-au-mondial-en-terminant-a-la-premiere-place-du-groupe-h-le-plus-dur-commence/)
 - [L’État tunisien est Un et uni: Toutes les institutions, la BCT en tête, doivent soutenir l’économie nationale](https://lapresse.tn/2025/10/15/letat-tunisien-est-un-et-uni-toutes-les-institutions-la-bct-en-tete-doivent-soutenir-leconomie-nationale/)
 - [La Tunisie à New York : “Aucun traité n’a de valeur sans mécanismes de reddition de comptes”](https://lapresse.tn/2025/10/15/la-tunisie-a-new-york-aucun-traite-na-de-valeur-sans-mecanismes-de-reddition-de-comptes/)
-- [Ouverture de la session 2025-2026 au Conseil national des régions et des districts: Le système éducatif tunisien en débat](https://lapresse.tn/2025/10/15/ouverture-de-la-session-2025-2026-au-conseil-national-des-regions-et-des-districts-le-systeme-educatif-tunisien-en-debat/)
 - [A quand le passeport biométrique pour le citoyen “lambda”?](https://lapresse.tn/2025/10/15/a-quand-le-passeport-biometrique-pour-le-citoyen-lambda/)
 - [Tunisie : La CNSS prolonge les délais de paiement des cotisations suite à des difficultés techniques](https://lapresse.tn/2025/10/15/tunisie-la-cnam-prolonge-les-delais-de-paiement-des-cotisations-suite-a-des-difficultes-techniques/)
-- [Sfax se prépare à une récolte de 515 000 tonnes d’olives](https://lapresse.tn/2025/10/15/sfax-se-prepare-a-une-recolte-de-515-000-tonnes-dolives/)
+- [La startup « Kayco motors »: Lancement de la première moto tunisienne 100 % électrique](https://lapresse.tn/2025/10/15/la-startup-kayco-motors-lancement-de-la-premiere-moto-tunisienne-100-electrique/)
+- [Secteur des assurances: Une croissance solide mais un potentiel à exploiter encore](https://lapresse.tn/2025/10/15/secteur-des-assurances-une-croissance-solide-mais-un-potentiel-a-exploiter-encore/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -243,11 +269,11 @@
 - [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
 - [Présidentielle en Côte d’Ivoire : un mort dans une manifestation contre le pouvoir](https://www.jeuneafrique.com/1731081/politique/presidentielle-en-cote-divoire-un-mort-dans-une-manifestation-contre-le-pouvoir/)
 - [Kenya : décès de Raila Odinga, figure emblématique de l’opposition](https://www.jeuneafrique.com/1731086/politique/kenya-deces-de-raila-odinga-figure-emblematique-de-lopposition/)
+- [Présidentielle au Cameroun : avant Tchiroma Bakary, Fru Ndi et Kamto avaient aussi revendiqué la victoire](https://www.jeuneafrique.com/1730883/politique/presidentielle-au-cameroun-avant-tchiroma-bakary-fru-ndi-et-kamto-avaient-aussi-revendique-la-victoire/)
 - [Bénin-Parfait Ahoyo : « Avec Romuald Wadagni, nous avons opté pour la continuité »](https://www.jeuneafrique.com/1730750/politique/benin-parfait-ahoyo-avec-romuald-wadagni-nous-avons-opte-pour-la-continuite/)
 - [Mali : pourquoi la radiation des généraux Néma Sagara et Abass Dembélé peut fragiliser Assimi Goïta](https://www.jeuneafrique.com/1730718/politique/mali-pourquoi-la-radiation-des-generaux-nema-sagara-et-abass-dembele-peut-fragiliser-assimi-goita/)
-- [Présidentielle au Cameroun : gouvernement et RDPC dénoncent l’« escroquerie » Tchiroma Bakary](https://www.jeuneafrique.com/1730966/politique/presidentielle-au-cameroun-le-gouvernement-et-le-rdpc-denoncent-l-imposture-et-l-escroquerie-de-tchiroma-bakary/)
 - [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
-- [Au Maroc, comment la filiale Nareva défie les géants mondiaux de l’énergie](https://www.jeuneafrique.com/1730242/economie-entreprises/au-maroc-comment-la-filiale-royale-nareva-defie-les-geants-mondiaux-de-lenergie/)
+- [Comment NSIA Côte d’Ivoire est devenue la deuxième banque de l’Uemoa](https://www.jeuneafrique.com/1730972/economie-entreprises/comment-nsia-cote-divoire-est-devenue-la-deuxieme-banque-de-luemoa/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
