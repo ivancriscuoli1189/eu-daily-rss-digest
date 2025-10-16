@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 18:14*
+*Generato: 16 Oct 2025, 21:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
 - [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
 - [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
@@ -91,7 +92,6 @@
 - [Sustainability reporting and due diligence: simpler rules for fewer companies](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30836/sustainability-reporting-and-due-diligence-simpler-rules-for-fewer-companies)
 - [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
-- [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
-- [Tunisie : un budget de 63,5 milliards de dinars pour l’exercice 2026](https://lapresse.tn/2025/10/16/tunisie-un-budget-de-635-milliards-de-dinars-pour-lexercice-2026/)
-- [L’Assemblée se penche sur le budget 2026 et la crise environnementale à Gabès](https://lapresse.tn/2025/10/16/lassemblee-se-penche-sur-le-budget-2026-et-la-crise-environnementale-a-gabes/)
-- [Aucun arbitre Tunisien à la coupe arabe des nations : Une inquiétante énième absence !](https://lapresse.tn/2025/10/16/aucun-arbitre-tunisien-a-la-coupe-arabe-des-nations-une-inquietante-enieme-absence/)
-- [Météo : passages nuageux et faibles pluies au nord ce soir](https://lapresse.tn/2025/10/16/meteo-passages-nuageux-et-faibles-pluies-au-nord-ce-soir/)
-- [Tribune : La guerre de Bizerte, la bataille pour l’évacuation](https://lapresse.tn/2025/10/16/tribune-la-guerre-de-bizerte-la-bataille-pour-levacuation/)
-- [Tunisie : une plateforme gratuite pour simplifier les opérations de change](https://lapresse.tn/2025/10/16/tunisie-une-plateforme-gratuite-pour-simplifier-les-operations-de-change/)
+- [Entre discipline budgétaire et souveraineté économique : le modèle tunisien face au FMI](https://lapresse.tn/2025/10/16/entre-discipline-budgetaire-et-souverainete-economique-le-modele-tunisien-face-au-fmi/)
+- [Infractions de change : un projet de loi pour encourager le rapatriement des fonds](https://lapresse.tn/2025/10/16/infractions-de-change-un-projet-de-loi-pour-encourager-le-rapatriement-des-fonds/)
+- [Médicaments tunisiens : vers une ouverture sur le marché européen](https://lapresse.tn/2025/10/16/medicaments-tunisiens-vers-une-ouverture-sur-le-marche-europeen/)
+- [Lancement des inscriptions en ligne pour les centres militaires de formation professionnelle](https://lapresse.tn/2025/10/16/lancement-des-inscriptions-en-ligne-pour-les-centres-militaires-de-formation-professionnelle/)
+- [Tunisie : Le Professeur Riadh Gouider élu Premier Vice-Président de la Fédération Mondiale de Neurologie](https://lapresse.tn/2025/10/16/tunisie-le-professeur-riadh-gouider-elu-premier-vice-president-de-la-federation-mondiale-de-neurologie/)
+- [Tunis : un marché du producteur au consommateur sur l’avenue Habib Bourguiba](https://lapresse.tn/2025/10/16/tunis-un-marche-du-producteur-au-consommateur-sur-lavenue-habib-bourguiba/)
 - [Ben Guerdane : saisie de 45 000 comprimés de drogue et de cocaïne dans une ambulance libyenne](https://lapresse.tn/2025/10/16/ben-guerdane-saisie-de-45-000-comprimes-de-drogue-et-de-cocaine-dans-une-ambulance-libyenne/)
 - [Pourquoi : Vivement des élèves-surveillants…](https://lapresse.tn/2025/10/16/pourquoi-vivement-des-eleves-surveillants/)
 - [Tunisie : l’équipe BlackShark s’envole pour la Battle of Robots 2025 en Russie](https://lapresse.tn/2025/10/16/tunisie-lequipe-blackshark-senvole-pour-la-battle-of-robots-2025-en-russie/)
