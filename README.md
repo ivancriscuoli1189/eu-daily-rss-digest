@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 13:25*
+*Generato: 16 Oct 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
 - [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
 - [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
 - [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
@@ -91,7 +92,6 @@
 - [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Air passengers rights: press conference on Monday at 17.45](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30841/air-passengers-rights-press-conference-on-monday-at-17-45)
-- [MEPs demand a unified EU response to Russian violations and hybrid warfare threats](https://www.europarl.europa.eu/news/en/press-room/20251003IPR30664/call-for-a-unified-eu-response-to-russian-violations-and-hybrid-warfare-threats)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une page est tournée](https://lapresse.tn/2025/10/15/une-page-est-tournee/)
-- [Plus de 1 700 Tunisiens sur la liste d’attente pour une greffe d’organes](https://lapresse.tn/2025/10/16/plus-de-1-700-tunisiens-sur-la-liste-dattente-pour-une-greffe-dorganes/)
-- [Près de 21 millions de tentatives d’attaques détectées au Maroc au 1er semestre 2025](https://lapresse.tn/2025/10/16/pres-de-21-millions-de-tentatives-dattaques-detectees-au-maroc-au-1er-semestre-2025/)
-- [Nouveau classement des passeports les plus puissants du monde : les USA quittent le top 10](https://lapresse.tn/2025/10/16/nouveau-classement-des-passeports-les-plus-puissants-du-monde-les-usa-quittent-le-top-10/)
-- [Tunis : Jusqu’à 31 ans de prison pour un réseau international de trafic de cocaïne](https://lapresse.tn/2025/10/16/tunis-jusqua-31-ans-de-prison-pour-un-reseau-international-de-trafic-de-cocaine/)
-- [Météo : Perturbations météorologiques attendues sur le nord de la Tunisie](https://lapresse.tn/2025/10/16/meteo-perturbations-meteorologiques-attendues-sur-le-nord-de-la-tunisie/)
-- [Tunisie : Le PLF 2026 prévoit une hausse des salaires et des pensions](https://lapresse.tn/2025/10/15/tunisie-le-plf-2026-prevoit-une-hausse-des-salaires-et-des-pensions/)
-- [Pêche au poulpe : la fermeture de la saison prolongée d’un mois supplémentaire](https://lapresse.tn/2025/10/16/peche-au-poulpe-la-fermeture-de-la-saison-prolongee-dun-mois-supplementaire/)
-- [Le 29 octobre prochain, coup d’envoi de la 9ème édition du festival de la grenade de Testour](https://lapresse.tn/2025/10/16/le-29-octobre-prochain-coup-denvoi-de-la-9eme-edition-du-festival-de-la-grenade-de-testour/)
-- [Faouzi Zayani appelle à financer le secteur de l’huile d’olive à hauteur de 4 milliards de dinars](https://lapresse.tn/2025/10/16/faouzi-zayani-appelle-a-financer-le-secteur-de-lhuile-dolive-a-hauteur-de-4-milliards-de-dinars/)
+- [Ouverture du centre d’Excellence pour l’entrepreneuriat » au profit des artisanes tunisiennes](https://lapresse.tn/2025/10/16/ouverture-du-centre-dexcellence-pour-lentrepreneuriat-au-profit-des-artisanes-tunisiennes/)
+- [PLF 2026 : l’État tunisien renonce aux dettes de l’Office de Commerce et la Société du sucre](https://lapresse.tn/2025/10/16/plf-2026-letat-tunisien-renonce-aux-dettes-de-loffice-de-commerce-et-la-societe-du-sucre/)
+- [Formation professionnelle: 25 000 demandes approuvées](https://lapresse.tn/2025/10/16/formation-professionnelle-25-000-demandes-approuvees/)
+- [Le passeport tunisien permet désormais de voyager vers 68 pays sans visa](https://lapresse.tn/2025/10/16/le-passeport-tunisien-permet-desormais-de-voyager-vers-68-pays-sans-visa/)
+- [Échange de violence entre étudiants et jet de chaises dans un restaurant universitaire à Sousse](https://lapresse.tn/2025/10/16/echange-de-violence-entre-etudiants-et-jet-de-chaises-dans-un-restaurant-universitaire-a-sousse/)
+- [Tunisie : L’Institut supérieur de biotechnologie de Béja décroche une double accréditation internationale](https://lapresse.tn/2025/10/16/tunisie-linstitut-superieur-de-biotechnologie-de-beja-decroche-une-double-accreditation-internationale/)
+- [30 greffes d’organes ont été réalisées au cours des neuf derniers mois](https://lapresse.tn/2025/10/16/30-greffes-dorganes-ont-ete-realisees-au-cours-des-neuf-derniers-mois/)
+- [Tunisie : Bilan des précipitations enregistrées durant les dernières 24 heures](https://lapresse.tn/2025/10/16/tunisie-bilan-des-precipitations-enregistrees-durant-les-dernieres-24-heures/)
+- [Investissement et agriculture : ce que prévoit le projet de loi de finances 2026](https://lapresse.tn/2025/10/16/investissement-et-agriculture-ce-que-prevoit-le-projet-de-loi-de-finances-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, l’ « Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
 - [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
+- [Comment Wagner a détourné des équipements de l’armée malienne](https://www.jeuneafrique.com/1730529/politique/comment-wagner-a-detourne-des-equipements-de-larmee-malienne/)
 - [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
 - [Mort de Raila Odinga : fin d’une légende de la politique kényane](https://www.jeuneafrique.com/1731184/politique/mort-de-raila-odinga-fin-dune-legende-de-la-politique-kenyane/)
 - [Andry Rajoelina renversé à Madagascar : ses dernières heures au pouvoir](https://www.jeuneafrique.com/1731110/politique/andry-rajoelina-renverse-a-madagascar-ses-dernieres-heures-au-pouvoir/)
 - [Au Burkina Faso, nouvelle interpellation d’un directeur de quotidien](https://www.jeuneafrique.com/1731106/politique/au-burkina-faso-nouvelle-interpellation-dun-directeur-de-quotidien/)
-- [Au sud de la Tunisie, Gabès au bord de la crise de nerfs](https://www.jeuneafrique.com/1730885/politique/au-sud-de-la-tunisie-gabes-au-bord-de-la-crise-de-nerfs/)
-- [France-Algérie : un rapport parlementaire propose la dénonciation de l’accord de 1968](https://www.jeuneafrique.com/1731138/politique/france-algerie-un-rapport-parlementaire-propose-la-denonciation-de-laccord-de-1968/)
+- [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
 - [Pourquoi le renouvellement du contrat d’Addax fait grincer des dents en Mauritanie](https://www.jeuneafrique.com/1731360/economie-entreprises/pourquoi-le-renouvellement-du-contrat-daddax-fait-grincer-des-dents-en-mauritanie/)
-- [Naira au Nigeria : les leçons à tirer d’un an de réforme](https://www.jeuneafrique.com/1731338/economie-entreprises/naira-au-nigeria-les-lecons-a-tirer-dun-an-de-reforme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
