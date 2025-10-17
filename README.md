@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 18:12*
+*Generato: 17 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Une leçon de patriotisme](https://lapresse.tn/2025/10/17/une-lecon-de-patriotisme/)
-- [Championnats universiatires Américains : De l’or pour Ahmed Jaouadi](https://lapresse.tn/2025/10/17/championnats-universiatires-americains-de-lor-pour-ahmed-jaouadi/)
-- [« La Cameratte » de l’Orchestre symphonique tunisien : Un concert aux sonorités du monde](https://lapresse.tn/2025/10/17/la-cameratte-de-lorchestre-symphonique-tunisien-un-concert-aux-sonorites-du-monde/)
+- [Production record de semences sélectionnées : le double de la campagne précédente](https://lapresse.tn/2025/10/17/production-record-de-semences-selectionnees-le-double-de-la-campagne-precedente/)
+- [Fiscalité mondiale en mutation : colloque international à Tunis les 23 et 24 octobre](https://lapresse.tn/2025/10/17/fiscalite-mondiale-en-mutation-colloque-international-a-tunis-les-23-et-24-octobre/)
+- [Tunisie : Orages et pluies localement fortes attendus ce soir](https://lapresse.tn/2025/10/17/tunisie-orages-et-pluies-localement-fortes-attendus-ce-soir/)
 - [Devant l’Assemblée générale de l’ONU, la Tunisie réitère son attachement aux droits de l’homme](https://lapresse.tn/2025/10/17/devant-lassemblee-generale-de-lonu-la-tunisie-reitere-son-attachement-aux-droits-de-lhomme/)
 - [Un ancien directeur de la CPG explique pourquoi Gabès suffoque](https://lapresse.tn/2025/10/17/un-ancien-directeur-de-la-cpg-explique-pourquoi-gabes-suffoque/)
 - [Formation professionnelle: la coopération tuniso-égyptienne au coeur d’une réunion entre le ministre de l’Emploi et son homologue égyptien](https://lapresse.tn/2025/10/17/formation-professionnelle-la-cooperation-tuniso-egyptienne-au-coeur-dune-reunion-entre-le-ministre-de-lemploi-et-son-homologue-egyptien/)
-- [Regards sur les peines à l’encontre des assassins de Chokri Belaïd : La justice est en marche…](https://lapresse.tn/2025/10/17/regards-sur-les-peines-a-lencontre-des-assassins-de-chokri-belaid-la-justice-est-en-marche/)
 - [Etablissements scolaires: Demain, coup d’envoi des journées nationales de la santé de la vue et bucco-dentaire](https://lapresse.tn/2025/10/17/etablissements-scolaires-demain-coup-denvoi-des-journees-nationales-de-la-sante-de-la-vue-et-bucco-dentaire/)
 - [Tozeur : Les montgolfières et les avions à voiles dessinent la magie du Sud](https://lapresse.tn/2025/10/17/tozeur-les-montgolfieres-et-les-avions-a-voiles-dessinent-la-magie-du-sud/)
 - [Formation sur le leadership : L’enfant d’aujourd’hui, le leader de demain](https://lapresse.tn/2025/10/17/formation-sur-le-leadership-lenfant-daujourdhui-le-leader-de-demain/)
