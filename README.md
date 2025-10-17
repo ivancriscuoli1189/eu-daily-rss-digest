@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 12:18*
+*Generato: 17 Oct 2025, 13:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
 - [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
 - [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
@@ -91,7 +92,6 @@
 - [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
 - [Sustainability reporting and due diligence: simpler rules for fewer companies](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30836/sustainability-reporting-and-due-diligence-simpler-rules-for-fewer-companies)
 - [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
-- [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30747/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
-- [INTERTEX Sousse 2025 : le Salon international du textile ouvre ses portes](https://lapresse.tn/2025/10/17/intertex-sousse-2025-le-salon-international-du-textile-ouvre-ses-portes/)
-- [Tunisie : dépôt imminent du projet de Code des changes au Bureau d’ordre de l’ARP](https://lapresse.tn/2025/10/17/tunisie-depot-imminent-du-projet-de-code-des-changes-au-bureau-dordre-de-larp/)
+- [Concours 2026 : comment s’inscrire aux collèges pilotes tunisiens ?](https://lapresse.tn/2025/10/17/concours-2026-comment-sinscrire-aux-colleges-pilotes-tunisiens/)
+- [Baccalauréat 2026 en Tunisie : toutes les étapes pour s’inscrire en ligne](https://lapresse.tn/2025/10/17/baccalaureat-2026-en-tunisie-toutes-les-etapes-pour-sinscrire-en-ligne/)
+- [Gestion des ressources hydrauliques: de nouveaux barrages seront construits au cours de la période 2026-2030](https://lapresse.tn/2025/10/17/gestion-des-ressources-hydrauliques-de-nouveaux-barrages-seront-construits-au-cours-de-la-periode-2026-2030/)
 - [Alerte météo : jusqu’à 80 mm de pluie et rafales de vent attendues](https://lapresse.tn/2025/10/17/alerte-meteo-jusqua-80-mm-de-pluie-et-rafales-de-vent-attendues/)
 - [Budget 2026 : un financement prévu pour les « médicaments spécifiques »](https://lapresse.tn/2025/10/17/budget-2026-un-financement-prevu-pour-les-medicaments-specifiques/)
 - [La Tunisie séduit les investisseurs turcs dans le secteur du tourisme médical](https://lapresse.tn/2025/10/17/la-tunisie-seduit-les-investisseurs-turcs-dans-le-secteur-du-tourisme-medical/)
-- [Déviation partielle de la circulation au niveau de Lacagna à partir de samedi](https://lapresse.tn/2025/10/17/deviation-partielle-de-la-circulation-au-niveau-de-lacagna-a-partir-de-samedi/)
-- [L’agresseur de la ligne 5 du métro léger arrêté](https://lapresse.tn/2025/10/17/lagresseur-de-la-ligne-5-du-metro-leger-arrete/)
-- [Le Kef : 1300 doses de vaccin contre la grippe saisonnière administrées aux seniors et aux personnes souffrant de maladies chroniques](https://lapresse.tn/2025/10/17/le-kef-1300-doses-de-vaccin-contre-la-grippe-saisonniere-administrees-aux-seniors-et-aux-personnes-souffrant-de-maladies-chroniques/)
-- [Djerba : une marche rose contre le cancer du sein le dimanche 26 octobre](https://lapresse.tn/2025/10/17/djerba-une-marche-rose-contre-le-cancer-du-sein-le-dimanche-26-octobre/)
+- [Khaled Rahal: « les patients atteints de cancer ne doivent pas interrompre leurs médicaments »](https://lapresse.tn/2025/10/17/khaled-rahal-les-patients-atteints-de-cancer-ne-doivent-pas-interrompre-leurs-medicaments/)
+- [IACE : La Tunisie devrait terminer 2025 avec des réserves couvrant 91 jours d’importations](https://lapresse.tn/2025/10/17/iace-la-tunisie-devrait-terminer-2025-avec-des-reserves-couvrant-91-jours-dimportations/)
+- [BCT : la Tunisie se prépare à la prochaine évaluation de Moody’s](https://lapresse.tn/2025/10/17/bct-la-tunisie-se-prepare-a-la-prochaine-evaluation-de-moodys/)
 
 ## NGOs – Amnesty International – Tunisia
 
