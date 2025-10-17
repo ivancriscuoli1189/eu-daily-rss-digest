@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 09:13*
+*Generato: 17 Oct 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
+- [Budget 2026 : un financement prévu pour les « médicaments spécifiques »](https://lapresse.tn/2025/10/17/budget-2026-un-financement-prevu-pour-les-medicaments-specifiques/)
+- [Festival international de théâtre de Bagdad : Hamouda Ben Hassine remporte le prix du meilleur acteur](https://lapresse.tn/2025/10/17/festival-international-de-theatre-de-bagdad-hamouda-ben-hassine-remporte-le-prix-du-meilleur-acteur/)
+- [Moez Soussi : « La masse salariale en Tunisie augmentera de 10% en 2026 »](https://lapresse.tn/2025/10/17/moez-soussi-la-masse-salariale-en-tunisie-augmentera-de-10-en-2026/)
+- [La Tunisie séduit les investisseurs turcs dans le secteur du tourisme médical](https://lapresse.tn/2025/10/17/la-tunisie-seduit-les-investisseurs-turcs-dans-le-secteur-du-tourisme-medical/)
 - [Médias : L’ambassadeur d’Argentine visite La Presse](https://lapresse.tn/2025/10/17/medias-lambassadeur-dargentine-visite-la-presse/)
-- [Suivi du plan de redressement du complexe agricole d’Enfidha à l’approche de la saison oléicole](https://lapresse.tn/2025/10/17/suivi-du-plan-de-redressement-du-complexe-agricole-denfidha-a-lapproche-de-la-saison-oleicole/)
-- [La reconstruction de la bande de Ghaza nécessitera environ 67 milliards de dollars](https://lapresse.tn/2025/10/17/la-reconstruction-de-la-bande-de-ghaza-necessitera-environ-67-milliards-de-dollars/)
 - [Météo : ciel voilé et températures stationnaires](https://lapresse.tn/2025/10/17/meteo-ciel-voile-et-temperatures-stationnaires-2/)
-- [Médicaments tunisiens : vers une ouverture sur le marché européen](https://lapresse.tn/2025/10/16/medicaments-tunisiens-vers-une-ouverture-sur-le-marche-europeen/)
-- [Lancement des inscriptions en ligne pour les centres militaires de formation professionnelle](https://lapresse.tn/2025/10/16/lancement-des-inscriptions-en-ligne-pour-les-centres-militaires-de-formation-professionnelle/)
-- [Gabès : le CNRD appelle à une action urgente face à la crise environnementale](https://lapresse.tn/2025/10/17/gabes-le-cnrd-appelle-a-une-action-urgente-face-a-la-crise-environnementale/)
-- [Ben Guerdane : saisie de 45 000 comprimés de drogue et de cocaïne dans une ambulance libyenne](https://lapresse.tn/2025/10/16/ben-guerdane-saisie-de-45-000-comprimes-de-drogue-et-de-cocaine-dans-une-ambulance-libyenne/)
-- [Pourquoi : Vivement des élèves-surveillants…](https://lapresse.tn/2025/10/16/pourquoi-vivement-des-eleves-surveillants/)
+- [Le Kef : 1300 doses de vaccin contre la grippe saisonnière administrées aux seniors et aux personnes souffrant de maladies chroniques](https://lapresse.tn/2025/10/17/le-kef-1300-doses-de-vaccin-contre-la-grippe-saisonniere-administrees-aux-seniors-et-aux-personnes-souffrant-de-maladies-chroniques/)
+- [Djerba : une marche rose contre le cancer du sein le dimanche 26 octobre](https://lapresse.tn/2025/10/17/djerba-une-marche-rose-contre-le-cancer-du-sein-le-dimanche-26-octobre/)
+- [Nabeul célèbre la harissa, joyau du patrimoine culinaire tunisien](https://lapresse.tn/2025/10/17/nabeul-celebre-la-harissa-joyau-du-patrimoine-culinaire-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
-- [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 - [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
-- [Asia-Pacific: Business and Human Rights Forum Participants Consider Strategies to Ensure Companies Respect Human Rights in the Digital Space](https://www.icj.org/asia-pacific-business-and-human-rights-forum-participants-consider-strategies-to-ensure-companies-respect-human-rights-in-the-digital-space/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Nairobi, l’hommage à Raila Odinga tourne au drame](https://www.jeuneafrique.com/1731812/politique/a-nairobi-lhommage-a-raila-odinga-tourne-au-drame/)
 - [Massacre de Thiaroye : pour Bassirou Diomaye Faye, le Livre blanc va permettre de « réhabiliter la vérité historique »](https://www.jeuneafrique.com/1731799/politique/massacre-de-thiaroye-pour-bassirou-diomaye-faye-le-livre-blanc-va-permettre-de-rehabiliter-la-verite-historique/)
+- [Présidentielle en Centrafrique : Dologuélé pourra-t-il se présenter ?](https://www.jeuneafrique.com/1731248/politique/presidentielle-en-centrafrique-dologuele-pourra-t-il-se-presenter/)
 - [En Tunisie, l’« Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
 - [Présidentielle en Guinée : pourquoi le nouveau code électoral risque de favoriser le candidat du pouvoir](https://www.jeuneafrique.com/1731303/politique/presidentielle-en-guinee-pourquoi-le-nouveau-code-electoral-risque-de-favoriser-le-candidat-du-pouvoir/)
+- [Au Niger, Abdourahamane Tiani appelle Assimi Goïta et Ibrahim Traoré à la rescousse dans le Tillabéri](https://www.jeuneafrique.com/1730749/politique/au-niger-abdourahamane-tiani-appelle-assimi-goita-et-ibrahim-traore-a-la-rescousse-dans-le-tillaberi/)
 - [Tensions après la présidentielle au Cameroun : ce qu’il s’est passé à Dschang, Bafoussam ou Douala](https://www.jeuneafrique.com/1731467/politique/tensions-apres-la-presidentielle-au-cameroun-ce-quil-sest-passe-a-dschang-bafoussam-ou-douala/)
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
-- [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
-- [Comment Wagner a détourné des équipements de l’armée malienne](https://www.jeuneafrique.com/1730529/politique/comment-wagner-a-detourne-des-equipements-de-larmee-malienne/)
-- [Guillaume Ngefa, ministre de la Justice en RDC : « Je ne crois pas à la peine de mort »](https://www.jeuneafrique.com/1729409/politique/guillaume-ngefa-ministre-de-la-justice-en-rdc-je-ne-crois-pas-a-la-peine-de-mort/)
+- [Jean-Pascal Tricoire (Schneider Electric) : « L’Afrique peut réaliser un bond en avant énergétique »](https://www.jeuneafrique.com/1731022/economie-entreprises/jean-pascal-tricoire-schneider-electric-lafrique-peut-realiser-un-leapfrog-energetique/)
 - [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
-- [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
