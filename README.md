@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 11:04*
+*Generato: 17 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
+- [INTERTEX Sousse 2025 : le Salon international du textile ouvre ses portes](https://lapresse.tn/2025/10/17/intertex-sousse-2025-le-salon-international-du-textile-ouvre-ses-portes/)
+- [Tunisie : dépôt imminent du projet de Code des changes au Bureau d’ordre de l’ARP](https://lapresse.tn/2025/10/17/tunisie-depot-imminent-du-projet-de-code-des-changes-au-bureau-dordre-de-larp/)
+- [Alerte météo : jusqu’à 80 mm de pluie et rafales de vent attendues](https://lapresse.tn/2025/10/17/alerte-meteo-jusqua-80-mm-de-pluie-et-rafales-de-vent-attendues/)
 - [Budget 2026 : un financement prévu pour les « médicaments spécifiques »](https://lapresse.tn/2025/10/17/budget-2026-un-financement-prevu-pour-les-medicaments-specifiques/)
-- [Festival international de théâtre de Bagdad : Hamouda Ben Hassine remporte le prix du meilleur acteur](https://lapresse.tn/2025/10/17/festival-international-de-theatre-de-bagdad-hamouda-ben-hassine-remporte-le-prix-du-meilleur-acteur/)
-- [Moez Soussi : « La masse salariale en Tunisie augmentera de 10% en 2026 »](https://lapresse.tn/2025/10/17/moez-soussi-la-masse-salariale-en-tunisie-augmentera-de-10-en-2026/)
 - [La Tunisie séduit les investisseurs turcs dans le secteur du tourisme médical](https://lapresse.tn/2025/10/17/la-tunisie-seduit-les-investisseurs-turcs-dans-le-secteur-du-tourisme-medical/)
-- [Médias : L’ambassadeur d’Argentine visite La Presse](https://lapresse.tn/2025/10/17/medias-lambassadeur-dargentine-visite-la-presse/)
-- [Météo : ciel voilé et températures stationnaires](https://lapresse.tn/2025/10/17/meteo-ciel-voile-et-temperatures-stationnaires-2/)
+- [Déviation partielle de la circulation au niveau de Lacagna à partir de samedi](https://lapresse.tn/2025/10/17/deviation-partielle-de-la-circulation-au-niveau-de-lacagna-a-partir-de-samedi/)
+- [L’agresseur de la ligne 5 du métro léger arrêté](https://lapresse.tn/2025/10/17/lagresseur-de-la-ligne-5-du-metro-leger-arrete/)
 - [Le Kef : 1300 doses de vaccin contre la grippe saisonnière administrées aux seniors et aux personnes souffrant de maladies chroniques](https://lapresse.tn/2025/10/17/le-kef-1300-doses-de-vaccin-contre-la-grippe-saisonniere-administrees-aux-seniors-et-aux-personnes-souffrant-de-maladies-chroniques/)
 - [Djerba : une marche rose contre le cancer du sein le dimanche 26 octobre](https://lapresse.tn/2025/10/17/djerba-une-marche-rose-contre-le-cancer-du-sein-le-dimanche-26-octobre/)
-- [Nabeul célèbre la harissa, joyau du patrimoine culinaire tunisien](https://lapresse.tn/2025/10/17/nabeul-celebre-la-harissa-joyau-du-patrimoine-culinaire-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
-- [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 - [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
-- [Tajikistan: Lawyer Wrongfully Held for a Decade Free Buzurgmehr Yorov and All Others Held for Exercising their Human Rights](https://www.icj.org/tajikistan-lawyer-wrongfully-held-for-a-decade-free-buzurgmehr-yorov-and-all-others-held-for-exercising-their-human-rights/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -267,13 +267,13 @@
 - [À Nairobi, l’hommage à Raila Odinga tourne au drame](https://www.jeuneafrique.com/1731812/politique/a-nairobi-lhommage-a-raila-odinga-tourne-au-drame/)
 - [Massacre de Thiaroye : pour Bassirou Diomaye Faye, le Livre blanc va permettre de « réhabiliter la vérité historique »](https://www.jeuneafrique.com/1731799/politique/massacre-de-thiaroye-pour-bassirou-diomaye-faye-le-livre-blanc-va-permettre-de-rehabiliter-la-verite-historique/)
 - [Présidentielle en Centrafrique : Dologuélé pourra-t-il se présenter ?](https://www.jeuneafrique.com/1731248/politique/presidentielle-en-centrafrique-dologuele-pourra-t-il-se-presenter/)
+- [Au Sénégal, la mise en accusation de Macky Sall devant la Haute Cour de justice se précise](https://www.jeuneafrique.com/1731548/politique/au-senegal-la-mise-en-accusation-de-macky-sall-devant-la-haute-cour-de-justice-se-precise/)
 - [En Tunisie, l’« Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
 - [Présidentielle en Guinée : pourquoi le nouveau code électoral risque de favoriser le candidat du pouvoir](https://www.jeuneafrique.com/1731303/politique/presidentielle-en-guinee-pourquoi-le-nouveau-code-electoral-risque-de-favoriser-le-candidat-du-pouvoir/)
 - [Au Niger, Abdourahamane Tiani appelle Assimi Goïta et Ibrahim Traoré à la rescousse dans le Tillabéri](https://www.jeuneafrique.com/1730749/politique/au-niger-abdourahamane-tiani-appelle-assimi-goita-et-ibrahim-traore-a-la-rescousse-dans-le-tillaberi/)
-- [Tensions après la présidentielle au Cameroun : ce qu’il s’est passé à Dschang, Bafoussam ou Douala](https://www.jeuneafrique.com/1731467/politique/tensions-apres-la-presidentielle-au-cameroun-ce-quil-sest-passe-a-dschang-bafoussam-ou-douala/)
-- [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
-- [Jean-Pascal Tricoire (Schneider Electric) : « L’Afrique peut réaliser un bond en avant énergétique »](https://www.jeuneafrique.com/1731022/economie-entreprises/jean-pascal-tricoire-schneider-electric-lafrique-peut-realiser-un-leapfrog-energetique/)
+- [Présidentielle en Côte d’Ivoire : Simone Gbagbo et Blé Goudé, le nouveau visage d’un vieux combat](https://www.jeuneafrique.com/1731266/politique/presidentielle-en-cote-divoire-simone-gbagbo-et-ble-goude-le-nouveau-visage-dun-vieux-combat/)
 - [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
+- [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
