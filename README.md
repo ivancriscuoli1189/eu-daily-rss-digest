@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 15:09*
+*Generato: 17 Oct 2025, 18:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
-- [Programme alimentaire mondial : 560 tonnes d’aide entrent quotidiennement à Gaza](https://lapresse.tn/2025/10/17/programme-alimentaire-mondial-560-tonnes-daide-entrent-quotidiennement-a-gaza/)
-- [Le prix de l’or franchit un nouveau cap](https://lapresse.tn/2025/10/17/le-prix-de-lor-franchit-un-nouveau-cap/)
-- [Tunis fait vibrer le monde au rythme du rock et du métal](https://lapresse.tn/2025/10/17/tunis-fait-vibrer-le-monde-au-rythme-du-rock-et-du-metal/)
-- [Alerte météo : jusqu’à 80 mm de pluie et rafales de vent attendues](https://lapresse.tn/2025/10/17/alerte-meteo-jusqua-80-mm-de-pluie-et-rafales-de-vent-attendues/)
-- [Budget 2026 : un financement prévu pour les « médicaments spécifiques »](https://lapresse.tn/2025/10/17/budget-2026-un-financement-prevu-pour-les-medicaments-specifiques/)
-- [La Tunisie séduit les investisseurs turcs dans le secteur du tourisme médical](https://lapresse.tn/2025/10/17/la-tunisie-seduit-les-investisseurs-turcs-dans-le-secteur-du-tourisme-medical/)
-- [PLF 2026: vers la création d’un fonds pour les personnes porteuses d’handicap](https://lapresse.tn/2025/10/17/plf-2026-vers-la-creation-dun-fonds-pour-les-personnes-porteuses-dhandicap/)
-- [Concours 2026 : comment s’inscrire aux collèges pilotes tunisiens ?](https://lapresse.tn/2025/10/17/concours-2026-comment-sinscrire-aux-colleges-pilotes-tunisiens/)
-- [Baccalauréat 2026 en Tunisie : toutes les étapes pour s’inscrire en ligne](https://lapresse.tn/2025/10/17/baccalaureat-2026-en-tunisie-toutes-les-etapes-pour-sinscrire-en-ligne/)
+- [Une leçon de patriotisme](https://lapresse.tn/2025/10/17/une-lecon-de-patriotisme/)
+- [Championnats universiatires Américains : De l’or pour Ahmed Jaouadi](https://lapresse.tn/2025/10/17/championnats-universiatires-americains-de-lor-pour-ahmed-jaouadi/)
+- [« La Cameratte » de l’Orchestre symphonique tunisien : Un concert aux sonorités du monde](https://lapresse.tn/2025/10/17/la-cameratte-de-lorchestre-symphonique-tunisien-un-concert-aux-sonorites-du-monde/)
+- [Devant l’Assemblée générale de l’ONU, la Tunisie réitère son attachement aux droits de l’homme](https://lapresse.tn/2025/10/17/devant-lassemblee-generale-de-lonu-la-tunisie-reitere-son-attachement-aux-droits-de-lhomme/)
+- [Un ancien directeur de la CPG explique pourquoi Gabès suffoque](https://lapresse.tn/2025/10/17/un-ancien-directeur-de-la-cpg-explique-pourquoi-gabes-suffoque/)
+- [Formation professionnelle: la coopération tuniso-égyptienne au coeur d’une réunion entre le ministre de l’Emploi et son homologue égyptien](https://lapresse.tn/2025/10/17/formation-professionnelle-la-cooperation-tuniso-egyptienne-au-coeur-dune-reunion-entre-le-ministre-de-lemploi-et-son-homologue-egyptien/)
+- [Regards sur les peines à l’encontre des assassins de Chokri Belaïd : La justice est en marche…](https://lapresse.tn/2025/10/17/regards-sur-les-peines-a-lencontre-des-assassins-de-chokri-belaid-la-justice-est-en-marche/)
+- [Etablissements scolaires: Demain, coup d’envoi des journées nationales de la santé de la vue et bucco-dentaire](https://lapresse.tn/2025/10/17/etablissements-scolaires-demain-coup-denvoi-des-journees-nationales-de-la-sante-de-la-vue-et-bucco-dentaire/)
+- [Tozeur : Les montgolfières et les avions à voiles dessinent la magie du Sud](https://lapresse.tn/2025/10/17/tozeur-les-montgolfieres-et-les-avions-a-voiles-dessinent-la-magie-du-sud/)
+- [Formation sur le leadership : L’enfant d’aujourd’hui, le leader de demain](https://lapresse.tn/2025/10/17/formation-sur-le-leadership-lenfant-daujourdhui-le-leader-de-demain/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : 26 manifestants écopent de trois ans de prison ferme pour « troubles à l’ordre public »](https://www.jeuneafrique.com/1732174/politique/cote-divoire-26-manifestants-ecopent-de-trois-ans-de-prison-ferme-pour-troubles-a-lordre-public/)
+- [Au Bénin, le présidentiable des Démocrates sur la sellette](https://www.jeuneafrique.com/1731943/politique/au-benin-le-presidentiable-des-democrates-sur-la-sellette/)
 - [À Nairobi, l’hommage à Raila Odinga tourne au drame](https://www.jeuneafrique.com/1731812/politique/a-nairobi-lhommage-a-raila-odinga-tourne-au-drame/)
+- [Maroc : la GenZ212 à la recherche d’un second souffle](https://www.jeuneafrique.com/1731743/politique/maroc-la-genz212-a-la-recherche-dun-second-souffle/)
 - [Massacre de Thiaroye : pour Bassirou Diomaye Faye, le Livre blanc va permettre de « réhabiliter la vérité historique »](https://www.jeuneafrique.com/1731799/politique/massacre-de-thiaroye-pour-bassirou-diomaye-faye-le-livre-blanc-va-permettre-de-rehabiliter-la-verite-historique/)
 - [Présidentielle en Centrafrique : Dologuélé pourra-t-il se présenter ?](https://www.jeuneafrique.com/1731248/politique/presidentielle-en-centrafrique-dologuele-pourra-t-il-se-presenter/)
+- [« Sauvons la RDC » : à Nairobi, Joseph Kabila se rêve en rassembleur d’une opposition fragmentée](https://www.jeuneafrique.com/1731686/politique/sauvons-la-rdc-a-nairobi-joseph-kabila-se-reve-en-rassembleur-dune-opposition-fragmentee/)
 - [Au Sénégal, la mise en accusation de Macky Sall devant la Haute Cour de justice se précise](https://www.jeuneafrique.com/1731548/politique/au-senegal-la-mise-en-accusation-de-macky-sall-devant-la-haute-cour-de-justice-se-precise/)
-- [En Tunisie, l’« Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
-- [Présidentielle en Guinée : pourquoi le nouveau code électoral risque de favoriser le candidat du pouvoir](https://www.jeuneafrique.com/1731303/politique/presidentielle-en-guinee-pourquoi-le-nouveau-code-electoral-risque-de-favoriser-le-candidat-du-pouvoir/)
-- [Au Niger, Abdourahamane Tiani appelle Assimi Goïta et Ibrahim Traoré à la rescousse dans le Tillabéri](https://www.jeuneafrique.com/1730749/politique/au-niger-abdourahamane-tiani-appelle-assimi-goita-et-ibrahim-traore-a-la-rescousse-dans-le-tillaberi/)
-- [Présidentielle en Côte d’Ivoire : Simone Gbagbo et Blé Goudé, le nouveau visage d’un vieux combat](https://www.jeuneafrique.com/1731266/politique/presidentielle-en-cote-divoire-simone-gbagbo-et-ble-goude-le-nouveau-visage-dun-vieux-combat/)
-- [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
-- [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
+- [Sénégal, Gabon, agriculture, croissance et climat : les dossiers chauds des discussions Afrique-FMI](https://www.jeuneafrique.com/1731880/economie-entreprises/senegal-gabon-agriculture-croissance-et-climat-les-dossiers-chauds-des-discussions-afrique-fmi/)
+- [Pourquoi le groupe Duval mise sur le Rwanda et fait le pari de l’Est](https://www.jeuneafrique.com/1728361/economie-entreprises/pourquoi-le-groupe-duval-mise-sur-le-rwanda-et-fait-le-pari-de-lest/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
