@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Oct 2025, 21:05*
+*Generato: 17 Oct 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
+- [Météo : ciel voilé et températures stationnaires](https://lapresse.tn/2025/10/17/meteo-ciel-voile-et-temperatures-stationnaires-2/)
 - [Entre discipline budgétaire et souveraineté économique : le modèle tunisien face au FMI](https://lapresse.tn/2025/10/16/entre-discipline-budgetaire-et-souverainete-economique-le-modele-tunisien-face-au-fmi/)
 - [Infractions de change : un projet de loi pour encourager le rapatriement des fonds](https://lapresse.tn/2025/10/16/infractions-de-change-un-projet-de-loi-pour-encourager-le-rapatriement-des-fonds/)
 - [Médicaments tunisiens : vers une ouverture sur le marché européen](https://lapresse.tn/2025/10/16/medicaments-tunisiens-vers-une-ouverture-sur-le-marche-europeen/)
 - [Lancement des inscriptions en ligne pour les centres militaires de formation professionnelle](https://lapresse.tn/2025/10/16/lancement-des-inscriptions-en-ligne-pour-les-centres-militaires-de-formation-professionnelle/)
 - [Tunisie : Le Professeur Riadh Gouider élu Premier Vice-Président de la Fédération Mondiale de Neurologie](https://lapresse.tn/2025/10/16/tunisie-le-professeur-riadh-gouider-elu-premier-vice-president-de-la-federation-mondiale-de-neurologie/)
-- [Tunis : un marché du producteur au consommateur sur l’avenue Habib Bourguiba](https://lapresse.tn/2025/10/16/tunis-un-marche-du-producteur-au-consommateur-sur-lavenue-habib-bourguiba/)
 - [Ben Guerdane : saisie de 45 000 comprimés de drogue et de cocaïne dans une ambulance libyenne](https://lapresse.tn/2025/10/16/ben-guerdane-saisie-de-45-000-comprimes-de-drogue-et-de-cocaine-dans-une-ambulance-libyenne/)
 - [Pourquoi : Vivement des élèves-surveillants…](https://lapresse.tn/2025/10/16/pourquoi-vivement-des-eleves-surveillants/)
 - [Tunisie : l’équipe BlackShark s’envole pour la Battle of Robots 2025 en Russie](https://lapresse.tn/2025/10/16/tunisie-lequipe-blackshark-senvole-pour-la-battle-of-robots-2025-en-russie/)
@@ -269,9 +269,9 @@
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
 - [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
 - [Comment Wagner a détourné des équipements de l’armée malienne](https://www.jeuneafrique.com/1730529/politique/comment-wagner-a-detourne-des-equipements-de-larmee-malienne/)
+- [Guillaume Ngefa, ministre de la Justice en RDC : « Je ne crois pas à la peine de mort »](https://www.jeuneafrique.com/1729409/politique/guillaume-ngefa-ministre-de-la-justice-en-rdc-je-ne-crois-pas-a-la-peine-de-mort/)
 - [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
 - [Mort de Raila Odinga : fin d’une légende de la politique kényane](https://www.jeuneafrique.com/1731184/politique/mort-de-raila-odinga-fin-dune-legende-de-la-politique-kenyane/)
-- [Andry Rajoelina renversé à Madagascar : ses dernières heures au pouvoir](https://www.jeuneafrique.com/1731110/politique/andry-rajoelina-renverse-a-madagascar-ses-dernieres-heures-au-pouvoir/)
 - [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
 - [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
 
