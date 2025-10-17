@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 06:15*
+*Generato: 17 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
+- [Médias : L’ambassadeur d’Argentine visite La Presse](https://lapresse.tn/2025/10/17/medias-lambassadeur-dargentine-visite-la-presse/)
+- [Suivi du plan de redressement du complexe agricole d’Enfidha à l’approche de la saison oléicole](https://lapresse.tn/2025/10/17/suivi-du-plan-de-redressement-du-complexe-agricole-denfidha-a-lapproche-de-la-saison-oleicole/)
+- [La reconstruction de la bande de Ghaza nécessitera environ 67 milliards de dollars](https://lapresse.tn/2025/10/17/la-reconstruction-de-la-bande-de-ghaza-necessitera-environ-67-milliards-de-dollars/)
 - [Météo : ciel voilé et températures stationnaires](https://lapresse.tn/2025/10/17/meteo-ciel-voile-et-temperatures-stationnaires-2/)
-- [Entre discipline budgétaire et souveraineté économique : le modèle tunisien face au FMI](https://lapresse.tn/2025/10/16/entre-discipline-budgetaire-et-souverainete-economique-le-modele-tunisien-face-au-fmi/)
-- [Infractions de change : un projet de loi pour encourager le rapatriement des fonds](https://lapresse.tn/2025/10/16/infractions-de-change-un-projet-de-loi-pour-encourager-le-rapatriement-des-fonds/)
 - [Médicaments tunisiens : vers une ouverture sur le marché européen](https://lapresse.tn/2025/10/16/medicaments-tunisiens-vers-une-ouverture-sur-le-marche-europeen/)
 - [Lancement des inscriptions en ligne pour les centres militaires de formation professionnelle](https://lapresse.tn/2025/10/16/lancement-des-inscriptions-en-ligne-pour-les-centres-militaires-de-formation-professionnelle/)
-- [Tunisie : Le Professeur Riadh Gouider élu Premier Vice-Président de la Fédération Mondiale de Neurologie](https://lapresse.tn/2025/10/16/tunisie-le-professeur-riadh-gouider-elu-premier-vice-president-de-la-federation-mondiale-de-neurologie/)
+- [Gabès : le CNRD appelle à une action urgente face à la crise environnementale](https://lapresse.tn/2025/10/17/gabes-le-cnrd-appelle-a-une-action-urgente-face-a-la-crise-environnementale/)
 - [Ben Guerdane : saisie de 45 000 comprimés de drogue et de cocaïne dans une ambulance libyenne](https://lapresse.tn/2025/10/16/ben-guerdane-saisie-de-45-000-comprimes-de-drogue-et-de-cocaine-dans-une-ambulance-libyenne/)
 - [Pourquoi : Vivement des élèves-surveillants…](https://lapresse.tn/2025/10/16/pourquoi-vivement-des-eleves-surveillants/)
-- [Tunisie : l’équipe BlackShark s’envole pour la Battle of Robots 2025 en Russie](https://lapresse.tn/2025/10/16/tunisie-lequipe-blackshark-senvole-pour-la-battle-of-robots-2025-en-russie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Tunisie, l’ « Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
+- [Massacre de Thiaroye : pour Bassirou Diomaye Faye, le Livre blanc va permettre de « réhabiliter la vérité historique »](https://www.jeuneafrique.com/1731799/politique/massacre-de-thiaroye-pour-bassirou-diomaye-faye-le-livre-blanc-va-permettre-de-rehabiliter-la-verite-historique/)
+- [En Tunisie, l’« Engagement patriote » tente d’unir une opposition affaiblie](https://www.jeuneafrique.com/1731600/politique/l-engagement-patriote-nouvelle-tentative-dunion-pour-une-opposition-tunisienne-affaiblie/)
+- [Présidentielle en Guinée : pourquoi le nouveau code électoral risque de favoriser le candidat du pouvoir](https://www.jeuneafrique.com/1731303/politique/presidentielle-en-guinee-pourquoi-le-nouveau-code-electoral-risque-de-favoriser-le-candidat-du-pouvoir/)
 - [Tensions après la présidentielle au Cameroun : ce qu’il s’est passé à Dschang, Bafoussam ou Douala](https://www.jeuneafrique.com/1731467/politique/tensions-apres-la-presidentielle-au-cameroun-ce-quil-sest-passe-a-dschang-bafoussam-ou-douala/)
 - [Madagascar : Andry Rajoelina confirme avoir quitté le pays, le colonel Randrianirina bientôt investi](https://www.jeuneafrique.com/1731464/politique/madagascar-andry-rajoelina-confirme-avoir-quitte-le-pays-le-colonel-randrianirina-bientot-investi/)
 - [La Libye, choix surprise mais stratégique des Américains de l’Africom pour leur exercice 2026](https://www.jeuneafrique.com/1731186/politique/la-libye-choix-surprise-mais-strategique-des-americains-de-lafricom-pour-leur-exercice-2026/)
 - [Comment Wagner a détourné des équipements de l’armée malienne](https://www.jeuneafrique.com/1730529/politique/comment-wagner-a-detourne-des-equipements-de-larmee-malienne/)
 - [Guillaume Ngefa, ministre de la Justice en RDC : « Je ne crois pas à la peine de mort »](https://www.jeuneafrique.com/1729409/politique/guillaume-ngefa-ministre-de-la-justice-en-rdc-je-ne-crois-pas-a-la-peine-de-mort/)
-- [Présidentielle au Cameroun : Tchiroma Bakary président autoproclamé, et maintenant ?](https://www.jeuneafrique.com/1731089/politique/presidentielle-au-cameroun-tchiroma-bakary-president-autoproclame-et-maintenant/)
-- [Mort de Raila Odinga : fin d’une légende de la politique kényane](https://www.jeuneafrique.com/1731184/politique/mort-de-raila-odinga-fin-dune-legende-de-la-politique-kenyane/)
 - [Au Burkina Faso, la liberté de la presse attendra](https://www.jeuneafrique.com/1731614/economie-entreprises/au-burkina-faso-la-liberte-de-la-presse-attendra/)
 - [Côte d’Ivoire, Bénin, Rwanda… Comment le FMI explique-t-il l’insolente résilience de la croissance africaine ?](https://www.jeuneafrique.com/1731458/economie-entreprises/cote-divoire-benin-rwanda-comment-le-fmi-explique-t-il-linsolente-resilience-de-la-croissance-africaine/)
 
