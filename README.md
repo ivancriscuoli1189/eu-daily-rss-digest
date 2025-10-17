@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 13:23*
+*Generato: 17 Oct 2025, 15:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة فاطمة ثابت شيبوب وزيرة الصناعة و المناجم و الطّاقة والسيّد حبيب عبيد وزير البيئة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%A7%D8%B7%D9%85%D8%A9-%D8%AB%D8%A7%D8%A8%D8%AA-%D8%B4%D9%8A%D8%A8%D9%88%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%AC%D9%85-%D9%88-%D8%A7%D9%84%D8%B7%D9%91%D8%A7%D9%82%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF)
+- [زيارة رئيس الجمهوريّة قيس سعيّد إلى مدينة بنزرت بمناسبة إحياء الذّكرى الثانية والسّتين لعيد الجلاء](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D9%86%D8%B2%D8%B1%D8%AA-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A5%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B0%D9%91%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%91%D8%AA%D9%8A%D9%86-%D9%84%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D8%A1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد فتحي زهير النّوري محافظ البنك المركزي التّونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D9%88%D9%86%D8%B3%D9%8A)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّد عز الدين بن الشّيخ وزير الفلاحة والموارد المائيّة والصّيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%91%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%AF)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les biens spoliés et transférés à l’étranger doivent revenir au peuple](https://lapresse.tn/2025/10/16/les-biens-spolies-et-transferes-a-letranger-doivent-revenir-au-peuple/)
-- [Concours 2026 : comment s’inscrire aux collèges pilotes tunisiens ?](https://lapresse.tn/2025/10/17/concours-2026-comment-sinscrire-aux-colleges-pilotes-tunisiens/)
-- [Baccalauréat 2026 en Tunisie : toutes les étapes pour s’inscrire en ligne](https://lapresse.tn/2025/10/17/baccalaureat-2026-en-tunisie-toutes-les-etapes-pour-sinscrire-en-ligne/)
-- [Gestion des ressources hydrauliques: de nouveaux barrages seront construits au cours de la période 2026-2030](https://lapresse.tn/2025/10/17/gestion-des-ressources-hydrauliques-de-nouveaux-barrages-seront-construits-au-cours-de-la-periode-2026-2030/)
+- [Programme alimentaire mondial : 560 tonnes d’aide entrent quotidiennement à Gaza](https://lapresse.tn/2025/10/17/programme-alimentaire-mondial-560-tonnes-daide-entrent-quotidiennement-a-gaza/)
+- [Le prix de l’or franchit un nouveau cap](https://lapresse.tn/2025/10/17/le-prix-de-lor-franchit-un-nouveau-cap/)
+- [Tunis fait vibrer le monde au rythme du rock et du métal](https://lapresse.tn/2025/10/17/tunis-fait-vibrer-le-monde-au-rythme-du-rock-et-du-metal/)
 - [Alerte météo : jusqu’à 80 mm de pluie et rafales de vent attendues](https://lapresse.tn/2025/10/17/alerte-meteo-jusqua-80-mm-de-pluie-et-rafales-de-vent-attendues/)
 - [Budget 2026 : un financement prévu pour les « médicaments spécifiques »](https://lapresse.tn/2025/10/17/budget-2026-un-financement-prevu-pour-les-medicaments-specifiques/)
 - [La Tunisie séduit les investisseurs turcs dans le secteur du tourisme médical](https://lapresse.tn/2025/10/17/la-tunisie-seduit-les-investisseurs-turcs-dans-le-secteur-du-tourisme-medical/)
-- [Khaled Rahal: « les patients atteints de cancer ne doivent pas interrompre leurs médicaments »](https://lapresse.tn/2025/10/17/khaled-rahal-les-patients-atteints-de-cancer-ne-doivent-pas-interrompre-leurs-medicaments/)
-- [IACE : La Tunisie devrait terminer 2025 avec des réserves couvrant 91 jours d’importations](https://lapresse.tn/2025/10/17/iace-la-tunisie-devrait-terminer-2025-avec-des-reserves-couvrant-91-jours-dimportations/)
-- [BCT : la Tunisie se prépare à la prochaine évaluation de Moody’s](https://lapresse.tn/2025/10/17/bct-la-tunisie-se-prepare-a-la-prochaine-evaluation-de-moodys/)
+- [PLF 2026: vers la création d’un fonds pour les personnes porteuses d’handicap](https://lapresse.tn/2025/10/17/plf-2026-vers-la-creation-dun-fonds-pour-les-personnes-porteuses-dhandicap/)
+- [Concours 2026 : comment s’inscrire aux collèges pilotes tunisiens ?](https://lapresse.tn/2025/10/17/concours-2026-comment-sinscrire-aux-colleges-pilotes-tunisiens/)
+- [Baccalauréat 2026 en Tunisie : toutes les étapes pour s’inscrire en ligne](https://lapresse.tn/2025/10/17/baccalaureat-2026-en-tunisie-toutes-les-etapes-pour-sinscrire-en-ligne/)
 
 ## NGOs – Amnesty International – Tunisia
 
