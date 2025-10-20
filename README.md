@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 13:23*
+*Generato: 20 Oct 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,8 +30,8 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
+- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
 - [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
 - [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
@@ -91,7 +92,6 @@
 - [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
 - [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
 - [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
-- [Sustainability reporting and due diligence: simpler rules for fewer companies](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30836/sustainability-reporting-and-due-diligence-simpler-rules-for-fewer-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
+- [Collision entre deux métros à Tunis (photos)](https://lapresse.tn/2025/10/20/collision-entre-deux-metros-a-tunis-photos/)
 - [Ministre de l’Équipement : « Il est impératif d’arrêter le déversement du phosphogypse dans la mer »](https://lapresse.tn/2025/10/20/ministre-de-lequipement-il-est-imperatif-darreter-le-deversement-du-phosphogypse-dans-la-mer/)
 - [SONEDE : Coupures d’eau à Bab Saâdoun, au Bardo et dans plusieurs quartiers de Tunis](https://lapresse.tn/2025/10/20/sonede-coupures-deau-a-bab-saadoun-au-bardo-et-dans-plusieurs-quartiers-de-tunis/)
-- [Ligue 1 – 10e journée : Le CSS enchaîne](https://lapresse.tn/2025/10/20/ligue-1-10e-journee-le-css-enchaine/)
 - [Le drapeau tunisien fête son 198ème anniversaire](https://lapresse.tn/2025/10/20/le-drapeau-tunisien-fete-son-198eme-anniversaire/)
-- [Ministère de l’Intérieur : Démantèlement de plusieurs réseaux de spéculation à travers le pays](https://lapresse.tn/2025/10/20/ministere-de-linterieur-demantelement-de-plusieurs-reseaux-de-speculation-a-travers-le-pays/)
 - [Le meurtrier de la petite fille de Bhar Lazrag condamné à la réclusion à perpétuité](https://lapresse.tn/2025/10/20/le-meurtrier-de-la-petite-fille-de-bhar-lazrag-condamne-a-la-reclusion-a-perpetuite/)
 - [Hammam Sousse : un activiste connu sur TikTok tué de plusieurs coups de couteau](https://lapresse.tn/2025/10/20/hammam-sousse-un-activiste-connu-sur-tiktok-tue-de-plusieurs-coups-de-couteau/)
 - [Saisie de plus de 29 tonnes de denrées alimentaires et de près de 4 000 litres d’eau impropre à la consommation](https://lapresse.tn/2025/10/20/saisie-de-plus-de-29-tonnes-de-denrees-alimentaires-et-de-pres-de-4-000-litres-deau-impropre-a-la-consommation/)
 - [Circulation routière : retour à la normale au niveau du pont de La Cagna](https://lapresse.tn/2025/10/20/circulation-routiere-retour-a-la-normale-au-niveau-du-pont-de-lacania/)
+- [Amnistie douanière : qui est concerné?](https://lapresse.tn/2025/10/20/amnistie-douaniere-qui-est-concerne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Hannibal Kadhafi, le turbulent fils du guide libyen, est sorti de prison](https://www.jeuneafrique.com/1732340/politique/hannibal-kadhafi-le-turbulent-fils-du-guide-libyen-est-sorti-de-prison/)
 - [Algérie-France : le ministre français de l’Intérieur veut reprendre le dialogue et estime que l’accord de 1968 « fonctionne »](https://www.jeuneafrique.com/1732355/politique/algerie-france-le-ministre-francais-de-linterieur-veut-reprendre-le-dialogue-et-estime-que-laccord-de-1968-fonctionne/)
 - [Raila Odinga a été inhumé lors de funérailles d’État au Kenya](https://www.jeuneafrique.com/1732330/politique/raila-odinga-a-ete-inhume-lors-de-funerailles-detat-au-kenya/)
 - [En Ouganda, comment la galaxie Muhoozi Kainerugaba se structure](https://www.jeuneafrique.com/1728883/politique/en-ouganda-comment-la-galaxie-muhoozi-kainerugaba-se-structure/)
@@ -271,7 +272,6 @@
 - [En Tunisie, des dizaines d’arrestations à Gabès après des manifestations anti-pollution](https://www.jeuneafrique.com/1732323/politique/en-tunisie-des-dizaines-darrestations-a-gabes-apres-des-manifestations-anti-pollution/)
 - [Présidentielle au Cameroun : comment le camp Biya cherche à échapper au piège Tchiroma Bakary](https://www.jeuneafrique.com/1731759/politique/presidentielle-au-cameroun-comment-le-camp-biya-cherche-a-echapper-au-piege-tchiroma-bakary/)
 - [Présidentielle en Côte d’Ivoire : le gouvernement interdit les manifestations](https://www.jeuneafrique.com/1732286/politique/presidentielle-en-cote-divoire-le-gouvernement-interdit-les-manifestations/)
-- [RDC : ce que l’on sait de la brève interpellation de l’opposant Seth Kikuni](https://www.jeuneafrique.com/1732303/politique/rdc-lopposant-seth-kikuni-interpelle-a-son-arrivee-a-kinshasa/)
 - [Karim Beguir (InstaDeep) : « Il n’y a pas de limite au développement de l’Afrique »](https://www.jeuneafrique.com/1731915/economie-entreprises/karim-beguir-instadeep-il-ny-a-pas-de-limite-au-developpement-de-lafrique/)
 - [Présidentielle en Côte d’Ivoire : la croissance démographique, une urgence absente de la campagne](https://www.jeuneafrique.com/1728871/economie-entreprises/presidentielle-en-cote-divoire-la-croissance-demographique-une-urgence-absente-de-la-campagne/)
 
