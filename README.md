@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 15:12*
+*Generato: 20 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
 - [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
@@ -91,12 +92,11 @@
 - [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
 - [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
 - [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
-- [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Collision entre deux métros à Tunis (photos)](https://lapresse.tn/2025/10/20/collision-entre-deux-metros-a-tunis-photos/)
-- [Ministre de l’Équipement : « Il est impératif d’arrêter le déversement du phosphogypse dans la mer »](https://lapresse.tn/2025/10/20/ministre-de-lequipement-il-est-imperatif-darreter-le-deversement-du-phosphogypse-dans-la-mer/)
-- [SONEDE : Coupures d’eau à Bab Saâdoun, au Bardo et dans plusieurs quartiers de Tunis](https://lapresse.tn/2025/10/20/sonede-coupures-deau-a-bab-saadoun-au-bardo-et-dans-plusieurs-quartiers-de-tunis/)
-- [Le drapeau tunisien fête son 198ème anniversaire](https://lapresse.tn/2025/10/20/le-drapeau-tunisien-fete-son-198eme-anniversaire/)
-- [Le meurtrier de la petite fille de Bhar Lazrag condamné à la réclusion à perpétuité](https://lapresse.tn/2025/10/20/le-meurtrier-de-la-petite-fille-de-bhar-lazrag-condamne-a-la-reclusion-a-perpetuite/)
-- [Hammam Sousse : un activiste connu sur TikTok tué de plusieurs coups de couteau](https://lapresse.tn/2025/10/20/hammam-sousse-un-activiste-connu-sur-tiktok-tue-de-plusieurs-coups-de-couteau/)
-- [Saisie de plus de 29 tonnes de denrées alimentaires et de près de 4 000 litres d’eau impropre à la consommation](https://lapresse.tn/2025/10/20/saisie-de-plus-de-29-tonnes-de-denrees-alimentaires-et-de-pres-de-4-000-litres-deau-impropre-a-la-consommation/)
-- [Circulation routière : retour à la normale au niveau du pont de La Cagna](https://lapresse.tn/2025/10/20/circulation-routiere-retour-a-la-normale-au-niveau-du-pont-de-lacania/)
-- [Amnistie douanière : qui est concerné?](https://lapresse.tn/2025/10/20/amnistie-douaniere-qui-est-concerne/)
+- [Les investissements industriels atteignent 1451 MD à fin septembre 2025](https://lapresse.tn/2025/10/20/les-investissements-industriels-atteignent-1451-md-a-fin-septembre-2025/)
+- [Météo : Températures nocturnes entre 15 et 20 degrés](https://lapresse.tn/2025/10/20/meteo-temperatures-nocturnes-entre-15-et-20-degres/)
+- [Expatriés : Premier succès pour Jalel Kadri](https://lapresse.tn/2025/10/20/expatries-premier-succes-pour-jalel-kadri/)
+- [Tunisie – Japon : 22 millions de dinars investis pour moderniser la station d’épuration de Medjez el-Bab](https://lapresse.tn/2025/10/20/tunisie-japon-22-millions-de-dinars-investis-pour-moderniser-la-station-depuration-de-medjez-el-bab/)
+- [“Le président de la République suit de près la crise à Gabès”, affirme Bouderbala](https://lapresse.tn/2025/10/20/le-president-de-la-republique-suit-de-pres-la-crise-a-gabes-affirme-bouderbala/)
+- [Tunisie : Le câble sous-marin de 1 050 km relie Marseille à Bizerte](https://lapresse.tn/2025/10/20/tunisie-le-cable-sous-marin-de-1-050-km-relie-marseille-a-bizerte/)
+- [Gafsa s’éveille : Cap sur un nouveau souffle touristique](https://lapresse.tn/2025/10/20/gafsa-seveille-cap-sur-un-nouveau-souffle-touristique/)
+- [Clin d’œil : Vie privée exposée en public !](https://lapresse.tn/2025/10/20/clin-doeil-vie-privee-exposee-en-public/)
+- [Pourquoi : Encore des efforts…](https://lapresse.tn/2025/10/20/pourquoi-encore-des-efforts/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
 - [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 - [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
 - [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
@@ -234,7 +235,6 @@
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
 - [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
 - [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
-- [Snap out of it: Europe, Iran and nuclear negotiations](https://ecfr.eu/article/snap-out-of-it-europe-iran-and-nuclear-negotiations/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
 - [Hannibal Kadhafi, le turbulent fils du guide libyen, est sorti de prison](https://www.jeuneafrique.com/1732340/politique/hannibal-kadhafi-le-turbulent-fils-du-guide-libyen-est-sorti-de-prison/)
 - [Algérie-France : le ministre français de l’Intérieur veut reprendre le dialogue et estime que l’accord de 1968 « fonctionne »](https://www.jeuneafrique.com/1732355/politique/algerie-france-le-ministre-francais-de-linterieur-veut-reprendre-le-dialogue-et-estime-que-laccord-de-1968-fonctionne/)
+- [Paul Kagame et l’exception rwandaise – par François Soudan](https://www.jeuneafrique.com/1728189/politique/paul-kagame-et-lexception-rwandaise-par-francois-soudan/)
+- [Carnets d’exil : Abidjan et Dakar, terres d’asile pour opposants en danger](https://www.jeuneafrique.com/1727372/politique/carnets-dexil-abidjan-et-dakar-terres-dasile-pour-opposants-en-danger/)
 - [Raila Odinga a été inhumé lors de funérailles d’État au Kenya](https://www.jeuneafrique.com/1732330/politique/raila-odinga-a-ete-inhume-lors-de-funerailles-detat-au-kenya/)
 - [En Ouganda, comment la galaxie Muhoozi Kainerugaba se structure](https://www.jeuneafrique.com/1728883/politique/en-ouganda-comment-la-galaxie-muhoozi-kainerugaba-se-structure/)
 - [Au Maroc, le réveil forcé d’un exécutif rattrapé par la Gen Z](https://www.jeuneafrique.com/1731831/politique/au-maroc-le-reveil-force-dun-executif-rattrape-par-la-gen-z/)
-- [En Tunisie, des dizaines d’arrestations à Gabès après des manifestations anti-pollution](https://www.jeuneafrique.com/1732323/politique/en-tunisie-des-dizaines-darrestations-a-gabes-apres-des-manifestations-anti-pollution/)
-- [Présidentielle au Cameroun : comment le camp Biya cherche à échapper au piège Tchiroma Bakary](https://www.jeuneafrique.com/1731759/politique/presidentielle-au-cameroun-comment-le-camp-biya-cherche-a-echapper-au-piege-tchiroma-bakary/)
-- [Présidentielle en Côte d’Ivoire : le gouvernement interdit les manifestations](https://www.jeuneafrique.com/1732286/politique/presidentielle-en-cote-divoire-le-gouvernement-interdit-les-manifestations/)
-- [Karim Beguir (InstaDeep) : « Il n’y a pas de limite au développement de l’Afrique »](https://www.jeuneafrique.com/1731915/economie-entreprises/karim-beguir-instadeep-il-ny-a-pas-de-limite-au-developpement-de-lafrique/)
-- [Présidentielle en Côte d’Ivoire : la croissance démographique, une urgence absente de la campagne](https://www.jeuneafrique.com/1728871/economie-entreprises/presidentielle-en-cote-divoire-la-croissance-demographique-une-urgence-absente-de-la-campagne/)
+- [Après la chute d’Amara, quel avenir pour Madar face à Cevital ?](https://www.jeuneafrique.com/1732544/economie-entreprises/apres-la-chute-damara-quel-avenir-pour-madar-face-a-cevital/)
+- [Pourquoi le marché camerounais du ciment risque la surchauffe](https://www.jeuneafrique.com/1732135/economie-entreprises/pourquoi-le-marche-camerounais-du-ciment-risque-la-surchauffe/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
