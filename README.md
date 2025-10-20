@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Oct 2025, 21:04*
+*Generato: 20 Oct 2025, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,11 +30,11 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
+- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
-- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
 - [Tratta degli esseri umani in Italia](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/tratta-esseri-umani-italia)
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Une leçon de patriotisme](https://lapresse.tn/2025/10/17/une-lecon-de-patriotisme/)
-- [Production record de semences sélectionnées : le double de la campagne précédente](https://lapresse.tn/2025/10/17/production-record-de-semences-selectionnees-le-double-de-la-campagne-precedente/)
-- [Fiscalité mondiale en mutation : colloque international à Tunis les 23 et 24 octobre](https://lapresse.tn/2025/10/17/fiscalite-mondiale-en-mutation-colloque-international-a-tunis-les-23-et-24-octobre/)
-- [Tunisie : Orages et pluies localement fortes attendus ce soir](https://lapresse.tn/2025/10/17/tunisie-orages-et-pluies-localement-fortes-attendus-ce-soir/)
-- [Devant l’Assemblée générale de l’ONU, la Tunisie réitère son attachement aux droits de l’homme](https://lapresse.tn/2025/10/17/devant-lassemblee-generale-de-lonu-la-tunisie-reitere-son-attachement-aux-droits-de-lhomme/)
-- [Un ancien directeur de la CPG explique pourquoi Gabès suffoque](https://lapresse.tn/2025/10/17/un-ancien-directeur-de-la-cpg-explique-pourquoi-gabes-suffoque/)
-- [Formation professionnelle: la coopération tuniso-égyptienne au coeur d’une réunion entre le ministre de l’Emploi et son homologue égyptien](https://lapresse.tn/2025/10/17/formation-professionnelle-la-cooperation-tuniso-egyptienne-au-coeur-dune-reunion-entre-le-ministre-de-lemploi-et-son-homologue-egyptien/)
-- [Etablissements scolaires: Demain, coup d’envoi des journées nationales de la santé de la vue et bucco-dentaire](https://lapresse.tn/2025/10/17/etablissements-scolaires-demain-coup-denvoi-des-journees-nationales-de-la-sante-de-la-vue-et-bucco-dentaire/)
-- [Tozeur : Les montgolfières et les avions à voiles dessinent la magie du Sud](https://lapresse.tn/2025/10/17/tozeur-les-montgolfieres-et-les-avions-a-voiles-dessinent-la-magie-du-sud/)
-- [Formation sur le leadership : L’enfant d’aujourd’hui, le leader de demain](https://lapresse.tn/2025/10/17/formation-sur-le-leadership-lenfant-daujourdhui-le-leader-de-demain/)
+- [PLF 2026 : priorité au volet social et au compter-sur-soi](https://lapresse.tn/2025/10/19/plf-2026-priorite-au-volet-social-et-au-compter-sur-soi/)
+- [Météo : Nuages et averses dans le Sud](https://lapresse.tn/2025/10/20/meteo-nuages-et-averses-dans-le-sud/)
+- [Tunisie : Les réserves en devises couvrent 105 jours d’importations au 17 octobre](https://lapresse.tn/2025/10/19/tunisie-les-reserves-en-devises-couvrent-105-jours-dimportations-au-17-octobre/)
+- [Italie: L’artisanat tunisien s’invite à Lecce avec un marché mobile](https://lapresse.tn/2025/10/19/italie-lartisanat-tunisien-sinvite-a-lecce-avec-un-marche-mobile/)
+- [Des pluies orageuses attendues ce soir sur plusieurs régions](https://lapresse.tn/2025/10/19/des-pluies-orageuses-attendues-ce-soir-sur-plusieurs-regions/)
+- [Commentaire : La sécurité constitue la première des libertés](https://lapresse.tn/2025/10/19/commentaire-la-securite-constitue-la-premiere-des-libertes/)
+- [Tunisie : Helmi Hassine nommé à la tête de Tunisair Express](https://lapresse.tn/2025/10/19/tunisie-helmi-hassine-nomme-a-la-tete-de-tunisair-express/)
+- [Moularès : La voix des citoyens face à une infrastructure défectueuse](https://lapresse.tn/2025/10/19/moulares-la-voix-des-citoyens-face-a-une-infrastructure-defectueuse/)
+- [Environnement : Week-end propre à Tozeur](https://lapresse.tn/2025/10/19/environnement-week-end-propre-a-tozeur/)
+- [Zarzis : Campagne oléicole](https://lapresse.tn/2025/10/19/zarzis-campagne-oleicole/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Côte d’Ivoire : 26 manifestants écopent de trois ans de prison ferme pour « troubles à l’ordre public »](https://www.jeuneafrique.com/1732174/politique/cote-divoire-26-manifestants-ecopent-de-trois-ans-de-prison-ferme-pour-troubles-a-lordre-public/)
-- [Au Bénin, le présidentiable des Démocrates sur la sellette](https://www.jeuneafrique.com/1731943/politique/au-benin-le-presidentiable-des-democrates-sur-la-sellette/)
-- [À Nairobi, l’hommage à Raila Odinga tourne au drame](https://www.jeuneafrique.com/1731812/politique/a-nairobi-lhommage-a-raila-odinga-tourne-au-drame/)
-- [Maroc : la GenZ212 à la recherche d’un second souffle](https://www.jeuneafrique.com/1731743/politique/maroc-la-genz212-a-la-recherche-dun-second-souffle/)
-- [Massacre de Thiaroye : pour Bassirou Diomaye Faye, le Livre blanc va permettre de « réhabiliter la vérité historique »](https://www.jeuneafrique.com/1731799/politique/massacre-de-thiaroye-pour-bassirou-diomaye-faye-le-livre-blanc-va-permettre-de-rehabiliter-la-verite-historique/)
-- [Présidentielle en Centrafrique : Dologuélé pourra-t-il se présenter ?](https://www.jeuneafrique.com/1731248/politique/presidentielle-en-centrafrique-dologuele-pourra-t-il-se-presenter/)
-- [« Sauvons la RDC » : à Nairobi, Joseph Kabila se rêve en rassembleur d’une opposition fragmentée](https://www.jeuneafrique.com/1731686/politique/sauvons-la-rdc-a-nairobi-joseph-kabila-se-reve-en-rassembleur-dune-opposition-fragmentee/)
-- [Au Sénégal, la mise en accusation de Macky Sall devant la Haute Cour de justice se précise](https://www.jeuneafrique.com/1731548/politique/au-senegal-la-mise-en-accusation-de-macky-sall-devant-la-haute-cour-de-justice-se-precise/)
-- [Sénégal, Gabon, agriculture, croissance et climat : les dossiers chauds des discussions Afrique-FMI](https://www.jeuneafrique.com/1731880/economie-entreprises/senegal-gabon-agriculture-croissance-et-climat-les-dossiers-chauds-des-discussions-afrique-fmi/)
-- [Pourquoi le groupe Duval mise sur le Rwanda et fait le pari de l’Est](https://www.jeuneafrique.com/1728361/economie-entreprises/pourquoi-le-groupe-duval-mise-sur-le-rwanda-et-fait-le-pari-de-lest/)
+- [Raila Odinga a été inhumé lors de funérailles d’État au Kenya](https://www.jeuneafrique.com/1732330/politique/raila-odinga-a-ete-inhume-lors-de-funerailles-detat-au-kenya/)
+- [En Tunisie, des dizaines d’arrestations à Gabès après des manifestations anti-pollution](https://www.jeuneafrique.com/1732323/politique/en-tunisie-des-dizaines-darrestations-a-gabes-apres-des-manifestations-anti-pollution/)
+- [Présidentielle en Côte d’Ivoire : le gouvernement interdit les manifestations](https://www.jeuneafrique.com/1732286/politique/presidentielle-en-cote-divoire-le-gouvernement-interdit-les-manifestations/)
+- [RDC : ce que l’on sait de la brève interpellation de l’opposant Seth Kikuni](https://www.jeuneafrique.com/1732303/politique/rdc-lopposant-seth-kikuni-interpelle-a-son-arrivee-a-kinshasa/)
+- [CGLU Afrique : un changement de secrétaire général pour sortir de la crise](https://www.jeuneafrique.com/1731468/politique/cglu-afrique-un-changement-de-secretaire-general-pour-sortir-de-la-crise/)
+- [Andry Rajoelina renversé à Madagascar, Tchiroma président autoproclamé au Cameroun, la note Moody’s qui fâche le Sénégal… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1731750/politique/andry-rajoelina-renverse-a-madagascar-tchiroma-president-autoproclame-au-cameroun-la-note-moodys-qui-fache-le-senegal-les-5-infos-incontournables-de-la-semaine/)
+- [Burkina Faso : « Sur la situation sécuritaire, Ibrahim Traoré veut un black-out total »](https://www.jeuneafrique.com/1731703/politique/burkina-faso-sur-la-situation-securitaire-ibrahim-traore-veut-un-black-out-total/)
+- [Présidentielle en Guinée : Mamadi Doumbouya a déjà choisi son directeur de campagne](https://www.jeuneafrique.com/1732028/politique/presidentielle-en-guinee-mamadi-doumbouya-a-deja-choisi-son-directeur-de-campagne/)
+- [Karim Beguir (InstaDeep) : « Il n’y a pas de limite au développement de l’Afrique »](https://www.jeuneafrique.com/1731915/economie-entreprises/karim-beguir-instadeep-il-ny-a-pas-de-limite-au-developpement-de-lafrique/)
+- [Dette cachée : pourquoi les négociations entre Bassirou Diomaye Faye et le FMI sont loin d’aboutir](https://www.jeuneafrique.com/1731738/economie-entreprises/dette-cachee-pourquoi-les-negociations-entre-bassirou-diomaye-faye-et-le-fmi-sont-loin-daboutir/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
