@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 18:14*
+*Generato: 20 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Les investissements industriels atteignent 1451 MD à fin septembre 2025](https://lapresse.tn/2025/10/20/les-investissements-industriels-atteignent-1451-md-a-fin-septembre-2025/)
+- [Point de vue : L’art de parler…](https://lapresse.tn/2025/10/20/point-de-vue-lart-de-parler-2/)
+- [Une hausse de 2,5% des exportations du secteur industriel à fin septembre 2025](https://lapresse.tn/2025/10/20/une-hausse-de-25-des-exportations-du-secteur-industriel-a-fin-septembre-2025/)
+- [BNA Assurances : le chiffre d’affaires en hausse de 9,8% à fin septembre 2025](https://lapresse.tn/2025/10/20/bna-assurances-le-chiffre-daffaires-en-hausse-de-98-a-fin-septembre-2025/)
 - [Météo : Températures nocturnes entre 15 et 20 degrés](https://lapresse.tn/2025/10/20/meteo-temperatures-nocturnes-entre-15-et-20-degres/)
-- [Expatriés : Premier succès pour Jalel Kadri](https://lapresse.tn/2025/10/20/expatries-premier-succes-pour-jalel-kadri/)
 - [Tunisie – Japon : 22 millions de dinars investis pour moderniser la station d’épuration de Medjez el-Bab](https://lapresse.tn/2025/10/20/tunisie-japon-22-millions-de-dinars-investis-pour-moderniser-la-station-depuration-de-medjez-el-bab/)
 - [“Le président de la République suit de près la crise à Gabès”, affirme Bouderbala](https://lapresse.tn/2025/10/20/le-president-de-la-republique-suit-de-pres-la-crise-a-gabes-affirme-bouderbala/)
-- [Tunisie : Le câble sous-marin de 1 050 km relie Marseille à Bizerte](https://lapresse.tn/2025/10/20/tunisie-le-cable-sous-marin-de-1-050-km-relie-marseille-a-bizerte/)
 - [Gafsa s’éveille : Cap sur un nouveau souffle touristique](https://lapresse.tn/2025/10/20/gafsa-seveille-cap-sur-un-nouveau-souffle-touristique/)
 - [Clin d’œil : Vie privée exposée en public !](https://lapresse.tn/2025/10/20/clin-doeil-vie-privee-exposee-en-public/)
 - [Pourquoi : Encore des efforts…](https://lapresse.tn/2025/10/20/pourquoi-encore-des-efforts/)
