@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 06:18*
+*Generato: 20 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
 - [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
 - [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
 - [MEPs shortlist three finalists for the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251008IPR30829/meps-shortlist-three-finalists-for-the-2025-sakharov-prize)
 - [Sustainability reporting and due diligence: simpler rules for fewer companies](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30836/sustainability-reporting-and-due-diligence-simpler-rules-for-fewer-companies)
-- [MEPs set out their red lines for air passenger rights changes](https://www.europarl.europa.eu/news/en/press-room/20251009IPR30833/meps-set-out-their-red-lines-for-air-passenger-rights-changes)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [PLF 2026 : priorité au volet social et au compter-sur-soi](https://lapresse.tn/2025/10/19/plf-2026-priorite-au-volet-social-et-au-compter-sur-soi/)
+- [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
+- [Deux morts dans un accident d’avion-cargo à l’aéroport de Hong Kong](https://lapresse.tn/2025/10/20/deux-morts-dans-un-accident-davion-cargo-a-laeroport-de-hong-kong/)
+- [Le ministère de l’Intérieur investit plus de 100 millions de dinars dans la propreté municipale](https://lapresse.tn/2025/10/20/le-ministere-de-linterieur-investit-plus-de-100-millions-de-dinars-dans-la-proprete-municipale/)
 - [Météo : Nuages et averses dans le Sud](https://lapresse.tn/2025/10/20/meteo-nuages-et-averses-dans-le-sud/)
-- [Tunisie : Les réserves en devises couvrent 105 jours d’importations au 17 octobre](https://lapresse.tn/2025/10/19/tunisie-les-reserves-en-devises-couvrent-105-jours-dimportations-au-17-octobre/)
-- [Italie: L’artisanat tunisien s’invite à Lecce avec un marché mobile](https://lapresse.tn/2025/10/19/italie-lartisanat-tunisien-sinvite-a-lecce-avec-un-marche-mobile/)
 - [Des pluies orageuses attendues ce soir sur plusieurs régions](https://lapresse.tn/2025/10/19/des-pluies-orageuses-attendues-ce-soir-sur-plusieurs-regions/)
 - [Commentaire : La sécurité constitue la première des libertés](https://lapresse.tn/2025/10/19/commentaire-la-securite-constitue-la-premiere-des-libertes/)
-- [Tunisie : Helmi Hassine nommé à la tête de Tunisair Express](https://lapresse.tn/2025/10/19/tunisie-helmi-hassine-nomme-a-la-tete-de-tunisair-express/)
+- [Italie: L’artisanat tunisien s’invite à Lecce avec un marché mobile](https://lapresse.tn/2025/10/19/italie-lartisanat-tunisien-sinvite-a-lecce-avec-un-marche-mobile/)
 - [Moularès : La voix des citoyens face à une infrastructure défectueuse](https://lapresse.tn/2025/10/19/moulares-la-voix-des-citoyens-face-a-une-infrastructure-defectueuse/)
 - [Environnement : Week-end propre à Tozeur](https://lapresse.tn/2025/10/19/environnement-week-end-propre-a-tozeur/)
-- [Zarzis : Campagne oléicole](https://lapresse.tn/2025/10/19/zarzis-campagne-oleicole/)
+- [Tunisie : Les réserves en devises couvrent 105 jours d’importations au 17 octobre](https://lapresse.tn/2025/10/19/tunisie-les-reserves-en-devises-couvrent-105-jours-dimportations-au-17-octobre/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie-France : le ministre français de l’Intérieur veut reprendre le dialogue et estime que l’accord de 1968 « fonctionne »](https://www.jeuneafrique.com/1732355/politique/algerie-france-le-ministre-francais-de-linterieur-veut-reprendre-le-dialogue-et-estime-que-laccord-de-1968-fonctionne/)
 - [Raila Odinga a été inhumé lors de funérailles d’État au Kenya](https://www.jeuneafrique.com/1732330/politique/raila-odinga-a-ete-inhume-lors-de-funerailles-detat-au-kenya/)
 - [En Tunisie, des dizaines d’arrestations à Gabès après des manifestations anti-pollution](https://www.jeuneafrique.com/1732323/politique/en-tunisie-des-dizaines-darrestations-a-gabes-apres-des-manifestations-anti-pollution/)
 - [Présidentielle en Côte d’Ivoire : le gouvernement interdit les manifestations](https://www.jeuneafrique.com/1732286/politique/presidentielle-en-cote-divoire-le-gouvernement-interdit-les-manifestations/)
@@ -271,7 +272,6 @@
 - [CGLU Afrique : un changement de secrétaire général pour sortir de la crise](https://www.jeuneafrique.com/1731468/politique/cglu-afrique-un-changement-de-secretaire-general-pour-sortir-de-la-crise/)
 - [Andry Rajoelina renversé à Madagascar, Tchiroma président autoproclamé au Cameroun, la note Moody’s qui fâche le Sénégal… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1731750/politique/andry-rajoelina-renverse-a-madagascar-tchiroma-president-autoproclame-au-cameroun-la-note-moodys-qui-fache-le-senegal-les-5-infos-incontournables-de-la-semaine/)
 - [Burkina Faso : « Sur la situation sécuritaire, Ibrahim Traoré veut un black-out total »](https://www.jeuneafrique.com/1731703/politique/burkina-faso-sur-la-situation-securitaire-ibrahim-traore-veut-un-black-out-total/)
-- [Présidentielle en Guinée : Mamadi Doumbouya a déjà choisi son directeur de campagne](https://www.jeuneafrique.com/1732028/politique/presidentielle-en-guinee-mamadi-doumbouya-a-deja-choisi-son-directeur-de-campagne/)
 - [Karim Beguir (InstaDeep) : « Il n’y a pas de limite au développement de l’Afrique »](https://www.jeuneafrique.com/1731915/economie-entreprises/karim-beguir-instadeep-il-ny-a-pas-de-limite-au-developpement-de-lafrique/)
 - [Dette cachée : pourquoi les négociations entre Bassirou Diomaye Faye et le FMI sont loin d’aboutir](https://www.jeuneafrique.com/1731738/economie-entreprises/dette-cachee-pourquoi-les-negociations-entre-bassirou-diomaye-faye-et-le-fmi-sont-loin-daboutir/)
 
