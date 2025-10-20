@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 12:19*
+*Generato: 20 Oct 2025, 13:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Nouveau maillot de l’équipe nationale: les Aigles de Carthage se drapent « d’or »](https://lapresse.tn/2025/10/20/nouveau-maillot-de-lequipe-nationale-les-aigles-de-carthage-se-drapent-dor/)
-- [Hammam Sousse : un activiste connu sur TikTok tué de plusieurs coups de couteau](https://lapresse.tn/2025/10/20/hammam-sousse-un-activiste-connu-sur-tiktok-tue-de-plusieurs-coups-de-couteau/)
+- [Ministre de l’Équipement : « Il est impératif d’arrêter le déversement du phosphogypse dans la mer »](https://lapresse.tn/2025/10/20/ministre-de-lequipement-il-est-imperatif-darreter-le-deversement-du-phosphogypse-dans-la-mer/)
+- [SONEDE : Coupures d’eau à Bab Saâdoun, au Bardo et dans plusieurs quartiers de Tunis](https://lapresse.tn/2025/10/20/sonede-coupures-deau-a-bab-saadoun-au-bardo-et-dans-plusieurs-quartiers-de-tunis/)
+- [Ligue 1 – 10e journée : Le CSS enchaîne](https://lapresse.tn/2025/10/20/ligue-1-10e-journee-le-css-enchaine/)
 - [Le drapeau tunisien fête son 198ème anniversaire](https://lapresse.tn/2025/10/20/le-drapeau-tunisien-fete-son-198eme-anniversaire/)
 - [Ministère de l’Intérieur : Démantèlement de plusieurs réseaux de spéculation à travers le pays](https://lapresse.tn/2025/10/20/ministere-de-linterieur-demantelement-de-plusieurs-reseaux-de-speculation-a-travers-le-pays/)
-- [Météo : Nuages et averses dans le Sud](https://lapresse.tn/2025/10/20/meteo-nuages-et-averses-dans-le-sud/)
-- [Des pluies orageuses attendues ce soir sur plusieurs régions](https://lapresse.tn/2025/10/19/des-pluies-orageuses-attendues-ce-soir-sur-plusieurs-regions/)
+- [Le meurtrier de la petite fille de Bhar Lazrag condamné à la réclusion à perpétuité](https://lapresse.tn/2025/10/20/le-meurtrier-de-la-petite-fille-de-bhar-lazrag-condamne-a-la-reclusion-a-perpetuite/)
+- [Hammam Sousse : un activiste connu sur TikTok tué de plusieurs coups de couteau](https://lapresse.tn/2025/10/20/hammam-sousse-un-activiste-connu-sur-tiktok-tue-de-plusieurs-coups-de-couteau/)
 - [Saisie de plus de 29 tonnes de denrées alimentaires et de près de 4 000 litres d’eau impropre à la consommation](https://lapresse.tn/2025/10/20/saisie-de-plus-de-29-tonnes-de-denrees-alimentaires-et-de-pres-de-4-000-litres-deau-impropre-a-la-consommation/)
 - [Circulation routière : retour à la normale au niveau du pont de La Cagna](https://lapresse.tn/2025/10/20/circulation-routiere-retour-a-la-normale-au-niveau-du-pont-de-lacania/)
-- [Le ministère de l’Intérieur investit plus de 100 millions de dinars dans la propreté municipale](https://lapresse.tn/2025/10/20/le-ministere-de-linterieur-investit-plus-de-100-millions-de-dinars-dans-la-proprete-municipale/)
 
 ## NGOs – Amnesty International – Tunisia
 
