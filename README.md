@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 11:03*
+*Generato: 21 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Plus Belle Voiture de l’année 2025 : le verdict est tombé](https://lapresse.tn/2025/10/21/plus-belle-voiture-de-lannee-2025-le-verdict-est-tombe/)
-- [Le dollar progresse légèrement](https://lapresse.tn/2025/10/21/le-dollar-progresse-legerement/)
-- [Le train le plus rapide du monde atteint 453 km/h lors de tests en Chine](https://lapresse.tn/2025/10/21/le-train-le-plus-rapide-du-monde-atteint-453-km-h-lors-de-tests-en-chine/)
+- [« GET Entrepreneurial 3.0 » : L’audace d’innover pour une Tunisie durable](https://lapresse.tn/2025/10/21/get-entrepreneurial-3-0-laudace-dinnover-pour-une-tunisie-durable/)
+- [Vient de paraître : Une fille de Kairouan de Hafida Ben Rejeb Latta](https://lapresse.tn/2025/10/21/vient-de-paraitre-une-fille-de-kairouan-de-hafida-ben-rejeb-latta/)
+- [Clôture du projet Ajyal Égalité à Tunis : trois ans d’actions pour l’égalité des genres au Maghreb](https://lapresse.tn/2025/10/21/cloture-du-projet-ajyal-egalite-a-tunis-trois-ans-dactions-pour-legalite-des-genres-au-maghreb/)
+- [Élu Vice-Président de la Fédération mondiale de neurologie, le Dr. Riadh Gouider dévoile ses priorités](https://lapresse.tn/2025/10/21/elu-vice-president-de-la-federation-mondiale-de-neurologie-le-dr-riadh-gouider-devoile-ses-priorites/)
 - [Le ministère de la Santé annonce la création d’un centre de lutte contre le cancer à Gabès](https://lapresse.tn/2025/10/21/le-ministere-de-la-sante-annonce-la-creation-dun-centre-de-lutte-contre-le-cancer-a-gabes/)
 - [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
-- [Une hausse de 2,5% des exportations du secteur industriel à fin septembre 2025](https://lapresse.tn/2025/10/20/une-hausse-de-25-des-exportations-du-secteur-industriel-a-fin-septembre-2025/)
 - [Maladies transmises par les insectes : le ministère de l’Agriculture présente une série de recommandations](https://lapresse.tn/2025/10/21/maladies-transmises-par-les-insectes-le-ministere-de-lagriculture-presente-une-serie-de-recommandations/)
 - [Baccalauréat : demain, ouverture des inscriptions](https://lapresse.tn/2025/10/21/baccalaureat-demain-ouverture-des-inscriptions/)
 - [Nabeul : La production d’huile d’olive estimée à plus de 90 mille tonnes](https://lapresse.tn/2025/10/21/nabeul-la-production-dhuile-dolive-estimee-a-plus-de-90-mille-tonnes/)
