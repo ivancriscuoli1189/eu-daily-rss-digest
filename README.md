@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 09:13*
+*Generato: 21 Oct 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
+- [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
@@ -90,13 +92,11 @@
 - [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
 - [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
-- [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
-- [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Élu Vice-Président de la Fédération mondiale de neurologie, le Dr. Riadh Gouider dévoile ses priorités](https://lapresse.tn/2025/10/21/elu-vice-president-de-la-federation-mondiale-de-neurologie-le-dr-riadh-gouider-devoile-ses-priorites/)
-- [Japon : pour la première fois, une femme devient première ministre](https://lapresse.tn/2025/10/21/japon-pour-la-premiere-fois-une-femme-devient-premiere-ministre/)
+- [Plus Belle Voiture de l’année 2025 : le verdict est tombé](https://lapresse.tn/2025/10/21/plus-belle-voiture-de-lannee-2025-le-verdict-est-tombe/)
+- [Le dollar progresse légèrement](https://lapresse.tn/2025/10/21/le-dollar-progresse-legerement/)
+- [Le train le plus rapide du monde atteint 453 km/h lors de tests en Chine](https://lapresse.tn/2025/10/21/le-train-le-plus-rapide-du-monde-atteint-453-km-h-lors-de-tests-en-chine/)
 - [Le ministère de la Santé annonce la création d’un centre de lutte contre le cancer à Gabès](https://lapresse.tn/2025/10/21/le-ministere-de-la-sante-annonce-la-creation-dun-centre-de-lutte-contre-le-cancer-a-gabes/)
 - [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
 - [Une hausse de 2,5% des exportations du secteur industriel à fin septembre 2025](https://lapresse.tn/2025/10/20/une-hausse-de-25-des-exportations-du-secteur-industriel-a-fin-septembre-2025/)
+- [Maladies transmises par les insectes : le ministère de l’Agriculture présente une série de recommandations](https://lapresse.tn/2025/10/21/maladies-transmises-par-les-insectes-le-ministere-de-lagriculture-presente-une-serie-de-recommandations/)
+- [Baccalauréat : demain, ouverture des inscriptions](https://lapresse.tn/2025/10/21/baccalaureat-demain-ouverture-des-inscriptions/)
 - [Nabeul : La production d’huile d’olive estimée à plus de 90 mille tonnes](https://lapresse.tn/2025/10/21/nabeul-la-production-dhuile-dolive-estimee-a-plus-de-90-mille-tonnes/)
-- [Association «Tourathna» : Kharjet El Alam célèbre le patriotisme et l’histoire tunisienne](https://lapresse.tn/2025/10/20/association-tourathna-kharjet-el-alam-celebre-le-patriotisme-et-lhistoire-tunisienne/)
-- [Gafsa s’éveille : Cap sur un nouveau souffle touristique](https://lapresse.tn/2025/10/20/gafsa-seveille-cap-sur-un-nouveau-souffle-touristique/)
-- [Clin d’œil : Vie privée exposée en public !](https://lapresse.tn/2025/10/20/clin-doeil-vie-privee-exposee-en-public/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
 - [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
-- [Santé, éducation, lutte contre la corruption : après les manifestations de la GenZ, le Maroc à l’heure des annonces](https://www.jeuneafrique.com/1732477/politique/sante-education-lutte-contre-la-corruption-apres-les-manifestations-de-la-genz-le-maroc-a-lheure-des-annonces/)
+- [Présidentielle en Guinée : « Les poids lourds de l’opposition peuvent se reposer », selon Ousmane Gaoual Diallo](https://www.jeuneafrique.com/1732370/politique/presidentielle-en-guinee-les-poids-lourds-de-lopposition-peuvent-se-reposer-selon-ousmane-gaoual-diallo/)
+- [Présidentielle au Cameroun : Paul Biya donné vainqueur, Issa Tchiroma Bakary conteste](https://www.jeuneafrique.com/1732456/politique/presidentielle-au-cameroun-paul-biya-donne-vainqueur-issa-tchiroma-bakary-conteste-le-decompte-officiel/)
 - [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
 - [Madagascar : Herintsalama Rajaonarivelo nommé Premier ministre](https://www.jeuneafrique.com/1732734/politique/madagascar-herintsalama-rajaonarivelo-nomme-premier-ministre/)
+- [Mauritanie-Mali : entre Ghazouani et Goïta, une crise sans fin ?](https://www.jeuneafrique.com/1731572/politique/mauritanie-mali-entre-ghazouani-et-goita-une-crise-sans-fin/)
 - [De retour à Madagascar, Hery Rajaonarimampianina cherche à se faire une place au sommet](https://www.jeuneafrique.com/1732434/politique/de-retour-a-madagascar-hery-rajaonarimampianina-cherche-a-se-faire-une-place-au-sommet/)
-- [Algérie : l’ex-chef de la DGSI, Nacer El Djinn, arrêté et incarcéré à Blida](https://www.jeuneafrique.com/1732407/politique/algerie-lex-chef-de-la-dgsi-nacer-el-djinn-arrete-et-incarcere-a-blida/)
-- [RDC : les discrètes tractations d’Aimé Boji, grand favori pour présider l’Assemblée nationale](https://www.jeuneafrique.com/1732373/politique/rdc-les-discretes-tractations-daime-boji-grand-favori-pour-presider-lassemblee-nationale/)
 - [Après la chute d’Amara, quel avenir pour Madar face à Cevital ?](https://www.jeuneafrique.com/1732544/economie-entreprises/apres-la-chute-damara-quel-avenir-pour-madar-face-a-cevital/)
-- [Pourquoi le marché camerounais du ciment risque la surchauffe](https://www.jeuneafrique.com/1732135/economie-entreprises/pourquoi-le-marche-camerounais-du-ciment-risque-la-surchauffe/)
+- [Air Côte d’Ivoire a-t-elle les moyens de ses grandes ambitions internationales ?](https://www.jeuneafrique.com/1731857/economie-entreprises/air-cote-divoire-a-t-elle-les-moyens-de-ses-grandes-ambitions-internationales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
