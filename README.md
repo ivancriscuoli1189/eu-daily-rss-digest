@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 18:04*
+*Generato: 21 Oct 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,10 +82,10 @@
 
 ## UE – EP – Press Room
 
-- [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
 - [Press conference: simpler sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-simpler-sustainability-reporting-and-due-diligence-rules)
 - [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
+- [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
-- [Théâtre : La Cloche de Assem Bettouhami : Une plongée dans l’intime](https://lapresse.tn/2025/10/21/theatre-la-cloche-de-assem-bettouhami-une-plongee-dans-lintime/)
-- [Tennis de table – Championnats du monde des jeunes : Wassim Essid au rendez-vous](https://lapresse.tn/2025/10/21/tennis-de-table-championnats-du-monde-des-jeunes-wassim-essid-au-rendez-vous/)
-- [2e édition du festival international du cinéma du Sahara : L’Algérie à l’honneur](https://lapresse.tn/2025/10/21/2e-edition-du-festival-international-du-cinema-du-sahara-lalgerie-a-lhonneur/)
-- [La région du Moyen-Orient désatomisée : Le courage de parler le langage de la paix](https://lapresse.tn/2025/10/21/la-region-du-moyen-orient-desatomisee-le-courage-de-parler-le-langage-de-la-paix/)
-- [L’équipe BlackShark, première équipe arabe qualifiée pour la finale mondiale de la Battle of Robots, de retour à Tunis](https://lapresse.tn/2025/10/21/lequipe-blackshark-premiere-equipe-arabe-qualifiee-pour-la-finale-mondiale-de-la-battle-of-robots-de-retour-a-tunis/)
+- [L’Espérance Sportive de Tunis lance de nouveaux abonnements pour le virage](https://lapresse.tn/2025/10/21/lesperance-sportive-de-tunis-lance-de-nouveaux-abonnements-pour-le-virage/)
+- [Gabès : Marche pacifique pour le démantèlement des unités polluantes du GCT](https://lapresse.tn/2025/10/21/gabes-marche-pacifique-pour-le-demantelement-des-unites-polluantes-du-gct/)
+- [L’ambassade de France en Tunisie explique en vidéo le nouveau système d’entrée dans l’espace Schengen](https://lapresse.tn/2025/10/21/lambassade-de-france-en-tunisie-explique-en-video-le-nouveau-systeme-dentree-dans-lespace-schengen/)
+- [Jeudi 23 octobre, premier jour du mois de Joumada Al-Oula 1447 de l’Hégire](https://lapresse.tn/2025/10/21/jeudi-23-octobre-premier-jour-du-mois-de-joumada-al-oula-1447-de-lhegire/)
+- [Nafti reçoit l’ambassadeur américain à l’occasion de la fin de sa mission en Tunisie](https://lapresse.tn/2025/10/21/nafti-recoit-lambassadeur-americain-a-loccasion-de-la-fin-de-sa-mission-en-tunisie/)
+- [Examen des perspectives de la coopération économique et commerciale tuniso-libyenne](https://lapresse.tn/2025/10/21/examen-des-perspectives-de-la-cooperation-economique-et-commerciale-tuniso-libyenne/)
+- [Saisie de 400 kg de cannabis à Sousse : huit personnes placées en détention provisoire](https://lapresse.tn/2025/10/21/saisie-de-400-kg-de-cannabis-a-sousse-huit-personnes-placees-en-detention-provisoire/)
 - [Milieu scolaire : Des élèves en manque de soutien psychologique et d’encadrement moral](https://lapresse.tn/2025/10/21/milieu-scolaire-des-eleves-en-manque-de-soutien-psychologique-et-dencadrement-moral/)
 - [Gafsa : Quand l’hôpital et l’école s’unissent pour le bien-être des élèves](https://lapresse.tn/2025/10/21/gafsa-quand-lhopital-et-lecole-sunissent-pour-le-bien-etre-des-eleves/)
-- [Pourquoi : Il ne faut pas se leurrer…](https://lapresse.tn/2025/10/21/pourquoi-il-ne-faut-pas-se-leurrer/)
-- [Collision, hier, entre deux métros à Tunis : des questions en suspens](https://lapresse.tn/2025/10/21/collision-hier-entre-deux-metros-a-tunis-des-questions-en-suspens/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : « Félix Tshisekedi ne peut pas nous dicter la marche à suivre », affirme Seth Kikuni](https://www.jeuneafrique.com/1732914/politique/rdc-felix-tshisekedi-ne-peut-pas-nous-dicter-la-marche-a-suivre-affirme-seth-kikuni/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
+- [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
 - [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
 - [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
 - [Présidentielle en Guinée : « Les poids lourds de l’opposition peuvent se reposer », selon Ousmane Gaoual Diallo](https://www.jeuneafrique.com/1732370/politique/presidentielle-en-guinee-les-poids-lourds-de-lopposition-peuvent-se-reposer-selon-ousmane-gaoual-diallo/)
 - [À Madagascar, l’Histoire fait un pied de nez à Andry Rajoelina](https://www.jeuneafrique.com/1732213/politique/a-madagascar-lhistoire-fait-un-pied-de-nez-a-andry-rajoelina/)
 - [Présidentielle au Cameroun : Paul Biya donné vainqueur, Issa Tchiroma Bakary conteste](https://www.jeuneafrique.com/1732456/politique/presidentielle-au-cameroun-paul-biya-donne-vainqueur-issa-tchiroma-bakary-conteste-le-decompte-officiel/)
-- [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
-- [Madagascar : Herintsalama Rajaonarivelo nommé Premier ministre](https://www.jeuneafrique.com/1732734/politique/madagascar-herintsalama-rajaonarivelo-nomme-premier-ministre/)
 - [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
 - [Coca-Cola s’éloigne encore un peu plus de l’Afrique](https://www.jeuneafrique.com/1732868/economie-entreprises/coca-cola-seloigne-encore-un-peu-plus-de-lafrique/)
 
