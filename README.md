@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 06:17*
+*Generato: 21 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
@@ -91,12 +92,11 @@
 - [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
 - [Daphne Caruana Galizia Prize for Journalism 2025: invitation to award ceremony](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30891/daphne-caruana-galizia-prize-for-journalism-2025-invitation-to-award-ceremony)
 - [New EU measures needed to make online services safer for minors](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30892/new-eu-measures-needed-to-make-online-services-safer-for-minors)
-- [Transparency of third-country lobbying in EU decision-making](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30893/transparency-of-third-country-lobbying-in-eu-decision-making)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
+- [Élu Vice-Président de la Fédération mondiale de neurologie, le Dr. Riadh Gouider dévoile ses priorités](https://lapresse.tn/2025/10/21/elu-vice-president-de-la-federation-mondiale-de-neurologie-le-dr-riadh-gouider-devoile-ses-priorites/)
+- [Japon : pour la première fois, une femme devient première ministre](https://lapresse.tn/2025/10/21/japon-pour-la-premiere-fois-une-femme-devient-premiere-ministre/)
+- [Le ministère de la Santé annonce la création d’un centre de lutte contre le cancer à Gabès](https://lapresse.tn/2025/10/21/le-ministere-de-la-sante-annonce-la-creation-dun-centre-de-lutte-contre-le-cancer-a-gabes/)
 - [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
-- [Consultation : LC/10-2025: AFREC](https://lapresse.tn/2025/10/21/consultation-lc-10-2025-afrec/)
-- [Association «Tourathna» : Kharjet El Alam célèbre le patriotisme et l’histoire tunisienne](https://lapresse.tn/2025/10/20/association-tourathna-kharjet-el-alam-celebre-le-patriotisme-et-lhistoire-tunisienne/)
 - [Une hausse de 2,5% des exportations du secteur industriel à fin septembre 2025](https://lapresse.tn/2025/10/20/une-hausse-de-25-des-exportations-du-secteur-industriel-a-fin-septembre-2025/)
-- [Météo : Températures nocturnes entre 15 et 20 degrés](https://lapresse.tn/2025/10/20/meteo-temperatures-nocturnes-entre-15-et-20-degres/)
-- [Tunisie – Japon : 22 millions de dinars investis pour moderniser la station d’épuration de Medjez el-Bab](https://lapresse.tn/2025/10/20/tunisie-japon-22-millions-de-dinars-investis-pour-moderniser-la-station-depuration-de-medjez-el-bab/)
+- [Nabeul : La production d’huile d’olive estimée à plus de 90 mille tonnes](https://lapresse.tn/2025/10/21/nabeul-la-production-dhuile-dolive-estimee-a-plus-de-90-mille-tonnes/)
+- [Association «Tourathna» : Kharjet El Alam célèbre le patriotisme et l’histoire tunisienne](https://lapresse.tn/2025/10/20/association-tourathna-kharjet-el-alam-celebre-le-patriotisme-et-lhistoire-tunisienne/)
 - [Gafsa s’éveille : Cap sur un nouveau souffle touristique](https://lapresse.tn/2025/10/20/gafsa-seveille-cap-sur-un-nouveau-souffle-touristique/)
 - [Clin d’œil : Vie privée exposée en public !](https://lapresse.tn/2025/10/20/clin-doeil-vie-privee-exposee-en-public/)
-- [Pourquoi : Encore des efforts…](https://lapresse.tn/2025/10/20/pourquoi-encore-des-efforts/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
-- [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 - [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
-- [Azerbaijan: ICJ joins call to address deepening crisis of judicial independence](https://www.icj.org/azerbaijan-icj-joins-call-to-address-deepening-crisis-of-judicial-independence/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
+- [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
+- [Santé, éducation, lutte contre la corruption : après les manifestations de la GenZ, le Maroc à l’heure des annonces](https://www.jeuneafrique.com/1732477/politique/sante-education-lutte-contre-la-corruption-apres-les-manifestations-de-la-genz-le-maroc-a-lheure-des-annonces/)
 - [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
+- [Madagascar : Herintsalama Rajaonarivelo nommé Premier ministre](https://www.jeuneafrique.com/1732734/politique/madagascar-herintsalama-rajaonarivelo-nomme-premier-ministre/)
 - [De retour à Madagascar, Hery Rajaonarimampianina cherche à se faire une place au sommet](https://www.jeuneafrique.com/1732434/politique/de-retour-a-madagascar-hery-rajaonarimampianina-cherche-a-se-faire-une-place-au-sommet/)
 - [Algérie : l’ex-chef de la DGSI, Nacer El Djinn, arrêté et incarcéré à Blida](https://www.jeuneafrique.com/1732407/politique/algerie-lex-chef-de-la-dgsi-nacer-el-djinn-arrete-et-incarcere-a-blida/)
 - [RDC : les discrètes tractations d’Aimé Boji, grand favori pour présider l’Assemblée nationale](https://www.jeuneafrique.com/1732373/politique/rdc-les-discretes-tractations-daime-boji-grand-favori-pour-presider-lassemblee-nationale/)
-- [Hannibal Kadhafi, le turbulent fils du guide libyen, est sorti de prison](https://www.jeuneafrique.com/1732340/politique/hannibal-kadhafi-le-turbulent-fils-du-guide-libyen-est-sorti-de-prison/)
-- [Algérie-France : le ministre français de l’Intérieur veut reprendre le dialogue et estime que l’accord de 1968 « fonctionne »](https://www.jeuneafrique.com/1732355/politique/algerie-france-le-ministre-francais-de-linterieur-veut-reprendre-le-dialogue-et-estime-que-laccord-de-1968-fonctionne/)
-- [Paul Kagame et l’exception rwandaise – par François Soudan](https://www.jeuneafrique.com/1728189/politique/paul-kagame-et-lexception-rwandaise-par-francois-soudan/)
-- [Carnets d’exil : Abidjan et Dakar, terres d’asile pour opposants en danger](https://www.jeuneafrique.com/1727372/politique/carnets-dexil-abidjan-et-dakar-terres-dasile-pour-opposants-en-danger/)
 - [Après la chute d’Amara, quel avenir pour Madar face à Cevital ?](https://www.jeuneafrique.com/1732544/economie-entreprises/apres-la-chute-damara-quel-avenir-pour-madar-face-a-cevital/)
 - [Pourquoi le marché camerounais du ciment risque la surchauffe](https://www.jeuneafrique.com/1732135/economie-entreprises/pourquoi-le-marche-camerounais-du-ciment-risque-la-surchauffe/)
 
