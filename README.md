@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 12:19*
+*Generato: 21 Oct 2025, 13:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,6 +83,7 @@
 ## UE – EP – Press Room
 
 - [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
+- [Press conference: simpler sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-simpler-sustainability-reporting-and-due-diligence-rules)
 - [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
@@ -91,7 +92,6 @@
 - [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
 - [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30962/press-briefing-on-next-week-s-plenary-session)
-- [Imports of Russian gas and oil to the EU: MEPs back ban](https://www.europarl.europa.eu/news/en/press-room/20251013IPR30895/imports-of-russian-gas-and-oil-to-the-eu-meps-back-ban)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [« GET Entrepreneurial 3.0 » : L’audace d’innover pour une Tunisie durable](https://lapresse.tn/2025/10/21/get-entrepreneurial-3-0-laudace-dinnover-pour-une-tunisie-durable/)
-- [Vient de paraître : Une fille de Kairouan de Hafida Ben Rejeb Latta](https://lapresse.tn/2025/10/21/vient-de-paraitre-une-fille-de-kairouan-de-hafida-ben-rejeb-latta/)
-- [Clôture du projet Ajyal Égalité à Tunis : trois ans d’actions pour l’égalité des genres au Maghreb](https://lapresse.tn/2025/10/21/cloture-du-projet-ajyal-egalite-a-tunis-trois-ans-dactions-pour-legalite-des-genres-au-maghreb/)
+- [Ligue 1- mise a jour de LA 10ème journée – CA – USM (15h00 – Rades) – CA : Un saut de qualité ?](https://lapresse.tn/2025/10/21/ligue-1-mise-a-jour-de-la-10eme-journee-ca-usm-15h00-rades-ca-un-saut-de-qualite/)
+- [Ligue 1 – mise a jour de LA 10ème journée – CA – USM (15h00 – Rades) – USM : Repartir malgré tout](https://lapresse.tn/2025/10/21/ligue-1-mise-a-jour-de-la-10eme-journee-ca-usm-15h00-rades-usm-repartir-malgre-tout/)
+- [Tunisie : Une saison prometteuse pour les agrumes à Nabeul](https://lapresse.tn/2025/10/21/tunisie-une-saison-prometteuse-pour-les-agrumes-a-nabeul/)
 - [Élu Vice-Président de la Fédération mondiale de neurologie, le Dr. Riadh Gouider dévoile ses priorités](https://lapresse.tn/2025/10/21/elu-vice-president-de-la-federation-mondiale-de-neurologie-le-dr-riadh-gouider-devoile-ses-priorites/)
 - [Le ministère de la Santé annonce la création d’un centre de lutte contre le cancer à Gabès](https://lapresse.tn/2025/10/21/le-ministere-de-la-sante-annonce-la-creation-dun-centre-de-lutte-contre-le-cancer-a-gabes/)
 - [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
-- [Maladies transmises par les insectes : le ministère de l’Agriculture présente une série de recommandations](https://lapresse.tn/2025/10/21/maladies-transmises-par-les-insectes-le-ministere-de-lagriculture-presente-une-serie-de-recommandations/)
-- [Baccalauréat : demain, ouverture des inscriptions](https://lapresse.tn/2025/10/21/baccalaureat-demain-ouverture-des-inscriptions/)
-- [Nabeul : La production d’huile d’olive estimée à plus de 90 mille tonnes](https://lapresse.tn/2025/10/21/nabeul-la-production-dhuile-dolive-estimee-a-plus-de-90-mille-tonnes/)
+- [Les diplômés au chômage de longue durée revendiquent leur recrutement dans la fonction publique et le secteur public en 2026](https://lapresse.tn/2025/10/21/les-diplomes-au-chomage-de-longue-duree-revendiquent-leur-recrutement-dans-la-fonction-publique-et-le-secteur-public-en-2026/)
+- [Kasserine : Opération biologique contre la cochenille du figuier de barbarie](https://lapresse.tn/2025/10/21/kasserine-operation-biologique-contre-la-cochenille-du-figuier-de-barbarie/)
+- [Clôture du projet Ajyal Égalité à Tunis : trois ans d’actions pour l’égalité des genres au Maghreb](https://lapresse.tn/2025/10/21/cloture-du-projet-ajyal-egalite-a-tunis-trois-ans-dactions-pour-legalite-des-genres-au-maghreb/)
 
 ## NGOs – Amnesty International – Tunisia
 
