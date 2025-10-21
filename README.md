@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 13:27*
+*Generato: 21 Oct 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Ligue 1- mise a jour de LA 10ème journée – CA – USM (15h00 – Rades) – CA : Un saut de qualité ?](https://lapresse.tn/2025/10/21/ligue-1-mise-a-jour-de-la-10eme-journee-ca-usm-15h00-rades-ca-un-saut-de-qualite/)
-- [Ligue 1 – mise a jour de LA 10ème journée – CA – USM (15h00 – Rades) – USM : Repartir malgré tout](https://lapresse.tn/2025/10/21/ligue-1-mise-a-jour-de-la-10eme-journee-ca-usm-15h00-rades-usm-repartir-malgre-tout/)
-- [Tunisie : Une saison prometteuse pour les agrumes à Nabeul](https://lapresse.tn/2025/10/21/tunisie-une-saison-prometteuse-pour-les-agrumes-a-nabeul/)
+- [Une brigade blindée de l’occupation sioniste derrière le meurtre de la petite fille gazaouie « Hind Rjab »](https://lapresse.tn/2025/10/21/une-brigade-blindee-de-loccupation-sioniste-derriere-le-meurtre-de-la-petite-fille-gazaouie-hind-rjab-2/)
+- [Siliana : Appel d’offres en préparation pour la réédification du village d’enfants SOS](https://lapresse.tn/2025/10/21/siliana-appel-doffres-en-preparation-pour-la-reedification-du-village-denfants-sos-2/)
+- [Hannibal Mejri a-t-il eu un geste déplacé à l’encontre d’un spectateur?](https://lapresse.tn/2025/10/21/hannibal-mejri-a-t-il-eu-un-geste-deplace-a-lencontre-dun-spectateur/)
+- [Syndicat des Forces de Sécurité Intérieure : plusieurs membres de l’ancien bureau exécutif incarcérés](https://lapresse.tn/2025/10/21/syndicat-des-forces-de-securite-interieure-plusieurs-membres-de-lancien-bureau-executif-incarceres/)
 - [Élu Vice-Président de la Fédération mondiale de neurologie, le Dr. Riadh Gouider dévoile ses priorités](https://lapresse.tn/2025/10/21/elu-vice-president-de-la-federation-mondiale-de-neurologie-le-dr-riadh-gouider-devoile-ses-priorites/)
 - [Le ministère de la Santé annonce la création d’un centre de lutte contre le cancer à Gabès](https://lapresse.tn/2025/10/21/le-ministere-de-la-sante-annonce-la-creation-dun-centre-de-lutte-contre-le-cancer-a-gabes/)
-- [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
+- [Ben Arous : Lancement de consultations de chirurgie orthopédique dans les centres de santé de la région](https://lapresse.tn/2025/10/21/ben-arous-lancement-de-consultations-de-chirurgie-orthopedique-dans-les-centres-de-sante-de-la-region/)
+- [Tunisie : Une saison prometteuse pour les agrumes à Nabeul](https://lapresse.tn/2025/10/21/tunisie-une-saison-prometteuse-pour-les-agrumes-a-nabeul/)
 - [Les diplômés au chômage de longue durée revendiquent leur recrutement dans la fonction publique et le secteur public en 2026](https://lapresse.tn/2025/10/21/les-diplomes-au-chomage-de-longue-duree-revendiquent-leur-recrutement-dans-la-fonction-publique-et-le-secteur-public-en-2026/)
-- [Kasserine : Opération biologique contre la cochenille du figuier de barbarie](https://lapresse.tn/2025/10/21/kasserine-operation-biologique-contre-la-cochenille-du-figuier-de-barbarie/)
-- [Clôture du projet Ajyal Égalité à Tunis : trois ans d’actions pour l’égalité des genres au Maghreb](https://lapresse.tn/2025/10/21/cloture-du-projet-ajyal-egalite-a-tunis-trois-ans-dactions-pour-legalite-des-genres-au-maghreb/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
 - [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
 - [Présidentielle en Guinée : « Les poids lourds de l’opposition peuvent se reposer », selon Ousmane Gaoual Diallo](https://www.jeuneafrique.com/1732370/politique/presidentielle-en-guinee-les-poids-lourds-de-lopposition-peuvent-se-reposer-selon-ousmane-gaoual-diallo/)
@@ -271,12 +272,12 @@
 - [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
 - [Madagascar : Herintsalama Rajaonarivelo nommé Premier ministre](https://www.jeuneafrique.com/1732734/politique/madagascar-herintsalama-rajaonarivelo-nomme-premier-ministre/)
 - [Mauritanie-Mali : entre Ghazouani et Goïta, une crise sans fin ?](https://www.jeuneafrique.com/1731572/politique/mauritanie-mali-entre-ghazouani-et-goita-une-crise-sans-fin/)
-- [De retour à Madagascar, Hery Rajaonarimampianina cherche à se faire une place au sommet](https://www.jeuneafrique.com/1732434/politique/de-retour-a-madagascar-hery-rajaonarimampianina-cherche-a-se-faire-une-place-au-sommet/)
+- [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
 - [Après la chute d’Amara, quel avenir pour Madar face à Cevital ?](https://www.jeuneafrique.com/1732544/economie-entreprises/apres-la-chute-damara-quel-avenir-pour-madar-face-a-cevital/)
-- [Air Côte d’Ivoire a-t-elle les moyens de ses grandes ambitions internationales ?](https://www.jeuneafrique.com/1731857/economie-entreprises/air-cote-divoire-a-t-elle-les-moyens-de-ses-grandes-ambitions-internationales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
 - [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
 - [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
 - [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
@@ -286,4 +287,3 @@
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
 - [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
-- [Il corpo dell'America](https://www.limesonline.com/rubriche/mappe-parlanti/4-il-corpo-dell-america-19544472/)
