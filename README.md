@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Oct 2025, 21:04*
+*Generato: 21 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Moins de paperasse, plus d’investissement](https://lapresse.tn/2025/10/20/moins-de-paperasse-plus-dinvestissement/)
-- [Point de vue : L’art de parler…](https://lapresse.tn/2025/10/20/point-de-vue-lart-de-parler-2/)
+- [Météo : un mardi ensoleillé !](https://lapresse.tn/2025/10/21/meteo-un-mardi-ensoleille-2/)
+- [Consultation : LC/10-2025: AFREC](https://lapresse.tn/2025/10/21/consultation-lc-10-2025-afrec/)
+- [Association «Tourathna» : Kharjet El Alam célèbre le patriotisme et l’histoire tunisienne](https://lapresse.tn/2025/10/20/association-tourathna-kharjet-el-alam-celebre-le-patriotisme-et-lhistoire-tunisienne/)
 - [Une hausse de 2,5% des exportations du secteur industriel à fin septembre 2025](https://lapresse.tn/2025/10/20/une-hausse-de-25-des-exportations-du-secteur-industriel-a-fin-septembre-2025/)
-- [BNA Assurances : le chiffre d’affaires en hausse de 9,8% à fin septembre 2025](https://lapresse.tn/2025/10/20/bna-assurances-le-chiffre-daffaires-en-hausse-de-98-a-fin-septembre-2025/)
 - [Météo : Températures nocturnes entre 15 et 20 degrés](https://lapresse.tn/2025/10/20/meteo-temperatures-nocturnes-entre-15-et-20-degres/)
 - [Tunisie – Japon : 22 millions de dinars investis pour moderniser la station d’épuration de Medjez el-Bab](https://lapresse.tn/2025/10/20/tunisie-japon-22-millions-de-dinars-investis-pour-moderniser-la-station-depuration-de-medjez-el-bab/)
-- [“Le président de la République suit de près la crise à Gabès”, affirme Bouderbala](https://lapresse.tn/2025/10/20/le-president-de-la-republique-suit-de-pres-la-crise-a-gabes-affirme-bouderbala/)
 - [Gafsa s’éveille : Cap sur un nouveau souffle touristique](https://lapresse.tn/2025/10/20/gafsa-seveille-cap-sur-un-nouveau-souffle-touristique/)
 - [Clin d’œil : Vie privée exposée en public !](https://lapresse.tn/2025/10/20/clin-doeil-vie-privee-exposee-en-public/)
 - [Pourquoi : Encore des efforts…](https://lapresse.tn/2025/10/20/pourquoi-encore-des-efforts/)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Guinée : entre Alpha Condé et Mamadi Doumbouya, une réconciliation impossible ?](https://www.jeuneafrique.com/1732469/politique/guinee-entre-alpha-conde-et-mamadi-doumbouya-une-reconciliation-impossible/)
+- [De retour à Madagascar, Hery Rajaonarimampianina cherche à se faire une place au sommet](https://www.jeuneafrique.com/1732434/politique/de-retour-a-madagascar-hery-rajaonarimampianina-cherche-a-se-faire-une-place-au-sommet/)
+- [Algérie : l’ex-chef de la DGSI, Nacer El Djinn, arrêté et incarcéré à Blida](https://www.jeuneafrique.com/1732407/politique/algerie-lex-chef-de-la-dgsi-nacer-el-djinn-arrete-et-incarcere-a-blida/)
+- [RDC : les discrètes tractations d’Aimé Boji, grand favori pour présider l’Assemblée nationale](https://www.jeuneafrique.com/1732373/politique/rdc-les-discretes-tractations-daime-boji-grand-favori-pour-presider-lassemblee-nationale/)
 - [Hannibal Kadhafi, le turbulent fils du guide libyen, est sorti de prison](https://www.jeuneafrique.com/1732340/politique/hannibal-kadhafi-le-turbulent-fils-du-guide-libyen-est-sorti-de-prison/)
 - [Algérie-France : le ministre français de l’Intérieur veut reprendre le dialogue et estime que l’accord de 1968 « fonctionne »](https://www.jeuneafrique.com/1732355/politique/algerie-france-le-ministre-francais-de-linterieur-veut-reprendre-le-dialogue-et-estime-que-laccord-de-1968-fonctionne/)
 - [Paul Kagame et l’exception rwandaise – par François Soudan](https://www.jeuneafrique.com/1728189/politique/paul-kagame-et-lexception-rwandaise-par-francois-soudan/)
 - [Carnets d’exil : Abidjan et Dakar, terres d’asile pour opposants en danger](https://www.jeuneafrique.com/1727372/politique/carnets-dexil-abidjan-et-dakar-terres-dasile-pour-opposants-en-danger/)
-- [Raila Odinga a été inhumé lors de funérailles d’État au Kenya](https://www.jeuneafrique.com/1732330/politique/raila-odinga-a-ete-inhume-lors-de-funerailles-detat-au-kenya/)
-- [En Ouganda, comment la galaxie Muhoozi Kainerugaba se structure](https://www.jeuneafrique.com/1728883/politique/en-ouganda-comment-la-galaxie-muhoozi-kainerugaba-se-structure/)
-- [Au Maroc, le réveil forcé d’un exécutif rattrapé par la Gen Z](https://www.jeuneafrique.com/1731831/politique/au-maroc-le-reveil-force-dun-executif-rattrape-par-la-gen-z/)
 - [Après la chute d’Amara, quel avenir pour Madar face à Cevital ?](https://www.jeuneafrique.com/1732544/economie-entreprises/apres-la-chute-damara-quel-avenir-pour-madar-face-a-cevital/)
 - [Pourquoi le marché camerounais du ciment risque la surchauffe](https://www.jeuneafrique.com/1732135/economie-entreprises/pourquoi-le-marche-camerounais-du-ciment-risque-la-surchauffe/)
 
