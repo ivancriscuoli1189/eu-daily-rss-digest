@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 18:17*
+*Generato: 22 Oct 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [Clôture et coulisses du récent sommet de la paix: les réactions insolites de certains chefs d’Etat](https://lapresse.tn/2025/10/22/cloture-et-coulisses-du-recent-sommet-de-la-paix-les-reactions-insolites-de-certains-chefs-detat/)
+- [Deux sœurs jumelles tunisiennes finalistes au concours de lecture arabe à Dubaï](https://lapresse.tn/2025/10/22/deux-soeurs-jumelles-tunisiennes-finalistes-au-concours-de-lecture-arabe-a-dubai/)
+- [Démantèlement d’un réseau international de trafic de drogue à Kairouan](https://lapresse.tn/2025/10/22/demantelement-dun-reseau-international-de-trafic-de-drogue-a-kairouan/)
+- [Coopération tuniso-libyenne : la cheffe du gouvernement reçoit le ministre libyen de l’Économie](https://lapresse.tn/2025/10/22/cooperation-tuniso-libyenne-la-cheffe-du-gouvernement-recoit-le-ministre-libyen-de-leconomie/)
 - [La mer de Gabès pourrait se régénérer en un an si le déversement de phosphogypse cessait, selon un expert](https://lapresse.tn/2025/10/22/la-mer-de-gabes-pourrait-se-regenerer-en-un-an-si-le-deversement-de-phosphogypse-cessait-selon-un-expert/)
-- [3e édition de «Les Saisons de la Création» à Tozeur et à Tunis : Plus d’ouverture](https://lapresse.tn/2025/10/22/3e-edition-de-les-saisons-de-la-creation-a-tozeur-et-a-tunis-plus-douverture/)
-- [Exposition : Valeurs et couleurs à la galerie Ain : Du réel à la métaphore](https://lapresse.tn/2025/10/22/exposition-valeurs-et-couleurs-a-la-galerie-ain-du-reel-a-la-metaphore/)
 - [Climat : Septembre 2025, un mois plus chaud que la normale avec une pluviométrie déficitaire de 40 %](https://lapresse.tn/2025/10/22/climat-septembre-2025-un-mois-plus-chaud-que-la-normale-avec-une-pluviometrie-deficitaire-de-40/)
-- [Tunisie : pluies orageuses attendues sur le nord du pays cette nuit](https://lapresse.tn/2025/10/22/tunisie-pluies-orageuses-attendues-sur-le-nord-du-pays-cette-nuit/)
-- [Tunis El Manar scelle un partenariat technologique avec une université japonaise](https://lapresse.tn/2025/10/22/tunis-el-manar-scelle-un-partenariat-technologique-avec-une-universite-japonaise/)
 - [Sidi Bouzid : Intervention médicale innovante sur la vésicule biliaire à l’hôpital universitaire](https://lapresse.tn/2025/10/22/sidi-bouzid-intervention-medicale-innovante-sur-la-vesicule-biliaire-a-lhopital-universitaire/)
 - [Omra : Les agences du menso](https://lapresse.tn/2025/10/22/omra-les-agences-du-menso/)
 - [les Indiscretions d’Elyssa](https://lapresse.tn/2025/10/22/les-indiscretions-delyssa-123/)
