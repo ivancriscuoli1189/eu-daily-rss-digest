@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 09:12*
+*Generato: 22 Oct 2025, 11:06*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
@@ -91,12 +92,11 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
-- [Italie : Une équipe médicale sauve un nouveau-né de Gaza atteint d’une tumeur rare](https://lapresse.tn/2025/10/22/italie-une-equipe-medicale-sauve-un-nouveau-ne-de-gaza-atteint-dune-tumeur-rare/)
-- [Sfax : Chihia sans voiture…](https://lapresse.tn/2025/10/22/sfax-chihia-sans-voiture/)
-- [Équateur : un séisme de magnitude 6,1 frappe la province côtière d’El Oro](https://lapresse.tn/2025/10/22/equateur-un-seisme-de-magnitude-61-frappe-la-province-cotiere-del-oro/)
+- [La Marsa : Un homme tué à coups de pierres derrière un hôpital](https://lapresse.tn/2025/10/22/la-marsa-un-homme-tue-a-coups-de-pierres-derriere-un-hopital/)
+- [BCT : Les PME et les startups exigent une intervention rapide pour le transfert des devises](https://lapresse.tn/2025/10/22/bct-les-pme-et-les-startups-exigent-une-intervention-rapide-pour-le-transfert-des-devises/)
+- [La Tunisie parmi les 25 meilleures destinations mondiales à visiter en 2026 selon Lonely Planet](https://lapresse.tn/2025/10/22/la-tunisie-parmi-les-25-meilleures-destinations-mondiales-a-visiter-en-2026-selon-lonely-planet/)
+- [Météo : temps partiellement nuageux sur la plupart des région](https://lapresse.tn/2025/10/22/meteo-temps-partiellement-nuageux-sur-la-plupart-des-region/)
 - [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
 - [Gabès : Le peuple et l’État unis face à la crise](https://lapresse.tn/2025/10/22/gabes-le-peuple-et-letat-unis-face-a-la-crise/)
-- [Huile d’olive, dattes, céréales : La Tunisie en route vers de nouveaux marchés](https://lapresse.tn/2025/10/22/huile-dolive-dattes-cereales-la-tunisie-en-route-vers-de-nouveaux-marches/)
-- [Tunisie : Les dattes de Tamaghza menacées de pourrissement faute de vente](https://lapresse.tn/2025/10/22/tunisie-les-dattes-de-tamaghza-menacees-de-pourrissement-faute-de-vente/)
-- [L’ambassade de France en Tunisie explique en vidéo le nouveau système d’entrée dans l’espace Schengen](https://lapresse.tn/2025/10/21/lambassade-de-france-en-tunisie-explique-en-video-le-nouveau-systeme-dentree-dans-lespace-schengen/)
-- [Saisie de 400 kg de cannabis à Sousse : huit personnes placées en détention provisoire](https://lapresse.tn/2025/10/21/saisie-de-400-kg-de-cannabis-a-sousse-huit-personnes-placees-en-detention-provisoire/)
+- [Aymen Ben Brahim : « La stratégie nationale de sécurité routière exige une vision claire et une réforme législative »](https://lapresse.tn/2025/10/22/aymen-ben-brahim-la-strategie-nationale-de-securite-routiere-exige-une-vision-claire-et-une-reforme-legislative/)
+- [Elevage ovin : des foyers de la langue bleue détectés](https://lapresse.tn/2025/10/22/elevage-ovin-des-foyers-de-la-langue-bleue-detectes/)
+- [Tunis : plus de dix nouveaux bus vandalisés en raison de conflits dans les transports](https://lapresse.tn/2025/10/22/tunis-plus-de-dix-nouveaux-bus-vandalises-en-raison-de-conflits-dans-les-transports/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,11 +267,11 @@
 - [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
 - [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
 - [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
+- [Présidentielle au Cameroun : derrière Biya et Tchiroma Bakary, la déroute silencieuse de Bouba Maïgari](https://www.jeuneafrique.com/1732351/politique/presidentielle-au-cameroun-derriere-biya-et-tchiroma-bakary-la-deroute-silencieuse-de-bouba-maigari/)
 - [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
-- [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
-- [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
+- [Présidentielle et législatives en Guinée-Bissau : 5 questions pour comprendre les enjeux du double scrutin](https://www.jeuneafrique.com/1732412/politique/presidentielle-et-legislatives-en-guinee-bissau-5-questions-pour-comprendre-les-enjeux-du-double-scrutin/)
 - [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
 - [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
 
