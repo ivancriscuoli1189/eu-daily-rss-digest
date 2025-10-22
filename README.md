@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 06:17*
+*Generato: 22 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
 - [Press conference: simpler sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-simpler-sustainability-reporting-and-due-diligence-rules)
 - [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
@@ -90,13 +92,11 @@
 - [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30963/press-briefing-on-this-week-s-plenary-session)
-- [New EU driving licence rules: press conference on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30980/new-eu-driving-licence-rules-press-conference-on-tuesday-at-14-00)
-- [European defence industry programme: MEPs reach deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251006IPR30743/european-defence-industry-programme-meps-reach-deal-with-council)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
+- [Italie : Une équipe médicale sauve un nouveau-né de Gaza atteint d’une tumeur rare](https://lapresse.tn/2025/10/22/italie-une-equipe-medicale-sauve-un-nouveau-ne-de-gaza-atteint-dune-tumeur-rare/)
+- [Sfax : Chihia sans voiture…](https://lapresse.tn/2025/10/22/sfax-chihia-sans-voiture/)
+- [Équateur : un séisme de magnitude 6,1 frappe la province côtière d’El Oro](https://lapresse.tn/2025/10/22/equateur-un-seisme-de-magnitude-61-frappe-la-province-cotiere-del-oro/)
+- [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
 - [Gabès : Le peuple et l’État unis face à la crise](https://lapresse.tn/2025/10/22/gabes-le-peuple-et-letat-unis-face-a-la-crise/)
 - [Huile d’olive, dattes, céréales : La Tunisie en route vers de nouveaux marchés](https://lapresse.tn/2025/10/22/huile-dolive-dattes-cereales-la-tunisie-en-route-vers-de-nouveaux-marches/)
-- [L’Espérance Sportive de Tunis lance de nouveaux abonnements pour le virage](https://lapresse.tn/2025/10/21/lesperance-sportive-de-tunis-lance-de-nouveaux-abonnements-pour-le-virage/)
-- [Gabès : Marche pacifique pour le démantèlement des unités polluantes du GCT](https://lapresse.tn/2025/10/21/gabes-marche-pacifique-pour-le-demantelement-des-unites-polluantes-du-gct/)
-- [Jeudi 23 octobre, premier jour du mois de Joumada Al-Oula 1447 de l’Hégire](https://lapresse.tn/2025/10/21/jeudi-23-octobre-premier-jour-du-mois-de-joumada-al-oula-1447-de-lhegire/)
+- [Tunisie : Les dattes de Tamaghza menacées de pourrissement faute de vente](https://lapresse.tn/2025/10/22/tunisie-les-dattes-de-tamaghza-menacees-de-pourrissement-faute-de-vente/)
 - [L’ambassade de France en Tunisie explique en vidéo le nouveau système d’entrée dans l’espace Schengen](https://lapresse.tn/2025/10/21/lambassade-de-france-en-tunisie-explique-en-video-le-nouveau-systeme-dentree-dans-lespace-schengen/)
 - [Saisie de 400 kg de cannabis à Sousse : huit personnes placées en détention provisoire](https://lapresse.tn/2025/10/21/saisie-de-400-kg-de-cannabis-a-sousse-huit-personnes-placees-en-detention-provisoire/)
-- [Milieu scolaire : Des élèves en manque de soutien psychologique et d’encadrement moral](https://lapresse.tn/2025/10/21/milieu-scolaire-des-eleves-en-manque-de-soutien-psychologique-et-dencadrement-moral/)
-- [Gafsa : Quand l’hôpital et l’école s’unissent pour le bien-être des élèves](https://lapresse.tn/2025/10/21/gafsa-quand-lhopital-et-lecole-sunissent-pour-le-bien-etre-des-eleves/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
+- [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
+- [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
 - [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
 - [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
 - [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
-- [Santé, éducation, lutte contre la corruption : après les manifestations de la GenZ, le Maroc à l’heure des annonces](https://www.jeuneafrique.com/1732477/politique/sante-education-lutte-contre-la-corruption-apres-les-manifestations-de-la-genz-le-maroc-a-lheure-des-annonces/)
-- [Présidentielle en Guinée : « Les poids lourds de l’opposition peuvent se reposer », selon Ousmane Gaoual Diallo](https://www.jeuneafrique.com/1732370/politique/presidentielle-en-guinee-les-poids-lourds-de-lopposition-peuvent-se-reposer-selon-ousmane-gaoual-diallo/)
-- [À Madagascar, l’Histoire fait un pied de nez à Andry Rajoelina](https://www.jeuneafrique.com/1732213/politique/a-madagascar-lhistoire-fait-un-pied-de-nez-a-andry-rajoelina/)
 - [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
 - [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
 
