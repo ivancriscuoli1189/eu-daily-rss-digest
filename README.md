@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Oct 2025, 21:09*
+*Generato: 22 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
+- [Gabès : Le peuple et l’État unis face à la crise](https://lapresse.tn/2025/10/22/gabes-le-peuple-et-letat-unis-face-a-la-crise/)
+- [Huile d’olive, dattes, céréales : La Tunisie en route vers de nouveaux marchés](https://lapresse.tn/2025/10/22/huile-dolive-dattes-cereales-la-tunisie-en-route-vers-de-nouveaux-marches/)
 - [L’Espérance Sportive de Tunis lance de nouveaux abonnements pour le virage](https://lapresse.tn/2025/10/21/lesperance-sportive-de-tunis-lance-de-nouveaux-abonnements-pour-le-virage/)
 - [Gabès : Marche pacifique pour le démantèlement des unités polluantes du GCT](https://lapresse.tn/2025/10/21/gabes-marche-pacifique-pour-le-demantelement-des-unites-polluantes-du-gct/)
-- [L’ambassade de France en Tunisie explique en vidéo le nouveau système d’entrée dans l’espace Schengen](https://lapresse.tn/2025/10/21/lambassade-de-france-en-tunisie-explique-en-video-le-nouveau-systeme-dentree-dans-lespace-schengen/)
 - [Jeudi 23 octobre, premier jour du mois de Joumada Al-Oula 1447 de l’Hégire](https://lapresse.tn/2025/10/21/jeudi-23-octobre-premier-jour-du-mois-de-joumada-al-oula-1447-de-lhegire/)
-- [Nafti reçoit l’ambassadeur américain à l’occasion de la fin de sa mission en Tunisie](https://lapresse.tn/2025/10/21/nafti-recoit-lambassadeur-americain-a-loccasion-de-la-fin-de-sa-mission-en-tunisie/)
-- [Examen des perspectives de la coopération économique et commerciale tuniso-libyenne](https://lapresse.tn/2025/10/21/examen-des-perspectives-de-la-cooperation-economique-et-commerciale-tuniso-libyenne/)
+- [L’ambassade de France en Tunisie explique en vidéo le nouveau système d’entrée dans l’espace Schengen](https://lapresse.tn/2025/10/21/lambassade-de-france-en-tunisie-explique-en-video-le-nouveau-systeme-dentree-dans-lespace-schengen/)
 - [Saisie de 400 kg de cannabis à Sousse : huit personnes placées en détention provisoire](https://lapresse.tn/2025/10/21/saisie-de-400-kg-de-cannabis-a-sousse-huit-personnes-placees-en-detention-provisoire/)
 - [Milieu scolaire : Des élèves en manque de soutien psychologique et d’encadrement moral](https://lapresse.tn/2025/10/21/milieu-scolaire-des-eleves-en-manque-de-soutien-psychologique-et-dencadrement-moral/)
 - [Gafsa : Quand l’hôpital et l’école s’unissent pour le bien-être des élèves](https://lapresse.tn/2025/10/21/gafsa-quand-lhopital-et-lecole-sunissent-pour-le-bien-etre-des-eleves/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [RDC : « Félix Tshisekedi ne peut pas nous dicter la marche à suivre », affirme Seth Kikuni](https://www.jeuneafrique.com/1732914/politique/rdc-felix-tshisekedi-ne-peut-pas-nous-dicter-la-marche-a-suivre-affirme-seth-kikuni/)
+- [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
 - [Côte d’Ivoire : un gendarme et un manifestant tués dans le Sud et le Centre-Ouest](https://www.jeuneafrique.com/1732766/politique/cote-divoire-un-gendarme-et-un-manifestant-tues-dans-le-sud-et-le-centre-ouest/)
 - [La Guinée équatoriale accuse la France de tentative de déstabilisation](https://www.jeuneafrique.com/1732761/politique/la-guinee-equatoriale-accuse-la-france-de-tentative-de-destabilisation/)
+- [Santé, éducation, lutte contre la corruption : après les manifestations de la GenZ, le Maroc à l’heure des annonces](https://www.jeuneafrique.com/1732477/politique/sante-education-lutte-contre-la-corruption-apres-les-manifestations-de-la-genz-le-maroc-a-lheure-des-annonces/)
 - [Présidentielle en Guinée : « Les poids lourds de l’opposition peuvent se reposer », selon Ousmane Gaoual Diallo](https://www.jeuneafrique.com/1732370/politique/presidentielle-en-guinee-les-poids-lourds-de-lopposition-peuvent-se-reposer-selon-ousmane-gaoual-diallo/)
 - [À Madagascar, l’Histoire fait un pied de nez à Andry Rajoelina](https://www.jeuneafrique.com/1732213/politique/a-madagascar-lhistoire-fait-un-pied-de-nez-a-andry-rajoelina/)
-- [Présidentielle au Cameroun : Paul Biya donné vainqueur, Issa Tchiroma Bakary conteste](https://www.jeuneafrique.com/1732456/politique/presidentielle-au-cameroun-paul-biya-donne-vainqueur-issa-tchiroma-bakary-conteste-le-decompte-officiel/)
+- [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
 - [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
-- [Coca-Cola s’éloigne encore un peu plus de l’Afrique](https://www.jeuneafrique.com/1732868/economie-entreprises/coca-cola-seloigne-encore-un-peu-plus-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
