@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 11:06*
+*Generato: 22 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,15 +83,15 @@
 ## UE – EP – Press Room
 
 - [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
+- [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
+- [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
-- [Press conference: simpler sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-simpler-sustainability-reporting-and-due-diligence-rules)
+- [Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
 - [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
-- [Opening: 20-23 October plenary session](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30946/opening-20-23-october-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30958/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
+- [Ligue 1 – Championnat national – 10e journée – ESS : Remonter la pente](https://lapresse.tn/2025/10/22/ligue-1-championnat-national-10e-journee-ess-remonter-la-pente/)
+- [Démarrage des inscriptions à distance le 27 octobre : le Ministère de l’Intérieur ouvre un concours externe.](https://lapresse.tn/2025/10/22/demarrage-des-inscriptions-a-distance-le-27-octobre-le-ministere-de-linterieur-ouvre-un-concours-externe/)
+- [Classement des universités arabes : l’Université de Tunis El Manar première au niveau national et maghrébin](https://lapresse.tn/2025/10/22/classement-des-universites-arabes-luniversite-de-tunis-el-manar-premiere-au-niveau-national-et-maghrebin/)
 - [La Marsa : Un homme tué à coups de pierres derrière un hôpital](https://lapresse.tn/2025/10/22/la-marsa-un-homme-tue-a-coups-de-pierres-derriere-un-hopital/)
-- [BCT : Les PME et les startups exigent une intervention rapide pour le transfert des devises](https://lapresse.tn/2025/10/22/bct-les-pme-et-les-startups-exigent-une-intervention-rapide-pour-le-transfert-des-devises/)
-- [La Tunisie parmi les 25 meilleures destinations mondiales à visiter en 2026 selon Lonely Planet](https://lapresse.tn/2025/10/22/la-tunisie-parmi-les-25-meilleures-destinations-mondiales-a-visiter-en-2026-selon-lonely-planet/)
 - [Météo : temps partiellement nuageux sur la plupart des région](https://lapresse.tn/2025/10/22/meteo-temps-partiellement-nuageux-sur-la-plupart-des-region/)
 - [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
-- [Gabès : Le peuple et l’État unis face à la crise](https://lapresse.tn/2025/10/22/gabes-le-peuple-et-letat-unis-face-a-la-crise/)
+- [Divorce par consentement mutuel : ce qui va changer dans le projet de loi sur les notaires](https://lapresse.tn/2025/10/22/divorce-par-consentement-mutuel-ce-qui-va-changer-dans-le-projet-de-loi-sur-les-notaires/)
+- [Saisie de viande de volaille dans un abattoir clandestin à Gafsa](https://lapresse.tn/2025/10/22/saisie-de-viande-de-volaille-dans-un-abattoir-clandestin-a-gafsa/)
 - [Aymen Ben Brahim : « La stratégie nationale de sécurité routière exige une vision claire et une réforme législative »](https://lapresse.tn/2025/10/22/aymen-ben-brahim-la-strategie-nationale-de-securite-routiere-exige-une-vision-claire-et-une-reforme-legislative/)
-- [Elevage ovin : des foyers de la langue bleue détectés](https://lapresse.tn/2025/10/22/elevage-ovin-des-foyers-de-la-langue-bleue-detectes/)
-- [Tunis : plus de dix nouveaux bus vandalisés en raison de conflits dans les transports](https://lapresse.tn/2025/10/22/tunis-plus-de-dix-nouveaux-bus-vandalises-en-raison-de-conflits-dans-les-transports/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
-- [UN Human Rights Council: Progress achieved in addressing impunity in Afghanistan and Sri Lanka, while capacity pressures mount](https://www.icj.org/un-human-rights-council-progress-achieved-in-addressing-impunity-in-afghanistan-and-sri-lanka-while-capacity-pressures-mount/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 - [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
-- [Morocco: End Crackdown on Protests](https://www.icj.org/morocco-end-crackdown-on-protest/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -272,8 +272,8 @@
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
 - [Présidentielle et législatives en Guinée-Bissau : 5 questions pour comprendre les enjeux du double scrutin](https://www.jeuneafrique.com/1732412/politique/presidentielle-et-legislatives-en-guinee-bissau-5-questions-pour-comprendre-les-enjeux-du-double-scrutin/)
+- [Maroc : pourquoi l’horizon d’une fusion entre Sanlam et Allianz se rapproche](https://www.jeuneafrique.com/1732698/economie-entreprises/maroc-pourquoi-lhorizon-dune-fusion-entre-sanlam-et-allianz-se-rapproche/)
 - [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
-- [Guinée : le journal satirique « Le Lynx » paraîtra malgré les cambriolages qui le visent](https://www.jeuneafrique.com/1732853/economie-entreprises/guinee-le-journal-satirique-le-lynx-paraitra-malgre-les-cambriolages-qui-le-visent/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
