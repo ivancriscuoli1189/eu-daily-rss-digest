@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 12:18*
+*Generato: 22 Oct 2025, 13:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,21 +82,21 @@
 
 ## UE – EP – Press Room
 
+- [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
 - [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
+- [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
+- [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
 - [Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-on-sustainability-reporting-and-due-diligence-rules)
-- [Parliament adopts its calendar for 2027](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30948/parliament-adopts-its-calendar-for-2027)
-- [Modernising EU driving rules to increase road safety](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30947/modernising-eu-driving-rules-to-increase-road-safety)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30959/ep-today-tuesday-21-october)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
-- [Ligue 1 – Championnat national – 10e journée – ESS : Remonter la pente](https://lapresse.tn/2025/10/22/ligue-1-championnat-national-10e-journee-ess-remonter-la-pente/)
-- [Démarrage des inscriptions à distance le 27 octobre : le Ministère de l’Intérieur ouvre un concours externe.](https://lapresse.tn/2025/10/22/demarrage-des-inscriptions-a-distance-le-27-octobre-le-ministere-de-linterieur-ouvre-un-concours-externe/)
-- [Classement des universités arabes : l’Université de Tunis El Manar première au niveau national et maghrébin](https://lapresse.tn/2025/10/22/classement-des-universites-arabes-luniversite-de-tunis-el-manar-premiere-au-niveau-national-et-maghrebin/)
+- [La Tunisie première productrice d’huile d’olive biologique à l’échelle mondiale](https://lapresse.tn/2025/10/22/la-tunisie-premiere-productrice-dhuile-dolive-biologique-a-lechelle-mondiale/)
+- [Ligue 1 – Championnat national – 10e journée – EST : Seuls les trois points comptent…](https://lapresse.tn/2025/10/22/ligue-1-championnat-national-10e-journee-est-seuls-les-trois-points-comptent/)
+- [France : Réouverture du musée du Louvre à Paris après le vol d’un butin d’une valeur de plus de 80 millions d’euros](https://lapresse.tn/2025/10/22/france-reouverture-du-musee-du-louvre-a-paris-apres-le-vol-dun-butin-dune-valeur-de-plus-de-80-millions-deuros/)
 - [La Marsa : Un homme tué à coups de pierres derrière un hôpital](https://lapresse.tn/2025/10/22/la-marsa-un-homme-tue-a-coups-de-pierres-derriere-un-hopital/)
 - [Météo : temps partiellement nuageux sur la plupart des région](https://lapresse.tn/2025/10/22/meteo-temps-partiellement-nuageux-sur-la-plupart-des-region/)
 - [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
+- [Classement des universités arabes : l’Université de Tunis El Manar première au niveau national et maghrébin](https://lapresse.tn/2025/10/22/classement-des-universites-arabes-luniversite-de-tunis-el-manar-premiere-au-niveau-national-et-maghrebin/)
 - [Divorce par consentement mutuel : ce qui va changer dans le projet de loi sur les notaires](https://lapresse.tn/2025/10/22/divorce-par-consentement-mutuel-ce-qui-va-changer-dans-le-projet-de-loi-sur-les-notaires/)
 - [Saisie de viande de volaille dans un abattoir clandestin à Gafsa](https://lapresse.tn/2025/10/22/saisie-de-viande-de-volaille-dans-un-abattoir-clandestin-a-gafsa/)
-- [Aymen Ben Brahim : « La stratégie nationale de sécurité routière exige une vision claire et une réforme législative »](https://lapresse.tn/2025/10/22/aymen-ben-brahim-la-strategie-nationale-de-securite-routiere-exige-une-vision-claire-et-une-reforme-legislative/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
 - [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
 - [Présidentielle au Cameroun : derrière Biya et Tchiroma Bakary, la déroute silencieuse de Bouba Maïgari](https://www.jeuneafrique.com/1732351/politique/presidentielle-au-cameroun-derriere-biya-et-tchiroma-bakary-la-deroute-silencieuse-de-bouba-maigari/)
+- [RDC : « Félix Tshisekedi ne peut pas nous dicter la marche à suivre », affirme Seth Kikuni](https://www.jeuneafrique.com/1732914/politique/rdc-felix-tshisekedi-ne-peut-pas-nous-dicter-la-marche-a-suivre-affirme-seth-kikuni/)
 - [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
-- [Présidentielle et législatives en Guinée-Bissau : 5 questions pour comprendre les enjeux du double scrutin](https://www.jeuneafrique.com/1732412/politique/presidentielle-et-legislatives-en-guinee-bissau-5-questions-pour-comprendre-les-enjeux-du-double-scrutin/)
 - [Maroc : pourquoi l’horizon d’une fusion entre Sanlam et Allianz se rapproche](https://www.jeuneafrique.com/1732698/economie-entreprises/maroc-pourquoi-lhorizon-dune-fusion-entre-sanlam-et-allianz-se-rapproche/)
 - [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
 
