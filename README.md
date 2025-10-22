@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 13:29*
+*Generato: 22 Oct 2025, 15:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
-- [La Tunisie première productrice d’huile d’olive biologique à l’échelle mondiale](https://lapresse.tn/2025/10/22/la-tunisie-premiere-productrice-dhuile-dolive-biologique-a-lechelle-mondiale/)
-- [Ligue 1 – Championnat national – 10e journée – EST : Seuls les trois points comptent…](https://lapresse.tn/2025/10/22/ligue-1-championnat-national-10e-journee-est-seuls-les-trois-points-comptent/)
-- [France : Réouverture du musée du Louvre à Paris après le vol d’un butin d’une valeur de plus de 80 millions d’euros](https://lapresse.tn/2025/10/22/france-reouverture-du-musee-du-louvre-a-paris-apres-le-vol-dun-butin-dune-valeur-de-plus-de-80-millions-deuros/)
+- [Grèce : un séisme de magnitude 4,5 frappe l’est de l’île de Rhodes](https://lapresse.tn/2025/10/22/grece-un-seisme-de-magnitude-45-frappe-lest-de-lile-de-rhodes/)
+- [Tunisie : lancement imminent du chantier de reconstruction de la Maison de Culture Dar Chaâbane El Fehri](https://lapresse.tn/2025/10/22/tunisie-lancement-imminent-du-chantier-de-reconstruction-de-la-maison-de-culture-dar-chaabane-el-fehri/)
+- [40 morts dans le naufrage d’un bateau de migrants à Mahdia](https://lapresse.tn/2025/10/22/40-morts-dans-le-naufrage-dun-bateau-de-migrants-a-mahdia/)
 - [La Marsa : Un homme tué à coups de pierres derrière un hôpital](https://lapresse.tn/2025/10/22/la-marsa-un-homme-tue-a-coups-de-pierres-derriere-un-hopital/)
 - [Météo : temps partiellement nuageux sur la plupart des région](https://lapresse.tn/2025/10/22/meteo-temps-partiellement-nuageux-sur-la-plupart-des-region/)
 - [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
 - [Classement des universités arabes : l’Université de Tunis El Manar première au niveau national et maghrébin](https://lapresse.tn/2025/10/22/classement-des-universites-arabes-luniversite-de-tunis-el-manar-premiere-au-niveau-national-et-maghrebin/)
 - [Divorce par consentement mutuel : ce qui va changer dans le projet de loi sur les notaires](https://lapresse.tn/2025/10/22/divorce-par-consentement-mutuel-ce-qui-va-changer-dans-le-projet-de-loi-sur-les-notaires/)
-- [Saisie de viande de volaille dans un abattoir clandestin à Gafsa](https://lapresse.tn/2025/10/22/saisie-de-viande-de-volaille-dans-un-abattoir-clandestin-a-gafsa/)
+- [Tunisie–Italie : la SITEP prévoit dix nouveaux puits à El-Borma d’ici 2030](https://lapresse.tn/2025/10/22/tunisie-italie-la-sitep-prevoit-dix-nouveaux-puits-a-el-borma-dici-2030/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,12 +268,12 @@
 - [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
 - [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
 - [Présidentielle au Cameroun : derrière Biya et Tchiroma Bakary, la déroute silencieuse de Bouba Maïgari](https://www.jeuneafrique.com/1732351/politique/presidentielle-au-cameroun-derriere-biya-et-tchiroma-bakary-la-deroute-silencieuse-de-bouba-maigari/)
+- [Exclusif – Présidentielle au Cameroun : Paul Biya a proposé à Issa Tchiroma Bakary le poste de Premier ministre](https://www.jeuneafrique.com/1733090/politique/exclusif-presidentielle-au-cameroun-paul-biya-a-propose-a-issa-tchiroma-bakary-le-poste-de-premier-ministre/)
 - [RDC : « Félix Tshisekedi ne peut pas nous dicter la marche à suivre », affirme Seth Kikuni](https://www.jeuneafrique.com/1732914/politique/rdc-felix-tshisekedi-ne-peut-pas-nous-dicter-la-marche-a-suivre-affirme-seth-kikuni/)
 - [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
 - [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
-- [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, la bataille de la légalité et de la légitimité](https://www.jeuneafrique.com/1732802/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-la-bataille-de-la-legalite-et-de-la-legitimite/)
+- [Bugesera, RwandAir… Pourquoi Kigali fait le pari de l’aérien](https://www.jeuneafrique.com/1729089/economie-entreprises/bugesera-rwandair-pourquoi-kigali-fait-le-pari-de-laerien/)
 - [Maroc : pourquoi l’horizon d’une fusion entre Sanlam et Allianz se rapproche](https://www.jeuneafrique.com/1732698/economie-entreprises/maroc-pourquoi-lhorizon-dune-fusion-entre-sanlam-et-allianz-se-rapproche/)
-- [Chine – États-Unis : la méthode du FMI pour que l’Afrique résiste à la guerre commerciale](https://www.jeuneafrique.com/1732810/economie-entreprises/chine-etats-unis-la-methode-du-fmi-pour-que-lafrique-resiste-a-la-guerre-commerciale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
