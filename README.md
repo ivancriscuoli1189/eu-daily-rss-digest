@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 15:04*
+*Generato: 22 Oct 2025, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Souveraineté économique](https://lapresse.tn/2025/10/21/souverainete-economique/)
-- [Grèce : un séisme de magnitude 4,5 frappe l’est de l’île de Rhodes](https://lapresse.tn/2025/10/22/grece-un-seisme-de-magnitude-45-frappe-lest-de-lile-de-rhodes/)
-- [Tunisie : lancement imminent du chantier de reconstruction de la Maison de Culture Dar Chaâbane El Fehri](https://lapresse.tn/2025/10/22/tunisie-lancement-imminent-du-chantier-de-reconstruction-de-la-maison-de-culture-dar-chaabane-el-fehri/)
-- [40 morts dans le naufrage d’un bateau de migrants à Mahdia](https://lapresse.tn/2025/10/22/40-morts-dans-le-naufrage-dun-bateau-de-migrants-a-mahdia/)
-- [La Marsa : Un homme tué à coups de pierres derrière un hôpital](https://lapresse.tn/2025/10/22/la-marsa-un-homme-tue-a-coups-de-pierres-derriere-un-hopital/)
-- [Météo : temps partiellement nuageux sur la plupart des région](https://lapresse.tn/2025/10/22/meteo-temps-partiellement-nuageux-sur-la-plupart-des-region/)
-- [Saïed dénonce l’exclusion d’un “pays frère” de la campagne d’exportation des dattes tunisiennes](https://lapresse.tn/2025/10/22/saied-denonce-lexclusion-dun-pays-frere-de-la-campagne-dexportation-des-dattes-tunisiennes/)
-- [Classement des universités arabes : l’Université de Tunis El Manar première au niveau national et maghrébin](https://lapresse.tn/2025/10/22/classement-des-universites-arabes-luniversite-de-tunis-el-manar-premiere-au-niveau-national-et-maghrebin/)
-- [Divorce par consentement mutuel : ce qui va changer dans le projet de loi sur les notaires](https://lapresse.tn/2025/10/22/divorce-par-consentement-mutuel-ce-qui-va-changer-dans-le-projet-de-loi-sur-les-notaires/)
-- [Tunisie–Italie : la SITEP prévoit dix nouveaux puits à El-Borma d’ici 2030](https://lapresse.tn/2025/10/22/tunisie-italie-la-sitep-prevoit-dix-nouveaux-puits-a-el-borma-dici-2030/)
+- [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [La mer de Gabès pourrait se régénérer en un an si le déversement de phosphogypse cessait, selon un expert](https://lapresse.tn/2025/10/22/la-mer-de-gabes-pourrait-se-regenerer-en-un-an-si-le-deversement-de-phosphogypse-cessait-selon-un-expert/)
+- [3e édition de «Les Saisons de la Création» à Tozeur et à Tunis : Plus d’ouverture](https://lapresse.tn/2025/10/22/3e-edition-de-les-saisons-de-la-creation-a-tozeur-et-a-tunis-plus-douverture/)
+- [Exposition : Valeurs et couleurs à la galerie Ain : Du réel à la métaphore](https://lapresse.tn/2025/10/22/exposition-valeurs-et-couleurs-a-la-galerie-ain-du-reel-a-la-metaphore/)
+- [Climat : Septembre 2025, un mois plus chaud que la normale avec une pluviométrie déficitaire de 40 %](https://lapresse.tn/2025/10/22/climat-septembre-2025-un-mois-plus-chaud-que-la-normale-avec-une-pluviometrie-deficitaire-de-40/)
+- [Tunisie : pluies orageuses attendues sur le nord du pays cette nuit](https://lapresse.tn/2025/10/22/tunisie-pluies-orageuses-attendues-sur-le-nord-du-pays-cette-nuit/)
+- [Tunis El Manar scelle un partenariat technologique avec une université japonaise](https://lapresse.tn/2025/10/22/tunis-el-manar-scelle-un-partenariat-technologique-avec-une-universite-japonaise/)
+- [Sidi Bouzid : Intervention médicale innovante sur la vésicule biliaire à l’hôpital universitaire](https://lapresse.tn/2025/10/22/sidi-bouzid-intervention-medicale-innovante-sur-la-vesicule-biliaire-a-lhopital-universitaire/)
+- [Omra : Les agences du menso](https://lapresse.tn/2025/10/22/omra-les-agences-du-menso/)
+- [les Indiscretions d’Elyssa](https://lapresse.tn/2025/10/22/les-indiscretions-delyssa-123/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
+- [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
+- [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
+- [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
+- [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
 - [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
 - [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
 - [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
-- [Présidentielle au Cameroun : derrière Biya et Tchiroma Bakary, la déroute silencieuse de Bouba Maïgari](https://www.jeuneafrique.com/1732351/politique/presidentielle-au-cameroun-derriere-biya-et-tchiroma-bakary-la-deroute-silencieuse-de-bouba-maigari/)
-- [Exclusif – Présidentielle au Cameroun : Paul Biya a proposé à Issa Tchiroma Bakary le poste de Premier ministre](https://www.jeuneafrique.com/1733090/politique/exclusif-presidentielle-au-cameroun-paul-biya-a-propose-a-issa-tchiroma-bakary-le-poste-de-premier-ministre/)
-- [RDC : « Félix Tshisekedi ne peut pas nous dicter la marche à suivre », affirme Seth Kikuni](https://www.jeuneafrique.com/1732914/politique/rdc-felix-tshisekedi-ne-peut-pas-nous-dicter-la-marche-a-suivre-affirme-seth-kikuni/)
-- [Sénégal : le patron de presse Madiambal Diagne placé sous contrôle judiciaire en France](https://www.jeuneafrique.com/1732949/politique/senegal-le-patron-de-presse-madiambal-diagne-a-ete-interpelle-en-france/)
-- [En Algérie, l’ancien Premier ministre Abdelaziz Belkhadem relance le débat sur la limitation des mandats](https://www.jeuneafrique.com/1732517/politique/en-algerie-lancien-premier-ministre-abdelaziz-belkhadem-relance-le-debat-sur-la-limitation-des-mandats/)
 - [Bugesera, RwandAir… Pourquoi Kigali fait le pari de l’aérien](https://www.jeuneafrique.com/1729089/economie-entreprises/bugesera-rwandair-pourquoi-kigali-fait-le-pari-de-laerien/)
 - [Maroc : pourquoi l’horizon d’une fusion entre Sanlam et Allianz se rapproche](https://www.jeuneafrique.com/1732698/economie-entreprises/maroc-pourquoi-lhorizon-dune-fusion-entre-sanlam-et-allianz-se-rapproche/)
 
