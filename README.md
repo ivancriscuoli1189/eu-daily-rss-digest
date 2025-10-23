@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Oct 2025, 21:03*
+*Generato: 23 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,11 +83,11 @@
 ## UE – EP – Press Room
 
 - [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
-- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 - [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
+- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 - [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [Météo : ciel nuageux et légère hausse des températures](https://lapresse.tn/2025/10/23/meteo-ciel-nuageux-et-legere-hausse-des-temperatures-2/)
 - [Clôture et coulisses du récent sommet de la paix: les réactions insolites de certains chefs d’Etat](https://lapresse.tn/2025/10/22/cloture-et-coulisses-du-recent-sommet-de-la-paix-les-reactions-insolites-de-certains-chefs-detat/)
 - [Deux sœurs jumelles tunisiennes finalistes au concours de lecture arabe à Dubaï](https://lapresse.tn/2025/10/22/deux-soeurs-jumelles-tunisiennes-finalistes-au-concours-de-lecture-arabe-a-dubai/)
-- [Démantèlement d’un réseau international de trafic de drogue à Kairouan](https://lapresse.tn/2025/10/22/demantelement-dun-reseau-international-de-trafic-de-drogue-a-kairouan/)
 - [Coopération tuniso-libyenne : la cheffe du gouvernement reçoit le ministre libyen de l’Économie](https://lapresse.tn/2025/10/22/cooperation-tuniso-libyenne-la-cheffe-du-gouvernement-recoit-le-ministre-libyen-de-leconomie/)
 - [La mer de Gabès pourrait se régénérer en un an si le déversement de phosphogypse cessait, selon un expert](https://lapresse.tn/2025/10/22/la-mer-de-gabes-pourrait-se-regenerer-en-un-an-si-le-deversement-de-phosphogypse-cessait-selon-un-expert/)
-- [Climat : Septembre 2025, un mois plus chaud que la normale avec une pluviométrie déficitaire de 40 %](https://lapresse.tn/2025/10/22/climat-septembre-2025-un-mois-plus-chaud-que-la-normale-avec-une-pluviometrie-deficitaire-de-40/)
+- [Démantèlement d’un réseau international de trafic de drogue à Kairouan](https://lapresse.tn/2025/10/22/demantelement-dun-reseau-international-de-trafic-de-drogue-a-kairouan/)
 - [Sidi Bouzid : Intervention médicale innovante sur la vésicule biliaire à l’hôpital universitaire](https://lapresse.tn/2025/10/22/sidi-bouzid-intervention-medicale-innovante-sur-la-vesicule-biliaire-a-lhopital-universitaire/)
 - [Omra : Les agences du menso](https://lapresse.tn/2025/10/22/omra-les-agences-du-menso/)
 - [les Indiscretions d’Elyssa](https://lapresse.tn/2025/10/22/les-indiscretions-delyssa-123/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
 - [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
+- [Présidentielle au Cameroun : comment Paul Biya a proposé la primature à Issa Tchiroma Bakary](https://www.jeuneafrique.com/1733206/politique/presidentielle-au-cameroun-comment-paul-biya-a-propose-la-primature-a-issa-tchiroma-bakary/)
 - [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
 - [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
 - [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
 - [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
-- [En Côte d’Ivoire, 32 manifestants condamnés à trois ans de prison ferme](https://www.jeuneafrique.com/1733155/politique/en-cote-divoire-32-manifestants-condamnes-a-trois-ans-de-prison-ferme/)
-- [En Algérie, Fethi Ghares de nouveau condamné pour outrage au président](https://www.jeuneafrique.com/1733129/politique/en-algerie-fethi-ghares-de-nouveau-condamne-pour-outrage-au-president/)
+- [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
 - [Bugesera, RwandAir… Pourquoi Kigali fait le pari de l’aérien](https://www.jeuneafrique.com/1729089/economie-entreprises/bugesera-rwandair-pourquoi-kigali-fait-le-pari-de-laerien/)
-- [Maroc : pourquoi l’horizon d’une fusion entre Sanlam et Allianz se rapproche](https://www.jeuneafrique.com/1732698/economie-entreprises/maroc-pourquoi-lhorizon-dune-fusion-entre-sanlam-et-allianz-se-rapproche/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
