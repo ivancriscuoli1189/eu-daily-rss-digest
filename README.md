@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 12:20*
+*Generato: 23 Oct 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30961/ep-today-thursday-23-october)
@@ -91,7 +92,6 @@
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 - [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
-- [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -145,19 +145,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-136_programme-de-relance-de-l-investissement-et-de-modernisation.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-36_appui-a-la-gestion-durable-des-ressources-halieutiques-et-aq.html)
-
 ## UE – Tunisie – Projects portal (Governance)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -174,12 +161,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [Tunisie : les déclarations de soupçon explosent en 2024](https://lapresse.tn/2025/10/23/tunisie-les-declarations-de-soupcon-explosent-en-2024/)
+- [Foot : le calendrier des matches amicaux de la Tunisie pour la prochaine fenêtre FIFA](https://lapresse.tn/2025/10/23/foot-le-calendrier-des-matches-amicaux-de-la-tunisie-pour-la-prochaine-fenetre-fifa/)
+- [Budget 2026 : la dette totale de l’État tunisien en chiffres](https://lapresse.tn/2025/10/23/budget-2026-la-dette-totale-de-letat-tunisien-en-chiffres/)
 - [Tunisie : Inauguration d’une nouvelle unité d’hémodialyse à Aïn Draham](https://lapresse.tn/2025/10/23/tunisie-inauguration-dune-nouvelle-unite-dhemodialyse-a-ain-draham/)
-- [Corée du Nord : un essai de missile suscite l’inquiétude à l’échelle internationale](https://lapresse.tn/2025/10/23/coree-du-nord-un-essai-de-missile-suscite-linquietude-a-lechelle-internationale/)
-- [Ligue 2 – 6e journée : L’US Tataouine sur du velours ?](https://lapresse.tn/2025/10/23/ligue-2-6e-journee-lus-tataouine-sur-du-velours/)
 - [Aéroport d’Enfidha : une tentative de contrebande d’une pièce archéologique déjouée](https://lapresse.tn/2025/10/23/aeroport-denfidha-une-tentative-de-contrebande-dune-piece-archeologique-dejouee/)
 - [Nabeul : célébration, ce samedi, de la journée nationale du paralympisme](https://lapresse.tn/2025/10/23/nabeul-celebration-ce-samedi-de-la-journee-nationale-du-paralympisme/)
-- [Ministère Intérieur : Recrutement de Techniciens Principaux](https://lapresse.tn/2025/10/23/ministere-interieur-recrutement-de-techniciens-principaux/)
 - [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
 - [Tunisie : Un navire à hydrogène français fait escale à Bizerte pour une mission écologique](https://lapresse.tn/2025/10/23/tunisie-un-navire-a-hydrogene-francais-fait-escale-a-bizerte-pour-une-mission-ecologique/)
 - [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
@@ -268,10 +255,10 @@
 - [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
 - [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
-- [Présidentielle au Cameroun : comment Paul Biya a proposé la primature à Issa Tchiroma Bakary](https://www.jeuneafrique.com/1733206/politique/presidentielle-au-cameroun-comment-paul-biya-a-propose-la-primature-a-issa-tchiroma-bakary/)
 - [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
 - [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
 - [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
+- [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
 - [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 - [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
 
