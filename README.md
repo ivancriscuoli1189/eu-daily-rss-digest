@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 11:04*
+*Generato: 23 Oct 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [Tunisie : Inauguration d’une nouvelle unité d’hémodialyse à Aïn Draham](https://lapresse.tn/2025/10/23/tunisie-inauguration-dune-nouvelle-unite-dhemodialyse-a-ain-draham/)
+- [Corée du Nord : un essai de missile suscite l’inquiétude à l’échelle internationale](https://lapresse.tn/2025/10/23/coree-du-nord-un-essai-de-missile-suscite-linquietude-a-lechelle-internationale/)
 - [Ligue 2 – 6e journée : L’US Tataouine sur du velours ?](https://lapresse.tn/2025/10/23/ligue-2-6e-journee-lus-tataouine-sur-du-velours/)
-- [45 pays et 6 000 athlètes…Bahreïn lance le plus grand événement sportif asiatique de la jeunesse de 2025](https://lapresse.tn/2025/10/23/45-pays-et-6-000-athletes-bahrein-lance-le-plus-grand-evenement-sportif-asiatique-de-la-jeunesse-de-2025/)
-- [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
+- [Aéroport d’Enfidha : une tentative de contrebande d’une pièce archéologique déjouée](https://lapresse.tn/2025/10/23/aeroport-denfidha-une-tentative-de-contrebande-dune-piece-archeologique-dejouee/)
 - [Nabeul : célébration, ce samedi, de la journée nationale du paralympisme](https://lapresse.tn/2025/10/23/nabeul-celebration-ce-samedi-de-la-journee-nationale-du-paralympisme/)
 - [Ministère Intérieur : Recrutement de Techniciens Principaux](https://lapresse.tn/2025/10/23/ministere-interieur-recrutement-de-techniciens-principaux/)
-- [Météo : ciel nuageux et légère hausse des températures](https://lapresse.tn/2025/10/23/meteo-ciel-nuageux-et-legere-hausse-des-temperatures-2/)
+- [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
 - [Tunisie : Un navire à hydrogène français fait escale à Bizerte pour une mission écologique](https://lapresse.tn/2025/10/23/tunisie-un-navire-a-hydrogene-francais-fait-escale-a-bizerte-pour-une-mission-ecologique/)
 - [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
-- [Signature d’un accord entre le ministère de la Santé et l’Amen Bank pour moderniser les hôpitaux publics](https://lapresse.tn/2025/10/23/signature-dun-accord-entre-le-ministere-de-la-sante-et-lamen-bank-pour-moderniser-les-hopitaux-publics/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,9 +212,9 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
-- [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
+- [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
@@ -272,8 +272,8 @@
 - [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
 - [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
 - [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
+- [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 - [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
-- [Bugesera, RwandAir… Pourquoi Kigali fait le pari de l’aérien](https://www.jeuneafrique.com/1729089/economie-entreprises/bugesera-rwandair-pourquoi-kigali-fait-le-pari-de-laerien/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
