@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 06:17*
+*Generato: 23 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30961/ep-today-thursday-23-october)
 - [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
 - [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
@@ -90,8 +92,6 @@
 - [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
-- [Investigation into Russian shadow fleet wins the 2025 Daphne Caruana Galizia Prize for Journalism](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31017/russian-shadow-fleet-investigation-wins-daphne-caruana-galizia-journalism-prize)
-- [Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251017IPR31006/press-conference-on-sustainability-reporting-and-due-diligence-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
+- [Ligue 1 – mise a jour de la 10e journée – ESZ-EST (0-0) : Attaques stériles…](https://lapresse.tn/2025/10/23/ligue-1-mise-a-jour-de-la-10e-journee-esz-est-0-0-attaques-steriles/)
+- [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
+- [Ligue 1 – mise a jour de la 10e journée – CAB-ST (0-2) : Le Stade tout en maîtrise](https://lapresse.tn/2025/10/23/ligue-1-mise-a-jour-de-la-10e-journee-cab-st-0-2-le-stade-tout-en-maitrise/)
 - [Météo : ciel nuageux et légère hausse des températures](https://lapresse.tn/2025/10/23/meteo-ciel-nuageux-et-legere-hausse-des-temperatures-2/)
-- [Clôture et coulisses du récent sommet de la paix: les réactions insolites de certains chefs d’Etat](https://lapresse.tn/2025/10/22/cloture-et-coulisses-du-recent-sommet-de-la-paix-les-reactions-insolites-de-certains-chefs-detat/)
 - [Deux sœurs jumelles tunisiennes finalistes au concours de lecture arabe à Dubaï](https://lapresse.tn/2025/10/22/deux-soeurs-jumelles-tunisiennes-finalistes-au-concours-de-lecture-arabe-a-dubai/)
 - [Coopération tuniso-libyenne : la cheffe du gouvernement reçoit le ministre libyen de l’Économie](https://lapresse.tn/2025/10/22/cooperation-tuniso-libyenne-la-cheffe-du-gouvernement-recoit-le-ministre-libyen-de-leconomie/)
-- [La mer de Gabès pourrait se régénérer en un an si le déversement de phosphogypse cessait, selon un expert](https://lapresse.tn/2025/10/22/la-mer-de-gabes-pourrait-se-regenerer-en-un-an-si-le-deversement-de-phosphogypse-cessait-selon-un-expert/)
+- [Signature d’un accord entre le ministère de la Santé et l’Amen Bank pour moderniser les hôpitaux publics](https://lapresse.tn/2025/10/23/signature-dun-accord-entre-le-ministere-de-la-sante-et-lamen-bank-pour-moderniser-les-hopitaux-publics/)
 - [Démantèlement d’un réseau international de trafic de drogue à Kairouan](https://lapresse.tn/2025/10/22/demantelement-dun-reseau-international-de-trafic-de-drogue-a-kairouan/)
 - [Sidi Bouzid : Intervention médicale innovante sur la vésicule biliaire à l’hôpital universitaire](https://lapresse.tn/2025/10/22/sidi-bouzid-intervention-medicale-innovante-sur-la-vesicule-biliaire-a-lhopital-universitaire/)
-- [Omra : Les agences du menso](https://lapresse.tn/2025/10/22/omra-les-agences-du-menso/)
-- [les Indiscretions d’Elyssa](https://lapresse.tn/2025/10/22/les-indiscretions-delyssa-123/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
 - [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
 - [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
@@ -271,7 +272,6 @@
 - [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
 - [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
 - [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
-- [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
 - [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
 - [Bugesera, RwandAir… Pourquoi Kigali fait le pari de l’aérien](https://www.jeuneafrique.com/1729089/economie-entreprises/bugesera-rwandair-pourquoi-kigali-fait-le-pari-de-laerien/)
 
