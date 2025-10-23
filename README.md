@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 15:12*
+*Generato: 23 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
-- [Fiscalité automobile : jusqu’à 50 % du prix d’une voiture en Tunisie est constitué de taxes](https://lapresse.tn/2025/10/23/fiscalite-automobile-jusqua-50-du-prix-dune-voiture-en-tunisie-est-constitue-de-taxes/)
-- [Chute d’un élève d’un bus de transport scolaire : le chauffeur placé en garde vue](https://lapresse.tn/2025/10/23/chute-dun-eleve-dun-bus-de-transport-scolaire-le-chauffeur-place-en-garde-vue/)
-- [Nabeul : le 2 novembre, plus de 1000 coureurs participeront au Marathon Run For Brave Heart](https://lapresse.tn/2025/10/23/nabeul-le-2-novembre-plus-de-1000-coureurs-participeront-au-marathon-run-for-brave-heart/)
-- [Tunisie : un prêt immobilier à 3 % proposé pour faciliter l’accès des jeunes au logement](https://lapresse.tn/2025/10/23/tunisie-un-pret-immobilier-a-3-propose-pour-faciliter-lacces-des-jeunes-au-logement/)
-- [ARP : vote des articles de la proposition de loi relative à la profession de conseiller fiscal](https://lapresse.tn/2025/10/23/arp-vote-des-articles-de-la-proposition-de-loi-relative-a-la-profession-de-conseiller-fiscal/)
-- [Tabarka : inauguration d’un nouveau scanner à l’hôpital régional](https://lapresse.tn/2025/10/23/tabarka-inauguration-dun-nouveau-scanner-a-lhopital-regional/)
-- [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
-- [Tunisie : Un navire à hydrogène français fait escale à Bizerte pour une mission écologique](https://lapresse.tn/2025/10/23/tunisie-un-navire-a-hydrogene-francais-fait-escale-a-bizerte-pour-une-mission-ecologique/)
-- [Tunisie : les déclarations de soupçon explosent en 2024](https://lapresse.tn/2025/10/23/tunisie-les-declarations-de-soupcon-explosent-en-2024/)
+- [Les investissements poursuivent leur embellie](https://lapresse.tn/2025/10/23/les-investissements-poursuivent-leur-embellie/)
+- [Tunisie : l’IACE pointe une reprise contrastée des importations](https://lapresse.tn/2025/10/23/tunisie-liace-pointe-une-reprise-contrastee-des-importations/)
+- [Sur nos écrans « Jad » de Jamil Najjar : Ne plus mourir en silence](https://lapresse.tn/2025/10/23/sur-nos-ecrans-jad-de-jamil-najjar-ne-plus-mourir-en-silence/)
+- [Soirée en hommage à Soulef : Une artiste, une voix, un patrimoine](https://lapresse.tn/2025/10/23/soiree-en-hommage-a-soulef-une-artiste-une-voix-un-patrimoine/)
+- [Gabès : Le Président de la République réaffirme son soutien aux habitants, lassés par des promesses non tenues](https://lapresse.tn/2025/10/23/gabes-le-president-de-la-republique-reaffirme-son-soutien-aux-habitants-lasses-par-des-promesses-non-tenues/)
+- [Crise environnementale à Gabès : Le message de Kaïs Saïed, la réponse des Gabésiens](https://lapresse.tn/2025/10/23/crise-environnementale-a-gabes-le-message-de-kais-saied-la-reponse-des-gabesiens/)
+- [Le Tunisien Brahim Houla élu président de l’Organisation internationale d’accréditation “Globac”](https://lapresse.tn/2025/10/23/le-tunisien-brahim-houla-elu-president-de-lorganisation-internationale-daccreditation-globac/)
+- [Octobre Rose : «Halakat», quand la parole aide les femmes à guérir du cancer du sein](https://lapresse.tn/2025/10/23/octobre-rose-halakat-quand-la-parole-aide-les-femmes-a-guerir-du-cancer-du-sein/)
+- [Pourquoi : Le climat de la contagion](https://lapresse.tn/2025/10/23/pourquoi-le-climat-de-la-contagion/)
+- [Réseau de drogue démantelé à Tunis : plusieurs arrestations et saisies importantes](https://lapresse.tn/2025/10/23/reseau-de-drogue-demantele-a-tunis-plusieurs-arrestations-et-saisies-importantes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
 - [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
 - [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
 - [Qui est Mustapha Saidji, le nouveau conseiller politique du président Tebboune ?](https://www.jeuneafrique.com/1733022/politique/qui-est-mustapha-saidji-le-nouveau-conseiller-politique-du-president-tebboune/)
+- [Poutine entre Goïta et Tebboune : l’équilibrisme russe dans la crise Mali-Algérie](https://www.jeuneafrique.com/1732988/politique/mali-algerie-le-numero-dequilibriste-de-vladimir-poutine-entre-assimi-goita-et-abdelmadjid-tebboune/)
 - [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
 - [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
-- [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
-- [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
+- [Comment le port de Tema au Ghana talonne Abidjan pour capter les flux du Sahel](https://www.jeuneafrique.com/1733274/economie-entreprises/port-comment-tema-talonne-abidjan-pour-capter-les-flux-du-sahel/)
 - [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
-- [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
