@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 09:13*
+*Generato: 23 Oct 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30961/ep-today-thursday-23-october)
 - [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
@@ -91,12 +92,11 @@
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 - [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 - [Russian gas and oil import ban: MEPs ready to negotiate with Council](https://www.europarl.europa.eu/news/en/press-room/20251017IPR30986/russian-gas-and-oil-import-ban-meps-ready-to-negotiate-with-council)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30960/ep-today-wednesday-22-october)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
-- [Ligue 1 – mise a jour de la 10e journée – ESZ-EST (0-0) : Attaques stériles…](https://lapresse.tn/2025/10/23/ligue-1-mise-a-jour-de-la-10e-journee-esz-est-0-0-attaques-steriles/)
-- [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
-- [Ligue 1 – mise a jour de la 10e journée – CAB-ST (0-2) : Le Stade tout en maîtrise](https://lapresse.tn/2025/10/23/ligue-1-mise-a-jour-de-la-10e-journee-cab-st-0-2-le-stade-tout-en-maitrise/)
+- [Ligue 2 – 6e journée : L’US Tataouine sur du velours ?](https://lapresse.tn/2025/10/23/ligue-2-6e-journee-lus-tataouine-sur-du-velours/)
+- [45 pays et 6 000 athlètes…Bahreïn lance le plus grand événement sportif asiatique de la jeunesse de 2025](https://lapresse.tn/2025/10/23/45-pays-et-6-000-athletes-bahrein-lance-le-plus-grand-evenement-sportif-asiatique-de-la-jeunesse-de-2025/)
+- [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
+- [Nabeul : célébration, ce samedi, de la journée nationale du paralympisme](https://lapresse.tn/2025/10/23/nabeul-celebration-ce-samedi-de-la-journee-nationale-du-paralympisme/)
+- [Ministère Intérieur : Recrutement de Techniciens Principaux](https://lapresse.tn/2025/10/23/ministere-interieur-recrutement-de-techniciens-principaux/)
 - [Météo : ciel nuageux et légère hausse des températures](https://lapresse.tn/2025/10/23/meteo-ciel-nuageux-et-legere-hausse-des-temperatures-2/)
-- [Deux sœurs jumelles tunisiennes finalistes au concours de lecture arabe à Dubaï](https://lapresse.tn/2025/10/22/deux-soeurs-jumelles-tunisiennes-finalistes-au-concours-de-lecture-arabe-a-dubai/)
-- [Coopération tuniso-libyenne : la cheffe du gouvernement reçoit le ministre libyen de l’Économie](https://lapresse.tn/2025/10/22/cooperation-tuniso-libyenne-la-cheffe-du-gouvernement-recoit-le-ministre-libyen-de-leconomie/)
+- [Tunisie : Un navire à hydrogène français fait escale à Bizerte pour une mission écologique](https://lapresse.tn/2025/10/23/tunisie-un-navire-a-hydrogene-francais-fait-escale-a-bizerte-pour-une-mission-ecologique/)
+- [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
 - [Signature d’un accord entre le ministère de la Santé et l’Amen Bank pour moderniser les hôpitaux publics](https://lapresse.tn/2025/10/23/signature-dun-accord-entre-le-ministere-de-la-sante-et-lamen-bank-pour-moderniser-les-hopitaux-publics/)
-- [Démantèlement d’un réseau international de trafic de drogue à Kairouan](https://lapresse.tn/2025/10/22/demantelement-dun-reseau-international-de-trafic-de-drogue-a-kairouan/)
-- [Sidi Bouzid : Intervention médicale innovante sur la vésicule biliaire à l’hôpital universitaire](https://lapresse.tn/2025/10/22/sidi-bouzid-intervention-medicale-innovante-sur-la-vesicule-biliaire-a-lhopital-universitaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
-- [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
+- [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
-- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 
 ## THINK TANK – ECFR – MENA
 
