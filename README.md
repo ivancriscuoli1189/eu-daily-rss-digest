@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 13:25*
+*Generato: 23 Oct 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -145,6 +145,19 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-136_programme-de-relance-de-l-investissement-et-de-modernisation.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-36_appui-a-la-gestion-durable-des-ressources-halieutiques-et-aq.html)
+
 ## UE – Tunisie – Projects portal (Governance)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -161,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [A quand la vraie paix ?](https://lapresse.tn/2025/10/22/a-quand-la-vraie-paix/)
-- [Tunisie : les déclarations de soupçon explosent en 2024](https://lapresse.tn/2025/10/23/tunisie-les-declarations-de-soupcon-explosent-en-2024/)
-- [Foot : le calendrier des matches amicaux de la Tunisie pour la prochaine fenêtre FIFA](https://lapresse.tn/2025/10/23/foot-le-calendrier-des-matches-amicaux-de-la-tunisie-pour-la-prochaine-fenetre-fifa/)
-- [Budget 2026 : la dette totale de l’État tunisien en chiffres](https://lapresse.tn/2025/10/23/budget-2026-la-dette-totale-de-letat-tunisien-en-chiffres/)
-- [Tunisie : Inauguration d’une nouvelle unité d’hémodialyse à Aïn Draham](https://lapresse.tn/2025/10/23/tunisie-inauguration-dune-nouvelle-unite-dhemodialyse-a-ain-draham/)
-- [Aéroport d’Enfidha : une tentative de contrebande d’une pièce archéologique déjouée](https://lapresse.tn/2025/10/23/aeroport-denfidha-une-tentative-de-contrebande-dune-piece-archeologique-dejouee/)
-- [Nabeul : célébration, ce samedi, de la journée nationale du paralympisme](https://lapresse.tn/2025/10/23/nabeul-celebration-ce-samedi-de-la-journee-nationale-du-paralympisme/)
+- [Fiscalité automobile : jusqu’à 50 % du prix d’une voiture en Tunisie est constitué de taxes](https://lapresse.tn/2025/10/23/fiscalite-automobile-jusqua-50-du-prix-dune-voiture-en-tunisie-est-constitue-de-taxes/)
+- [Chute d’un élève d’un bus de transport scolaire : le chauffeur placé en garde vue](https://lapresse.tn/2025/10/23/chute-dun-eleve-dun-bus-de-transport-scolaire-le-chauffeur-place-en-garde-vue/)
+- [Nabeul : le 2 novembre, plus de 1000 coureurs participeront au Marathon Run For Brave Heart](https://lapresse.tn/2025/10/23/nabeul-le-2-novembre-plus-de-1000-coureurs-participeront-au-marathon-run-for-brave-heart/)
+- [Tunisie : un prêt immobilier à 3 % proposé pour faciliter l’accès des jeunes au logement](https://lapresse.tn/2025/10/23/tunisie-un-pret-immobilier-a-3-propose-pour-faciliter-lacces-des-jeunes-au-logement/)
+- [ARP : vote des articles de la proposition de loi relative à la profession de conseiller fiscal](https://lapresse.tn/2025/10/23/arp-vote-des-articles-de-la-proposition-de-loi-relative-a-la-profession-de-conseiller-fiscal/)
+- [Tabarka : inauguration d’un nouveau scanner à l’hôpital régional](https://lapresse.tn/2025/10/23/tabarka-inauguration-dun-nouveau-scanner-a-lhopital-regional/)
 - [Sfax : les chauffeurs de taxi exigent une attribution équitable des licences sur tout le territoire](https://lapresse.tn/2025/10/23/sfax-les-chauffeurs-de-taxi-exigent-une-attribution-equitable-des-licences-sur-tout-le-territoire/)
 - [Tunisie : Un navire à hydrogène français fait escale à Bizerte pour une mission écologique](https://lapresse.tn/2025/10/23/tunisie-un-navire-a-hydrogene-francais-fait-escale-a-bizerte-pour-une-mission-ecologique/)
-- [Première en Tunisie : un doctorat tuniso-japonais en ingénierie électronique](https://lapresse.tn/2025/10/23/premiere-en-tunisie-un-doctorat-tuniso-japonais-en-ingenierie-electronique/)
+- [Tunisie : les déclarations de soupçon explosent en 2024](https://lapresse.tn/2025/10/23/tunisie-les-declarations-de-soupcon-explosent-en-2024/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -205,10 +218,10 @@
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
-- [ICJ welcomes its New President, human rights advocate Carlos Ayala](https://www.icj.org/icj-welcomes-its-new-president-human-rights-advocate-carlos-ayala/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
+- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -251,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
 - [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
+- [Qui est Mustapha Saidji, le nouveau conseiller politique du président Tebboune ?](https://www.jeuneafrique.com/1733022/politique/qui-est-mustapha-saidji-le-nouveau-conseiller-politique-du-president-tebboune/)
 - [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
 - [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
 - [Niger : un Américain enlevé par des hommes armés en plein cœur de Niamey](https://www.jeuneafrique.com/1733275/politique/niger-un-americain-enleve-par-des-hommes-armes-en-plein-coeur-de-niamey/)
 - [Présidentielle au Cameroun : ce que l’on sait de la mort de Zouhaïra, institutrice tuée à Garoua](https://www.jeuneafrique.com/1733189/politique/presidentielle-au-cameroun-ce-que-lon-sait-de-la-mort-de-zouhaira-institutrice-tuee-a-garoua/)
-- [Tunisie : Gabès en grève générale, le phosphate à l’Assemblée](https://www.jeuneafrique.com/1733126/politique/tunisie-gabes-en-greve-generale-le-phosphate-a-lassemblee/)
-- [Au Burkina Faso, deux patrons de presse libérés](https://www.jeuneafrique.com/1733140/politique/au-burkina-faso-deux-patrons-de-presse-liberes/)
 - [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 - [Airtel Money : une ambition boursière toujours intacte malgré les retards](https://www.jeuneafrique.com/1733345/economie-entreprises/airtel-money-une-ambition-boursiere-toujours-intacte-malgre-les-retards/)
 
