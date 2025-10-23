@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 18:14*
+*Generato: 23 Oct 2025, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les investissements poursuivent leur embellie](https://lapresse.tn/2025/10/23/les-investissements-poursuivent-leur-embellie/)
-- [Tunisie : l’IACE pointe une reprise contrastée des importations](https://lapresse.tn/2025/10/23/tunisie-liace-pointe-une-reprise-contrastee-des-importations/)
-- [Sur nos écrans « Jad » de Jamil Najjar : Ne plus mourir en silence](https://lapresse.tn/2025/10/23/sur-nos-ecrans-jad-de-jamil-najjar-ne-plus-mourir-en-silence/)
-- [Soirée en hommage à Soulef : Une artiste, une voix, un patrimoine](https://lapresse.tn/2025/10/23/soiree-en-hommage-a-soulef-une-artiste-une-voix-un-patrimoine/)
-- [Gabès : Le Président de la République réaffirme son soutien aux habitants, lassés par des promesses non tenues](https://lapresse.tn/2025/10/23/gabes-le-president-de-la-republique-reaffirme-son-soutien-aux-habitants-lasses-par-des-promesses-non-tenues/)
-- [Crise environnementale à Gabès : Le message de Kaïs Saïed, la réponse des Gabésiens](https://lapresse.tn/2025/10/23/crise-environnementale-a-gabes-le-message-de-kais-saied-la-reponse-des-gabesiens/)
-- [Le Tunisien Brahim Houla élu président de l’Organisation internationale d’accréditation “Globac”](https://lapresse.tn/2025/10/23/le-tunisien-brahim-houla-elu-president-de-lorganisation-internationale-daccreditation-globac/)
+- [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
+- [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
+- [Forte présence tunisienne au 1er Festival international du cinéma de la femme de Gaza](https://lapresse.tn/2025/10/23/forte-presence-tunisienne-au-1er-festival-international-du-cinema-de-la-femme-de-gaza/)
+- [Pluies éparses et vents forts attendus cette nuit sur le nord du pays](https://lapresse.tn/2025/10/23/pluies-eparses-et-vents-forts-attendus-cette-nuit-sur-le-nord-du-pays/)
+- [Tunisie : Les dattes, deuxième produit agricole d’exportation après l’huile d’olive](https://lapresse.tn/2025/10/23/tunisie-les-dattes-deuxieme-produit-agricole-dexportation-apres-lhuile-dolive/)
+- [Un jeune homme écrasé par un bus dans un atelier de réparation à Bizerte](https://lapresse.tn/2025/10/23/un-jeune-homme-ecrase-par-un-bus-dans-un-atelier-de-reparation-a-bizerte/)
 - [Octobre Rose : «Halakat», quand la parole aide les femmes à guérir du cancer du sein](https://lapresse.tn/2025/10/23/octobre-rose-halakat-quand-la-parole-aide-les-femmes-a-guerir-du-cancer-du-sein/)
 - [Pourquoi : Le climat de la contagion](https://lapresse.tn/2025/10/23/pourquoi-le-climat-de-la-contagion/)
 - [Réseau de drogue démantelé à Tunis : plusieurs arrestations et saisies importantes](https://lapresse.tn/2025/10/23/reseau-de-drogue-demantele-a-tunis-plusieurs-arrestations-et-saisies-importantes/)
@@ -266,12 +266,12 @@
 
 - [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
 - [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
+- [Présidentielle en Côte d’Ivoire : en coulisses, comment Jean-Louis Billon mobilise le PDCI](https://www.jeuneafrique.com/1733576/politique/presidentielle-en-cote-divoire-en-coulisses-comment-jean-louis-billon-mobilise-le-pdci/)
 - [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
 - [Qui est Mustapha Saidji, le nouveau conseiller politique du président Tebboune ?](https://www.jeuneafrique.com/1733022/politique/qui-est-mustapha-saidji-le-nouveau-conseiller-politique-du-president-tebboune/)
+- [Paul Biya et le Septentrion camerounais : du fantôme Ahidjo au cauchemar Tchiroma](https://www.jeuneafrique.com/1731984/politique/paul-biya-et-le-septentrion-camerounais-du-fantome-ahidjo-au-cauchemar-tchiroma/)
 - [Poutine entre Goïta et Tebboune : l’équilibrisme russe dans la crise Mali-Algérie](https://www.jeuneafrique.com/1732988/politique/mali-algerie-le-numero-dequilibriste-de-vladimir-poutine-entre-assimi-goita-et-abdelmadjid-tebboune/)
 - [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
-- [Présidentielle en Côte d’Ivoire : Laurent Gbagbo dénonce un « coup d’État civil » et « un braquage électoral »](https://www.jeuneafrique.com/1733479/politique/presidentielle-en-cote-divoire-laurent-gbagbo-denonce-un-coup-detat-civil-et-un-braquage-electoral/)
-- [Au Niger, Abdourahamane Tiani en appelle aux élèves pour financer la patrie](https://www.jeuneafrique.com/1733237/politique/au-niger-abdourahamane-tiani-en-appelle-aux-eleves-pour-financer-la-patrie/)
 - [Comment le port de Tema au Ghana talonne Abidjan pour capter les flux du Sahel](https://www.jeuneafrique.com/1733274/economie-entreprises/port-comment-tema-talonne-abidjan-pour-capter-les-flux-du-sahel/)
 - [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 
