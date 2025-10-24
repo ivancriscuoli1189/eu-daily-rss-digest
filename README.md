@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 09:12*
+*Generato: 24 Oct 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Les investissements poursuivent leur embellie](https://lapresse.tn/2025/10/23/les-investissements-poursuivent-leur-embellie/)
-- [Hafedh Amouri : « les augmentations salariales feront l’objet de négociations avec les syndicats »](https://lapresse.tn/2025/10/24/hafedh-amouri-les-augmentations-salariales-feront-lobjet-de-negociations-avec-les-syndicats/)
-- [Accident de la route à Bizerte : un bus de transport d’ouvriers dérape](https://lapresse.tn/2025/10/24/accident-de-la-route-a-bizerte-un-bus-de-transport-douvriers-derape/)
-- [Tunisie : deux dons d’organes redonnent vie à cinq patients à Kairouan et Ben Arous](https://lapresse.tn/2025/10/24/tunisie-deux-dons-dorganes-redonnent-vie-a-cinq-patients-a-kairouan-et-ben-arous/)
+- [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
+- [Coupe du Monde 2026 : Ce que les supporters tunisiens doivent savoir pour se rendre au Canada](https://lapresse.tn/2025/10/24/coupe-du-monde-2026-ce-que-les-supporters-tunisiens-doivent-savoir-pour-se-rendre-au-canada/)
+- [Le déminage de la bande de Gaza nécessitera 30 ans](https://lapresse.tn/2025/10/24/le-deminage-de-la-bande-de-gaza-necessitera-30-ans/)
+- [Hiver 2025-2026 : la Tunisie séduit les Européens à petit budget](https://lapresse.tn/2025/10/24/hiver-2025-2026-la-tunisie-seduit-les-europeens-a-petit-budget/)
 - [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
 - [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
 - [Pluies éparses et vents forts attendus cette nuit sur le nord du pays](https://lapresse.tn/2025/10/23/pluies-eparses-et-vents-forts-attendus-cette-nuit-sur-le-nord-du-pays/)
-- [Pour des services de santé rapides et simplifiés : La numérisation du secteur de la santé et la télémédecine à la clé](https://lapresse.tn/2025/10/24/pour-des-services-de-sante-rapides-et-simplifies-la-numerisation-du-secteur-de-la-sante-et-la-telemedecine-a-la-cle/)
-- [Un jeune homme écrasé par un bus dans un atelier de réparation à Bizerte](https://lapresse.tn/2025/10/23/un-jeune-homme-ecrase-par-un-bus-dans-un-atelier-de-reparation-a-bizerte/)
-- [BEI – Enquête : La difficulté d’octroi de crédit limite la capacité des PME à exporter](https://lapresse.tn/2025/10/24/bei-enquete-la-difficulte-doctroi-de-credit-limite-la-capacite-des-pme-a-exporter/)
+- [Étudier en Europe : le Pacte pour la Méditerranée ouvre de nouvelles portes aux Tunisiens](https://lapresse.tn/2025/10/24/etudier-en-europe-le-pacte-pour-la-mediterranee-ouvre-de-nouvelles-portes-aux-tunisiens/)
+- [Santé : le Tunisien prend en charge plus de 40 % du coût des soins, selon une étude](https://lapresse.tn/2025/10/24/sante-le-tunisien-prend-en-charge-plus-de-40-du-cout-des-soins-selon-une-etude/)
+- [Tozeur – Ong Jemel : Démarrage des travaux de restauration](https://lapresse.tn/2025/10/24/tozeur-ong-jemel-demarrage-des-travaux-de-restauration/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,12 +268,12 @@
 - [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
 - [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
 - [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
+- [Au Burkina Faso, Ibrahim Traoré met la justice sous pression](https://www.jeuneafrique.com/1733377/politique/au-burkina-faso-ibrahim-traore-met-la-justice-sous-pression/)
 - [Présidentielle au Cameroun : l’accès à internet très perturbé, des manifestations dans plusieurs villes](https://www.jeuneafrique.com/1733846/politique/presidentielle-au-cameroun-lacces-a-internet-tres-perturbe-des-manifestations-dans-plusieurs-villes/)
 - [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
 - [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
-- [Présidentielle en Côte d’Ivoire : en coulisses, comment Jean-Louis Billon mobilise le PDCI](https://www.jeuneafrique.com/1733576/politique/presidentielle-en-cote-divoire-en-coulisses-comment-jean-louis-billon-mobilise-le-pdci/)
+- [Bosun Tijani (Nigeria) : « Notre but n’est pas de concurrencer OpenAI ou Microsoft mais de prévenir leurs failles »](https://www.jeuneafrique.com/1733852/economie-entreprises/bosun-tijani-nigeria-notre-but-nest-pas-de-concurrencer-openai-ou-microsoft-mais-de-prevenir-leurs-failles/)
 - [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
-- [Comment le port de Tema au Ghana talonne Abidjan pour capter les flux du Sahel](https://www.jeuneafrique.com/1733274/economie-entreprises/port-comment-tema-talonne-abidjan-pour-capter-les-flux-du-sahel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
