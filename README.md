@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 13:26*
+*Generato: 24 Oct 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Exit les portraits du président malgache dans les administrations](https://www.jeuneafrique.com/1734083/politique/exit-les-portraits-du-president-malgache-dans-les-administrations/)
 - [Présidentielle en Centrafrique : « Faustin-Archange Touadéra emmène le pays vers une énième crise politique »](https://www.jeuneafrique.com/1733554/politique/presidentielle-en-centrafrique-faustin-archange-touadera-emmene-le-pays-vers-une-enieme-crise-politique/)
 - [Sahara occidental : le Polisario fait « un pas vers les Marocains »](https://www.jeuneafrique.com/1734103/politique/sahara-occidental-le-polisario-fait-un-pas-vers-les-marocains/)
 - [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
@@ -271,7 +272,6 @@
 - [Présidentielle au Cameroun : Clément Atangana et le Conseil constitutionnel, arbitres décriés d’une élection contestée](https://www.jeuneafrique.com/1733511/politique/presidentielle-au-cameroun-clement-atangana-et-le-conseil-constitutionnel-arbitres-decries-dune-election-contestee/)
 - [Au Bénin, le parti de Thomas Boni Yayi privé de présidentielle sur fond de crise interne](https://www.jeuneafrique.com/1733890/politique/au-benin-le-parti-de-thomas-boni-yayi-prive-de-presidentielle-sur-fond-de-crise-interne/)
 - [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
-- [Au Burkina Faso, Ibrahim Traoré met la justice sous pression](https://www.jeuneafrique.com/1733377/politique/au-burkina-faso-ibrahim-traore-met-la-justice-sous-pression/)
 - [Bosun Tijani (Nigeria) : « Notre but n’est pas de concurrencer OpenAI ou Microsoft mais de prévenir leurs failles »](https://www.jeuneafrique.com/1733852/economie-entreprises/bosun-tijani-nigeria-notre-but-nest-pas-de-concurrencer-openai-ou-microsoft-mais-de-prevenir-leurs-failles/)
 - [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
 
