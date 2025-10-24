@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 12:20*
+*Generato: 24 Oct 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
-- [Budget 2026 : plus de 51 000 postes prévus, dont la régularisation des ouvriers et enseignants suppléants](https://lapresse.tn/2025/10/24/budget-2026-plus-de-51-000-postes-prevus-dont-la-regularisation-des-ouvriers-et-enseignants-suppleants/)
-- [Tunisie : lancement de la “Zitouna Platform” à Londres pour attirer les investisseurs](https://lapresse.tn/2025/10/24/tunisie-lancement-de-la-zitouna-platform-a-londres-pour-attirer-les-investisseurs/)
-- [La Tunisie à l’honneur dans GEO : un héritage antique à redécouvrir](https://lapresse.tn/2025/10/24/la-tunisie-a-lhonneur-dans-geo-un-heritage-antique-a-redecouvrir/)
-- [Météo : ciel dégagé et une légère hausse des températures](https://lapresse.tn/2025/10/24/meteo-ciel-degage-et-une-legere-hausse-des-temperatures/)
-- [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
-- [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
+- [Tunisair prépare l’arrivée de huit nouveaux avions malgré les retards de financement](https://lapresse.tn/2025/10/24/tunisair-prepare-larrivee-de-huit-nouveaux-avions-malgre-les-retards-de-financement/)
+- [La Tunisie célèbre le 80ᵉ anniversaire de l’ONU et réaffirme son engagement multilatéral](https://lapresse.tn/2025/10/24/la-tunisie-celebre-le-80%e1%b5%89-anniversaire-de-lonu-et-reaffirme-son-engagement-multilateral/)
+- [Tunisie : un trafiquant de drogue arrêté à Nabeul avec 7 500 comprimés d’Erik](https://lapresse.tn/2025/10/24/tunisie-un-trafiquant-de-drogue-arrete-a-nabeul-avec-7-500-comprimes-derik/)
+- [Tunisie : quatre ans de prison pour des agents du port de Radès dans une affaire de cigarettes de luxe](https://lapresse.tn/2025/10/24/tunisie-quatre-ans-de-prison-pour-des-agents-du-port-de-rades-dans-une-affaire-de-cigarettes-de-luxe/)
+- [À partir d’aujourd’hui : Djerba accueille le premier Festival international des montgolfières](https://lapresse.tn/2025/10/24/a-partir-daujourdhui-djerba-accueille-le-premier-festival-international-des-montgolfieres/)
+- [Tunisie : l’unité de cathétérisme cérébral de l’Institut Monji Ben Hamida, une référence nationale et internationale](https://lapresse.tn/2025/10/24/tunisie-lunite-de-catheterisme-cerebral-de-linstitut-monji-ben-hamida-une-reference-nationale-et-internationale/)
+- [La Cité des Sciences de Tunis organise une soirée astronomique consacrée à Saturne](https://lapresse.tn/2025/10/24/la-cite-des-sciences-de-tunis-organise-une-soiree-astronomique-consacree-a-saturne/)
 - [Cycle primaire : dates des épreuves d’évaluation du premier trimestre](https://lapresse.tn/2025/10/24/cycle-primaire-dates-des-epreuves-devaluation-du-premier-trimestre/)
-- [Étudier en Europe : le Pacte pour la Méditerranée ouvre de nouvelles portes aux Tunisiens](https://lapresse.tn/2025/10/24/etudier-en-europe-le-pacte-pour-la-mediterranee-ouvre-de-nouvelles-portes-aux-tunisiens/)
-- [Santé : le Tunisien prend en charge plus de 40 % du coût des soins, selon une étude](https://lapresse.tn/2025/10/24/sante-le-tunisien-prend-en-charge-plus-de-40-du-cout-des-soins-selon-une-etude/)
+- [Tunisie : de grands projets éoliens prévus avant 2030](https://lapresse.tn/2025/10/24/tunisie-de-grands-projets-eoliens-prevus-avant-2030/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
-- [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
+- [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
-- [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -269,9 +269,9 @@
 - [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
 - [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
 - [Présidentielle au Cameroun : Clément Atangana et le Conseil constitutionnel, arbitres décriés d’une élection contestée](https://www.jeuneafrique.com/1733511/politique/presidentielle-au-cameroun-clement-atangana-et-le-conseil-constitutionnel-arbitres-decries-dune-election-contestee/)
+- [Au Bénin, le parti de Thomas Boni Yayi privé de présidentielle sur fond de crise interne](https://www.jeuneafrique.com/1733890/politique/au-benin-le-parti-de-thomas-boni-yayi-prive-de-presidentielle-sur-fond-de-crise-interne/)
 - [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
 - [Au Burkina Faso, Ibrahim Traoré met la justice sous pression](https://www.jeuneafrique.com/1733377/politique/au-burkina-faso-ibrahim-traore-met-la-justice-sous-pression/)
-- [Présidentielle au Cameroun : l’accès à internet très perturbé, des manifestations dans plusieurs villes](https://www.jeuneafrique.com/1733846/politique/presidentielle-au-cameroun-lacces-a-internet-tres-perturbe-des-manifestations-dans-plusieurs-villes/)
 - [Bosun Tijani (Nigeria) : « Notre but n’est pas de concurrencer OpenAI ou Microsoft mais de prévenir leurs failles »](https://www.jeuneafrique.com/1733852/economie-entreprises/bosun-tijani-nigeria-notre-but-nest-pas-de-concurrencer-openai-ou-microsoft-mais-de-prevenir-leurs-failles/)
 - [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
 
