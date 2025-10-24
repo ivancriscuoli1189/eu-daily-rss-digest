@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Oct 2025, 21:11*
+*Generato: 24 Oct 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les investissements poursuivent leur embellie](https://lapresse.tn/2025/10/23/les-investissements-poursuivent-leur-embellie/)
+- [Météo : ciel dégagé et une légère hausse des températures](https://lapresse.tn/2025/10/24/meteo-ciel-degage-et-une-legere-hausse-des-temperatures/)
 - [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
 - [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
-- [Forte présence tunisienne au 1er Festival international du cinéma de la femme de Gaza](https://lapresse.tn/2025/10/23/forte-presence-tunisienne-au-1er-festival-international-du-cinema-de-la-femme-de-gaza/)
 - [Pluies éparses et vents forts attendus cette nuit sur le nord du pays](https://lapresse.tn/2025/10/23/pluies-eparses-et-vents-forts-attendus-cette-nuit-sur-le-nord-du-pays/)
-- [Tunisie : Les dattes, deuxième produit agricole d’exportation après l’huile d’olive](https://lapresse.tn/2025/10/23/tunisie-les-dattes-deuxieme-produit-agricole-dexportation-apres-lhuile-dolive/)
 - [Un jeune homme écrasé par un bus dans un atelier de réparation à Bizerte](https://lapresse.tn/2025/10/23/un-jeune-homme-ecrase-par-un-bus-dans-un-atelier-de-reparation-a-bizerte/)
 - [Octobre Rose : «Halakat», quand la parole aide les femmes à guérir du cancer du sein](https://lapresse.tn/2025/10/23/octobre-rose-halakat-quand-la-parole-aide-les-femmes-a-guerir-du-cancer-du-sein/)
 - [Pourquoi : Le climat de la contagion](https://lapresse.tn/2025/10/23/pourquoi-le-climat-de-la-contagion/)
 - [Réseau de drogue démantelé à Tunis : plusieurs arrestations et saisies importantes](https://lapresse.tn/2025/10/23/reseau-de-drogue-demantele-a-tunis-plusieurs-arrestations-et-saisies-importantes/)
+- [Tunisie : l’IACE pointe une reprise contrastée des importations](https://lapresse.tn/2025/10/23/tunisie-liace-pointe-une-reprise-contrastee-des-importations/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
-- [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
+- [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 - [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 - [Joint Statement: Deterioration of the Rule of Law in Cambodia](https://www.icj.org/joint-statement-deterioration-of-the-rule-of-law-in-cambodia/)
-- [ICJ Statement on Serious Human Rights Violations in Libya](https://www.icj.org/icj-statement-on-serious-human-rights-violations-in-libya/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Bénin, le parti de Thomas Boni Yayi privé de présidentielle sur fond de crise interne](https://www.jeuneafrique.com/1733890/politique/au-benin-le-parti-de-thomas-boni-yayi-prive-de-presidentielle-sur-fond-de-crise-interne/)
+- [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
+- [Présidentielle au Cameroun : l’accès à internet très perturbé, des manifestations dans plusieurs villes](https://www.jeuneafrique.com/1733846/politique/presidentielle-au-cameroun-lacces-a-internet-tres-perturbe-des-manifestations-dans-plusieurs-villes/)
 - [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
 - [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
 - [Présidentielle en Côte d’Ivoire : en coulisses, comment Jean-Louis Billon mobilise le PDCI](https://www.jeuneafrique.com/1733576/politique/presidentielle-en-cote-divoire-en-coulisses-comment-jean-louis-billon-mobilise-le-pdci/)
 - [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
 - [Qui est Mustapha Saidji, le nouveau conseiller politique du président Tebboune ?](https://www.jeuneafrique.com/1733022/politique/qui-est-mustapha-saidji-le-nouveau-conseiller-politique-du-president-tebboune/)
-- [Paul Biya et le Septentrion camerounais : du fantôme Ahidjo au cauchemar Tchiroma](https://www.jeuneafrique.com/1731984/politique/paul-biya-et-le-septentrion-camerounais-du-fantome-ahidjo-au-cauchemar-tchiroma/)
-- [Poutine entre Goïta et Tebboune : l’équilibrisme russe dans la crise Mali-Algérie](https://www.jeuneafrique.com/1732988/politique/mali-algerie-le-numero-dequilibriste-de-vladimir-poutine-entre-assimi-goita-et-abdelmadjid-tebboune/)
-- [Au Mali, comment Assimi Goïta tente de gagner « la guerre du carburant »](https://www.jeuneafrique.com/1732649/politique/au-mali-comment-assimi-goita-tente-de-gagner-la-guerre-du-carburant/)
 - [Comment le port de Tema au Ghana talonne Abidjan pour capter les flux du Sahel](https://www.jeuneafrique.com/1733274/economie-entreprises/port-comment-tema-talonne-abidjan-pour-capter-les-flux-du-sahel/)
 - [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 
