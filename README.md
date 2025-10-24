@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 15:12*
+*Generato: 24 Oct 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
-- [Tunisair prépare l’arrivée de huit nouveaux avions malgré les retards de financement](https://lapresse.tn/2025/10/24/tunisair-prepare-larrivee-de-huit-nouveaux-avions-malgre-les-retards-de-financement/)
-- [La Tunisie célèbre le 80ᵉ anniversaire de l’ONU et réaffirme son engagement multilatéral](https://lapresse.tn/2025/10/24/la-tunisie-celebre-le-80%e1%b5%89-anniversaire-de-lonu-et-reaffirme-son-engagement-multilateral/)
-- [Tunisie : un trafiquant de drogue arrêté à Nabeul avec 7 500 comprimés d’Erik](https://lapresse.tn/2025/10/24/tunisie-un-trafiquant-de-drogue-arrete-a-nabeul-avec-7-500-comprimes-derik/)
-- [Tunisie : quatre ans de prison pour des agents du port de Radès dans une affaire de cigarettes de luxe](https://lapresse.tn/2025/10/24/tunisie-quatre-ans-de-prison-pour-des-agents-du-port-de-rades-dans-une-affaire-de-cigarettes-de-luxe/)
-- [À partir d’aujourd’hui : Djerba accueille le premier Festival international des montgolfières](https://lapresse.tn/2025/10/24/a-partir-daujourdhui-djerba-accueille-le-premier-festival-international-des-montgolfieres/)
-- [Tunisie : l’unité de cathétérisme cérébral de l’Institut Monji Ben Hamida, une référence nationale et internationale](https://lapresse.tn/2025/10/24/tunisie-lunite-de-catheterisme-cerebral-de-linstitut-monji-ben-hamida-une-reference-nationale-et-internationale/)
-- [La Cité des Sciences de Tunis organise une soirée astronomique consacrée à Saturne](https://lapresse.tn/2025/10/24/la-cite-des-sciences-de-tunis-organise-une-soiree-astronomique-consacree-a-saturne/)
-- [Cycle primaire : dates des épreuves d’évaluation du premier trimestre](https://lapresse.tn/2025/10/24/cycle-primaire-dates-des-epreuves-devaluation-du-premier-trimestre/)
-- [Tunisie : de grands projets éoliens prévus avant 2030](https://lapresse.tn/2025/10/24/tunisie-de-grands-projets-eoliens-prevus-avant-2030/)
+- [L’EST trébuche à Zarzis : Si mauvais, si quelconques…](https://lapresse.tn/2025/10/24/lest-trebuche-a-zarzis-si-mauvais-si-quelconques/)
+- [L’ES Zarzis engrange un point face à l’EST : Une petite bouffée d’oxygène](https://lapresse.tn/2025/10/24/les-zarzis-engrange-un-point-face-a-lest-une-petite-bouffee-doxygene/)
+- [L’Etoile s’est inclinée une 3e fois à l’Olimpico : L’interminable fiasco !](https://lapresse.tn/2025/10/24/letoile-sest-inclinee-une-3e-fois-a-lolimpico-linterminable-fiasco/)
+- [Pour une Tunisie souveraine : Le Président mise sur la force du secteur agricole](https://lapresse.tn/2025/10/24/pour-une-tunisie-souveraine-le-president-mise-sur-la-force-du-secteur-agricole/)
+- [Tunisie–Chine : vers un partenariat économique à zéro droit de douane](https://lapresse.tn/2025/10/24/tunisie-chine-vers-un-partenariat-economique-a-zero-droit-de-douane/)
+- [Tunisie : L’ambassadeur de Chine annonce la date d’entrée en service du pont de Bizerte](https://lapresse.tn/2025/10/24/tunisie-lambassadeur-de-chine-annonce-la-date-dentree-en-service-du-pont-de-bizerte/)
+- [Éducation et enseignement de base : Et si l’on commençait par réformer le cycle primaire ?](https://lapresse.tn/2025/10/24/education-et-enseignement-de-base-et-si-lon-commencait-par-reformer-le-cycle-primaire/)
+- [Peines de 1 à 45 ans dans l’affaire El-Mnihla : verdicts définitifs prononcés](https://lapresse.tn/2025/10/24/peines-de-1-a-45-ans-dans-laffaire-el-mnihla-verdicts-definitifs-prononces/)
+- [Pourquoi : Vers la résolution des problèmes de Gabès](https://lapresse.tn/2025/10/24/pourquoi-vers-la-resolution-des-problemes-de-gabes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,8 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
+- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
 - [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
 - [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 - [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
@@ -233,8 +235,6 @@
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
 - [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
-- [Qatar quake: Israel blows another hole in Middle East security](https://ecfr.eu/article/qatar-quake-israel-blows-another-hole-in-middle-east-security/)
-- [Unearthing the past: Iraq’s mass graves and the quest for justice](https://ecfr.eu/publication/unearthing-the-past-iraqs-mass-graves-and-the-quest-for-justice/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,14 +266,14 @@
 
 - [Exit les portraits du président malgache dans les administrations](https://www.jeuneafrique.com/1734083/politique/exit-les-portraits-du-president-malgache-dans-les-administrations/)
 - [Présidentielle en Centrafrique : « Faustin-Archange Touadéra emmène le pays vers une énième crise politique »](https://www.jeuneafrique.com/1733554/politique/presidentielle-en-centrafrique-faustin-archange-touadera-emmene-le-pays-vers-une-enieme-crise-politique/)
+- [Présidentielle au Cameroun : Issa Tchiroma Bakary et la stratégie du peuple face à Paul Biya](https://www.jeuneafrique.com/1734120/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-et-la-strategie-du-peuple-face-a-paul-biya/)
+- [En Guinée, le blocus imposé par le JNIM au Mali fait exploser le trafic de carburant](https://www.jeuneafrique.com/1733871/politique/en-guinee-le-blocus-impose-par-le-jnim-au-mali-fait-exploser-le-trafic-de-carburant/)
 - [Sahara occidental : le Polisario fait « un pas vers les Marocains »](https://www.jeuneafrique.com/1734103/politique/sahara-occidental-le-polisario-fait-un-pas-vers-les-marocains/)
 - [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
 - [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
-- [Présidentielle au Cameroun : Clément Atangana et le Conseil constitutionnel, arbitres décriés d’une élection contestée](https://www.jeuneafrique.com/1733511/politique/presidentielle-au-cameroun-clement-atangana-et-le-conseil-constitutionnel-arbitres-decries-dune-election-contestee/)
-- [Au Bénin, le parti de Thomas Boni Yayi privé de présidentielle sur fond de crise interne](https://www.jeuneafrique.com/1733890/politique/au-benin-le-parti-de-thomas-boni-yayi-prive-de-presidentielle-sur-fond-de-crise-interne/)
-- [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
-- [Bosun Tijani (Nigeria) : « Notre but n’est pas de concurrencer OpenAI ou Microsoft mais de prévenir leurs failles »](https://www.jeuneafrique.com/1733852/economie-entreprises/bosun-tijani-nigeria-notre-but-nest-pas-de-concurrencer-openai-ou-microsoft-mais-de-prevenir-leurs-failles/)
-- [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
+- [Présidentielle en Côte d’Ivoire : le long de la ligne du futur métro, Abidjan entre espoirs et craintes](https://www.jeuneafrique.com/1733459/politique/presidentielle-en-cote-divoire-le-long-de-la-ligne-du-futur-metro-abidjan-entre-espoirs-et-craintes/)
+- [Ces businessmen camerounais qui parient sur la Côte d’Ivoire](https://www.jeuneafrique.com/1733923/economie-entreprises/ces-businessmen-camerounais-qui-parient-sur-la-cote-divoire/)
+- [Algérie : pourquoi le PDG de Sonatrach est dans le collimateur de Tebboune](https://www.jeuneafrique.com/1734122/economie-entreprises/algerie-pourquoi-le-pdg-de-sonatrach-est-dans-le-collimateur-de-tebboune/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
