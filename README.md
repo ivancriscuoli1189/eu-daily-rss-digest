@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 06:16*
+*Generato: 24 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Fight against environmental crime: MEPs to investigate best practice in Slovenia](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31037/fight-against-environmental-crime-meps-to-investigate-best-practice-in-slovenia)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
@@ -91,7 +92,6 @@
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
-- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Les investissements poursuivent leur embellie](https://lapresse.tn/2025/10/23/les-investissements-poursuivent-leur-embellie/)
-- [Météo : ciel dégagé et une légère hausse des températures](https://lapresse.tn/2025/10/24/meteo-ciel-degage-et-une-legere-hausse-des-temperatures/)
+- [Hafedh Amouri : « les augmentations salariales feront l’objet de négociations avec les syndicats »](https://lapresse.tn/2025/10/24/hafedh-amouri-les-augmentations-salariales-feront-lobjet-de-negociations-avec-les-syndicats/)
+- [Accident de la route à Bizerte : un bus de transport d’ouvriers dérape](https://lapresse.tn/2025/10/24/accident-de-la-route-a-bizerte-un-bus-de-transport-douvriers-derape/)
+- [Tunisie : deux dons d’organes redonnent vie à cinq patients à Kairouan et Ben Arous](https://lapresse.tn/2025/10/24/tunisie-deux-dons-dorganes-redonnent-vie-a-cinq-patients-a-kairouan-et-ben-arous/)
 - [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
 - [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
 - [Pluies éparses et vents forts attendus cette nuit sur le nord du pays](https://lapresse.tn/2025/10/23/pluies-eparses-et-vents-forts-attendus-cette-nuit-sur-le-nord-du-pays/)
+- [Pour des services de santé rapides et simplifiés : La numérisation du secteur de la santé et la télémédecine à la clé](https://lapresse.tn/2025/10/24/pour-des-services-de-sante-rapides-et-simplifies-la-numerisation-du-secteur-de-la-sante-et-la-telemedecine-a-la-cle/)
 - [Un jeune homme écrasé par un bus dans un atelier de réparation à Bizerte](https://lapresse.tn/2025/10/23/un-jeune-homme-ecrase-par-un-bus-dans-un-atelier-de-reparation-a-bizerte/)
-- [Octobre Rose : «Halakat», quand la parole aide les femmes à guérir du cancer du sein](https://lapresse.tn/2025/10/23/octobre-rose-halakat-quand-la-parole-aide-les-femmes-a-guerir-du-cancer-du-sein/)
-- [Pourquoi : Le climat de la contagion](https://lapresse.tn/2025/10/23/pourquoi-le-climat-de-la-contagion/)
-- [Réseau de drogue démantelé à Tunis : plusieurs arrestations et saisies importantes](https://lapresse.tn/2025/10/23/reseau-de-drogue-demantele-a-tunis-plusieurs-arrestations-et-saisies-importantes/)
-- [Tunisie : l’IACE pointe une reprise contrastée des importations](https://lapresse.tn/2025/10/23/tunisie-liace-pointe-une-reprise-contrastee-des-importations/)
+- [BEI – Enquête : La difficulté d’octroi de crédit limite la capacité des PME à exporter](https://lapresse.tn/2025/10/24/bei-enquete-la-difficulte-doctroi-de-credit-limite-la-capacite-des-pme-a-exporter/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Bénin, le parti de Thomas Boni Yayi privé de présidentielle sur fond de crise interne](https://www.jeuneafrique.com/1733890/politique/au-benin-le-parti-de-thomas-boni-yayi-prive-de-presidentielle-sur-fond-de-crise-interne/)
+- [Sahara occidental : le Polisario fait « un pas vers les Marocains »](https://www.jeuneafrique.com/1734103/politique/sahara-occidental-le-polisario-fait-un-pas-vers-les-marocains/)
+- [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
+- [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
 - [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
 - [Présidentielle au Cameroun : l’accès à internet très perturbé, des manifestations dans plusieurs villes](https://www.jeuneafrique.com/1733846/politique/presidentielle-au-cameroun-lacces-a-internet-tres-perturbe-des-manifestations-dans-plusieurs-villes/)
 - [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
 - [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
 - [Présidentielle en Côte d’Ivoire : en coulisses, comment Jean-Louis Billon mobilise le PDCI](https://www.jeuneafrique.com/1733576/politique/presidentielle-en-cote-divoire-en-coulisses-comment-jean-louis-billon-mobilise-le-pdci/)
-- [Assimi Goïta limoge plusieurs hauts responsables de l’armée malienne](https://www.jeuneafrique.com/1733515/politique/au-mali-assimi-goita-limoge-plusieurs-hauts-responsables-de-larmee/)
-- [Qui est Mustapha Saidji, le nouveau conseiller politique du président Tebboune ?](https://www.jeuneafrique.com/1733022/politique/qui-est-mustapha-saidji-le-nouveau-conseiller-politique-du-president-tebboune/)
+- [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
 - [Comment le port de Tema au Ghana talonne Abidjan pour capter les flux du Sahel](https://www.jeuneafrique.com/1733274/economie-entreprises/port-comment-tema-talonne-abidjan-pour-capter-les-flux-du-sahel/)
-- [Comment un bras de fer entre Abidjan et Paris compromet les vols d’Air Côte d’Ivoire et Air France](https://www.jeuneafrique.com/1733190/economie-entreprises/comment-un-bras-de-fer-entre-abidjan-et-paris-compromet-les-rotations-dair-cote-divoire-et-air-france/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
