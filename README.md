@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 11:10*
+*Generato: 24 Oct 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,7 +82,6 @@
 
 ## UE – EP – Press Room
 
-- [Fight against environmental crime: MEPs to investigate best practice in Slovenia](https://www.europarl.europa.eu/news/en/press-room/20251020IPR31037/fight-against-environmental-crime-meps-to-investigate-best-practice-in-slovenia)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
@@ -92,6 +91,7 @@
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
+- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
-- [Coupe du Monde 2026 : Ce que les supporters tunisiens doivent savoir pour se rendre au Canada](https://lapresse.tn/2025/10/24/coupe-du-monde-2026-ce-que-les-supporters-tunisiens-doivent-savoir-pour-se-rendre-au-canada/)
-- [Le déminage de la bande de Gaza nécessitera 30 ans](https://lapresse.tn/2025/10/24/le-deminage-de-la-bande-de-gaza-necessitera-30-ans/)
-- [Hiver 2025-2026 : la Tunisie séduit les Européens à petit budget](https://lapresse.tn/2025/10/24/hiver-2025-2026-la-tunisie-seduit-les-europeens-a-petit-budget/)
+- [Budget 2026 : plus de 51 000 postes prévus, dont la régularisation des ouvriers et enseignants suppléants](https://lapresse.tn/2025/10/24/budget-2026-plus-de-51-000-postes-prevus-dont-la-regularisation-des-ouvriers-et-enseignants-suppleants/)
+- [Tunisie : lancement de la “Zitouna Platform” à Londres pour attirer les investisseurs](https://lapresse.tn/2025/10/24/tunisie-lancement-de-la-zitouna-platform-a-londres-pour-attirer-les-investisseurs/)
+- [La Tunisie à l’honneur dans GEO : un héritage antique à redécouvrir](https://lapresse.tn/2025/10/24/la-tunisie-a-lhonneur-dans-geo-un-heritage-antique-a-redecouvrir/)
+- [Météo : ciel dégagé et une légère hausse des températures](https://lapresse.tn/2025/10/24/meteo-ciel-degage-et-une-legere-hausse-des-temperatures/)
 - [Kairouan : démarrage imminent des travaux de l’hôpital universitaire Roi Salman Ibn Abdelaziz](https://lapresse.tn/2025/10/23/kairouan-demarrage-imminent-des-travaux-de-lhopital-universitaire-roi-salman-ibn-abdelaziz/)
 - [Mohamed Ali Nafti reçoit l’ambassadeur australien et évoque de nouvelles opportunités de coopération](https://lapresse.tn/2025/10/23/mohamed-ali-nafti-recoit-lambassadeur-australien-et-evoque-de-nouvelles-opportunites-de-cooperation/)
-- [Pluies éparses et vents forts attendus cette nuit sur le nord du pays](https://lapresse.tn/2025/10/23/pluies-eparses-et-vents-forts-attendus-cette-nuit-sur-le-nord-du-pays/)
+- [Cycle primaire : dates des épreuves d’évaluation du premier trimestre](https://lapresse.tn/2025/10/24/cycle-primaire-dates-des-epreuves-devaluation-du-premier-trimestre/)
 - [Étudier en Europe : le Pacte pour la Méditerranée ouvre de nouvelles portes aux Tunisiens](https://lapresse.tn/2025/10/24/etudier-en-europe-le-pacte-pour-la-mediterranee-ouvre-de-nouvelles-portes-aux-tunisiens/)
 - [Santé : le Tunisien prend en charge plus de 40 % du coût des soins, selon une étude](https://lapresse.tn/2025/10/24/sante-le-tunisien-prend-en-charge-plus-de-40-du-cout-des-soins-selon-une-etude/)
-- [Tozeur – Ong Jemel : Démarrage des travaux de restauration](https://lapresse.tn/2025/10/24/tozeur-ong-jemel-demarrage-des-travaux-de-restauration/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Centrafrique : « Faustin-Archange Touadéra emmène le pays vers une énième crise politique »](https://www.jeuneafrique.com/1733554/politique/presidentielle-en-centrafrique-faustin-archange-touadera-emmene-le-pays-vers-une-enieme-crise-politique/)
 - [Sahara occidental : le Polisario fait « un pas vers les Marocains »](https://www.jeuneafrique.com/1734103/politique/sahara-occidental-le-polisario-fait-un-pas-vers-les-marocains/)
 - [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
 - [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
+- [Présidentielle au Cameroun : Clément Atangana et le Conseil constitutionnel, arbitres décriés d’une élection contestée](https://www.jeuneafrique.com/1733511/politique/presidentielle-au-cameroun-clement-atangana-et-le-conseil-constitutionnel-arbitres-decries-dune-election-contestee/)
 - [Entre Moscou, Paris, Washington et Pékin, Madagascar tente de tracer sa voie](https://www.jeuneafrique.com/1733720/politique/entre-moscou-paris-washington-et-pekin-madagascar-tente-de-tracer-sa-voie/)
 - [Au Burkina Faso, Ibrahim Traoré met la justice sous pression](https://www.jeuneafrique.com/1733377/politique/au-burkina-faso-ibrahim-traore-met-la-justice-sous-pression/)
 - [Présidentielle au Cameroun : l’accès à internet très perturbé, des manifestations dans plusieurs villes](https://www.jeuneafrique.com/1733846/politique/presidentielle-au-cameroun-lacces-a-internet-tres-perturbe-des-manifestations-dans-plusieurs-villes/)
-- [Pourquoi l’administration Trump évoque un « accord de paix » imminent sur le Sahara occidental](https://www.jeuneafrique.com/1733567/politique/pourquoi-ladministration-trump-evoque-un-accord-de-paix-imminent-sur-le-sahara-occidental/)
-- [Niger : Mohamed Bazoum, la dignité face à l’oubli](https://www.jeuneafrique.com/1733557/politique/niger-mohamed-bazoum-la-dignite-face-a-loubli/)
 - [Bosun Tijani (Nigeria) : « Notre but n’est pas de concurrencer OpenAI ou Microsoft mais de prévenir leurs failles »](https://www.jeuneafrique.com/1733852/economie-entreprises/bosun-tijani-nigeria-notre-but-nest-pas-de-concurrencer-openai-ou-microsoft-mais-de-prevenir-leurs-failles/)
 - [10 choses à savoir sur Tarik Senhaji, le nouveau patron du gendarme boursier au Maroc](https://www.jeuneafrique.com/1733595/economie-entreprises/10-choses-a-savoir-sur-tarik-senhaji-le-nouveau-patron-du-gendarme-boursier-au-maroc/)
 
