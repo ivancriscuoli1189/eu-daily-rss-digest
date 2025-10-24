@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 18:16*
+*Generato: 24 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
-- [L’EST trébuche à Zarzis : Si mauvais, si quelconques…](https://lapresse.tn/2025/10/24/lest-trebuche-a-zarzis-si-mauvais-si-quelconques/)
-- [L’ES Zarzis engrange un point face à l’EST : Une petite bouffée d’oxygène](https://lapresse.tn/2025/10/24/les-zarzis-engrange-un-point-face-a-lest-une-petite-bouffee-doxygene/)
-- [L’Etoile s’est inclinée une 3e fois à l’Olimpico : L’interminable fiasco !](https://lapresse.tn/2025/10/24/letoile-sest-inclinee-une-3e-fois-a-lolimpico-linterminable-fiasco/)
-- [Pour une Tunisie souveraine : Le Président mise sur la force du secteur agricole](https://lapresse.tn/2025/10/24/pour-une-tunisie-souveraine-le-president-mise-sur-la-force-du-secteur-agricole/)
-- [Tunisie–Chine : vers un partenariat économique à zéro droit de douane](https://lapresse.tn/2025/10/24/tunisie-chine-vers-un-partenariat-economique-a-zero-droit-de-douane/)
-- [Tunisie : L’ambassadeur de Chine annonce la date d’entrée en service du pont de Bizerte](https://lapresse.tn/2025/10/24/tunisie-lambassadeur-de-chine-annonce-la-date-dentree-en-service-du-pont-de-bizerte/)
+- [Trois enseignantes tunisiennes sacrées au concours européen eTwinning 2025](https://lapresse.tn/2025/10/24/trois-enseignantes-tunisiennes-sacrees-au-concours-europeen-etwinning-2025/)
+- [Production en berne et ventes en retrait : ALKIMIA ralentit sa cadence au 3e trimestre 2025](https://lapresse.tn/2025/10/24/production-en-berne-et-ventes-en-retrait-alkimia-ralentit-sa-cadence-au-3e-trimestre-2025/)
+- [La Tunisie déploie une nouvelle technologie pour accélérer le diagnostic bactérien](https://lapresse.tn/2025/10/24/la-tunisie-deploie-une-nouvelle-technologie-pour-accelerer-le-diagnostic-bacterien/)
+- [La Tunisie réaffirme son soutien à la réforme institutionnelle de l’Union africaine](https://lapresse.tn/2025/10/24/la-tunisie-reaffirme-son-soutien-a-la-reforme-institutionnelle-de-lunion-africaine/)
+- [Alerte météo : brouillard dense prévu dans plusieurs régions du pays](https://lapresse.tn/2025/10/24/alerte-meteo-brouillard-dense-prevu-dans-plusieurs-regions-du-pays/)
+- [Ponts, barrages et énergie verte : la Chine investit dans le développement tunisien](https://lapresse.tn/2025/10/24/ponts-barrages-et-energie-verte-la-chine-investit-dans-le-developpement-tunisien/)
 - [Éducation et enseignement de base : Et si l’on commençait par réformer le cycle primaire ?](https://lapresse.tn/2025/10/24/education-et-enseignement-de-base-et-si-lon-commencait-par-reformer-le-cycle-primaire/)
 - [Peines de 1 à 45 ans dans l’affaire El-Mnihla : verdicts définitifs prononcés](https://lapresse.tn/2025/10/24/peines-de-1-a-45-ans-dans-laffaire-el-mnihla-verdicts-definitifs-prononces/)
-- [Pourquoi : Vers la résolution des problèmes de Gabès](https://lapresse.tn/2025/10/24/pourquoi-vers-la-resolution-des-problemes-de-gabes/)
+- [Tunisie : Chute historique de la production pétrolière et gazière du champ de Nawara](https://lapresse.tn/2025/10/24/tunisie-chute-historique-de-la-production-petroliere-et-gaziere-du-champ-de-nawara/)
 
 ## NGOs – Amnesty International – Tunisia
 
