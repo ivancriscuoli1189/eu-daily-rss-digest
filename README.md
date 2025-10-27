@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Oct 2025, 21:04*
+*Generato: 27 Oct 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [« Nous, peuples des Nations unies… »](https://lapresse.tn/2025/10/24/nous-peuples-des-nations-unies/)
-- [Trois enseignantes tunisiennes sacrées au concours européen eTwinning 2025](https://lapresse.tn/2025/10/24/trois-enseignantes-tunisiennes-sacrees-au-concours-europeen-etwinning-2025/)
-- [Production en berne et ventes en retrait : ALKIMIA ralentit sa cadence au 3e trimestre 2025](https://lapresse.tn/2025/10/24/production-en-berne-et-ventes-en-retrait-alkimia-ralentit-sa-cadence-au-3e-trimestre-2025/)
-- [La Tunisie déploie une nouvelle technologie pour accélérer le diagnostic bactérien](https://lapresse.tn/2025/10/24/la-tunisie-deploie-une-nouvelle-technologie-pour-accelerer-le-diagnostic-bacterien/)
-- [La Tunisie réaffirme son soutien à la réforme institutionnelle de l’Union africaine](https://lapresse.tn/2025/10/24/la-tunisie-reaffirme-son-soutien-a-la-reforme-institutionnelle-de-lunion-africaine/)
-- [Alerte météo : brouillard dense prévu dans plusieurs régions du pays](https://lapresse.tn/2025/10/24/alerte-meteo-brouillard-dense-prevu-dans-plusieurs-regions-du-pays/)
-- [Ponts, barrages et énergie verte : la Chine investit dans le développement tunisien](https://lapresse.tn/2025/10/24/ponts-barrages-et-energie-verte-la-chine-investit-dans-le-developpement-tunisien/)
-- [Éducation et enseignement de base : Et si l’on commençait par réformer le cycle primaire ?](https://lapresse.tn/2025/10/24/education-et-enseignement-de-base-et-si-lon-commencait-par-reformer-le-cycle-primaire/)
-- [Peines de 1 à 45 ans dans l’affaire El-Mnihla : verdicts définitifs prononcés](https://lapresse.tn/2025/10/24/peines-de-1-a-45-ans-dans-laffaire-el-mnihla-verdicts-definitifs-prononces/)
-- [Tunisie : Chute historique de la production pétrolière et gazière du champ de Nawara](https://lapresse.tn/2025/10/24/tunisie-chute-historique-de-la-production-petroliere-et-gaziere-du-champ-de-nawara/)
+- [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
+- [Météo : Nuages, baisse des températures et vent fort !](https://lapresse.tn/2025/10/27/meteo-nuages-baisse-des-temperatures-et-vent-fort/)
+- [L’Espérance ST domine Rahimo FC (3-0) et va en phase de groupes](https://lapresse.tn/2025/10/26/lesperance-st-domine-rahimo-fc-3-0-et-va-en-phase-de-groupes/)
+- [Une Forte présence tunisienne au 1er Festival international du cinéma de la femme de Gaza : Résistance et récits au féminin](https://lapresse.tn/2025/10/26/une-forte-presence-tunisienne-au-1er-festival-international-du-cinema-de-la-femme-de-gaza-resistance-et-recits-au-feminin/)
+- [Présentation à Tunis d’un guide pratique du système opérationnel de l’ONU à l’occasion de son 80e anniversaire](https://lapresse.tn/2025/10/26/presentation-a-tunis-dun-guide-pratique-du-systeme-operationnel-de-lonu-a-loccasion-de-son-80e-anniversaire/)
+- [Temps nuageux et mer agitée : les prévisions météo pour ce soir](https://lapresse.tn/2025/10/26/temps-nuageux-et-mer-agitee-les-previsions-meteo-pour-ce-soir/)
+- [Tunisie – Suisse : Volonté commune de renforcer la coopération économique bilatérale](https://lapresse.tn/2025/10/26/tunisie-suisse-volonte-commune-de-renforcer-la-cooperation-economique-bilaterale/)
+- [Enseignement primaire – devoirs du 1er trimestre : Le calendrier du contrôle continu](https://lapresse.tn/2025/10/26/enseignement-primaire-devoirs-du-1er-trimestre-le-calendrier-du-controle-continu/)
+- [Pourquoi : La surcharge dans les transports…](https://lapresse.tn/2025/10/26/pourquoi-la-surcharge-dans-les-transports/)
+- [Tunisie : plus de 7,6 tonnes de denrées avariées retirées du marché](https://lapresse.tn/2025/10/26/tunisie-plus-de-76-tonnes-de-denrees-avariees-retirees-du-marche/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Exit les portraits du président malgache dans les administrations](https://www.jeuneafrique.com/1734083/politique/exit-les-portraits-du-president-malgache-dans-les-administrations/)
-- [Présidentielle en Centrafrique : « Faustin-Archange Touadéra emmène le pays vers une énième crise politique »](https://www.jeuneafrique.com/1733554/politique/presidentielle-en-centrafrique-faustin-archange-touadera-emmene-le-pays-vers-une-enieme-crise-politique/)
-- [Présidentielle au Cameroun : Issa Tchiroma Bakary et la stratégie du peuple face à Paul Biya](https://www.jeuneafrique.com/1734120/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-et-la-strategie-du-peuple-face-a-paul-biya/)
-- [En Guinée, le blocus imposé par le JNIM au Mali fait exploser le trafic de carburant](https://www.jeuneafrique.com/1733871/politique/en-guinee-le-blocus-impose-par-le-jnim-au-mali-fait-exploser-le-trafic-de-carburant/)
-- [Sahara occidental : le Polisario fait « un pas vers les Marocains »](https://www.jeuneafrique.com/1734103/politique/sahara-occidental-le-polisario-fait-un-pas-vers-les-marocains/)
-- [Au Tchad, une partie de l’opposition se retire de la scène politique](https://www.jeuneafrique.com/1734066/politique/au-tchad-une-partie-de-lopposition-se-retire-de-la-scene-politique/)
-- [La Chine va-t-elle aider la Tunisie à régler la crise à Gabès ?](https://www.jeuneafrique.com/1733644/politique/la-chine-va-t-elle-aider-la-tunisie-a-regler-la-crise-a-gabes/)
-- [Présidentielle en Côte d’Ivoire : le long de la ligne du futur métro, Abidjan entre espoirs et craintes](https://www.jeuneafrique.com/1733459/politique/presidentielle-en-cote-divoire-le-long-de-la-ligne-du-futur-metro-abidjan-entre-espoirs-et-craintes/)
+- [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
+- [Tunis suspend les activités d’une ONG fer de lance des luttes pour la démocratie](https://www.jeuneafrique.com/1734689/politique/tunis-suspend-les-activites-dune-ong-fer-de-lance-des-luttes-pour-la-democratie/)
+- [Présidentielle au Cameroun : deux soutiens d’Issa Tchiroma Bakary arrêtés](https://www.jeuneafrique.com/1734681/politique/presidentielle-au-cameroun-deux-soutiens-dissa-tchiroma-bakary-arretes/)
+- [Algérie : le procès en appel du reporter français Christophe Gleizes fixé au 3 décembre](https://www.jeuneafrique.com/1734604/politique/algerie-le-proces-en-appel-du-reporter-francais-christophe-gleizes-fixe-au-3-decembre/)
+- [En Algérie, une réforme de la justice sous contrôle](https://www.jeuneafrique.com/1734048/politique/en-algerie-une-reforme-de-la-justice-sous-controle/)
+- [Présidentielle au Cameroun : Issa Tchiroma Bakary, le « politique par excellence »](https://www.jeuneafrique.com/1734388/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-le-politique-par-excellence/)
+- [La Côte d’Ivoire à l’heure de la présidentielle, le Cameroun à l’heure des résultats, le Sahara occidental au Conseil de sécurité, l’économie malgache en berne, des récits d’opposants en exil… Les 5 infos incontournables](https://www.jeuneafrique.com/1734085/politique/la-cote-divoire-a-lheure-de-la-presidentielle-le-cameroun-a-lheure-des-resultats-le-sahara-occidental-au-conseil-de-securite-leconomie-malgache-en-berne-des-recits-dopposants-en-exil/)
+- [À Madagascar, l’ex-président Andry Rajoelina déchu de sa nationalité](https://www.jeuneafrique.com/1734567/politique/a-madagascar-lex-president-andry-rajoelina-dechu-de-sa-nationalite/)
+- [En Algérie, le PDG de Sonatrach limogé](https://www.jeuneafrique.com/1734771/economie-entreprises/en-algerie-le-pdg-de-la-sonatrach-limoge/)
 - [Ces businessmen camerounais qui parient sur la Côte d’Ivoire](https://www.jeuneafrique.com/1733923/economie-entreprises/ces-businessmen-camerounais-qui-parient-sur-la-cote-divoire/)
-- [Algérie : pourquoi le PDG de Sonatrach est dans le collimateur de Tebboune](https://www.jeuneafrique.com/1734122/economie-entreprises/algerie-pourquoi-le-pdg-de-sonatrach-est-dans-le-collimateur-de-tebboune/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
