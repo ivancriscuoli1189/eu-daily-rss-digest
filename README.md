@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 06:16*
+*Generato: 27 Oct 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs to visit Democratic Republic of the Congo](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31097/meps-to-visit-democratic-republic-of-the-congo)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
@@ -91,12 +92,11 @@
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 - [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
-- [Andrzej Poczobut and Mzia Amaglobeli: laureates of the 2025 Sakharov Prize](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30949/andrzej-poczobut-and-mzia-amaglobeli-laureates-of-the-2025-sakharov-prize)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,12 +174,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
+- [Championnat arabe des clubs féminins de handball : quatre clubs tunisiens au rendez-vous](https://lapresse.tn/2025/10/27/championnat-arabe-des-clubs-feminins-de-handball-quatre-clubs-tunisiens-au-rendez-vous/)
+- [Météo : jusqu’à +14°C au-dessus des normales en Tunisie](https://lapresse.tn/2025/10/27/meteo-jusqua-14c-au-dessus-des-normales-en-tunisie/)
+- [Aujourd’hui, le procès du complot contre la sûreté de l’État se tient à distance à Tunis](https://lapresse.tn/2025/10/27/aujourdhui-le-proces-du-complot-contre-la-surete-de-letat-se-tient-a-distance-a-tunis/)
+- [Démantèlement d’un réseau international de trafic de drogue entre la Tunisie et la Libye](https://lapresse.tn/2025/10/27/demantelement-dun-reseau-international-de-trafic-de-drogue-entre-la-tunisie-et-la-libye/)
 - [Météo : Nuages, baisse des températures et vent fort !](https://lapresse.tn/2025/10/27/meteo-nuages-baisse-des-temperatures-et-vent-fort/)
-- [L’Espérance ST domine Rahimo FC (3-0) et va en phase de groupes](https://lapresse.tn/2025/10/26/lesperance-st-domine-rahimo-fc-3-0-et-va-en-phase-de-groupes/)
-- [Une Forte présence tunisienne au 1er Festival international du cinéma de la femme de Gaza : Résistance et récits au féminin](https://lapresse.tn/2025/10/26/une-forte-presence-tunisienne-au-1er-festival-international-du-cinema-de-la-femme-de-gaza-resistance-et-recits-au-feminin/)
-- [Présentation à Tunis d’un guide pratique du système opérationnel de l’ONU à l’occasion de son 80e anniversaire](https://lapresse.tn/2025/10/26/presentation-a-tunis-dun-guide-pratique-du-systeme-operationnel-de-lonu-a-loccasion-de-son-80e-anniversaire/)
-- [Temps nuageux et mer agitée : les prévisions météo pour ce soir](https://lapresse.tn/2025/10/26/temps-nuageux-et-mer-agitee-les-previsions-meteo-pour-ce-soir/)
-- [Tunisie – Suisse : Volonté commune de renforcer la coopération économique bilatérale](https://lapresse.tn/2025/10/26/tunisie-suisse-volonte-commune-de-renforcer-la-cooperation-economique-bilaterale/)
+- [Suspension du tiers payant pour les maladies ordinaires à partir d’aujourd’hui](https://lapresse.tn/2025/10/27/suspension-du-tiers-payant-pour-les-maladies-ordinaires-a-partir-daujourdhui/)
 - [Enseignement primaire – devoirs du 1er trimestre : Le calendrier du contrôle continu](https://lapresse.tn/2025/10/26/enseignement-primaire-devoirs-du-1er-trimestre-le-calendrier-du-controle-continu/)
 - [Pourquoi : La surcharge dans les transports…](https://lapresse.tn/2025/10/26/pourquoi-la-surcharge-dans-les-transports/)
 - [Tunisie : plus de 7,6 tonnes de denrées avariées retirées du marché](https://lapresse.tn/2025/10/26/tunisie-plus-de-76-tonnes-de-denrees-avariees-retirees-du-marche/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
+- [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
+- [De la Makina à Tata Advanced Systems : deux siècles de production d’armes au Maroc](https://www.jeuneafrique.com/1733203/politique/de-la-makina-a-tata-advanced-systems-deux-siecles-de-production-darmes-au-maroc/)
 - [Tunis suspend les activités d’une ONG fer de lance des luttes pour la démocratie](https://www.jeuneafrique.com/1734689/politique/tunis-suspend-les-activites-dune-ong-fer-de-lance-des-luttes-pour-la-democratie/)
 - [Présidentielle au Cameroun : deux soutiens d’Issa Tchiroma Bakary arrêtés](https://www.jeuneafrique.com/1734681/politique/presidentielle-au-cameroun-deux-soutiens-dissa-tchiroma-bakary-arretes/)
 - [Algérie : le procès en appel du reporter français Christophe Gleizes fixé au 3 décembre](https://www.jeuneafrique.com/1734604/politique/algerie-le-proces-en-appel-du-reporter-francais-christophe-gleizes-fixe-au-3-decembre/)
 - [En Algérie, une réforme de la justice sous contrôle](https://www.jeuneafrique.com/1734048/politique/en-algerie-une-reforme-de-la-justice-sous-controle/)
-- [Présidentielle au Cameroun : Issa Tchiroma Bakary, le « politique par excellence »](https://www.jeuneafrique.com/1734388/politique/presidentielle-au-cameroun-issa-tchiroma-bakary-le-politique-par-excellence/)
-- [La Côte d’Ivoire à l’heure de la présidentielle, le Cameroun à l’heure des résultats, le Sahara occidental au Conseil de sécurité, l’économie malgache en berne, des récits d’opposants en exil… Les 5 infos incontournables](https://www.jeuneafrique.com/1734085/politique/la-cote-divoire-a-lheure-de-la-presidentielle-le-cameroun-a-lheure-des-resultats-le-sahara-occidental-au-conseil-de-securite-leconomie-malgache-en-berne-des-recits-dopposants-en-exil/)
-- [À Madagascar, l’ex-président Andry Rajoelina déchu de sa nationalité](https://www.jeuneafrique.com/1734567/politique/a-madagascar-lex-president-andry-rajoelina-dechu-de-sa-nationalite/)
 - [En Algérie, le PDG de Sonatrach limogé](https://www.jeuneafrique.com/1734771/economie-entreprises/en-algerie-le-pdg-de-la-sonatrach-limoge/)
-- [Ces businessmen camerounais qui parient sur la Côte d’Ivoire](https://www.jeuneafrique.com/1733923/economie-entreprises/ces-businessmen-camerounais-qui-parient-sur-la-cote-divoire/)
+- [Comment les sanctions américaines contre Rosneft et Lukoil pourraient remodeler le pétrole africain](https://www.jeuneafrique.com/1734266/economie-entreprises/comment-les-sanctions-americaines-contre-rosneft-et-lukoil-pourraient-remodeler-le-petrole-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
