@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 09:13*
+*Generato: 27 Oct 2025, 11:05*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
-- [Championnat arabe des clubs féminins de handball : quatre clubs tunisiens au rendez-vous](https://lapresse.tn/2025/10/27/championnat-arabe-des-clubs-feminins-de-handball-quatre-clubs-tunisiens-au-rendez-vous/)
-- [Météo : jusqu’à +14°C au-dessus des normales en Tunisie](https://lapresse.tn/2025/10/27/meteo-jusqua-14c-au-dessus-des-normales-en-tunisie/)
+- [Hausse du nombre de visiteurs dans la zone touristique Sousse-Kantaoui](https://lapresse.tn/2025/10/27/hausse-du-nombre-de-visiteurs-dans-la-zone-touristique-sousse-kantaoui/)
+- [La Fondation « Fidaa » suit de près le dossier des logements sociaux](https://lapresse.tn/2025/10/27/la-fondation-fidaa-suit-de-pres-le-dossier-des-logements-sociaux/)
+- [Zones rurales : lancement du programme national des excursions scolaires au profit des écoles](https://lapresse.tn/2025/10/27/zones-rurales-lancement-du-programme-national-des-excursions-scolaires-au-profit-des-ecoles/)
 - [Aujourd’hui, le procès du complot contre la sûreté de l’État se tient à distance à Tunis](https://lapresse.tn/2025/10/27/aujourdhui-le-proces-du-complot-contre-la-surete-de-letat-se-tient-a-distance-a-tunis/)
 - [Démantèlement d’un réseau international de trafic de drogue entre la Tunisie et la Libye](https://lapresse.tn/2025/10/27/demantelement-dun-reseau-international-de-trafic-de-drogue-entre-la-tunisie-et-la-libye/)
 - [Météo : Nuages, baisse des températures et vent fort !](https://lapresse.tn/2025/10/27/meteo-nuages-baisse-des-temperatures-et-vent-fort/)
-- [Suspension du tiers payant pour les maladies ordinaires à partir d’aujourd’hui](https://lapresse.tn/2025/10/27/suspension-du-tiers-payant-pour-les-maladies-ordinaires-a-partir-daujourdhui/)
-- [Enseignement primaire – devoirs du 1er trimestre : Le calendrier du contrôle continu](https://lapresse.tn/2025/10/26/enseignement-primaire-devoirs-du-1er-trimestre-le-calendrier-du-controle-continu/)
-- [Pourquoi : La surcharge dans les transports…](https://lapresse.tn/2025/10/26/pourquoi-la-surcharge-dans-les-transports/)
-- [Tunisie : plus de 7,6 tonnes de denrées avariées retirées du marché](https://lapresse.tn/2025/10/26/tunisie-plus-de-76-tonnes-de-denrees-avariees-retirees-du-marche/)
+- [200 enfants sont désormais des ambassadeurs numériques](https://lapresse.tn/2025/10/27/200-enfants-sont-desormais-des-ambassadeurs-numeriques/)
+- [Les enseignants suppléants réclament leur intégration](https://lapresse.tn/2025/10/27/les-enseignants-suppleants-reclament-leur-integration/)
+- [Destination Tunisie : le nombre de touristes britanniques a augmenté de 42%](https://lapresse.tn/2025/10/27/destination-tunisie-le-nombre-de-touristes-britanniques-a-augmente-de-42/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -219,9 +219,9 @@
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
+- [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
 - [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
-- [Afghanistan: UN Human Rights Council establishment of an independent investigative mechanism is a major step towards accountability](https://www.icj.org/afghanistan-un-human-rights-council-establishment-of-an-independent-investigative-mechanism-is-a-major-step-towards-accountability/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -266,14 +266,14 @@
 
 - [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
 - [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
+- [Présidentielle au Cameroun : sur qui s’appuie Issa Tchiroma Bakary pour contraindre Paul Biya à partir](https://www.jeuneafrique.com/1733175/politique/presidentielle-au-cameroun-sur-qui-sappuie-issa-tchiroma-bakary-pour-contraindre-paul-biya-a-partir/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
 - [De la Makina à Tata Advanced Systems : deux siècles de production d’armes au Maroc](https://www.jeuneafrique.com/1733203/politique/de-la-makina-a-tata-advanced-systems-deux-siecles-de-production-darmes-au-maroc/)
+- [RDC-Rwanda : que faut-il attendre de la conférence de Paris sur les Grands Lacs ?](https://www.jeuneafrique.com/1734184/politique/rdc-rwanda-que-faut-il-attendre-de-la-conference-de-paris-sur-les-grands-lacs/)
 - [Tunis suspend les activités d’une ONG fer de lance des luttes pour la démocratie](https://www.jeuneafrique.com/1734689/politique/tunis-suspend-les-activites-dune-ong-fer-de-lance-des-luttes-pour-la-democratie/)
 - [Présidentielle au Cameroun : deux soutiens d’Issa Tchiroma Bakary arrêtés](https://www.jeuneafrique.com/1734681/politique/presidentielle-au-cameroun-deux-soutiens-dissa-tchiroma-bakary-arretes/)
-- [Algérie : le procès en appel du reporter français Christophe Gleizes fixé au 3 décembre](https://www.jeuneafrique.com/1734604/politique/algerie-le-proces-en-appel-du-reporter-francais-christophe-gleizes-fixe-au-3-decembre/)
-- [En Algérie, une réforme de la justice sous contrôle](https://www.jeuneafrique.com/1734048/politique/en-algerie-une-reforme-de-la-justice-sous-controle/)
-- [En Algérie, le PDG de Sonatrach limogé](https://www.jeuneafrique.com/1734771/economie-entreprises/en-algerie-le-pdg-de-la-sonatrach-limoge/)
-- [Comment les sanctions américaines contre Rosneft et Lukoil pourraient remodeler le pétrole africain](https://www.jeuneafrique.com/1734266/economie-entreprises/comment-les-sanctions-americaines-contre-rosneft-et-lukoil-pourraient-remodeler-le-petrole-africain/)
+- [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
+- [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
