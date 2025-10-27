@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 12:19*
+*Generato: 27 Oct 2025, 13:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,13 +174,13 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
-- [Du 27 octobre au 2 novembre : une caravane de santé multidisciplinaire devant le théâtre municipal de Tunis](https://lapresse.tn/2025/10/27/du-27-octobre-au-2-novembre-une-caravane-de-sante-multidisciplinaire-devant-le-theatre-municipal-de-tunis/)
-- [Management environnemental : l’Institut de Biotechnologie de Béja obtient la première certification nationale](https://lapresse.tn/2025/10/27/management-environnemental-linstitut-de-biotechnologie-de-beja-obtient-la-premiere-certification-nationale/)
-- [Filière viandes blanches : bientôt des souches parentales produites localement](https://lapresse.tn/2025/10/27/filiere-viandes-blanches-bientot-des-souches-parentales-produites-localement/)
-- [Aujourd’hui, le procès du complot contre la sûreté de l’État se tient à distance à Tunis](https://lapresse.tn/2025/10/27/aujourdhui-le-proces-du-complot-contre-la-surete-de-letat-se-tient-a-distance-a-tunis/)
-- [Démantèlement d’un réseau international de trafic de drogue entre la Tunisie et la Libye](https://lapresse.tn/2025/10/27/demantelement-dun-reseau-international-de-trafic-de-drogue-entre-la-tunisie-et-la-libye/)
-- [Météo : Nuages, baisse des températures et vent fort !](https://lapresse.tn/2025/10/27/meteo-nuages-baisse-des-temperatures-et-vent-fort/)
-- [La Fondation « Fidaa » suit de près le dossier des logements sociaux](https://lapresse.tn/2025/10/27/la-fondation-fidaa-suit-de-pres-le-dossier-des-logements-sociaux/)
+- [Général Chaabani : « 50% des trottoirs sont occupés illégalement »](https://lapresse.tn/2025/10/27/general-chaabani-50-des-trottoirs-sont-occupes-illegalement/)
+- [En 2026, 1000 logements seront disponibles en location-accession](https://lapresse.tn/2025/10/27/en-2026-1000-logements-seront-disponibles-en-location-accession/)
+- [El Hamma (Gabès) : les préparatifs sont lancés pour la saison des cures thermales](https://lapresse.tn/2025/10/27/el-hamma-gabes-les-preparatifs-sont-lances-pour-la-saison-des-cures-thermales/)
+- [Bande de Gaza: tous les dons en nature non acheminés ont été remis au Croissant Rouge tunisien](https://lapresse.tn/2025/10/27/bande-de-gaza-tous-les-dons-en-nature-non-achemines-ont-ete-remis-au-croissant-rouge-tunisien/)
+- [À l’approche de l’hiver : la protection civile appelle à l’adoption de mesures préventives](https://lapresse.tn/2025/10/27/a-lapproche-de-lhiver-la-protection-civile-appelle-a-ladoption-de-mesures-preventives/)
+- [Une délégation de la BERD rencontre le ministre de l’Économie pour discuter du plan 2026-2030](https://lapresse.tn/2025/10/27/une-delegation-de-la-berd-rencontre-le-ministre-de-leconomie-pour-discuter-du-plan-2026-2030/)
+- [Le salon International des Études à l’Étranger se tient le 10 novembre prochain](https://lapresse.tn/2025/10/27/le-salon-international-des-etudes-a-letranger-se-tient-le-10-novembre-prochain/)
 - [Greenov’i lance son deuxième Appel à Manifestation d’Intérêt GreenAssist pour le Diagnostic Environnemental des Entreprises](https://lapresse.tn/2025/10/27/greenovi-lance-son-deuxieme-appel-a-manifestation-dinteret-greenassist-pour-le-diagnostic-environnemental-des-entreprises/)
 - [Hausse du nombre de visiteurs dans la zone touristique Sousse-Kantaoui](https://lapresse.tn/2025/10/27/hausse-du-nombre-de-visiteurs-dans-la-zone-touristique-sousse-kantaoui/)
 
