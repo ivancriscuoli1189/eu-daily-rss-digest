@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 15:11*
+*Generato: 27 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -173,16 +173,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
-- [Le train rose reprend la route pour le dépistage du cancer du sein à Sfax et Tozeur](https://lapresse.tn/2025/10/27/le-train-rose-reprend-la-route-pour-le-depistage-du-cancer-du-sein-a-sfax-et-tozeur/)
-- [Alerte scientifique : le surmenage modifie la structure du cerveau](https://lapresse.tn/2025/10/27/alerte-scientifique-le-surmenage-modifie-la-structure-du-cerveau/)
-- [Transport aérien, financement, réformes : les priorités de Dorra Miled pour relancer le tourisme](https://lapresse.tn/2025/10/27/transport-aerien-financement-reformes-les-priorites-de-dorra-miled-pour-relancer-le-tourisme/)
-- [Accord de prêts personnels : la Poste tunisienne met les choses au clair](https://lapresse.tn/2025/10/27/accord-de-prets-personnels-la-poste-tunisienne-met-les-choses-au-clair/)
-- [En 2026, 1000 logements seront disponibles en location-accession](https://lapresse.tn/2025/10/27/en-2026-1000-logements-seront-disponibles-en-location-accession/)
-- [Bande de Gaza: tous les dons en nature non acheminés ont été remis au Croissant Rouge tunisien](https://lapresse.tn/2025/10/27/bande-de-gaza-tous-les-dons-en-nature-non-achemines-ont-ete-remis-au-croissant-rouge-tunisien/)
-- [Général Chaabani : « 50% des trottoirs sont occupés illégalement »](https://lapresse.tn/2025/10/27/general-chaabani-50-des-trottoirs-sont-occupes-illegalement/)
-- [Une délégation de la BERD rencontre le ministre de l’Économie pour discuter du plan 2026-2030](https://lapresse.tn/2025/10/27/une-delegation-de-la-berd-rencontre-le-ministre-de-leconomie-pour-discuter-du-plan-2026-2030/)
-- [Greenov’i lance son deuxième Appel à Manifestation d’Intérêt GreenAssist pour le Diagnostic Environnemental des Entreprises](https://lapresse.tn/2025/10/27/greenovi-lance-son-deuxieme-appel-a-manifestation-dinteret-greenassist-pour-le-diagnostic-environnemental-des-entreprises/)
+- [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
+- [Tunisie – L’initiative chinoise de la Route de la Soie Numérique : Tirer parti de la nouvelle connectivité mondiale](https://lapresse.tn/2025/10/27/tunisie-linitiative-chinoise-de-la-route-de-la-soie-numerique-tirer-parti-de-la-nouvelle-connectivite-mondiale/)
+- [Investir dans la société civile : Un moteur insoupçonné de croissance](https://lapresse.tn/2025/10/27/investir-dans-la-societe-civile-un-moteur-insoupconne-de-croissance/)
+- [Express](https://lapresse.tn/2025/10/27/express-270/)
+- [Ministère de l’équipement et de l’Habitat : Suivi des projets de l’Agence foncière d’habitation à l’Ariana et à Ben Arous](https://lapresse.tn/2025/10/27/ministere-de-lequipement-et-de-lhabitat-suivi-des-projets-de-lagence-fonciere-dhabitation-a-lariana-et-a-ben-arous/)
+- [Transport : À l’heure d’une modernisation incontournable](https://lapresse.tn/2025/10/27/transport-a-lheure-dune-modernisation-incontournable/)
+- [Report de l’examen de l’affaire de complot contre la sûreté de l’Etat](https://lapresse.tn/2025/10/27/report-de-lexamen-de-laffaire-de-complot-contre-la-surete-de-letat/)
+- [Kairouan Le démarrage de la récolte des olives fixé au 1er novembre](https://lapresse.tn/2025/10/27/kairouan-le-demarrage-de-la-recolte-des-olives-fixe-au-1er-novembre/)
+- [Production Sucrière : Atteindre l’autosuffisance](https://lapresse.tn/2025/10/27/production-sucriere-atteindre-lautosuffisance/)
+- [Clin d’œil : Arnaque en ligne livrée à domicile](https://lapresse.tn/2025/10/27/clin-doeil-arnaque-en-ligne-livree-a-domicile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
+- [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
 - [L’hôtel de Cuba à Casablanca, dernier vestige d’un empire dispersé](https://www.jeuneafrique.com/1733783/politique/lhotel-de-cuba-a-casablanca-dernier-vestige-dun-empire-disperse/)
 - [Pénurie de carburant : au Mali, la junte suspend les cours à l’école et l’université](https://www.jeuneafrique.com/1734780/politique/penurie-de-carburant-au-mali-la-junte-suspend-les-cours-a-lecole-et-luniversite/)
 - [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
 - [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, les forces de l’ordre et l’armée peuvent-elles faire pencher la balance ?](https://www.jeuneafrique.com/1732627/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-les-forces-de-lordre-et-larmee-peuvent-elles-faire-pencher-la-balance/)
-- [Présidentielle au Cameroun : sur qui s’appuie Issa Tchiroma Bakary pour contraindre Paul Biya à partir](https://www.jeuneafrique.com/1733175/politique/presidentielle-au-cameroun-sur-qui-sappuie-issa-tchiroma-bakary-pour-contraindre-paul-biya-a-partir/)
-- [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
