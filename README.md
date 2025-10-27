@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 18:14*
+*Generato: 27 Oct 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
-- [Tunisie – L’initiative chinoise de la Route de la Soie Numérique : Tirer parti de la nouvelle connectivité mondiale](https://lapresse.tn/2025/10/27/tunisie-linitiative-chinoise-de-la-route-de-la-soie-numerique-tirer-parti-de-la-nouvelle-connectivite-mondiale/)
-- [Investir dans la société civile : Un moteur insoupçonné de croissance](https://lapresse.tn/2025/10/27/investir-dans-la-societe-civile-un-moteur-insoupconne-de-croissance/)
-- [Express](https://lapresse.tn/2025/10/27/express-270/)
+- [868 millions de dinars pour réhabiliter 160 quartiers à travers la Tunisie](https://lapresse.tn/2025/10/27/868-millions-de-dinars-pour-rehabiliter-160-quartiers-a-travers-la-tunisie/)
+- [Tunis accueille la deuxième session des consultations politiques tuniso-irakiennes](https://lapresse.tn/2025/10/27/tunis-accueille-la-deuxieme-session-des-consultations-politiques-tuniso-irakiennes/)
+- [Invalidation du passeport tunisien ? Le ministère de l’Intérieur précise](https://lapresse.tn/2025/10/27/invalidation-du-passeport-tunisien-le-ministere-de-linterieur-precise/)
+- [Souveraineté de l’Afrique : Saïed mise sur un continent comptant sur ses ressources et ses enfants](https://lapresse.tn/2025/10/27/souverainete-de-lafrique-saied-mise-sur-un-continent-comptant-sur-ses-ressources-et-ses-enfants/)
 - [Ministère de l’équipement et de l’Habitat : Suivi des projets de l’Agence foncière d’habitation à l’Ariana et à Ben Arous](https://lapresse.tn/2025/10/27/ministere-de-lequipement-et-de-lhabitat-suivi-des-projets-de-lagence-fonciere-dhabitation-a-lariana-et-a-ben-arous/)
-- [Transport : À l’heure d’une modernisation incontournable](https://lapresse.tn/2025/10/27/transport-a-lheure-dune-modernisation-incontournable/)
-- [Report de l’examen de l’affaire de complot contre la sûreté de l’Etat](https://lapresse.tn/2025/10/27/report-de-lexamen-de-laffaire-de-complot-contre-la-surete-de-letat/)
 - [Kairouan Le démarrage de la récolte des olives fixé au 1er novembre](https://lapresse.tn/2025/10/27/kairouan-le-demarrage-de-la-recolte-des-olives-fixe-au-1er-novembre/)
 - [Production Sucrière : Atteindre l’autosuffisance](https://lapresse.tn/2025/10/27/production-sucriere-atteindre-lautosuffisance/)
 - [Clin d’œil : Arnaque en ligne livrée à domicile](https://lapresse.tn/2025/10/27/clin-doeil-arnaque-en-ligne-livree-a-domicile/)
+- [Tunisie – L’initiative chinoise de la Route de la Soie Numérique : Tirer parti de la nouvelle connectivité mondiale](https://lapresse.tn/2025/10/27/tunisie-linitiative-chinoise-de-la-route-de-la-soie-numerique-tirer-parti-de-la-nouvelle-connectivite-mondiale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
 - [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
+- [Présidentielle au Cameroun: le Conseil constitutionnel proclame la victoire de Paul Biya](https://www.jeuneafrique.com/1733404/politique/presidentielle-au-cameroun-le-conseil-constitutionnel-proclame-la-victoire-de-paul-biya/)
 - [L’hôtel de Cuba à Casablanca, dernier vestige d’un empire dispersé](https://www.jeuneafrique.com/1733783/politique/lhotel-de-cuba-a-casablanca-dernier-vestige-dun-empire-disperse/)
 - [Pénurie de carburant : au Mali, la junte suspend les cours à l’école et l’université](https://www.jeuneafrique.com/1734780/politique/penurie-de-carburant-au-mali-la-junte-suspend-les-cours-a-lecole-et-luniversite/)
 - [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
-- [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
-- [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, les forces de l’ordre et l’armée peuvent-elles faire pencher la balance ?](https://www.jeuneafrique.com/1732627/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-les-forces-de-lordre-et-larmee-peuvent-elles-faire-pencher-la-balance/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
