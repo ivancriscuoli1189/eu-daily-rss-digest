@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 13:28*
+*Generato: 27 Oct 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
-- [Général Chaabani : « 50% des trottoirs sont occupés illégalement »](https://lapresse.tn/2025/10/27/general-chaabani-50-des-trottoirs-sont-occupes-illegalement/)
+- [Le train rose reprend la route pour le dépistage du cancer du sein à Sfax et Tozeur](https://lapresse.tn/2025/10/27/le-train-rose-reprend-la-route-pour-le-depistage-du-cancer-du-sein-a-sfax-et-tozeur/)
+- [Alerte scientifique : le surmenage modifie la structure du cerveau](https://lapresse.tn/2025/10/27/alerte-scientifique-le-surmenage-modifie-la-structure-du-cerveau/)
+- [Transport aérien, financement, réformes : les priorités de Dorra Miled pour relancer le tourisme](https://lapresse.tn/2025/10/27/transport-aerien-financement-reformes-les-priorites-de-dorra-miled-pour-relancer-le-tourisme/)
+- [Accord de prêts personnels : la Poste tunisienne met les choses au clair](https://lapresse.tn/2025/10/27/accord-de-prets-personnels-la-poste-tunisienne-met-les-choses-au-clair/)
 - [En 2026, 1000 logements seront disponibles en location-accession](https://lapresse.tn/2025/10/27/en-2026-1000-logements-seront-disponibles-en-location-accession/)
-- [El Hamma (Gabès) : les préparatifs sont lancés pour la saison des cures thermales](https://lapresse.tn/2025/10/27/el-hamma-gabes-les-preparatifs-sont-lances-pour-la-saison-des-cures-thermales/)
 - [Bande de Gaza: tous les dons en nature non acheminés ont été remis au Croissant Rouge tunisien](https://lapresse.tn/2025/10/27/bande-de-gaza-tous-les-dons-en-nature-non-achemines-ont-ete-remis-au-croissant-rouge-tunisien/)
-- [À l’approche de l’hiver : la protection civile appelle à l’adoption de mesures préventives](https://lapresse.tn/2025/10/27/a-lapproche-de-lhiver-la-protection-civile-appelle-a-ladoption-de-mesures-preventives/)
+- [Général Chaabani : « 50% des trottoirs sont occupés illégalement »](https://lapresse.tn/2025/10/27/general-chaabani-50-des-trottoirs-sont-occupes-illegalement/)
 - [Une délégation de la BERD rencontre le ministre de l’Économie pour discuter du plan 2026-2030](https://lapresse.tn/2025/10/27/une-delegation-de-la-berd-rencontre-le-ministre-de-leconomie-pour-discuter-du-plan-2026-2030/)
-- [Le salon International des Études à l’Étranger se tient le 10 novembre prochain](https://lapresse.tn/2025/10/27/le-salon-international-des-etudes-a-letranger-se-tient-le-10-novembre-prochain/)
 - [Greenov’i lance son deuxième Appel à Manifestation d’Intérêt GreenAssist pour le Diagnostic Environnemental des Entreprises](https://lapresse.tn/2025/10/27/greenovi-lance-son-deuxieme-appel-a-manifestation-dinteret-greenassist-pour-le-diagnostic-environnemental-des-entreprises/)
-- [Hausse du nombre de visiteurs dans la zone touristique Sousse-Kantaoui](https://lapresse.tn/2025/10/27/hausse-du-nombre-de-visiteurs-dans-la-zone-touristique-sousse-kantaoui/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
+- [L’hôtel de Cuba à Casablanca, dernier vestige d’un empire dispersé](https://www.jeuneafrique.com/1733783/politique/lhotel-de-cuba-a-casablanca-dernier-vestige-dun-empire-disperse/)
 - [Pénurie de carburant : au Mali, la junte suspend les cours à l’école et l’université](https://www.jeuneafrique.com/1734780/politique/penurie-de-carburant-au-mali-la-junte-suspend-les-cours-a-lecole-et-luniversite/)
 - [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
 - [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
 - [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, les forces de l’ordre et l’armée peuvent-elles faire pencher la balance ?](https://www.jeuneafrique.com/1732627/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-les-forces-de-lordre-et-larmee-peuvent-elles-faire-pencher-la-balance/)
 - [Présidentielle au Cameroun : sur qui s’appuie Issa Tchiroma Bakary pour contraindre Paul Biya à partir](https://www.jeuneafrique.com/1733175/politique/presidentielle-au-cameroun-sur-qui-sappuie-issa-tchiroma-bakary-pour-contraindre-paul-biya-a-partir/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
-- [De la Makina à Tata Advanced Systems : deux siècles de production d’armes au Maroc](https://www.jeuneafrique.com/1733203/politique/de-la-makina-a-tata-advanced-systems-deux-siecles-de-production-darmes-au-maroc/)
-- [RDC-Rwanda : que faut-il attendre de la conférence de Paris sur les Grands Lacs ?](https://www.jeuneafrique.com/1734184/politique/rdc-rwanda-que-faut-il-attendre-de-la-conference-de-paris-sur-les-grands-lacs/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
