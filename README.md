@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Oct 2025, 11:05*
+*Generato: 27 Oct 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Tunisie-Chine : la vitesse de croisière](https://lapresse.tn/2025/10/26/tunisie-chine-la-vitesse-de-croisiere/)
-- [Hausse du nombre de visiteurs dans la zone touristique Sousse-Kantaoui](https://lapresse.tn/2025/10/27/hausse-du-nombre-de-visiteurs-dans-la-zone-touristique-sousse-kantaoui/)
-- [La Fondation « Fidaa » suit de près le dossier des logements sociaux](https://lapresse.tn/2025/10/27/la-fondation-fidaa-suit-de-pres-le-dossier-des-logements-sociaux/)
-- [Zones rurales : lancement du programme national des excursions scolaires au profit des écoles](https://lapresse.tn/2025/10/27/zones-rurales-lancement-du-programme-national-des-excursions-scolaires-au-profit-des-ecoles/)
+- [Du 27 octobre au 2 novembre : une caravane de santé multidisciplinaire devant le théâtre municipal de Tunis](https://lapresse.tn/2025/10/27/du-27-octobre-au-2-novembre-une-caravane-de-sante-multidisciplinaire-devant-le-theatre-municipal-de-tunis/)
+- [Management environnemental : l’Institut de Biotechnologie de Béja obtient la première certification nationale](https://lapresse.tn/2025/10/27/management-environnemental-linstitut-de-biotechnologie-de-beja-obtient-la-premiere-certification-nationale/)
+- [Filière viandes blanches : bientôt des souches parentales produites localement](https://lapresse.tn/2025/10/27/filiere-viandes-blanches-bientot-des-souches-parentales-produites-localement/)
 - [Aujourd’hui, le procès du complot contre la sûreté de l’État se tient à distance à Tunis](https://lapresse.tn/2025/10/27/aujourdhui-le-proces-du-complot-contre-la-surete-de-letat-se-tient-a-distance-a-tunis/)
 - [Démantèlement d’un réseau international de trafic de drogue entre la Tunisie et la Libye](https://lapresse.tn/2025/10/27/demantelement-dun-reseau-international-de-trafic-de-drogue-entre-la-tunisie-et-la-libye/)
 - [Météo : Nuages, baisse des températures et vent fort !](https://lapresse.tn/2025/10/27/meteo-nuages-baisse-des-temperatures-et-vent-fort/)
-- [200 enfants sont désormais des ambassadeurs numériques](https://lapresse.tn/2025/10/27/200-enfants-sont-desormais-des-ambassadeurs-numeriques/)
-- [Les enseignants suppléants réclament leur intégration](https://lapresse.tn/2025/10/27/les-enseignants-suppleants-reclament-leur-integration/)
-- [Destination Tunisie : le nombre de touristes britanniques a augmenté de 42%](https://lapresse.tn/2025/10/27/destination-tunisie-le-nombre-de-touristes-britanniques-a-augmente-de-42/)
+- [La Fondation « Fidaa » suit de près le dossier des logements sociaux](https://lapresse.tn/2025/10/27/la-fondation-fidaa-suit-de-pres-le-dossier-des-logements-sociaux/)
+- [Greenov’i lance son deuxième Appel à Manifestation d’Intérêt GreenAssist pour le Diagnostic Environnemental des Entreprises](https://lapresse.tn/2025/10/27/greenovi-lance-son-deuxieme-appel-a-manifestation-dinteret-greenassist-pour-le-diagnostic-environnemental-des-entreprises/)
+- [Hausse du nombre de visiteurs dans la zone touristique Sousse-Kantaoui](https://lapresse.tn/2025/10/27/hausse-du-nombre-de-visiteurs-dans-la-zone-touristique-sousse-kantaoui/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Pénurie de carburant : au Mali, la junte suspend les cours à l’école et l’université](https://www.jeuneafrique.com/1734780/politique/penurie-de-carburant-au-mali-la-junte-suspend-les-cours-a-lecole-et-luniversite/)
 - [Présidentielle en Côte d’Ivoire : victoire écrasante d’Alassane Ouattara, selon les premiers résultats](https://www.jeuneafrique.com/1734800/politique/presidentielle-en-cote-divoire-victoire-ecrasante-dalassane-ouattara-selon-les-premiers-resultats/)
 - [Présidentielle au Cameroun : quatre morts dans des manifestations, résultats attendus ce lundi](https://www.jeuneafrique.com/1734784/politique/presidentielle-au-cameroun-quatre-morts-dans-des-manifestations-resultats-attendus-ce-lundi/)
+- [Présidentielle au Cameroun : entre Biya et Tchiroma Bakary, les forces de l’ordre et l’armée peuvent-elles faire pencher la balance ?](https://www.jeuneafrique.com/1732627/politique/presidentielle-au-cameroun-entre-biya-et-tchiroma-bakary-les-forces-de-lordre-et-larmee-peuvent-elles-faire-pencher-la-balance/)
 - [Présidentielle au Cameroun : sur qui s’appuie Issa Tchiroma Bakary pour contraindre Paul Biya à partir](https://www.jeuneafrique.com/1733175/politique/presidentielle-au-cameroun-sur-qui-sappuie-issa-tchiroma-bakary-pour-contraindre-paul-biya-a-partir/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh pourra se présenter pour un sixième mandat](https://www.jeuneafrique.com/1734765/politique/presidentielle-a-djibouti-ismail-omar-guelleh-pourra-se-presenter-pour-un-sixieme-mandat/)
 - [De la Makina à Tata Advanced Systems : deux siècles de production d’armes au Maroc](https://www.jeuneafrique.com/1733203/politique/de-la-makina-a-tata-advanced-systems-deux-siecles-de-production-darmes-au-maroc/)
 - [RDC-Rwanda : que faut-il attendre de la conférence de Paris sur les Grands Lacs ?](https://www.jeuneafrique.com/1734184/politique/rdc-rwanda-que-faut-il-attendre-de-la-conference-de-paris-sur-les-grands-lacs/)
-- [Tunis suspend les activités d’une ONG fer de lance des luttes pour la démocratie](https://www.jeuneafrique.com/1734689/politique/tunis-suspend-les-activites-dune-ong-fer-de-lance-des-luttes-pour-la-democratie/)
-- [Présidentielle au Cameroun : deux soutiens d’Issa Tchiroma Bakary arrêtés](https://www.jeuneafrique.com/1734681/politique/presidentielle-au-cameroun-deux-soutiens-dissa-tchiroma-bakary-arretes/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
