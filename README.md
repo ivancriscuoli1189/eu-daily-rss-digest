@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 15:12*
+*Generato: 28 Oct 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -147,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
-- [ARP: une initiative législative sur la protection des animaux à l’étude](https://lapresse.tn/2025/10/28/arp-une-initiative-legislative-sur-la-protection-des-animaux-a-letude/)
-- [Auto-entrepreneuriat : 5 000 inscrits un an après le lancement du programme](https://lapresse.tn/2025/10/28/auto-entrepreneuriat-5-000-inscrits-un-an-apres-le-lancement-du-programme/)
-- [Lancement officiel de la plateforme RSE by STB : Durabilité en mission, équité en actions](https://lapresse.tn/2025/10/28/lancement-officiel-de-la-plateforme-rse-by-stb-durabilite-en-mission-equite-en-actions-communiquons-notre-engagement-pour-un-impact-positif/)
-- [L’ex premier président de la Cour de Cassation condamné à trente ans de prison](https://lapresse.tn/2025/10/28/lex-premier-president-de-la-cour-de-cassation-condamne-a-trente-ans-de-prison/)
-- [Dattes : prémices d’une saison record](https://lapresse.tn/2025/10/28/dattes-premices-dune-saison-record/)
-- [Testour : demain, coup d’envoi de la neuvième édition du festival de la grenade](https://lapresse.tn/2025/10/28/testour-demain-coup-denvoi-de-la-neuvieme-edition-du-festival-de-la-grenade/)
-- [Plus de 90 % des pharmacies se plaignent du retard de paiement de la CNAM !](https://lapresse.tn/2025/10/28/plus-de-90-des-pharmacies-se-plaignent-du-retard-de-paiement-de-la-cnam/)
-- [Epson réaffirme son engagement en faveur de l’éducation et des jeunes](https://lapresse.tn/2025/10/28/epson-reaffirme-son-engagement-en-faveur-de-leducation-et-des-jeunes/)
-- [Ministre de l’Équipement : « Nous nous efforçons de fournir un logement décent à chaque citoyen »](https://lapresse.tn/2025/10/28/ministre-de-lequipement-nous-nous-efforcons-de-fournir-un-logement-decent-a-chaque-citoyen/)
+- [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
+- [« Mémoire de la main », exposition collective de sculptures à la Galerie TGM : Des générations et des reliefs](https://lapresse.tn/2025/10/28/memoire-de-la-main-exposition-collective-de-sculptures-a-la-galerie-tgm-des-generations-et-des-reliefs/)
+- [La Marsa accueille ce dimanche la première édition des “Tunisia Street Games”](https://lapresse.tn/2025/10/28/la-marsa-accueille-ce-dimanche-la-premiere-edition-des-tunisia-street-games/)
+- [Mes Odyssees en Mediterranee La Galite : l’île tunisienne façonnée par les pêcheurs siciliens et ponzais](https://lapresse.tn/2025/10/28/mes-odyssees-en-mediterranee-la-galite-lile-tunisienne-faconnee-par-les-pecheurs-siciliens-et-ponzais/)
+- [Tunisie : ciel peu nuageux et vents modérés pour la nuit de mardi](https://lapresse.tn/2025/10/28/tunisie-ciel-peu-nuageux-et-vents-moderes-pour-la-nuit-de-mardi/)
+- [Tunisie : le ministre de l’Intérieur reçoit l’ambassadeur d’Égypte](https://lapresse.tn/2025/10/28/tunisie-le-ministre-de-linterieur-recoit-lambassadeur-degypte-2/)
+- [Tunisie : le ministre de l’Intérieur reçoit l’ambassadeur d’Égypte](https://lapresse.tn/2025/10/28/tunisie-le-ministre-de-linterieur-recoit-lambassadeur-degypte/)
+- [Transport public – la sécurité des usagers remise en question : Une situation assez tendue](https://lapresse.tn/2025/10/28/transport-public-la-securite-des-usagers-remise-en-question-une-situation-assez-tendue/)
+- [Balloons Event Show Tunisia: « Les règles doivent être respectées pour le vol des montgolfières »](https://lapresse.tn/2025/10/28/balloons-event-show-tunisia-les-regles-doivent-etre-respectees-pour-le-vol-des-montgolfieres/)
+- [l’ONFP et l’Octobre rose : Pour un dépistage précoce accessible à toutes !](https://lapresse.tn/2025/10/28/lonfp-et-loctobre-rose-pour-un-depistage-precoce-accessible-a-toutes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,13 +238,26 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Derrière l’hôtel de Cuba, l’insoluble problème de la spoliation immobilière au Maroc](https://www.jeuneafrique.com/1734052/politique/derriere-lhotel-de-cuba-linsoluble-probleme-de-la-spoliation-immobiliere-au-maroc/)
 - [Carburants : Bamako sur la réserve](https://www.jeuneafrique.com/1731631/politique/carburants-bamako-sur-la-reserve/)
+- [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
 - [La rue et le Parlement – par Fouad Laroui](https://www.jeuneafrique.com/1731059/politique/la-rue-et-le-parlement-par-fouad-laroui/)
 - [Présidentielle au Cameroun : flambée de violence après l’annonce de la victoire de Paul Biya](https://www.jeuneafrique.com/1735052/politique/presidentielle-au-cameroun-flambee-de-violence-apres-lannonce-de-la-victoire-de-paul-biya/)
 - [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
 - [Présidentielle en Côte d’Ivoire : Alassane Ouattara en tête avec 89,77 % des voix](https://www.jeuneafrique.com/1734746/politique/presidentielle-en-cote-divoire-alassane-ouattara-en-tete-avec-8977-des-voix/)
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
-- [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
-- [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
 - [Maroc : les secrets du modèle économique de l’UM6P](https://www.jeuneafrique.com/1734527/economie-entreprises/maroc-les-secrets-du-modele-economique-de-lum6p/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
+
+## MAGAZINES – LIMES – Mappe parlanti
+
+- [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
+- [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
+- [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
+- [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
+- [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
+- [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
+- [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
+- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
+- [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
+- [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
