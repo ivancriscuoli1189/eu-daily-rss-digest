@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 11:10*
+*Generato: 28 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,14 +148,14 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
+- [Lancement officiel de la plateforme RSE by STB : Durabilité en mission, équité en actions](https://lapresse.tn/2025/10/28/lancement-officiel-de-la-plateforme-rse-by-stb-durabilite-en-mission-equite-en-actions-communiquons-notre-engagement-pour-un-impact-positif/)
 - [Dattes : prémices d’une saison record](https://lapresse.tn/2025/10/28/dattes-premices-dune-saison-record/)
 - [Testour : demain, coup d’envoi de la neuvième édition du festival de la grenade](https://lapresse.tn/2025/10/28/testour-demain-coup-denvoi-de-la-neuvieme-edition-du-festival-de-la-grenade/)
-- [Epson réaffirme son engagement en faveur de l’éducation et des jeunes](https://lapresse.tn/2025/10/28/epson-reaffirme-son-engagement-en-faveur-de-leducation-et-des-jeunes/)
+- [L’ex premier président de la Cour de Cassation condamné à trente ans de prison](https://lapresse.tn/2025/10/28/lex-premier-president-de-la-cour-de-cassation-condamne-a-trente-ans-de-prison/)
 - [Tunisie–Algérie : vers une intégration économique et frontalière accrue](https://lapresse.tn/2025/10/28/tunisie-algerie-vers-une-integration-economique-et-frontaliere-accrue/)
 - [La Tunisie abrite le Centre africain d’excellence pour les marchés inclusifs](https://lapresse.tn/2025/10/28/la-tunisie-abrite-le-centre-africain-dexcellence-pour-les-marches-inclusifs/)
-- [Météo : Un mardi majoritairement ensoleillé !](https://lapresse.tn/2025/10/28/meteo-un-mardi-majoritairement-ensoleille/)
 - [Plus de 90 % des pharmacies se plaignent du retard de paiement de la CNAM !](https://lapresse.tn/2025/10/28/plus-de-90-des-pharmacies-se-plaignent-du-retard-de-paiement-de-la-cnam/)
-- [Concours international de design : des élèves de l’Institut d’El Jem obtiennent la première place à l’échelle nationale](https://lapresse.tn/2025/10/28/concours-international-de-design-des-eleves-de-linstitut-del-jem-obtiennent-la-premiere-place-a-lechelle-nationale/)
+- [Epson réaffirme son engagement en faveur de l’éducation et des jeunes](https://lapresse.tn/2025/10/28/epson-reaffirme-son-engagement-en-faveur-de-leducation-et-des-jeunes/)
 - [Ministre de l’Équipement : « Nous nous efforçons de fournir un logement décent à chaque citoyen »](https://lapresse.tn/2025/10/28/ministre-de-lequipement-nous-nous-efforcons-de-fournir-un-logement-decent-a-chaque-citoyen/)
 
 ## NGOs – Amnesty International – Tunisia
@@ -199,6 +199,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
 - [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
 - [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
@@ -208,7 +209,6 @@
 - [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
 - [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
-- [Out of the rubble: The new Gulf response to Israeli aggression](https://ecfr.eu/article/out-of-the-rubble-the-new-gulf-response-to-israeli-aggression/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -239,13 +239,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Carburants : Bamako sur la réserve](https://www.jeuneafrique.com/1731631/politique/carburants-bamako-sur-la-reserve/)
-- [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
+- [La rue et le Parlement – par Fouad Laroui](https://www.jeuneafrique.com/1731059/politique/la-rue-et-le-parlement-par-fouad-laroui/)
+- [Présidentielle au Cameroun : flambée de violence après l’annonce de la victoire de Paul Biya](https://www.jeuneafrique.com/1735052/politique/presidentielle-au-cameroun-flambee-de-violence-apres-lannonce-de-la-victoire-de-paul-biya/)
 - [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
 - [Présidentielle en Côte d’Ivoire : Alassane Ouattara en tête avec 89,77 % des voix](https://www.jeuneafrique.com/1734746/politique/presidentielle-en-cote-divoire-alassane-ouattara-en-tete-avec-8977-des-voix/)
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
 - [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
-- [Sénégal : comment la controverse autour de la dette cachée a envahi le débat public](https://www.jeuneafrique.com/1734115/politique/senegal-comment-la-controverse-autour-de-la-dette-cachee-a-envahi-le-debat-public/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
