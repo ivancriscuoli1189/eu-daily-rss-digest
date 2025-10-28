@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 12:18*
+*Generato: 28 Oct 2025, 13:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -57,7 +57,6 @@
 ## UE – EP – Press Room
 
 - [Gender equality week: closing the gender talent gap](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31093/gender-equality-week-closing-the-gender-talent-gap)
-- [MEPs to visit Democratic Republic of the Congo](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31097/meps-to-visit-democratic-republic-of-the-congo)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
@@ -66,11 +65,12 @@
 - [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
+- [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -246,8 +246,8 @@
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
 - [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
+- [Maroc : les secrets du modèle économique de l’UM6P](https://www.jeuneafrique.com/1734527/economie-entreprises/maroc-les-secrets-du-modele-economique-de-lum6p/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
-- [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
