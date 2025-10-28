@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 06:16*
+*Generato: 28 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
+- [BCT : de nouvelles règles pour simplifier les exportations tunisiennes](https://lapresse.tn/2025/10/28/bct-de-nouvelles-regles-pour-simplifier-les-exportations-tunisiennes/)
+- [Tunisie : vers une classification officielle du secteur de la location de voitures ?](https://lapresse.tn/2025/10/28/tunisie-vers-une-classification-officielle-du-secteur-de-la-location-de-voitures/)
+- [Zaghouan : Signature d’un accord tuniso-koweïtien pour le forage de deux puits profonds](https://lapresse.tn/2025/10/28/zaghouan-signature-dun-accord-tuniso-koweitien-pour-le-forage-de-deux-puits-profonds/)
+- [La Tunisie abrite le Centre africain d’excellence pour les marchés inclusifs](https://lapresse.tn/2025/10/28/la-tunisie-abrite-le-centre-africain-dexcellence-pour-les-marches-inclusifs/)
+- [Météo : Un mardi majoritairement ensoleillé !](https://lapresse.tn/2025/10/28/meteo-un-mardi-majoritairement-ensoleille/)
 - [Saïed réaffirme : Aucun retour en arrière sur le rôle social de l’État](https://lapresse.tn/2025/10/28/saied-reaffirme-aucun-retour-en-arriere-sur-le-role-social-de-letat/)
-- [Saïed trace la voie d’une refondation sociale : Equilibre, transparence et responsabilité](https://lapresse.tn/2025/10/28/saied-trace-la-voie-dune-refondation-sociale-equilibre-transparence-et-responsabilite/)
+- [Le kilo de viande dépasse 40 dinars : les consommateurs à bout !](https://lapresse.tn/2025/10/28/le-kilo-de-viande-depasse-40-dinars-les-consommateurs-a-bout/)
 - [868 millions de dinars pour réhabiliter 160 quartiers à travers la Tunisie](https://lapresse.tn/2025/10/27/868-millions-de-dinars-pour-rehabiliter-160-quartiers-a-travers-la-tunisie/)
-- [Tunis accueille la deuxième session des consultations politiques tuniso-irakiennes](https://lapresse.tn/2025/10/27/tunis-accueille-la-deuxieme-session-des-consultations-politiques-tuniso-irakiennes/)
-- [Invalidation du passeport tunisien ? Le ministère de l’Intérieur précise](https://lapresse.tn/2025/10/27/invalidation-du-passeport-tunisien-le-ministere-de-linterieur-precise/)
 - [Kairouan Le démarrage de la récolte des olives fixé au 1er novembre](https://lapresse.tn/2025/10/27/kairouan-le-demarrage-de-la-recolte-des-olives-fixe-au-1er-novembre/)
-- [Production Sucrière : Atteindre l’autosuffisance](https://lapresse.tn/2025/10/27/production-sucriere-atteindre-lautosuffisance/)
-- [Clin d’œil : Arnaque en ligne livrée à domicile](https://lapresse.tn/2025/10/27/clin-doeil-arnaque-en-ligne-livree-a-domicile/)
-- [Tunisie – L’initiative chinoise de la Route de la Soie Numérique : Tirer parti de la nouvelle connectivité mondiale](https://lapresse.tn/2025/10/27/tunisie-linitiative-chinoise-de-la-route-de-la-soie-numerique-tirer-parti-de-la-nouvelle-connectivite-mondiale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,8 +238,8 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Côte d’Ivoire, Alassane Ouattara, un quatrième mandat sans rival et à la recherche d’un successeur](https://www.jeuneafrique.com/1734822/politique/en-cote-divoire-alassane-ouattara-un-quatrieme-mandat-sans-rival-et-a-la-recherche-dun-successeur/)
 - [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
+- [Présidentielle en Côte d’Ivoire : Alassane Ouattara en tête avec 89,77 % des voix](https://www.jeuneafrique.com/1734746/politique/presidentielle-en-cote-divoire-alassane-ouattara-en-tete-avec-8977-des-voix/)
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
 - [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
