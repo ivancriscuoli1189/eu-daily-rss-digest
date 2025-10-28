@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 09:12*
+*Generato: 28 Oct 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -56,6 +56,7 @@
 
 ## UE – EP – Press Room
 
+- [Gender equality week: closing the gender talent gap](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31093/gender-equality-week-closing-the-gender-talent-gap)
 - [MEPs to visit Democratic Republic of the Congo](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31097/meps-to-visit-democratic-republic-of-the-congo)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
@@ -65,12 +66,11 @@
 - [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
 - [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
-- [MEPs to vote on simplified sustainability and due diligence rules in November](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30956/meps-to-vote-on-simplified-sustainability-and-due-diligence-rules-in-november)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
-- [BCT : de nouvelles règles pour simplifier les exportations tunisiennes](https://lapresse.tn/2025/10/28/bct-de-nouvelles-regles-pour-simplifier-les-exportations-tunisiennes/)
-- [Tunisie : vers une classification officielle du secteur de la location de voitures ?](https://lapresse.tn/2025/10/28/tunisie-vers-une-classification-officielle-du-secteur-de-la-location-de-voitures/)
-- [Zaghouan : Signature d’un accord tuniso-koweïtien pour le forage de deux puits profonds](https://lapresse.tn/2025/10/28/zaghouan-signature-dun-accord-tuniso-koweitien-pour-le-forage-de-deux-puits-profonds/)
+- [Dattes : prémices d’une saison record](https://lapresse.tn/2025/10/28/dattes-premices-dune-saison-record/)
+- [Testour : demain, coup d’envoi de la neuvième édition du festival de la grenade](https://lapresse.tn/2025/10/28/testour-demain-coup-denvoi-de-la-neuvieme-edition-du-festival-de-la-grenade/)
+- [Epson réaffirme son engagement en faveur de l’éducation et des jeunes](https://lapresse.tn/2025/10/28/epson-reaffirme-son-engagement-en-faveur-de-leducation-et-des-jeunes/)
+- [Tunisie–Algérie : vers une intégration économique et frontalière accrue](https://lapresse.tn/2025/10/28/tunisie-algerie-vers-une-integration-economique-et-frontaliere-accrue/)
 - [La Tunisie abrite le Centre africain d’excellence pour les marchés inclusifs](https://lapresse.tn/2025/10/28/la-tunisie-abrite-le-centre-africain-dexcellence-pour-les-marches-inclusifs/)
 - [Météo : Un mardi majoritairement ensoleillé !](https://lapresse.tn/2025/10/28/meteo-un-mardi-majoritairement-ensoleille/)
-- [Saïed réaffirme : Aucun retour en arrière sur le rôle social de l’État](https://lapresse.tn/2025/10/28/saied-reaffirme-aucun-retour-en-arriere-sur-le-role-social-de-letat/)
-- [Le kilo de viande dépasse 40 dinars : les consommateurs à bout !](https://lapresse.tn/2025/10/28/le-kilo-de-viande-depasse-40-dinars-les-consommateurs-a-bout/)
-- [868 millions de dinars pour réhabiliter 160 quartiers à travers la Tunisie](https://lapresse.tn/2025/10/27/868-millions-de-dinars-pour-rehabiliter-160-quartiers-a-travers-la-tunisie/)
-- [Kairouan Le démarrage de la récolte des olives fixé au 1er novembre](https://lapresse.tn/2025/10/27/kairouan-le-demarrage-de-la-recolte-des-olives-fixe-au-1er-novembre/)
+- [Plus de 90 % des pharmacies se plaignent du retard de paiement de la CNAM !](https://lapresse.tn/2025/10/28/plus-de-90-des-pharmacies-se-plaignent-du-retard-de-paiement-de-la-cnam/)
+- [Concours international de design : des élèves de l’Institut d’El Jem obtiennent la première place à l’échelle nationale](https://lapresse.tn/2025/10/28/concours-international-de-design-des-eleves-de-linstitut-del-jem-obtiennent-la-premiere-place-a-lechelle-nationale/)
+- [Ministre de l’Équipement : « Nous nous efforçons de fournir un logement décent à chaque citoyen »](https://lapresse.tn/2025/10/28/ministre-de-lequipement-nous-nous-efforcons-de-fournir-un-logement-decent-a-chaque-citoyen/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Carburants : Bamako sur la réserve](https://www.jeuneafrique.com/1731631/politique/carburants-bamako-sur-la-reserve/)
+- [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
 - [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
 - [Présidentielle en Côte d’Ivoire : Alassane Ouattara en tête avec 89,77 % des voix](https://www.jeuneafrique.com/1734746/politique/presidentielle-en-cote-divoire-alassane-ouattara-en-tete-avec-8977-des-voix/)
 - [Washington rétropédale sur les cautions de visa exigées aux Maliens](https://www.jeuneafrique.com/1734910/politique/washington-retropedale-sur-les-cautions-de-visa-exigees-aux-maliens/)
 - [Cameroun : Grégoire Owona « demande aux jeunes de ne pas descendre dans la rue »](https://www.jeuneafrique.com/1734301/politique/cameroun-gregoire-owona-demande-aux-jeunes-de-ne-pas-descendre-dans-la-rue/)
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
-- [Présidentielle au Cameroun: le Conseil constitutionnel proclame la victoire de Paul Biya](https://www.jeuneafrique.com/1733404/politique/presidentielle-au-cameroun-le-conseil-constitutionnel-proclame-la-victoire-de-paul-biya/)
-- [L’hôtel de Cuba à Casablanca, dernier vestige d’un empire dispersé](https://www.jeuneafrique.com/1733783/politique/lhotel-de-cuba-a-casablanca-dernier-vestige-dun-empire-disperse/)
-- [Pénurie de carburant : au Mali, la junte suspend les cours à l’école et l’université](https://www.jeuneafrique.com/1734780/politique/penurie-de-carburant-au-mali-la-junte-suspend-les-cours-a-lecole-et-luniversite/)
+- [Sénégal : comment la controverse autour de la dette cachée a envahi le débat public](https://www.jeuneafrique.com/1734115/politique/senegal-comment-la-controverse-autour-de-la-dette-cachee-a-envahi-le-debat-public/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 - [Mozambique : TotalEnergies veut relancer le géant gazier de Cabo Delgado, à prix fort](https://www.jeuneafrique.com/1734829/economie-entreprises/mozambique-totalenergies-veut-relancer-le-geant-gazier-de-cabo-delgado-a-prix-fort/)
 
