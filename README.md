@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 13:27*
+*Generato: 28 Oct 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,12 +148,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Le choix de la cohésion](https://lapresse.tn/2025/10/27/le-choix-de-la-cohesion/)
+- [ARP: une initiative législative sur la protection des animaux à l’étude](https://lapresse.tn/2025/10/28/arp-une-initiative-legislative-sur-la-protection-des-animaux-a-letude/)
+- [Auto-entrepreneuriat : 5 000 inscrits un an après le lancement du programme](https://lapresse.tn/2025/10/28/auto-entrepreneuriat-5-000-inscrits-un-an-apres-le-lancement-du-programme/)
 - [Lancement officiel de la plateforme RSE by STB : Durabilité en mission, équité en actions](https://lapresse.tn/2025/10/28/lancement-officiel-de-la-plateforme-rse-by-stb-durabilite-en-mission-equite-en-actions-communiquons-notre-engagement-pour-un-impact-positif/)
+- [L’ex premier président de la Cour de Cassation condamné à trente ans de prison](https://lapresse.tn/2025/10/28/lex-premier-president-de-la-cour-de-cassation-condamne-a-trente-ans-de-prison/)
 - [Dattes : prémices d’une saison record](https://lapresse.tn/2025/10/28/dattes-premices-dune-saison-record/)
 - [Testour : demain, coup d’envoi de la neuvième édition du festival de la grenade](https://lapresse.tn/2025/10/28/testour-demain-coup-denvoi-de-la-neuvieme-edition-du-festival-de-la-grenade/)
-- [L’ex premier président de la Cour de Cassation condamné à trente ans de prison](https://lapresse.tn/2025/10/28/lex-premier-president-de-la-cour-de-cassation-condamne-a-trente-ans-de-prison/)
-- [Tunisie–Algérie : vers une intégration économique et frontalière accrue](https://lapresse.tn/2025/10/28/tunisie-algerie-vers-une-integration-economique-et-frontaliere-accrue/)
-- [La Tunisie abrite le Centre africain d’excellence pour les marchés inclusifs](https://lapresse.tn/2025/10/28/la-tunisie-abrite-le-centre-africain-dexcellence-pour-les-marches-inclusifs/)
 - [Plus de 90 % des pharmacies se plaignent du retard de paiement de la CNAM !](https://lapresse.tn/2025/10/28/plus-de-90-des-pharmacies-se-plaignent-du-retard-de-paiement-de-la-cnam/)
 - [Epson réaffirme son engagement en faveur de l’éducation et des jeunes](https://lapresse.tn/2025/10/28/epson-reaffirme-son-engagement-en-faveur-de-leducation-et-des-jeunes/)
 - [Ministre de l’Équipement : « Nous nous efforçons de fournir un logement décent à chaque citoyen »](https://lapresse.tn/2025/10/28/ministre-de-lequipement-nous-nous-efforcons-de-fournir-un-logement-decent-a-chaque-citoyen/)
@@ -248,16 +248,3 @@
 - [Mali : Moussa Mara condamné à deux ans de prison, dont un avec sursis](https://www.jeuneafrique.com/1734945/politique/mali-moussa-mara-condamne-a-deux-ans-de-prison-dont-un-avec-sursis/)
 - [Maroc : les secrets du modèle économique de l’UM6P](https://www.jeuneafrique.com/1734527/economie-entreprises/maroc-les-secrets-du-modele-economique-de-lum6p/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
-
-## MAGAZINES – LIMES – Mappe parlanti
-
-- [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
-- [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
-- [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
-- [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
-- [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
-- [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
-- [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
-- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
-- [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
-- [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
