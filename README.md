@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 12:21*
+*Generato: 29 Oct 2025, 15:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
-- [Ligue 1 – Mise à jour de la 11e journée – ST : Avancer vers la conquête](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-st-avancer-vers-la-conquete/)
-- [Ligue 1 – Mise à jour de la 11e journée – CSS : Enfin, tous les atouts en main](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-css-enfin-tous-les-atouts-en-main/)
-- [Ligue 1 – Mise à jour de la 11e journée – ASM : Réagir tant qu’il est temps…](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-asm-reagir-tant-quil-est-temps/)
+- [Championnats d’Afrique d’Aviron de Plage : une médaille d’argent pour le double Senior Dames et une médaille de bronze pour le double Senior Hommes](https://lapresse.tn/2025/10/29/championnats-dafrique-daviron-de-plage-une-medaille-dargent-pour-le-double-senior-dames-et-une-medaille-de-bronze-pour-le-double-senior-hommes/)
+- [Manouba: coup d’envoi de la récolte des olives](https://lapresse.tn/2025/10/29/manouba-coup-denvoi-de-la-recolte-des-olives/)
+- [Maladies courantes: le syndicat des pharmacies privées appelle au maintien du système de remboursement des médicaments](https://lapresse.tn/2025/10/29/maladies-courantes-le-syndicat-des-pharmacies-privees-appelle-au-maintien-du-systeme-de-remboursement-des-medicaments/)
 - [Garde nationale : un réseau dissimulant de la drogue dans des bouteilles d’oxygène démantelé](https://lapresse.tn/2025/10/29/garde-nationale-un-reseau-dissimulant-de-la-drogue-dans-des-bouteilles-doxygene-demantele/)
 - [Travaux d’extension : modification du trafic sur l’entrée sud de Tunis](https://lapresse.tn/2025/10/29/travaux-dextension-modification-du-trafic-sur-lentree-sud-de-tunis/)
 - [La Tunisie active le plan de prévention contre la grippe saisonnière et les maladies respiratoires](https://lapresse.tn/2025/10/29/la-tunisie-active-le-plan-de-prevention-contre-la-grippe-saisonniere-et-les-maladies-respiratoires/)
-- [Selon une étude américaine, une substance utilisée dans le nettoyage à sec doublerait le risque de cirrhose du foie](https://lapresse.tn/2025/10/29/selon-une-etude-americaine-une-substance-utilisee-dans-le-nettoyage-a-sec-doublerait-le-risque-de-cirrhose-du-foie/)
-- [Santé publique : en Tunisie, un AVC est enregistré toutes les 30 minutes et un décès toutes les deux heures](https://lapresse.tn/2025/10/29/sante-publique-en-tunisie-un-avc-est-enregistre-toutes-les-30-minutes-et-un-deces-toutes-les-deux-heures/)
-- [Concours 6ème et 9ème année de base : démarrage des inscriptions à distance](https://lapresse.tn/2025/10/29/concours-6eme-et-9eme-annee-de-base-demarrage-des-inscriptions-a-distance/)
+- [Omra : La FTAV rappelle l’obligation de contrat et met en garde contre la fraude et l’intermédiation illégale](https://lapresse.tn/2025/10/29/omra-la-ftav-rappelle-lobligation-de-contrat-et-met-en-garde-contre-la-fraude-et-lintermediation-illegale/)
+- [La Fédération des agences de voyages dévoile les prix de la Omra](https://lapresse.tn/2025/10/29/la-federation-des-agences-de-voyages-devoile-les-prix-de-la-omra/)
+- [Dépenses salariales : une hausse de 3.6% prévue en 2026](https://lapresse.tn/2025/10/29/depenses-salariales-une-hausse-de-3-6-prevue-en-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Critique de Donald Trump, le prix Nobel de la littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
+- [Critique de Donald Trump, le prix Nobel de littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
 - [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
 - [L’ambassade américaine exhorte ses ressortissants à « quitter immédiatement » le Mali](https://www.jeuneafrique.com/1735476/politique/lambassade-americaine-exhorte-ses-ressortissants-a-quitter-immediatement-le-mali/)
 - [Au Burkina, la junte d’Ibrahim Traoré dissout la commission électorale](https://www.jeuneafrique.com/1735478/politique/au-burkina-la-junte-dibrahim-traore-dissout-la-commission-electorale/)
 - [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
 - [À la présidentielle guinéenne, le filtre par la caution ?](https://www.jeuneafrique.com/1735219/politique/a-la-presidentielle-guineenne-le-filtre-par-la-caution/)
+- [Mali : pour ses passeports, Bamako mise désormais sur la technologie chinoise](https://www.jeuneafrique.com/1735273/politique/mali-pour-ses-passeports-bamako-mise-desormais-sur-la-technologie-chinoise/)
 - [Bénin : maintenant que le parti de Boni Yayi est hors jeu, la présidentielle est-elle jouée d’avance ?](https://www.jeuneafrique.com/1735268/politique/benin-maintenant-que-le-parti-de-boni-yayi-est-hors-jeu-la-presidentielle-est-elle-jouee-davance/)
-- [Haute Cour de justice au Sénégal : pourquoi Macky Sall a obtenu un sursis](https://www.jeuneafrique.com/1735192/politique/haute-cour-de-justice-au-senegal-pourquoi-macky-sall-a-obtenu-un-sursis/)
+- [Afrique de l’Ouest : banquiers et miniers, une bonne idée ?](https://www.jeuneafrique.com/1735289/economie-entreprises/afrique-de-louest-banquiers-et-miniers-une-bonne-idee/)
 - [Air Sénégal : quand l’État retourne au chevet de sa compagnie malgré les difficultés financières](https://www.jeuneafrique.com/1735222/economie-entreprises/air-senegal-quand-letat-retourne-au-chevet-de-sa-compagnie-malgre-les-difficultes-financieres/)
-- [À Conakry, la réplique du groupe minier GAC pousse Mamadi Doumbouya à négocier](https://www.jeuneafrique.com/1735069/economie-entreprises/a-conakry-la-replique-du-minier-gac-pousse-mamadi-doumbouya-a-negocier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
