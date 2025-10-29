@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 06:17*
+*Generato: 29 Oct 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
+- [Garde nationale : un réseau dissimulant de la drogue dans des bouteilles d’oxygène démantelé](https://lapresse.tn/2025/10/29/garde-nationale-un-reseau-dissimulant-de-la-drogue-dans-des-bouteilles-doxygene-demantele/)
+- [La Tunisie accueille pour la première fois la réunion mondiale des centres de sûreté aérienne de l’OACI](https://lapresse.tn/2025/10/29/la-tunisie-accueille-pour-la-premiere-fois-la-reunion-mondiale-des-centres-de-surete-aerienne-de-loaci/)
+- [Moins de 400 m³ d’eau par habitant : un workshop pour repenser la durabilité hydrique](https://lapresse.tn/2025/10/29/moins-de-400-m%c2%b3-deau-par-habitant-un-workshop-pour-repenser-la-durabilite-hydrique/)
+- [Travaux d’extension : modification du trafic sur l’entrée sud de Tunis](https://lapresse.tn/2025/10/29/travaux-dextension-modification-du-trafic-sur-lentree-sud-de-tunis/)
+- [La Tunisie active le plan de prévention contre la grippe saisonnière et les maladies respiratoires](https://lapresse.tn/2025/10/29/la-tunisie-active-le-plan-de-prevention-contre-la-grippe-saisonniere-et-les-maladies-respiratoires/)
 - [Météo : Le soleil domine ce mercredi !](https://lapresse.tn/2025/10/29/meteo-le-soleil-domine-ce-mercredi/)
 - [La Mloukhya est-elle vraiment interdite en France ?](https://lapresse.tn/2025/10/28/la-mloukhya-est-elle-vraiment-interdite-en-france/)
-- [Point de vue : Sauvez l’Etoile !](https://lapresse.tn/2025/10/28/point-de-vue-sauvez-letoile/)
-- [Bonne nouvelle : la CNAM maintient le système du tiers payant avec les pharmacies](https://lapresse.tn/2025/10/28/bonne-nouvelle-la-cnam-maintient-le-systeme-du-tiers-payant-avec-les-pharmacies/)
-- [Tunisie : ciel peu nuageux et vents modérés pour la nuit de mardi](https://lapresse.tn/2025/10/28/tunisie-ciel-peu-nuageux-et-vents-moderes-pour-la-nuit-de-mardi/)
-- [Tunisie : le ministre de l’Intérieur reçoit l’ambassadeur d’Égypte](https://lapresse.tn/2025/10/28/tunisie-le-ministre-de-linterieur-recoit-lambassadeur-degypte-2/)
 - [La Marsa accueille ce dimanche la première édition des “Tunisia Street Games”](https://lapresse.tn/2025/10/28/la-marsa-accueille-ce-dimanche-la-premiere-edition-des-tunisia-street-games/)
 - [Transport public – la sécurité des usagers remise en question : Une situation assez tendue](https://lapresse.tn/2025/10/28/transport-public-la-securite-des-usagers-remise-en-question-une-situation-assez-tendue/)
-- [Balloons Event Show Tunisia: « Les règles doivent être respectées pour le vol des montgolfières »](https://lapresse.tn/2025/10/28/balloons-event-show-tunisia-les-regles-doivent-etre-respectees-pour-le-vol-des-montgolfieres/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Mali : pour ses passeports, Bamako mise désormais sur la technologie chinoise](https://www.jeuneafrique.com/1735273/politique/mali-pour-ses-passeports-bamako-mise-desormais-sur-la-technologie-chinoise/)
+- [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
+- [À la présidentielle guinéenne, le filtre par la caution ?](https://www.jeuneafrique.com/1735219/politique/a-la-presidentielle-guineenne-le-filtre-par-la-caution/)
 - [Haute Cour de justice au Sénégal : pourquoi Macky Sall a obtenu un sursis](https://www.jeuneafrique.com/1735192/politique/haute-cour-de-justice-au-senegal-pourquoi-macky-sall-a-obtenu-un-sursis/)
 - [Cameroun : 5 questions pour comprendre le duel Biya-Tchiroma et ses enjeux](https://www.jeuneafrique.com/1733960/politique/cameroun-5-questions-pour-comprendre-le-duel-biya-tchiroma-et-ses-enjeux/)
 - [Derrière l’hôtel de Cuba, l’insoluble problème de la spoliation immobilière au Maroc](https://www.jeuneafrique.com/1734052/politique/derriere-lhotel-de-cuba-linsoluble-probleme-de-la-spoliation-immobiliere-au-maroc/)
 - [Carburants : Bamako sur la réserve](https://www.jeuneafrique.com/1731631/politique/carburants-bamako-sur-la-reserve/)
 - [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
 - [La rue et le Parlement – par Fouad Laroui](https://www.jeuneafrique.com/1731059/politique/la-rue-et-le-parlement-par-fouad-laroui/)
-- [Présidentielle au Cameroun : flambée de violence après l’annonce de la victoire de Paul Biya](https://www.jeuneafrique.com/1735052/politique/presidentielle-au-cameroun-flambee-de-violence-apres-lannonce-de-la-victoire-de-paul-biya/)
-- [Maroc : les secrets du modèle économique de l’UM6P](https://www.jeuneafrique.com/1734527/economie-entreprises/maroc-les-secrets-du-modele-economique-de-lum6p/)
-- [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
+- [À Conakry, la réplique du groupe minier GAC pousse Mamadi Doumbouya à négocier](https://www.jeuneafrique.com/1735069/economie-entreprises/a-conakry-la-replique-du-minier-gac-pousse-mamadi-doumbouya-a-negocier/)
+- [La Laiterie du Berger, réussite sénégalaise, peut-elle faire école au Sahel ?](https://www.jeuneafrique.com/1735093/economie-entreprises/la-laiterie-du-berger-reussite-senegalaise-peut-elle-faire-ecole-au-sahel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
