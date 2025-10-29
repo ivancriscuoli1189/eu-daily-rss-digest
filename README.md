@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 11:10*
+*Generato: 29 Oct 2025, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
+- [Ligue 1 – Mise à jour de la 11e journée – ST : Avancer vers la conquête](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-st-avancer-vers-la-conquete/)
+- [Ligue 1 – Mise à jour de la 11e journée – CSS : Enfin, tous les atouts en main](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-css-enfin-tous-les-atouts-en-main/)
 - [Ligue 1 – Mise à jour de la 11e journée – ASM : Réagir tant qu’il est temps…](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-asm-reagir-tant-quil-est-temps/)
-- [Selon une étude américaine, une substance utilisée dans le nettoyage à sec doublerait le risque de cirrhose du foie](https://lapresse.tn/2025/10/29/selon-une-etude-americaine-une-substance-utilisee-dans-le-nettoyage-a-sec-doublerait-le-risque-de-cirrhose-du-foie/)
-- [Santé publique : en Tunisie, un AVC est enregistré toutes les 30 minutes et un décès toutes les deux heures](https://lapresse.tn/2025/10/29/sante-publique-en-tunisie-un-avc-est-enregistre-toutes-les-30-minutes-et-un-deces-toutes-les-deux-heures/)
 - [Garde nationale : un réseau dissimulant de la drogue dans des bouteilles d’oxygène démantelé](https://lapresse.tn/2025/10/29/garde-nationale-un-reseau-dissimulant-de-la-drogue-dans-des-bouteilles-doxygene-demantele/)
 - [Travaux d’extension : modification du trafic sur l’entrée sud de Tunis](https://lapresse.tn/2025/10/29/travaux-dextension-modification-du-trafic-sur-lentree-sud-de-tunis/)
 - [La Tunisie active le plan de prévention contre la grippe saisonnière et les maladies respiratoires](https://lapresse.tn/2025/10/29/la-tunisie-active-le-plan-de-prevention-contre-la-grippe-saisonniere-et-les-maladies-respiratoires/)
+- [Selon une étude américaine, une substance utilisée dans le nettoyage à sec doublerait le risque de cirrhose du foie](https://lapresse.tn/2025/10/29/selon-une-etude-americaine-une-substance-utilisee-dans-le-nettoyage-a-sec-doublerait-le-risque-de-cirrhose-du-foie/)
+- [Santé publique : en Tunisie, un AVC est enregistré toutes les 30 minutes et un décès toutes les deux heures](https://lapresse.tn/2025/10/29/sante-publique-en-tunisie-un-avc-est-enregistre-toutes-les-30-minutes-et-un-deces-toutes-les-deux-heures/)
 - [Concours 6ème et 9ème année de base : démarrage des inscriptions à distance](https://lapresse.tn/2025/10/29/concours-6eme-et-9eme-annee-de-base-demarrage-des-inscriptions-a-distance/)
-- [Moins de 400 m³ d’eau par habitant : un workshop pour repenser la durabilité hydrique](https://lapresse.tn/2025/10/29/moins-de-400-m%c2%b3-deau-par-habitant-un-workshop-pour-repenser-la-durabilite-hydrique/)
-- [La Tunisie accueille pour la première fois la réunion mondiale des centres de sûreté aérienne de l’OACI](https://lapresse.tn/2025/10/29/la-tunisie-accueille-pour-la-premiere-fois-la-reunion-mondiale-des-centres-de-surete-aerienne-de-loaci/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -186,16 +186,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
-- [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
+- [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 - [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
-- [Albania: The courtroom assassination of Judge Astrit Kalaja must be effectively investigated](https://www.icj.org/albania-the-courtroom-assassination-of-judge-astrit-kalaja-must-be-effectively-investigated/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
 - [Critique de Donald Trump, le prix Nobel de la littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
 - [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
 - [L’ambassade américaine exhorte ses ressortissants à « quitter immédiatement » le Mali](https://www.jeuneafrique.com/1735476/politique/lambassade-americaine-exhorte-ses-ressortissants-a-quitter-immediatement-le-mali/)
 - [Au Burkina, la junte d’Ibrahim Traoré dissout la commission électorale](https://www.jeuneafrique.com/1735478/politique/au-burkina-la-junte-dibrahim-traore-dissout-la-commission-electorale/)
 - [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
 - [À la présidentielle guinéenne, le filtre par la caution ?](https://www.jeuneafrique.com/1735219/politique/a-la-presidentielle-guineenne-le-filtre-par-la-caution/)
+- [Bénin : maintenant que le parti de Boni Yayi est hors jeu, la présidentielle est-elle jouée d’avance ?](https://www.jeuneafrique.com/1735268/politique/benin-maintenant-que-le-parti-de-boni-yayi-est-hors-jeu-la-presidentielle-est-elle-jouee-davance/)
 - [Haute Cour de justice au Sénégal : pourquoi Macky Sall a obtenu un sursis](https://www.jeuneafrique.com/1735192/politique/haute-cour-de-justice-au-senegal-pourquoi-macky-sall-a-obtenu-un-sursis/)
+- [Air Sénégal : quand l’État retourne au chevet de sa compagnie malgré les difficultés financières](https://www.jeuneafrique.com/1735222/economie-entreprises/air-senegal-quand-letat-retourne-au-chevet-de-sa-compagnie-malgre-les-difficultes-financieres/)
 - [À Conakry, la réplique du groupe minier GAC pousse Mamadi Doumbouya à négocier](https://www.jeuneafrique.com/1735069/economie-entreprises/a-conakry-la-replique-du-minier-gac-pousse-mamadi-doumbouya-a-negocier/)
-- [La Laiterie du Berger, réussite sénégalaise, peut-elle faire école au Sahel ?](https://www.jeuneafrique.com/1735093/economie-entreprises/la-laiterie-du-berger-reussite-senegalaise-peut-elle-faire-ecole-au-sahel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
