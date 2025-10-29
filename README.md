@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 18:17*
+*Generato: 29 Oct 2025, 21:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
-- [Cinéma : « Parasol » de Heifel Ben Youssef : Comédie romantique sur la vie de couple](https://lapresse.tn/2025/10/29/cinema-parasol-de-heifel-ben-youssef-comedie-romantique-sur-la-vie-de-couple/)
-- [« Rouhaniyet 2025 » : Nefta retrouve son souffle mystique](https://lapresse.tn/2025/10/29/rouhaniyet-2025-nefta-retrouve-son-souffle-mystique/)
-- [Énergie et développement durable : Lorsque la Tunisie élargit sa coopération électrique régionale](https://lapresse.tn/2025/10/29/energie-et-developpement-durable-lorsque-la-tunisie-elargit-sa-cooperation-electrique-regionale/)
+- [Faux contrats de travail : un Tunisien interpellé pour arnaque à l’emploi](https://lapresse.tn/2025/10/29/faux-contrats-de-travail-un-tunisien-interpelle-pour-arnaque-a-lemploi/)
+- [Tunisie : L’élève de 13 ans succombe après une chute d’un bus scolaire](https://lapresse.tn/2025/10/29/tunisie-leleve-de-13-ans-succombe-apres-une-chute-dun-bus-scolaire/)
+- [Kharjet Sidi Ali Azzouz : bientôt inscrite au patrimoine culturel immatériel](https://lapresse.tn/2025/10/29/kharjet-sidi-ali-azzouz-bientot-inscrite-au-patrimoine-culturel-immateriel/)
+- [Tunisie-Irak : vers des vols directs pour faciliter le tourisme et le commerce](https://lapresse.tn/2025/10/29/tunisie-irak-vers-des-vols-directs-pour-faciliter-le-tourisme-et-le-commerce/)
+- [Nouvelle loi française : 3 750 € d’amende pour les étrangers, les Tunisiens sont-ils concernés ?](https://lapresse.tn/2025/10/29/nouvelle-loi-francaise-3-750-e-damende-pour-les-etrangers-les-tunisiens-sont-ils-concernes/)
 - [Consécration de l’état social : Kaïs Saïed persiste et signe](https://lapresse.tn/2025/10/29/consecration-de-letat-social-kais-saied-persiste-et-signe/)
-- [Débat en commissions de l’exécution du budget 2025 jusqu’au mois de septembre : La ministre des Finances exclut un budget complémentaire pour 2025](https://lapresse.tn/2025/10/29/debat-en-commissions-de-lexecution-du-budget-2025-jusquau-mois-de-septembre-la-ministre-des-finances-exclut-un-budget-complementaire-pour-2025/)
-- [Initiative WestMED : Le développement des compétences dans l’économie bleue, une priorité pour la Tunisie](https://lapresse.tn/2025/10/29/initiative-westmed-le-developpement-des-competences-dans-leconomie-bleue-une-priorite-pour-la-tunisie/)
-- [Entre spéculation et surproduction : La Tunisie face à ses contradictions agricoles](https://lapresse.tn/2025/10/29/entre-speculation-et-surproduction-la-tunisie-face-a-ses-contradictions-agricoles/)
-- [Faux emplois aux Émirats : les candidats tunisiens sont aussi ciblés](https://lapresse.tn/2025/10/29/faux-emplois-aux-emirats-les-candidats-tunisiens-sont-aussi-cibles/)
-- [Autistes et auxiliaires de vie scolaire (AVS) : Un contrat de service civil pour les AVS ?](https://lapresse.tn/2025/10/29/autistes-et-auxiliaires-de-vie-scolaire-avs-un-contrat-de-service-civil-pour-les-avs/)
+- [Tunisie-Europe : un réseau de drogue et blanchiment d’argent démantelé](https://lapresse.tn/2025/10/29/tunisie-europe-un-reseau-de-drogue-et-blanchiment-dargent-demantele/)
+- [Tunis : un jeune homme meurt après une chute d’une rame de métro](https://lapresse.tn/2025/10/29/tunis-un-jeune-homme-meurt-apres-une-chute-dans-une-rame-de-metro/)
+- [Prêt AFD à la Tunisie : le taux d’intérêt augmente à 2,04 % suite au prolongement des délais](https://lapresse.tn/2025/10/29/pret-afd-a-la-tunisie-le-taux-dinteret-augmente-a-204-suite-au-prolongement-des-delais/)
 
 ## NGOs – Amnesty International – Tunisia
 
