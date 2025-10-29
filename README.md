@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Oct 2025, 21:03*
+*Generato: 29 Oct 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,12 +148,12 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
+- [Météo : Le soleil domine ce mercredi !](https://lapresse.tn/2025/10/29/meteo-le-soleil-domine-ce-mercredi/)
 - [La Mloukhya est-elle vraiment interdite en France ?](https://lapresse.tn/2025/10/28/la-mloukhya-est-elle-vraiment-interdite-en-france/)
 - [Point de vue : Sauvez l’Etoile !](https://lapresse.tn/2025/10/28/point-de-vue-sauvez-letoile/)
-- [Coupe de la CAF- L’Etoile n’a pas réussi à renverser la vapeur : Une cruelle désillusion](https://lapresse.tn/2025/10/28/coupe-de-la-caf-letoile-na-pas-reussi-a-renverser-la-vapeur-une-cruelle-desillusion/)
+- [Bonne nouvelle : la CNAM maintient le système du tiers payant avec les pharmacies](https://lapresse.tn/2025/10/28/bonne-nouvelle-la-cnam-maintient-le-systeme-du-tiers-payant-avec-les-pharmacies/)
 - [Tunisie : ciel peu nuageux et vents modérés pour la nuit de mardi](https://lapresse.tn/2025/10/28/tunisie-ciel-peu-nuageux-et-vents-moderes-pour-la-nuit-de-mardi/)
 - [Tunisie : le ministre de l’Intérieur reçoit l’ambassadeur d’Égypte](https://lapresse.tn/2025/10/28/tunisie-le-ministre-de-linterieur-recoit-lambassadeur-degypte-2/)
-- [Tunisie : le ministre de l’Intérieur reçoit l’ambassadeur d’Égypte](https://lapresse.tn/2025/10/28/tunisie-le-ministre-de-linterieur-recoit-lambassadeur-degypte/)
 - [La Marsa accueille ce dimanche la première édition des “Tunisia Street Games”](https://lapresse.tn/2025/10/28/la-marsa-accueille-ce-dimanche-la-premiere-edition-des-tunisia-street-games/)
 - [Transport public – la sécurité des usagers remise en question : Une situation assez tendue](https://lapresse.tn/2025/10/28/transport-public-la-securite-des-usagers-remise-en-question-une-situation-assez-tendue/)
 - [Balloons Event Show Tunisia: « Les règles doivent être respectées pour le vol des montgolfières »](https://lapresse.tn/2025/10/28/balloons-event-show-tunisia-les-regles-doivent-etre-respectees-pour-le-vol-des-montgolfieres/)
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : pour ses passeports, Bamako mise désormais sur la technologie chinoise](https://www.jeuneafrique.com/1735273/politique/mali-pour-ses-passeports-bamako-mise-desormais-sur-la-technologie-chinoise/)
 - [Haute Cour de justice au Sénégal : pourquoi Macky Sall a obtenu un sursis](https://www.jeuneafrique.com/1735192/politique/haute-cour-de-justice-au-senegal-pourquoi-macky-sall-a-obtenu-un-sursis/)
 - [Cameroun : 5 questions pour comprendre le duel Biya-Tchiroma et ses enjeux](https://www.jeuneafrique.com/1733960/politique/cameroun-5-questions-pour-comprendre-le-duel-biya-tchiroma-et-ses-enjeux/)
 - [Derrière l’hôtel de Cuba, l’insoluble problème de la spoliation immobilière au Maroc](https://www.jeuneafrique.com/1734052/politique/derriere-lhotel-de-cuba-linsoluble-probleme-de-la-spoliation-immobiliere-au-maroc/)
@@ -245,7 +246,6 @@
 - [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
 - [La rue et le Parlement – par Fouad Laroui](https://www.jeuneafrique.com/1731059/politique/la-rue-et-le-parlement-par-fouad-laroui/)
 - [Présidentielle au Cameroun : flambée de violence après l’annonce de la victoire de Paul Biya](https://www.jeuneafrique.com/1735052/politique/presidentielle-au-cameroun-flambee-de-violence-apres-lannonce-de-la-victoire-de-paul-biya/)
-- [RDC : pour Aimé Boji, le perchoir sera finalement une course d’obstacles](https://www.jeuneafrique.com/1734185/politique/rdc-pour-aime-boji-le-perchoir-sera-finalement-une-course-dobstacles/)
 - [Maroc : les secrets du modèle économique de l’UM6P](https://www.jeuneafrique.com/1734527/economie-entreprises/maroc-les-secrets-du-modele-economique-de-lum6p/)
 - [Nigeria : Dangote veut imposer sa raffinerie géante sur la carte mondiale du pétrole](https://www.jeuneafrique.com/1734782/economie-entreprises/nigeria-dangote-veut-imposer-sa-raffinerie-geante-sur-la-carte-mondiale-du-petrole/)
 
