@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 09:11*
+*Generato: 29 Oct 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
+- [Ligue 1 – Mise à jour de la 11e journée – ASM : Réagir tant qu’il est temps…](https://lapresse.tn/2025/10/29/ligue-1-mise-a-jour-de-la-11e-journee-asm-reagir-tant-quil-est-temps/)
+- [Selon une étude américaine, une substance utilisée dans le nettoyage à sec doublerait le risque de cirrhose du foie](https://lapresse.tn/2025/10/29/selon-une-etude-americaine-une-substance-utilisee-dans-le-nettoyage-a-sec-doublerait-le-risque-de-cirrhose-du-foie/)
+- [Santé publique : en Tunisie, un AVC est enregistré toutes les 30 minutes et un décès toutes les deux heures](https://lapresse.tn/2025/10/29/sante-publique-en-tunisie-un-avc-est-enregistre-toutes-les-30-minutes-et-un-deces-toutes-les-deux-heures/)
 - [Garde nationale : un réseau dissimulant de la drogue dans des bouteilles d’oxygène démantelé](https://lapresse.tn/2025/10/29/garde-nationale-un-reseau-dissimulant-de-la-drogue-dans-des-bouteilles-doxygene-demantele/)
-- [La Tunisie accueille pour la première fois la réunion mondiale des centres de sûreté aérienne de l’OACI](https://lapresse.tn/2025/10/29/la-tunisie-accueille-pour-la-premiere-fois-la-reunion-mondiale-des-centres-de-surete-aerienne-de-loaci/)
-- [Moins de 400 m³ d’eau par habitant : un workshop pour repenser la durabilité hydrique](https://lapresse.tn/2025/10/29/moins-de-400-m%c2%b3-deau-par-habitant-un-workshop-pour-repenser-la-durabilite-hydrique/)
 - [Travaux d’extension : modification du trafic sur l’entrée sud de Tunis](https://lapresse.tn/2025/10/29/travaux-dextension-modification-du-trafic-sur-lentree-sud-de-tunis/)
 - [La Tunisie active le plan de prévention contre la grippe saisonnière et les maladies respiratoires](https://lapresse.tn/2025/10/29/la-tunisie-active-le-plan-de-prevention-contre-la-grippe-saisonniere-et-les-maladies-respiratoires/)
-- [Météo : Le soleil domine ce mercredi !](https://lapresse.tn/2025/10/29/meteo-le-soleil-domine-ce-mercredi/)
-- [La Mloukhya est-elle vraiment interdite en France ?](https://lapresse.tn/2025/10/28/la-mloukhya-est-elle-vraiment-interdite-en-france/)
-- [La Marsa accueille ce dimanche la première édition des “Tunisia Street Games”](https://lapresse.tn/2025/10/28/la-marsa-accueille-ce-dimanche-la-premiere-edition-des-tunisia-street-games/)
-- [Transport public – la sécurité des usagers remise en question : Une situation assez tendue](https://lapresse.tn/2025/10/28/transport-public-la-securite-des-usagers-remise-en-question-une-situation-assez-tendue/)
+- [Concours 6ème et 9ème année de base : démarrage des inscriptions à distance](https://lapresse.tn/2025/10/29/concours-6eme-et-9eme-annee-de-base-demarrage-des-inscriptions-a-distance/)
+- [Moins de 400 m³ d’eau par habitant : un workshop pour repenser la durabilité hydrique](https://lapresse.tn/2025/10/29/moins-de-400-m%c2%b3-deau-par-habitant-un-workshop-pour-repenser-la-durabilite-hydrique/)
+- [La Tunisie accueille pour la première fois la réunion mondiale des centres de sûreté aérienne de l’OACI](https://lapresse.tn/2025/10/29/la-tunisie-accueille-pour-la-premiere-fois-la-reunion-mondiale-des-centres-de-surete-aerienne-de-loaci/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
+- [Critique de Donald Trump, le prix Nobel de la littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
+- [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
+- [L’ambassade américaine exhorte ses ressortissants à « quitter immédiatement » le Mali](https://www.jeuneafrique.com/1735476/politique/lambassade-americaine-exhorte-ses-ressortissants-a-quitter-immediatement-le-mali/)
+- [Au Burkina, la junte d’Ibrahim Traoré dissout la commission électorale](https://www.jeuneafrique.com/1735478/politique/au-burkina-la-junte-dibrahim-traore-dissout-la-commission-electorale/)
 - [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
 - [À la présidentielle guinéenne, le filtre par la caution ?](https://www.jeuneafrique.com/1735219/politique/a-la-presidentielle-guineenne-le-filtre-par-la-caution/)
 - [Haute Cour de justice au Sénégal : pourquoi Macky Sall a obtenu un sursis](https://www.jeuneafrique.com/1735192/politique/haute-cour-de-justice-au-senegal-pourquoi-macky-sall-a-obtenu-un-sursis/)
-- [Cameroun : 5 questions pour comprendre le duel Biya-Tchiroma et ses enjeux](https://www.jeuneafrique.com/1733960/politique/cameroun-5-questions-pour-comprendre-le-duel-biya-tchiroma-et-ses-enjeux/)
-- [Derrière l’hôtel de Cuba, l’insoluble problème de la spoliation immobilière au Maroc](https://www.jeuneafrique.com/1734052/politique/derriere-lhotel-de-cuba-linsoluble-probleme-de-la-spoliation-immobiliere-au-maroc/)
-- [Carburants : Bamako sur la réserve](https://www.jeuneafrique.com/1731631/politique/carburants-bamako-sur-la-reserve/)
-- [En Tunisie, le méga-procès en appel pour « complot » contre l’État est reporté](https://www.jeuneafrique.com/1735171/politique/en-tunisie-le-mega-proces-en-appel-pour-complot-contre-letat-est-reporte/)
-- [La rue et le Parlement – par Fouad Laroui](https://www.jeuneafrique.com/1731059/politique/la-rue-et-le-parlement-par-fouad-laroui/)
 - [À Conakry, la réplique du groupe minier GAC pousse Mamadi Doumbouya à négocier](https://www.jeuneafrique.com/1735069/economie-entreprises/a-conakry-la-replique-du-minier-gac-pousse-mamadi-doumbouya-a-negocier/)
 - [La Laiterie du Berger, réussite sénégalaise, peut-elle faire école au Sahel ?](https://www.jeuneafrique.com/1735093/economie-entreprises/la-laiterie-du-berger-reussite-senegalaise-peut-elle-faire-ecole-au-sahel/)
 
