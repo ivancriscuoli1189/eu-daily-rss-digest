@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Oct 2025, 15:14*
+*Generato: 29 Oct 2025, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -147,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Réactivation sectorielle et structurelle](https://lapresse.tn/2025/10/28/reactivation-sectorielle-et-structurelle/)
-- [Championnats d’Afrique d’Aviron de Plage : une médaille d’argent pour le double Senior Dames et une médaille de bronze pour le double Senior Hommes](https://lapresse.tn/2025/10/29/championnats-dafrique-daviron-de-plage-une-medaille-dargent-pour-le-double-senior-dames-et-une-medaille-de-bronze-pour-le-double-senior-hommes/)
-- [Manouba: coup d’envoi de la récolte des olives](https://lapresse.tn/2025/10/29/manouba-coup-denvoi-de-la-recolte-des-olives/)
-- [Maladies courantes: le syndicat des pharmacies privées appelle au maintien du système de remboursement des médicaments](https://lapresse.tn/2025/10/29/maladies-courantes-le-syndicat-des-pharmacies-privees-appelle-au-maintien-du-systeme-de-remboursement-des-medicaments/)
-- [Garde nationale : un réseau dissimulant de la drogue dans des bouteilles d’oxygène démantelé](https://lapresse.tn/2025/10/29/garde-nationale-un-reseau-dissimulant-de-la-drogue-dans-des-bouteilles-doxygene-demantele/)
-- [Travaux d’extension : modification du trafic sur l’entrée sud de Tunis](https://lapresse.tn/2025/10/29/travaux-dextension-modification-du-trafic-sur-lentree-sud-de-tunis/)
-- [La Tunisie active le plan de prévention contre la grippe saisonnière et les maladies respiratoires](https://lapresse.tn/2025/10/29/la-tunisie-active-le-plan-de-prevention-contre-la-grippe-saisonniere-et-les-maladies-respiratoires/)
-- [Omra : La FTAV rappelle l’obligation de contrat et met en garde contre la fraude et l’intermédiation illégale](https://lapresse.tn/2025/10/29/omra-la-ftav-rappelle-lobligation-de-contrat-et-met-en-garde-contre-la-fraude-et-lintermediation-illegale/)
-- [La Fédération des agences de voyages dévoile les prix de la Omra](https://lapresse.tn/2025/10/29/la-federation-des-agences-de-voyages-devoile-les-prix-de-la-omra/)
-- [Dépenses salariales : une hausse de 3.6% prévue en 2026](https://lapresse.tn/2025/10/29/depenses-salariales-une-hausse-de-3-6-prevue-en-2026/)
+- [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
+- [Cinéma : « Parasol » de Heifel Ben Youssef : Comédie romantique sur la vie de couple](https://lapresse.tn/2025/10/29/cinema-parasol-de-heifel-ben-youssef-comedie-romantique-sur-la-vie-de-couple/)
+- [« Rouhaniyet 2025 » : Nefta retrouve son souffle mystique](https://lapresse.tn/2025/10/29/rouhaniyet-2025-nefta-retrouve-son-souffle-mystique/)
+- [Énergie et développement durable : Lorsque la Tunisie élargit sa coopération électrique régionale](https://lapresse.tn/2025/10/29/energie-et-developpement-durable-lorsque-la-tunisie-elargit-sa-cooperation-electrique-regionale/)
+- [Consécration de l’état social : Kaïs Saïed persiste et signe](https://lapresse.tn/2025/10/29/consecration-de-letat-social-kais-saied-persiste-et-signe/)
+- [Débat en commissions de l’exécution du budget 2025 jusqu’au mois de septembre : La ministre des Finances exclut un budget complémentaire pour 2025](https://lapresse.tn/2025/10/29/debat-en-commissions-de-lexecution-du-budget-2025-jusquau-mois-de-septembre-la-ministre-des-finances-exclut-un-budget-complementaire-pour-2025/)
+- [Initiative WestMED : Le développement des compétences dans l’économie bleue, une priorité pour la Tunisie](https://lapresse.tn/2025/10/29/initiative-westmed-le-developpement-des-competences-dans-leconomie-bleue-une-priorite-pour-la-tunisie/)
+- [Entre spéculation et surproduction : La Tunisie face à ses contradictions agricoles](https://lapresse.tn/2025/10/29/entre-speculation-et-surproduction-la-tunisie-face-a-ses-contradictions-agricoles/)
+- [Faux emplois aux Émirats : les candidats tunisiens sont aussi ciblés](https://lapresse.tn/2025/10/29/faux-emplois-aux-emirats-les-candidats-tunisiens-sont-aussi-cibles/)
+- [Autistes et auxiliaires de vie scolaire (AVS) : Un contrat de service civil pour les AVS ?](https://lapresse.tn/2025/10/29/autistes-et-auxiliaires-de-vie-scolaire-avs-un-contrat-de-service-civil-pour-les-avs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Libye : des hélicoptères vendus au camp Haftar malgré l’embargo](https://www.jeuneafrique.com/1735451/politique/libye-des-helicopteres-vendus-au-camp-haftar-malgre-lembargo/)
+- [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
 - [Critique de Donald Trump, le prix Nobel de littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
 - [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
 - [L’ambassade américaine exhorte ses ressortissants à « quitter immédiatement » le Mali](https://www.jeuneafrique.com/1735476/politique/lambassade-americaine-exhorte-ses-ressortissants-a-quitter-immediatement-le-mali/)
 - [Au Burkina, la junte d’Ibrahim Traoré dissout la commission électorale](https://www.jeuneafrique.com/1735478/politique/au-burkina-la-junte-dibrahim-traore-dissout-la-commission-electorale/)
 - [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
 - [À la présidentielle guinéenne, le filtre par la caution ?](https://www.jeuneafrique.com/1735219/politique/a-la-presidentielle-guineenne-le-filtre-par-la-caution/)
-- [Mali : pour ses passeports, Bamako mise désormais sur la technologie chinoise](https://www.jeuneafrique.com/1735273/politique/mali-pour-ses-passeports-bamako-mise-desormais-sur-la-technologie-chinoise/)
-- [Bénin : maintenant que le parti de Boni Yayi est hors jeu, la présidentielle est-elle jouée d’avance ?](https://www.jeuneafrique.com/1735268/politique/benin-maintenant-que-le-parti-de-boni-yayi-est-hors-jeu-la-presidentielle-est-elle-jouee-davance/)
 - [Afrique de l’Ouest : banquiers et miniers, une bonne idée ?](https://www.jeuneafrique.com/1735289/economie-entreprises/afrique-de-louest-banquiers-et-miniers-une-bonne-idee/)
 - [Air Sénégal : quand l’État retourne au chevet de sa compagnie malgré les difficultés financières](https://www.jeuneafrique.com/1735222/economie-entreprises/air-senegal-quand-letat-retourne-au-chevet-de-sa-compagnie-malgre-les-difficultes-financieres/)
 
