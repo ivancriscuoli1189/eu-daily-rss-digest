@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 15:11*
+*Generato: 30 Oct 2025, 18:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -147,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
-- [Tunis : Près de 1800 bâtiments anciens menacés d’effondrement](https://lapresse.tn/2025/10/30/tunis-pres-de-1800-batiments-anciens-menaces-deffondrement/)
-- [Huile d’olive : le prix initial du litre dévoilé](https://lapresse.tn/2025/10/30/huile-dolive-le-prix-initial-du-litre-devoile/)
-- [Marché de gros : réduction des peines de prison pour neuf « ‘habbata »](https://lapresse.tn/2025/10/30/marche-de-gros-reduction-des-peines-de-prison-pour-neuf-habbata/)
-- [La Ministre des Finances : la Tunisie étudie un retour sur le marché financier international… mais à ses conditions](https://lapresse.tn/2025/10/30/la-ministre-des-finances-la-tunisie-etudie-un-retour-sur-le-marche-financier-international-mais-a-ses-conditions/)
-- [Participation tunisienne au Salon International de l’Artisanat de Milan : 4 novembre, dernier délai de dépôt des dossiers](https://lapresse.tn/2025/10/30/participation-tunisienne-au-salon-international-de-lartisanat-de-milan-4-novembre-dernier-delai-de-depot-des-dossiers/)
-- [Sidi Bouzid : deux écoles ciblées par des actes d’incendie et de vandalisme](https://lapresse.tn/2025/10/30/sidi-bouzid-deux-ecoles-ciblees-par-des-actes-dincendie-et-de-vandalisme/)
-- [Tunisie : L’élève de 13 ans succombe après une chute d’un bus scolaire](https://lapresse.tn/2025/10/29/tunisie-leleve-de-13-ans-succombe-apres-une-chute-dun-bus-scolaire/)
-- [Kharjet Sidi Ali Azzouz : bientôt inscrite au patrimoine culturel immatériel](https://lapresse.tn/2025/10/29/kharjet-sidi-ali-azzouz-bientot-inscrite-au-patrimoine-culturel-immateriel/)
-- [L’ONU-Habitat en Tunisie, l’IRD et l’AFD célèbreront la Journée mondiale des villes 2025 à Tunis : Solutions urbaines et durables pour tous !](https://lapresse.tn/2025/10/30/lonu-habitat-en-tunisie-lird-et-lafd-celebreront-la-journee-mondiale-des-villes-2025-a-tunis-solutions-urbaines-et-durables-pour-tous/)
+- [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
+- [Le “Djerba Music Land” en lice pour les Heavent Festival Awards 2025: Une reconnaissance internationale pour le festival emblématique de l’île des rêves](https://lapresse.tn/2025/10/30/le-djerba-music-land-en-lice-pour-les-heavent-festival-awards-2025-une-reconnaissance-internationale-pour-le-festival-emblematique-de-lile-des-reves/)
+- [Tunisie-Chine : cap sur le lancement du plus grand pôle médical du centre tunisien](https://lapresse.tn/2025/10/30/tunisie-chine-cap-sur-le-lancement-du-plus-grand-pole-medical-du-centre-tunisien/)
+- [Grève bancaire des 3 et 4 novembre : le CBF dénonce un mouvement “injustifié”](https://lapresse.tn/2025/10/30/greve-bancaire-des-3-et-4-novembre-le-cbf-denonce-un-mouvement-injustifie/)
+- [Diplomatie : La Tunisie réaffirme sa voix au sein des instances régionales et internationales](https://lapresse.tn/2025/10/30/diplomatie-la-tunisie-reaffirme-sa-voix-au-sein-des-instances-regionales-et-internationales/)
+- [9e Édition du «Future Investment Initiative Forum» à Riyad : Le ministre de l’Economie dépêché par Saïed pour représenter la Tunisie](https://lapresse.tn/2025/10/30/9e-edition-du-future-investment-initiative-forum-a-riyad-le-ministre-de-leconomie-depeche-par-saied-pour-representer-la-tunisie/)
+- [L’ARP et le CNRD examinent en commun le budget 2026 : L’urgence d’un plan médiatique commun](https://lapresse.tn/2025/10/30/larp-et-le-cnrd-examinent-en-commun-le-budget-2026-lurgence-dun-plan-mediatique-commun/)
+- [Zarzis : Festival ambulant des clubs d’enfants de la 5e zone](https://lapresse.tn/2025/10/30/zarzis-festival-ambulant-des-clubs-denfants-de-la-5e-zone/)
+- [Trois unités sino-italiennes de fabrication de cosmétiques bientôt opérationnelles à Monastir](https://lapresse.tn/2025/10/30/trois-unites-sino-italiennes-de-fabrication-de-cosmetiques-bientot-operationnelles-a-monastir/)
+- [Kairouan : la future Cité médicale les Aghlabides créera 200 000 emplois](https://lapresse.tn/2025/10/30/kairouan-la-future-cite-medicale-les-aghlabides-creera-200-000-emplois/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
 - [Les Algériens de la diaspora jugés hostiles à Alger bientôt déchus de leur nationalité ?](https://www.jeuneafrique.com/1735743/politique/les-algeriens-de-la-diaspora-juges-hostiles-a-alger-bientot-dechus-de-leur-nationalite/)
 - [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
 - [La RDC accuse le Rwanda d’avoir envoyé des renforts au M23](https://www.jeuneafrique.com/1735861/politique/la-rdc-accuse-le-rwanda-davoir-envoye-des-renforts-au-m23/)
 - [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
 - [Le tissu associatif tunisien à nouveau ciblé par le pouvoir](https://www.jeuneafrique.com/1735640/politique/le-tissu-associatif-tunisien-a-nouveau-cible-par-le-pouvoir/)
-- [En RDC, Aimé Boji devrait succéder à Vital Kamerhe à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1735044/politique/en-rdc-aime-boji-devrait-succeder-a-vital-kamerhe-a-la-presidence-de-lassemblee-nationale/)
-- [Au Gabon, le compte à rebours est lancé pour le procès par contumace des Bongo](https://www.jeuneafrique.com/1735600/politique/au-gabon-le-compte-a-rebours-est-lance-pour-le-proces-par-contumace-des-bongo/)
+- [Cameroun : Paul Biya et le crépuscule des dinosaures](https://www.jeuneafrique.com/1735448/politique/cameroun-paul-biya-et-le-crepuscule-des-dinosaures/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
 - [Start-up africaines : l’heure du grand renouvellement pour les investisseurs](https://www.jeuneafrique.com/1735781/economie-entreprises/start-up-africaines-lheure-du-grand-renouvellement-pour-les-investisseurs/)
 
