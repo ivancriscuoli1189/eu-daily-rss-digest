@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 11:09*
+*Generato: 30 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,9 +148,9 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
-- [Le bitcoin recule de 3,1 %](https://lapresse.tn/2025/10/30/le-bitcoin-recule-de-31/)
-- [Deglet nour : à cause de la baisse du prix d’achat, des agriculteurs de Jemna suspendent la récolte](https://lapresse.tn/2025/10/30/deglet-nour-a-cause-de-la-baisse-du-prix-dachat-des-agriculteurs-de-jemna-suspendent-la-recolte/)
-- [La hausse des salaires en 2026 coûtera à l’Etat un milliard de dinars](https://lapresse.tn/2025/10/30/la-hausse-des-salaires-en-2026-coutera-a-letat-un-milliard-de-dinars/)
+- [Location-Vente : 25 MD seront injectés pour faciliter l’accès au logement](https://lapresse.tn/2025/10/30/location-vente-25-md-seront-injectes-pour-faciliter-lacces-au-logement/)
+- [Infarctus : des chercheurs découvrent une molécule qui réactive la guérison du cœur](https://lapresse.tn/2025/10/30/infarctus-des-chercheurs-decouvrent-une-molecule-qui-reactive-la-guerison-du-coeur/)
+- [Ligue I – 11e journée : EST : Frapper fort…](https://lapresse.tn/2025/10/30/ligue-i-11e-journee-est-frapper-fort/)
 - [Aouina : le petit-fils d’un ancien ministre tué à coups de couteau](https://lapresse.tn/2025/10/30/aouina-le-petit-fils-dun-ancien-ministre-tue-a-coups-de-couteau/)
 - [Tunisie : La justice maintient en détention Abdelkrim Harouni et Mohamed Frikha](https://lapresse.tn/2025/10/30/tunisie-la-justice-maintient-en-detention-abdelkrim-harouni-et-mohamed-frikha/)
 - [Météo : Retour des pluies orageuses sur le nord et le centre](https://lapresse.tn/2025/10/30/meteo-retour-des-pluies-orageuses-sur-le-nord-et-le-centre/)
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
 - [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
 - [La RDC accuse le Rwanda d’avoir envoyé des renforts au M23](https://www.jeuneafrique.com/1735861/politique/la-rdc-accuse-le-rwanda-davoir-envoye-des-renforts-au-m23/)
 - [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
+- [Le tissu associatif tunisien à nouveau ciblé par le pouvoir](https://www.jeuneafrique.com/1735640/politique/le-tissu-associatif-tunisien-a-nouveau-cible-par-le-pouvoir/)
+- [En RDC, Aimé Boji devrait succéder à Vital Kamerhe à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1735044/politique/en-rdc-aime-boji-devrait-succeder-a-vital-kamerhe-a-la-presidence-de-lassemblee-nationale/)
+- [Au Gabon, le compte à rebours est lancé pour le procès par contumace des Bongo](https://www.jeuneafrique.com/1735600/politique/au-gabon-le-compte-a-rebours-est-lance-pour-le-proces-par-contumace-des-bongo/)
 - [Au Sénégal, pourquoi deux journalistes ont été interpellés après avoir interviewé Madiambal Diagne](https://www.jeuneafrique.com/1735725/politique/au-senegal-pourquoi-deux-journalistes-ont-ete-interpelles-apres-avoir-interviewe-madiambal-diagne/)
-- [Libye : des hélicoptères vendus au camp Haftar malgré l’embargo](https://www.jeuneafrique.com/1735451/politique/libye-des-helicopteres-vendus-au-camp-haftar-malgre-lembargo/)
-- [Est de la RDC : l’appel des humanitaires face au manque d’accès et d’argent](https://www.jeuneafrique.com/1735301/politique/est-de-la-rdc-lappel-des-humanitaires-face-au-manque-dacces-et-dargent/)
-- [Côte d’Ivoire : comment Alassane Ouattara a balayé ses adversaires sur leurs propres terres](https://www.jeuneafrique.com/1735153/politique/cote-divoire-comment-alassane-ouattara-a-balaye-ses-adversaires-sur-leurs-propres-terres/)
-- [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
+- [Cure d’austérité au Gabon : l’arbitrage sensible d’Henri Claude Oyima](https://www.jeuneafrique.com/1735666/economie-entreprises/cure-dausterite-au-gabon-larbitrage-sensible-dhenri-claude-oyima/)
 - [Sénégal : le baptême du feu de Papa Toby Gaye, le « Monsieur électricité » de Bassirou Diomaye Faye](https://www.jeuneafrique.com/1730268/economie-entreprises/senegal-le-bapteme-du-feu-de-papa-toby-gaye-le-monsieur-electricite-de-bassirou-diomaye-faye/)
-- [Afrique de l’Ouest : banquiers et miniers, une bonne idée ?](https://www.jeuneafrique.com/1735289/economie-entreprises/afrique-de-louest-banquiers-et-miniers-une-bonne-idee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
