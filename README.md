@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 18:22*
+*Generato: 30 Oct 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [Le “Djerba Music Land” en lice pour les Heavent Festival Awards 2025: Une reconnaissance internationale pour le festival emblématique de l’île des rêves](https://lapresse.tn/2025/10/30/le-djerba-music-land-en-lice-pour-les-heavent-festival-awards-2025-une-reconnaissance-internationale-pour-le-festival-emblematique-de-lile-des-reves/)
-- [Tunisie-Chine : cap sur le lancement du plus grand pôle médical du centre tunisien](https://lapresse.tn/2025/10/30/tunisie-chine-cap-sur-le-lancement-du-plus-grand-pole-medical-du-centre-tunisien/)
-- [Grève bancaire des 3 et 4 novembre : le CBF dénonce un mouvement “injustifié”](https://lapresse.tn/2025/10/30/greve-bancaire-des-3-et-4-novembre-le-cbf-denonce-un-mouvement-injustifie/)
+- [Resaturé, le film « L’homme de cendres » de Nouri Bouzid rencontre le public tunisien : 40 ans après](https://lapresse.tn/2025/10/30/resature-le-film-lhomme-de-cendres-de-nouri-bouzid-rencontre-le-public-tunisien-40-ans-apres/)
+- [Rima Khcheich signe un retour lumineux : Elle relie les temps](https://lapresse.tn/2025/10/30/rima-khcheich-signe-un-retour-lumineux-elle-relie-les-temps/)
+- [La Traviata en version tunisienne le 31 octobre à la Salle de l’Opéra de Tunis : De retour sur scène](https://lapresse.tn/2025/10/30/la-traviata-en-version-tunisienne-le-31-octobre-a-la-salle-de-lopera-de-tunis-de-retour-sur-scene/)
 - [Diplomatie : La Tunisie réaffirme sa voix au sein des instances régionales et internationales](https://lapresse.tn/2025/10/30/diplomatie-la-tunisie-reaffirme-sa-voix-au-sein-des-instances-regionales-et-internationales/)
 - [9e Édition du «Future Investment Initiative Forum» à Riyad : Le ministre de l’Economie dépêché par Saïed pour représenter la Tunisie](https://lapresse.tn/2025/10/30/9e-edition-du-future-investment-initiative-forum-a-riyad-le-ministre-de-leconomie-depeche-par-saied-pour-representer-la-tunisie/)
 - [L’ARP et le CNRD examinent en commun le budget 2026 : L’urgence d’un plan médiatique commun](https://lapresse.tn/2025/10/30/larp-et-le-cnrd-examinent-en-commun-le-budget-2026-lurgence-dun-plan-mediatique-commun/)
-- [Zarzis : Festival ambulant des clubs d’enfants de la 5e zone](https://lapresse.tn/2025/10/30/zarzis-festival-ambulant-des-clubs-denfants-de-la-5e-zone/)
-- [Trois unités sino-italiennes de fabrication de cosmétiques bientôt opérationnelles à Monastir](https://lapresse.tn/2025/10/30/trois-unites-sino-italiennes-de-fabrication-de-cosmetiques-bientot-operationnelles-a-monastir/)
-- [Kairouan : la future Cité médicale les Aghlabides créera 200 000 emplois](https://lapresse.tn/2025/10/30/kairouan-la-future-cite-medicale-les-aghlabides-creera-200-000-emplois/)
+- [Gafsa – Tourisme : Un signe fort de reprise et d’espoir](https://lapresse.tn/2025/10/30/gafsa-tourisme-un-signe-fort-de-reprise-et-despoir/)
+- [Tunisie-Chine : cap sur le lancement du plus grand pôle médical du centre tunisien](https://lapresse.tn/2025/10/30/tunisie-chine-cap-sur-le-lancement-du-plus-grand-pole-medical-du-centre-tunisien/)
+- [Journée mondiale de l’AVC Reconnaître : les signes avant-coureurs pour intervenir à temps !](https://lapresse.tn/2025/10/30/journee-mondiale-de-lavc-reconnaitre-les-signes-avant-coureurs-pour-intervenir-a-temps/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -240,12 +240,12 @@
 
 - [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
+- [10 choses à savoir sur Séraphin Moundounga, vice-président de la République gabonaise](https://www.jeuneafrique.com/1731603/politique/10-choses-a-savoir-sur-seraphin-moundounga-vice-president-de-la-republique-gabonaise/)
 - [Les Algériens de la diaspora jugés hostiles à Alger bientôt déchus de leur nationalité ?](https://www.jeuneafrique.com/1735743/politique/les-algeriens-de-la-diaspora-juges-hostiles-a-alger-bientot-dechus-de-leur-nationalite/)
 - [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
 - [La RDC accuse le Rwanda d’avoir envoyé des renforts au M23](https://www.jeuneafrique.com/1735861/politique/la-rdc-accuse-le-rwanda-davoir-envoye-des-renforts-au-m23/)
 - [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
 - [Le tissu associatif tunisien à nouveau ciblé par le pouvoir](https://www.jeuneafrique.com/1735640/politique/le-tissu-associatif-tunisien-a-nouveau-cible-par-le-pouvoir/)
-- [Cameroun : Paul Biya et le crépuscule des dinosaures](https://www.jeuneafrique.com/1735448/politique/cameroun-paul-biya-et-le-crepuscule-des-dinosaures/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
 - [Start-up africaines : l’heure du grand renouvellement pour les investisseurs](https://www.jeuneafrique.com/1735781/economie-entreprises/start-up-africaines-lheure-du-grand-renouvellement-pour-les-investisseurs/)
 
