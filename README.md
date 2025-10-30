@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 09:12*
+*Generato: 30 Oct 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
-- [Tunisie Telecom trace l’histoire numérique du pays à travers ses câbles sous-marins internationaux et nationaux](https://lapresse.tn/2025/10/30/tunisie-telecom-trace-lhistoire-numerique-du-pays-a-travers-ses-cables-sous-marins-internationaux-et-nationaux/)
-- [Douze médailles pour la Tunisie aux championnats d’Afrique d’aviron de plage](https://lapresse.tn/2025/10/30/douze-medailles-pour-la-tunisie-aux-championnats-dafrique-daviron-de-plage/)
-- [Sidi Bouzid : deux écoles ciblées par des actes d’incendie et de vandalisme](https://lapresse.tn/2025/10/30/sidi-bouzid-deux-ecoles-ciblees-par-des-actes-dincendie-et-de-vandalisme/)
+- [Le bitcoin recule de 3,1 %](https://lapresse.tn/2025/10/30/le-bitcoin-recule-de-31/)
+- [Deglet nour : à cause de la baisse du prix d’achat, des agriculteurs de Jemna suspendent la récolte](https://lapresse.tn/2025/10/30/deglet-nour-a-cause-de-la-baisse-du-prix-dachat-des-agriculteurs-de-jemna-suspendent-la-recolte/)
+- [La hausse des salaires en 2026 coûtera à l’Etat un milliard de dinars](https://lapresse.tn/2025/10/30/la-hausse-des-salaires-en-2026-coutera-a-letat-un-milliard-de-dinars/)
+- [Aouina : le petit-fils d’un ancien ministre tué à coups de couteau](https://lapresse.tn/2025/10/30/aouina-le-petit-fils-dun-ancien-ministre-tue-a-coups-de-couteau/)
+- [Tunisie : La justice maintient en détention Abdelkrim Harouni et Mohamed Frikha](https://lapresse.tn/2025/10/30/tunisie-la-justice-maintient-en-detention-abdelkrim-harouni-et-mohamed-frikha/)
 - [Météo : Retour des pluies orageuses sur le nord et le centre](https://lapresse.tn/2025/10/30/meteo-retour-des-pluies-orageuses-sur-le-nord-et-le-centre/)
-- [Faux contrats de travail : un Tunisien interpellé pour arnaque à l’emploi](https://lapresse.tn/2025/10/29/faux-contrats-de-travail-un-tunisien-interpelle-pour-arnaque-a-lemploi/)
-- [Tunisie-Irak : vers des vols directs pour faciliter le tourisme et le commerce](https://lapresse.tn/2025/10/29/tunisie-irak-vers-des-vols-directs-pour-faciliter-le-tourisme-et-le-commerce/)
+- [Participation tunisienne au Salon International de l’Artisanat de Milan : 4 novembre, dernier délai de dépôt des dossiers](https://lapresse.tn/2025/10/30/participation-tunisienne-au-salon-international-de-lartisanat-de-milan-4-novembre-dernier-delai-de-depot-des-dossiers/)
+- [Sidi Bouzid : deux écoles ciblées par des actes d’incendie et de vandalisme](https://lapresse.tn/2025/10/30/sidi-bouzid-deux-ecoles-ciblees-par-des-actes-dincendie-et-de-vandalisme/)
 - [Tunisie : L’élève de 13 ans succombe après une chute d’un bus scolaire](https://lapresse.tn/2025/10/29/tunisie-leleve-de-13-ans-succombe-apres-une-chute-dun-bus-scolaire/)
-- [Kharjet Sidi Ali Azzouz : bientôt inscrite au patrimoine culturel immatériel](https://lapresse.tn/2025/10/29/kharjet-sidi-ali-azzouz-bientot-inscrite-au-patrimoine-culturel-immateriel/)
-- [Tunisie-Europe : un réseau de drogue et blanchiment d’argent démantelé](https://lapresse.tn/2025/10/29/tunisie-europe-un-reseau-de-drogue-et-blanchiment-dargent-demantele/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -186,29 +186,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
-- [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
+- [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
-- [Tunisia: death penalty case symptomatic of rule of law and judicial independence in abeyance](https://www.icj.org/tunisia-death-penalty-case-symptomatic-of-rule-of-law-and-judicial-independence-in-abeyance/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -251,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
+- [La RDC accuse le Rwanda d’avoir envoyé des renforts au M23](https://www.jeuneafrique.com/1735861/politique/la-rdc-accuse-le-rwanda-davoir-envoye-des-renforts-au-m23/)
 - [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
 - [Au Sénégal, pourquoi deux journalistes ont été interpellés après avoir interviewé Madiambal Diagne](https://www.jeuneafrique.com/1735725/politique/au-senegal-pourquoi-deux-journalistes-ont-ete-interpelles-apres-avoir-interviewe-madiambal-diagne/)
 - [Libye : des hélicoptères vendus au camp Haftar malgré l’embargo](https://www.jeuneafrique.com/1735451/politique/libye-des-helicopteres-vendus-au-camp-haftar-malgre-lembargo/)
 - [Est de la RDC : l’appel des humanitaires face au manque d’accès et d’argent](https://www.jeuneafrique.com/1735301/politique/est-de-la-rdc-lappel-des-humanitaires-face-au-manque-dacces-et-dargent/)
 - [Côte d’Ivoire : comment Alassane Ouattara a balayé ses adversaires sur leurs propres terres](https://www.jeuneafrique.com/1735153/politique/cote-divoire-comment-alassane-ouattara-a-balaye-ses-adversaires-sur-leurs-propres-terres/)
 - [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
-- [Critique de Donald Trump, le prix Nobel de littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
-- [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
 - [Sénégal : le baptême du feu de Papa Toby Gaye, le « Monsieur électricité » de Bassirou Diomaye Faye](https://www.jeuneafrique.com/1730268/economie-entreprises/senegal-le-bapteme-du-feu-de-papa-toby-gaye-le-monsieur-electricite-de-bassirou-diomaye-faye/)
 - [Afrique de l’Ouest : banquiers et miniers, une bonne idée ?](https://www.jeuneafrique.com/1735289/economie-entreprises/afrique-de-louest-banquiers-et-miniers-une-bonne-idee/)
 
