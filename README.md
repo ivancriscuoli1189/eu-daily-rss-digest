@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 13:25*
+*Generato: 30 Oct 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,21 +148,21 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
-- [L’ONU-Habitat en Tunisie, l’IRD et l’AFD célèbreront la Journée mondiale des villes 2025 à Tunis : Solutions urbaines et durables pour tous !](https://lapresse.tn/2025/10/30/lonu-habitat-en-tunisie-lird-et-lafd-celebreront-la-journee-mondiale-des-villes-2025-a-tunis-solutions-urbaines-et-durables-pour-tous/)
-- [Budget de l’État : 51 878 nouveaux recrutements en 2026](https://lapresse.tn/2025/10/30/budget-2026-22-000-nouveaux-recrutements-dans-la-fonction-publique/)
-- [Location-Vente : 25 MD seront injectés pour faciliter l’accès au logement](https://lapresse.tn/2025/10/30/location-vente-25-md-seront-injectes-pour-faciliter-lacces-au-logement/)
-- [La hausse des salaires en 2026 coûtera à l’Etat un milliard de dinars](https://lapresse.tn/2025/10/30/la-hausse-des-salaires-en-2026-coutera-a-letat-un-milliard-de-dinars/)
-- [Aouina : le petit-fils d’un ancien ministre tué à coups de couteau](https://lapresse.tn/2025/10/30/aouina-le-petit-fils-dun-ancien-ministre-tue-a-coups-de-couteau/)
-- [Tunisie : La justice maintient en détention Abdelkrim Harouni et Mohamed Frikha](https://lapresse.tn/2025/10/30/tunisie-la-justice-maintient-en-detention-abdelkrim-harouni-et-mohamed-frikha/)
+- [Tunis : Près de 1800 bâtiments anciens menacés d’effondrement](https://lapresse.tn/2025/10/30/tunis-pres-de-1800-batiments-anciens-menaces-deffondrement/)
+- [Huile d’olive : le prix initial du litre dévoilé](https://lapresse.tn/2025/10/30/huile-dolive-le-prix-initial-du-litre-devoile/)
+- [Marché de gros : réduction des peines de prison pour neuf « ‘habbata »](https://lapresse.tn/2025/10/30/marche-de-gros-reduction-des-peines-de-prison-pour-neuf-habbata/)
+- [La Ministre des Finances : la Tunisie étudie un retour sur le marché financier international… mais à ses conditions](https://lapresse.tn/2025/10/30/la-ministre-des-finances-la-tunisie-etudie-un-retour-sur-le-marche-financier-international-mais-a-ses-conditions/)
 - [Participation tunisienne au Salon International de l’Artisanat de Milan : 4 novembre, dernier délai de dépôt des dossiers](https://lapresse.tn/2025/10/30/participation-tunisienne-au-salon-international-de-lartisanat-de-milan-4-novembre-dernier-delai-de-depot-des-dossiers/)
 - [Sidi Bouzid : deux écoles ciblées par des actes d’incendie et de vandalisme](https://lapresse.tn/2025/10/30/sidi-bouzid-deux-ecoles-ciblees-par-des-actes-dincendie-et-de-vandalisme/)
 - [Tunisie : L’élève de 13 ans succombe après une chute d’un bus scolaire](https://lapresse.tn/2025/10/29/tunisie-leleve-de-13-ans-succombe-apres-une-chute-dun-bus-scolaire/)
+- [Kharjet Sidi Ali Azzouz : bientôt inscrite au patrimoine culturel immatériel](https://lapresse.tn/2025/10/29/kharjet-sidi-ali-azzouz-bientot-inscrite-au-patrimoine-culturel-immateriel/)
+- [L’ONU-Habitat en Tunisie, l’IRD et l’AFD célèbreront la Journée mondiale des villes 2025 à Tunis : Solutions urbaines et durables pour tous !](https://lapresse.tn/2025/10/30/lonu-habitat-en-tunisie-lird-et-lafd-celebreront-la-journee-mondiale-des-villes-2025-a-tunis-solutions-urbaines-et-durables-pour-tous/)
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
 - [Tunisia: Authorities must immediately overturn death sentence for peaceful dissent](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-overturn-death-sentence-for-peaceful-dissent/)
 - [Tunisia: Mass convictions in ‘Conspiracy Case 2’ deepen rule of law crisis](https://www.amnesty.org/en/latest/news/2025/07/tunisia-mass-convictions-in-conspiracy-case-2-deepen-rule-of-law-crisis/)
-- [‘We were only asking for our rights’: Tunisian authorities punish mobilization for socioeconomic and environmental rights](https://www.amnesty.org/en/latest/news/2025/06/we-were-only-asking-for-our-rights-tunisian-authorities-punish-mobilization-for-socioeconomic-and-environmental-rights/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -247,7 +247,7 @@
 - [En RDC, Aimé Boji devrait succéder à Vital Kamerhe à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1735044/politique/en-rdc-aime-boji-devrait-succeder-a-vital-kamerhe-a-la-presidence-de-lassemblee-nationale/)
 - [Au Gabon, le compte à rebours est lancé pour le procès par contumace des Bongo](https://www.jeuneafrique.com/1735600/politique/au-gabon-le-compte-a-rebours-est-lance-pour-le-proces-par-contumace-des-bongo/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
-- [Cure d’austérité au Gabon : l’arbitrage sensible d’Henri Claude Oyima](https://www.jeuneafrique.com/1735666/economie-entreprises/cure-dausterite-au-gabon-larbitrage-sensible-dhenri-claude-oyima/)
+- [Start-up africaines : l’heure du grand renouvellement pour les investisseurs](https://www.jeuneafrique.com/1735781/economie-entreprises/start-up-africaines-lheure-du-grand-renouvellement-pour-les-investisseurs/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
