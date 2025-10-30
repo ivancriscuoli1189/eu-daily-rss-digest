@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Oct 2025, 06:16*
+*Generato: 30 Oct 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +148,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [La paix fragilisée](https://lapresse.tn/2025/10/29/la-paix-fragilisee/)
+- [Tunisie Telecom trace l’histoire numérique du pays à travers ses câbles sous-marins internationaux et nationaux](https://lapresse.tn/2025/10/30/tunisie-telecom-trace-lhistoire-numerique-du-pays-a-travers-ses-cables-sous-marins-internationaux-et-nationaux/)
+- [Douze médailles pour la Tunisie aux championnats d’Afrique d’aviron de plage](https://lapresse.tn/2025/10/30/douze-medailles-pour-la-tunisie-aux-championnats-dafrique-daviron-de-plage/)
+- [Sidi Bouzid : deux écoles ciblées par des actes d’incendie et de vandalisme](https://lapresse.tn/2025/10/30/sidi-bouzid-deux-ecoles-ciblees-par-des-actes-dincendie-et-de-vandalisme/)
+- [Météo : Retour des pluies orageuses sur le nord et le centre](https://lapresse.tn/2025/10/30/meteo-retour-des-pluies-orageuses-sur-le-nord-et-le-centre/)
 - [Faux contrats de travail : un Tunisien interpellé pour arnaque à l’emploi](https://lapresse.tn/2025/10/29/faux-contrats-de-travail-un-tunisien-interpelle-pour-arnaque-a-lemploi/)
+- [Tunisie-Irak : vers des vols directs pour faciliter le tourisme et le commerce](https://lapresse.tn/2025/10/29/tunisie-irak-vers-des-vols-directs-pour-faciliter-le-tourisme-et-le-commerce/)
 - [Tunisie : L’élève de 13 ans succombe après une chute d’un bus scolaire](https://lapresse.tn/2025/10/29/tunisie-leleve-de-13-ans-succombe-apres-une-chute-dun-bus-scolaire/)
 - [Kharjet Sidi Ali Azzouz : bientôt inscrite au patrimoine culturel immatériel](https://lapresse.tn/2025/10/29/kharjet-sidi-ali-azzouz-bientot-inscrite-au-patrimoine-culturel-immateriel/)
-- [Tunisie-Irak : vers des vols directs pour faciliter le tourisme et le commerce](https://lapresse.tn/2025/10/29/tunisie-irak-vers-des-vols-directs-pour-faciliter-le-tourisme-et-le-commerce/)
-- [Nouvelle loi française : 3 750 € d’amende pour les étrangers, les Tunisiens sont-ils concernés ?](https://lapresse.tn/2025/10/29/nouvelle-loi-francaise-3-750-e-damende-pour-les-etrangers-les-tunisiens-sont-ils-concernes/)
-- [Consécration de l’état social : Kaïs Saïed persiste et signe](https://lapresse.tn/2025/10/29/consecration-de-letat-social-kais-saied-persiste-et-signe/)
 - [Tunisie-Europe : un réseau de drogue et blanchiment d’argent démantelé](https://lapresse.tn/2025/10/29/tunisie-europe-un-reseau-de-drogue-et-blanchiment-dargent-demantele/)
-- [Tunis : un jeune homme meurt après une chute d’une rame de métro](https://lapresse.tn/2025/10/29/tunis-un-jeune-homme-meurt-apres-une-chute-dans-une-rame-de-metro/)
-- [Prêt AFD à la Tunisie : le taux d’intérêt augmente à 2,04 % suite au prolongement des délais](https://lapresse.tn/2025/10/29/pret-afd-a-la-tunisie-le-taux-dinteret-augmente-a-204-suite-au-prolongement-des-delais/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Le 30 octobre 2014, le peuple burkinabè a repris son destin en main » : un journaliste raconte la chute de Blaise Compaoré](https://www.jeuneafrique.com/1722462/politique/le-30-octobre-2014-le-peuple-burkinabe-a-repris-son-destin-en-main-un-journaliste-raconte-la-chute-de-blaise-compaore/)
+- [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
+- [Au Sénégal, pourquoi deux journalistes ont été interpellés après avoir interviewé Madiambal Diagne](https://www.jeuneafrique.com/1735725/politique/au-senegal-pourquoi-deux-journalistes-ont-ete-interpelles-apres-avoir-interviewe-madiambal-diagne/)
 - [Libye : des hélicoptères vendus au camp Haftar malgré l’embargo](https://www.jeuneafrique.com/1735451/politique/libye-des-helicopteres-vendus-au-camp-haftar-malgre-lembargo/)
+- [Est de la RDC : l’appel des humanitaires face au manque d’accès et d’argent](https://www.jeuneafrique.com/1735301/politique/est-de-la-rdc-lappel-des-humanitaires-face-au-manque-dacces-et-dargent/)
+- [Côte d’Ivoire : comment Alassane Ouattara a balayé ses adversaires sur leurs propres terres](https://www.jeuneafrique.com/1735153/politique/cote-divoire-comment-alassane-ouattara-a-balaye-ses-adversaires-sur-leurs-propres-terres/)
 - [L’achat de F-35 américains par le Maroc se précise](https://www.jeuneafrique.com/1734366/politique/lachat-de-f-35-americains-par-le-maroc-se-precise/)
 - [Critique de Donald Trump, le prix Nobel de littérature Wole Soyinka voit son visa pour les États-Unis annulé](https://www.jeuneafrique.com/1735510/politique/critique-de-donald-trump-le-prix-nobel-de-la-litterature-wole-soyinka-voit-son-visa-pour-les-etats-unis-annule/)
 - [Présidentielle au Cameroun : le gouvernement admet des morts, l’Union africaine félicite Paul Biya](https://www.jeuneafrique.com/1735474/politique/presidentielle-au-cameroun-le-gouvernement-admet-des-morts-lunion-africaine-felicite-paul-biya/)
-- [L’ambassade américaine exhorte ses ressortissants à « quitter immédiatement » le Mali](https://www.jeuneafrique.com/1735476/politique/lambassade-americaine-exhorte-ses-ressortissants-a-quitter-immediatement-le-mali/)
-- [Au Burkina, la junte d’Ibrahim Traoré dissout la commission électorale](https://www.jeuneafrique.com/1735478/politique/au-burkina-la-junte-dibrahim-traore-dissout-la-commission-electorale/)
-- [En Tunisie, le syndicat des journalistes alerte sur une « montée de la censure »](https://www.jeuneafrique.com/1735461/politique/en-tunisie-le-syndicat-des-journalistes-alerte-sur-une-montee-de-la-censure/)
+- [Sénégal : le baptême du feu de Papa Toby Gaye, le « Monsieur électricité » de Bassirou Diomaye Faye](https://www.jeuneafrique.com/1730268/economie-entreprises/senegal-le-bapteme-du-feu-de-papa-toby-gaye-le-monsieur-electricite-de-bassirou-diomaye-faye/)
 - [Afrique de l’Ouest : banquiers et miniers, une bonne idée ?](https://www.jeuneafrique.com/1735289/economie-entreprises/afrique-de-louest-banquiers-et-miniers-une-bonne-idee/)
-- [Air Sénégal : quand l’État retourne au chevet de sa compagnie malgré les difficultés financières](https://www.jeuneafrique.com/1735222/economie-entreprises/air-senegal-quand-letat-retourne-au-chevet-de-sa-compagnie-malgre-les-difficultes-financieres/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
