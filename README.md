@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 09:11*
+*Generato: 31 Oct 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [Ligue 1 – 11e Journée – EST-CAB (2-0) : L’Espérance domine et gagne](https://lapresse.tn/2025/10/31/ligue-1-11e-journee-est-cab-2-0-lesperance-domine-et-gagne/)
-- [Vandalisme : le métro n°4 et un bus neuf attaqués à Tunis](https://lapresse.tn/2025/10/31/vandalisme-le-metro-n4-et-un-bus-neuf-attaques-a-tunis/)
-- [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
+- [Kairouan : un marché hebdomadaire pour les voitures d’occasion voit le jour](https://lapresse.tn/2025/10/31/kairouan-un-marche-hebdomadaire-pour-les-voitures-doccasion-voit-le-jour/)
+- [Relance stratégique de l’Hôtel du Lac : Tunis prépare un renouveau urbain et touristique](https://lapresse.tn/2025/10/31/relance-strategique-de-lhotel-du-lac-tunis-prepare-un-renouveau-urbain-et-touristique/)
+- [Visas Schengen en Tunisie : ce pays modernise ses démarches avec FACIL](https://lapresse.tn/2025/10/31/visas-schengen-en-tunisie-ce-pays-modernise-ses-demarches-avec-facil/)
 - [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
 - [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
 - [Kaïs Saïed annonce la création du premier hôpital numérique en Tunisie](https://lapresse.tn/2025/10/31/kais-saied-annonce-la-creation-du-premier-hopital-numerique-en-tunisie/)
+- [Accidents de la route : lancement d’une nouvelle application pour simplifier les procédures de l’assurance](https://lapresse.tn/2025/10/31/accidents-de-la-route-lancement-dune-nouvelle-application-pour-simplifier-les-procedures-de-lassurance/)
+- [Vandalisme : le métro n°4 et un bus neuf attaqués à Tunis](https://lapresse.tn/2025/10/31/vandalisme-le-metro-n4-et-un-bus-neuf-attaques-a-tunis/)
 - [Un jeune homme tué par l’arrachage d’une porte de métro à Tunis : la TRANSTU dénonce un sabotage](https://lapresse.tn/2025/10/31/un-jeune-homme-tue-par-larrachage-dune-porte-de-metro-a-tunis-la-transtu-denonce-un-sabotage/)
-- [Gafsa – Tourisme : Un signe fort de reprise et d’espoir](https://lapresse.tn/2025/10/30/gafsa-tourisme-un-signe-fort-de-reprise-et-despoir/)
-- [Tunisie-Chine : cap sur le lancement du plus grand pôle médical du centre tunisien](https://lapresse.tn/2025/10/30/tunisie-chine-cap-sur-le-lancement-du-plus-grand-pole-medical-du-centre-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,8 +223,22 @@
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
+- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
 - [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
 - [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
@@ -234,7 +248,6 @@
 - [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
 - [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
 - [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
-- [The risks of the draw: Europe’s post-snapback move on Iran](https://ecfr.eu/article/the-risks-of-the-draw-europes-post-snapback-move-on-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« C’est la chose la plus terrifiante que j’aie jamais vécue » : après le chaos électoral, la Tanzanie toujours confinée](https://www.jeuneafrique.com/1736201/politique/cest-la-chose-la-plus-terrifiante-que-jaie-jamais-vecue-apres-le-chaos-electoral-la-tanzanie-toujours-confinee/)
 - [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
 - [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
 - [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
@@ -271,7 +285,6 @@
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
 - [10 choses à savoir sur Séraphin Moundounga, vice-président de la République gabonaise](https://www.jeuneafrique.com/1731603/politique/10-choses-a-savoir-sur-seraphin-moundounga-vice-president-de-la-republique-gabonaise/)
 - [Les Algériens de la diaspora jugés hostiles à Alger bientôt déchus de leur nationalité ?](https://www.jeuneafrique.com/1735743/politique/les-algeriens-de-la-diaspora-juges-hostiles-a-alger-bientot-dechus-de-leur-nationalite/)
-- [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
 - [BOA et Zenith Bank, premiers sur la levée des capitaux](https://www.jeuneafrique.com/1729882/economie-entreprises/boa-et-zenith-bank-premiers-sur-la-levee-des-capitaux/)
 
