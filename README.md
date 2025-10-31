@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 11:02*
+*Generato: 31 Oct 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [Kairouan : un marché hebdomadaire pour les voitures d’occasion voit le jour](https://lapresse.tn/2025/10/31/kairouan-un-marche-hebdomadaire-pour-les-voitures-doccasion-voit-le-jour/)
-- [Relance stratégique de l’Hôtel du Lac : Tunis prépare un renouveau urbain et touristique](https://lapresse.tn/2025/10/31/relance-strategique-de-lhotel-du-lac-tunis-prepare-un-renouveau-urbain-et-touristique/)
-- [Visas Schengen en Tunisie : ce pays modernise ses démarches avec FACIL](https://lapresse.tn/2025/10/31/visas-schengen-en-tunisie-ce-pays-modernise-ses-demarches-avec-facil/)
+- [Gafsa : démantèlement d’un réseau international de vol et de contrebande de voitures](https://lapresse.tn/2025/10/31/gafsa-demantelement-dun-reseau-international-de-vol-et-de-contrebande-de-voitures/)
+- [La pleine Lune apparaîtra au cours du mois de novembre](https://lapresse.tn/2025/10/31/la-pleine-lune-apparaitra-au-cours-du-mois-de-novembre/)
+- [Déviation pendant deux mois de la circulation au niveau du pont de Lacagna](https://lapresse.tn/2025/10/31/deviation-pendant-deux-mois-de-la-circulation-au-niveau-du-pont-de-lacagna/)
+- [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
 - [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
 - [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
-- [Kaïs Saïed annonce la création du premier hôpital numérique en Tunisie](https://lapresse.tn/2025/10/31/kais-saied-annonce-la-creation-du-premier-hopital-numerique-en-tunisie/)
+- [Mahdia : Découverte d’un corps sans vie, 5 membres de la famille en garde à vue](https://lapresse.tn/2025/10/31/mahdia-decouverte-dun-corps-sans-vie-5-membres-de-la-famille-en-garde-a-vue/)
+- [Kairouan : un marché hebdomadaire pour les voitures d’occasion voit le jour](https://lapresse.tn/2025/10/31/kairouan-un-marche-hebdomadaire-pour-les-voitures-doccasion-voit-le-jour/)
 - [Accidents de la route : lancement d’une nouvelle application pour simplifier les procédures de l’assurance](https://lapresse.tn/2025/10/31/accidents-de-la-route-lancement-dune-nouvelle-application-pour-simplifier-les-procedures-de-lassurance/)
-- [Vandalisme : le métro n°4 et un bus neuf attaqués à Tunis](https://lapresse.tn/2025/10/31/vandalisme-le-metro-n4-et-un-bus-neuf-attaques-a-tunis/)
-- [Un jeune homme tué par l’arrachage d’une porte de métro à Tunis : la TRANSTU dénonce un sabotage](https://lapresse.tn/2025/10/31/un-jeune-homme-tue-par-larrachage-dune-porte-de-metro-a-tunis-la-transtu-denonce-un-sabotage/)
 
 ## NGOs – Amnesty International – Tunisia
 
