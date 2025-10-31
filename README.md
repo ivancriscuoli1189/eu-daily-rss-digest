@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 15:10*
+*Generato: 31 Oct 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -171,19 +171,6 @@
 - [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
 
-## MEDIA TUNISIA – La Presse de Tunisie
-
-- [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [SAH Lilas renouvelle partiellement son Conseil d’Administration](https://lapresse.tn/2025/10/31/sah-lilas-renouvelle-partiellement-son-conseil-dadministration/)
-- [Nabeul : la saison des agrumes menacée](https://lapresse.tn/2025/10/31/nabeul-la-saison-des-agrumes-menacee/)
-- [Traitement du cancer du sein: l’importance du soutien conjugal](https://lapresse.tn/2025/10/31/traitement-du-cancer-du-sein-limportance-du-soutien-conjugal/)
-- [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
-- [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
-- [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
-- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans les restaurants touristiques classés](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
-- [Marathon COMAR de Tunis-Carthage : Rendez-vous le 30 novembre prochain](https://lapresse.tn/2025/10/31/marathon-comar-de-tunis-carthage-rendez-vous-le-30-novembre-prochain/)
-- [Déviation pendant deux mois de la circulation au niveau du pont de Lacagna](https://lapresse.tn/2025/10/31/deviation-pendant-deux-mois-de-la-circulation-au-niveau-du-pont-de-lacagna/)
-
 ## NGOs – Amnesty International – Tunisia
 
 - [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tanzanie, 700 personnes tuées lors de manifestations anti-régime](https://www.jeuneafrique.com/1736484/politique/en-tanzanie-700-personnes-tuees-lors-de-manifestations-anti-regime/)
 - [« C’est la chose la plus terrifiante que j’aie jamais vécue » : après le chaos électoral, la Tanzanie toujours confinée](https://www.jeuneafrique.com/1736201/politique/cest-la-chose-la-plus-terrifiante-que-jaie-jamais-vecue-apres-le-chaos-electoral-la-tanzanie-toujours-confinee/)
 - [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
 - [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
 - [L’ancien sénateur Abdelkader Jeddiâ visé par une demande d’extradition de l’Algérie](https://www.jeuneafrique.com/1735707/politique/lancien-senateur-abdelkader-jeddia-vise-par-une-demande-dextradition-de-lalgerie/)
+- [De Maurice Kamto à Issa Tchiroma Bakary, le Cameroun face au syndrome des « présidents élus »](https://www.jeuneafrique.com/1735823/politique/de-maurice-kamto-a-issa-tchiroma-bakary-le-cameroun-face-au-syndrome-des-presidents-elus/)
 - [Présidentielle en Côte d’Ivoire : ce que révèle la nouvelle cartographie électorale](https://www.jeuneafrique.com/1735998/politique/presidentielle-en-cote-divoire-ce-que-revele-la-nouvelle-cartographie-electorale/)
 - [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
-- [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
-- [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
+- [Corneille Karekezi (Africa Re) : « Tout est là pour permettre un essor de l’assurance en Afrique »](https://www.jeuneafrique.com/1731542/economie-entreprises/corneille-karekezi-africa-re-tout-est-la-pour-permettre-un-essor-de-lassurance-en-afrique/)
 - [Pour Axian Telecom, le rachat intégral de Jumia n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1736082/economie-entreprises/pour-axian-telecom-le-rachat-integral-de-jumia-nest-pas-a-lordre-du-jour/)
-- [Présidentielle au Cameroun : l’incertitude post-électorale met l’économie à l’arrêt](https://www.jeuneafrique.com/1735879/economie-entreprises/presidentielle-au-cameroun-lincertitude-post-electorale-met-leconomie-a-larret/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
