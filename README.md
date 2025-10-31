@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 18:14*
+*Generato: 31 Oct 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -171,6 +171,19 @@
 - [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
 
+## MEDIA TUNISIA – La Presse de Tunisie
+
+- [Actualités](https://lapresse.tn/Actualit%C3%A9s)
+- [Économie](https://lapresse.tn/economie/)
+- [Nos Vidéos](https://www.youtube.com/@lapressedetunisie152)
+- [Société](https://lapresse.tn/societe/)
+- [Culture](https://lapresse.tn/culture/)
+- [Sport](https://lapresse.tn/sport/)
+- [International](https://lapresse.tn/International)
+- [Nabeul : la saison des agrumes menacée](https://lapresse.tn/2025/10/31/nabeul-la-saison-des-agrumes-menacee/)
+- [SAH Lilas renouvelle partiellement son Conseil d’Administration](https://lapresse.tn/2025/10/31/sah-lilas-renouvelle-partiellement-son-conseil-dadministration/)
+- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans...](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
+
 ## NGOs – Amnesty International – Tunisia
 
 - [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
@@ -252,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Tanzanie, 700 personnes tuées lors de manifestations anti-régime](https://www.jeuneafrique.com/1736484/politique/en-tanzanie-700-personnes-tuees-lors-de-manifestations-anti-regime/)
+- [En Guinée-Bissau, Umaro Sissoco Embaló affirme qu’une « tentative de coup d’État » a été déjouée](https://www.jeuneafrique.com/1736490/politique/en-guinee-bissau-umaro-sissoco-embalo-affirme-quune-tentative-de-coup-detat-a-ete-dejouee/)
+- [Le JNIM frappe le Nigeria pour la première fois : un signe de la volonté d’expansion des jihadistes sahéliens](https://www.jeuneafrique.com/1736295/politique/le-jnim-frappe-le-nigeria-pour-la-premiere-fois-un-signe-de-la-volonte-dexpansion-des-jihadistes-saheliens/)
 - [« C’est la chose la plus terrifiante que j’aie jamais vécue » : après le chaos électoral, la Tanzanie toujours confinée](https://www.jeuneafrique.com/1736201/politique/cest-la-chose-la-plus-terrifiante-que-jaie-jamais-vecue-apres-le-chaos-electoral-la-tanzanie-toujours-confinee/)
 - [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
 - [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
 - [L’ancien sénateur Abdelkader Jeddiâ visé par une demande d’extradition de l’Algérie](https://www.jeuneafrique.com/1735707/politique/lancien-senateur-abdelkader-jeddia-vise-par-une-demande-dextradition-de-lalgerie/)
-- [De Maurice Kamto à Issa Tchiroma Bakary, le Cameroun face au syndrome des « présidents élus »](https://www.jeuneafrique.com/1735823/politique/de-maurice-kamto-a-issa-tchiroma-bakary-le-cameroun-face-au-syndrome-des-presidents-elus/)
-- [Présidentielle en Côte d’Ivoire : ce que révèle la nouvelle cartographie électorale](https://www.jeuneafrique.com/1735998/politique/presidentielle-en-cote-divoire-ce-que-revele-la-nouvelle-cartographie-electorale/)
-- [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
+- [« Nous vivons un supplice » : à Nioro du Sahel, au Mali, dans le piège du blocus jihadiste](https://www.jeuneafrique.com/1736027/politique/nous-vivons-un-supplice-a-nioro-du-sahel-au-mali-dans-le-piege-du-blocus-jihadiste/)
 - [Corneille Karekezi (Africa Re) : « Tout est là pour permettre un essor de l’assurance en Afrique »](https://www.jeuneafrique.com/1731542/economie-entreprises/corneille-karekezi-africa-re-tout-est-la-pour-permettre-un-essor-de-lassurance-en-afrique/)
-- [Pour Axian Telecom, le rachat intégral de Jumia n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1736082/economie-entreprises/pour-axian-telecom-le-rachat-integral-de-jumia-nest-pas-a-lordre-du-jour/)
+- [Ibrahima Cheikh Diong : « Le Fonds pour les pertes et dommages entre dans sa phase opérationnelle »](https://www.jeuneafrique.com/1733252/economie-entreprises/ibrahima-cheikh-diong-le-fonds-pour-les-pertes-et-dommages-entre-dans-sa-phase-operationnelle/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
