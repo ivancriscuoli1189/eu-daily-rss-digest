@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 13:24*
+*Generato: 31 Oct 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans les restaurants touristiques classés](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
-- [Marathon COMAR de Tunis-Carthage : Rendez-vous le 30 novembre prochain](https://lapresse.tn/2025/10/31/marathon-comar-de-tunis-carthage-rendez-vous-le-30-novembre-prochain/)
-- [Ministre de la Santé: « Bientôt une loi sur les compléments alimentaires »](https://lapresse.tn/2025/10/31/ministre-de-la-sante-bientot-une-loi-sur-les-complements-alimentaires/)
+- [SAH Lilas renouvelle partiellement son Conseil d’Administration](https://lapresse.tn/2025/10/31/sah-lilas-renouvelle-partiellement-son-conseil-dadministration/)
+- [Nabeul : la saison des agrumes menacée](https://lapresse.tn/2025/10/31/nabeul-la-saison-des-agrumes-menacee/)
+- [Traitement du cancer du sein: l’importance du soutien conjugal](https://lapresse.tn/2025/10/31/traitement-du-cancer-du-sein-limportance-du-soutien-conjugal/)
 - [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
 - [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
 - [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
-- [Epson lance “ReCreators”, un concours régional pour sensibiliser les élèves à la durabilité](https://lapresse.tn/2025/10/31/epson-lance-recreators-un-concours-regional-pour-sensibiliser-les-eleves-a-la-durabilite/)
+- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans les restaurants touristiques classés](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
+- [Marathon COMAR de Tunis-Carthage : Rendez-vous le 30 novembre prochain](https://lapresse.tn/2025/10/31/marathon-comar-de-tunis-carthage-rendez-vous-le-30-novembre-prochain/)
 - [Déviation pendant deux mois de la circulation au niveau du pont de Lacagna](https://lapresse.tn/2025/10/31/deviation-pendant-deux-mois-de-la-circulation-au-niveau-du-pont-de-lacagna/)
-- [Des hôtels touristiques rouvrent leurs portes à Tamaghza, Nefta et Tozeur](https://lapresse.tn/2025/10/31/des-hotels-touristiques-rouvrent-leurs-portes-a-tamaghza-nefta-et-tozeur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,12 +268,12 @@
 - [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
 - [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
 - [L’ancien sénateur Abdelkader Jeddiâ visé par une demande d’extradition de l’Algérie](https://www.jeuneafrique.com/1735707/politique/lancien-senateur-abdelkader-jeddia-vise-par-une-demande-dextradition-de-lalgerie/)
+- [Présidentielle en Côte d’Ivoire : ce que révèle la nouvelle cartographie électorale](https://www.jeuneafrique.com/1735998/politique/presidentielle-en-cote-divoire-ce-que-revele-la-nouvelle-cartographie-electorale/)
 - [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
 - [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
-- [10 choses à savoir sur Séraphin Moundounga, vice-président de la République gabonaise](https://www.jeuneafrique.com/1731603/politique/10-choses-a-savoir-sur-seraphin-moundounga-vice-president-de-la-republique-gabonaise/)
+- [Pour Axian Telecom, le rachat intégral de Jumia n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1736082/economie-entreprises/pour-axian-telecom-le-rachat-integral-de-jumia-nest-pas-a-lordre-du-jour/)
 - [Présidentielle au Cameroun : l’incertitude post-électorale met l’économie à l’arrêt](https://www.jeuneafrique.com/1735879/economie-entreprises/presidentielle-au-cameroun-lincertitude-post-electorale-met-leconomie-a-larret/)
-- [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
