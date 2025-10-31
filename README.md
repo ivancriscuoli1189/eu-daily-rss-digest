@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 12:18*
+*Generato: 31 Oct 2025, 13:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -174,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
-- [Gafsa : démantèlement d’un réseau international de vol et de contrebande de voitures](https://lapresse.tn/2025/10/31/gafsa-demantelement-dun-reseau-international-de-vol-et-de-contrebande-de-voitures/)
-- [La pleine Lune apparaîtra au cours du mois de novembre](https://lapresse.tn/2025/10/31/la-pleine-lune-apparaitra-au-cours-du-mois-de-novembre/)
-- [Déviation pendant deux mois de la circulation au niveau du pont de Lacagna](https://lapresse.tn/2025/10/31/deviation-pendant-deux-mois-de-la-circulation-au-niveau-du-pont-de-lacagna/)
+- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans les restaurants touristiques classés](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
+- [Marathon COMAR de Tunis-Carthage : Rendez-vous le 30 novembre prochain](https://lapresse.tn/2025/10/31/marathon-comar-de-tunis-carthage-rendez-vous-le-30-novembre-prochain/)
+- [Ministre de la Santé: « Bientôt une loi sur les compléments alimentaires »](https://lapresse.tn/2025/10/31/ministre-de-la-sante-bientot-une-loi-sur-les-complements-alimentaires/)
 - [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
 - [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
 - [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
-- [Mahdia : Découverte d’un corps sans vie, 5 membres de la famille en garde à vue](https://lapresse.tn/2025/10/31/mahdia-decouverte-dun-corps-sans-vie-5-membres-de-la-famille-en-garde-a-vue/)
-- [Kairouan : un marché hebdomadaire pour les voitures d’occasion voit le jour](https://lapresse.tn/2025/10/31/kairouan-un-marche-hebdomadaire-pour-les-voitures-doccasion-voit-le-jour/)
-- [Accidents de la route : lancement d’une nouvelle application pour simplifier les procédures de l’assurance](https://lapresse.tn/2025/10/31/accidents-de-la-route-lancement-dune-nouvelle-application-pour-simplifier-les-procedures-de-lassurance/)
+- [Epson lance “ReCreators”, un concours régional pour sensibiliser les élèves à la durabilité](https://lapresse.tn/2025/10/31/epson-lance-recreators-un-concours-regional-pour-sensibiliser-les-eleves-a-la-durabilite/)
+- [Déviation pendant deux mois de la circulation au niveau du pont de Lacagna](https://lapresse.tn/2025/10/31/deviation-pendant-deux-mois-de-la-circulation-au-niveau-du-pont-de-lacagna/)
+- [Des hôtels touristiques rouvrent leurs portes à Tamaghza, Nefta et Tozeur](https://lapresse.tn/2025/10/31/des-hotels-touristiques-rouvrent-leurs-portes-a-tamaghza-nefta-et-tozeur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -280,13 +267,13 @@
 - [« C’est la chose la plus terrifiante que j’aie jamais vécue » : après le chaos électoral, la Tanzanie toujours confinée](https://www.jeuneafrique.com/1736201/politique/cest-la-chose-la-plus-terrifiante-que-jaie-jamais-vecue-apres-le-chaos-electoral-la-tanzanie-toujours-confinee/)
 - [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
 - [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
+- [L’ancien sénateur Abdelkader Jeddiâ visé par une demande d’extradition de l’Algérie](https://www.jeuneafrique.com/1735707/politique/lancien-senateur-abdelkader-jeddia-vise-par-une-demande-dextradition-de-lalgerie/)
 - [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
 - [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
 - [10 choses à savoir sur Séraphin Moundounga, vice-président de la République gabonaise](https://www.jeuneafrique.com/1731603/politique/10-choses-a-savoir-sur-seraphin-moundounga-vice-president-de-la-republique-gabonaise/)
-- [Les Algériens de la diaspora jugés hostiles à Alger bientôt déchus de leur nationalité ?](https://www.jeuneafrique.com/1735743/politique/les-algeriens-de-la-diaspora-juges-hostiles-a-alger-bientot-dechus-de-leur-nationalite/)
+- [Présidentielle au Cameroun : l’incertitude post-électorale met l’économie à l’arrêt](https://www.jeuneafrique.com/1735879/economie-entreprises/presidentielle-au-cameroun-lincertitude-post-electorale-met-leconomie-a-larret/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
-- [BOA et Zenith Bank, premiers sur la levée des capitaux](https://www.jeuneafrique.com/1729882/economie-entreprises/boa-et-zenith-bank-premiers-sur-la-levee-des-capitaux/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
