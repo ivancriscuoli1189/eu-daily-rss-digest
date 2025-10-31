@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 06:17*
+*Generato: 31 Oct 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -41,6 +41,32 @@
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
 
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
+- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
+- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
+- [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
+
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
@@ -69,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -148,15 +174,15 @@
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Sauver les Caisses sociales pour sauver la cohésion nationale](https://lapresse.tn/2025/10/30/sauver-les-caisses-sociales-pour-sauver-la-cohesion-nationale/)
+- [Ligue 1 – 11e Journée – EST-CAB (2-0) : L’Espérance domine et gagne](https://lapresse.tn/2025/10/31/ligue-1-11e-journee-est-cab-2-0-lesperance-domine-et-gagne/)
+- [Vandalisme : le métro n°4 et un bus neuf attaqués à Tunis](https://lapresse.tn/2025/10/31/vandalisme-le-metro-n4-et-un-bus-neuf-attaques-a-tunis/)
+- [Météo : pluies éparses et vents forts sur le littoral](https://lapresse.tn/2025/10/31/meteo-pluies-eparses-et-vents-forts-sur-le-littoral/)
+- [Lettre manuscrite de l’Emir du Koweït au président Kaïs Saïed](https://lapresse.tn/2025/10/31/lettre-manuscrite-de-lemir-du-koweit-au-president-kais-saied/)
+- [Tozeur : trois blessées dans l’effondrement du hall de la gare lors du passage du Train Rose](https://lapresse.tn/2025/10/31/tozeur-trois-blessees-dans-leffondrement-du-hall-de-la-gare-lors-du-passage-du-train-rose/)
 - [Kaïs Saïed annonce la création du premier hôpital numérique en Tunisie](https://lapresse.tn/2025/10/31/kais-saied-annonce-la-creation-du-premier-hopital-numerique-en-tunisie/)
-- [Resaturé, le film « L’homme de cendres » de Nouri Bouzid rencontre le public tunisien : 40 ans après](https://lapresse.tn/2025/10/30/resature-le-film-lhomme-de-cendres-de-nouri-bouzid-rencontre-le-public-tunisien-40-ans-apres/)
-- [Rima Khcheich signe un retour lumineux : Elle relie les temps](https://lapresse.tn/2025/10/30/rima-khcheich-signe-un-retour-lumineux-elle-relie-les-temps/)
-- [Grève bancaire des 3 et 4 novembre : le CBF dénonce un mouvement “injustifié”](https://lapresse.tn/2025/10/30/greve-bancaire-des-3-et-4-novembre-le-cbf-denonce-un-mouvement-injustifie/)
-- [Diplomatie : La Tunisie réaffirme sa voix au sein des instances régionales et internationales](https://lapresse.tn/2025/10/30/diplomatie-la-tunisie-reaffirme-sa-voix-au-sein-des-instances-regionales-et-internationales/)
-- [9e Édition du «Future Investment Initiative Forum» à Riyad : Le ministre de l’Economie dépêché par Saïed pour représenter la Tunisie](https://lapresse.tn/2025/10/30/9e-edition-du-future-investment-initiative-forum-a-riyad-le-ministre-de-leconomie-depeche-par-saied-pour-representer-la-tunisie/)
+- [Un jeune homme tué par l’arrachage d’une porte de métro à Tunis : la TRANSTU dénonce un sabotage](https://lapresse.tn/2025/10/31/un-jeune-homme-tue-par-larrachage-dune-porte-de-metro-a-tunis-la-transtu-denonce-un-sabotage/)
 - [Gafsa – Tourisme : Un signe fort de reprise et d’espoir](https://lapresse.tn/2025/10/30/gafsa-tourisme-un-signe-fort-de-reprise-et-despoir/)
 - [Tunisie-Chine : cap sur le lancement du plus grand pôle médical du centre tunisien](https://lapresse.tn/2025/10/30/tunisie-chine-cap-sur-le-lancement-du-plus-grand-pole-medical-du-centre-tunisien/)
-- [Journée mondiale de l’AVC Reconnaître : les signes avant-coureurs pour intervenir à temps !](https://lapresse.tn/2025/10/30/journee-mondiale-de-lavc-reconnaitre-les-signes-avant-coureurs-pour-intervenir-a-temps/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Nous vivons un supplice » : à Nioro du Sahel, au Mali, dans le piège du blocus jihadiste](https://www.jeuneafrique.com/1736027/politique/nous-vivons-un-supplice-a-nioro-du-sahel-au-mali-dans-le-piege-du-blocus-jihadiste/)
+- [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
+- [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
+- [Au Mali, trois otages du JNIM libérés en échange d’une rançon et d’armes](https://www.jeuneafrique.com/1736091/politique/au-mali-trois-otages-du-jnim-liberes-en-echange-dune-rancon-et-darmes/)
 - [En Afrique, la santé des femmes et des enfants ne doit pas être l’angle mort du développement](https://www.jeuneafrique.com/1735883/politique/en-afrique-la-sante-des-femmes-et-des-enfants-ne-doit-pas-etre-langle-mort-du-developpement/)
 - [France-Algérie : l’Assemblée nationale française adopte un texte de l’extrême droite contre l’accord de 1968](https://www.jeuneafrique.com/1735941/politique/france-algerie-lassemblee-nationale-francaise-adopte-un-texte-de-lextreme-droite-contre-laccord-de-1968/)
 - [10 choses à savoir sur Séraphin Moundounga, vice-président de la République gabonaise](https://www.jeuneafrique.com/1731603/politique/10-choses-a-savoir-sur-seraphin-moundounga-vice-president-de-la-republique-gabonaise/)
 - [Les Algériens de la diaspora jugés hostiles à Alger bientôt déchus de leur nationalité ?](https://www.jeuneafrique.com/1735743/politique/les-algeriens-de-la-diaspora-juges-hostiles-a-alger-bientot-dechus-de-leur-nationalite/)
 - [Assassinat des journalistes de RFI au Mali : une nouvelle demande de déclassification déposée](https://www.jeuneafrique.com/1735886/politique/assassinat-des-journalistes-de-rfi-au-mali-une-nouvelle-demande-de-declassification-deposee/)
-- [La RDC accuse le Rwanda d’avoir envoyé des renforts au M23](https://www.jeuneafrique.com/1735861/politique/la-rdc-accuse-le-rwanda-davoir-envoye-des-renforts-au-m23/)
-- [Yahya Jammeh annonce (à nouveau) son intention de revenir en Gambie](https://www.jeuneafrique.com/1735606/politique/yahya-jammeh-annonce-a-nouveau-son-intention-de-revenir-en-gambie/)
 - [Comment Ecobank rivalise avec les grandes banques anglophones](https://www.jeuneafrique.com/1729804/economie-entreprises/comment-ecobank-rivalise-avec-les-grandes-banques-anglophones/)
-- [Start-up africaines : l’heure du grand renouvellement pour les investisseurs](https://www.jeuneafrique.com/1735781/economie-entreprises/start-up-africaines-lheure-du-grand-renouvellement-pour-les-investisseurs/)
+- [BOA et Zenith Bank, premiers sur la levée des capitaux](https://www.jeuneafrique.com/1729882/economie-entreprises/boa-et-zenith-bank-premiers-sur-la-levee-des-capitaux/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
