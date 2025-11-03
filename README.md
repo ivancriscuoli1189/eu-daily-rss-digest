@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 09:13*
+*Generato: 03 Nov 2025, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie-France : pour Alger, le vote en France sur l’accord de 1968 est « une affaire franco-française »](https://www.jeuneafrique.com/1736738/politique/algerie-france-pour-alger-le-vote-en-france-sur-laccord-de-1968-est-une-affaire-franco-francaise/)
+- [Est de la RDC : Félix Tshisekedi accuse Paul Kagame d’avoir des visées territoriales](https://www.jeuneafrique.com/1736719/politique/est-de-la-rdc-felix-tshisekedi-accuse-paul-kagame-davoir-des-visees-territoriales/)
+- [En Tanzanie, la présidente investie après les violences](https://www.jeuneafrique.com/1736729/politique/en-tanzanie-la-presidente-investie-apres-les-violences/)
 - [Dans le nord du Togo, l’école est la première victime des jihadistes](https://www.jeuneafrique.com/1732636/politique/dans-le-nord-du-togo-lecole-est-la-premiere-victime-des-jihadistes/)
 - [Des Cherarda à la GenZ, ces soulèvements qui ont défié le pouvoir au Maroc](https://www.jeuneafrique.com/1735455/politique/des-cherarda-a-la-genz-ces-soulevements-qui-ont-defie-le-pouvoir-au-maroc/)
 - [Est de la RDC : Kinshasa s’insurge contre l’opposition du M23 à la réouverture de l’aéroport de Goma](https://www.jeuneafrique.com/1736682/politique/est-de-la-rdc-kinshasa-sinsurge-contre-lopposition-du-m23-a-la-reouverture-de-laeroport-de-goma/)
 - [Comment l’État algérien a finalement racheté à Ali Haddad l’hôtel El Palace de Barcelone](https://www.jeuneafrique.com/1736413/politique/comment-letat-algerien-a-finalement-rachete-a-ali-haddad-lhotel-el-palace-de-barcelone/)
 - [Aimé Césaire : « Senghor était un plus qu’un ami, un frère »](https://www.jeuneafrique.com/1721805/politique/aime-cesaire-senghor-etait-un-plus-quun-ami-un-frere/)
-- [Biya, Ouattara : retour sur des élections « gagnées d’avance »](https://www.jeuneafrique.com/1736469/politique/biya-ouattara-retour-sur-des-elections-gagnees-davance/)
-- [Tanzanie : après trois jours de violences, la présidente proclamée gagnante](https://www.jeuneafrique.com/1736672/politique/tanzanie-apres-trois-jours-de-violences-la-presidente-proclamee-gagnante/)
-- [Une ministre marocaine recadre un député qui souhaite un « beau gosse » à sa collègue](https://www.jeuneafrique.com/1736232/politique/une-ministre-marocaine-recadre-un-depute-qui-souhaite-un-beau-gosse-a-sa-collegue/)
 - [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
 - [Congo : « L’État doit faire davantage appel aux investisseurs privés »](https://www.jeuneafrique.com/1716029/economie-entreprises/congo-letat-doit-faire-davantage-appel-aux-investisseurs-prives/)
 
