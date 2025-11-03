@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 11:11*
+*Generato: 03 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 - [Commerce Extérieur aux prix courants, Juin 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juin-2025)
@@ -223,19 +223,6 @@
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
@@ -277,19 +264,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sahara occidental : pourquoi Alger a failli voter la résolution de l’ONU avant de se rétracter](https://www.jeuneafrique.com/1736760/politique/sahara-occidental-pourquoi-alger-a-failli-voter-la-resolution-de-lonu-avant-de-se-retracter/)
+- [Djibouti : le Parlement ratifie la suppression de la limite d’âge pour le président](https://www.jeuneafrique.com/1736727/politique/djibouti-le-parlement-ratifie-la-suppression-de-la-limite-dage-pour-le-president/)
+- [Donald Trump menace de nouveau le Nigeria d’une intervention militaire](https://www.jeuneafrique.com/1736807/politique/donald-trump-menace-de-nouveau-le-nigeria-dune-intervention-militaire/)
 - [Algérie-France : pour Alger, le vote en France sur l’accord de 1968 est « une affaire franco-française »](https://www.jeuneafrique.com/1736738/politique/algerie-france-pour-alger-le-vote-en-france-sur-laccord-de-1968-est-une-affaire-franco-francaise/)
 - [Est de la RDC : Félix Tshisekedi accuse Paul Kagame d’avoir des visées territoriales](https://www.jeuneafrique.com/1736719/politique/est-de-la-rdc-felix-tshisekedi-accuse-paul-kagame-davoir-des-visees-territoriales/)
 - [En Tanzanie, la présidente investie après les violences](https://www.jeuneafrique.com/1736729/politique/en-tanzanie-la-presidente-investie-apres-les-violences/)
 - [Dans le nord du Togo, l’école est la première victime des jihadistes](https://www.jeuneafrique.com/1732636/politique/dans-le-nord-du-togo-lecole-est-la-premiere-victime-des-jihadistes/)
 - [Des Cherarda à la GenZ, ces soulèvements qui ont défié le pouvoir au Maroc](https://www.jeuneafrique.com/1735455/politique/des-cherarda-a-la-genz-ces-soulevements-qui-ont-defie-le-pouvoir-au-maroc/)
-- [Est de la RDC : Kinshasa s’insurge contre l’opposition du M23 à la réouverture de l’aéroport de Goma](https://www.jeuneafrique.com/1736682/politique/est-de-la-rdc-kinshasa-sinsurge-contre-lopposition-du-m23-a-la-reouverture-de-laeroport-de-goma/)
-- [Comment l’État algérien a finalement racheté à Ali Haddad l’hôtel El Palace de Barcelone](https://www.jeuneafrique.com/1736413/politique/comment-letat-algerien-a-finalement-rachete-a-ali-haddad-lhotel-el-palace-de-barcelone/)
-- [Aimé Césaire : « Senghor était un plus qu’un ami, un frère »](https://www.jeuneafrique.com/1721805/politique/aime-cesaire-senghor-etait-un-plus-quun-ami-un-frere/)
+- [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
 - [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
-- [Congo : « L’État doit faire davantage appel aux investisseurs privés »](https://www.jeuneafrique.com/1716029/economie-entreprises/congo-letat-doit-faire-davantage-appel-aux-investisseurs-prives/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
 - [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
 - [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
 - [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
@@ -299,4 +287,3 @@
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
 - [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
-- [Il terminale petrolifero di Kharg](https://www.limesonline.com/rubriche/mappe-parlanti/il-terminale-petrolifero-di-kharg-19643723/)
