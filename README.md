@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Oct 2025, 21:09*
+*Generato: 03 Nov 2025, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -175,14 +175,14 @@
 
 - [Actualités](https://lapresse.tn/Actualit%C3%A9s)
 - [Économie](https://lapresse.tn/economie/)
-- [Nos Vidéos](https://www.youtube.com/@lapressedetunisie152)
 - [Société](https://lapresse.tn/societe/)
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Nabeul : la saison des agrumes menacée](https://lapresse.tn/2025/10/31/nabeul-la-saison-des-agrumes-menacee/)
-- [SAH Lilas renouvelle partiellement son Conseil d’Administration](https://lapresse.tn/2025/10/31/sah-lilas-renouvelle-partiellement-son-conseil-dadministration/)
-- [Tourisme : bientôt des prix préférentiels pour les tunisiens dans...](https://lapresse.tn/2025/10/31/tourisme-bientot-des-prix-preferentiels-pour-les-tunisiens-dans-les-restaurants-touristiques-classes/)
+- [Enregistrer une conversation sans consentement : jusqu’à 5 ans de...](https://www.lapresse.tn/2025/11/02/enregistrer-une-conversation-sans-consentement-jusqua-5-ans-de-prison-et-500-000-dinars-damende/)
+- [Chaussure tunisienne : un savoir-faire reconnu par les plus grandes...](https://www.lapresse.tn/2025/11/02/chaussure-tunisienne-un-savoir-faire-reconnu-par-les-plus-grandes-marques-internationales/)
+- [Un grand rendez-vous du sport et de l’innovation au Kram](https://www.lapresse.tn/2025/11/02/un-grand-rendez-vous-du-sport-et-de-linnovation-au-kram/)
+- [L’hôpital régional Badr Eddine Aloui de Kasserine obtient le statut...](https://www.lapresse.tn/2025/11/02/lhopital-regional-badr-eddine-aloui-de-kasserine-obtient-le-statut-universitaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,6 +222,19 @@
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 - [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 - [EU: Litigating before the European Court of Human Rights to protect migrant children from detention](https://www.icj.org/eu-litigating-before-the-european-court-of-human-rights-to-protect-migrant-children-from-detention/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Tanzanie, 700 personnes tuées lors de manifestations anti-régime](https://www.jeuneafrique.com/1736484/politique/en-tanzanie-700-personnes-tuees-lors-de-manifestations-anti-regime/)
-- [En Guinée-Bissau, Umaro Sissoco Embaló affirme qu’une « tentative de coup d’État » a été déjouée](https://www.jeuneafrique.com/1736490/politique/en-guinee-bissau-umaro-sissoco-embalo-affirme-quune-tentative-de-coup-detat-a-ete-dejouee/)
-- [Le JNIM frappe le Nigeria pour la première fois : un signe de la volonté d’expansion des jihadistes sahéliens](https://www.jeuneafrique.com/1736295/politique/le-jnim-frappe-le-nigeria-pour-la-premiere-fois-un-signe-de-la-volonte-dexpansion-des-jihadistes-saheliens/)
-- [« C’est la chose la plus terrifiante que j’aie jamais vécue » : après le chaos électoral, la Tanzanie toujours confinée](https://www.jeuneafrique.com/1736201/politique/cest-la-chose-la-plus-terrifiante-que-jaie-jamais-vecue-apres-le-chaos-electoral-la-tanzanie-toujours-confinee/)
-- [Au Bénin, Thomas Boni Yayi dénonce le renoncement de Patrice Talon à la démocratie](https://www.jeuneafrique.com/1735981/politique/au-benin-thomas-boni-yayi-denonce-le-renoncement-de-patrice-talon-a-la-democratie/)
-- [RDC-Rwanda : Emmanuel Macron annonce plus d’1,5 milliard d’euros pour les Grands Lacs](https://www.jeuneafrique.com/1736192/politique/rdc-rwanda-emmanuel-macron-annonce-plus-d15-milliard-deuros-pour-les-grands-lacs/)
-- [L’ancien sénateur Abdelkader Jeddiâ visé par une demande d’extradition de l’Algérie](https://www.jeuneafrique.com/1735707/politique/lancien-senateur-abdelkader-jeddia-vise-par-une-demande-dextradition-de-lalgerie/)
-- [« Nous vivons un supplice » : à Nioro du Sahel, au Mali, dans le piège du blocus jihadiste](https://www.jeuneafrique.com/1736027/politique/nous-vivons-un-supplice-a-nioro-du-sahel-au-mali-dans-le-piege-du-blocus-jihadiste/)
-- [Corneille Karekezi (Africa Re) : « Tout est là pour permettre un essor de l’assurance en Afrique »](https://www.jeuneafrique.com/1731542/economie-entreprises/corneille-karekezi-africa-re-tout-est-la-pour-permettre-un-essor-de-lassurance-en-afrique/)
-- [Ibrahima Cheikh Diong : « Le Fonds pour les pertes et dommages entre dans sa phase opérationnelle »](https://www.jeuneafrique.com/1733252/economie-entreprises/ibrahima-cheikh-diong-le-fonds-pour-les-pertes-et-dommages-entre-dans-sa-phase-operationnelle/)
+- [Est de la RDC : Kinshasa s’insurge contre l’opposition du M23 à la réouverture de l’aéroport de Goma](https://www.jeuneafrique.com/1736682/politique/est-de-la-rdc-kinshasa-sinsurge-contre-lopposition-du-m23-a-la-reouverture-de-laeroport-de-goma/)
+- [Comment l’État algérien a finalement racheté à Ali Haddad l’hôtel El Palace de Barcelone](https://www.jeuneafrique.com/1736413/politique/comment-letat-algerien-a-finalement-rachete-a-ali-haddad-lhotel-el-palace-de-barcelone/)
+- [Aimé Césaire : « Senghor était un plus qu’un ami, un frère »](https://www.jeuneafrique.com/1721805/politique/aime-cesaire-senghor-etait-un-plus-quun-ami-un-frere/)
+- [Biya, Ouattara : retour sur des élections « gagnées d’avance »](https://www.jeuneafrique.com/1736469/politique/biya-ouattara-retour-sur-des-elections-gagnees-davance/)
+- [Tanzanie : après trois jours de violences, la présidente proclamée gagnante](https://www.jeuneafrique.com/1736672/politique/tanzanie-apres-trois-jours-de-violences-la-presidente-proclamee-gagnante/)
+- [Une ministre marocaine recadre un député qui souhaite un « beau gosse » à sa collègue](https://www.jeuneafrique.com/1736232/politique/une-ministre-marocaine-recadre-un-depute-qui-souhaite-un-beau-gosse-a-sa-collegue/)
+- [Au Mali, la milice Dan Na Ambassagou tente de survivre en s’imposant par la peur](https://www.jeuneafrique.com/1735378/politique/au-mali-la-milice-dan-na-ambassagou-tente-de-survivre-en-simposant-par-la-peur/)
+- [Les 300 champions de la finance 2025, des présidents réélus mais fragilisés au Cameroun comme en Côte d’Ivoire, le Maroc qui s’équipe de F-35 américains… Les 5 infos à retenir cette semaine](https://www.jeuneafrique.com/1736216/politique/les-300-champions-de-la-finance-2025-des-presidents-reelus-mais-fragilises-au-cameroun-comme-en-cote-divoire-le-maroc-qui-sequipe-de-f-35-americains-les-5-infos-a-retenir-cette-semaine/)
+- [Madagascar se retire de la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
+- [Congo : « L’État doit faire davantage appel aux investisseurs privés »](https://www.jeuneafrique.com/1716029/economie-entreprises/congo-letat-doit-faire-davantage-appel-aux-investisseurs-prives/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
