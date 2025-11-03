@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 06:18*
+*Generato: 03 Nov 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,15 +277,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans le nord du Togo, l’école est la première victime des jihadistes](https://www.jeuneafrique.com/1732636/politique/dans-le-nord-du-togo-lecole-est-la-premiere-victime-des-jihadistes/)
+- [Des Cherarda à la GenZ, ces soulèvements qui ont défié le pouvoir au Maroc](https://www.jeuneafrique.com/1735455/politique/des-cherarda-a-la-genz-ces-soulevements-qui-ont-defie-le-pouvoir-au-maroc/)
 - [Est de la RDC : Kinshasa s’insurge contre l’opposition du M23 à la réouverture de l’aéroport de Goma](https://www.jeuneafrique.com/1736682/politique/est-de-la-rdc-kinshasa-sinsurge-contre-lopposition-du-m23-a-la-reouverture-de-laeroport-de-goma/)
 - [Comment l’État algérien a finalement racheté à Ali Haddad l’hôtel El Palace de Barcelone](https://www.jeuneafrique.com/1736413/politique/comment-letat-algerien-a-finalement-rachete-a-ali-haddad-lhotel-el-palace-de-barcelone/)
 - [Aimé Césaire : « Senghor était un plus qu’un ami, un frère »](https://www.jeuneafrique.com/1721805/politique/aime-cesaire-senghor-etait-un-plus-quun-ami-un-frere/)
 - [Biya, Ouattara : retour sur des élections « gagnées d’avance »](https://www.jeuneafrique.com/1736469/politique/biya-ouattara-retour-sur-des-elections-gagnees-davance/)
 - [Tanzanie : après trois jours de violences, la présidente proclamée gagnante](https://www.jeuneafrique.com/1736672/politique/tanzanie-apres-trois-jours-de-violences-la-presidente-proclamee-gagnante/)
 - [Une ministre marocaine recadre un député qui souhaite un « beau gosse » à sa collègue](https://www.jeuneafrique.com/1736232/politique/une-ministre-marocaine-recadre-un-depute-qui-souhaite-un-beau-gosse-a-sa-collegue/)
-- [Au Mali, la milice Dan Na Ambassagou tente de survivre en s’imposant par la peur](https://www.jeuneafrique.com/1735378/politique/au-mali-la-milice-dan-na-ambassagou-tente-de-survivre-en-simposant-par-la-peur/)
-- [Les 300 champions de la finance 2025, des présidents réélus mais fragilisés au Cameroun comme en Côte d’Ivoire, le Maroc qui s’équipe de F-35 américains… Les 5 infos à retenir cette semaine](https://www.jeuneafrique.com/1736216/politique/les-300-champions-de-la-finance-2025-des-presidents-reelus-mais-fragilises-au-cameroun-comme-en-cote-divoire-le-maroc-qui-sequipe-de-f-35-americains-les-5-infos-a-retenir-cette-semaine/)
-- [Madagascar se retire de la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
+- [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
 - [Congo : « L’État doit faire davantage appel aux investisseurs privés »](https://www.jeuneafrique.com/1716029/economie-entreprises/congo-letat-doit-faire-davantage-appel-aux-investisseurs-prives/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
