@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 18:14*
+*Generato: 03 Nov 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, Mamadi Doumbouya sera bien candidat à la présidentielle du 28 décembre](https://www.jeuneafrique.com/1737029/politique/en-guinee-mamadi-doumbouya-sera-bien-candidat-a-la-presidentielle-du-28-decembre/)
 - [Mamadi Doumbouya : chronique d’une candidature annoncée en Guinée](https://www.jeuneafrique.com/1736821/politique/mamadi-doumbouya-chronique-dune-candidature-annoncee-en-guinee/)
 - [Vingt ans plus tard, le Darfour sombre à nouveau dans le chaos](https://www.jeuneafrique.com/1736771/politique/vingt-ans-plus-tard-le-darfour-sombre-a-nouveau-dans-le-chaos/)
 - [Sahara occidental : pourquoi Alger a failli voter la résolution de l’ONU avant de se rétracter](https://www.jeuneafrique.com/1736760/politique/sahara-occidental-pourquoi-alger-a-failli-voter-la-resolution-de-lonu-avant-de-se-retracter/)
@@ -271,7 +272,6 @@
 - [Donald Trump menace de nouveau le Nigeria d’une intervention militaire](https://www.jeuneafrique.com/1736807/politique/donald-trump-menace-de-nouveau-le-nigeria-dune-intervention-militaire/)
 - [Algérie-France : pour Alger, le vote en France sur l’accord de 1968 est « une affaire franco-française »](https://www.jeuneafrique.com/1736738/politique/algerie-france-pour-alger-le-vote-en-france-sur-laccord-de-1968-est-une-affaire-franco-francaise/)
 - [Est de la RDC : Félix Tshisekedi accuse Paul Kagame d’avoir des visées territoriales](https://www.jeuneafrique.com/1736719/politique/est-de-la-rdc-felix-tshisekedi-accuse-paul-kagame-davoir-des-visees-territoriales/)
-- [En Tanzanie, la présidente investie après les violences](https://www.jeuneafrique.com/1736729/politique/en-tanzanie-la-presidente-investie-apres-les-violences/)
 - [Disrupt : Socium, un champion sénégalais des RH aux ambitions mondiales](https://www.jeuneafrique.com/1736266/economie-entreprises/disrupt-socium-un-champion-senegalais-des-rh-aux-ambitions-mondiales/)
 - [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
 
