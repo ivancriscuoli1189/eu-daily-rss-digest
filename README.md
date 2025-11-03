@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 13:24*
+*Generato: 03 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,8 +272,8 @@
 - [En Tanzanie, la présidente investie après les violences](https://www.jeuneafrique.com/1736729/politique/en-tanzanie-la-presidente-investie-apres-les-violences/)
 - [Dans le nord du Togo, l’école est la première victime des jihadistes](https://www.jeuneafrique.com/1732636/politique/dans-le-nord-du-togo-lecole-est-la-premiere-victime-des-jihadistes/)
 - [Des Cherarda à la GenZ, ces soulèvements qui ont défié le pouvoir au Maroc](https://www.jeuneafrique.com/1735455/politique/des-cherarda-a-la-genz-ces-soulevements-qui-ont-defie-le-pouvoir-au-maroc/)
-- [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
 - [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
+- [James Mwangi (Equity Bank) : « L’Afrique doit se voir comme un marché unique, pas comme 54 économies isolées »](https://www.jeuneafrique.com/1736587/economie-entreprises/james-mwangi-equity-bank-lafrique-doit-se-voir-comme-un-marche-unique-pas-comme-54-economies-isolees/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
