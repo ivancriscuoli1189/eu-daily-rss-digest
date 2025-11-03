@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Nov 2025, 15:11*
+*Generato: 03 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mamadi Doumbouya : chronique d’une candidature annoncée en Guinée](https://www.jeuneafrique.com/1736821/politique/mamadi-doumbouya-chronique-dune-candidature-annoncee-en-guinee/)
+- [Vingt ans plus tard, le Darfour sombre à nouveau dans le chaos](https://www.jeuneafrique.com/1736771/politique/vingt-ans-plus-tard-le-darfour-sombre-a-nouveau-dans-le-chaos/)
 - [Sahara occidental : pourquoi Alger a failli voter la résolution de l’ONU avant de se rétracter](https://www.jeuneafrique.com/1736760/politique/sahara-occidental-pourquoi-alger-a-failli-voter-la-resolution-de-lonu-avant-de-se-retracter/)
 - [Djibouti : le Parlement ratifie la suppression de la limite d’âge pour le président](https://www.jeuneafrique.com/1736727/politique/djibouti-le-parlement-ratifie-la-suppression-de-la-limite-dage-pour-le-president/)
 - [Donald Trump menace de nouveau le Nigeria d’une intervention militaire](https://www.jeuneafrique.com/1736807/politique/donald-trump-menace-de-nouveau-le-nigeria-dune-intervention-militaire/)
 - [Algérie-France : pour Alger, le vote en France sur l’accord de 1968 est « une affaire franco-française »](https://www.jeuneafrique.com/1736738/politique/algerie-france-pour-alger-le-vote-en-france-sur-laccord-de-1968-est-une-affaire-franco-francaise/)
 - [Est de la RDC : Félix Tshisekedi accuse Paul Kagame d’avoir des visées territoriales](https://www.jeuneafrique.com/1736719/politique/est-de-la-rdc-felix-tshisekedi-accuse-paul-kagame-davoir-des-visees-territoriales/)
 - [En Tanzanie, la présidente investie après les violences](https://www.jeuneafrique.com/1736729/politique/en-tanzanie-la-presidente-investie-apres-les-violences/)
-- [Dans le nord du Togo, l’école est la première victime des jihadistes](https://www.jeuneafrique.com/1732636/politique/dans-le-nord-du-togo-lecole-est-la-premiere-victime-des-jihadistes/)
-- [Des Cherarda à la GenZ, ces soulèvements qui ont défié le pouvoir au Maroc](https://www.jeuneafrique.com/1735455/politique/des-cherarda-a-la-genz-ces-soulevements-qui-ont-defie-le-pouvoir-au-maroc/)
+- [Disrupt : Socium, un champion sénégalais des RH aux ambitions mondiales](https://www.jeuneafrique.com/1736266/economie-entreprises/disrupt-socium-un-champion-senegalais-des-rh-aux-ambitions-mondiales/)
 - [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
-- [James Mwangi (Equity Bank) : « L’Afrique doit se voir comme un marché unique, pas comme 54 économies isolées »](https://www.jeuneafrique.com/1736587/economie-entreprises/james-mwangi-equity-bank-lafrique-doit-se-voir-comme-un-marche-unique-pas-comme-54-economies-isolees/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
