@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Nov 2025, 06:17*
+*Generato: 04 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
-- [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
+- [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
-- [Armenia: ICJ condemns detention of defence lawyer Alexander Kochubaev and calls for his immediate release](https://www.icj.org/armenia-icj-condemns-detention-of-defence-lawyer-alexander-kochubaev-and-calls-for-his-immediate-release/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Port-Louis, Johannesburg, Libreville et Luanda : comment Emmanuel Macron prépare sa nouvelle tournée africaine](https://www.jeuneafrique.com/1736909/politique/port-louis-johannesburg-libreville-et-luanda-comment-emmanuel-macron-prepare-sa-nouvelle-tournee-africaine/)
+- [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
 - [En Guinée, Mamadi Doumbouya sera bien candidat à la présidentielle du 28 décembre](https://www.jeuneafrique.com/1737029/politique/en-guinee-mamadi-doumbouya-sera-bien-candidat-a-la-presidentielle-du-28-decembre/)
 - [Mamadi Doumbouya : chronique d’une candidature annoncée en Guinée](https://www.jeuneafrique.com/1736821/politique/mamadi-doumbouya-chronique-dune-candidature-annoncee-en-guinee/)
+- [Comment le Maroc réagit à la résolution de l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1736918/politique/comment-le-maroc-reagit-a-la-resolution-de-lonu-sur-le-sahara-occidental/)
 - [Vingt ans plus tard, le Darfour sombre à nouveau dans le chaos](https://www.jeuneafrique.com/1736771/politique/vingt-ans-plus-tard-le-darfour-sombre-a-nouveau-dans-le-chaos/)
 - [Sahara occidental : pourquoi Alger a failli voter la résolution de l’ONU avant de se rétracter](https://www.jeuneafrique.com/1736760/politique/sahara-occidental-pourquoi-alger-a-failli-voter-la-resolution-de-lonu-avant-de-se-retracter/)
 - [Djibouti : le Parlement ratifie la suppression de la limite d’âge pour le président](https://www.jeuneafrique.com/1736727/politique/djibouti-le-parlement-ratifie-la-suppression-de-la-limite-dage-pour-le-president/)
 - [Donald Trump menace de nouveau le Nigeria d’une intervention militaire](https://www.jeuneafrique.com/1736807/politique/donald-trump-menace-de-nouveau-le-nigeria-dune-intervention-militaire/)
-- [Algérie-France : pour Alger, le vote en France sur l’accord de 1968 est « une affaire franco-française »](https://www.jeuneafrique.com/1736738/politique/algerie-france-pour-alger-le-vote-en-france-sur-laccord-de-1968-est-une-affaire-franco-francaise/)
-- [Disrupt : Socium, un champion sénégalais des RH aux ambitions mondiales](https://www.jeuneafrique.com/1736266/economie-entreprises/disrupt-socium-un-champion-senegalais-des-rh-aux-ambitions-mondiales/)
-- [Madagascar renonce à la présidence tournante de la SADC](https://www.jeuneafrique.com/1736685/economie-entreprises/madagascar-se-retire-de-la-presidence-tournante-de-la-sadc/)
+- [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
+- [AFIS 2025 : comment l’Afrique cherche à mobiliser ses capitaux pour construire sa souveraineté financière](https://www.jeuneafrique.com/1736387/economie-entreprises/en-direct-afis-2025-construire-la-souverainete-financiere-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
