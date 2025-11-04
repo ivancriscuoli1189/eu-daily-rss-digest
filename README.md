@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Nov 2025, 18:14*
+*Generato: 04 Nov 2025, 21:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -267,11 +267,11 @@
 - [Jacob Zuma, héritier de Mandela, au pays d’Ibrahim Traoré, héritier de Sankara](https://www.jeuneafrique.com/1737148/politique/jacob-zuma-heritier-de-mandela-au-pays-dibrahim-traore-heritier-de-sankara/)
 - [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
 - [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
+- [Côte d’Ivoire : après la victoire, Alassane Ouattara et le RHDP à l’épreuve du renouvellement](https://www.jeuneafrique.com/1736377/politique/cote-divoire-apres-la-victoire-alassane-ouattara-et-le-rhdp-a-lepreuve-du-renouvellement/)
+- [Port-Louis, Johannesburg, Libreville et Luanda : comment Emmanuel Macron prépare sa nouvelle tournée africaine](https://www.jeuneafrique.com/1736909/politique/port-louis-johannesburg-libreville-et-luanda-comment-emmanuel-macron-prepare-sa-nouvelle-tournee-africaine/)
 - [En Guinée, Mamadi Doumbouya sera bien candidat à la présidentielle du 28 décembre](https://www.jeuneafrique.com/1737029/politique/en-guinee-mamadi-doumbouya-sera-bien-candidat-a-la-presidentielle-du-28-decembre/)
 - [« Ils sont à nos portes ! » : dans l’est du Sénégal, la peur de la contagion jihadiste](https://www.jeuneafrique.com/1732795/politique/ils-sont-a-nos-portes-dans-lest-du-senegal-la-peur-de-la-contagion-jihadiste/)
 - [« Le combat continue » : au Cameroun, Issa Tchiroma Bakary refuse de se laisser intimider](https://www.jeuneafrique.com/1736906/politique/le-combat-continue-au-cameroun-issa-tchiroma-bakary-refuse-de-se-laisser-intimider/)
-- [Mamadi Doumbouya : chronique d’une candidature annoncée en Guinée](https://www.jeuneafrique.com/1736821/politique/mamadi-doumbouya-chronique-dune-candidature-annoncee-en-guinee/)
-- [Comment le Maroc réagit à la résolution de l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1736918/politique/comment-le-maroc-reagit-a-la-resolution-de-lonu-sur-le-sahara-occidental/)
 - [RAM, Ethiopian Airlines, Egyptair… Qui profite le plus des alliances aériennes internationales ?](https://www.jeuneafrique.com/1736215/economie-entreprises/ram-ethiopian-airlines-egyptair-qui-profite-le-plus-des-alliances-aeriennes-internationales/)
 - [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
 
