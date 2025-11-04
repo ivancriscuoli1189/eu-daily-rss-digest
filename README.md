@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Nov 2025, 11:03*
+*Generato: 04 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
 - [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
 - [En Guinée, Mamadi Doumbouya sera bien candidat à la présidentielle du 28 décembre](https://www.jeuneafrique.com/1737029/politique/en-guinee-mamadi-doumbouya-sera-bien-candidat-a-la-presidentielle-du-28-decembre/)
+- [« Le combat continue » : au Cameroun, Issa Tchiroma Bakary refuse de se laisser intimider](https://www.jeuneafrique.com/1736906/politique/le-combat-continue-au-cameroun-issa-tchiroma-bakary-refuse-de-se-laisser-intimider/)
 - [Mamadi Doumbouya : chronique d’une candidature annoncée en Guinée](https://www.jeuneafrique.com/1736821/politique/mamadi-doumbouya-chronique-dune-candidature-annoncee-en-guinee/)
 - [Comment le Maroc réagit à la résolution de l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1736918/politique/comment-le-maroc-reagit-a-la-resolution-de-lonu-sur-le-sahara-occidental/)
 - [Vingt ans plus tard, le Darfour sombre à nouveau dans le chaos](https://www.jeuneafrique.com/1736771/politique/vingt-ans-plus-tard-le-darfour-sombre-a-nouveau-dans-le-chaos/)
 - [Sahara occidental : pourquoi Alger a failli voter la résolution de l’ONU avant de se rétracter](https://www.jeuneafrique.com/1736760/politique/sahara-occidental-pourquoi-alger-a-failli-voter-la-resolution-de-lonu-avant-de-se-retracter/)
-- [Djibouti : le Parlement ratifie la suppression de la limite d’âge pour le président](https://www.jeuneafrique.com/1736727/politique/djibouti-le-parlement-ratifie-la-suppression-de-la-limite-dage-pour-le-president/)
-- [Donald Trump menace de nouveau le Nigeria d’une intervention militaire](https://www.jeuneafrique.com/1736807/politique/donald-trump-menace-de-nouveau-le-nigeria-dune-intervention-militaire/)
 - [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
 - [AFIS 2025 : comment l’Afrique cherche à mobiliser ses capitaux pour construire sa souveraineté financière](https://www.jeuneafrique.com/1736387/economie-entreprises/en-direct-afis-2025-construire-la-souverainete-financiere-de-lafrique/)
 
