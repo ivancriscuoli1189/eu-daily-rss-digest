@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Nov 2025, 06:16*
+*Generato: 05 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,19 +223,6 @@
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
+- [Sahara occidental : le Maroc décrète une fête nationale après la résolution de l’ONU](https://www.jeuneafrique.com/1737425/politique/sahara-occidental-le-maroc-decrete-une-fete-nationale-apres-la-resolution-de-lonu/)
+- [Candidature de Mamadi Doumbouya en Guinée : l’histoire d’une promesse à laquelle personne ne croyait plus](https://www.jeuneafrique.com/1737152/politique/candidature-de-mamadi-doumbouya-en-guinee-lhistoire-dune-promesse-a-laquelle-personne-ne-croyait-plus/)
 - [Jacob Zuma, héritier de Mandela, au pays d’Ibrahim Traoré, héritier de Sankara](https://www.jeuneafrique.com/1737148/politique/jacob-zuma-heritier-de-mandela-au-pays-dibrahim-traore-heritier-de-sankara/)
 - [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
 - [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
+- [En Algérie, deux éditeurs jugés « trop politiques » interdits de Salon du livre](https://www.jeuneafrique.com/1736705/politique/en-algerie-deux-editeurs-juges-trop-politiques-interdits-de-salon-du-livre/)
 - [Côte d’Ivoire : après la victoire, Alassane Ouattara et le RHDP à l’épreuve du renouvellement](https://www.jeuneafrique.com/1736377/politique/cote-divoire-apres-la-victoire-alassane-ouattara-et-le-rhdp-a-lepreuve-du-renouvellement/)
-- [Port-Louis, Johannesburg, Libreville et Luanda : comment Emmanuel Macron prépare sa nouvelle tournée africaine](https://www.jeuneafrique.com/1736909/politique/port-louis-johannesburg-libreville-et-luanda-comment-emmanuel-macron-prepare-sa-nouvelle-tournee-africaine/)
-- [En Guinée, Mamadi Doumbouya sera bien candidat à la présidentielle du 28 décembre](https://www.jeuneafrique.com/1737029/politique/en-guinee-mamadi-doumbouya-sera-bien-candidat-a-la-presidentielle-du-28-decembre/)
-- [« Ils sont à nos portes ! » : dans l’est du Sénégal, la peur de la contagion jihadiste](https://www.jeuneafrique.com/1732795/politique/ils-sont-a-nos-portes-dans-lest-du-senegal-la-peur-de-la-contagion-jihadiste/)
-- [« Le combat continue » : au Cameroun, Issa Tchiroma Bakary refuse de se laisser intimider](https://www.jeuneafrique.com/1736906/politique/le-combat-continue-au-cameroun-issa-tchiroma-bakary-refuse-de-se-laisser-intimider/)
+- [AFIS 2025 : Abdellatif Jouahri, gardien de la stabilité financière au Maroc, désigné banquier central de l’année](https://www.jeuneafrique.com/1737028/economie-entreprises/afis-2025-abdellatif-jouahri-gardien-de-la-stabilite-financiere-au-maroc-designe-banquier-central-de-lannee/)
 - [RAM, Ethiopian Airlines, Egyptair… Qui profite le plus des alliances aériennes internationales ?](https://www.jeuneafrique.com/1736215/economie-entreprises/ram-ethiopian-airlines-egyptair-qui-profite-le-plus-des-alliances-aeriennes-internationales/)
-- [Centres financiers : comment Maurice a rattrapé Casablanca](https://www.jeuneafrique.com/1727855/economie-entreprises/centres-financiers-comment-maurice-a-rattrape-casablanca/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
