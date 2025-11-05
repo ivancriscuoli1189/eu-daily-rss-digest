@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Nov 2025, 11:09*
+*Generato: 05 Nov 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
 - [Proxy voting in Parliament’s plenary during pregnancy and after childbirth](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31232/proxy-voting-in-parliament-s-plenary-during-pregnancy-and-after-childbirth)
 - [Gender equality week: closing the gender talent gap](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31093/gender-equality-week-closing-the-gender-talent-gap)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
@@ -91,12 +92,11 @@
 - [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
 - [Serbia: MEPs call for justice one year after the Novi Sad tragedy](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30951/serbia-meps-call-for-justice-one-year-after-the-novi-sad-tragedy)
 - [Parliament calls for continued support for Belarusian democratic forces](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30952/parliament-calls-for-continued-support-for-belarusian-democratic-forces)
-- [2026 EU budget: focus on competitiveness, preparedness and defence](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30950/2026-eu-budget-focus-on-competitiveness-preparedness-and-defence)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,21 +223,9 @@
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
+- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
 - [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
@@ -247,7 +235,6 @@
 - [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
 - [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
 - [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
-- [Trump’s Gaza plan: How Europe can help make it happen](https://ecfr.eu/article/trumps-gaza-plan-how-europe-can-help-make-it-happen/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mauritanie : la Cour suprême confirme la condamnation de l’ancien président Ould Abdelaziz à 15 ans de prison](https://www.jeuneafrique.com/1737523/politique/mauritanie-la-cour-supreme-confirme-la-condamnation-de-lancien-president-ould-abdelaziz-a-15-ans-de-prison/)
 - [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
 - [Sahara occidental : le Maroc décrète une fête nationale après la résolution de l’ONU](https://www.jeuneafrique.com/1737425/politique/sahara-occidental-le-maroc-decrete-une-fete-nationale-apres-la-resolution-de-lonu/)
 - [Au Cameroun, entre les camps Biya et Tchiroma, c’est la guerre des « villes mortes »](https://www.jeuneafrique.com/1737295/politique/au-cameroun-entre-les-camps-biya-et-tchiroma-cest-la-guerre-des-villes-mortes/)
 - [Candidature de Mamadi Doumbouya en Guinée : l’histoire d’une promesse à laquelle personne ne croyait plus](https://www.jeuneafrique.com/1737152/politique/candidature-de-mamadi-doumbouya-en-guinee-lhistoire-dune-promesse-a-laquelle-personne-ne-croyait-plus/)
 - [Jacob Zuma, héritier de Mandela, au pays d’Ibrahim Traoré, héritier de Sankara](https://www.jeuneafrique.com/1737148/politique/jacob-zuma-heritier-de-mandela-au-pays-dibrahim-traore-heritier-de-sankara/)
 - [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
-- [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
-- [En Algérie, deux éditeurs jugés « trop politiques » interdits de Salon du livre](https://www.jeuneafrique.com/1736705/politique/en-algerie-deux-editeurs-juges-trop-politiques-interdits-de-salon-du-livre/)
+- [Mali : 5 questions pour comprendre la crise du carburant qui paralyse le pays](https://www.jeuneafrique.com/1736988/politique/mali-5-questions-pour-comprendre-la-crise-du-carburant-qui-paralyse-le-pays/)
 - [AFIS 2025 : Abdellatif Jouahri, gardien de la stabilité financière au Maroc, désigné banquier central de l’année](https://www.jeuneafrique.com/1737028/economie-entreprises/afis-2025-abdellatif-jouahri-gardien-de-la-stabilite-financiere-au-maroc-designe-banquier-central-de-lannee/)
 - [RAM, Ethiopian Airlines, Egyptair… Qui profite le plus des alliances aériennes internationales ?](https://www.jeuneafrique.com/1736215/economie-entreprises/ram-ethiopian-airlines-egyptair-qui-profite-le-plus-des-alliances-aeriennes-internationales/)
 
