@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Nov 2025, 12:20*
+*Generato: 05 Nov 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : arrestation de Damana Pickass, un bras droit de Laurent Gbagbo](https://www.jeuneafrique.com/1737572/politique/cote-divoire-arrestation-de-damana-pickass-un-bras-droit-de-laurent-gbagbo/)
 - [Mauritanie : la Cour suprême confirme la condamnation de l’ancien président Ould Abdelaziz à 15 ans de prison](https://www.jeuneafrique.com/1737523/politique/mauritanie-la-cour-supreme-confirme-la-condamnation-de-lancien-president-ould-abdelaziz-a-15-ans-de-prison/)
 - [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
 - [Sahara occidental : le Maroc décrète une fête nationale après la résolution de l’ONU](https://www.jeuneafrique.com/1737425/politique/sahara-occidental-le-maroc-decrete-une-fete-nationale-apres-la-resolution-de-lonu/)
@@ -271,9 +285,8 @@
 - [Candidature de Mamadi Doumbouya en Guinée : l’histoire d’une promesse à laquelle personne ne croyait plus](https://www.jeuneafrique.com/1737152/politique/candidature-de-mamadi-doumbouya-en-guinee-lhistoire-dune-promesse-a-laquelle-personne-ne-croyait-plus/)
 - [Jacob Zuma, héritier de Mandela, au pays d’Ibrahim Traoré, héritier de Sankara](https://www.jeuneafrique.com/1737148/politique/jacob-zuma-heritier-de-mandela-au-pays-dibrahim-traore-heritier-de-sankara/)
 - [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
+- [Finance climat : l’Afrique peut-elle encore croire aux promesses ?](https://www.jeuneafrique.com/1737260/economie-entreprises/finance-climat-lafrique-peut-elle-encore-croire-aux-promesses/)
 - [Mali : 5 questions pour comprendre la crise du carburant qui paralyse le pays](https://www.jeuneafrique.com/1736988/politique/mali-5-questions-pour-comprendre-la-crise-du-carburant-qui-paralyse-le-pays/)
-- [AFIS 2025 : Abdellatif Jouahri, gardien de la stabilité financière au Maroc, désigné banquier central de l’année](https://www.jeuneafrique.com/1737028/economie-entreprises/afis-2025-abdellatif-jouahri-gardien-de-la-stabilite-financiere-au-maroc-designe-banquier-central-de-lannee/)
-- [RAM, Ethiopian Airlines, Egyptair… Qui profite le plus des alliances aériennes internationales ?](https://www.jeuneafrique.com/1736215/economie-entreprises/ram-ethiopian-airlines-egyptair-qui-profite-le-plus-des-alliances-aeriennes-internationales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
