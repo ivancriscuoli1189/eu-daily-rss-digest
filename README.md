@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Nov 2025, 09:12*
+*Generato: 05 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,6 +223,19 @@
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
@@ -266,12 +279,12 @@
 
 - [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
 - [Sahara occidental : le Maroc décrète une fête nationale après la résolution de l’ONU](https://www.jeuneafrique.com/1737425/politique/sahara-occidental-le-maroc-decrete-une-fete-nationale-apres-la-resolution-de-lonu/)
+- [Au Cameroun, entre les camps Biya et Tchiroma, c’est la guerre des « villes mortes »](https://www.jeuneafrique.com/1737295/politique/au-cameroun-entre-les-camps-biya-et-tchiroma-cest-la-guerre-des-villes-mortes/)
 - [Candidature de Mamadi Doumbouya en Guinée : l’histoire d’une promesse à laquelle personne ne croyait plus](https://www.jeuneafrique.com/1737152/politique/candidature-de-mamadi-doumbouya-en-guinee-lhistoire-dune-promesse-a-laquelle-personne-ne-croyait-plus/)
 - [Jacob Zuma, héritier de Mandela, au pays d’Ibrahim Traoré, héritier de Sankara](https://www.jeuneafrique.com/1737148/politique/jacob-zuma-heritier-de-mandela-au-pays-dibrahim-traore-heritier-de-sankara/)
 - [Sahara occidental : ce n’est plus le Maroc qui plaide, c’est le monde qui confirme](https://www.jeuneafrique.com/1737095/politique/sahara-occidental-ce-nest-plus-le-maroc-qui-plaide-cest-le-monde-qui-confirme/)
 - [RDC : le M23 recrute des magistrats dans l’Est](https://www.jeuneafrique.com/1737074/politique/rdc-le-m23-recrute-des-magistrats-dans-lest/)
 - [En Algérie, deux éditeurs jugés « trop politiques » interdits de Salon du livre](https://www.jeuneafrique.com/1736705/politique/en-algerie-deux-editeurs-juges-trop-politiques-interdits-de-salon-du-livre/)
-- [Côte d’Ivoire : après la victoire, Alassane Ouattara et le RHDP à l’épreuve du renouvellement](https://www.jeuneafrique.com/1736377/politique/cote-divoire-apres-la-victoire-alassane-ouattara-et-le-rhdp-a-lepreuve-du-renouvellement/)
 - [AFIS 2025 : Abdellatif Jouahri, gardien de la stabilité financière au Maroc, désigné banquier central de l’année](https://www.jeuneafrique.com/1737028/economie-entreprises/afis-2025-abdellatif-jouahri-gardien-de-la-stabilite-financiere-au-maroc-designe-banquier-central-de-lannee/)
 - [RAM, Ethiopian Airlines, Egyptair… Qui profite le plus des alliances aériennes internationales ?](https://www.jeuneafrique.com/1736215/economie-entreprises/ram-ethiopian-airlines-egyptair-qui-profite-le-plus-des-alliances-aeriennes-internationales/)
 
