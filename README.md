@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Nov 2025, 09:12*
+*Generato: 06 Nov 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -213,8 +213,8 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
-- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
+- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
+- [L’Égyptien Khaled el-Enany officiellement élu à la tête de l’Unesco](https://www.jeuneafrique.com/1737854/politique/legyptien-khaled-el-enany-officiellement-elu-a-la-tete-de-lunesco/)
 - [Ce que l’on sait de Zohran Mamdani, le nouveau maire démocrate de New York](https://www.jeuneafrique.com/1737652/politique/ce-que-lon-sait-de-zohran-mamdani-le-nouveau-maire-democrate-de-new-york/)
 - [Dans le nord de la Côte d’Ivoire, ces chauffeurs routiers qui défient la mort pour ravitailler Bamako en carburant](https://www.jeuneafrique.com/1737582/politique/dans-le-nord-de-la-cote-divoire-ces-chauffeurs-routiers-qui-defient-la-mort-pour-ravitailler-bamako-en-carburant/)
 - [Au Tchad, Succès Masra peut-il bénéficier d’une évacuation sanitaire ?](https://www.jeuneafrique.com/1737430/politique/au-tchad-succes-masra-peut-il-beneficier-dune-evacuation-sanitaire/)
 - [Côte d’Ivoire : arrestation de Damana Pickass, un bras droit de Laurent Gbagbo](https://www.jeuneafrique.com/1737572/politique/cote-divoire-arrestation-de-damana-pickass-un-bras-droit-de-laurent-gbagbo/)
 - [RDC : pourquoi la succession de Bintou Keïta à la Monusco se discute dès maintenant à New York](https://www.jeuneafrique.com/1737351/politique/rdc-pourquoi-la-succession-de-bintou-keita-a-la-monusco-se-discute-des-maintenant-a-new-york/)
 - [Mauritanie : la Cour suprême confirme la condamnation de l’ancien président Ould Abdelaziz à 15 ans de prison](https://www.jeuneafrique.com/1737523/politique/mauritanie-la-cour-supreme-confirme-la-condamnation-de-lancien-president-ould-abdelaziz-a-15-ans-de-prison/)
-- [Cameroun : ce que l’on sait de la situation d’Issa Tchiroma Bakary au Nigeria](https://www.jeuneafrique.com/1737412/politique/cameroun-ce-que-lon-sait-de-la-situation-dissa-tchiroma-bakary-au-nigeria/)
-- [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
 - [Qui est Noureddine Daoudi, l’invité surprise de Tebboune à la tête de Sonatrach ?](https://www.jeuneafrique.com/1737459/economie-entreprises/qui-est-noureddine-daoudi-linvite-surprise-de-tebboune-a-la-tete-de-sonatrach/)
 - [Le Cameroun peut-il se passer d’un nouveau programme avec le FMI ?](https://www.jeuneafrique.com/1737186/economie-entreprises/le-cameroun-peut-il-se-passer-dun-nouveau-programme-avec-le-fmi/)
 
