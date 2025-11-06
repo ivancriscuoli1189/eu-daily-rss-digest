@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Nov 2025, 11:03*
+*Generato: 06 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -41,32 +41,6 @@
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
 
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
-- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
-- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
-- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
-- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
-- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
-- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
-
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
@@ -83,7 +57,7 @@
 ## UE – EP – Press Room
 
 - [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
-- [MEPs and Council agree on measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-security-and-defence-investments)
+- [MEPs and Council agree on measures to boost EU support for defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-defence-investments)
 - [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
 - [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31262/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
@@ -264,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Un affrontement intercommunautaire fait 33 morts au Tchad](https://www.jeuneafrique.com/1737960/politique/un-affrontement-intercommunautaire-fait-33-morts-au-tchad/)
+- [Pourquoi entre l’Éthiopie et l’Érythrée apparaît le spectre d’un nouveau conflit](https://www.jeuneafrique.com/1737858/politique/pourquoi-entre-lethiopie-et-lerythree-apparait-le-spectre-dun-nouveau-conflit/)
+- [Tanzanie : l’Union africaine estime que l’intégrité de la présidentielle est « compromise »](https://www.jeuneafrique.com/1737820/politique/tanzanie-lunion-africaine-estime-que-lintegrite-de-la-presidentielle-est-compromise/)
 - [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
 - [L’Égyptien Khaled el-Enany officiellement élu à la tête de l’Unesco](https://www.jeuneafrique.com/1737854/politique/legyptien-khaled-el-enany-officiellement-elu-a-la-tete-de-lunesco/)
 - [Ce que l’on sait de Zohran Mamdani, le nouveau maire démocrate de New York](https://www.jeuneafrique.com/1737652/politique/ce-que-lon-sait-de-zohran-mamdani-le-nouveau-maire-democrate-de-new-york/)
 - [Dans le nord de la Côte d’Ivoire, ces chauffeurs routiers qui défient la mort pour ravitailler Bamako en carburant](https://www.jeuneafrique.com/1737582/politique/dans-le-nord-de-la-cote-divoire-ces-chauffeurs-routiers-qui-defient-la-mort-pour-ravitailler-bamako-en-carburant/)
 - [Au Tchad, Succès Masra peut-il bénéficier d’une évacuation sanitaire ?](https://www.jeuneafrique.com/1737430/politique/au-tchad-succes-masra-peut-il-beneficier-dune-evacuation-sanitaire/)
-- [Côte d’Ivoire : arrestation de Damana Pickass, un bras droit de Laurent Gbagbo](https://www.jeuneafrique.com/1737572/politique/cote-divoire-arrestation-de-damana-pickass-un-bras-droit-de-laurent-gbagbo/)
-- [RDC : pourquoi la succession de Bintou Keïta à la Monusco se discute dès maintenant à New York](https://www.jeuneafrique.com/1737351/politique/rdc-pourquoi-la-succession-de-bintou-keita-a-la-monusco-se-discute-des-maintenant-a-new-york/)
-- [Mauritanie : la Cour suprême confirme la condamnation de l’ancien président Ould Abdelaziz à 15 ans de prison](https://www.jeuneafrique.com/1737523/politique/mauritanie-la-cour-supreme-confirme-la-condamnation-de-lancien-president-ould-abdelaziz-a-15-ans-de-prison/)
-- [Qui est Noureddine Daoudi, l’invité surprise de Tebboune à la tête de Sonatrach ?](https://www.jeuneafrique.com/1737459/economie-entreprises/qui-est-noureddine-daoudi-linvite-surprise-de-tebboune-a-la-tete-de-sonatrach/)
-- [Le Cameroun peut-il se passer d’un nouveau programme avec le FMI ?](https://www.jeuneafrique.com/1737186/economie-entreprises/le-cameroun-peut-il-se-passer-dun-nouveau-programme-avec-le-fmi/)
+- [Pétrole : comment l’Algérien Farid Ghezali a décroché le secrétariat général du principal lobby africain](https://www.jeuneafrique.com/1737491/economie-entreprises/petrole-comment-lalgerie-a-decroche-le-secretariat-general-de-lappo/)
+- [Côte d’Ivoire : jusqu’où ira Moumini Bictogo, l’investisseur touche-à-tout qui s’étend au secteur minier ?](https://www.jeuneafrique.com/1736119/economie-entreprises/cote-divoire-qui-est-moumini-bictogo-linvestisseur-touche-a-tout-qui-setend-au-secteur-minier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
