@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Nov 2025, 15:11*
+*Generato: 06 Nov 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : 14 civils tués à Léré faute d’avoir respecté le blocus imposé par les jihadistes](https://www.jeuneafrique.com/1738022/politique/mali-14-civils-tues-a-lere-faute-davoir-respecte-le-blocus-impose-par-les-jihadistes/)
+- [En Tunisie, premiers pas devant les députés pour la cheffe du gouvernement Sarra Zaafrani Zenzeri](https://www.jeuneafrique.com/1737875/politique/en-tunisie-premiers-pas-devant-les-deputes-pour-la-cheffe-du-gouvernement-sarra-zaafrani-zenzeri/)
 - [Un affrontement intercommunautaire fait 33 morts au Tchad](https://www.jeuneafrique.com/1737960/politique/un-affrontement-intercommunautaire-fait-33-morts-au-tchad/)
 - [Pourquoi entre l’Éthiopie et l’Érythrée apparaît le spectre d’un nouveau conflit](https://www.jeuneafrique.com/1737858/politique/pourquoi-entre-lethiopie-et-lerythree-apparait-le-spectre-dun-nouveau-conflit/)
 - [Tanzanie : l’Union africaine estime que l’intégrité de la présidentielle est « compromise »](https://www.jeuneafrique.com/1737820/politique/tanzanie-lunion-africaine-estime-que-lintegrite-de-la-presidentielle-est-compromise/)
 - [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
 - [L’Égyptien Khaled el-Enany officiellement élu à la tête de l’Unesco](https://www.jeuneafrique.com/1737854/politique/legyptien-khaled-el-enany-officiellement-elu-a-la-tete-de-lunesco/)
 - [La Marche verte, l’histoire d’un coup de poker](https://www.jeuneafrique.com/1737098/politique/la-marche-verte-lhistoire-dun-coup-de-poker/)
-- [Côte d’Ivoire : pourquoi Tidjane Thiam a placé Calice Yapo Yapo aux manettes du PDCI](https://www.jeuneafrique.com/1737141/politique/cote-divoire-pourquoi-tidjane-thiam-a-place-calice-yapo-yapo-aux-manettes-du-pdci/)
-- [Ce que l’on sait de Zohran Mamdani, le nouveau maire démocrate de New York](https://www.jeuneafrique.com/1737652/politique/ce-que-lon-sait-de-zohran-mamdani-le-nouveau-maire-democrate-de-new-york/)
+- [Pourquoi le pétrole a encore de beaux jours devant lui en Afrique](https://www.jeuneafrique.com/1737739/economie-entreprises/pourquoi-le-petrole-a-encore-de-beaux-jours-devant-lui-en-afrique/)
 - [Pétrole : comment l’Algérien Farid Ghezali a décroché le secrétariat général du principal lobby africain](https://www.jeuneafrique.com/1737491/economie-entreprises/petrole-comment-lalgerie-a-decroche-le-secretariat-general-de-lappo/)
-- [Côte d’Ivoire : jusqu’où ira Moumini Bictogo, l’investisseur touche-à-tout qui s’étend au secteur minier ?](https://www.jeuneafrique.com/1736119/economie-entreprises/cote-divoire-qui-est-moumini-bictogo-linvestisseur-touche-a-tout-qui-setend-au-secteur-minier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
