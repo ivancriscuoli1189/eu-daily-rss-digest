@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Nov 2025, 12:19*
+*Generato: 06 Nov 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -41,6 +41,32 @@
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
 
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
+- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
+- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
+- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
+
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
@@ -69,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -186,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
-- [Statement on Situation of Persons with Disabilities in Africa by the International Commission of Jurists and African Disability Forum to the African Commission on Human and Peoples’ Rights](https://www.icj.org/statement-on-situation-of-persons-with-disabilities-in-africa-by-the-international-commission-of-jurists-and-african-disability-forum-to-the-african-commission-on-human-and-peoples-rights/)
+- [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
-- [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -243,9 +269,9 @@
 - [Tanzanie : l’Union africaine estime que l’intégrité de la présidentielle est « compromise »](https://www.jeuneafrique.com/1737820/politique/tanzanie-lunion-africaine-estime-que-lintegrite-de-la-presidentielle-est-compromise/)
 - [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
 - [L’Égyptien Khaled el-Enany officiellement élu à la tête de l’Unesco](https://www.jeuneafrique.com/1737854/politique/legyptien-khaled-el-enany-officiellement-elu-a-la-tete-de-lunesco/)
+- [Côte d’Ivoire : pourquoi Tidjane Thiam a placé Calice Yapo Yapo aux manettes du PDCI](https://www.jeuneafrique.com/1737141/politique/cote-divoire-pourquoi-tidjane-thiam-a-place-calice-yapo-yapo-aux-manettes-du-pdci/)
 - [Ce que l’on sait de Zohran Mamdani, le nouveau maire démocrate de New York](https://www.jeuneafrique.com/1737652/politique/ce-que-lon-sait-de-zohran-mamdani-le-nouveau-maire-democrate-de-new-york/)
 - [Dans le nord de la Côte d’Ivoire, ces chauffeurs routiers qui défient la mort pour ravitailler Bamako en carburant](https://www.jeuneafrique.com/1737582/politique/dans-le-nord-de-la-cote-divoire-ces-chauffeurs-routiers-qui-defient-la-mort-pour-ravitailler-bamako-en-carburant/)
-- [Au Tchad, Succès Masra peut-il bénéficier d’une évacuation sanitaire ?](https://www.jeuneafrique.com/1737430/politique/au-tchad-succes-masra-peut-il-beneficier-dune-evacuation-sanitaire/)
 - [Pétrole : comment l’Algérien Farid Ghezali a décroché le secrétariat général du principal lobby africain](https://www.jeuneafrique.com/1737491/economie-entreprises/petrole-comment-lalgerie-a-decroche-le-secretariat-general-de-lappo/)
 - [Côte d’Ivoire : jusqu’où ira Moumini Bictogo, l’investisseur touche-à-tout qui s’étend au secteur minier ?](https://www.jeuneafrique.com/1736119/economie-entreprises/cote-divoire-qui-est-moumini-bictogo-linvestisseur-touche-a-tout-qui-setend-au-secteur-minier/)
 
