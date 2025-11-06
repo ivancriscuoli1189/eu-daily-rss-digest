@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Nov 2025, 21:09*
+*Generato: 06 Nov 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
+- [MEPs and Council agree on measures to boost EU support for security and defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-security-and-defence-investments)
 - [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
 - [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31262/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
@@ -90,13 +92,11 @@
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
 - [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30961/ep-today-thursday-23-october)
-- [Belarus: Sergey Tihanovski and Sviatlana Tsikhanouskaya address MEPs](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30954/belarus-sergey-tihanovski-and-sviatlana-tsikhanouskaya-address-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Rampant violations against refugees and migrants expose EU’s complicity risk](https://www.amnesty.org/en/latest/news/2025/11/tunisia-rampant-violations-against-refugees-migrants-eu-risks-complicity/)
 - [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
 - [Tunisia: Authorities must immediately overturn death sentence for peaceful dissent](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-overturn-death-sentence-for-peaceful-dissent/)
-- [Tunisia: Mass convictions in ‘Conspiracy Case 2’ deepen rule of law crisis](https://www.amnesty.org/en/latest/news/2025/07/tunisia-mass-convictions-in-conspiracy-case-2-deepen-rule-of-law-crisis/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -222,19 +222,6 @@
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 - [EU: The ICJ and other NGOs urge the European Commission to strengthen the Civil Society Strategy](https://www.icj.org/eu-the-icj-and-other-ngos-urge-the-european-commission-to-strengthen-the-civil-society-strategy/)
 - [Slovakia: The ICJ and 55 organizations express concern over constitutional amendments, urge EU action](https://www.icj.org/slovakia-the-icj-and-55-organizations-express-concern-over-constitutional-amendments-urge-eu-action/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans le collimateur de Trump, le Nigeria rejette les accusations de génocide contre les chrétiens](https://www.jeuneafrique.com/1737574/politique/dans-le-collimateur-de-trump-le-nigeria-rejette-les-accusations-de-genocide-contre-les-chretiens/)
 - [Dans le nord de la Côte d’Ivoire, ces chauffeurs routiers qui défient la mort pour ravitailler Bamako en carburant](https://www.jeuneafrique.com/1737582/politique/dans-le-nord-de-la-cote-divoire-ces-chauffeurs-routiers-qui-defient-la-mort-pour-ravitailler-bamako-en-carburant/)
 - [Au Tchad, Succès Masra peut-il bénéficier d’une évacuation sanitaire ?](https://www.jeuneafrique.com/1737430/politique/au-tchad-succes-masra-peut-il-beneficier-dune-evacuation-sanitaire/)
 - [Côte d’Ivoire : arrestation de Damana Pickass, un bras droit de Laurent Gbagbo](https://www.jeuneafrique.com/1737572/politique/cote-divoire-arrestation-de-damana-pickass-un-bras-droit-de-laurent-gbagbo/)
@@ -284,7 +272,6 @@
 - [Présidentielle en Côte d’Ivoire : le Conseil constitutionnel valide la réélection de Ouattara](https://www.jeuneafrique.com/1737439/politique/presidentielle-en-cote-divoire-le-conseil-constitutionnel-valide-la-reelection-de-ouattara/)
 - [Sahara occidental : le Maroc décrète une fête nationale après la résolution de l’ONU](https://www.jeuneafrique.com/1737425/politique/sahara-occidental-le-maroc-decrete-une-fete-nationale-apres-la-resolution-de-lonu/)
 - [Algérie-France : que peut ramener Laurent Nuñez de son prochain voyage à Alger ?](https://www.jeuneafrique.com/1737126/politique/algerie-france-que-peut-ramener-laurent-nunez-de-son-prochain-voyage-a-alger/)
-- [Trump, Tinubu et les chrétiens du Nigeria : les raisons d’une nouvelle escalade](https://www.jeuneafrique.com/1737201/politique/trump-tinubu-et-les-chretiens-du-nigeria-les-raisons-dune-nouvelle-escalade/)
 - [Qui est Noureddine Daoudi, l’invité surprise de Tebboune à la tête de Sonatrach ?](https://www.jeuneafrique.com/1737459/economie-entreprises/qui-est-noureddine-daoudi-linvite-surprise-de-tebboune-a-la-tete-de-sonatrach/)
 - [Le Cameroun peut-il se passer d’un nouveau programme avec le FMI ?](https://www.jeuneafrique.com/1737186/economie-entreprises/le-cameroun-peut-il-se-passer-dun-nouveau-programme-avec-le-fmi/)
 
