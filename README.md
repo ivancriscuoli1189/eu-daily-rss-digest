@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 12:18*
+*Generato: 07 Nov 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -71,7 +71,7 @@
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9)
+- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد فتحي زهير النّوري محافظ البنك المركزي التّونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D9%88%D9%86%D8%B3%D9%8A)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّد عز الدين بن الشّيخ وزير الفلاحة والموارد المائيّة والصّيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%91%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%AF)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد رياض شوّد وزير التشغيل والتكوين المهني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B1%D9%8A%D8%A7%D8%B6-%D8%B4%D9%88%D9%91%D8%AF-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
