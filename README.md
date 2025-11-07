@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 09:11*
+*Generato: 07 Nov 2025, 11:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
 - [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
 - [MEPs and Council agree on measures to boost EU support for defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-defence-investments)
 - [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
@@ -91,7 +92,6 @@
 - [Gender equality week: closing the gender talent gap](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31093/gender-equality-week-closing-the-gender-talent-gap)
 - [Parliament will deliver - President Metsola to EU leaders](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31092/parliament-will-deliver-president-metsola-to-eu-leaders)
 - [COP30: MEPs set out their demands ahead of this year’s global climate talks](https://www.europarl.europa.eu/news/en/press-room/20251016IPR30964/cop30-meps-set-out-their-demands-ahead-of-this-year-s-global-climate-talks)
-- [European Parliament Press Kit for the European Council of 23 October 2025](https://www.europarl.europa.eu/news/en/press-room/20251022IPR31079/european-parliament-press-kit-for-the-european-council-of-23-october-2025)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Guinée : Cellou Dalein Diallo porte plainte contre l’État auprès de la Cedeao](https://www.jeuneafrique.com/1738277/politique/presidentielle-en-guinee-cellou-dalein-diallo-porte-plainte-contre-letat-aupres-de-la-cedeao/)
+- [Algérie-France : un « dialogue exigeant » pour obtenir la libération de Boualem Sansal et Christophe Gleizes](https://www.jeuneafrique.com/1738225/politique/algerie-france-un-dialogue-exigeant-pour-obtenir-la-liberation-de-boualem-sansal-et-christophe-gleizes/)
+- [En Côte d’Ivoire, le PPA-CI de Laurent Gbagbo boycottera les législatives](https://www.jeuneafrique.com/1738249/politique/en-cote-divoire-le-ppa-ci-de-laurent-gbagbo-boycottera-les-legislatives/)
+- [En Mauritanie, la justice tourne la page Ould Abdelaziz](https://www.jeuneafrique.com/1738085/politique/en-mauritanie-la-justice-tourne-la-page-ould-abdelaziz/)
 - [Mali : 14 civils tués à Léré faute d’avoir respecté le blocus imposé par les jihadistes](https://www.jeuneafrique.com/1738022/politique/mali-14-civils-tues-a-lere-faute-davoir-respecte-le-blocus-impose-par-les-jihadistes/)
 - [En Tunisie, premiers pas devant les députés pour la cheffe du gouvernement Sarra Zaafrani Zenzeri](https://www.jeuneafrique.com/1737875/politique/en-tunisie-premiers-pas-devant-les-deputes-pour-la-cheffe-du-gouvernement-sarra-zaafrani-zenzeri/)
 - [Au Gabon, pourquoi 18 ministres doivent remettre leur démission à Oligui Nguema](https://www.jeuneafrique.com/1737805/politique/au-gabon-pourquoi-18-ministres-doivent-remettre-leur-demission-a-oligui-nguema/)
 - [Un affrontement intercommunautaire fait 33 morts au Tchad](https://www.jeuneafrique.com/1737960/politique/un-affrontement-intercommunautaire-fait-33-morts-au-tchad/)
-- [Cameroun : comment Issa Tchiroma Bakary prépare son offensive juridique contre Paul Biya](https://www.jeuneafrique.com/1737859/politique/au-cameroun-comment-issa-tchiroma-bakary-prepare-son-offensive-juridique-contre-paul-biya/)
-- [Pourquoi entre l’Éthiopie et l’Érythrée apparaît le spectre d’un nouveau conflit](https://www.jeuneafrique.com/1737858/politique/pourquoi-entre-lethiopie-et-lerythree-apparait-le-spectre-dun-nouveau-conflit/)
-- [Tanzanie : l’Union africaine estime que l’intégrité de la présidentielle est « compromise »](https://www.jeuneafrique.com/1737820/politique/tanzanie-lunion-africaine-estime-que-lintegrite-de-la-presidentielle-est-compromise/)
-- [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
 - [Sénégal : le FMI valide la rupture avec l’ère Macky Sall](https://www.jeuneafrique.com/1738227/economie-entreprises/senegal-le-fmi-valide-la-rupture-avec-la-gestion-macky-sall/)
 - [Pourquoi le pétrole a encore de beaux jours devant lui en Afrique](https://www.jeuneafrique.com/1737739/economie-entreprises/pourquoi-le-petrole-a-encore-de-beaux-jours-devant-lui-en-afrique/)
 
