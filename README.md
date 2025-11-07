@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 11:04*
+*Generato: 07 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [زيارة رئيس الجمهوريّة قيس سعيّد إلى مدينة بنزرت بمناسبة إحياء الذّكرى الثانية والسّتين لعيد الجلاء](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D9%86%D8%B2%D8%B1%D8%AA-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%A5%D8%AD%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%B0%D9%91%D9%83%D8%B1%D9%89-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%91%D8%AA%D9%8A%D9%86-%D9%84%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D8%A1)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد فتحي زهير النّوري محافظ البنك المركزي التّونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B2%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A-%D8%A7%D9%84%D8%AA%D9%91%D9%88%D9%86%D8%B3%D9%8A)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّد عز الدين بن الشّيخ وزير الفلاحة والموارد المائيّة والصّيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%91%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%AF)
@@ -268,12 +268,12 @@
 - [Algérie-France : un « dialogue exigeant » pour obtenir la libération de Boualem Sansal et Christophe Gleizes](https://www.jeuneafrique.com/1738225/politique/algerie-france-un-dialogue-exigeant-pour-obtenir-la-liberation-de-boualem-sansal-et-christophe-gleizes/)
 - [En Côte d’Ivoire, le PPA-CI de Laurent Gbagbo boycottera les législatives](https://www.jeuneafrique.com/1738249/politique/en-cote-divoire-le-ppa-ci-de-laurent-gbagbo-boycottera-les-legislatives/)
 - [En Mauritanie, la justice tourne la page Ould Abdelaziz](https://www.jeuneafrique.com/1738085/politique/en-mauritanie-la-justice-tourne-la-page-ould-abdelaziz/)
+- [« J’en appelle à l’union sacrée » : au Cameroun, Paul Biya a prêté serment pour la neuvième fois](https://www.jeuneafrique.com/1737811/politique/jen-appelle-a-lunion-sacree-au-cameroun-paul-biya-a-prete-serment-pour-la-neuvieme-fois/)
 - [Mali : 14 civils tués à Léré faute d’avoir respecté le blocus imposé par les jihadistes](https://www.jeuneafrique.com/1738022/politique/mali-14-civils-tues-a-lere-faute-davoir-respecte-le-blocus-impose-par-les-jihadistes/)
 - [En Tunisie, premiers pas devant les députés pour la cheffe du gouvernement Sarra Zaafrani Zenzeri](https://www.jeuneafrique.com/1737875/politique/en-tunisie-premiers-pas-devant-les-deputes-pour-la-cheffe-du-gouvernement-sarra-zaafrani-zenzeri/)
 - [Au Gabon, pourquoi 18 ministres doivent remettre leur démission à Oligui Nguema](https://www.jeuneafrique.com/1737805/politique/au-gabon-pourquoi-18-ministres-doivent-remettre-leur-demission-a-oligui-nguema/)
-- [Un affrontement intercommunautaire fait 33 morts au Tchad](https://www.jeuneafrique.com/1737960/politique/un-affrontement-intercommunautaire-fait-33-morts-au-tchad/)
 - [Sénégal : le FMI valide la rupture avec l’ère Macky Sall](https://www.jeuneafrique.com/1738227/economie-entreprises/senegal-le-fmi-valide-la-rupture-avec-la-gestion-macky-sall/)
-- [Pourquoi le pétrole a encore de beaux jours devant lui en Afrique](https://www.jeuneafrique.com/1737739/economie-entreprises/pourquoi-le-petrole-a-encore-de-beaux-jours-devant-lui-en-afrique/)
+- [Pétrole : Dangote peut-il réussir son pari de doubler la capacité de sa raffinerie ?](https://www.jeuneafrique.com/1738068/economie-entreprises/petrole-dangote-peut-il-reussir-son-pari-de-doubler-la-capacite-de-sa-raffinerie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
