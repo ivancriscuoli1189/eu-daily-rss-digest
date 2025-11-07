@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 06:18*
+*Generato: 07 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -266,14 +266,14 @@
 
 - [Mali : 14 civils tués à Léré faute d’avoir respecté le blocus imposé par les jihadistes](https://www.jeuneafrique.com/1738022/politique/mali-14-civils-tues-a-lere-faute-davoir-respecte-le-blocus-impose-par-les-jihadistes/)
 - [En Tunisie, premiers pas devant les députés pour la cheffe du gouvernement Sarra Zaafrani Zenzeri](https://www.jeuneafrique.com/1737875/politique/en-tunisie-premiers-pas-devant-les-deputes-pour-la-cheffe-du-gouvernement-sarra-zaafrani-zenzeri/)
+- [Au Gabon, pourquoi 18 ministres doivent remettre leur démission à Oligui Nguema](https://www.jeuneafrique.com/1737805/politique/au-gabon-pourquoi-18-ministres-doivent-remettre-leur-demission-a-oligui-nguema/)
 - [Un affrontement intercommunautaire fait 33 morts au Tchad](https://www.jeuneafrique.com/1737960/politique/un-affrontement-intercommunautaire-fait-33-morts-au-tchad/)
+- [Cameroun : comment Issa Tchiroma Bakary prépare son offensive juridique contre Paul Biya](https://www.jeuneafrique.com/1737859/politique/au-cameroun-comment-issa-tchiroma-bakary-prepare-son-offensive-juridique-contre-paul-biya/)
 - [Pourquoi entre l’Éthiopie et l’Érythrée apparaît le spectre d’un nouveau conflit](https://www.jeuneafrique.com/1737858/politique/pourquoi-entre-lethiopie-et-lerythree-apparait-le-spectre-dun-nouveau-conflit/)
 - [Tanzanie : l’Union africaine estime que l’intégrité de la présidentielle est « compromise »](https://www.jeuneafrique.com/1737820/politique/tanzanie-lunion-africaine-estime-que-lintegrite-de-la-presidentielle-est-compromise/)
 - [Abdallah Laroui : « Pourquoi j’ai participé à la Marche verte »](https://www.jeuneafrique.com/1724455/politique/abdallah-laroui-pourquoi-jai-participe-a-la-marche-verte/)
-- [L’Égyptien Khaled el-Enany officiellement élu à la tête de l’Unesco](https://www.jeuneafrique.com/1737854/politique/legyptien-khaled-el-enany-officiellement-elu-a-la-tete-de-lunesco/)
-- [La Marche verte, l’histoire d’un coup de poker](https://www.jeuneafrique.com/1737098/politique/la-marche-verte-lhistoire-dun-coup-de-poker/)
+- [Sénégal : le FMI valide la rupture avec l’ère Macky Sall](https://www.jeuneafrique.com/1738227/economie-entreprises/senegal-le-fmi-valide-la-rupture-avec-la-gestion-macky-sall/)
 - [Pourquoi le pétrole a encore de beaux jours devant lui en Afrique](https://www.jeuneafrique.com/1737739/economie-entreprises/pourquoi-le-petrole-a-encore-de-beaux-jours-devant-lui-en-afrique/)
-- [Pétrole : comment l’Algérien Farid Ghezali a décroché le secrétariat général du principal lobby africain](https://www.jeuneafrique.com/1737491/economie-entreprises/petrole-comment-lalgerie-a-decroche-le-secretariat-general-de-lappo/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
