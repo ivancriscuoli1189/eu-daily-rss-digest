@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 18:14*
+*Generato: 07 Nov 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Enregistrer une conversation sans consentement : jusqu’à 5 ans de...](https://www.lapresse.tn/2025/11/02/enregistrer-une-conversation-sans-consentement-jusqua-5-ans-de-prison-et-500-000-dinars-damende/)
-- [Chaussure tunisienne : un savoir-faire reconnu par les plus grandes...](https://www.lapresse.tn/2025/11/02/chaussure-tunisienne-un-savoir-faire-reconnu-par-les-plus-grandes-marques-internationales/)
-- [Un grand rendez-vous du sport et de l’innovation au Kram](https://www.lapresse.tn/2025/11/02/un-grand-rendez-vous-du-sport-et-de-linnovation-au-kram/)
-- [L’hôpital régional Badr Eddine Aloui de Kasserine obtient le statut...](https://www.lapresse.tn/2025/11/02/lhopital-regional-badr-eddine-aloui-de-kasserine-obtient-le-statut-universitaire/)
+- [L’étoile aligne la passe de trois : La belle série...](https://www.lapresse.tn/2025/11/07/letoile-aligne-la-passe-de-trois-la-belle-serie-continue/)
+- [Cancer du sein : une découverte majeure du CNRS sur...](https://www.lapresse.tn/2025/11/07/cancer-du-sein-une-decouverte-majeure-du-cnrs-sur-le-mecanisme-de-resistance-cellulaire/)
+- [Le CAB laisse des plumes au Chtioui : De mal...](https://www.lapresse.tn/2025/11/07/le-cab-laisse-des-plumes-au-chtioui-de-mal-en-pis-en-deplacement/)
+- [Paris recommande à ses ressortissants au Mali de quitter le...](https://www.lapresse.tn/2025/11/07/paris-recommande-a-ses-ressortissants-au-mali-de-quitter-le-pays/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,11 +267,11 @@
 - [Tanzanie : des civils tués chez eux en « représailles », selon des ONG](https://www.jeuneafrique.com/1738605/politique/tanzanie-des-civils-tues-chez-eux-en-represailles-selon-des-ong/)
 - [Guerre des généraux au Soudan : une tragédie absurde et un pays médiatiquement sacrifié](https://www.jeuneafrique.com/1738351/politique/guerre-des-generaux-au-soudan-une-tragedie-absurde-et-un-pays-mediatiquement-sacrifie/)
 - [Mali : la France recommande à ses ressortissants de quitter le pays « dès que possible »](https://www.jeuneafrique.com/1738600/politique/mali-la-france-recommande-a-ses-ressortissants-de-quitter-le-pays-des-que-possible/)
+- [Algérie : la présidente de l’Observatoire national de la société civile, Ibtissem Hamlaoui, déjà sous le feu des critiques](https://www.jeuneafrique.com/1738183/politique/algerie-la-presidente-de-lobservatoire-national-de-la-societe-civile-ibtissem-hamlaoui-deja-sous-le-feu-des-critiques/)
 - [Présidentielle en Guinée : Cellou Dalein Diallo porte plainte contre l’État auprès de la Cedeao](https://www.jeuneafrique.com/1738277/politique/presidentielle-en-guinee-cellou-dalein-diallo-porte-plainte-contre-letat-aupres-de-la-cedeao/)
 - [Mali : asphyxiée par les jihadistes, la junte est aux abois](https://www.jeuneafrique.com/1738235/politique/mali-asphyxiee-par-les-jihadistes-la-junte-est-aux-abois/)
 - [Algérie-France : un « dialogue exigeant » pour obtenir la libération de Boualem Sansal et Christophe Gleizes](https://www.jeuneafrique.com/1738225/politique/algerie-france-un-dialogue-exigeant-pour-obtenir-la-liberation-de-boualem-sansal-et-christophe-gleizes/)
 - [En Côte d’Ivoire, le PPA-CI de Laurent Gbagbo boycottera les législatives](https://www.jeuneafrique.com/1738249/politique/en-cote-divoire-le-ppa-ci-de-laurent-gbagbo-boycottera-les-legislatives/)
-- [Comment l’armée américaine élabore des plans d’action au Nigeria](https://www.jeuneafrique.com/1737928/politique/comment-larmee-americaine-elabore-des-plans-daction-au-nigeria/)
 - [Blocus au Mali : MSC emboîte le pas à CMA CGM et suspend ses livraisons](https://www.jeuneafrique.com/1738699/economie-entreprises/blocus-au-mali-msc-emboite-le-pas-a-cma-cgm-et-suspend-ses-livraisons/)
 - [Sénégal : le FMI valide la rupture avec l’ère Macky Sall](https://www.jeuneafrique.com/1738227/economie-entreprises/senegal-le-fmi-valide-la-rupture-avec-la-gestion-macky-sall/)
 
