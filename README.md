@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 18:14*
+*Generato: 10 Nov 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Ministre du Commerce : « La Tunisie a réalisé une récolte...](https://www.lapresse.tn/2025/11/10/ministre-du-commerce-la-tunisie-a-realise-une-recolte-record-en-olives-dattes-et-agrumes/)
-- [Au fait du jour : Savoir protéger une élite](https://www.lapresse.tn/2025/11/10/au-fait-du-jour-savoir-proteger-une-elite/)
-- [« MainLevée » à sidi bousaid : Le geste libéré ...](https://www.lapresse.tn/2025/11/10/mainlevee-a-sidi-bousaid-le-geste-libere-de-trois-street-artistes/)
-- [5e saison de la série britannique « Slow Horses »...](https://www.lapresse.tn/2025/11/10/5e-saison-de-la-serie-britannique-slow-horses-un-tunisien-dans-la-cour-des-grands-de-sidi-achour-nabeul-au-london-city-hall-lincroyable-destin-de-montassar-tabben/)
+- [Michket Slama Khaldi reçoit l’Ambassadrice allemande Elisabeth Wolbers : pour...](https://www.lapresse.tn/2025/11/10/michket-slama-khaldi-recoit-lambassadrice-allemande-elisabeth-wolbers-pour-un-partenariat-economique-consolide/)
+- [Photo du jour : Quand les cafés s’invitent sur les...](https://www.lapresse.tn/2025/11/10/photo-du-jour-quand-les-cafes-sinvitent-sur-les-parcmetres-avec-leur-menu/)
+- [Tunisie : nouvelles obligations pour les exportateurs vers l’Europe dès...](https://www.lapresse.tn/2025/11/10/tunisie-nouvelles-obligations-pour-les-exportateurs-vers-leurope-des-2026/)
+- [Solecrypt : un projet tuniso-britannique qui allie blockchain et développement...](https://www.lapresse.tn/2025/11/10/solecrypt-un-projet-tuniso-britannique-qui-allie-blockchain-et-developpement-durable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
+- [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
 - [[Talk] 300 Champions de la finance : une africanisation gagnante ?](https://www.jeuneafrique.com/1737239/economie-entreprises/talk-300-champions-de-la-finance-une-africanisation-gagnante/)
-- [Comment les banques africaines peuvent se libérer de l’emprise des dettes souveraines](https://www.jeuneafrique.com/1738113/economie-entreprises/comment-les-banques-africaines-peuvent-se-liberer-de-lemprise-des-dettes-souveraines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
