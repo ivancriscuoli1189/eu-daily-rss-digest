@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Nov 2025, 21:02*
+*Generato: 10 Nov 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -49,8 +49,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 - [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [L’étoile aligne la passe de trois : La belle série...](https://www.lapresse.tn/2025/11/07/letoile-aligne-la-passe-de-trois-la-belle-serie-continue/)
-- [Cancer du sein : une découverte majeure du CNRS sur...](https://www.lapresse.tn/2025/11/07/cancer-du-sein-une-decouverte-majeure-du-cnrs-sur-le-mecanisme-de-resistance-cellulaire/)
-- [Le CAB laisse des plumes au Chtioui : De mal...](https://www.lapresse.tn/2025/11/07/le-cab-laisse-des-plumes-au-chtioui-de-mal-en-pis-en-deplacement/)
-- [Paris recommande à ses ressortissants au Mali de quitter le...](https://www.lapresse.tn/2025/11/07/paris-recommande-a-ses-ressortissants-au-mali-de-quitter-le-pays/)
+- [Fermeture de trois restaurants pour graves infractions sanitaires à Kairouan](https://www.lapresse.tn/2025/11/09/fermeture-de-trois-restaurants-pour-graves-infractions-sanitaires-a-kairouan/)
+- [Une femme décède dans l’incendie de sa maison à Gabès](https://www.lapresse.tn/2025/11/09/une-femme-decede-dans-lincendie-de-sa-maison-a-gabes/)
+- [Sidi Bouzid : le bois d’olivier, un trésor artisanal à...](https://www.lapresse.tn/2025/11/09/sidi-bouzid-le-bois-dolivier-un-tresor-artisanal-a-fort-potentiel-dexportation/)
+- [Présentation de « Harems et Sultans » de Jocelyne Dakhlia...](https://www.lapresse.tn/2025/11/09/presentation-de-harems-et-sultans-de-jocelyne-dakhlia-a-lirmc-les-stereotypes-a-lepreuve-de-lhistoire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,7 +212,7 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
-- [PRESS RELEASE;African Civil Society Organisations Commend AU and SADC for Condemning Sham](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
+- [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Tanzanie : des civils tués chez eux en « représailles », selon des ONG](https://www.jeuneafrique.com/1738605/politique/tanzanie-des-civils-tues-chez-eux-en-represailles-selon-des-ong/)
-- [Guerre des généraux au Soudan : une tragédie absurde et un pays médiatiquement sacrifié](https://www.jeuneafrique.com/1738351/politique/guerre-des-generaux-au-soudan-une-tragedie-absurde-et-un-pays-mediatiquement-sacrifie/)
-- [Mali : la France recommande à ses ressortissants de quitter le pays « dès que possible »](https://www.jeuneafrique.com/1738600/politique/mali-la-france-recommande-a-ses-ressortissants-de-quitter-le-pays-des-que-possible/)
-- [Algérie : la présidente de l’Observatoire national de la société civile, Ibtissem Hamlaoui, déjà sous le feu des critiques](https://www.jeuneafrique.com/1738183/politique/algerie-la-presidente-de-lobservatoire-national-de-la-societe-civile-ibtissem-hamlaoui-deja-sous-le-feu-des-critiques/)
-- [Présidentielle en Guinée : Cellou Dalein Diallo porte plainte contre l’État auprès de la Cedeao](https://www.jeuneafrique.com/1738277/politique/presidentielle-en-guinee-cellou-dalein-diallo-porte-plainte-contre-letat-aupres-de-la-cedeao/)
-- [Mali : asphyxiée par les jihadistes, la junte est aux abois](https://www.jeuneafrique.com/1738235/politique/mali-asphyxiee-par-les-jihadistes-la-junte-est-aux-abois/)
-- [Algérie-France : un « dialogue exigeant » pour obtenir la libération de Boualem Sansal et Christophe Gleizes](https://www.jeuneafrique.com/1738225/politique/algerie-france-un-dialogue-exigeant-pour-obtenir-la-liberation-de-boualem-sansal-et-christophe-gleizes/)
-- [En Côte d’Ivoire, le PPA-CI de Laurent Gbagbo boycottera les législatives](https://www.jeuneafrique.com/1738249/politique/en-cote-divoire-le-ppa-ci-de-laurent-gbagbo-boycottera-les-legislatives/)
+- [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
+- [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
+- [Présidentielle en Guinée : neuf candidats retenus, dont Mamadi Doumbouya](https://www.jeuneafrique.com/1738802/politique/presidentielle-en-guinee-neuf-candidats-retenus-dont-mamadi-doumbouya/)
+- [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
+- [Ismaïl Omar Guelleh officiellement en course pour sa succession](https://www.jeuneafrique.com/1738783/politique/ismail-omar-guelleh-officiellement-en-course-pour-sa-succession/)
+- [Manifestations en Tanzanie : plus de 200 inculpations pour « trahison »](https://www.jeuneafrique.com/1738779/politique/manifestations-en-tanzanie-plus-de-200-inculpations-pour-trahison/)
+- [Pollution à Gabès : un ingénieur tunisien explique pourquoi la situation reste bloquée](https://www.jeuneafrique.com/1737513/politique/pollution-a-gabes-un-ingenieur-tunisien-explique-pourquoi-la-situation-reste-bloquee/)
+- [Le Sahara occidental, la pénurie de carburant au Mali, la menace jihadiste aux confins du Sénégal… Voici les 5 infos à retenir cette semaine](https://www.jeuneafrique.com/1738421/politique/le-sahara-occidental-la-penurie-de-carburant-au-mali-la-menace-jihadiste-aux-confins-du-senegal-voici-les-5-infos-a-retenir-cette-semaine/)
+- [Simandou : qui sont les VIP attendus à l’inauguration du projet de fer en Guinée ?](https://www.jeuneafrique.com/1736923/economie-entreprises/qui-sont-les-vip-attendus-a-linauguration-du-projet-de-fer-simandou/)
 - [Blocus au Mali : MSC emboîte le pas à CMA CGM et suspend ses livraisons](https://www.jeuneafrique.com/1738699/economie-entreprises/blocus-au-mali-msc-emboite-le-pas-a-cma-cgm-et-suspend-ses-livraisons/)
-- [Sénégal : le FMI valide la rupture avec l’ère Macky Sall](https://www.jeuneafrique.com/1738227/economie-entreprises/senegal-le-fmi-valide-la-rupture-avec-la-gestion-macky-sall/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
