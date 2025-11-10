@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 12:20*
+*Generato: 10 Nov 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, des députés enfin sortis de leur torpeur](https://www.jeuneafrique.com/1738815/politique/en-tunisie-des-deputes-enfin-sortis-de-leur-torpeur/)
 - [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
@@ -271,7 +285,6 @@
 - [Soudan : les Émirats arabes unis soupçonnés d’être impliqués dans les atrocités commises envers les civils](https://www.jeuneafrique.com/1738342/politique/soudan-les-emirats-arabes-unis-soupconnes-detre-impliques-dans-les-atrocites-commises-envers-les-civils/)
 - [« Le jour où ma rupture avec Macky Sall a été scellée », par Aminata Touré](https://www.jeuneafrique.com/1731092/politique/le-jour-ou-ma-rupture-avec-macky-sall-a-ete-scellee-par-aminata-toure/)
 - [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
-- [Ismaïl Omar Guelleh officiellement en course pour sa succession](https://www.jeuneafrique.com/1738783/politique/ismail-omar-guelleh-officiellement-en-course-pour-sa-succession/)
 - [[Talk] 300 Champions de la finance : une africanisation gagnante ?](https://www.jeuneafrique.com/1737239/economie-entreprises/talk-300-champions-de-la-finance-une-africanisation-gagnante/)
 - [COP30 : « Les moyens financiers ne vont jamais arriver », prévient le Malien Youba Sokona](https://www.jeuneafrique.com/1720828/economie-entreprises/cop30-les-moyens-financiers-ne-vont-jamais-arriver-previent-le-malien-youba-sokona/)
 
