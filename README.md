@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 13:26*
+*Generato: 10 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Jendouba : Les agriculteurs du bassin de Bouhertma indemnisés...](https://www.lapresse.tn/2025/11/10/jendouba-les-agriculteurs-du-bassin-de-bouhertma-indemnises-pour-les-prejudices-subis/)
+- [Intelligence artificielle en Tunisie : entre espoirs timides et méfiance...](https://www.lapresse.tn/2025/11/10/intelligence-artificielle-en-tunisie-entre-espoirs-timides-et-mefiance-grandissante/)
+- [L’administration de l’arbitrage met les enregistrements du VAR à la...](https://www.lapresse.tn/2025/11/10/ladministration-de-larbitrage-met-les-enregistrements-du-var-a-la-disposition-des-clubs/)
 - [Pêche et aquaculture : Trois entreprises tunisiennes font valoir leur...](https://www.lapresse.tn/2025/11/10/peche-et-aquaculture-trois-entreprises-tunisiennes-font-valoir-leur-expertise-en-algerie/)
-- [EST : légère blessure pour le Brésilien Yann Sasse](https://www.lapresse.tn/2025/11/10/est-legere-blessure-pour-le-bresilien-yann-sasse/)
-- [À partir du 12 novembre : la SNIT met en...](https://www.lapresse.tn/2025/11/10/a-partir-du-12-novembre-la-snit-met-en-vente-des-appartements-a-sidi-hassine/)
-- [Enfidha–Hammamet inaugure sa première liaison directe avec Médine](https://www.lapresse.tn/2025/11/10/enfidha-hammamet-inaugure-sa-premiere-liaison-directe-avec-medine/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -222,19 +222,6 @@
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
 - [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
-
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
+- [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
 - [En Tunisie, des députés enfin sortis de leur torpeur](https://www.jeuneafrique.com/1738815/politique/en-tunisie-des-deputes-enfin-sortis-de-leur-torpeur/)
 - [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
 - [Présidentielle en Guinée : neuf candidats retenus, dont Mamadi Doumbouya](https://www.jeuneafrique.com/1738802/politique/presidentielle-en-guinee-neuf-candidats-retenus-dont-mamadi-doumbouya/)
 - [Soudan : les Émirats arabes unis soupçonnés d’être impliqués dans les atrocités commises envers les civils](https://www.jeuneafrique.com/1738342/politique/soudan-les-emirats-arabes-unis-soupconnes-detre-impliques-dans-les-atrocites-commises-envers-les-civils/)
-- [« Le jour où ma rupture avec Macky Sall a été scellée », par Aminata Touré](https://www.jeuneafrique.com/1731092/politique/le-jour-ou-ma-rupture-avec-macky-sall-a-ete-scellee-par-aminata-toure/)
-- [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
 - [[Talk] 300 Champions de la finance : une africanisation gagnante ?](https://www.jeuneafrique.com/1737239/economie-entreprises/talk-300-champions-de-la-finance-une-africanisation-gagnante/)
 - [COP30 : « Les moyens financiers ne vont jamais arriver », prévient le Malien Youba Sokona](https://www.jeuneafrique.com/1720828/economie-entreprises/cop30-les-moyens-financiers-ne-vont-jamais-arriver-previent-le-malien-youba-sokona/)
 
