@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 11:03*
+*Generato: 10 Nov 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Jusqu’à 85 mm à Aïn Draham : des précipitations qui...](https://www.lapresse.tn/2025/11/10/jusqua-85-mm-a-ain-draham-des-precipitations-qui-renforcent-le-stock-deau-dans-plusieurs-barrages/)
-- [Ligue 1 – 14e Journée : Le Stade Tunisien concède...](https://www.lapresse.tn/2025/11/10/ligue-1-14e-journee-le-stade-tunisien-concede-sa-premiere-defaite/)
-- [Président de l’Union agricole de Nabeul : « L’entreprise de...](https://www.lapresse.tn/2025/11/10/president-de-lunion-agricole-de-nabeul-lentreprise-de-traitement-des-agrumes-est-incapable-daccomplir-sa-mission/)
-- [L’Étoile accrochée à Bizerte : Frustrant coup d’arrêt…](https://www.lapresse.tn/2025/11/10/letoile-accrochee-a-bizerte-frustrant-coup-darret/)
+- [Pêche et aquaculture : Trois entreprises tunisiennes font valoir leur...](https://www.lapresse.tn/2025/11/10/peche-et-aquaculture-trois-entreprises-tunisiennes-font-valoir-leur-expertise-en-algerie/)
+- [EST : légère blessure pour le Brésilien Yann Sasse](https://www.lapresse.tn/2025/11/10/est-legere-blessure-pour-le-bresilien-yann-sasse/)
+- [À partir du 12 novembre : la SNIT met en...](https://www.lapresse.tn/2025/11/10/a-partir-du-12-novembre-la-snit-met-en-vente-des-appartements-a-sidi-hassine/)
+- [Enfidha–Hammamet inaugure sa première liaison directe avec Médine](https://www.lapresse.tn/2025/11/10/enfidha-hammamet-inaugure-sa-premiere-liaison-directe-avec-medine/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
 - [Présidentielle en Guinée : neuf candidats retenus, dont Mamadi Doumbouya](https://www.jeuneafrique.com/1738802/politique/presidentielle-en-guinee-neuf-candidats-retenus-dont-mamadi-doumbouya/)
@@ -271,9 +272,8 @@
 - [« Le jour où ma rupture avec Macky Sall a été scellée », par Aminata Touré](https://www.jeuneafrique.com/1731092/politique/le-jour-ou-ma-rupture-avec-macky-sall-a-ete-scellee-par-aminata-toure/)
 - [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
 - [Ismaïl Omar Guelleh officiellement en course pour sa succession](https://www.jeuneafrique.com/1738783/politique/ismail-omar-guelleh-officiellement-en-course-pour-sa-succession/)
-- [Au Mali, l’effet domino du blocus du Jnim](https://www.jeuneafrique.com/1736120/politique/au-mali-leffet-domino-du-blocus-du-jnim/)
+- [[Talk] 300 Champions de la finance : une africanisation gagnante ?](https://www.jeuneafrique.com/1737239/economie-entreprises/talk-300-champions-de-la-finance-une-africanisation-gagnante/)
 - [COP30 : « Les moyens financiers ne vont jamais arriver », prévient le Malien Youba Sokona](https://www.jeuneafrique.com/1720828/economie-entreprises/cop30-les-moyens-financiers-ne-vont-jamais-arriver-previent-le-malien-youba-sokona/)
-- [Simandou : qui sont les VIP attendus à l’inauguration du projet de fer en Guinée ?](https://www.jeuneafrique.com/1736923/economie-entreprises/qui-sont-les-vip-attendus-a-linauguration-du-projet-de-fer-simandou/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
