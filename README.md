@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 06:17*
+*Generato: 10 Nov 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,14 +70,14 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد علي بن حمّود المهندس في البتروكيمياء](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%AD%D9%85%D9%91%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
 - [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
 - [موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عز الدين بن الشيخ وزير الفلاحة والموارد المائيّة والصّيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%AF)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-4)
 
 ## UE – EP – Press Room
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Fermeture de trois restaurants pour graves infractions sanitaires à Kairouan](https://www.lapresse.tn/2025/11/09/fermeture-de-trois-restaurants-pour-graves-infractions-sanitaires-a-kairouan/)
-- [Une femme décède dans l’incendie de sa maison à Gabès](https://www.lapresse.tn/2025/11/09/une-femme-decede-dans-lincendie-de-sa-maison-a-gabes/)
-- [Sidi Bouzid : le bois d’olivier, un trésor artisanal à...](https://www.lapresse.tn/2025/11/09/sidi-bouzid-le-bois-dolivier-un-tresor-artisanal-a-fort-potentiel-dexportation/)
-- [Présentation de « Harems et Sultans » de Jocelyne Dakhlia...](https://www.lapresse.tn/2025/11/09/presentation-de-harems-et-sultans-de-jocelyne-dakhlia-a-lirmc-les-stereotypes-a-lepreuve-de-lhistoire/)
+- [Syndicat des agriculteurs : le manque de lait derrière la...](https://www.lapresse.tn/2025/11/10/syndicat-des-agriculteurs-le-manque-de-lait-derriere-la-penurie-de-beurre/)
+- [La Tunisie accueillera le premier congrès international sur la conscience](https://www.lapresse.tn/2025/11/10/la-tunisie-accueillera-le-premier-congres-international-sur-la-conscience/)
+- [WhatsApp : lancement d’une nouvelle fonctionnalité pour contrôler les messages...](https://www.lapresse.tn/2025/11/10/whatsapp-lancement-dune-nouvelle-fonctionnalite-pour-controler-les-messages-dinconnus/)
+- [Gafsa : 100 opérations de la cataracte gratuites en trois...](https://www.lapresse.tn/2025/11/10/gafsa-100-operations-de-la-cataracte-gratuites-en-trois-jours/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
-- [Présidentielle en Guinée : neuf candidats retenus, dont Mamadi Doumbouya](https://www.jeuneafrique.com/1738802/politique/presidentielle-en-guinee-neuf-candidats-retenus-dont-mamadi-doumbouya/)
+- [« Le jour où ma rupture avec Macky Sall a été scellée », par Aminata Touré](https://www.jeuneafrique.com/1731092/politique/le-jour-ou-ma-rupture-avec-macky-sall-a-ete-scellee-par-aminata-toure/)
 - [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
 - [Ismaïl Omar Guelleh officiellement en course pour sa succession](https://www.jeuneafrique.com/1738783/politique/ismail-omar-guelleh-officiellement-en-course-pour-sa-succession/)
+- [Au Mali, l’effet domino du blocus du Jnim](https://www.jeuneafrique.com/1736120/politique/au-mali-leffet-domino-du-blocus-du-jnim/)
 - [Manifestations en Tanzanie : plus de 200 inculpations pour « trahison »](https://www.jeuneafrique.com/1738779/politique/manifestations-en-tanzanie-plus-de-200-inculpations-pour-trahison/)
 - [Pollution à Gabès : un ingénieur tunisien explique pourquoi la situation reste bloquée](https://www.jeuneafrique.com/1737513/politique/pollution-a-gabes-un-ingenieur-tunisien-explique-pourquoi-la-situation-reste-bloquee/)
-- [Le Sahara occidental, la pénurie de carburant au Mali, la menace jihadiste aux confins du Sénégal… Voici les 5 infos à retenir cette semaine](https://www.jeuneafrique.com/1738421/politique/le-sahara-occidental-la-penurie-de-carburant-au-mali-la-menace-jihadiste-aux-confins-du-senegal-voici-les-5-infos-a-retenir-cette-semaine/)
+- [COP30 : « Les moyens financiers ne vont jamais arriver », prévient le Malien Youba Sokona](https://www.jeuneafrique.com/1720828/economie-entreprises/cop30-les-moyens-financiers-ne-vont-jamais-arriver-previent-le-malien-youba-sokona/)
 - [Simandou : qui sont les VIP attendus à l’inauguration du projet de fer en Guinée ?](https://www.jeuneafrique.com/1736923/economie-entreprises/qui-sont-les-vip-attendus-a-linauguration-du-projet-de-fer-simandou/)
-- [Blocus au Mali : MSC emboîte le pas à CMA CGM et suspend ses livraisons](https://www.jeuneafrique.com/1738699/economie-entreprises/blocus-au-mali-msc-emboite-le-pas-a-cma-cgm-et-suspend-ses-livraisons/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
