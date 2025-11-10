@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 09:13*
+*Generato: 10 Nov 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Syndicat des agriculteurs : le manque de lait derrière la...](https://www.lapresse.tn/2025/11/10/syndicat-des-agriculteurs-le-manque-de-lait-derriere-la-penurie-de-beurre/)
-- [La Tunisie accueillera le premier congrès international sur la conscience](https://www.lapresse.tn/2025/11/10/la-tunisie-accueillera-le-premier-congres-international-sur-la-conscience/)
-- [WhatsApp : lancement d’une nouvelle fonctionnalité pour contrôler les messages...](https://www.lapresse.tn/2025/11/10/whatsapp-lancement-dune-nouvelle-fonctionnalite-pour-controler-les-messages-dinconnus/)
-- [Gafsa : 100 opérations de la cataracte gratuites en trois...](https://www.lapresse.tn/2025/11/10/gafsa-100-operations-de-la-cataracte-gratuites-en-trois-jours/)
+- [Jusqu’à 85 mm à Aïn Draham : des précipitations qui...](https://www.lapresse.tn/2025/11/10/jusqua-85-mm-a-ain-draham-des-precipitations-qui-renforcent-le-stock-deau-dans-plusieurs-barrages/)
+- [Ligue 1 – 14e Journée : Le Stade Tunisien concède...](https://www.lapresse.tn/2025/11/10/ligue-1-14e-journee-le-stade-tunisien-concede-sa-premiere-defaite/)
+- [Président de l’Union agricole de Nabeul : « L’entreprise de...](https://www.lapresse.tn/2025/11/10/president-de-lunion-agricole-de-nabeul-lentreprise-de-traitement-des-agrumes-est-incapable-daccomplir-sa-mission/)
+- [L’Étoile accrochée à Bizerte : Frustrant coup d’arrêt…](https://www.lapresse.tn/2025/11/10/letoile-accrochee-a-bizerte-frustrant-coup-darret/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,12 +266,12 @@
 
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
 - [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
+- [Présidentielle en Guinée : neuf candidats retenus, dont Mamadi Doumbouya](https://www.jeuneafrique.com/1738802/politique/presidentielle-en-guinee-neuf-candidats-retenus-dont-mamadi-doumbouya/)
+- [Soudan : les Émirats arabes unis soupçonnés d’être impliqués dans les atrocités commises envers les civils](https://www.jeuneafrique.com/1738342/politique/soudan-les-emirats-arabes-unis-soupconnes-detre-impliques-dans-les-atrocites-commises-envers-les-civils/)
 - [« Le jour où ma rupture avec Macky Sall a été scellée », par Aminata Touré](https://www.jeuneafrique.com/1731092/politique/le-jour-ou-ma-rupture-avec-macky-sall-a-ete-scellee-par-aminata-toure/)
 - [Au Bénin, Talon va-t-il porter l’estocade aux Démocrates ?](https://www.jeuneafrique.com/1737961/politique/au-benin-talon-va-t-il-porter-lestocade-aux-democrates/)
 - [Ismaïl Omar Guelleh officiellement en course pour sa succession](https://www.jeuneafrique.com/1738783/politique/ismail-omar-guelleh-officiellement-en-course-pour-sa-succession/)
 - [Au Mali, l’effet domino du blocus du Jnim](https://www.jeuneafrique.com/1736120/politique/au-mali-leffet-domino-du-blocus-du-jnim/)
-- [Manifestations en Tanzanie : plus de 200 inculpations pour « trahison »](https://www.jeuneafrique.com/1738779/politique/manifestations-en-tanzanie-plus-de-200-inculpations-pour-trahison/)
-- [Pollution à Gabès : un ingénieur tunisien explique pourquoi la situation reste bloquée](https://www.jeuneafrique.com/1737513/politique/pollution-a-gabes-un-ingenieur-tunisien-explique-pourquoi-la-situation-reste-bloquee/)
 - [COP30 : « Les moyens financiers ne vont jamais arriver », prévient le Malien Youba Sokona](https://www.jeuneafrique.com/1720828/economie-entreprises/cop30-les-moyens-financiers-ne-vont-jamais-arriver-previent-le-malien-youba-sokona/)
 - [Simandou : qui sont les VIP attendus à l’inauguration du projet de fer en Guinée ?](https://www.jeuneafrique.com/1736923/economie-entreprises/qui-sont-les-vip-attendus-a-linauguration-du-projet-de-fer-simandou/)
 
