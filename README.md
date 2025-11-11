@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Nov 2025, 21:03*
+*Generato: 11 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
 - [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
 - [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
@@ -91,12 +92,11 @@
 - [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31262/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
 - [Proxy voting in Parliament’s plenary during pregnancy and after childbirth](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31232/proxy-voting-in-parliament-s-plenary-during-pregnancy-and-after-childbirth)
-- [Gender equality week: closing the gender talent gap](https://www.europarl.europa.eu/news/en/press-room/20251023IPR31093/gender-equality-week-closing-the-gender-talent-gap)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
