@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 09:11*
+*Generato: 11 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs call for new rules on the use of algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31358/meps-call-for-new-rules-on-the-use-of-algorithmic-management-at-work)
 - [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
 - [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
@@ -91,12 +92,11 @@
 - [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
 - [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31262/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
-- [Proxy voting in Parliament’s plenary during pregnancy and after childbirth](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31232/proxy-voting-in-parliament-s-plenary-during-pregnancy-and-after-childbirth)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [MOBIDOC Green Post-Doc : renforcer la recherche environnementale et l’emploi...](https://www.lapresse.tn/2025/11/11/mobidoc-green-post-doc-renforcer-la-recherche-environnementale-et-lemploi-des-jeunes-chercheurs/)
-- [La BTK Bank adopte la norme ISO 20022 et accélère...](https://www.lapresse.tn/2025/11/11/la-btk-bank-adopte-la-norme-iso-20022-et-accelere-sa-transformation-digitale/)
-- [Le bateau de croisière “Artania” accoste à Sousse avec 1...](https://www.lapresse.tn/2025/11/11/le-bateau-de-croisiere-artania-accoste-a-sousse-avec-1-578-touristes-a-bord/)
-- [Bank ABC et Monétique Tunisie lancent la solution “PIN Sender”](https://www.lapresse.tn/2025/11/11/bank-abc-et-monetique-tunisie-lancent-la-solution-pin-sender/)
+- [Siliana : entre 2 000 et 3 000 coccinelles mexicaines...](https://www.lapresse.tn/2025/11/11/siliana-entre-2-000-et-3-000-coccinelles-mexicaines-deployees-pour-lutter-contre-la-cochenille/)
+- [Jendouba : Effondrement de plafond, deux élèves blessés, une enquête...](https://www.lapresse.tn/2025/11/11/jendouba-effondrement-de-plafond-deux-eleves-blesses-une-enquete-ouverte/)
+- [Douze ans après, Washington rouvre l’ambassade de Syrie](https://www.lapresse.tn/2025/11/11/douze-ans-apres-washington-rouvre-lambassade-de-syrie/)
+- [L’EST passe à côté au derby : Ce penalty qui...](https://www.lapresse.tn/2025/11/11/lest-passe-a-cote-au-derby-ce-penalty-qui-aurait-tout-change/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,19 +264,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
+- [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
 - [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
 - [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
 - [G20 en Afrique du Sud : le boycott de Washington](https://www.jeuneafrique.com/1738846/politique/g20-en-afrique-du-sud-le-boycott-de-washington/)
 - [En Tunisie, des députés enfin sortis de leur torpeur](https://www.jeuneafrique.com/1738815/politique/en-tunisie-des-deputes-enfin-sortis-de-leur-torpeur/)
+- [Le Mali bientôt sous contrôle jihadiste ? Analyse d’une rhétorique alarmiste](https://www.jeuneafrique.com/1738410/politique/le-mali-bientot-sous-controle-jihadiste-analyse-dune-rhetorique-alarmiste/)
 - [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
 - [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
-- [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
-- [Fer de Simandou : la concrétisation après trente ans de rêve pour Conakry](https://www.jeuneafrique.com/1738606/economie-entreprises/fer-de-simandou-la-concretisation-apres-trente-ans-de-reve-pour-conakry/)
 - [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
+- [Pourquoi Sucrivoire, le champion ivoirien du sucre, peine à rebondir](https://www.jeuneafrique.com/1738754/economie-entreprises/pourquoi-sucrivoire-le-champion-ivoirien-du-sucre-peine-a-rebondir/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
 - [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
 - [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
 - [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
@@ -286,4 +287,3 @@
 - [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
 - [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
-- [La guerra israelo-iraniana](https://www.limesonline.com/rubriche/mappe-parlanti/la-guerra-israelo-iraniana-19643721/)
