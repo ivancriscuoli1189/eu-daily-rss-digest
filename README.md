@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 18:14*
+*Generato: 11 Nov 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Inauguration du premier centre numérique interactif pour la valorisation du...](https://www.lapresse.tn/2025/11/11/inauguration-du-premier-centre-numerique-interactif-pour-la-valorisation-du-patrimoine-a-chenini/)
+- [Hannibal Mejbri accusé de mauvaise conduite par la Fédération anglaise...](https://www.lapresse.tn/2025/11/11/hannibal-mejbri-accuse-de-mauvaise-conduite-par-la-federation-anglaise-de-football/)
 - [Ahmed Jaouadi s’illustre aux championnats universitaires Américains : Cartes sur...](https://www.lapresse.tn/2025/11/11/ahmed-jaouadi-sillustre-aux-championnats-universitaires-americains-cartes-sur-table/)
 - [Mes odyssées en mediterranée – Le Phare de Mélita :...](https://www.lapresse.tn/2025/11/11/mes-odyssees-en-mediterranee-le-phare-de-melita-entre-etablissement-italiens-et-nostalgie-du-retour-maltais-deux-visages-de-la-presse-europeenne-en-tunisie/)
-- [« Out of place- El Kazma à Tunis » du...](https://www.lapresse.tn/2025/11/11/out-of-place-el-kazma-a-tunis-du-13-novembre-2025-au-8-janvier-2026-de-gabes-a-tunis/)
-- [Forum Théâtral International des Journées Théâtrales de Carthage :...](https://www.lapresse.tn/2025/11/11/forum-theatral-international-des-journees-theatrales-de-carthage-lartiste-de-theatre-son-temps-et-son-oeuvre/)
 
 ## NGOs – Amnesty International – Tunisia
 
