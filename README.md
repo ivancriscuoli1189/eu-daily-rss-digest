@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 06:16*
+*Generato: 11 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Michket Slama Khaldi reçoit l’Ambassadrice allemande Elisabeth Wolbers : pour...](https://www.lapresse.tn/2025/11/10/michket-slama-khaldi-recoit-lambassadrice-allemande-elisabeth-wolbers-pour-un-partenariat-economique-consolide/)
-- [Photo du jour : Quand les cafés s’invitent sur les...](https://www.lapresse.tn/2025/11/10/photo-du-jour-quand-les-cafes-sinvitent-sur-les-parcmetres-avec-leur-menu/)
-- [Tunisie : nouvelles obligations pour les exportateurs vers l’Europe dès...](https://www.lapresse.tn/2025/11/10/tunisie-nouvelles-obligations-pour-les-exportateurs-vers-leurope-des-2026/)
-- [Solecrypt : un projet tuniso-britannique qui allie blockchain et développement...](https://www.lapresse.tn/2025/11/10/solecrypt-un-projet-tuniso-britannique-qui-allie-blockchain-et-developpement-durable/)
+- [MOBIDOC Green Post-Doc : renforcer la recherche environnementale et l’emploi...](https://www.lapresse.tn/2025/11/11/mobidoc-green-post-doc-renforcer-la-recherche-environnementale-et-lemploi-des-jeunes-chercheurs/)
+- [La BTK Bank adopte la norme ISO 20022 et accélère...](https://www.lapresse.tn/2025/11/11/la-btk-bank-adopte-la-norme-iso-20022-et-accelere-sa-transformation-digitale/)
+- [Le bateau de croisière “Artania” accoste à Sousse avec 1...](https://www.lapresse.tn/2025/11/11/le-bateau-de-croisiere-artania-accoste-a-sousse-avec-1-578-touristes-a-bord/)
+- [Bank ABC et Monétique Tunisie lancent la solution “PIN Sender”](https://www.lapresse.tn/2025/11/11/bank-abc-et-monetique-tunisie-lancent-la-solution-pin-sender/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
 - [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
 - [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
 - [G20 en Afrique du Sud : le boycott de Washington](https://www.jeuneafrique.com/1738846/politique/g20-en-afrique-du-sud-le-boycott-de-washington/)
@@ -271,9 +272,8 @@
 - [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
 - [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [« L’Égypte entend assumer son rôle et ses responsabilités dans la Corne de l’Afrique »](https://www.jeuneafrique.com/1738015/politique/legypte-entend-assumer-son-role-et-ses-responsabilites-dans-la-corne-de-lafrique/)
-- [Sénégal : Ousmane Sonko demande des « sacrifices » à la population](https://www.jeuneafrique.com/1738806/politique/senegal-ousmane-sonko-demande-des-sacrifices-a-la-population/)
+- [Fer de Simandou : la concrétisation après trente ans de rêve pour Conakry](https://www.jeuneafrique.com/1738606/economie-entreprises/fer-de-simandou-la-concretisation-apres-trente-ans-de-reve-pour-conakry/)
 - [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
-- [[Talk] 300 Champions de la finance : une africanisation gagnante ?](https://www.jeuneafrique.com/1737239/economie-entreprises/talk-300-champions-de-la-finance-une-africanisation-gagnante/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
