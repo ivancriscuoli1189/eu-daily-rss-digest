@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 15:12*
+*Generato: 11 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31302/press-briefing-on-this-week-s-plenary-session)
 - [MEPs call for new rules on the use of algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31358/meps-call-for-new-rules-on-the-use-of-algorithmic-management-at-work)
@@ -91,7 +92,6 @@
 - [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
 - [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
 - [MEPs and Council agree on measures to boost EU support for defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-defence-investments)
-- [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Afriways : la nouvelle voie des entrepreneur(e)s vers une Afrique...](https://www.lapresse.tn/2025/11/11/afriways-la-nouvelle-voie-des-entrepreneures-vers-une-afrique-dopportunites/)
-- [NON-ALLAITEMENT : Un silence couteux que la Tunisie ne peut...](https://www.lapresse.tn/2025/11/11/non-allaitement-un-silence-couteux-que-la-tunisie-ne-peut-plus-se-permettre/)
-- [Nabeul : 820 000 touristes et plus de...](https://www.lapresse.tn/2025/11/11/nabeul-820-000-touristes-et-plus-de-4-millions-de-nuitees/)
-- [La Tunisie et le Japon forment les futurs formateurs africains...](https://www.lapresse.tn/2025/11/11/la-tunisie-et-le-japon-forment-les-futurs-formateurs-africains-en-equipements-medicaux/)
+- [Ahmed Jaouadi s’illustre aux championnats universitaires Américains : Cartes sur...](https://www.lapresse.tn/2025/11/11/ahmed-jaouadi-sillustre-aux-championnats-universitaires-americains-cartes-sur-table/)
+- [Mes odyssées en mediterranée – Le Phare de Mélita :...](https://www.lapresse.tn/2025/11/11/mes-odyssees-en-mediterranee-le-phare-de-melita-entre-etablissement-italiens-et-nostalgie-du-retour-maltais-deux-visages-de-la-presse-europeenne-en-tunisie/)
+- [« Out of place- El Kazma à Tunis » du...](https://www.lapresse.tn/2025/11/11/out-of-place-el-kazma-a-tunis-du-13-novembre-2025-au-8-janvier-2026-de-gabes-a-tunis/)
+- [Forum Théâtral International des Journées Théâtrales de Carthage :...](https://www.lapresse.tn/2025/11/11/forum-theatral-international-des-journees-theatrales-de-carthage-lartiste-de-theatre-son-temps-et-son-oeuvre/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Le Mali bientôt sous contrôle jihadiste ? Analyse d’une rhétorique alarmiste](https://www.jeuneafrique.com/1738410/politique/le-mali-bientot-sous-controle-jihadiste-analyse-dune-rhetorique-alarmiste/)
 - [Noureddin Bongo, la « Young Team » et les lunettes-espionnes : à Libreville, le procès d’une fin de règne](https://www.jeuneafrique.com/1738685/politique/noureddin-bongo-la-young-team-et-les-lunettes-espionnes-a-libreville-le-proces-dune-fin-de-regne/)
 - [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
+- [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 - [Le retour sur le marché international du Congo est-il une si bonne opération ?](https://www.jeuneafrique.com/1739036/economie-entreprises/le-retour-sur-le-marche-international-du-congo-est-il-une-si-bonne-operation/)
-- [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
