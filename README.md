@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 13:25*
+*Generato: 11 Nov 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31302/press-briefing-on-this-week-s-plenary-session)
 - [MEPs call for new rules on the use of algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31358/meps-call-for-new-rules-on-the-use-of-algorithmic-management-at-work)
 - [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
@@ -90,8 +92,6 @@
 - [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
 - [MEPs and Council agree on measures to boost EU support for defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-defence-investments)
 - [Gender Equality Week: the way forward for women’s political participation](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31240/gender-equality-week-the-way-forward-for-women-s-political-participation)
-- [Hungary’s rule of law crisis is deepening, Civil Liberties Committee MEPs warn](https://www.europarl.europa.eu/news/en/press-room/20251103IPR31237/hungary-s-rule-of-law-crisis-is-deepening-civil-liberties-committee-meps-warn)
-- [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31262/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Afriways : la nouvelle voie des entrepreneur(e)s vers une Afrique...](https://www.lapresse.tn/2025/11/11/afriways-la-nouvelle-voie-des-entrepreneures-vers-une-afrique-dopportunites/)
+- [NON-ALLAITEMENT : Un silence couteux que la Tunisie ne peut...](https://www.lapresse.tn/2025/11/11/non-allaitement-un-silence-couteux-que-la-tunisie-ne-peut-plus-se-permettre/)
+- [Nabeul : 820 000 touristes et plus de...](https://www.lapresse.tn/2025/11/11/nabeul-820-000-touristes-et-plus-de-4-millions-de-nuitees/)
 - [La Tunisie et le Japon forment les futurs formateurs africains...](https://www.lapresse.tn/2025/11/11/la-tunisie-et-le-japon-forment-les-futurs-formateurs-africains-en-equipements-medicaux/)
-- [Jeunes triathlètes tunisiens : 4 médailles d’or et un leadership...](https://www.lapresse.tn/2025/11/11/jeunes-triathletes-tunisiens-4-medailles-dor-et-un-leadership-continental/)
-- [Match amical Tunis-Mauritanie : entrée gratuite pour les mauritaniens](https://www.lapresse.tn/2025/11/11/match-amical-tunis-mauritanie-entree-gratuite-pour-les-mauritaniens/)
-- [Tunisie : l’évasion fiscale dans le secteur des boissons alcoolisées...](https://www.lapresse.tn/2025/11/11/tunisie-levasion-fiscale-dans-le-secteur-des-boissons-alcoolisees-atteint-18-milliard-de-dinars/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Le Mali bientôt sous contrôle jihadiste ? Analyse d’une rhétorique alarmiste](https://www.jeuneafrique.com/1738410/politique/le-mali-bientot-sous-controle-jihadiste-analyse-dune-rhetorique-alarmiste/)
 - [Noureddin Bongo, la « Young Team » et les lunettes-espionnes : à Libreville, le procès d’une fin de règne](https://www.jeuneafrique.com/1738685/politique/noureddin-bongo-la-young-team-et-les-lunettes-espionnes-a-libreville-le-proces-dune-fin-de-regne/)
 - [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
+- [Le retour sur le marché international du Congo est-il une si bonne opération ?](https://www.jeuneafrique.com/1739036/economie-entreprises/le-retour-sur-le-marche-international-du-congo-est-il-une-si-bonne-operation/)
 - [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
-- [Pourquoi Sucrivoire, le champion ivoirien du sucre, peine à rebondir](https://www.jeuneafrique.com/1738754/economie-entreprises/pourquoi-sucrivoire-le-champion-ivoirien-du-sucre-peine-a-rebondir/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
