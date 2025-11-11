@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 12:18*
+*Generato: 11 Nov 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [La Tunisie et le Japon forment les futurs formateurs africains...](https://www.lapresse.tn/2025/11/11/la-tunisie-et-le-japon-forment-les-futurs-formateurs-africains-en-equipements-medicaux/)
+- [Jeunes triathlètes tunisiens : 4 médailles d’or et un leadership...](https://www.lapresse.tn/2025/11/11/jeunes-triathletes-tunisiens-4-medailles-dor-et-un-leadership-continental/)
+- [Match amical Tunis-Mauritanie : entrée gratuite pour les mauritaniens](https://www.lapresse.tn/2025/11/11/match-amical-tunis-mauritanie-entree-gratuite-pour-les-mauritaniens/)
 - [Tunisie : l’évasion fiscale dans le secteur des boissons alcoolisées...](https://www.lapresse.tn/2025/11/11/tunisie-levasion-fiscale-dans-le-secteur-des-boissons-alcoolisees-atteint-18-milliard-de-dinars/)
-- [Ronaldo : « le Mondial 2026 sera certainement mon dernier »](https://www.lapresse.tn/2025/11/11/ronaldo-le-mondial-2026-sera-certainement-mon-dernier/)
-- [Dessalement de l’eau à Sidi Bouzid : un taux...](https://www.lapresse.tn/2025/11/11/dessalement-de-leau-a-sidi-bouzid-un-taux-davancement-de-70-a-menzel-bouzaiene-meknassy-et-mezouna/)
-- [La CONECT crée un groupement pour soutenir la filière café...](https://www.lapresse.tn/2025/11/11/la-conect-cree-un-groupement-pour-soutenir-la-filiere-cafe-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,7 +239,7 @@
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [QUO VADIS, ARGENTINA? Prospettive politiche ed economiche dopo le elezioni di metà mandato](https://www.cespi.it/it/eventi-note/eventi/quo-vadis-argentina-prospettive-politiche-ed-economiche-dopo-le-elezioni-di-meta)
+- [Sud globale. Un’invenzione del Nord?](https://www.cespi.it/it/eventi-note/eventi/sud-globale-uninvenzione-del-nord)
 - [Graduatoria finale della procedura comparativa per titoli di figure professionali cui affidare incarichi nell’ambito del progetto SU.PR.EME. 2](https://www.cespi.it/it/eventi-note/comunicazioni/graduatoria-finale-della-procedura-comparativa-titoli-di-figure-3)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
