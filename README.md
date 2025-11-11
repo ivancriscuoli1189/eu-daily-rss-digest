@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Nov 2025, 11:09*
+*Generato: 11 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Siliana : entre 2 000 et 3 000 coccinelles mexicaines...](https://www.lapresse.tn/2025/11/11/siliana-entre-2-000-et-3-000-coccinelles-mexicaines-deployees-pour-lutter-contre-la-cochenille/)
-- [Jendouba : Effondrement de plafond, deux élèves blessés, une enquête...](https://www.lapresse.tn/2025/11/11/jendouba-effondrement-de-plafond-deux-eleves-blesses-une-enquete-ouverte/)
-- [Douze ans après, Washington rouvre l’ambassade de Syrie](https://www.lapresse.tn/2025/11/11/douze-ans-apres-washington-rouvre-lambassade-de-syrie/)
-- [L’EST passe à côté au derby : Ce penalty qui...](https://www.lapresse.tn/2025/11/11/lest-passe-a-cote-au-derby-ce-penalty-qui-aurait-tout-change/)
+- [Tunisie : l’évasion fiscale dans le secteur des boissons alcoolisées...](https://www.lapresse.tn/2025/11/11/tunisie-levasion-fiscale-dans-le-secteur-des-boissons-alcoolisees-atteint-18-milliard-de-dinars/)
+- [Ronaldo : « le Mondial 2026 sera certainement mon dernier »](https://www.lapresse.tn/2025/11/11/ronaldo-le-mondial-2026-sera-certainement-mon-dernier/)
+- [Dessalement de l’eau à Sidi Bouzid : un taux...](https://www.lapresse.tn/2025/11/11/dessalement-de-leau-a-sidi-bouzid-un-taux-davancement-de-70-a-menzel-bouzaiene-meknassy-et-mezouna/)
+- [La CONECT crée un groupement pour soutenir la filière café...](https://www.lapresse.tn/2025/11/11/la-conect-cree-un-groupement-pour-soutenir-la-filiere-cafe-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -270,8 +270,8 @@
 - [G20 en Afrique du Sud : le boycott de Washington](https://www.jeuneafrique.com/1738846/politique/g20-en-afrique-du-sud-le-boycott-de-washington/)
 - [En Tunisie, des députés enfin sortis de leur torpeur](https://www.jeuneafrique.com/1738815/politique/en-tunisie-des-deputes-enfin-sortis-de-leur-torpeur/)
 - [Le Mali bientôt sous contrôle jihadiste ? Analyse d’une rhétorique alarmiste](https://www.jeuneafrique.com/1738410/politique/le-mali-bientot-sous-controle-jihadiste-analyse-dune-rhetorique-alarmiste/)
+- [Noureddin Bongo, la « Young Team » et les lunettes-espionnes : à Libreville, le procès d’une fin de règne](https://www.jeuneafrique.com/1738685/politique/noureddin-bongo-la-young-team-et-les-lunettes-espionnes-a-libreville-le-proces-dune-fin-de-regne/)
 - [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
-- [« Préoccupée » par la situation au Mali, l’UA appelle à « une action internationale urgente »](https://www.jeuneafrique.com/1738819/politique/preoccupee-par-la-situation-au-mali-lua-appelle-a-une-action-internationale-urgente/)
 - [Makhtar Diop (IFC) : « Le modèle de délocalisation des pays avancés vers les pays émergents n’a pas fonctionné »](https://www.jeuneafrique.com/1739041/economie-entreprises/makhtar-diop-ifc-le-modele-de-delocalisation-des-pays-avances-vers-les-pays-emergents-na-pas-fonctionne/)
 - [Pourquoi Sucrivoire, le champion ivoirien du sucre, peine à rebondir](https://www.jeuneafrique.com/1738754/economie-entreprises/pourquoi-sucrivoire-le-champion-ivoirien-du-sucre-peine-a-rebondir/)
 
