@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 15:11*
+*Generato: 12 Nov 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP President Roberta Metsola commemorates victims of 2015 Paris attacks](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31290/ep-president-roberta-metsola-commemorates-victims-of-2015-paris-attacks)
 - [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31300/ep-today)
 - [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
@@ -91,7 +92,6 @@
 - [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
 - [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
-- [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Explications en vidéo sur l’utilisation de la VAR par les...](https://www.lapresse.tn/2025/11/12/explications-en-video-sur-lutilisation-de-la-var-par-les-arbitres/)
-- [La Douane s’adresse aux Tunisiens de l’étranger…](https://www.lapresse.tn/2025/11/12/la-douane-sadresse-aux-tunisiens-de-letranger/)
-- [Naufrage au large de la Libye : 42 migrants portés...](https://www.lapresse.tn/2025/11/12/naufrage-au-large-de-la-libye-42-migrants-portes-disparus/)
-- [Deux villes tunisiennes en alerte écologique maximale](https://www.lapresse.tn/2025/11/12/deux-villes-tunisiennes-en-alerte-ecologique-maximale/)
+- [Le Bardo accueille « Les femmes et l’art au Maghreb...](https://www.lapresse.tn/2025/11/12/le-bardo-accueille-les-femmes-et-lart-au-maghreb-entre-reconnaissance-creation-et-resilience/)
+- [11e édition du festival Fée Mains à l’Espace Sadika Keskes...](https://www.lapresse.tn/2025/11/12/11e-edition-du-festival-fee-mains-a-lespace-sadika-keskes-a-gammarth-le-savoir-faire-tunisien-en-fete/)
+- [Gafsa : Initiative humanitaire en faveur de patients atteints de...](https://www.lapresse.tn/2025/11/12/gafsa-initiative-humanitaire-en-faveur-de-patients-atteints-de-cataracte/)
+- [Pourquoi : Les maisons de retraite](https://www.lapresse.tn/2025/11/12/pourquoi-les-maisons-de-retraite/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
+- [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
 - [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
 - [Disparition de Sion Assidon, figure historique du soutien à la Palestine au Maroc](https://www.jeuneafrique.com/1739096/politique/disparition-de-sion-assidon-figure-historique-du-soutien-a-la-palestine-au-maroc/)
 - [Sahara occidental : 5 questions pour comprendre pourquoi la résolution 2 797 de l’ONU va tout changer](https://www.jeuneafrique.com/1738460/politique/sahara-occidental-5-questions-pour-comprendre-pourquoi-la-resolution-2797-va-tout-changer/)
-- [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
-- [Paul Biya et ses « sécurocrates » : face à Issa Tchiroma Bakary, les anges gardiens proclamés du pouvoir camerounais](https://www.jeuneafrique.com/1738664/politique/paul-biya-et-ses-securocrates-face-a-issa-tchiroma-bakary-les-anges-gardiens-proclames-du-pouvoir-camerounais/)
+- [Grand Inga : la RDC peut-elle enfin transformer son potentiel énergétique ?](https://www.jeuneafrique.com/1738528/economie-entreprises/grand-inga-la-rdc-peut-elle-enfin-transformer-son-potentiel-energetique/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
-- [La recette gagnante d’Ethiopian Airlines, une exception dans le ciel africain](https://www.jeuneafrique.com/1737848/economie-entreprises/la-recette-gagnante-dethiopian-airlines-une-exception-dans-le-ciel-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
