@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 09:12*
+*Generato: 12 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31300/ep-today)
 - [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31302/press-briefing-on-this-week-s-plenary-session)
@@ -52,7 +53,6 @@
 - [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
 - [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
 - [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
-- [MEPs and Council agree on measures to boost EU support for defence investments](https://www.europarl.europa.eu/news/en/press-room/20251104IPR31250/meps-and-council-agree-on-measures-to-boost-defence-investments)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -140,10 +140,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [La Jordanie ouvre son marché à l’huile d’olive tunisienne pour...](https://www.lapresse.tn/2025/11/12/la-jordanie-ouvre-son-marche-a-lhuile-dolive-tunisienne-pour-la-campagne-2025-2026/)
-- [Inauguration du premier centre numérique interactif pour la valorisation du...](https://www.lapresse.tn/2025/11/11/inauguration-du-premier-centre-numerique-interactif-pour-la-valorisation-du-patrimoine-a-chenini/)
-- [Hannibal Mejbri accusé de mauvaise conduite par la Fédération anglaise...](https://www.lapresse.tn/2025/11/11/hannibal-mejbri-accuse-de-mauvaise-conduite-par-la-federation-anglaise-de-football/)
-- [Ahmed Jaouadi s’illustre aux championnats universitaires Américains : Cartes sur...](https://www.lapresse.tn/2025/11/11/ahmed-jaouadi-sillustre-aux-championnats-universitaires-americains-cartes-sur-table/)
+- [Comment la Tunisie tire-t-elle profit de sa coopération avec la...](https://www.lapresse.tn/2025/11/12/comment-la-tunisie-tire-t-elle-profit-de-sa-cooperation-avec-la-chine/)
+- [La Tunisie participe au Championnat du monde de karaté en...](https://www.lapresse.tn/2025/11/12/la-tunisie-participe-au-championnat-du-monde-de-karate-en-egypte-avec-5-athletes/)
+- [Vastes attaques de colons et de soldats israéliens en Cisjordanie](https://www.lapresse.tn/2025/11/12/vastes-attaques-de-colons-et-de-soldats-israeliens-en-cisjordanie/)
+- [À partir d’aujourd’hui : travaux du RFR perturbent le trafic...](https://www.lapresse.tn/2025/11/12/a-partir-daujourdhui-travaux-du-rfr-perturbent-le-trafic-sur-taieb-mhiri/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,14 +225,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
+- [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
 - [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
 - [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
 - [Au Sénégal, Ousmane Sonko cible l’opposition, la justice et les « traîtres » lors de son térameeting](https://www.jeuneafrique.com/1739031/politique/au-senegal-ousmane-sonko-cible-lopposition-la-justice-et-les-traitres-lors-de-son-terameeting/)
 - [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
 - [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
-- [Au Cameroun, le face-à-face entre Issa Tchiroma Bakary et Paul Biya tourne à la guerre d’usure](https://www.jeuneafrique.com/1738859/politique/au-cameroun-le-face-a-face-entre-issa-tchiroma-bakary-et-paul-biya-tourne-a-la-guerre-dusure/)
-- [G20 en Afrique du Sud : le boycott de Washington](https://www.jeuneafrique.com/1738846/politique/g20-en-afrique-du-sud-le-boycott-de-washington/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 - [Fer de Simandou : la concrétisation après trente ans de rêve pour Conakry](https://www.jeuneafrique.com/1738606/economie-entreprises/fer-de-simandou-la-concretisation-apres-trente-ans-de-reve-pour-conakry/)
 
