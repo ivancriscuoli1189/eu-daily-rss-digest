@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 06:15*
+*Generato: 12 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,45 +40,6 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
-- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
-- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
-- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
-- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
-- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
-- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
-
-## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
-
-- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد علي بن حمّود المهندس في البتروكيمياء](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%AD%D9%85%D9%91%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
-- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
-- [موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-4)
 
 ## UE – EP – Press Room
 
@@ -179,10 +140,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [La Jordanie ouvre son marché à l’huile d’olive tunisienne pour...](https://www.lapresse.tn/2025/11/12/la-jordanie-ouvre-son-marche-a-lhuile-dolive-tunisienne-pour-la-campagne-2025-2026/)
 - [Inauguration du premier centre numérique interactif pour la valorisation du...](https://www.lapresse.tn/2025/11/11/inauguration-du-premier-centre-numerique-interactif-pour-la-valorisation-du-patrimoine-a-chenini/)
 - [Hannibal Mejbri accusé de mauvaise conduite par la Fédération anglaise...](https://www.lapresse.tn/2025/11/11/hannibal-mejbri-accuse-de-mauvaise-conduite-par-la-federation-anglaise-de-football/)
 - [Ahmed Jaouadi s’illustre aux championnats universitaires Américains : Cartes sur...](https://www.lapresse.tn/2025/11/11/ahmed-jaouadi-sillustre-aux-championnats-universitaires-americains-cartes-sur-table/)
-- [Mes odyssées en mediterranée – Le Phare de Mélita :...](https://www.lapresse.tn/2025/11/11/mes-odyssees-en-mediterranee-le-phare-de-melita-entre-etablissement-italiens-et-nostalgie-du-retour-maltais-deux-visages-de-la-presse-europeenne-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
 - [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
+- [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
+- [Au Sénégal, Ousmane Sonko cible l’opposition, la justice et les « traîtres » lors de son térameeting](https://www.jeuneafrique.com/1739031/politique/au-senegal-ousmane-sonko-cible-lopposition-la-justice-et-les-traitres-lors-de-son-terameeting/)
 - [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
 - [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
+- [Au Cameroun, le face-à-face entre Issa Tchiroma Bakary et Paul Biya tourne à la guerre d’usure](https://www.jeuneafrique.com/1738859/politique/au-cameroun-le-face-a-face-entre-issa-tchiroma-bakary-et-paul-biya-tourne-a-la-guerre-dusure/)
 - [G20 en Afrique du Sud : le boycott de Washington](https://www.jeuneafrique.com/1738846/politique/g20-en-afrique-du-sud-le-boycott-de-washington/)
-- [En Tunisie, des députés enfin sortis de leur torpeur](https://www.jeuneafrique.com/1738815/politique/en-tunisie-des-deputes-enfin-sortis-de-leur-torpeur/)
-- [Le Mali bientôt sous contrôle jihadiste ? Analyse d’une rhétorique alarmiste](https://www.jeuneafrique.com/1738410/politique/le-mali-bientot-sous-controle-jihadiste-analyse-dune-rhetorique-alarmiste/)
-- [Noureddin Bongo, la « Young Team » et les lunettes-espionnes : à Libreville, le procès d’une fin de règne](https://www.jeuneafrique.com/1738685/politique/noureddin-bongo-la-young-team-et-les-lunettes-espionnes-a-libreville-le-proces-dune-fin-de-regne/)
-- [Le Pen, Tebboune : les meilleurs ennemis – par François Soudan](https://www.jeuneafrique.com/1737640/politique/le-pen-tebboune-les-meilleurs-ennemis-par-francois-soudan/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
-- [Le retour sur le marché international du Congo est-il une si bonne opération ?](https://www.jeuneafrique.com/1739036/economie-entreprises/le-retour-sur-le-marche-international-du-congo-est-il-une-si-bonne-operation/)
+- [Fer de Simandou : la concrétisation après trente ans de rêve pour Conakry](https://www.jeuneafrique.com/1738606/economie-entreprises/fer-de-simandou-la-concretisation-apres-trente-ans-de-reve-pour-conakry/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
