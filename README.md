@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 18:15*
+*Generato: 12 Nov 2025, 21:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Le Bardo accueille « Les femmes et l’art au Maghreb...](https://www.lapresse.tn/2025/11/12/le-bardo-accueille-les-femmes-et-lart-au-maghreb-entre-reconnaissance-creation-et-resilience/)
-- [11e édition du festival Fée Mains à l’Espace Sadika Keskes...](https://www.lapresse.tn/2025/11/12/11e-edition-du-festival-fee-mains-a-lespace-sadika-keskes-a-gammarth-le-savoir-faire-tunisien-en-fete/)
-- [Gafsa : Initiative humanitaire en faveur de patients atteints de...](https://www.lapresse.tn/2025/11/12/gafsa-initiative-humanitaire-en-faveur-de-patients-atteints-de-cataracte/)
-- [Pourquoi : Les maisons de retraite](https://www.lapresse.tn/2025/11/12/pourquoi-les-maisons-de-retraite/)
+- [Isra Ben Taïeb offre une médaille d’or à la Tunisie...](https://www.lapresse.tn/2025/11/12/isra-ben-taieb-offre-une-medaille-dor-a-la-tunisie-aux-jeux-de-la-solidarite-islamique/)
+- [Foot-Amical: La Tunise tenue en échec par la Mauritanie (1-1)](https://www.lapresse.tn/2025/11/12/foot-amical-la-tunise-tenue-en-echec-par-la-mauritanie-1-1/)
+- [L’équipe nationale affronte le Brésil le 18 Novembre : C’est...](https://www.lapresse.tn/2025/11/12/lequipe-nationale-affronte-le-bresil-le-18-novembre-cest-du-serieux/)
+- [Regard sur la ligue 2 : Le CSHL, vert de...](https://www.lapresse.tn/2025/11/12/regard-sur-la-ligue-2-le-cshl-vert-de-rage/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,12 +266,12 @@
 
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
+- [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
 - [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
 - [Disparition de Sion Assidon, figure historique du soutien à la Palestine au Maroc](https://www.jeuneafrique.com/1739096/politique/disparition-de-sion-assidon-figure-historique-du-soutien-a-la-palestine-au-maroc/)
-- [Sahara occidental : 5 questions pour comprendre pourquoi la résolution 2 797 de l’ONU va tout changer](https://www.jeuneafrique.com/1738460/politique/sahara-occidental-5-questions-pour-comprendre-pourquoi-la-resolution-2797-va-tout-changer/)
 - [Grand Inga : la RDC peut-elle enfin transformer son potentiel énergétique ?](https://www.jeuneafrique.com/1738528/economie-entreprises/grand-inga-la-rdc-peut-elle-enfin-transformer-son-potentiel-energetique/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 
