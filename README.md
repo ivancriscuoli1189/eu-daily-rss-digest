@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 11:09*
+*Generato: 12 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -140,10 +140,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Laporta : le retour de Messi au FC Barcelone est...](https://www.lapresse.tn/2025/11/12/laporta-le-retour-de-messi-au-fc-barcelone-est-ecarte/)
+- [Tunisie-Mauritanie : où regarder le match en direct ?](https://www.lapresse.tn/2025/11/12/tunisie-mauritanie-ou-regarder-le-match-en-direct/)
 - [Comment la Tunisie tire-t-elle profit de sa coopération avec la...](https://www.lapresse.tn/2025/11/12/comment-la-tunisie-tire-t-elle-profit-de-sa-cooperation-avec-la-chine/)
 - [La Tunisie participe au Championnat du monde de karaté en...](https://www.lapresse.tn/2025/11/12/la-tunisie-participe-au-championnat-du-monde-de-karate-en-egypte-avec-5-athletes/)
-- [Vastes attaques de colons et de soldats israéliens en Cisjordanie](https://www.lapresse.tn/2025/11/12/vastes-attaques-de-colons-et-de-soldats-israeliens-en-cisjordanie/)
-- [À partir d’aujourd’hui : travaux du RFR perturbent le trafic...](https://www.lapresse.tn/2025/11/12/a-partir-daujourdhui-travaux-du-rfr-perturbent-le-trafic-sur-taieb-mhiri/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -229,12 +229,12 @@
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
 - [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
+- [Paul Biya et ses « sécurocrates » : face à Issa Tchiroma Bakary, les anges gardiens proclamés du pouvoir camerounais](https://www.jeuneafrique.com/1738664/politique/paul-biya-et-ses-securocrates-face-a-issa-tchiroma-bakary-les-anges-gardiens-proclames-du-pouvoir-camerounais/)
 - [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
 - [Au Sénégal, Ousmane Sonko cible l’opposition, la justice et les « traîtres » lors de son térameeting](https://www.jeuneafrique.com/1739031/politique/au-senegal-ousmane-sonko-cible-lopposition-la-justice-et-les-traitres-lors-de-son-terameeting/)
 - [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
-- [Niger-France : la fabrique à complots du général Tiani tourne à plein régime](https://www.jeuneafrique.com/1738942/politique/niger-france-la-fabrique-a-complots-du-general-tiani-tourne-a-plein-regime/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
-- [Fer de Simandou : la concrétisation après trente ans de rêve pour Conakry](https://www.jeuneafrique.com/1738606/economie-entreprises/fer-de-simandou-la-concretisation-apres-trente-ans-de-reve-pour-conakry/)
+- [La recette gagnante d’Ethiopian Airlines, une exception dans le ciel africain](https://www.jeuneafrique.com/1737848/economie-entreprises/la-recette-gagnante-dethiopian-airlines-une-exception-dans-le-ciel-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
