@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 12:19*
+*Generato: 12 Nov 2025, 13:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,6 +40,45 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
+- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
+- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
+- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
+
+## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
+
+- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد علي بن حمّود المهندس في البتروكيمياء](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%AD%D9%85%D9%91%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
+- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
+- [موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-4)
 
 ## UE – EP – Press Room
 
@@ -140,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Laporta : le retour de Messi au FC Barcelone est...](https://www.lapresse.tn/2025/11/12/laporta-le-retour-de-messi-au-fc-barcelone-est-ecarte/)
-- [Tunisie-Mauritanie : où regarder le match en direct ?](https://www.lapresse.tn/2025/11/12/tunisie-mauritanie-ou-regarder-le-match-en-direct/)
-- [Comment la Tunisie tire-t-elle profit de sa coopération avec la...](https://www.lapresse.tn/2025/11/12/comment-la-tunisie-tire-t-elle-profit-de-sa-cooperation-avec-la-chine/)
-- [La Tunisie participe au Championnat du monde de karaté en...](https://www.lapresse.tn/2025/11/12/la-tunisie-participe-au-championnat-du-monde-de-karate-en-egypte-avec-5-athletes/)
+- [Naufrage au large de la Libye : 42 migrants portés...](https://www.lapresse.tn/2025/11/12/naufrage-au-large-de-la-libye-42-migrants-portes-disparus/)
+- [Deux villes tunisiennes en alerte écologique maximale](https://www.lapresse.tn/2025/11/12/deux-villes-tunisiennes-en-alerte-ecologique-maximale/)
+- [Vignette : paiement en ligne à partir de janvier 2026](https://www.lapresse.tn/2025/11/12/vignette-paiement-en-ligne-a-partir-de-janvier-2026/)
+- [Match amical – Tunisie-Mauritanie (Ce soir à 17h45) : Monter...](https://www.lapresse.tn/2025/11/12/match-amical-tunisie-mauritanie-ce-soir-a-17h45-monter-en-puissance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -173,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
-- [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
@@ -225,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
@@ -232,7 +272,6 @@
 - [Paul Biya et ses « sécurocrates » : face à Issa Tchiroma Bakary, les anges gardiens proclamés du pouvoir camerounais](https://www.jeuneafrique.com/1738664/politique/paul-biya-et-ses-securocrates-face-a-issa-tchiroma-bakary-les-anges-gardiens-proclames-du-pouvoir-camerounais/)
 - [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
 - [Au Sénégal, Ousmane Sonko cible l’opposition, la justice et les « traîtres » lors de son térameeting](https://www.jeuneafrique.com/1739031/politique/au-senegal-ousmane-sonko-cible-lopposition-la-justice-et-les-traitres-lors-de-son-terameeting/)
-- [Au Nigeria, des combats meurtriers entre Boko Haram et l’État islamique](https://www.jeuneafrique.com/1739080/politique/au-nigeria-des-combats-meurtriers-entre-boko-haram-et-letat-islamique/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 - [La recette gagnante d’Ethiopian Airlines, une exception dans le ciel africain](https://www.jeuneafrique.com/1737848/economie-entreprises/la-recette-gagnante-dethiopian-airlines-une-exception-dans-le-ciel-africain/)
 
