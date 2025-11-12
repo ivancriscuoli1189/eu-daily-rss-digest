@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 13:27*
+*Generato: 12 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
 - [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
-- [Indice des prix à la consommation, Juillet 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-juillet-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31300/ep-today)
 - [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
@@ -91,7 +92,6 @@
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
 - [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
 - [Parliament inaugurates permanent presence in Moldova](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31315/parliament-inaugurates-permanent-presence-in-moldova)
-- [Transport emissions: deal on a single calculation method](https://www.europarl.europa.eu/news/en/press-room/20251030IPR31198/transport-emissions-deal-on-a-single-calculation-method)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Explications en vidéo sur l’utilisation de la VAR par les...](https://www.lapresse.tn/2025/11/12/explications-en-video-sur-lutilisation-de-la-var-par-les-arbitres/)
+- [La Douane s’adresse aux Tunisiens de l’étranger…](https://www.lapresse.tn/2025/11/12/la-douane-sadresse-aux-tunisiens-de-letranger/)
 - [Naufrage au large de la Libye : 42 migrants portés...](https://www.lapresse.tn/2025/11/12/naufrage-au-large-de-la-libye-42-migrants-portes-disparus/)
 - [Deux villes tunisiennes en alerte écologique maximale](https://www.lapresse.tn/2025/11/12/deux-villes-tunisiennes-en-alerte-ecologique-maximale/)
-- [Vignette : paiement en ligne à partir de janvier 2026](https://www.lapresse.tn/2025/11/12/vignette-paiement-en-ligne-a-partir-de-janvier-2026/)
-- [Match amical – Tunisie-Mauritanie (Ce soir à 17h45) : Monter...](https://www.lapresse.tn/2025/11/12/match-amical-tunisie-mauritanie-ce-soir-a-17h45-monter-en-puissance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
+- [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
+- [Disparition de Sion Assidon, figure historique du soutien à la Palestine au Maroc](https://www.jeuneafrique.com/1739096/politique/disparition-de-sion-assidon-figure-historique-du-soutien-a-la-palestine-au-maroc/)
+- [Sahara occidental : 5 questions pour comprendre pourquoi la résolution 2 797 de l’ONU va tout changer](https://www.jeuneafrique.com/1738460/politique/sahara-occidental-5-questions-pour-comprendre-pourquoi-la-resolution-2797-va-tout-changer/)
 - [RSF dénonce la détention « arbitraire » d’un journaliste béninois](https://www.jeuneafrique.com/1739319/politique/rsf-denonce-la-detention-arbitraire-dun-journaliste-beninois/)
 - [Paul Biya et ses « sécurocrates » : face à Issa Tchiroma Bakary, les anges gardiens proclamés du pouvoir camerounais](https://www.jeuneafrique.com/1738664/politique/paul-biya-et-ses-securocrates-face-a-issa-tchiroma-bakary-les-anges-gardiens-proclames-du-pouvoir-camerounais/)
-- [Russie-Ouganda : une proximité militaire qui pose question](https://www.jeuneafrique.com/1739024/politique/russie-ouganda-une-proximite-militaire-qui-pose-question/)
-- [Au Sénégal, Ousmane Sonko cible l’opposition, la justice et les « traîtres » lors de son térameeting](https://www.jeuneafrique.com/1739031/politique/au-senegal-ousmane-sonko-cible-lopposition-la-justice-et-les-traitres-lors-de-son-terameeting/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 - [La recette gagnante d’Ethiopian Airlines, une exception dans le ciel africain](https://www.jeuneafrique.com/1737848/economie-entreprises/la-recette-gagnante-dethiopian-airlines-une-exception-dans-le-ciel-africain/)
 
