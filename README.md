@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 15:12*
+*Generato: 13 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Ben Arous : 6 millions de plants d’olivier seront plantés](https://www.lapresse.tn/2025/11/13/ben-arous-6-millions-de-plants-dolivier-seront-plantes/)
-- [Tunisie : Pourquoi le beurre a-t-il disparu des rayons ?](https://www.lapresse.tn/2025/11/13/tunisie-pourquoi-le-beurre-a-t-il-disparu-des-rayons/)
-- [Club Africain : Ali Youssef désigné meilleur joueur...](https://www.lapresse.tn/2025/11/13/club-africain-ali-youssef-designe-meilleur-joueur-par-les-lybiens/)
-- [Décès d’un avocat dans les locaux du Tribunal de première...](https://www.lapresse.tn/2025/11/13/deces-dun-avocat-dans-les-locaux-du-tribunal-de-premiere-instance-de-tunis/)
+- [CAB – communiqué de protestation : Les Cabistes se défendent...](https://www.lapresse.tn/2025/11/13/cab-communique-de-protestation-les-cabistes-se-defendent-aussi/)
+- [Des nageurs belges en stage à Médenine : Belle initiative](https://www.lapresse.tn/2025/11/13/des-nageurs-belges-en-stage-a-medenine-belle-initiative/)
+- [Coup d’envoi du festival « Human screen » : Une ouverture trébuchante](https://www.lapresse.tn/2025/11/13/coup-denvoi-du-festival-human-screen-une-ouverture-trebuchante/)
+- [« Put Your Soul on Your Hand and Walk »...](https://www.lapresse.tn/2025/11/13/put-your-soul-on-your-hand-and-walk-de-sepideh-farsi-la-photographie-comme-voix-et-memoire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
-- [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
-- [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
 - [Tunisie : nouvelle mobilisation pour réclamer la fermeture du complexe de Gabès](https://www.jeuneafrique.com/1739842/politique/tunisie-nouvelle-mobilisation-pour-reclamer-la-fermeture-du-complexe-de-gabes/)
 - [Burkina Faso : une dizaine de hauts magistrats poursuivis pour corruption](https://www.jeuneafrique.com/1739784/politique/burkina-faso-une-dizaine-de-hauts-magistrats-poursuivis-pour-corruption/)
+- [Maroc-France : pourquoi Abdelilah Benkirane s’implique dans la défense d’un condamné de l’affaire Samuel Paty](https://www.jeuneafrique.com/1739661/politique/maroc-france-pourquoi-abdelilah-benkirane-simplique-dans-la-defense-dun-condamne-de-laffaire-samuel-paty/)
 - [Au Mali, les habitants de Loulouni fuient les combats entre jihadistes et dozos](https://www.jeuneafrique.com/1739672/politique/au-mali-les-habitants-de-loulouni-fuient-les-combats-entre-jihadistes-et-dozos/)
 - [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
 - [Frontière tuniso-algérienne : le contentieux de la « borne 233 » refait surface après le vote à l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1738492/politique/frontiere-tuniso-algerienne-le-contentieux-de-la-borne-233-refait-surface-apres-le-vote-a-lonu-sur-le-sahara-occidental/)
-- [RDC : dès l’ouverture du procès, Roger Lumbala récuse ses avocats et refuse de comparaître à nouveau](https://www.jeuneafrique.com/1739617/politique/rdc-des-louverture-du-proces-roger-lumbala-recuse-ses-avocats-et-refuse-de-comparaitre-a-nouveau/)
-- [Entre la France et la Côte d’Ivoire, l’entente est-elle vraiment parfaite ?](https://www.jeuneafrique.com/1737815/politique/entre-la-france-et-la-cote-divoire-lidylle-est-elle-vraiment-parfaite/)
-- [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
+- [Donald Trump et les Obiang : coulisses d’une nouvelle idylle](https://www.jeuneafrique.com/1739496/politique/donald-trump-et-les-obiang-coulisses-dune-nouvelle-idylle/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
-- [Banque : comment le Mali garde une longueur d’avance dans l’Alliance des États du Sahel](https://www.jeuneafrique.com/1739541/economie-entreprises/banque-comment-le-mali-garde-une-longueur-davance-dans-lalliance-des-etats-du-sahel/)
+- [Tunnel Maroc-Espagne : un rêve de connexion qui résiste aux obstacles](https://www.jeuneafrique.com/1738450/economie-entreprises/tunnel-maroc-espagne-un-reve-de-connexion-qui-resiste-aux-obstacles/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
