@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 06:15*
+*Generato: 13 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31301/ep-today)
 - [EP President Roberta Metsola commemorates victims of 2015 Paris attacks](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31290/ep-president-roberta-metsola-commemorates-victims-of-2015-paris-attacks)
 - [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31300/ep-today)
@@ -91,7 +92,6 @@
 - [MEPs call for new rules on the use of algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31358/meps-call-for-new-rules-on-the-use-of-algorithmic-management-at-work)
 - [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
 - [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
-- [Moldova’s future is European and that future starts now](https://www.europarl.europa.eu/news/en/press-room/20251107IPR31330/moldova-s-future-is-european-and-that-future-starts-now)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Isra Ben Taïeb offre une médaille d’or à la Tunisie...](https://www.lapresse.tn/2025/11/12/isra-ben-taieb-offre-une-medaille-dor-a-la-tunisie-aux-jeux-de-la-solidarite-islamique/)
-- [Foot-Amical: La Tunise tenue en échec par la Mauritanie (1-1)](https://www.lapresse.tn/2025/11/12/foot-amical-la-tunise-tenue-en-echec-par-la-mauritanie-1-1/)
-- [L’équipe nationale affronte le Brésil le 18 Novembre : C’est...](https://www.lapresse.tn/2025/11/12/lequipe-nationale-affronte-le-bresil-le-18-novembre-cest-du-serieux/)
-- [Regard sur la ligue 2 : Le CSHL, vert de...](https://www.lapresse.tn/2025/11/12/regard-sur-la-ligue-2-le-cshl-vert-de-rage/)
+- [Match amical – Tunisie-Mauritanie (1-1) : Une copie à revoir…](https://www.lapresse.tn/2025/11/13/match-amical-tunisie-mauritanie-1-1-une-copie-a-revoir/)
+- [Foued Kacem succède officiellement à Zoubaier Beya à la tête...](https://www.lapresse.tn/2025/11/13/foued-kacem-succede-officiellement-a-zoubaier-beya-a-la-tete-de-letoile-du-sahel/)
+- [Houssem Teka : « Nous avons encore une large marge...](https://www.lapresse.tn/2025/11/13/houssem-teka-nous-avons-encore-une-large-marge-de-progression/)
+- [Tunisie–Mauritanie : Trabelsi satisfait du test amical](https://www.lapresse.tn/2025/11/13/tunisie-mauritanie-trabelsi-satisfait-du-test-amical/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Donald Trump et les Obiang : coulisses d’une nouvelle idylle](https://www.jeuneafrique.com/1739496/politique/donald-trump-et-les-obiang-coulisses-dune-nouvelle-idylle/)
+- [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
+- [Algérie : Abdelmadjid Tebboune « accepte » de gracier l’écrivain Boualem Sansal](https://www.jeuneafrique.com/1739498/politique/algerie-abdelmadjid-tebboune-accepte-de-gracier-lecrivain-boualem-sansal/)
 - [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
 - [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
+- [Remaniements au Cameroun : comment Paul Biya fait ses castings postélectoraux](https://www.jeuneafrique.com/1738718/politique/remaniements-au-cameroun-comment-paul-biya-fait-ses-castings-postelectoraux/)
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
-- [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
-- [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
+- [Comment Mike Adenuga est devenu la deuxième fortune du Nigeria](https://www.jeuneafrique.com/1738953/economie-entreprises/comment-mike-adenuga-est-devenu-la-deuxieme-fortune-du-nigeria/)
 - [Grand Inga : la RDC peut-elle enfin transformer son potentiel énergétique ?](https://www.jeuneafrique.com/1738528/economie-entreprises/grand-inga-la-rdc-peut-elle-enfin-transformer-son-potentiel-energetique/)
-- [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
