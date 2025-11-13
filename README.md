@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 18:14*
+*Generato: 13 Nov 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [CAB – communiqué de protestation : Les Cabistes se défendent...](https://www.lapresse.tn/2025/11/13/cab-communique-de-protestation-les-cabistes-se-defendent-aussi/)
-- [Des nageurs belges en stage à Médenine : Belle initiative](https://www.lapresse.tn/2025/11/13/des-nageurs-belges-en-stage-a-medenine-belle-initiative/)
-- [Coup d’envoi du festival « Human screen » : Une ouverture trébuchante](https://www.lapresse.tn/2025/11/13/coup-denvoi-du-festival-human-screen-une-ouverture-trebuchante/)
-- [« Put Your Soul on Your Hand and Walk »...](https://www.lapresse.tn/2025/11/13/put-your-soul-on-your-hand-and-walk-de-sepideh-farsi-la-photographie-comme-voix-et-memoire/)
+- [Un nouvel aéroport en Tunisie ? Le ministre des Transports...](https://www.lapresse.tn/2025/11/13/un-nouvel-aeroport-en-tunisie-le-ministre-des-transports-fait-le-point/)
+- [Tunis-Carthage : 30 ans de prison pour un passeur intercepté...](https://www.lapresse.tn/2025/11/13/tunis-carthage-30-ans-de-prison-pour-un-passeur-intercepte-avec-33-capsules-de-cocaine/)
+- [639,9 millions de dinars d’investissements français en Tunisie sur neuf...](https://www.lapresse.tn/2025/11/13/6399-millions-de-dinars-dinvestissements-francais-en-tunisie-sur-neuf-mois/)
+- [Arrêt sur image : l’aventure commence… à l’arrière du camion](https://www.lapresse.tn/2025/11/13/arret-sur-image-laventure-commence-a-larriere-du-camion/)
 
 ## NGOs – Amnesty International – Tunisia
 
