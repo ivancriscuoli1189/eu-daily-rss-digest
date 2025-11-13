@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Nov 2025, 21:03*
+*Generato: 13 Nov 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -50,8 +50,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Donald Trump et les Obiang : coulisses d’une nouvelle idylle](https://www.jeuneafrique.com/1739496/politique/donald-trump-et-les-obiang-coulisses-dune-nouvelle-idylle/)
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
 - [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
@@ -271,7 +272,6 @@
 - [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
 - [Sénégal : libération d’un soldat retenu depuis avril par une « bande armée » en Casamance](https://www.jeuneafrique.com/1739352/politique/senegal-liberation-dun-soldat-retenu-depuis-avril-par-une-bande-armee-en-casamance/)
 - [Gabon : Sylvia et Noureddin Bongo condamnés à vingt ans de prison](https://www.jeuneafrique.com/1739339/politique/gabon-sylvia-et-noureddin-bongo-condamnes-a-vingt-ans-de-prison/)
-- [Disparition de Sion Assidon, figure historique du soutien à la Palestine au Maroc](https://www.jeuneafrique.com/1739096/politique/disparition-de-sion-assidon-figure-historique-du-soutien-a-la-palestine-au-maroc/)
 - [Grand Inga : la RDC peut-elle enfin transformer son potentiel énergétique ?](https://www.jeuneafrique.com/1738528/economie-entreprises/grand-inga-la-rdc-peut-elle-enfin-transformer-son-potentiel-energetique/)
 - [MSC reprend ses activités au Mali](https://www.jeuneafrique.com/1739323/economie-entreprises/msc-reprend-ses-activites-au-mali/)
 
