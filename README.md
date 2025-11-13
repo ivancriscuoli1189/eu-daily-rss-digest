@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 11:03*
+*Generato: 13 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -67,18 +67,31 @@
 - [Evènements](https://www.ins.tn/evenements)
 - [Calendrier de diffusion](https://www.ins.tn/calendar)
 
+## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
+
+- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد علي بن حمّود المهندس في البتروكيمياء](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%AD%D9%85%D9%91%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
+- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
+- [موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-4)
+
 ## UE – EP – Press Room
 
+- [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
+- [Sustainability reporting and due diligence: MEPs back simplification changes](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31296/sustainability-reporting-and-due-diligence-meps-back-simplification-changes)
+- [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
+- [EU aid for Spain and France to help with recent natural disasters](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31292/eu-aid-for-spain-and-france-to-help-with-recent-natural-disasters)
 - [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
 - [Proxy voting rights for female MEPs before and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31294/proxy-voting-rights-for-female-meps-before-and-after-giving-birth)
 - [EU 2040 climate target: MEPs want 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31334/eu-2040-climate-target-meps-want-90-emissions-reduction-in-eu-climate-law)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31301/ep-today)
 - [EP President Roberta Metsola commemorates victims of 2015 Paris attacks](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31290/ep-president-roberta-metsola-commemorates-victims-of-2015-paris-attacks)
 - [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31300/ep-today)
-- [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
-- [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31302/press-briefing-on-this-week-s-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -166,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Ministre du Commerce : les banques appelées à financer...](https://www.lapresse.tn/2025/11/13/ministre-du-commerce-les-banques-appelees-a-financer-les-exportations-dhuile-dolive-et-de-dattes/)
-- [Le scooter tunisien remplace-t-il la voiture en ville ?](https://www.lapresse.tn/2025/11/13/le-scooter-tunisien-remplace-t-il-la-voiture-en-ville/)
-- [529 millions de dinars pour prévenir les inondations : priorité...](https://www.lapresse.tn/2025/11/13/529-millions-de-dinars-pour-prevenir-les-inondations-priorite-au-drainage-urbain/)
-- [États-Unis : Trump met fin au “shutdown” et signe l’accord...](https://www.lapresse.tn/2025/11/13/etats-unis-trump-met-fin-au-shutdown-et-signe-laccord-budgetaire/)
+- [Exploitations agricoles : 114 mille hectares assurées contre les catastrophes](https://www.lapresse.tn/2025/11/13/exploitations-agricoles-114-mille-hectares-assurees-contre-les-catastrophes/)
+- [Saison touristique à Nabeul et Hammamet : des « chiffres records »...](https://www.lapresse.tn/2025/11/13/saison-touristique-a-nabeul-et-hammamet-des-chiffres-records-en-2025/)
+- [Hôpital Universitaire Sahloul : première du genre, une salle médicale...](https://www.lapresse.tn/2025/11/13/hopital-universitaire-sahloul-premiere-du-genre-une-salle-medicale-multispecialites-voit-le-jour/)
+- [Miss International 2025 : Oumaïma Moussa représente la Tunisie à...](https://www.lapresse.tn/2025/11/13/miss-international-2025-oumaima-moussa-represente-la-tunisie-a-tokyo/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -253,12 +266,12 @@
 
 - [Au Mali, les habitants de Loulouni fuient les combats entre jihadistes et dozos](https://www.jeuneafrique.com/1739672/politique/au-mali-les-habitants-de-loulouni-fuient-les-combats-entre-jihadistes-et-dozos/)
 - [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
+- [Frontière tuniso-algérienne : le contentieux de la « borne 233 » refait surface après le vote à l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1738492/politique/frontiere-tuniso-algerienne-le-contentieux-de-la-borne-233-refait-surface-apres-le-vote-a-lonu-sur-le-sahara-occidental/)
+- [RDC : dès l’ouverture du procès, Roger Lumbala récuse ses avocats et refuse de comparaître à nouveau](https://www.jeuneafrique.com/1739617/politique/rdc-des-louverture-du-proces-roger-lumbala-recuse-ses-avocats-et-refuse-de-comparaitre-a-nouveau/)
+- [Entre la France et la Côte d’Ivoire, l’entente est-elle vraiment parfaite ?](https://www.jeuneafrique.com/1737815/politique/entre-la-france-et-la-cote-divoire-lidylle-est-elle-vraiment-parfaite/)
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
 - [Algérie : Abdelmadjid Tebboune « accepte » de gracier l’écrivain Boualem Sansal](https://www.jeuneafrique.com/1739498/politique/algerie-abdelmadjid-tebboune-accepte-de-gracier-lecrivain-boualem-sansal/)
-- [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
-- [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
-- [Remaniements au Cameroun : comment Paul Biya fait ses castings postélectoraux](https://www.jeuneafrique.com/1738718/politique/remaniements-au-cameroun-comment-paul-biya-fait-ses-castings-postelectoraux/)
 - [Banque : comment le Mali garde une longueur d’avance dans l’Alliance des États du Sahel](https://www.jeuneafrique.com/1739541/economie-entreprises/banque-comment-le-mali-garde-une-longueur-davance-dans-lalliance-des-etats-du-sahel/)
 - [Comment Mike Adenuga est devenu la deuxième fortune du Nigeria](https://www.jeuneafrique.com/1738953/economie-entreprises/comment-mike-adenuga-est-devenu-la-deuxieme-fortune-du-nigeria/)
 
