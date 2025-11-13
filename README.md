@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 09:12*
+*Generato: 13 Nov 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -67,21 +67,11 @@
 - [Evènements](https://www.ins.tn/evenements)
 - [Calendrier de diffusion](https://www.ins.tn/calendar)
 
-## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
-
-- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد علي بن حمّود المهندس في البتروكيمياء](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A8%D9%86-%D8%AD%D9%85%D9%91%D9%88%D8%AF-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%AA%D8%B1%D9%88%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة والسيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A)
-- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
-- [موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-4)
-
 ## UE – EP – Press Room
 
+- [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
+- [Proxy voting rights for female MEPs before and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31294/proxy-voting-rights-for-female-meps-before-and-after-giving-birth)
+- [EU 2040 climate target: MEPs want 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31334/eu-2040-climate-target-meps-want-90-emissions-reduction-in-eu-climate-law)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31301/ep-today)
 - [EP President Roberta Metsola commemorates victims of 2015 Paris attacks](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31290/ep-president-roberta-metsola-commemorates-victims-of-2015-paris-attacks)
 - [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
@@ -89,14 +79,11 @@
 - [EU long-term budget: Press conference with lead MEPs on Wednesday at 17:30](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31371/eu-long-term-budget-press-conference-with-lead-meps-on-wednesday-at-17-30)
 - [Press conference: simplified sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31351/press-conference-simplified-sustainability-reporting-and-due-diligence-rules)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31302/press-briefing-on-this-week-s-plenary-session)
-- [MEPs call for new rules on the use of algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31358/meps-call-for-new-rules-on-the-use-of-algorithmic-management-at-work)
-- [Deal to simplify EU agriculture rules](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31333/deal-to-simplify-eu-agriculture-rules)
-- [EU 2040 climate target: MEPs seek 90% emissions reduction](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31332/eu-2040-climate-target-meps-seek-90-emissions-reduction)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -179,10 +166,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Match amical – Tunisie-Mauritanie (1-1) : Une copie à revoir…](https://www.lapresse.tn/2025/11/13/match-amical-tunisie-mauritanie-1-1-une-copie-a-revoir/)
-- [Foued Kacem succède officiellement à Zoubaier Beya à la tête...](https://www.lapresse.tn/2025/11/13/foued-kacem-succede-officiellement-a-zoubaier-beya-a-la-tete-de-letoile-du-sahel/)
-- [Houssem Teka : « Nous avons encore une large marge...](https://www.lapresse.tn/2025/11/13/houssem-teka-nous-avons-encore-une-large-marge-de-progression/)
-- [Tunisie–Mauritanie : Trabelsi satisfait du test amical](https://www.lapresse.tn/2025/11/13/tunisie-mauritanie-trabelsi-satisfait-du-test-amical/)
+- [Ministre du Commerce : les banques appelées à financer...](https://www.lapresse.tn/2025/11/13/ministre-du-commerce-les-banques-appelees-a-financer-les-exportations-dhuile-dolive-et-de-dattes/)
+- [Le scooter tunisien remplace-t-il la voiture en ville ?](https://www.lapresse.tn/2025/11/13/le-scooter-tunisien-remplace-t-il-la-voiture-en-ville/)
+- [529 millions de dinars pour prévenir les inondations : priorité...](https://www.lapresse.tn/2025/11/13/529-millions-de-dinars-pour-prevenir-les-inondations-priorite-au-drainage-urbain/)
+- [États-Unis : Trump met fin au “shutdown” et signe l’accord...](https://www.lapresse.tn/2025/11/13/etats-unis-trump-met-fin-au-shutdown-et-signe-laccord-budgetaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
-- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
+- [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
 - [Albania: ICJ denounces arbitrary detention of defence lawyer Ulian Barjami and urges his release](https://www.icj.org/albania-icj-condemns-arrest-and-detention-of-defence-lawyer-ulian-barjami-and-calls-for-his-immediate-release/)
-- [Thailand: ICJ and Parliament call for legal safeguards against abusive lawsuits to protect human rights defenders and journalists](https://www.icj.org/thailand-icj-and-parliament-call-for-legal-safeguards-against-abusive-lawsuits-to-protect-human-rights-defenders-and-journalists/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, les habitants de Loulouni fuient les combats entre jihadistes et dozos](https://www.jeuneafrique.com/1739672/politique/au-mali-les-habitants-de-loulouni-fuient-les-combats-entre-jihadistes-et-dozos/)
 - [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
@@ -271,9 +259,8 @@
 - [L’accord à 7,5 millions de dollars entre la Guinée équatoriale et l’administration Trump indigne l’opposition démocrate](https://www.jeuneafrique.com/1739419/politique/laccord-a-75-millions-de-dollars-entre-la-guinee-equatoriale-et-ladministration-trump-indigne-lopposition-democrate/)
 - [Algérie : Boualem Sansal sera-t-il libéré grâce à l’Allemagne ?](https://www.jeuneafrique.com/1739332/politique/algerie-boualem-sansal-sera-t-il-libere-grace-a-lallemagne/)
 - [Remaniements au Cameroun : comment Paul Biya fait ses castings postélectoraux](https://www.jeuneafrique.com/1738718/politique/remaniements-au-cameroun-comment-paul-biya-fait-ses-castings-postelectoraux/)
-- [Algérie : Mohamed Tadjadit, « le poète du Hirak », condamné à cinq ans de prison](https://www.jeuneafrique.com/1739369/politique/algerie-mohamed-tadjadit-le-poete-du-hirak-condamne-a-cinq-ans-de-prison/)
+- [Banque : comment le Mali garde une longueur d’avance dans l’Alliance des États du Sahel](https://www.jeuneafrique.com/1739541/economie-entreprises/banque-comment-le-mali-garde-une-longueur-davance-dans-lalliance-des-etats-du-sahel/)
 - [Comment Mike Adenuga est devenu la deuxième fortune du Nigeria](https://www.jeuneafrique.com/1738953/economie-entreprises/comment-mike-adenuga-est-devenu-la-deuxieme-fortune-du-nigeria/)
-- [Grand Inga : la RDC peut-elle enfin transformer son potentiel énergétique ?](https://www.jeuneafrique.com/1738528/economie-entreprises/grand-inga-la-rdc-peut-elle-enfin-transformer-son-potentiel-energetique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
