@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 12:19*
+*Generato: 13 Nov 2025, 13:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Les prix du fromage vont-ils enfin baisser pour les Tunisiens...](https://www.lapresse.tn/2025/11/13/les-prix-du-fromage-vont-ils-enfin-baisser-pour-les-tunisiens/)
+- [Zakât 1447 : le Mufti fixe le montant pour l’huile...](https://www.lapresse.tn/2025/11/13/zakat-1447-le-mufti-fixe-le-montant-pour-lhuile-dolive-les-dattes-et-autres-fruits/)
 - [Exploitations agricoles : 114 mille hectares assurées contre les catastrophes](https://www.lapresse.tn/2025/11/13/exploitations-agricoles-114-mille-hectares-assurees-contre-les-catastrophes/)
 - [Saison touristique à Nabeul et Hammamet : des « chiffres records »...](https://www.lapresse.tn/2025/11/13/saison-touristique-a-nabeul-et-hammamet-des-chiffres-records-en-2025/)
-- [Hôpital Universitaire Sahloul : première du genre, une salle médicale...](https://www.lapresse.tn/2025/11/13/hopital-universitaire-sahloul-premiere-du-genre-une-salle-medicale-multispecialites-voit-le-jour/)
-- [Miss International 2025 : Oumaïma Moussa représente la Tunisie à...](https://www.lapresse.tn/2025/11/13/miss-international-2025-oumaima-moussa-represente-la-tunisie-a-tokyo/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
-- [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 - [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 - [UNDESA JOINT SIDE EVENT: Redefining Justice Now – Ending Disability based Exclusion Through Inclusive Systems and Community Living](https://www.icj.org/undesa-joint-side-event-redefining-justice-now-ending-disability-based-exclusion-through-inclusive-systems-and-community-living/)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Burkina Faso : une dizaine de hauts magistrats poursuivis pour corruption](https://www.jeuneafrique.com/1739784/politique/burkina-faso-une-dizaine-de-hauts-magistrats-poursuivis-pour-corruption/)
 - [Au Mali, les habitants de Loulouni fuient les combats entre jihadistes et dozos](https://www.jeuneafrique.com/1739672/politique/au-mali-les-habitants-de-loulouni-fuient-les-combats-entre-jihadistes-et-dozos/)
 - [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
 - [Frontière tuniso-algérienne : le contentieux de la « borne 233 » refait surface après le vote à l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1738492/politique/frontiere-tuniso-algerienne-le-contentieux-de-la-borne-233-refait-surface-apres-le-vote-a-lonu-sur-le-sahara-occidental/)
@@ -271,9 +272,8 @@
 - [Entre la France et la Côte d’Ivoire, l’entente est-elle vraiment parfaite ?](https://www.jeuneafrique.com/1737815/politique/entre-la-france-et-la-cote-divoire-lidylle-est-elle-vraiment-parfaite/)
 - [En Centrafrique, la nationalité de l’opposant Dologuélé mise en doute](https://www.jeuneafrique.com/1739474/politique/en-centrafrique-la-nationalite-de-lopposant-dologuele-mise-en-doute/)
 - [Qui peut sauver la démocratie en Afrique ?](https://www.jeuneafrique.com/1739392/politique/qui-peut-sauver-la-democratie-en-afrique/)
-- [Algérie : Abdelmadjid Tebboune « accepte » de gracier l’écrivain Boualem Sansal](https://www.jeuneafrique.com/1739498/politique/algerie-abdelmadjid-tebboune-accepte-de-gracier-lecrivain-boualem-sansal/)
+- [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
 - [Banque : comment le Mali garde une longueur d’avance dans l’Alliance des États du Sahel](https://www.jeuneafrique.com/1739541/economie-entreprises/banque-comment-le-mali-garde-une-longueur-davance-dans-lalliance-des-etats-du-sahel/)
-- [Comment Mike Adenuga est devenu la deuxième fortune du Nigeria](https://www.jeuneafrique.com/1738953/economie-entreprises/comment-mike-adenuga-est-devenu-la-deuxieme-fortune-du-nigeria/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
