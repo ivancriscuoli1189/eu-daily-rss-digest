@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 15:11*
+*Generato: 14 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Handball : La Tunisie connaît ses adversaires pour la CAN...](https://www.lapresse.tn/2025/11/14/handball-la-tunisie-connait-ses-adversaires-pour-la-can-2026-a-kigali/)
-- [Hannibal 3 et 4 : les nouveaux gardiens des mers...](https://www.lapresse.tn/2025/11/14/hannibal-3-et-4-les-nouveaux-gardiens-des-mers-tunisiennes/)
-- [Un investissement de 300 MD pour la nouvelle usine Kromberg...](https://www.lapresse.tn/2025/11/14/un-investissement-de-300-md-pour-la-nouvelle-usine-kromberg-schubert-a-beja/)
-- [Algérie : des feux ravagent plusieurs wilayas](https://www.lapresse.tn/2025/11/14/algerie-des-feux-ravagent-plusieurs-wilayas/)
+- [Un registre national des compétences tunisiennes : à quoi servira-t-il...](https://www.lapresse.tn/2025/11/14/un-registre-national-des-competences-tunisiennes-a-quoi-servira-t-il-vraiment/)
+- [Pourquoi : L’art de se compliquer l’existence](https://www.lapresse.tn/2025/11/14/pourquoi-lart-de-se-compliquer-lexistence/)
+- [Mondial 2026 : Deux arbitres tunisiens désignés pour la finale...](https://www.lapresse.tn/2025/11/14/mondial-2026-deux-arbitres-tunisiens-designes-pour-la-finale-nigeria-rd-congo/)
+- [Tunisie – Afrique : Bâtir des corridors de croissance](https://www.lapresse.tn/2025/11/14/tunisie-afrique-batir-des-corridors-de-croissance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Centrafrique : sept candidats retenus, dont le président Touadéra](https://www.jeuneafrique.com/1740357/politique/presidentielle-en-centrafrique-sept-candidats-retenus-dont-le-president-touadera/)
 - [Donald Trump absent du G20 en Afrique du Sud ? « Tant pis », rétorque Cyril Ramaphosa](https://www.jeuneafrique.com/1740138/politique/donald-trump-absent-du-g20-en-afrique-du-sud-tant-pis-retorque-cyril-ramaphosa/)
 - [Présidentielle au Bénin : Romuald Wadagni n’aura qu’un seul adversaire](https://www.jeuneafrique.com/1740066/politique/presidentielle-au-benin-romuald-wadagni-naura-quun-seul-adversaire/)
 - [Centrafrique : la Minusca prolongée d’une année, malgré les réticences de l’administration Trump](https://www.jeuneafrique.com/1740023/politique/centrafrique-la-minusca-prolongee-dune-annee-malgre-les-reticences-de-trump/)
@@ -271,7 +272,6 @@
 - [Aux frontières de la Côte d’Ivoire, un afflux « inhabituel » de réfugiés maliens](https://www.jeuneafrique.com/1740011/politique/aux-frontieres-de-la-cote-divoire-un-afflux-inhabituel-de-refugies-maliens/)
 - [Boualem Sansal va « plutôt bien » et espère arriver en France dans les prochaines heures](https://www.jeuneafrique.com/1739998/politique/boualem-sansal-va-plutot-bien-et-espere-arriver-en-france-dans-les-prochaines-heures/)
 - [« Touadéra a fait de moi un apatride » : pourquoi l’opposant centrafricain Anicet-Georges Dologuélé saisit l’ONU](https://www.jeuneafrique.com/1739881/politique/touadera-a-fait-de-moi-un-apatride-pourquoi-lopposant-centrafricain-anicet-georges-dologuele-saisit-lonu/)
-- [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
 - [Pourquoi les marchés sanctionnent la destination Sénégal](https://www.jeuneafrique.com/1739760/economie-entreprises/pourquoi-les-marches-sanctionnent-la-destination-senegal/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
 
