@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Nov 2025, 21:10*
+*Generato: 14 Nov 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -50,8 +50,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Escalating crackdown on human rights organizations reaches critical levels](https://www.amnesty.org/en/latest/news/2025/11/tunisia-escalating-crackdown-on-human-rights-organizations-reaches-critical-levels/)
 - [Tunisia: Rampant violations against refugees and migrants expose EU’s complicity risk](https://www.amnesty.org/en/latest/news/2025/11/tunisia-rampant-violations-against-refugees-migrants-eu-risks-complicity/)
 - [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
-- [Tunisia: Authorities must immediately overturn death sentence for peaceful dissent](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-overturn-death-sentence-for-peaceful-dissent/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -204,11 +204,11 @@
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
 - [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
 - [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
 - [Tunisian Human Rights Defender on Hunger Strike](https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike)
-- [Tunisia: Drastic Closure of Civic Space](https://www.hrw.org/news/2025/01/16/tunisia-drastic-closure-civic-space)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
