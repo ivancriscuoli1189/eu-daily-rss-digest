@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 13:25*
+*Generato: 14 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Handball : La Tunisie connaît ses adversaires pour la CAN...](https://www.lapresse.tn/2025/11/14/handball-la-tunisie-connait-ses-adversaires-pour-la-can-2026-a-kigali/)
+- [Hannibal 3 et 4 : les nouveaux gardiens des mers...](https://www.lapresse.tn/2025/11/14/hannibal-3-et-4-les-nouveaux-gardiens-des-mers-tunisiennes/)
+- [Un investissement de 300 MD pour la nouvelle usine Kromberg...](https://www.lapresse.tn/2025/11/14/un-investissement-de-300-md-pour-la-nouvelle-usine-kromberg-schubert-a-beja/)
 - [Algérie : des feux ravagent plusieurs wilayas](https://www.lapresse.tn/2025/11/14/algerie-des-feux-ravagent-plusieurs-wilayas/)
-- [Siliana : les professionnels appellent à accélérer d’urgence la distribution...](https://www.lapresse.tn/2025/11/14/siliana-les-professionnels-appellent-a-accelerer-durgence-la-distribution-des-semences-et-engrais-2/)
-- [Porte d’entrée vers l’Afrique : l’industrie pharma tunisienne séduit les...](https://www.lapresse.tn/2025/11/14/porte-dentree-vers-lafrique-lindustrie-pharma-tunisienne-seduit-les-investisseurs-internationaux/)
-- [Salariés et retraités : 5 décembre… dernière échéance pour la...](https://www.lapresse.tn/2025/11/14/salaries-et-retraites-5-decembre-derniere-echeance-pour-la-declaration-annuelle-des-revenus-de-lannee-2024/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Donald Trump absent du G20 en Afrique du Sud ? « Tant pis », rétorque Cyril Ramaphosa](https://www.jeuneafrique.com/1740138/politique/donald-trump-absent-du-g20-en-afrique-du-sud-tant-pis-retorque-cyril-ramaphosa/)
 - [Présidentielle au Bénin : Romuald Wadagni n’aura qu’un seul adversaire](https://www.jeuneafrique.com/1740066/politique/presidentielle-au-benin-romuald-wadagni-naura-quun-seul-adversaire/)
 - [Centrafrique : la Minusca prolongée d’une année, malgré les réticences de l’administration Trump](https://www.jeuneafrique.com/1740023/politique/centrafrique-la-minusca-prolongee-dune-annee-malgre-les-reticences-de-trump/)
 - [Au Mali, les généraux Dembélé et Sagara inculpés pour « tentative de déstabilisation »](https://www.jeuneafrique.com/1740016/politique/au-mali-les-generaux-dembele-et-sagara-inculpes-pour-tentative-de-destabilisation/)
 - [Aux frontières de la Côte d’Ivoire, un afflux « inhabituel » de réfugiés maliens](https://www.jeuneafrique.com/1740011/politique/aux-frontieres-de-la-cote-divoire-un-afflux-inhabituel-de-refugies-maliens/)
 - [Boualem Sansal va « plutôt bien » et espère arriver en France dans les prochaines heures](https://www.jeuneafrique.com/1739998/politique/boualem-sansal-va-plutot-bien-et-espere-arriver-en-france-dans-les-prochaines-heures/)
+- [« Touadéra a fait de moi un apatride » : pourquoi l’opposant centrafricain Anicet-Georges Dologuélé saisit l’ONU](https://www.jeuneafrique.com/1739881/politique/touadera-a-fait-de-moi-un-apatride-pourquoi-lopposant-centrafricain-anicet-georges-dologuele-saisit-lonu/)
 - [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
-- [En Tanzanie, Samia Suluhu Hassan sous pression après la répression sanglante](https://www.jeuneafrique.com/1739821/politique/en-tanzanie-samia-suluhu-hassan-sous-pression-apres-la-repression-sanglante/)
-- [Tunisie : nouvelle mobilisation pour réclamer la fermeture du complexe de Gabès](https://www.jeuneafrique.com/1739842/politique/tunisie-nouvelle-mobilisation-pour-reclamer-la-fermeture-du-complexe-de-gabes/)
 - [Pourquoi les marchés sanctionnent la destination Sénégal](https://www.jeuneafrique.com/1739760/economie-entreprises/pourquoi-les-marches-sanctionnent-la-destination-senegal/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
 
