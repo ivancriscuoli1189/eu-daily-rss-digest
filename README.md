@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 11:09*
+*Generato: 14 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
+- [Textile : Un investisseur turc choisit la Tunisie pour étendre...](https://www.lapresse.tn/2025/11/14/textile-un-investisseur-turc-choisit-la-tunisie-pour-etendre-ses-activites/)
 - [Produits alimentaires : à cause du café et du cacao,...](https://www.lapresse.tn/2025/11/14/produits-alimentaires-a-cause-du-cafe-et-du-cacao-une-hausse-de-8-attendue-a-lechelle-mondiale/)
 - [Football : où voir le match Tunisie–Jordanie en direct ?](https://www.lapresse.tn/2025/11/14/football-ou-voir-le-match-tunisie-jordanie-en-direct/)
 - [Djerba, nouvelle alternative méditerranéenne aux Canaries et à l’Égypte](https://www.lapresse.tn/2025/11/14/djerba-nouvelle-alternative-mediterraneenne-aux-canaries-et-a-legypte/)
-- [Apple lance le passeport numérique](https://www.lapresse.tn/2025/11/14/apple-lance-le-passeport-numerique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
 - [En Tanzanie, Samia Suluhu Hassan sous pression après la répression sanglante](https://www.jeuneafrique.com/1739821/politique/en-tanzanie-samia-suluhu-hassan-sous-pression-apres-la-repression-sanglante/)
 - [Tunisie : nouvelle mobilisation pour réclamer la fermeture du complexe de Gabès](https://www.jeuneafrique.com/1739842/politique/tunisie-nouvelle-mobilisation-pour-reclamer-la-fermeture-du-complexe-de-gabes/)
+- [Pourquoi les marchés sanctionnent la destination Sénégal](https://www.jeuneafrique.com/1739760/economie-entreprises/pourquoi-les-marches-sanctionnent-la-destination-senegal/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
-- [Rencontre avec Tony Elumelu, le banquier qui a une stratégie électrique pour le Nigeria](https://www.jeuneafrique.com/1739524/economie-entreprises/rencontre-avec-tony-elumelu-le-banquier-qui-a-une-strategie-electrique-pour-le-nigeria/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
