@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 12:19*
+*Generato: 14 Nov 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Textile : Un investisseur turc choisit la Tunisie pour étendre...](https://www.lapresse.tn/2025/11/14/textile-un-investisseur-turc-choisit-la-tunisie-pour-etendre-ses-activites/)
-- [Produits alimentaires : à cause du café et du cacao,...](https://www.lapresse.tn/2025/11/14/produits-alimentaires-a-cause-du-cafe-et-du-cacao-une-hausse-de-8-attendue-a-lechelle-mondiale/)
-- [Football : où voir le match Tunisie–Jordanie en direct ?](https://www.lapresse.tn/2025/11/14/football-ou-voir-le-match-tunisie-jordanie-en-direct/)
-- [Djerba, nouvelle alternative méditerranéenne aux Canaries et à l’Égypte](https://www.lapresse.tn/2025/11/14/djerba-nouvelle-alternative-mediterraneenne-aux-canaries-et-a-legypte/)
+- [Algérie : des feux ravagent plusieurs wilayas](https://www.lapresse.tn/2025/11/14/algerie-des-feux-ravagent-plusieurs-wilayas/)
+- [Siliana : les professionnels appellent à accélérer d’urgence la distribution...](https://www.lapresse.tn/2025/11/14/siliana-les-professionnels-appellent-a-accelerer-durgence-la-distribution-des-semences-et-engrais-2/)
+- [Porte d’entrée vers l’Afrique : l’industrie pharma tunisienne séduit les...](https://www.lapresse.tn/2025/11/14/porte-dentree-vers-lafrique-lindustrie-pharma-tunisienne-seduit-les-investisseurs-internationaux/)
+- [Salariés et retraités : 5 décembre… dernière échéance pour la...](https://www.lapresse.tn/2025/11/14/salaries-et-retraites-5-decembre-derniere-echeance-pour-la-declaration-annuelle-des-revenus-de-lannee-2024/)
 
 ## NGOs – Amnesty International – Tunisia
 
