@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 18:14*
+*Generato: 14 Nov 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Un registre national des compétences tunisiennes : à quoi servira-t-il...](https://www.lapresse.tn/2025/11/14/un-registre-national-des-competences-tunisiennes-a-quoi-servira-t-il-vraiment/)
-- [Pourquoi : L’art de se compliquer l’existence](https://www.lapresse.tn/2025/11/14/pourquoi-lart-de-se-compliquer-lexistence/)
-- [Mondial 2026 : Deux arbitres tunisiens désignés pour la finale...](https://www.lapresse.tn/2025/11/14/mondial-2026-deux-arbitres-tunisiens-designes-pour-la-finale-nigeria-rd-congo/)
-- [Tunisie – Afrique : Bâtir des corridors de croissance](https://www.lapresse.tn/2025/11/14/tunisie-afrique-batir-des-corridors-de-croissance/)
+- [Au fait du jour : Le ver est dans le...](https://www.lapresse.tn/2025/11/14/au-fait-du-jour-le-ver-est-dans-le-fruit/)
+- [Conférence de presse – Journées Théâtrales de Carthage 2025 :...](https://www.lapresse.tn/2025/11/14/conference-de-presse-journees-theatrales-de-carthage-2025-le-theatre-le-coeur-battant-de-la-rue/)
+- [Le Roi Lear ouvre la 26e édition des Journées Théâtrales...](https://www.lapresse.tn/2025/11/14/le-roi-lear-ouvre-la-26e-edition-des-journees-theatrales-de-carthage-une-oeuvre-intemporelle/)
+- [Malek Abidi signe : La Table du Sud Un...](https://www.lapresse.tn/2025/11/14/malek-abidi-signe-la-table-du-sud-un-voyage-culinaire-au-coeur-du-patrimoine-du-sud-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
