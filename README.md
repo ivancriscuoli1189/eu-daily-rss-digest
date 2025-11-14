@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 09:11*
+*Generato: 14 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Trois bus scolaires attaqués dans le gouvernorat de Jendouba](https://www.lapresse.tn/2025/11/14/trois-bus-scolaires-attaques-dans-le-gouvernorat-de-jendouba/)
-- [Huile d’olive : vers un niveau d’échanges jamais atteint, selon...](https://www.lapresse.tn/2025/11/14/huile-dolive-vers-un-niveau-dechanges-jamais-atteint-selon-la-fao/)
-- [Bizerte : des mesures urgentes pour valoriser Ras Angela, point...](https://www.lapresse.tn/2025/11/14/978921/)
-- [Afrique : comment les corridors énergétiques peuvent-ils transformer le continent...](https://www.lapresse.tn/2025/11/14/afrique-comment-les-corridors-energetiques-peuvent-ils-transformer-le-continent/)
+- [Produits alimentaires : à cause du café et du cacao,...](https://www.lapresse.tn/2025/11/14/produits-alimentaires-a-cause-du-cafe-et-du-cacao-une-hausse-de-8-attendue-a-lechelle-mondiale/)
+- [Football : où voir le match Tunisie–Jordanie en direct ?](https://www.lapresse.tn/2025/11/14/football-ou-voir-le-match-tunisie-jordanie-en-direct/)
+- [Djerba, nouvelle alternative méditerranéenne aux Canaries et à l’Égypte](https://www.lapresse.tn/2025/11/14/djerba-nouvelle-alternative-mediterraneenne-aux-canaries-et-a-legypte/)
+- [Apple lance le passeport numérique](https://www.lapresse.tn/2025/11/14/apple-lance-le-passeport-numerique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle au Bénin : Romuald Wadagni n’aura qu’un seul adversaire](https://www.jeuneafrique.com/1740066/politique/presidentielle-au-benin-romuald-wadagni-naura-quun-seul-adversaire/)
+- [Centrafrique : la Minusca prolongée d’une année, malgré les réticences de l’administration Trump](https://www.jeuneafrique.com/1740023/politique/centrafrique-la-minusca-prolongee-dune-annee-malgre-les-reticences-de-trump/)
+- [Au Mali, les généraux Dembélé et Sagara inculpés pour « tentative de déstabilisation »](https://www.jeuneafrique.com/1740016/politique/au-mali-les-generaux-dembele-et-sagara-inculpes-pour-tentative-de-destabilisation/)
 - [Aux frontières de la Côte d’Ivoire, un afflux « inhabituel » de réfugiés maliens](https://www.jeuneafrique.com/1740011/politique/aux-frontieres-de-la-cote-divoire-un-afflux-inhabituel-de-refugies-maliens/)
 - [Boualem Sansal va « plutôt bien » et espère arriver en France dans les prochaines heures](https://www.jeuneafrique.com/1739998/politique/boualem-sansal-va-plutot-bien-et-espere-arriver-en-france-dans-les-prochaines-heures/)
 - [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
 - [En Tanzanie, Samia Suluhu Hassan sous pression après la répression sanglante](https://www.jeuneafrique.com/1739821/politique/en-tanzanie-samia-suluhu-hassan-sous-pression-apres-la-repression-sanglante/)
 - [Tunisie : nouvelle mobilisation pour réclamer la fermeture du complexe de Gabès](https://www.jeuneafrique.com/1739842/politique/tunisie-nouvelle-mobilisation-pour-reclamer-la-fermeture-du-complexe-de-gabes/)
-- [Burkina Faso : une dizaine de hauts magistrats poursuivis pour corruption](https://www.jeuneafrique.com/1739784/politique/burkina-faso-une-dizaine-de-hauts-magistrats-poursuivis-pour-corruption/)
-- [En Côte d’Ivoire, Charles Blé Goudé et le pari de la « victoire reportée »](https://www.jeuneafrique.com/1739675/politique/en-cote-divoire-charles-ble-goude-et-le-pari-de-la-victoire-reportee/)
-- [Maroc-France : pourquoi Abdelilah Benkirane s’implique dans la défense d’un condamné de l’affaire Samuel Paty](https://www.jeuneafrique.com/1739661/politique/maroc-france-pourquoi-abdelilah-benkirane-simplique-dans-la-defense-dun-condamne-de-laffaire-samuel-paty/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
 - [Rencontre avec Tony Elumelu, le banquier qui a une stratégie électrique pour le Nigeria](https://www.jeuneafrique.com/1739524/economie-entreprises/rencontre-avec-tony-elumelu-le-banquier-qui-a-une-strategie-electrique-pour-le-nigeria/)
 
