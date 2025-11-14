@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 06:15*
+*Generato: 14 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -50,8 +50,8 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Un nouvel aéroport en Tunisie ? Le ministre des Transports...](https://www.lapresse.tn/2025/11/13/un-nouvel-aeroport-en-tunisie-le-ministre-des-transports-fait-le-point/)
-- [Tunis-Carthage : 30 ans de prison pour un passeur intercepté...](https://www.lapresse.tn/2025/11/13/tunis-carthage-30-ans-de-prison-pour-un-passeur-intercepte-avec-33-capsules-de-cocaine/)
-- [639,9 millions de dinars d’investissements français en Tunisie sur neuf...](https://www.lapresse.tn/2025/11/13/6399-millions-de-dinars-dinvestissements-francais-en-tunisie-sur-neuf-mois/)
-- [Arrêt sur image : l’aventure commence… à l’arrière du camion](https://www.lapresse.tn/2025/11/13/arret-sur-image-laventure-commence-a-larriere-du-camion/)
+- [Trois bus scolaires attaqués dans le gouvernorat de Jendouba](https://www.lapresse.tn/2025/11/14/trois-bus-scolaires-attaques-dans-le-gouvernorat-de-jendouba/)
+- [Huile d’olive : vers un niveau d’échanges jamais atteint, selon...](https://www.lapresse.tn/2025/11/14/huile-dolive-vers-un-niveau-dechanges-jamais-atteint-selon-la-fao/)
+- [Bizerte : des mesures urgentes pour valoriser Ras Angela, point...](https://www.lapresse.tn/2025/11/14/978921/)
+- [Afrique : comment les corridors énergétiques peuvent-ils transformer le continent...](https://www.lapresse.tn/2025/11/14/afrique-comment-les-corridors-energetiques-peuvent-ils-transformer-le-continent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Aux frontières de la Côte d’Ivoire, un afflux « inhabituel » de réfugiés maliens](https://www.jeuneafrique.com/1740011/politique/aux-frontieres-de-la-cote-divoire-un-afflux-inhabituel-de-refugies-maliens/)
+- [Boualem Sansal va « plutôt bien » et espère arriver en France dans les prochaines heures](https://www.jeuneafrique.com/1739998/politique/boualem-sansal-va-plutot-bien-et-espere-arriver-en-france-dans-les-prochaines-heures/)
 - [Mali : Issa Kaou N’Djim remis en liberté après un an de prison pour « offense » envers Ibrahim Traoré](https://www.jeuneafrique.com/1739902/politique/mali-issa-kaou-ndjim-remis-en-liberte-apres-un-an-de-prison-pour-offense-envers-ibrahim-traore/)
+- [En Tanzanie, Samia Suluhu Hassan sous pression après la répression sanglante](https://www.jeuneafrique.com/1739821/politique/en-tanzanie-samia-suluhu-hassan-sous-pression-apres-la-repression-sanglante/)
 - [Tunisie : nouvelle mobilisation pour réclamer la fermeture du complexe de Gabès](https://www.jeuneafrique.com/1739842/politique/tunisie-nouvelle-mobilisation-pour-reclamer-la-fermeture-du-complexe-de-gabes/)
 - [Burkina Faso : une dizaine de hauts magistrats poursuivis pour corruption](https://www.jeuneafrique.com/1739784/politique/burkina-faso-une-dizaine-de-hauts-magistrats-poursuivis-pour-corruption/)
+- [En Côte d’Ivoire, Charles Blé Goudé et le pari de la « victoire reportée »](https://www.jeuneafrique.com/1739675/politique/en-cote-divoire-charles-ble-goude-et-le-pari-de-la-victoire-reportee/)
 - [Maroc-France : pourquoi Abdelilah Benkirane s’implique dans la défense d’un condamné de l’affaire Samuel Paty](https://www.jeuneafrique.com/1739661/politique/maroc-france-pourquoi-abdelilah-benkirane-simplique-dans-la-defense-dun-condamne-de-laffaire-samuel-paty/)
-- [Au Mali, les habitants de Loulouni fuient les combats entre jihadistes et dozos](https://www.jeuneafrique.com/1739672/politique/au-mali-les-habitants-de-loulouni-fuient-les-combats-entre-jihadistes-et-dozos/)
-- [Présidentielle en Guinée : les huit candidats qui tenteront de faire face à Mamadi Doumbouya](https://www.jeuneafrique.com/1739666/politique/presidentielle-en-guinee-les-huit-candidats-qui-tenteront-de-faire-face-a-mamadi-doumbouya/)
-- [Frontière tuniso-algérienne : le contentieux de la « borne 233 » refait surface après le vote à l’ONU sur le Sahara occidental](https://www.jeuneafrique.com/1738492/politique/frontiere-tuniso-algerienne-le-contentieux-de-la-borne-233-refait-surface-apres-le-vote-a-lonu-sur-le-sahara-occidental/)
-- [Donald Trump et les Obiang : coulisses d’une nouvelle idylle](https://www.jeuneafrique.com/1739496/politique/donald-trump-et-les-obiang-coulisses-dune-nouvelle-idylle/)
 - [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
-- [Tunnel Maroc-Espagne : un rêve de connexion qui résiste aux obstacles](https://www.jeuneafrique.com/1738450/economie-entreprises/tunnel-maroc-espagne-un-reve-de-connexion-qui-resiste-aux-obstacles/)
+- [Rencontre avec Tony Elumelu, le banquier qui a une stratégie électrique pour le Nigeria](https://www.jeuneafrique.com/1739524/economie-entreprises/rencontre-avec-tony-elumelu-le-banquier-qui-a-une-strategie-electrique-pour-le-nigeria/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
