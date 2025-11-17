@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Nov 2025, 15:11*
+*Generato: 17 Nov 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
 - [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
 - [2026 EU budget deal: EP boosts research, competitiveness and security](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31345/2026-eu-budget-deal-ep-boosts-research-competitiveness-and-security)
 - [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
@@ -91,7 +92,6 @@
 - [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
 - [Proxy voting rights for female MEPs before and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31294/proxy-voting-rights-for-female-meps-before-and-after-giving-birth)
 - [EU 2040 climate target: MEPs want 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31334/eu-2040-climate-target-meps-want-90-emissions-reduction-in-eu-climate-law)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31301/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Qui sont les Lakurawa qui sèment la terreur au Nigeria ?](https://www.jeuneafrique.com/1740578/politique/qui-sont-les-lakurawa-qui-sement-la-terreur-au-nigeria/)
 - [Incendies en Algérie : le président Tebboune ordonne une enquête](https://www.jeuneafrique.com/1740536/politique/incendies-en-algerie-le-president-tebboune-ordonne-une-enquete/)
+- [Mali : les jihadistes du Jnim peuvent-ils faire chuter Bamako ?](https://www.jeuneafrique.com/1739904/politique/au-mali-les-jihadistes-du-jnim-peuvent-il-faire-chuter-bamako/)
 - [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
 - [Ma El Aïnin et Ahmed al-Hiba : quand le Sahara se soulevait contre les puissances coloniales](https://www.jeuneafrique.com/1738971/politique/ma-el-ainin-et-ahmed-al-hiba-quand-le-sahara-se-soulevait-contre-les-puissances-coloniales/)
 - [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
 - [Plus de 1 400 Africains combattent pour la Russie en Ukraine : le Kenya tire la sonnette d’alarme](https://www.jeuneafrique.com/1740154/politique/plus-de-1-400-africains-combattent-pour-la-russie-en-ukraine-le-kenya-tire-la-sonnette-dalarme/)
 - [Est de la RDC : Kinshasa et l’AFC/M23 signent un accord-cadre mais doivent encore négocier la paix](https://www.jeuneafrique.com/1740469/politique/est-de-la-rdc-kinshasa-et-lafc-m23-signent-un-accord-cadre-mais-doivent-encore-negocier-la-paix/)
-- [Climat : à la COP30, l’Afrique entre ambitions, frustrations et cacophonie](https://www.jeuneafrique.com/1740091/politique/climat-a-la-cop30-lafrique-entre-ambitions-frustrations-et-cacophonie/)
-- [Législatives en Côte d’Ivoire : le PDCI de Tidjane Thiam plus divisé que jamais](https://www.jeuneafrique.com/1740251/politique/legislatives-en-cote-divoire-le-pdci-de-tidjane-thiam-plus-divise-que-jamais/)
-- [S&P revoit à la hausse la note de l’Afrique du Sud](https://www.jeuneafrique.com/1740491/economie-entreprises/sp-revoit-a-la-hausse-la-note-de-lafrique-du-sud/)
-- [Au Ghana, l’inflation retombe mais le soulagement est-il réel ?](https://www.jeuneafrique.com/1739841/economie-entreprises/au-ghana-linflation-retombe-mais-le-soulagement-est-il-reel/)
+- [Subventions, retards, rames HS… Le TER du Sénégal risque-t-il de ralentir ?](https://www.jeuneafrique.com/1736899/economie-entreprises/subventions-retards-rames-hs-le-ter-du-senegal-risque-t-il-de-ralentir/)
+- [Autour de Maxime Saada chez Canal+, une équipe loyale qui fait du groupe un géant africain de l’audiovisuel](https://www.jeuneafrique.com/1740230/economie-entreprises/autour-de-maxime-saada-chez-canal-une-equipe-loyale-qui-fait-du-groupe-un-geant-africain-de-laudiovisuel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
