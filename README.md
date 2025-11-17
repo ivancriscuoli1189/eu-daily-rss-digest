@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Nov 2025, 11:02*
+*Generato: 17 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.secure.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.secure.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
 - [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
 - [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
@@ -286,4 +287,3 @@
 - [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
 - [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
 - [Le parole di Giuseppe Ungaretti](https://www.limesonline.com/rubriche/mappe-parlanti/le-parole-di-giuseppe-ungaretti-19964496/)
-- [La Turchia in Africa](https://www.limesonline.com/rubriche/mappe-parlanti/la-turchia-in-africa-19743364/)
