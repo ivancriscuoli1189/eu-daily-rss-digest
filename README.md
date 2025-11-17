@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Nov 2025, 06:16*
+*Generato: 17 Nov 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
-- [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
-- [Thailand: One year on, still no statute of limitations reform in Tak Bai massacre case](https://www.icj.org/thailand-one-year-on-still-no-statute-of-limitations-reform-in-tak-bai-massacre-case/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -267,11 +267,11 @@
 - [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
 - [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
 - [Plus de 1 400 Africains combattent pour la Russie en Ukraine : le Kenya tire la sonnette d’alarme](https://www.jeuneafrique.com/1740154/politique/plus-de-1-400-africains-combattent-pour-la-russie-en-ukraine-le-kenya-tire-la-sonnette-dalarme/)
+- [Est de la RDC : Kinshasa et l’AFC/M23 signent un accord-cadre mais doivent encore négocier la paix](https://www.jeuneafrique.com/1740469/politique/est-de-la-rdc-kinshasa-et-lafc-m23-signent-un-accord-cadre-mais-doivent-encore-negocier-la-paix/)
 - [Climat : à la COP30, l’Afrique entre ambitions, frustrations et cacophonie](https://www.jeuneafrique.com/1740091/politique/climat-a-la-cop30-lafrique-entre-ambitions-frustrations-et-cacophonie/)
 - [Législatives en Côte d’Ivoire : le PDCI de Tidjane Thiam plus divisé que jamais](https://www.jeuneafrique.com/1740251/politique/legislatives-en-cote-divoire-le-pdci-de-tidjane-thiam-plus-divise-que-jamais/)
 - [Trafic de carburant en Libye : une enquête américaine en décortique le mécanisme, entre contrebande, pipelines clandestins et prédation](https://www.jeuneafrique.com/1739876/politique/trafic-de-carburant-en-libye-une-enquete-americaine-en-decortique-le-mecanisme-entre-contrebande-pipelines-clandestins-et-predation/)
 - [Le Mali suspend les chaînes françaises LCI et TF1](https://www.jeuneafrique.com/1740449/politique/le-mali-suspend-les-chaines-francaises-lci-et-tf1/)
-- [Révision constitutionnelle au Bénin : le mandat présidentiel porté à sept ans](https://www.jeuneafrique.com/1740441/politique/revision-constitutionnelle-au-benin-le-mandat-presidentiel-porte-a-sept-ans/)
 - [S&P revoit à la hausse la note de l’Afrique du Sud](https://www.jeuneafrique.com/1740491/economie-entreprises/sp-revoit-a-la-hausse-la-note-de-lafrique-du-sud/)
 - [Au Ghana, l’inflation retombe mais le soulagement est-il réel ?](https://www.jeuneafrique.com/1739841/economie-entreprises/au-ghana-linflation-retombe-mais-le-soulagement-est-il-reel/)
 
