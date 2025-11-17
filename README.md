@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Nov 2025, 09:14*
+*Generato: 17 Nov 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Incendies en Algérie : le président Tebboune ordonne une enquête](https://www.jeuneafrique.com/1740536/politique/incendies-en-algerie-le-president-tebboune-ordonne-une-enquete/)
 - [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
+- [Ma El Aïnin et Ahmed al-Hiba : quand le Sahara se soulevait contre les puissances coloniales](https://www.jeuneafrique.com/1738971/politique/ma-el-ainin-et-ahmed-al-hiba-quand-le-sahara-se-soulevait-contre-les-puissances-coloniales/)
 - [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
 - [Plus de 1 400 Africains combattent pour la Russie en Ukraine : le Kenya tire la sonnette d’alarme](https://www.jeuneafrique.com/1740154/politique/plus-de-1-400-africains-combattent-pour-la-russie-en-ukraine-le-kenya-tire-la-sonnette-dalarme/)
 - [Est de la RDC : Kinshasa et l’AFC/M23 signent un accord-cadre mais doivent encore négocier la paix](https://www.jeuneafrique.com/1740469/politique/est-de-la-rdc-kinshasa-et-lafc-m23-signent-un-accord-cadre-mais-doivent-encore-negocier-la-paix/)
 - [Climat : à la COP30, l’Afrique entre ambitions, frustrations et cacophonie](https://www.jeuneafrique.com/1740091/politique/climat-a-la-cop30-lafrique-entre-ambitions-frustrations-et-cacophonie/)
 - [Législatives en Côte d’Ivoire : le PDCI de Tidjane Thiam plus divisé que jamais](https://www.jeuneafrique.com/1740251/politique/legislatives-en-cote-divoire-le-pdci-de-tidjane-thiam-plus-divise-que-jamais/)
-- [Trafic de carburant en Libye : une enquête américaine en décortique le mécanisme, entre contrebande, pipelines clandestins et prédation](https://www.jeuneafrique.com/1739876/politique/trafic-de-carburant-en-libye-une-enquete-americaine-en-decortique-le-mecanisme-entre-contrebande-pipelines-clandestins-et-predation/)
-- [Le Mali suspend les chaînes françaises LCI et TF1](https://www.jeuneafrique.com/1740449/politique/le-mali-suspend-les-chaines-francaises-lci-et-tf1/)
 - [S&P revoit à la hausse la note de l’Afrique du Sud](https://www.jeuneafrique.com/1740491/economie-entreprises/sp-revoit-a-la-hausse-la-note-de-lafrique-du-sud/)
 - [Au Ghana, l’inflation retombe mais le soulagement est-il réel ?](https://www.jeuneafrique.com/1739841/economie-entreprises/au-ghana-linflation-retombe-mais-le-soulagement-est-il-reel/)
 
