@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Nov 2025, 21:02*
+*Generato: 17 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -51,8 +53,6 @@
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 - [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Juillet 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-juillet-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [2026 EU budget deal: EP boosts research, competitiveness and security](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31345/2026-eu-budget-deal-ep-boosts-research-competitiveness-and-security)
 - [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
 - [Sustainability reporting and due diligence: MEPs back simplification changes](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31296/sustainability-reporting-and-due-diligence-meps-back-simplification-changes)
 - [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
@@ -91,7 +92,6 @@
 - [EU 2040 climate target: MEPs want 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31334/eu-2040-climate-target-meps-want-90-emissions-reduction-in-eu-climate-law)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31301/ep-today)
 - [EP President Roberta Metsola commemorates victims of 2015 Paris attacks](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31290/ep-president-roberta-metsola-commemorates-victims-of-2015-paris-attacks)
-- [Proxy voting for maternity reasons: press point with the President and rapporteur (Thursday 12.30 CET)](https://www.europarl.europa.eu/news/en/press-room/20251111IPR31361/proxy-voting-for-maternity-press-point-with-the-president-and-rapporteur)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -179,10 +179,10 @@
 - [Culture](https://lapresse.tn/culture/)
 - [Sport](https://lapresse.tn/sport/)
 - [International](https://lapresse.tn/International)
-- [Au fait du jour : Le ver est dans le...](https://www.lapresse.tn/2025/11/14/au-fait-du-jour-le-ver-est-dans-le-fruit/)
-- [Conférence de presse – Journées Théâtrales de Carthage 2025 :...](https://www.lapresse.tn/2025/11/14/conference-de-presse-journees-theatrales-de-carthage-2025-le-theatre-le-coeur-battant-de-la-rue/)
-- [Le Roi Lear ouvre la 26e édition des Journées Théâtrales...](https://www.lapresse.tn/2025/11/14/le-roi-lear-ouvre-la-26e-edition-des-journees-theatrales-de-carthage-une-oeuvre-intemporelle/)
-- [Malek Abidi signe : La Table du Sud Un...](https://www.lapresse.tn/2025/11/14/malek-abidi-signe-la-table-du-sud-un-voyage-culinaire-au-coeur-du-patrimoine-du-sud-tunisien/)
+- [Tunisie – Brésil : un match amical attendu à Lille...](https://www.lapresse.tn/2025/11/16/tunisie-bresil-un-match-amical-attendu-a-lille-mardi-soir/)
+- [L’INSSPA saisit 68 tonnes de produits alimentaires et ferme plusieurs...](https://www.lapresse.tn/2025/11/16/linsspa-saisit-68-tonnes-de-produits-alimentaires-et-ferme-plusieurs-commerces/)
+- [Pain sans sel : quand les Tunisiens changent leurs habitudes...](https://www.lapresse.tn/2025/11/16/pain-sans-sel-quand-les-tunisiens-changent-leurs-habitudes-alimentaires/)
+- [La Tunisie s’impose dans la douleur face à la Jordanie...](https://www.lapresse.tn/2025/11/16/la-tunisie-simpose-dans-la-douleur-face-a-la-jordanie-ils-soufflent-le-chaud-et-le-froid/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Présidentielle en Centrafrique : sept candidats retenus, dont le président Touadéra](https://www.jeuneafrique.com/1740357/politique/presidentielle-en-centrafrique-sept-candidats-retenus-dont-le-president-touadera/)
-- [Donald Trump absent du G20 en Afrique du Sud ? « Tant pis », rétorque Cyril Ramaphosa](https://www.jeuneafrique.com/1740138/politique/donald-trump-absent-du-g20-en-afrique-du-sud-tant-pis-retorque-cyril-ramaphosa/)
-- [Présidentielle au Bénin : Romuald Wadagni n’aura qu’un seul adversaire](https://www.jeuneafrique.com/1740066/politique/presidentielle-au-benin-romuald-wadagni-naura-quun-seul-adversaire/)
-- [Centrafrique : la Minusca prolongée d’une année, malgré les réticences de l’administration Trump](https://www.jeuneafrique.com/1740023/politique/centrafrique-la-minusca-prolongee-dune-annee-malgre-les-reticences-de-trump/)
-- [Au Mali, les généraux Dembélé et Sagara inculpés pour « tentative de déstabilisation »](https://www.jeuneafrique.com/1740016/politique/au-mali-les-generaux-dembele-et-sagara-inculpes-pour-tentative-de-destabilisation/)
-- [Aux frontières de la Côte d’Ivoire, un afflux « inhabituel » de réfugiés maliens](https://www.jeuneafrique.com/1740011/politique/aux-frontieres-de-la-cote-divoire-un-afflux-inhabituel-de-refugies-maliens/)
-- [Boualem Sansal va « plutôt bien » et espère arriver en France dans les prochaines heures](https://www.jeuneafrique.com/1739998/politique/boualem-sansal-va-plutot-bien-et-espere-arriver-en-france-dans-les-prochaines-heures/)
-- [« Touadéra a fait de moi un apatride » : pourquoi l’opposant centrafricain Anicet-Georges Dologuélé saisit l’ONU](https://www.jeuneafrique.com/1739881/politique/touadera-a-fait-de-moi-un-apatride-pourquoi-lopposant-centrafricain-anicet-georges-dologuele-saisit-lonu/)
-- [Pourquoi les marchés sanctionnent la destination Sénégal](https://www.jeuneafrique.com/1739760/economie-entreprises/pourquoi-les-marches-sanctionnent-la-destination-senegal/)
-- [Hassanein Hiridjee (Axian) : « Sur l’intelligence artificielle, l’Afrique n’a plus le droit de perdre du temps »](https://www.jeuneafrique.com/1739722/economie-entreprises/hassanein-hiridjee-axian-sur-lintelligence-artificielle-lafrique-na-plus-le-droit-de-perdre-du-temps/)
+- [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
+- [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
+- [Plus de 1 400 Africains combattent pour la Russie en Ukraine : le Kenya tire la sonnette d’alarme](https://www.jeuneafrique.com/1740154/politique/plus-de-1-400-africains-combattent-pour-la-russie-en-ukraine-le-kenya-tire-la-sonnette-dalarme/)
+- [Climat : à la COP30, l’Afrique entre ambitions, frustrations et cacophonie](https://www.jeuneafrique.com/1740091/politique/climat-a-la-cop30-lafrique-entre-ambitions-frustrations-et-cacophonie/)
+- [Législatives en Côte d’Ivoire : le PDCI de Tidjane Thiam plus divisé que jamais](https://www.jeuneafrique.com/1740251/politique/legislatives-en-cote-divoire-le-pdci-de-tidjane-thiam-plus-divise-que-jamais/)
+- [Trafic de carburant en Libye : une enquête américaine en décortique le mécanisme, entre contrebande, pipelines clandestins et prédation](https://www.jeuneafrique.com/1739876/politique/trafic-de-carburant-en-libye-une-enquete-americaine-en-decortique-le-mecanisme-entre-contrebande-pipelines-clandestins-et-predation/)
+- [Le Mali suspend les chaînes françaises LCI et TF1](https://www.jeuneafrique.com/1740449/politique/le-mali-suspend-les-chaines-francaises-lci-et-tf1/)
+- [Révision constitutionnelle au Bénin : le mandat présidentiel porté à sept ans](https://www.jeuneafrique.com/1740441/politique/revision-constitutionnelle-au-benin-le-mandat-presidentiel-porte-a-sept-ans/)
+- [S&P revoit à la hausse la note de l’Afrique du Sud](https://www.jeuneafrique.com/1740491/economie-entreprises/sp-revoit-a-la-hausse-la-note-de-lafrique-du-sud/)
+- [Au Ghana, l’inflation retombe mais le soulagement est-il réel ?](https://www.jeuneafrique.com/1739841/economie-entreprises/au-ghana-linflation-retombe-mais-le-soulagement-est-il-reel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
