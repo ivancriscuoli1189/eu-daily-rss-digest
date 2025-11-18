@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Nov 2025, 12:18*
+*Generato: 18 Nov 2025, 13:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,19 +223,6 @@
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 
-## THINK TANK – ECFR – MENA
-
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
-- [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
-- [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -249,22 +236,9 @@
 - [Network](https://www.cespi.it/it/chi-siamo/network)
 - [Partner](https://www.cespi.it/it/chi-siamo/partner)
 
-## THINK TANK – Brookings – Middle East – Articles
-
-- [Experts](https://www.brookings.edu/experts/)
-- [Events](https://www.brookings.edu/events/)
-- [Research Programs](https://www.brookings.edu/research-programs/)
-- [Research & Commentary](https://www.brookings.edu/research-commentary/)
-- [Newsletters](https://www.brookings.edu/newsletters/)
-- [For Media](https://www.brookings.edu/for-media/)
-- [About Us](https://www.brookings.edu/about-us/)
-- [Leadership](https://www.brookings.edu/about-us/leadership/)
-- [Careers](https://www.brookings.edu/careers/)
-- [Our Commitments](https://www.brookings.edu/about-us/#commitments)
-
 ## MAGAZINES – Jeune Afrique
 
-- [Au Bénin, une réforme « taillée sur mesure » ? Cinq questions pour comprendre la révision de la Constitution](https://www.jeuneafrique.com/1740967/politique/au-benin-une-reforme-taillee-sur-mesure-cinq-questions-pour-comprendre-la-revision-de-la-constitution/)
+- [Ismaïl Omar Guelleh, candidat au long cours](https://www.jeuneafrique.com/1740315/politique/ismail-omar-guelleh-candidat-au-long-cours/)
 - [RDC : Tshisekedi, Bemba, Kabila… Les mille et une relations de Roger Lumbala](https://www.jeuneafrique.com/1740213/politique/rdc-tshisekedi-bemba-kabila-les-mille-et-unes-relations-de-roger-lumbala/)
 - [Au Gabon, Régis Onanga Ndiaye élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1740883/politique/au-gabon-regis-onanga-ndiaye-elu-president-de-lassemblee-nationale/)
 - [Qui sont les Lakurawa qui sèment la terreur au Nigeria ?](https://www.jeuneafrique.com/1740578/politique/qui-sont-les-lakurawa-qui-sement-la-terreur-au-nigeria/)
