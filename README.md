@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Nov 2025, 21:09*
+*Generato: 18 Nov 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, jusqu’où ira Paul Atanga Nji, l’homme fort proclamé du régime Biya ?](https://www.jeuneafrique.com/1740828/politique/au-cameroun-jusquou-ira-paul-atanga-nji-lhomme-fort-proclame-du-regime-biya/)
 - [Qui sont les Lakurawa qui sèment la terreur au Nigeria ?](https://www.jeuneafrique.com/1740578/politique/qui-sont-les-lakurawa-qui-sement-la-terreur-au-nigeria/)
 - [Le Sahara, nouvelle priorité stratégique de Washington ?](https://www.jeuneafrique.com/1740528/politique/le-sahara-nouvelle-priorite-strategique-de-washington/)
 - [Incendies en Algérie : le président Tebboune ordonne une enquête](https://www.jeuneafrique.com/1740536/politique/incendies-en-algerie-le-president-tebboune-ordonne-une-enquete/)
@@ -271,7 +272,6 @@
 - [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
 - [Ma El Aïnin et Ahmed al-Hiba : quand le Sahara se soulevait contre les puissances coloniales](https://www.jeuneafrique.com/1738971/politique/ma-el-ainin-et-ahmed-al-hiba-quand-le-sahara-se-soulevait-contre-les-puissances-coloniales/)
 - [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
-- [Plus de 1 400 Africains combattent pour la Russie en Ukraine : le Kenya tire la sonnette d’alarme](https://www.jeuneafrique.com/1740154/politique/plus-de-1-400-africains-combattent-pour-la-russie-en-ukraine-le-kenya-tire-la-sonnette-dalarme/)
 - [Subventions, retards, rames HS… Le TER du Sénégal risque-t-il de ralentir ?](https://www.jeuneafrique.com/1736899/economie-entreprises/subventions-retards-rames-hs-le-ter-du-senegal-risque-t-il-de-ralentir/)
 - [Autour de Maxime Saada chez Canal+, une équipe loyale qui fait du groupe un géant africain de l’audiovisuel](https://www.jeuneafrique.com/1740230/economie-entreprises/autour-de-maxime-saada-chez-canal-une-equipe-loyale-qui-fait-du-groupe-un-geant-africain-de-laudiovisuel/)
 
