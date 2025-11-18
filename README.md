@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Nov 2025, 13:26*
+*Generato: 18 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
 - [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
 - [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
 - [2026 EU budget deal: EP boosts research, competitiveness and security](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31345/2026-eu-budget-deal-ep-boosts-research-competitiveness-and-security)
@@ -91,7 +92,6 @@
 - [EU aid for Spain and France to help with recent natural disasters](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31292/eu-aid-for-spain-and-france-to-help-with-recent-natural-disasters)
 - [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
 - [Proxy voting rights for female MEPs before and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31294/proxy-voting-rights-for-female-meps-before-and-after-giving-birth)
-- [EU 2040 climate target: MEPs want 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31334/eu-2040-climate-target-meps-want-90-emissions-reduction-in-eu-climate-law)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -223,6 +223,19 @@
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 - [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 
+## THINK TANK – ECFR – MENA
+
+- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
+- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
+- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
+- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
+- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
+- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
+- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
+- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
+- [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
+- [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -236,16 +249,29 @@
 - [Network](https://www.cespi.it/it/chi-siamo/network)
 - [Partner](https://www.cespi.it/it/chi-siamo/partner)
 
+## THINK TANK – Brookings – Middle East – Articles
+
+- [Experts](https://www.brookings.edu/experts/)
+- [Events](https://www.brookings.edu/events/)
+- [Research Programs](https://www.brookings.edu/research-programs/)
+- [Research & Commentary](https://www.brookings.edu/research-commentary/)
+- [Newsletters](https://www.brookings.edu/newsletters/)
+- [For Media](https://www.brookings.edu/for-media/)
+- [About Us](https://www.brookings.edu/about-us/)
+- [Leadership](https://www.brookings.edu/about-us/leadership/)
+- [Careers](https://www.brookings.edu/careers/)
+- [Our Commitments](https://www.brookings.edu/about-us/#commitments)
+
 ## MAGAZINES – Jeune Afrique
 
+- [L’écrivain franco-algérien Boualem Sansal est de retour en France](https://www.jeuneafrique.com/1741181/politique/lecrivain-franco-algerien-boualem-sansal-est-de-retour-en-france/)
 - [Ismaïl Omar Guelleh, candidat au long cours](https://www.jeuneafrique.com/1740315/politique/ismail-omar-guelleh-candidat-au-long-cours/)
 - [RDC : Tshisekedi, Bemba, Kabila… Les mille et une relations de Roger Lumbala](https://www.jeuneafrique.com/1740213/politique/rdc-tshisekedi-bemba-kabila-les-mille-et-unes-relations-de-roger-lumbala/)
+- [Au procès de la « Young Team », les seconds couteaux du régime Bongo sur le gril](https://www.jeuneafrique.com/1740630/politique/au-proces-de-la-young-team-les-seconds-couteaux-du-regime-bongo-sur-le-gril/)
+- [« On remplace l’huile par l’eau » : la Centrafrique, victime collatérale de la crise au Cameroun](https://www.jeuneafrique.com/1740562/politique/on-remplace-lhuile-par-leau-la-centrafrique-victime-collaterale-de-la-crise-au-cameroun/)
 - [Au Gabon, Régis Onanga Ndiaye élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1740883/politique/au-gabon-regis-onanga-ndiaye-elu-president-de-lassemblee-nationale/)
 - [Qui sont les Lakurawa qui sèment la terreur au Nigeria ?](https://www.jeuneafrique.com/1740578/politique/qui-sont-les-lakurawa-qui-sement-la-terreur-au-nigeria/)
 - [Boualem Sansal : retour sur un jeu compliqué entre Alger, Paris et Berlin](https://www.jeuneafrique.com/1740659/politique/boualem-sansal-retour-sur-un-jeu-complique-entre-alger-paris-et-berlin/)
-- [Au Burkina Faso, des brigades civiques pour éradiquer la mendicité](https://www.jeuneafrique.com/1740732/politique/le-burkina-faso-met-en-place-des-brigades-civiques-pour-eradiquer-la-mendicite/)
-- [Le Sahara, nouvelle priorité stratégique de Washington ?](https://www.jeuneafrique.com/1740528/politique/le-sahara-nouvelle-priorite-strategique-de-washington/)
-- [Incendies en Algérie : le président Tebboune ordonne une enquête](https://www.jeuneafrique.com/1740536/politique/incendies-en-algerie-le-president-tebboune-ordonne-une-enquete/)
 - [Mustafa Rawji (Rawbank) : « La RDC est au cœur des chaînes de valeur mondiales »](https://www.jeuneafrique.com/1740770/economie-entreprises/mustafa-rawji-rawbank-la-rdc-est-au-coeur-des-chaines-de-valeur-mondiales/)
 - [Subventions, retards, rames HS… Le TER du Sénégal risque-t-il de ralentir ?](https://www.jeuneafrique.com/1736899/economie-entreprises/subventions-retards-rames-hs-le-ter-du-senegal-risque-t-il-de-ralentir/)
 
