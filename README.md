@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Nov 2025, 06:15*
+*Generato: 18 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, jusqu’où ira Paul Atanga Nji, l’homme fort proclamé du régime Biya ?](https://www.jeuneafrique.com/1740828/politique/au-cameroun-jusquou-ira-paul-atanga-nji-lhomme-fort-proclame-du-regime-biya/)
+- [Au Gabon, Régis Onanga Ndiaye élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1740883/politique/au-gabon-regis-onanga-ndiaye-elu-president-de-lassemblee-nationale/)
 - [Qui sont les Lakurawa qui sèment la terreur au Nigeria ?](https://www.jeuneafrique.com/1740578/politique/qui-sont-les-lakurawa-qui-sement-la-terreur-au-nigeria/)
+- [Boualem Sansal : retour sur un jeu compliqué entre Alger, Paris et Berlin](https://www.jeuneafrique.com/1740659/politique/boualem-sansal-retour-sur-un-jeu-complique-entre-alger-paris-et-berlin/)
+- [Au Burkina Faso, des brigades civiques pour éradiquer la mendicité](https://www.jeuneafrique.com/1740732/politique/le-burkina-faso-met-en-place-des-brigades-civiques-pour-eradiquer-la-mendicite/)
 - [Le Sahara, nouvelle priorité stratégique de Washington ?](https://www.jeuneafrique.com/1740528/politique/le-sahara-nouvelle-priorite-strategique-de-washington/)
 - [Incendies en Algérie : le président Tebboune ordonne une enquête](https://www.jeuneafrique.com/1740536/politique/incendies-en-algerie-le-president-tebboune-ordonne-une-enquete/)
 - [Mali : les jihadistes du Jnim peuvent-ils faire chuter Bamako ?](https://www.jeuneafrique.com/1739904/politique/au-mali-les-jihadistes-du-jnim-peuvent-il-faire-chuter-bamako/)
 - [Est de la RDC : plus de 18 personnes tuées par des rebelles ADF](https://www.jeuneafrique.com/1740509/politique/est-de-la-rdc-plus-de-18-personnes-tuees-par-des-rebelles-adf/)
-- [Ma El Aïnin et Ahmed al-Hiba : quand le Sahara se soulevait contre les puissances coloniales](https://www.jeuneafrique.com/1738971/politique/ma-el-ainin-et-ahmed-al-hiba-quand-le-sahara-se-soulevait-contre-les-puissances-coloniales/)
-- [Soudan : l’émissaire de Trump pour l’Afrique dénonce des « atrocités inacceptables »](https://www.jeuneafrique.com/1740500/politique/soudan-lemissaire-de-trump-pour-lafrique-denonce-des-atrocites-inacceptables/)
+- [Mustafa Rawji (Rawbank) : « La RDC est au cœur des chaînes de valeur mondiales »](https://www.jeuneafrique.com/1740770/economie-entreprises/mustafa-rawji-rawbank-la-rdc-est-au-coeur-des-chaines-de-valeur-mondiales/)
 - [Subventions, retards, rames HS… Le TER du Sénégal risque-t-il de ralentir ?](https://www.jeuneafrique.com/1736899/economie-entreprises/subventions-retards-rames-hs-le-ter-du-senegal-risque-t-il-de-ralentir/)
-- [Autour de Maxime Saada chez Canal+, une équipe loyale qui fait du groupe un géant africain de l’audiovisuel](https://www.jeuneafrique.com/1740230/economie-entreprises/autour-de-maxime-saada-chez-canal-une-equipe-loyale-qui-fait-du-groupe-un-geant-africain-de-laudiovisuel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
