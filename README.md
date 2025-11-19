@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Nov 2025, 15:11*
+*Generato: 19 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course 18 November 2025, Tashkent](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
 - [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
-- [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 - [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
 - [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
-- [Uzbekistan: Briefing paper on strengthening the domestic implementation of Human Rights Committee Views](https://www.icj.org/uzbekistan-briefing-paper-on-strengthening-the-domestic-implementation-of-human-rights-committee-views/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Tchad, les ambitions (économiques) XXL de Mahamat Idriss Déby Itno](https://www.jeuneafrique.com/1741543/politique/au-tchad-les-ambitions-economiques-xxl-de-mahamat-idriss-deby-itno/)
+- [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
 - [Sahara occidental : Alger prête à soutenir « toute médiation » entre le Polisario et Rabat](https://www.jeuneafrique.com/1741454/politique/sahara-occidental-alger-prete-a-soutenir-toute-mediation-entre-le-polisario-et-rabat/)
 - [« Au Maroc, le vrai risque c’est l’écart entre l’ambition et la capacité à la réaliser »](https://www.jeuneafrique.com/1741041/politique/au-maroc-le-vrai-risque-cest-lecart-entre-lambition-et-la-capacite-a-la-realiser/)
 - [Est de la RDC : pourquoi l’accord-cadre de Doha n’a rien changé sur le terrain](https://www.jeuneafrique.com/1740972/politique/est-de-la-rdc-pourquoi-laccord-cadre-de-doha-na-rien-change-sur-le-terrain/)
 - [Enlèvement de lycéennes au Nigeria : l’émotion sélective des conservateurs américains](https://www.jeuneafrique.com/1741248/politique/enlevement-de-lyceennes-au-nigeria-lemotion-selective-des-conservateurs-americains/)
 - [Au Niger, le général Tiani en tournée pour consolider son pouvoir](https://www.jeuneafrique.com/1741230/politique/au-niger-le-general-tiani-en-tournee-pour-consolider-son-pouvoir/)
 - [Afrique du Sud : la perplexité des autorités après l’arrivée de centaines de Gazaouis](https://www.jeuneafrique.com/1741065/politique/afrique-du-sud-la-perplexite-des-autorites-apres-larrivee-de-centaines-de-gazaouis/)
-- [L’écrivain franco-algérien Boualem Sansal est de retour en France](https://www.jeuneafrique.com/1741181/politique/lecrivain-franco-algerien-boualem-sansal-est-de-retour-en-france/)
-- [Au Gabon, la « Young Team » de l’ère Bongo écope de lourdes peines](https://www.jeuneafrique.com/1741112/politique/au-gabon-la-young-team-de-lere-bongo-ecope-de-lourdes-peines/)
+- [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
 - [Hôtellerie : qui est le nouveau partenaire émirati d’Accor en Afrique ?](https://www.jeuneafrique.com/1741019/economie-entreprises/hotels-qui-est-le-nouveau-partenaire-emirati-daccor-en-afrique/)
-- [La vente de l’or du FMI, solution miracle au problème de la dette de l’Afrique ?](https://www.jeuneafrique.com/1741391/economie-entreprises/la-vente-de-lor-du-fmi-solution-miracle-au-probleme-de-la-dette-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
