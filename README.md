@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Nov 2025, 13:26*
+*Generato: 19 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Sahara occidental : Alger prête à soutenir « toute médiation » entre le Polisario et Rabat](https://www.jeuneafrique.com/1741454/politique/sahara-occidental-alger-prete-a-soutenir-toute-mediation-entre-le-polisario-et-rabat/)
+- [« Au Maroc, le vrai risque c’est l’écart entre l’ambition et la capacité à la réaliser »](https://www.jeuneafrique.com/1741041/politique/au-maroc-le-vrai-risque-cest-lecart-entre-lambition-et-la-capacite-a-la-realiser/)
 - [Est de la RDC : pourquoi l’accord-cadre de Doha n’a rien changé sur le terrain](https://www.jeuneafrique.com/1740972/politique/est-de-la-rdc-pourquoi-laccord-cadre-de-doha-na-rien-change-sur-le-terrain/)
 - [Enlèvement de lycéennes au Nigeria : l’émotion sélective des conservateurs américains](https://www.jeuneafrique.com/1741248/politique/enlevement-de-lyceennes-au-nigeria-lemotion-selective-des-conservateurs-americains/)
 - [Au Niger, le général Tiani en tournée pour consolider son pouvoir](https://www.jeuneafrique.com/1741230/politique/au-niger-le-general-tiani-en-tournee-pour-consolider-son-pouvoir/)
 - [Afrique du Sud : la perplexité des autorités après l’arrivée de centaines de Gazaouis](https://www.jeuneafrique.com/1741065/politique/afrique-du-sud-la-perplexite-des-autorites-apres-larrivee-de-centaines-de-gazaouis/)
 - [L’écrivain franco-algérien Boualem Sansal est de retour en France](https://www.jeuneafrique.com/1741181/politique/lecrivain-franco-algerien-boualem-sansal-est-de-retour-en-france/)
 - [Au Gabon, la « Young Team » de l’ère Bongo écope de lourdes peines](https://www.jeuneafrique.com/1741112/politique/au-gabon-la-young-team-de-lere-bongo-ecope-de-lourdes-peines/)
-- [En Libye, le camp Haftar annonce la création d’une force conjointe avec l’armée tchadienne](https://www.jeuneafrique.com/1740974/politique/en-libye-le-camp-haftar-annonce-la-creation-dune-force-conjointe-avec-larmee-tchadienne/)
 - [Hôtellerie : qui est le nouveau partenaire émirati d’Accor en Afrique ?](https://www.jeuneafrique.com/1741019/economie-entreprises/hotels-qui-est-le-nouveau-partenaire-emirati-daccor-en-afrique/)
 - [La vente de l’or du FMI, solution miracle au problème de la dette de l’Afrique ?](https://www.jeuneafrique.com/1741391/economie-entreprises/la-vente-de-lor-du-fmi-solution-miracle-au-probleme-de-la-dette-de-lafrique/)
 
