@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Nov 2025, 18:14*
+*Generato: 19 Nov 2025, 21:08*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -268,10 +268,10 @@
 - [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
 - [Sahara occidental : Alger prête à soutenir « toute médiation » entre le Polisario et Rabat](https://www.jeuneafrique.com/1741454/politique/sahara-occidental-alger-prete-a-soutenir-toute-mediation-entre-le-polisario-et-rabat/)
 - [« Au Maroc, le vrai risque c’est l’écart entre l’ambition et la capacité à la réaliser »](https://www.jeuneafrique.com/1741041/politique/au-maroc-le-vrai-risque-cest-lecart-entre-lambition-et-la-capacite-a-la-realiser/)
+- [Crise au Cameroun : Alice Nkom, matriarche de l’opposition et nouvelle voix d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1741233/politique/crise-au-cameroun-alice-nkom-matriarche-de-lopposition-et-nouvelle-voix-dissa-tchiroma-bakary/)
 - [Est de la RDC : pourquoi l’accord-cadre de Doha n’a rien changé sur le terrain](https://www.jeuneafrique.com/1740972/politique/est-de-la-rdc-pourquoi-laccord-cadre-de-doha-na-rien-change-sur-le-terrain/)
 - [Enlèvement de lycéennes au Nigeria : l’émotion sélective des conservateurs américains](https://www.jeuneafrique.com/1741248/politique/enlevement-de-lyceennes-au-nigeria-lemotion-selective-des-conservateurs-americains/)
 - [Au Niger, le général Tiani en tournée pour consolider son pouvoir](https://www.jeuneafrique.com/1741230/politique/au-niger-le-general-tiani-en-tournee-pour-consolider-son-pouvoir/)
-- [Afrique du Sud : la perplexité des autorités après l’arrivée de centaines de Gazaouis](https://www.jeuneafrique.com/1741065/politique/afrique-du-sud-la-perplexite-des-autorites-apres-larrivee-de-centaines-de-gazaouis/)
 - [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
 - [Hôtellerie : qui est le nouveau partenaire émirati d’Accor en Afrique ?](https://www.jeuneafrique.com/1741019/economie-entreprises/hotels-qui-est-le-nouveau-partenaire-emirati-daccor-en-afrique/)
 
