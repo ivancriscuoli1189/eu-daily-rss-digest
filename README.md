@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Nov 2025, 18:14*
+*Generato: 19 Nov 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise au Cameroun : Alice Nkom, matriarche de l’opposition et nouvelle voix d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1741233/politique/crise-au-cameroun-alice-nkom-matriarche-de-lopposition-et-nouvelle-voix-dissa-tchiroma-bakary/)
 - [Enlèvement de lycéennes au Nigeria : l’émotion sélective des conservateurs américains](https://www.jeuneafrique.com/1741248/politique/enlevement-de-lyceennes-au-nigeria-lemotion-selective-des-conservateurs-americains/)
 - [Au Niger, le général Tiani en tournée pour consolider son pouvoir](https://www.jeuneafrique.com/1741230/politique/au-niger-le-general-tiani-en-tournee-pour-consolider-son-pouvoir/)
 - [Afrique du Sud : la perplexité des autorités après l’arrivée de centaines de Gazaouis](https://www.jeuneafrique.com/1741065/politique/afrique-du-sud-la-perplexite-des-autorites-apres-larrivee-de-centaines-de-gazaouis/)
@@ -271,9 +272,8 @@
 - [En Libye, le camp Haftar annonce la création d’une force conjointe avec l’armée tchadienne](https://www.jeuneafrique.com/1740974/politique/en-libye-le-camp-haftar-annonce-la-creation-dune-force-conjointe-avec-larmee-tchadienne/)
 - [Ismaïl Omar Guelleh, candidat au long cours](https://www.jeuneafrique.com/1740315/politique/ismail-omar-guelleh-candidat-au-long-cours/)
 - [RDC : Tshisekedi, Bemba, Kabila… Les mille et une relations de Roger Lumbala](https://www.jeuneafrique.com/1740213/politique/rdc-tshisekedi-bemba-kabila-les-mille-et-unes-relations-de-roger-lumbala/)
-- [Au procès de la « Young Team », les seconds couteaux du régime Bongo sur le gril](https://www.jeuneafrique.com/1740630/politique/au-proces-de-la-young-team-les-seconds-couteaux-du-regime-bongo-sur-le-gril/)
 - [La vente de l’or du FMI, solution miracle au problème de la dette de l’Afrique ?](https://www.jeuneafrique.com/1741391/economie-entreprises/la-vente-de-lor-du-fmi-solution-miracle-au-probleme-de-la-dette-de-lafrique/)
-- [Mustafa Rawji (Rawbank) : « La RDC est au cœur des chaînes de valeur mondiales »](https://www.jeuneafrique.com/1740770/economie-entreprises/mustafa-rawji-rawbank-la-rdc-est-au-coeur-des-chaines-de-valeur-mondiales/)
+- [Orange, MTN, Airtel… La course à l’IA made in Africa est lancée](https://www.jeuneafrique.com/1740096/economie-entreprises/orange-mtn-airtel-la-course-a-lia-made-in-africa-est-lancee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
