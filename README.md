@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Nov 2025, 15:10*
+*Generato: 20 Nov 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -267,13 +267,13 @@
 - [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
 - [Après l’élection du maire de New York, l’Ouganda en pleine « mamdanimania »](https://www.jeuneafrique.com/1740452/politique/apres-lelection-du-maire-de-new-york-louganda-en-pleine-mamdanimania/)
 - [Le Nigeria « en état d’alerte maximale » face à la recrudescence des attaques et des enlèvements](https://www.jeuneafrique.com/1741919/politique/le-nigeria-en-etat-dalerte-maximale-face-a-la-recrudescence-des-attaques-et-des-enlevements/)
-- [Emmanuel Macron entame à l’île Maurice une tournée africaine](https://www.jeuneafrique.com/1741987/politique/emmanuel-macron-entame-a-lile-maurice-une-tournee-africaine/)
+- [Emmanuel Macron entame à Maurice une tournée africaine](https://www.jeuneafrique.com/1741987/politique/emmanuel-macron-entame-a-lile-maurice-une-tournee-africaine/)
 - [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
+- [Au Parti socialiste sénégalais, « s’adapter ou mourir »](https://www.jeuneafrique.com/1736934/politique/au-parti-socialiste-senegalais-sadapter-ou-mourir/)
+- [Trump boude, Ramaphosa refuse de plier : comment le G20 est devenu le théâtre d’un bras de fer diplomatique](https://www.jeuneafrique.com/1737677/politique/trump-boude-ramaphosa-refuse-de-plier-comment-le-g20-est-devenu-le-theatre-dun-bras-de-fer-diplomatique/)
 - [Expo Mobutu en RDC : de Félix Tshisekedi à Fally Ipupa, tout le monde se presse au Musée national](https://www.jeuneafrique.com/1740650/politique/expo-mobutu-en-rdc-de-felix-tshisekedi-a-fally-ipupa-tout-le-monde-se-presse-au-musee-national/)
-- [Au Tchad, les ambitions (économiques) XXL de Mahamat Idriss Déby Itno](https://www.jeuneafrique.com/1741543/politique/au-tchad-les-ambitions-economiques-xxl-de-mahamat-idriss-deby-itno/)
-- [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
-- [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
-- [Alain-Claude Kouakoua, un bâtisseur gabonais choyé par Brice Clotaire Oligui Nguema](https://www.jeuneafrique.com/1741499/economie-entreprises/alain-claude-kouakoua-un-batisseur-gabonais-choye-par-brice-clotaire-oligui-nguema/)
+- [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
+- [Pourquoi le pari européen du géant marocain Safari vire au casse-tête](https://www.jeuneafrique.com/1741815/economie-entreprises/pourquoi-le-pari-europeen-du-geant-marocain-safari-vire-au-casse-tete/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
