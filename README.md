@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Nov 2025, 18:15*
+*Generato: 20 Nov 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -271,7 +271,7 @@
 - [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
 - [Au Parti socialiste sénégalais, « s’adapter ou mourir »](https://www.jeuneafrique.com/1736934/politique/au-parti-socialiste-senegalais-sadapter-ou-mourir/)
 - [Trump boude, Ramaphosa refuse de plier : comment le G20 est devenu le théâtre d’un bras de fer diplomatique](https://www.jeuneafrique.com/1737677/politique/trump-boude-ramaphosa-refuse-de-plier-comment-le-g20-est-devenu-le-theatre-dun-bras-de-fer-diplomatique/)
-- [Expo Mobutu en RDC : de Félix Tshisekedi à Fally Ipupa, tout le monde se presse au Musée national](https://www.jeuneafrique.com/1740650/politique/expo-mobutu-en-rdc-de-felix-tshisekedi-a-fally-ipupa-tout-le-monde-se-presse-au-musee-national/)
+- [Tchiroma Bakary et les autres : après la présidentielle au Cameroun, l’opposition entre sanction, survie et renouveau](https://www.jeuneafrique.com/1740966/politique/tchiroma-bakary-et-les-autres-apres-la-presidentielle-au-cameroun-lopposition-entre-sanction-survie-et-renouveau/)
 - [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
 - [Pourquoi le pari européen du géant marocain Safari vire au casse-tête](https://www.jeuneafrique.com/1741815/economie-entreprises/pourquoi-le-pari-europeen-du-geant-marocain-safari-vire-au-casse-tete/)
 
