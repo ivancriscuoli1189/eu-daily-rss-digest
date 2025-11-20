@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Nov 2025, 13:24*
+*Generato: 20 Nov 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
 - [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
 - [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
 - [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
@@ -91,7 +92,6 @@
 - [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
 - [EU aid for Spain and France to help with recent natural disasters](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31292/eu-aid-for-spain-and-france-to-help-with-recent-natural-disasters)
 - [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
-- [Proxy voting rights for female MEPs before and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31294/proxy-voting-rights-for-female-meps-before-and-after-giving-birth)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -225,6 +225,8 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
+- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 - [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
 - [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
@@ -233,8 +235,6 @@
 - [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
 - [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 - [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
-- [The turtle and the pilot fish: How the EU and Italy can help each other in the Mediterranean](https://ecfr.eu/publication/the-turtle-and-the-pilot-fish-how-the-eu-and-italy-can-help-each-other-in-the-mediterranean/)
-- [An imperfect promise: Where Trump’s peace plan for Gaza falls short](https://ecfr.eu/article/an-imperfect-promise-where-trumps-peace-plan-for-gaza-falls-short/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
+- [Après l’élection du maire de New York, l’Ouganda en pleine « mamdanimania »](https://www.jeuneafrique.com/1740452/politique/apres-lelection-du-maire-de-new-york-louganda-en-pleine-mamdanimania/)
 - [Le Nigeria « en état d’alerte maximale » face à la recrudescence des attaques et des enlèvements](https://www.jeuneafrique.com/1741919/politique/le-nigeria-en-etat-dalerte-maximale-face-a-la-recrudescence-des-attaques-et-des-enlevements/)
 - [Emmanuel Macron entame à l’île Maurice une tournée africaine](https://www.jeuneafrique.com/1741987/politique/emmanuel-macron-entame-a-lile-maurice-une-tournee-africaine/)
 - [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
 - [Expo Mobutu en RDC : de Félix Tshisekedi à Fally Ipupa, tout le monde se presse au Musée national](https://www.jeuneafrique.com/1740650/politique/expo-mobutu-en-rdc-de-felix-tshisekedi-a-fally-ipupa-tout-le-monde-se-presse-au-musee-national/)
 - [Au Tchad, les ambitions (économiques) XXL de Mahamat Idriss Déby Itno](https://www.jeuneafrique.com/1741543/politique/au-tchad-les-ambitions-economiques-xxl-de-mahamat-idriss-deby-itno/)
 - [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
-- [Présidentielle en Guinée : qui sont les adversaires de Mamadi Doumbouya ?](https://www.jeuneafrique.com/1740949/politique/presidentielle-en-guinee-qui-sont-les-adversaires-de-mamadi-doumbouya/)
-- [G20 de Johannesburg : la rencontre Tebboune-Macron n’aura pas lieu](https://www.jeuneafrique.com/1741558/politique/g20-de-johannesburg-la-rencontre-tebboune-macron-naura-pas-lieu/)
 - [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
 - [Alain-Claude Kouakoua, un bâtisseur gabonais choyé par Brice Clotaire Oligui Nguema](https://www.jeuneafrique.com/1741499/economie-entreprises/alain-claude-kouakoua-un-batisseur-gabonais-choye-par-brice-clotaire-oligui-nguema/)
 
