@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Nov 2025, 06:15*
+*Generato: 20 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Tchiroma Bakary et les autres : après la présidentielle au Cameroun, l’opposition entre sanction, survie et renouveau](https://www.jeuneafrique.com/1740966/politique/tchiroma-bakary-et-les-autres-apres-la-presidentielle-au-cameroun-lopposition-entre-sanction-survie-et-renouveau/)
 - [Au Tchad, les ambitions (économiques) XXL de Mahamat Idriss Déby Itno](https://www.jeuneafrique.com/1741543/politique/au-tchad-les-ambitions-economiques-xxl-de-mahamat-idriss-deby-itno/)
 - [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
+- [G20 de Johannesburg : la rencontre Tebboune-Macron n’aura pas lieu](https://www.jeuneafrique.com/1741558/politique/g20-de-johannesburg-la-rencontre-tebboune-macron-naura-pas-lieu/)
 - [Sahara occidental : Alger prête à soutenir « toute médiation » entre le Polisario et Rabat](https://www.jeuneafrique.com/1741454/politique/sahara-occidental-alger-prete-a-soutenir-toute-mediation-entre-le-polisario-et-rabat/)
 - [« Au Maroc, le vrai risque c’est l’écart entre l’ambition et la capacité à la réaliser »](https://www.jeuneafrique.com/1741041/politique/au-maroc-le-vrai-risque-cest-lecart-entre-lambition-et-la-capacite-a-la-realiser/)
 - [Crise au Cameroun : Alice Nkom, matriarche de l’opposition et nouvelle voix d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1741233/politique/crise-au-cameroun-alice-nkom-matriarche-de-lopposition-et-nouvelle-voix-dissa-tchiroma-bakary/)
 - [Est de la RDC : pourquoi l’accord-cadre de Doha n’a rien changé sur le terrain](https://www.jeuneafrique.com/1740972/politique/est-de-la-rdc-pourquoi-laccord-cadre-de-doha-na-rien-change-sur-le-terrain/)
 - [Enlèvement de lycéennes au Nigeria : l’émotion sélective des conservateurs américains](https://www.jeuneafrique.com/1741248/politique/enlevement-de-lyceennes-au-nigeria-lemotion-selective-des-conservateurs-americains/)
 - [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
-- [Hôtellerie : qui est le nouveau partenaire émirati d’Accor en Afrique ?](https://www.jeuneafrique.com/1741019/economie-entreprises/hotels-qui-est-le-nouveau-partenaire-emirati-daccor-en-afrique/)
+- [Comment Axa compte multiplier son chiffre d’affaires par deux en Afrique](https://www.jeuneafrique.com/1741375/economie-entreprises/comment-axa-compte-multiplier-son-chiffre-daffaires-par-deux-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
