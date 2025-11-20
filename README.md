@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Nov 2025, 11:09*
+*Generato: 20 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
+- [Expo Mobutu en RDC : de Félix Tshisekedi à Fally Ipupa, tout le monde se presse au Musée national](https://www.jeuneafrique.com/1740650/politique/expo-mobutu-en-rdc-de-felix-tshisekedi-a-fally-ipupa-tout-le-monde-se-presse-au-musee-national/)
 - [Au Tchad, les ambitions (économiques) XXL de Mahamat Idriss Déby Itno](https://www.jeuneafrique.com/1741543/politique/au-tchad-les-ambitions-economiques-xxl-de-mahamat-idriss-deby-itno/)
 - [Législatives en Côte d’Ivoire : le parti de Gbagbo sanctionne des frondeurs](https://www.jeuneafrique.com/1741695/politique/legislatives-en-cote-divoire-le-parti-de-gbagbo-sanctionne-des-frondeurs/)
+- [Présidentielle en Guinée : qui sont les adversaires de Mamadi Doumbouya ?](https://www.jeuneafrique.com/1740949/politique/presidentielle-en-guinee-qui-sont-les-adversaires-de-mamadi-doumbouya/)
 - [G20 de Johannesburg : la rencontre Tebboune-Macron n’aura pas lieu](https://www.jeuneafrique.com/1741558/politique/g20-de-johannesburg-la-rencontre-tebboune-macron-naura-pas-lieu/)
 - [Sahara occidental : Alger prête à soutenir « toute médiation » entre le Polisario et Rabat](https://www.jeuneafrique.com/1741454/politique/sahara-occidental-alger-prete-a-soutenir-toute-mediation-entre-le-polisario-et-rabat/)
 - [« Au Maroc, le vrai risque c’est l’écart entre l’ambition et la capacité à la réaliser »](https://www.jeuneafrique.com/1741041/politique/au-maroc-le-vrai-risque-cest-lecart-entre-lambition-et-la-capacite-a-la-realiser/)
-- [Crise au Cameroun : Alice Nkom, matriarche de l’opposition et nouvelle voix d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1741233/politique/crise-au-cameroun-alice-nkom-matriarche-de-lopposition-et-nouvelle-voix-dissa-tchiroma-bakary/)
-- [Est de la RDC : pourquoi l’accord-cadre de Doha n’a rien changé sur le terrain](https://www.jeuneafrique.com/1740972/politique/est-de-la-rdc-pourquoi-laccord-cadre-de-doha-na-rien-change-sur-le-terrain/)
 - [Gaz : Maputo vérifie la facture de TotalEnergies après la suspension du projet Cabo Delgado](https://www.jeuneafrique.com/1741757/economie-entreprises/gaz-maputo-verifie-la-facture-de-totalenergies-apres-la-suspension-du-projet-cabo-delgado/)
 - [Alain-Claude Kouakoua, un bâtisseur gabonais choyé par Brice Clotaire Oligui Nguema](https://www.jeuneafrique.com/1741499/economie-entreprises/alain-claude-kouakoua-un-batisseur-gabonais-choye-par-brice-clotaire-oligui-nguema/)
 
