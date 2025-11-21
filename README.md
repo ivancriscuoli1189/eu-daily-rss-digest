@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Nov 2025, 09:11*
+*Generato: 21 Nov 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: Conviction of Ebru Timtik Award Laureate Ahmed Souab marks escalating repression of lawyers](https://www.icj.org/tunisia-conviction-of-ebru-timtik-award-laureate-ahmed-souab-marks-escalating-repression-of-lawyers/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
-- [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guinée : l’ONU demande une enquête après la « disparition » des enfants d’Elie Kamano](https://www.jeuneafrique.com/1742392/politique/guinee-lonu-demande-une-enquete-apres-la-disparition-des-enfants-delie-kamano/)
+- [En Tunisie, l’ombre de l’Algérie plane sur le procès pour complot contre la sûreté de l’État](https://www.jeuneafrique.com/1741842/politique/en-tunisie-lombre-de-lalgerie-plane-sur-le-proces-pour-complot-contre-la-surete-de-letat/)
+- [Au Niger, la junte suspend plusieurs centaines d’ONG](https://www.jeuneafrique.com/1742297/politique/au-niger-la-junte-suspend-plusieurs-centaines-dong/)
 - [Côte d’Ivoire : au RHDP, bisbilles entre Adama Bictogo et Kandia Camara](https://www.jeuneafrique.com/1742160/politique/cote-divoire-au-rhdp-bisbilles-entre-adama-bictogo-et-kandia-camara/)
 - [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
 - [Après l’élection du maire de New York, l’Ouganda en pleine « mamdanimania »](https://www.jeuneafrique.com/1740452/politique/apres-lelection-du-maire-de-new-york-louganda-en-pleine-mamdanimania/)
 - [Le Nigeria « en état d’alerte maximale » face à la recrudescence des attaques et des enlèvements](https://www.jeuneafrique.com/1741919/politique/le-nigeria-en-etat-dalerte-maximale-face-a-la-recrudescence-des-attaques-et-des-enlevements/)
 - [Emmanuel Macron entame à Maurice une tournée africaine](https://www.jeuneafrique.com/1741987/politique/emmanuel-macron-entame-a-lile-maurice-une-tournee-africaine/)
-- [Pourquoi la résolution de l’ONU sur le Sahara relance les négociations autour de l’accord de pêche entre le Maroc et l’Europe](https://www.jeuneafrique.com/1741845/politique/pourquoi-la-resolution-de-lonu-sur-le-sahara-relance-les-negociations-autour-de-laccord-de-peche-entre-le-maroc-et-leurope/)
-- [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
-- [Au Parti socialiste sénégalais, « s’adapter ou mourir »](https://www.jeuneafrique.com/1736934/politique/au-parti-socialiste-senegalais-sadapter-ou-mourir/)
 - [Minerais critiques : comment les experts ont saboté la stratégie de l’Afrique](https://www.jeuneafrique.com/1742042/economie-entreprises/minerais-critiques-comment-les-experts-ont-sabote-la-strategie-de-lafrique/)
 - [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
 
