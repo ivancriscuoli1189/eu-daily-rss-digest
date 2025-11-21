@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Nov 2025, 13:22*
+*Generato: 21 Nov 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -270,8 +270,8 @@
 - [Au Niger, la junte suspend plusieurs centaines d’ONG](https://www.jeuneafrique.com/1742297/politique/au-niger-la-junte-suspend-plusieurs-centaines-dong/)
 - [Le terrorisme, une « menace existentielle » pour toute l’Afrique de l’Ouest : l’appel à l’aide de la Cedeao devant l’ONU](https://www.jeuneafrique.com/1742134/politique/le-terrorisme-une-menace-existentielle-pour-toute-lafrique-de-louest-lappel-a-laide-de-la-cedeoa-devant-lonu/)
 - [Côte d’Ivoire : au RHDP, bisbilles entre Adama Bictogo et Kandia Camara](https://www.jeuneafrique.com/1742160/politique/cote-divoire-au-rhdp-bisbilles-entre-adama-bictogo-et-kandia-camara/)
+- [Entre Oligui Nguema et Macron, coulisses de retrouvailles très attendues](https://www.jeuneafrique.com/1741873/politique/entre-oligui-nguema-et-macron-coulisses-de-retrouvailles-tres-attendues/)
 - [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
-- [Après l’élection du maire de New York, l’Ouganda en pleine « mamdanimania »](https://www.jeuneafrique.com/1740452/politique/apres-lelection-du-maire-de-new-york-louganda-en-pleine-mamdanimania/)
 - [Minerais critiques : comment les experts ont saboté la stratégie de l’Afrique](https://www.jeuneafrique.com/1742042/economie-entreprises/minerais-critiques-comment-les-experts-ont-sabote-la-strategie-de-lafrique/)
 - [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
 
