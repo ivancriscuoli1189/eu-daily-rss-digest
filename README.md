@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Nov 2025, 15:10*
+*Generato: 21 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : la France réduit son personnel diplomatique face au blocus du Jnim](https://www.jeuneafrique.com/1742603/politique/mali-la-france-reduit-son-personnel-diplomatique-face-au-blocus-du-jnim/)
 - [En 2026 en RDC, 30 % du budget sera consacré à la défense et à la sécurité](https://www.jeuneafrique.com/1742070/politique/en-2026-en-rdc-30-du-budget-sera-consacre-a-la-defense-et-a-la-securite/)
 - [Guinée : l’ONU demande une enquête après la « disparition » des enfants d’Elie Kamano](https://www.jeuneafrique.com/1742392/politique/guinee-lonu-demande-une-enquete-apres-la-disparition-des-enfants-delie-kamano/)
 - [En Tunisie, l’ombre de l’Algérie plane sur le procès pour complot contre la sûreté de l’État](https://www.jeuneafrique.com/1741842/politique/en-tunisie-lombre-de-lalgerie-plane-sur-le-proces-pour-complot-contre-la-surete-de-letat/)
@@ -271,7 +272,6 @@
 - [Le terrorisme, une « menace existentielle » pour toute l’Afrique de l’Ouest : l’appel à l’aide de la Cedeao devant l’ONU](https://www.jeuneafrique.com/1742134/politique/le-terrorisme-une-menace-existentielle-pour-toute-lafrique-de-louest-lappel-a-laide-de-la-cedeoa-devant-lonu/)
 - [Côte d’Ivoire : au RHDP, bisbilles entre Adama Bictogo et Kandia Camara](https://www.jeuneafrique.com/1742160/politique/cote-divoire-au-rhdp-bisbilles-entre-adama-bictogo-et-kandia-camara/)
 - [Entre Oligui Nguema et Macron, coulisses de retrouvailles très attendues](https://www.jeuneafrique.com/1741873/politique/entre-oligui-nguema-et-macron-coulisses-de-retrouvailles-tres-attendues/)
-- [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
 - [Minerais critiques : comment les experts ont saboté la stratégie de l’Afrique](https://www.jeuneafrique.com/1742042/economie-entreprises/minerais-critiques-comment-les-experts-ont-sabote-la-strategie-de-lafrique/)
 - [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
 
