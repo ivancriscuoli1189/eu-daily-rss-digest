@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Nov 2025, 06:15*
+*Generato: 21 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
+- [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
-- [GUATEMALA: International organizations express concern over the detention of lawyer Ramón Cadena](https://www.icj.org/guatemala-international-organizations-express-concern-over-the-detention-of-lawyer-ramon-cadena/)
-- [Tanzania: African CSOs Call for the Non-Recognition of the Illegitimate Government and for Transitional Justice and Fresh Elections](https://www.icj.org/press-releaseafrican-civil-society-organisations-commend-au-and-sadc-for-condemning-sham/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
+- [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
-- [Latvia’s planned withdrawal from the Istanbul Convention – a setback for the human rights of women and girls](https://www.icj.org/latvias-planned-withdrawal-from-the-istanbul-convention-a-setback-for-the-human-rights-of-women-and-girls/)
-- [EU: Experts highlight the need to address inequality and expand alternatives to child pre-trial detention in criminal proceedings](https://www.icj.org/eu-experts-highlight-the-need-to-address-inequality-and-expand-alternatives-to-child-pre-trial-detention-in-criminal-proceedings/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : au RHDP, bisbilles entre Adama Bictogo et Kandia Camara](https://www.jeuneafrique.com/1742160/politique/cote-divoire-au-rhdp-bisbilles-entre-adama-bictogo-et-kandia-camara/)
 - [Maroc : soupçons de conflits d’intérêts au gouvernement, l’opposition réclame une enquête parlementaire](https://www.jeuneafrique.com/1741877/politique/maroc-soupcons-de-conflits-dinterets-au-gouvernement-lopposition-reclame-une-enquete-parlementaire/)
 - [Après l’élection du maire de New York, l’Ouganda en pleine « mamdanimania »](https://www.jeuneafrique.com/1740452/politique/apres-lelection-du-maire-de-new-york-louganda-en-pleine-mamdanimania/)
 - [Le Nigeria « en état d’alerte maximale » face à la recrudescence des attaques et des enlèvements](https://www.jeuneafrique.com/1741919/politique/le-nigeria-en-etat-dalerte-maximale-face-a-la-recrudescence-des-attaques-et-des-enlevements/)
 - [Emmanuel Macron entame à Maurice une tournée africaine](https://www.jeuneafrique.com/1741987/politique/emmanuel-macron-entame-a-lile-maurice-une-tournee-africaine/)
+- [Pourquoi la résolution de l’ONU sur le Sahara relance les négociations autour de l’accord de pêche entre le Maroc et l’Europe](https://www.jeuneafrique.com/1741845/politique/pourquoi-la-resolution-de-lonu-sur-le-sahara-relance-les-negociations-autour-de-laccord-de-peche-entre-le-maroc-et-leurope/)
 - [Tunisie : cinquième hospitalisation pour l’opposant emprisonné Jawhar Ben Mbarek](https://www.jeuneafrique.com/1741855/politique/tunisie-cinquieme-hospitalisation-pour-lopposant-emprisonne-jawhar-ben-mbarek/)
 - [Au Parti socialiste sénégalais, « s’adapter ou mourir »](https://www.jeuneafrique.com/1736934/politique/au-parti-socialiste-senegalais-sadapter-ou-mourir/)
-- [Trump boude, Ramaphosa refuse de plier : comment le G20 est devenu le théâtre d’un bras de fer diplomatique](https://www.jeuneafrique.com/1737677/politique/trump-boude-ramaphosa-refuse-de-plier-comment-le-g20-est-devenu-le-theatre-dun-bras-de-fer-diplomatique/)
-- [Tchiroma Bakary et les autres : après la présidentielle au Cameroun, l’opposition entre sanction, survie et renouveau](https://www.jeuneafrique.com/1740966/politique/tchiroma-bakary-et-les-autres-apres-la-presidentielle-au-cameroun-lopposition-entre-sanction-survie-et-renouveau/)
+- [Minerais critiques : comment les experts ont saboté la stratégie de l’Afrique](https://www.jeuneafrique.com/1742042/economie-entreprises/minerais-critiques-comment-les-experts-ont-sabote-la-strategie-de-lafrique/)
 - [Dette africaine : l’arme secrète du comité africain du G20, c’est l’entre-soi des débiteurs](https://www.jeuneafrique.com/1742112/economie-entreprises/dette-africaine-larme-secrete-du-comite-africain-du-g20-cest-lentre-soi-des-debiteurs/)
-- [Pourquoi le pari européen du géant marocain Safari vire au casse-tête](https://www.jeuneafrique.com/1741815/economie-entreprises/pourquoi-le-pari-europeen-du-geant-marocain-safari-vire-au-casse-tete/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
