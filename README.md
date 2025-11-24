@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Nov 2025, 06:16*
+*Generato: 24 Nov 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au sommet du G20, le multilatéralisme sous pression](https://www.jeuneafrique.com/1742775/politique/au-sommet-du-g20-le-multilateralisme-sous-pression/)
+- [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
+- [En Afrique du Sud, Cyril Ramaphosa et Emmanuel Macron parlent la même langue](https://www.jeuneafrique.com/1742725/politique/en-afrique-du-sud-cyril-ramaphosa-et-emmanuel-macron-parlent-la-meme-langue/)
+- [Maroc-Tunisie : l’entre-deux diplomatique persiste, entre fraternité et froideur](https://www.jeuneafrique.com/1741936/politique/maroc-tunisie-lentre-deux-diplomatique-persiste-entre-fraternite-et-froideur/)
 - [Valdiodio N’Diaye, victime de Senghor et de la raison d’État au Sénégal](https://www.jeuneafrique.com/1737497/politique/valdiodio-ndiaye-victime-de-senghor-et-de-la-raison-detat-au-senegal/)
 - [COP30 : en Amazonie, le monde adopte un accord a minima pour le climat](https://www.jeuneafrique.com/1742757/politique/cop30-en-amazonie-le-monde-adopte-un-accord-a-minima-pour-le-climat/)
 - [Présidentielle en Centrafrique : comment Dondra a plaidé pour la validation de sa candidature](https://www.jeuneafrique.com/1741935/politique/presidentielle-en-centrafrique-comment-dondra-a-plaide-pour-la-validation-de-sa-candidature/)
 - [Le Nigeria sous le choc après l’enlèvement de 315 élèves et enseignants dans une école](https://www.jeuneafrique.com/1742753/politique/le-nigeria-sous-le-choc-apres-lenlevement-de-315-eleves-et-enseignants-dans-une-ecole/)
 - [Quand Nicki Minaj épouse la cause nigériane de Donald Trump](https://www.jeuneafrique.com/1742464/politique/quand-nicki-minaj-epouse-la-cause-nigeriane-de-donald-trump/)
-- [Mali : face aux jihadistes, l’option du dialogue est-elle crédible ?](https://www.jeuneafrique.com/1742570/politique/mali-face-aux-jihadistes-loption-du-dialogue-est-elle-credible/)
-- [G20 : pourquoi, malgré l’absence de Trump, le sommet est déjà une victoire pour l’Afrique du Sud](https://www.jeuneafrique.com/1742732/politique/g20-pourquoi-malgre-labsence-de-trump-le-sommet-est-deja-une-victoire-pour-lafrique-du-sud/)
+- [Dette du Sénégal : pourquoi il faut critiquer le bien fondé de la dégradation de la note souveraine par Moody’s](https://www.jeuneafrique.com/1742629/economie-entreprises/dette-du-senegal-pourquoi-il-faut-critiquer-le-bien-fonde-de-la-degradation-de-la-note-souveraine-par-moodys/)
 - [Abdul Samad Rabiu (BUA Cement) : « Face à la concurrence, nous répondons par les coûts, la géographie et la fiabilité »](https://www.jeuneafrique.com/1740648/economie-entreprises/abdul-samad-rabiu-bua-cement-face-a-la-concurrence-nous-repondons-par-les-couts-la-geographie-et-la-fiabilite/)
-- [Les ambitions africaines d’Heineken seront-elles bousculées par ses difficultés en RDC ?](https://www.jeuneafrique.com/1742280/economie-entreprises/les-ambitions-africaines-dheineken-seront-elles-bousculees-par-ses-difficultes-en-rdc/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
