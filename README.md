@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Nov 2025, 13:26*
+*Generato: 24 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
+- [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
 - [COP30 outcome: slow progress, but insufficient to meet climate crisis urgency](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31438/cop30-outcome-slow-progress-but-insufficient-to-meet-climate-crisis-urgency)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
@@ -90,8 +92,6 @@
 - [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
 - [2026 EU budget deal: EP boosts research, competitiveness and security](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31345/2026-eu-budget-deal-ep-boosts-research-competitiveness-and-security)
 - [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
-- [Sustainability reporting and due diligence: MEPs back simplification changes](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31296/sustainability-reporting-and-due-diligence-meps-back-simplification-changes)
-- [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -272,8 +272,8 @@
 - [COP30 : en Amazonie, le monde adopte un accord a minima pour le climat](https://www.jeuneafrique.com/1742757/politique/cop30-en-amazonie-le-monde-adopte-un-accord-a-minima-pour-le-climat/)
 - [Présidentielle en Centrafrique : comment Dondra a plaidé pour la validation de sa candidature](https://www.jeuneafrique.com/1741935/politique/presidentielle-en-centrafrique-comment-dondra-a-plaide-pour-la-validation-de-sa-candidature/)
 - [Le Nigeria sous le choc après l’enlèvement de 315 élèves et enseignants dans une école](https://www.jeuneafrique.com/1742753/politique/le-nigeria-sous-le-choc-apres-lenlevement-de-315-eleves-et-enseignants-dans-une-ecole/)
+- [La méthode de Jeremy Awori pour réformer l’épargne africaine](https://www.jeuneafrique.com/1742454/economie-entreprises/la-methode-de-jeremy-awori-pour-reformer-lepargne-africaine/)
 - [Dette du Sénégal : pourquoi il faut critiquer le bien fondé de la dégradation de la note souveraine par Moody’s](https://www.jeuneafrique.com/1742629/economie-entreprises/dette-du-senegal-pourquoi-il-faut-critiquer-le-bien-fonde-de-la-degradation-de-la-note-souveraine-par-moodys/)
-- [Abdul Samad Rabiu (BUA Cement) : « Face à la concurrence, nous répondons par les coûts, la géographie et la fiabilité »](https://www.jeuneafrique.com/1740648/economie-entreprises/abdul-samad-rabiu-bua-cement-face-a-la-concurrence-nous-repondons-par-les-couts-la-geographie-et-la-fiabilite/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
