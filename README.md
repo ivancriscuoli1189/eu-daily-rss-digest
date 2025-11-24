@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Nov 2025, 15:11*
+*Generato: 24 Nov 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
 - [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
 - [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
 - [2026 EU budget deal: EP boosts research, competitiveness and security](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31345/2026-eu-budget-deal-ep-boosts-research-competitiveness-and-security)
-- [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -223,19 +223,6 @@
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 - [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 
-## THINK TANK – ECFR – MENA
-
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -265,15 +252,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Emmanuel Macron salue le « tournant » au Gabon après le putsch de 2023](https://www.jeuneafrique.com/1742812/politique/emmanuel-macron-salue-le-tournant-au-gabon-apres-le-putsch-de-2023/)
+- [Cameroun : après le Nigeria, Issa Tchiroma Bakary a trouvé refuge en Gambie](https://www.jeuneafrique.com/1742823/politique/cameroun-apres-le-nigeria-issa-tchiroma-bakary-a-trouve-refuge-en-gambie/)
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
+- [Afrique du Sud : qui est derrière la machine politique de Fikile Mbalula, le numéro deux de l’ANC ?](https://www.jeuneafrique.com/1741118/politique/afrique-du-sud-qui-est-derriere-la-machine-politique-de-fikile-mbalula-le-numero-deux-de-lanc/)
 - [En Afrique du Sud, Cyril Ramaphosa et Emmanuel Macron parlent la même langue](https://www.jeuneafrique.com/1742725/politique/en-afrique-du-sud-cyril-ramaphosa-et-emmanuel-macron-parlent-la-meme-langue/)
 - [Maroc-Tunisie : l’entre-deux diplomatique persiste, entre fraternité et froideur](https://www.jeuneafrique.com/1741936/politique/maroc-tunisie-lentre-deux-diplomatique-persiste-entre-fraternite-et-froideur/)
 - [Valdiodio N’Diaye, victime de Senghor et de la raison d’État au Sénégal](https://www.jeuneafrique.com/1737497/politique/valdiodio-ndiaye-victime-de-senghor-et-de-la-raison-detat-au-senegal/)
 - [COP30 : en Amazonie, le monde adopte un accord a minima pour le climat](https://www.jeuneafrique.com/1742757/politique/cop30-en-amazonie-le-monde-adopte-un-accord-a-minima-pour-le-climat/)
-- [Présidentielle en Centrafrique : comment Dondra a plaidé pour la validation de sa candidature](https://www.jeuneafrique.com/1741935/politique/presidentielle-en-centrafrique-comment-dondra-a-plaide-pour-la-validation-de-sa-candidature/)
-- [Le Nigeria sous le choc après l’enlèvement de 315 élèves et enseignants dans une école](https://www.jeuneafrique.com/1742753/politique/le-nigeria-sous-le-choc-apres-lenlevement-de-315-eleves-et-enseignants-dans-une-ecole/)
+- [Cacao : les États-Unis rouvrent la porte aux fèves ivoiriennes et ghanéennes](https://www.jeuneafrique.com/1743146/economie-entreprises/cacao-les-etats-unis-rouvrent-la-porte-aux-feves-ivoiriennes-et-ghaneennes/)
 - [La méthode de Jeremy Awori pour réformer l’épargne africaine](https://www.jeuneafrique.com/1742454/economie-entreprises/la-methode-de-jeremy-awori-pour-reformer-lepargne-africaine/)
-- [Dette du Sénégal : pourquoi il faut critiquer le bien fondé de la dégradation de la note souveraine par Moody’s](https://www.jeuneafrique.com/1742629/economie-entreprises/dette-du-senegal-pourquoi-il-faut-critiquer-le-bien-fonde-de-la-degradation-de-la-note-souveraine-par-moodys/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
