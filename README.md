@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Nov 2025, 09:14*
+*Generato: 24 Nov 2025, 11:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,6 +70,8 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع سعادة السيدة "Mariem Martinez Laurel" سفيرة جمهورية كوبا بتونس التي أدّت زيارة توديع إلى رئيس الدولة بمناسبة انتهاء مهامها.](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-mariem-martinez-laurel-%D8%B3%D9%81%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%83%D9%88%D8%A8%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%AA%D9%8A)
+- [إشراف رئيس الجمهورية قيس سعيّد على موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
 - [اجتماع رئيس الجمهوريّة قيس سعيّد بأعضاء اللّجنة التي كلّفها بإيجاد حلول عاجلة للوضع البيئي بمدينة قابس](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%91%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%83%D9%84%D9%91%D9%81%D9%87%D8%A7-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الدكتور سالم بن محمد المالك، المدير العام لمنظّمة العالم الإسلامي للتّربية والعلوم والثقافة والسيد ميغل أنخيل موراتينوس، الممثّل السّامي للأمم المتّحدة لتحالف الحضارات والمبعوث الأممي لمكافحة معاداة الإسلام](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%91%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-0)
@@ -77,11 +79,10 @@
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد محمّد علي النفطي وزير الشّؤون الخارجيّة والهجرة والتونسيّين بالخارج](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%85%D8%AD%D9%85%D9%91%D8%AF-%D8%B9%D9%84%D9%8A-%D8%A7%D9%84%D9%86%D9%81%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%91%D9%8A%D9%86)
 - [إشراف رئيس الجمهورية قيس سعيّد على موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
 - [إشراف رئيس الجمهورية قيس سعيّد بمقرّ المجلس الأعلى للتّربية والتّعليم على الإحتفال بعيد الشّجرة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D9%85%D9%82%D8%B1%D9%91-%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89-%D9%84%D9%84%D8%AA%D9%91%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D9%91%D8%B9%D9%84%D9%8A%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B4%D9%91%D8%AC%D8%B1%D8%A9)
-- [لقاء رئيس الجمهوريّة مع كاتب الدّولة لدى وزير الفلاحة والموارد المائية والصيد البحري المكلّف بالمياه والمدير العام للدّيوان الوطني للزّيت والمدير العام بالنّيابة للمجمع المهني المشترك للتّمور والمجمع المهني المشترك للغلال](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%85%D8%B9-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D8%AF%D9%89-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D8%A7%D9%84%D9%85%D9%83%D9%84%D9%91%D9%81-%D8%A8%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%87)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الصّادق المورالي وزير الشّباب والرياضة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%B5%D9%91%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%88%D8%B1%D8%A7%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%91%D8%A8%D8%A7%D8%A8-%D9%88%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9)
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
 - [COP30 outcome: slow progress, but insufficient to meet climate crisis urgency](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31438/cop30-outcome-slow-progress-but-insufficient-to-meet-climate-crisis-urgency)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
 - [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
@@ -91,12 +92,11 @@
 - [Parliament calls for an ambitious gender equality strategy](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31291/parliament-calls-for-an-ambitious-gender-equality-strategy)
 - [Sustainability reporting and due diligence: MEPs back simplification changes](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31296/sustainability-reporting-and-due-diligence-meps-back-simplification-changes)
 - [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
-- [EU aid for Spain and France to help with recent natural disasters](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31292/eu-aid-for-spain-and-france-to-help-with-recent-natural-disasters)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -145,32 +145,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://lapresse.tn/Actualit%C3%A9s)
@@ -204,11 +178,11 @@
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 - [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
 - [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
 - [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
-- [Tunisian Human Rights Defender on Hunger Strike](https://www.hrw.org/news/2025/01/17/tunisian-human-rights-defender-hunger-strike)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -264,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Emmanuel Macron salue le « tournant » au Gabon après le putsch de 2023](https://www.jeuneafrique.com/1742812/politique/emmanuel-macron-salue-le-tournant-au-gabon-apres-le-putsch-de-2023/)
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
 - [En Afrique du Sud, Cyril Ramaphosa et Emmanuel Macron parlent la même langue](https://www.jeuneafrique.com/1742725/politique/en-afrique-du-sud-cyril-ramaphosa-et-emmanuel-macron-parlent-la-meme-langue/)
 - [Maroc-Tunisie : l’entre-deux diplomatique persiste, entre fraternité et froideur](https://www.jeuneafrique.com/1741936/politique/maroc-tunisie-lentre-deux-diplomatique-persiste-entre-fraternite-et-froideur/)
@@ -271,7 +246,6 @@
 - [COP30 : en Amazonie, le monde adopte un accord a minima pour le climat](https://www.jeuneafrique.com/1742757/politique/cop30-en-amazonie-le-monde-adopte-un-accord-a-minima-pour-le-climat/)
 - [Présidentielle en Centrafrique : comment Dondra a plaidé pour la validation de sa candidature](https://www.jeuneafrique.com/1741935/politique/presidentielle-en-centrafrique-comment-dondra-a-plaide-pour-la-validation-de-sa-candidature/)
 - [Le Nigeria sous le choc après l’enlèvement de 315 élèves et enseignants dans une école](https://www.jeuneafrique.com/1742753/politique/le-nigeria-sous-le-choc-apres-lenlevement-de-315-eleves-et-enseignants-dans-une-ecole/)
-- [Quand Nicki Minaj épouse la cause nigériane de Donald Trump](https://www.jeuneafrique.com/1742464/politique/quand-nicki-minaj-epouse-la-cause-nigeriane-de-donald-trump/)
 - [Dette du Sénégal : pourquoi il faut critiquer le bien fondé de la dégradation de la note souveraine par Moody’s](https://www.jeuneafrique.com/1742629/economie-entreprises/dette-du-senegal-pourquoi-il-faut-critiquer-le-bien-fonde-de-la-degradation-de-la-note-souveraine-par-moodys/)
 - [Abdul Samad Rabiu (BUA Cement) : « Face à la concurrence, nous répondons par les coûts, la géographie et la fiabilité »](https://www.jeuneafrique.com/1740648/economie-entreprises/abdul-samad-rabiu-bua-cement-face-a-la-concurrence-nous-repondons-par-les-couts-la-geographie-et-la-fiabilite/)
 
