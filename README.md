@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Nov 2025, 21:08*
+*Generato: 24 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [COP30 outcome: slow progress, but insufficient to meet climate crisis urgency](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31438/cop30-outcome-slow-progress-but-insufficient-to-meet-climate-crisis-urgency)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
 - [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
 - [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
@@ -91,7 +92,6 @@
 - [Sustainability reporting and due diligence: MEPs back simplification changes](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31296/sustainability-reporting-and-due-diligence-meps-back-simplification-changes)
 - [Court of Auditors: MEPs back candidates from Greece and France](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31293/court-of-auditors-meps-back-candidates-from-greece-and-france)
 - [EU aid for Spain and France to help with recent natural disasters](https://www.europarl.europa.eu/news/en/press-room/20251106IPR31292/eu-aid-for-spain-and-france-to-help-with-recent-natural-disasters)
-- [MEPs warn of increasing repression of human rights activists across borders](https://www.europarl.europa.eu/news/en/press-room/20251110IPR31337/meps-warn-of-increasing-repression-of-human-rights-activists-across-borders)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Mali : la France réduit son personnel diplomatique face au blocus du Jnim](https://www.jeuneafrique.com/1742603/politique/mali-la-france-reduit-son-personnel-diplomatique-face-au-blocus-du-jnim/)
-- [En 2026 en RDC, 30 % du budget sera consacré à la défense et à la sécurité](https://www.jeuneafrique.com/1742070/politique/en-2026-en-rdc-30-du-budget-sera-consacre-a-la-defense-et-a-la-securite/)
-- [Guinée : l’ONU demande une enquête après la « disparition » des enfants d’Elie Kamano](https://www.jeuneafrique.com/1742392/politique/guinee-lonu-demande-une-enquete-apres-la-disparition-des-enfants-delie-kamano/)
-- [En Tunisie, l’ombre de l’Algérie plane sur le procès pour complot contre la sûreté de l’État](https://www.jeuneafrique.com/1741842/politique/en-tunisie-lombre-de-lalgerie-plane-sur-le-proces-pour-complot-contre-la-surete-de-letat/)
-- [Au Niger, la junte suspend plusieurs centaines d’ONG](https://www.jeuneafrique.com/1742297/politique/au-niger-la-junte-suspend-plusieurs-centaines-dong/)
-- [Faustin-Archange Touadéra : « Pourquoi voulez-vous que les Russes ne soient pas en Centrafrique ? »](https://www.jeuneafrique.com/1740331/politique/faustin-archange-touadera-pourquoi-voulez-vous-que-les-russes-ne-soient-pas-en-centrafrique/)
-- [Le terrorisme, une « menace existentielle » pour toute l’Afrique de l’Ouest : l’appel à l’aide de la Cedeao devant l’ONU](https://www.jeuneafrique.com/1742134/politique/le-terrorisme-une-menace-existentielle-pour-toute-lafrique-de-louest-lappel-a-laide-de-la-cedeoa-devant-lonu/)
-- [Côte d’Ivoire : au RHDP, bisbilles entre Adama Bictogo et Kandia Camara](https://www.jeuneafrique.com/1742160/politique/cote-divoire-au-rhdp-bisbilles-entre-adama-bictogo-et-kandia-camara/)
+- [Au sommet du G20, le multilatéralisme sous pression](https://www.jeuneafrique.com/1742775/politique/au-sommet-du-g20-le-multilateralisme-sous-pression/)
+- [Valdiodio N’Diaye, victime de Senghor et de la raison d’État au Sénégal](https://www.jeuneafrique.com/1737497/politique/valdiodio-ndiaye-victime-de-senghor-et-de-la-raison-detat-au-senegal/)
+- [COP30 : en Amazonie, le monde adopte un accord a minima pour le climat](https://www.jeuneafrique.com/1742757/politique/cop30-en-amazonie-le-monde-adopte-un-accord-a-minima-pour-le-climat/)
+- [Présidentielle en Centrafrique : comment Dondra a plaidé pour la validation de sa candidature](https://www.jeuneafrique.com/1741935/politique/presidentielle-en-centrafrique-comment-dondra-a-plaide-pour-la-validation-de-sa-candidature/)
+- [Le Nigeria sous le choc après l’enlèvement de 315 élèves et enseignants dans une école](https://www.jeuneafrique.com/1742753/politique/le-nigeria-sous-le-choc-apres-lenlevement-de-315-eleves-et-enseignants-dans-une-ecole/)
+- [Quand Nicki Minaj épouse la cause nigériane de Donald Trump](https://www.jeuneafrique.com/1742464/politique/quand-nicki-minaj-epouse-la-cause-nigeriane-de-donald-trump/)
+- [Mali : face aux jihadistes, l’option du dialogue est-elle crédible ?](https://www.jeuneafrique.com/1742570/politique/mali-face-aux-jihadistes-loption-du-dialogue-est-elle-credible/)
+- [G20 : pourquoi, malgré l’absence de Trump, le sommet est déjà une victoire pour l’Afrique du Sud](https://www.jeuneafrique.com/1742732/politique/g20-pourquoi-malgre-labsence-de-trump-le-sommet-est-deja-une-victoire-pour-lafrique-du-sud/)
+- [Abdul Samad Rabiu (BUA Cement) : « Face à la concurrence, nous répondons par les coûts, la géographie et la fiabilité »](https://www.jeuneafrique.com/1740648/economie-entreprises/abdul-samad-rabiu-bua-cement-face-a-la-concurrence-nous-repondons-par-les-couts-la-geographie-et-la-fiabilite/)
 - [Les ambitions africaines d’Heineken seront-elles bousculées par ses difficultés en RDC ?](https://www.jeuneafrique.com/1742280/economie-entreprises/les-ambitions-africaines-dheineken-seront-elles-bousculees-par-ses-difficultes-en-rdc/)
-- [Minerais critiques : comment les experts ont saboté la stratégie de l’Afrique](https://www.jeuneafrique.com/1742042/economie-entreprises/minerais-critiques-comment-les-experts-ont-sabote-la-strategie-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
