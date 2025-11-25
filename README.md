@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 09:13*
+*Generato: 25 Nov 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -131,6 +131,19 @@
 - [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
 - [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
 - [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
+## UE – DG HOME – News
+
+- [bg български](https://home-affairs.ec.europa.eu/news_bg)
+- [es español](https://home-affairs.ec.europa.eu/news_es)
+- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
+- [da dansk](https://home-affairs.ec.europa.eu/news_da)
+- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
+- [et eesti](https://home-affairs.ec.europa.eu/news_et)
+- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
+- [en English](https://home-affairs.ec.europa.eu/news_en)
+- [fr français](https://home-affairs.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
 ## UE – Tunisie – Projects portal (Agriculture)
 
