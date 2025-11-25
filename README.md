@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 06:16*
+*Generato: 25 Nov 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31486/ep-today-tuesday-25-november)
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
 - [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
@@ -91,7 +92,6 @@
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
 - [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
 - [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
-- [EU Parliamentary Democracy Forum on Wednesday, 19 November](https://www.europarl.europa.eu/news/en/press-room/20251112IPR31375/eu-parliamentary-democracy-forum-on-wednesday-19-november)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -131,19 +131,6 @@
 - [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
 - [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
 - [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
 ## UE – Tunisie – Projects portal (Agriculture)
 
@@ -266,14 +253,14 @@
 
 - [Complot présumé contre le Burkina Faso : à Niamey, Serge Mathurin Adou condamné à deux ans ferme pour « atteinte à la sûreté de l’État »](https://www.jeuneafrique.com/1743188/politique/complot-presume-contre-le-burkina-faso-a-niamey-serge-mathurin-adou-condamne-a-deux-ans-ferme-pour-atteinte-a-la-surete-de-letat/)
 - [Boualem Sansal veut retourner en Algérie, Emmanuel Macron lui conseille de faire « attention »](https://www.jeuneafrique.com/1742970/politique/boualem-sansal-veut-retourner-en-algerie-emmanuel-macron-lui-conseille-de-faire-attention/)
+- [Dans son duel avec Alassane Ouattara, Tidjane Thiam a-t-il franchi une ligne rouge ?](https://www.jeuneafrique.com/1740880/politique/dans-son-duel-avec-alassane-ouattara-tidjane-thiam-a-t-il-franchi-une-ligne-rouge/)
 - [Emmanuel Macron salue le « tournant » au Gabon après le putsch de 2023](https://www.jeuneafrique.com/1742812/politique/emmanuel-macron-salue-le-tournant-au-gabon-apres-le-putsch-de-2023/)
 - [Cameroun : après le Nigeria, Issa Tchiroma Bakary a trouvé refuge en Gambie](https://www.jeuneafrique.com/1742823/politique/cameroun-apres-le-nigeria-issa-tchiroma-bakary-a-trouve-refuge-en-gambie/)
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
 - [Au sommet du G20, le multilatéralisme sous pression](https://www.jeuneafrique.com/1742775/politique/au-sommet-du-g20-le-multilateralisme-sous-pression/)
 - [Afrique du Sud : qui est derrière la machine politique de Fikile Mbalula, le numéro deux de l’ANC ?](https://www.jeuneafrique.com/1741118/politique/afrique-du-sud-qui-est-derriere-la-machine-politique-de-fikile-mbalula-le-numero-deux-de-lanc/)
-- [En Afrique du Sud, Cyril Ramaphosa et Emmanuel Macron parlent la même langue](https://www.jeuneafrique.com/1742725/politique/en-afrique-du-sud-cyril-ramaphosa-et-emmanuel-macron-parlent-la-meme-langue/)
-- [Cacao : les États-Unis rouvrent la porte aux fèves ivoiriennes et ghanéennes](https://www.jeuneafrique.com/1743146/economie-entreprises/cacao-les-etats-unis-rouvrent-la-porte-aux-feves-ivoiriennes-et-ghaneennes/)
-- [CMA CGM, Maersk, MSC : comment l’Afrique devient le marché refuge des grands armateurs mondiaux](https://www.jeuneafrique.com/1742695/economie-entreprises/cma-cgm-maersk-msc-comment-lafrique-devient-le-marche-refuge-des-grands-armateurs-mondiaux/)
+- [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
+- [Le mobile money, nouvel accélérateur pour Maroc Telecom en Afrique subsaharienne](https://www.jeuneafrique.com/1742604/economie-entreprises/le-mobile-money-nouvel-accelerateur-pour-maroc-telecom-en-afrique-subsaharienne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
