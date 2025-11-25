@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 13:27*
+*Generato: 25 Nov 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -273,7 +273,7 @@
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
 - [Sénégal : pour Pastef, un avant et un après-8 novembre – par Mehdi Ba](https://www.jeuneafrique.com/1739851/politique/senegal-pour-pastef-un-avant-et-un-apres-8-novembre-par-mehdi-ba/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
-- [Le mobile money, nouvel accélérateur pour Maroc Telecom en Afrique subsaharienne](https://www.jeuneafrique.com/1742604/economie-entreprises/le-mobile-money-nouvel-accelerateur-pour-maroc-telecom-en-afrique-subsaharienne/)
+- [BOAD : les coulisses de la transformation menée par Serge Ekué](https://www.jeuneafrique.com/1740244/economie-entreprises/boad-les-coulisses-de-la-transformation-menee-par-serge-ekue/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
