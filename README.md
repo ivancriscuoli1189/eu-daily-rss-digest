@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Nov 2025, 21:09*
+*Generato: 25 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – Press Room
 
-- [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
+- [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
 - [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
