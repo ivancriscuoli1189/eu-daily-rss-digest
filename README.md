@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 12:19*
+*Generato: 25 Nov 2025, 13:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -84,6 +84,7 @@
 
 - [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
 - [Toy safety: Parliament adopts new rules to enhance child health protection](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31494/toy-safety-parliament-adopts-new-rules-to-enhance-child-health-protection)
+- [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
 - [Court of Auditors: MEPs back candidate from Germany](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31490/court-of-auditors-meps-back-candidate-from-germany)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31486/ep-today-tuesday-25-november)
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
@@ -91,12 +92,11 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
 - [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
-- [COP30 outcome: slow progress, but insufficient to meet climate crisis urgency](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31438/cop30-outcome-slow-progress-but-insufficient-to-meet-climate-crisis-urgency)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Conviction of human rights defenders confirms criminalization of civil society work](https://www.amnesty.org/en/latest/news/2025/11/tunisia-conviction-of-human-rights-defenders-confirms-criminalization-of-civil-society-work/)
 - [Tunisia: Escalating crackdown on human rights organizations reaches critical levels](https://www.amnesty.org/en/latest/news/2025/11/tunisia-escalating-crackdown-on-human-rights-organizations-reaches-critical-levels/)
 - [Tunisia: Rampant violations against refugees and migrants expose EU’s complicity risk](https://www.amnesty.org/en/latest/news/2025/11/tunisia-rampant-violations-against-refugees-migrants-eu-risks-complicity/)
-- [Tunisia: Authorities must immediately release detained lawyer Ahmed Souab](https://www.amnesty.org/en/latest/news/2025/10/tunisia-authorities-must-immediately-release-detained-lawyer-ahmed-souab/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Floribert Anzuluni : « La RDC n’utilisera pas la CIRGL pour régler ses comptes »](https://www.jeuneafrique.com/1742887/politique/floribert-anzuluni-la-rdc-nutilisera-pas-la-cirgl-pour-regler-ses-comptes/)
 - [Complot présumé contre le Burkina Faso : à Niamey, Serge Mathurin Adou condamné à deux ans ferme pour « atteinte à la sûreté de l’État »](https://www.jeuneafrique.com/1743188/politique/complot-presume-contre-le-burkina-faso-a-niamey-serge-mathurin-adou-condamne-a-deux-ans-ferme-pour-atteinte-a-la-surete-de-letat/)
 - [Côte d’Ivoire : Oligui Nguema, Diomaye Faye, Sassou Nguesso… Qui sera à l’investiture d’Alassane Ouattara ?](https://www.jeuneafrique.com/1743087/politique/cote-divoire-oligui-nguema-diomaye-faye-sassou-nguesso-qui-sera-a-linvestiture-dalassane-ouattara/)
 - [Boualem Sansal veut retourner en Algérie, Emmanuel Macron lui conseille de faire « attention »](https://www.jeuneafrique.com/1742970/politique/boualem-sansal-veut-retourner-en-algerie-emmanuel-macron-lui-conseille-de-faire-attention/)
@@ -271,7 +272,6 @@
 - [Cameroun : après le Nigeria, Issa Tchiroma Bakary a trouvé refuge en Gambie](https://www.jeuneafrique.com/1742823/politique/cameroun-apres-le-nigeria-issa-tchiroma-bakary-a-trouve-refuge-en-gambie/)
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
 - [Sénégal : pour Pastef, un avant et un après-8 novembre – par Mehdi Ba](https://www.jeuneafrique.com/1739851/politique/senegal-pour-pastef-un-avant-et-un-apres-8-novembre-par-mehdi-ba/)
-- [Au sommet du G20, le multilatéralisme sous pression](https://www.jeuneafrique.com/1742775/politique/au-sommet-du-g20-le-multilateralisme-sous-pression/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
 - [Le mobile money, nouvel accélérateur pour Maroc Telecom en Afrique subsaharienne](https://www.jeuneafrique.com/1742604/economie-entreprises/le-mobile-money-nouvel-accelerateur-pour-maroc-telecom-en-afrique-subsaharienne/)
 
