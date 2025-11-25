@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 11:02*
+*Generato: 25 Nov 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
+- [Toy safety: Parliament adopts new rules to enhance child health protection](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31494/toy-safety-parliament-adopts-new-rules-to-enhance-child-health-protection)
+- [Court of Auditors: MEPs back candidate from Germany](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31490/court-of-auditors-meps-back-candidate-from-germany)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31486/ep-today-tuesday-25-november)
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
 - [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
@@ -89,9 +92,6 @@
 - [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31484/press-briefing-on-this-week-s-plenary-session)
 - [COP30 outcome: slow progress, but insufficient to meet climate crisis urgency](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31438/cop30-outcome-slow-progress-but-insufficient-to-meet-climate-crisis-urgency)
-- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31482/press-briefing-on-next-week-s-plenary-session)
-- [EU Talent Pool: deal on facilitating international recruitment in shortage occupations](https://www.europarl.europa.eu/news/en/press-room/20251117IPR31428/eu-talent-pool-deal-on-facilitating-international-recruitment)
-- [Parliament delegation joins COP30 climate talks](https://www.europarl.europa.eu/news/en/press-room/20251113IPR31397/parliament-delegation-joins-cop30-climate-talks)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Complot présumé contre le Burkina Faso : à Niamey, Serge Mathurin Adou condamné à deux ans ferme pour « atteinte à la sûreté de l’État »](https://www.jeuneafrique.com/1743188/politique/complot-presume-contre-le-burkina-faso-a-niamey-serge-mathurin-adou-condamne-a-deux-ans-ferme-pour-atteinte-a-la-surete-de-letat/)
+- [Côte d’Ivoire : Oligui Nguema, Diomaye Faye, Sassou Nguesso… Qui sera à l’investiture d’Alassane Ouattara ?](https://www.jeuneafrique.com/1743087/politique/cote-divoire-oligui-nguema-diomaye-faye-sassou-nguesso-qui-sera-a-linvestiture-dalassane-ouattara/)
 - [Boualem Sansal veut retourner en Algérie, Emmanuel Macron lui conseille de faire « attention »](https://www.jeuneafrique.com/1742970/politique/boualem-sansal-veut-retourner-en-algerie-emmanuel-macron-lui-conseille-de-faire-attention/)
-- [Dans son duel avec Alassane Ouattara, Tidjane Thiam a-t-il franchi une ligne rouge ?](https://www.jeuneafrique.com/1740880/politique/dans-son-duel-avec-alassane-ouattara-tidjane-thiam-a-t-il-franchi-une-ligne-rouge/)
 - [Emmanuel Macron salue le « tournant » au Gabon après le putsch de 2023](https://www.jeuneafrique.com/1742812/politique/emmanuel-macron-salue-le-tournant-au-gabon-apres-le-putsch-de-2023/)
 - [Cameroun : après le Nigeria, Issa Tchiroma Bakary a trouvé refuge en Gambie](https://www.jeuneafrique.com/1742823/politique/cameroun-apres-le-nigeria-issa-tchiroma-bakary-a-trouve-refuge-en-gambie/)
 - [Présidentielle en Guinée-Bissau : les résultats attendus après un vote dans le calme](https://www.jeuneafrique.com/1742814/politique/presidentielle-en-guinee-bissau-les-resultats-attendus-apres-un-vote-dans-le-calme/)
+- [Sénégal : pour Pastef, un avant et un après-8 novembre – par Mehdi Ba](https://www.jeuneafrique.com/1739851/politique/senegal-pour-pastef-un-avant-et-un-apres-8-novembre-par-mehdi-ba/)
 - [Au sommet du G20, le multilatéralisme sous pression](https://www.jeuneafrique.com/1742775/politique/au-sommet-du-g20-le-multilateralisme-sous-pression/)
-- [Afrique du Sud : qui est derrière la machine politique de Fikile Mbalula, le numéro deux de l’ANC ?](https://www.jeuneafrique.com/1741118/politique/afrique-du-sud-qui-est-derriere-la-machine-politique-de-fikile-mbalula-le-numero-deux-de-lanc/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
 - [Le mobile money, nouvel accélérateur pour Maroc Telecom en Afrique subsaharienne](https://www.jeuneafrique.com/1742604/economie-entreprises/le-mobile-money-nouvel-accelerateur-pour-maroc-telecom-en-afrique-subsaharienne/)
 
