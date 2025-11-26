@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 15:09*
+*Generato: 26 Nov 2025, 18:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -85,13 +85,13 @@
 - [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
 - [Children should be at least 16 to access social media, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31496/children-should-be-at-least-16-to-access-social-media-say-meps)
 - [Arctic: MEPs warn of military build-up and geopolitical competition](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31495/arctic-meps-warn-of-military-build-up-and-geopolitical-competition)
+- [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
 - [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
 - [EU deforestation law: Parliament supports simplification measures](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31498/eu-deforestation-law-parliament-supports-simplification-measures)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31487/ep-today-wednesday-26-november)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
 - [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
 - [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
-- [Court of Auditors: MEPs back candidate from Germany](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31490/court-of-auditors-meps-back-candidate-from-germany)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
+- [Centrafrique : Touadéra trouve des garanties à Kigali pour pallier un éventuel retrait russe](https://www.jeuneafrique.com/1743443/politique/centrafrique-touadera-trouve-des-garanties-a-kigali-pour-pallier-un-eventuel-retrait-russe/)
 - [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
+- [Mohamed et Khadija Bazoum : 865 jours](https://www.jeuneafrique.com/1738527/politique/mohamed-et-khadija-bazoum-865-jours/)
 - [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
 - [Régionales au Cameroun : après la présidentielle, un deuxième round entre Biya et les oppositions](https://www.jeuneafrique.com/1741661/politique/regionales-au-cameroun-apres-la-presidentielle-un-deuxieme-round-entre-biya-et-les-oppositions/)
-- [Brice Clotaire Oligui Nguema et les Bongo dans l’arène médiatique](https://www.jeuneafrique.com/1743329/politique/brice-clotaire-oligui-nguema-et-les-bongo-dans-larene-mediatique/)
-- [Sénégal : Ousmane Sonko sera-t-il éligible en 2029 ?](https://www.jeuneafrique.com/1742304/politique/senegal-ousmane-sonko-sera-t-il-eligible-en-2029/)
 - [Maroc : les projets inaboutis du milliardaire Patrick Drahi](https://www.jeuneafrique.com/1743562/economie-entreprises/maroc-les-projets-inaboutis-du-milliardaire-patrick-drahi/)
 - [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
 
