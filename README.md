@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Nov 2025, 21:02*
+*Generato: 26 Nov 2025, 06:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,11 +82,11 @@
 
 ## UE – EP – Press Room
 
-- [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
-- [Toy safety: Parliament adopts new rules to enhance child health protection](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31494/toy-safety-parliament-adopts-new-rules-to-enhance-child-health-protection)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
 - [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
+- [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
 - [Court of Auditors: MEPs back candidate from Germany](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31490/court-of-auditors-meps-back-candidate-from-germany)
+- [Toy safety: Parliament adopts new rules to enhance child health protection](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31494/toy-safety-parliament-adopts-new-rules-to-enhance-child-health-protection)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31486/ep-today-tuesday-25-november)
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
 - [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Régionales au Cameroun : après la présidentielle, un deuxième round entre Biya et les oppositions](https://www.jeuneafrique.com/1741661/politique/regionales-au-cameroun-apres-la-presidentielle-un-deuxieme-round-entre-biya-et-les-oppositions/)
 - [Kankan, d’un président à l’autre](https://www.jeuneafrique.com/1743299/politique/kankan-dun-president-a-lautre/)
 - [Quand la guerre en Ukraine s’invite au sommet Afrique-Europe](https://www.jeuneafrique.com/1743296/politique/quand-la-guerre-en-ukraine-sinvite-au-sommet-afrique-europe/)
 - [Trafic de carburant en Libye : ce que l’on sait du démantèlement en Turquie d’un vaste réseau de blanchiment d’argent](https://www.jeuneafrique.com/1743213/politique/trafic-de-carburant-en-libye-ce-que-lon-sait-du-demantelement-en-turquie-dun-vaste-reseau-de-blanchiment-dargent/)
@@ -271,7 +272,6 @@
 - [Floribert Anzuluni : « La RDC n’utilisera pas la CIRGL pour régler ses comptes »](https://www.jeuneafrique.com/1742887/politique/floribert-anzuluni-la-rdc-nutilisera-pas-la-cirgl-pour-regler-ses-comptes/)
 - [Complot présumé contre le Burkina Faso : à Niamey, Serge Mathurin Adou condamné à deux ans ferme pour « atteinte à la sûreté de l’État »](https://www.jeuneafrique.com/1743188/politique/complot-presume-contre-le-burkina-faso-a-niamey-serge-mathurin-adou-condamne-a-deux-ans-ferme-pour-atteinte-a-la-surete-de-letat/)
 - [Cameroun : les sept défis capitaux de Paul Biya après la présidentielle](https://www.jeuneafrique.com/1739330/politique/cameroun-les-sept-defis-capitaux-de-paul-biya-apres-la-presidentielle/)
-- [« Au moins, il est des nôtres » : d’Alpha Condé à Mamadi Doumbouya, comment la Haute-Guinée a basculé](https://www.jeuneafrique.com/1741910/politique/au-moins-il-est-des-notres-dalpha-conde-a-mamadi-doumbouya-comment-la-haute-guinee-a-bascule/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
 - [BOAD : les coulisses de la transformation menée par Serge Ekué](https://www.jeuneafrique.com/1740244/economie-entreprises/boad-les-coulisses-de-la-transformation-menee-par-serge-ekue/)
 
