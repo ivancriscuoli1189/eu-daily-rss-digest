@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 12:18*
+*Generato: 26 Nov 2025, 13:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
 - [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
 - [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
+- [Régionales au Cameroun : après la présidentielle, un deuxième round entre Biya et les oppositions](https://www.jeuneafrique.com/1741661/politique/regionales-au-cameroun-apres-la-presidentielle-un-deuxieme-round-entre-biya-et-les-oppositions/)
+- [Brice Clotaire Oligui Nguema et les Bongo dans l’arène médiatique](https://www.jeuneafrique.com/1743329/politique/brice-clotaire-oligui-nguema-et-les-bongo-dans-larene-mediatique/)
 - [Sénégal : Ousmane Sonko sera-t-il éligible en 2029 ?](https://www.jeuneafrique.com/1742304/politique/senegal-ousmane-sonko-sera-t-il-eligible-en-2029/)
-- [Kankan, d’un président à l’autre](https://www.jeuneafrique.com/1743299/politique/kankan-dun-president-a-lautre/)
-- [Quand la guerre en Ukraine s’invite au sommet Afrique-Europe](https://www.jeuneafrique.com/1743296/politique/quand-la-guerre-en-ukraine-sinvite-au-sommet-afrique-europe/)
-- [Trafic de carburant en Libye : ce que l’on sait du démantèlement en Turquie d’un vaste réseau de blanchiment d’argent](https://www.jeuneafrique.com/1743213/politique/trafic-de-carburant-en-libye-ce-que-lon-sait-du-demantelement-en-turquie-dun-vaste-reseau-de-blanchiment-dargent/)
+- [Maroc : les projets inaboutis du milliardaire Patrick Drahi](https://www.jeuneafrique.com/1743562/economie-entreprises/maroc-les-projets-inaboutis-du-milliardaire-patrick-drahi/)
 - [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
-- [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
