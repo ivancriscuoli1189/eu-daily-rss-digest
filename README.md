@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 06:15*
+*Generato: 26 Nov 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,8 +70,8 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع سعادة السيدة "Mariem Martinez Laurel" سفيرة جمهورية كوبا بتونس التي أدّت زيارة توديع إلى رئيس الدولة بمناسبة انتهاء مهامها.](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-mariem-martinez-laurel-%D8%B3%D9%81%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%83%D9%88%D8%A8%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%AA%D9%8A)
-- [إشراف رئيس الجمهورية قيس سعيّد على موكب تسلّم أوراق اعتماد سفراء أجانب جدد بتونس](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%83%D8%A8-%D8%AA%D8%B3%D9%84%D9%91%D9%85-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF-%D8%B3%D9%81%D8%B1%D8%A7%D8%A1-%D8%A3%D8%AC%D8%A7%D9%86%D8%A8-%D8%AC%D8%AF%D8%AF-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-0)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الدّاخلية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%91%D8%A7%D8%AE%D9%84%D9%8A%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد "Giuseppe Perrone" سفير الاتحاد الأوروبي بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-giuseppe-perrone-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
 - [اجتماع رئيس الجمهوريّة قيس سعيّد بأعضاء اللّجنة التي كلّفها بإيجاد حلول عاجلة للوضع البيئي بمدينة قابس](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%91%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%83%D9%84%D9%91%D9%81%D9%87%D8%A7-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الدكتور سالم بن محمد المالك، المدير العام لمنظّمة العالم الإسلامي للتّربية والعلوم والثقافة والسيد ميغل أنخيل موراتينوس، الممثّل السّامي للأمم المتّحدة لتحالف الحضارات والمبعوث الأممي لمكافحة معاداة الإسلام](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%91%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-0)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31487/ep-today-wednesday-26-november)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
 - [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
 - [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
@@ -91,12 +92,11 @@
 - [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
 - [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
-- [Press conference: rapporteurs to brief media on the EU budget 2026 on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20251124IPR31551/press-conference-rapporteurs-to-brief-media-on-the-eu-budget-2026-on-tuesday)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Régionales au Cameroun : après la présidentielle, un deuxième round entre Biya et les oppositions](https://www.jeuneafrique.com/1741661/politique/regionales-au-cameroun-apres-la-presidentielle-un-deuxieme-round-entre-biya-et-les-oppositions/)
-- [Kankan, d’un président à l’autre](https://www.jeuneafrique.com/1743299/politique/kankan-dun-president-a-lautre/)
+- [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
+- [À Kankan, en Haute-Guinée, la famille Doumbouya fait la loi](https://www.jeuneafrique.com/1741379/politique/a-kankan-en-haute-guinee-la-famille-doumbouya-fait-la-loi/)
 - [Quand la guerre en Ukraine s’invite au sommet Afrique-Europe](https://www.jeuneafrique.com/1743296/politique/quand-la-guerre-en-ukraine-sinvite-au-sommet-afrique-europe/)
 - [Trafic de carburant en Libye : ce que l’on sait du démantèlement en Turquie d’un vaste réseau de blanchiment d’argent](https://www.jeuneafrique.com/1743213/politique/trafic-de-carburant-en-libye-ce-que-lon-sait-du-demantelement-en-turquie-dun-vaste-reseau-de-blanchiment-dargent/)
+- [5 questions pour comprendre pourquoi les législatives de 2026 seront un moment de vérité pour le Maroc](https://www.jeuneafrique.com/1743061/politique/5-questions-pour-comprendre-pourquoi-les-legislatives-de-2026-seront-un-moment-de-verite-pour-le-maroc/)
 - [Législatives en Côte d’Ivoire : les candidats indépendants en force](https://www.jeuneafrique.com/1741863/politique/legislatives-en-cote-divoire-les-candidats-independants-en-force/)
 - [Floribert Anzuluni : « La RDC n’utilisera pas la CIRGL pour régler ses comptes »](https://www.jeuneafrique.com/1742887/politique/floribert-anzuluni-la-rdc-nutilisera-pas-la-cirgl-pour-regler-ses-comptes/)
 - [Complot présumé contre le Burkina Faso : à Niamey, Serge Mathurin Adou condamné à deux ans ferme pour « atteinte à la sûreté de l’État »](https://www.jeuneafrique.com/1743188/politique/complot-presume-contre-le-burkina-faso-a-niamey-serge-mathurin-adou-condamne-a-deux-ans-ferme-pour-atteinte-a-la-surete-de-letat/)
-- [Cameroun : les sept défis capitaux de Paul Biya après la présidentielle](https://www.jeuneafrique.com/1739330/politique/cameroun-les-sept-defis-capitaux-de-paul-biya-apres-la-presidentielle/)
+- [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
-- [BOAD : les coulisses de la transformation menée par Serge Ekué](https://www.jeuneafrique.com/1740244/economie-entreprises/boad-les-coulisses-de-la-transformation-menee-par-serge-ekue/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
