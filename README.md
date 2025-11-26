@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 18:12*
+*Generato: 26 Nov 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
+- [Au Mali, les jihadistes s’inspirent-ils du « modèle » syrien ?](https://www.jeuneafrique.com/1743657/politique/au-mali-les-jihadistes-sinspirent-ils-du-modele-syrien/)
 - [Centrafrique : Touadéra trouve des garanties à Kigali pour pallier un éventuel retrait russe](https://www.jeuneafrique.com/1743443/politique/centrafrique-touadera-trouve-des-garanties-a-kigali-pour-pallier-un-eventuel-retrait-russe/)
 - [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
 - [Mohamed et Khadija Bazoum : 865 jours](https://www.jeuneafrique.com/1738527/politique/mohamed-et-khadija-bazoum-865-jours/)
 - [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
-- [Régionales au Cameroun : après la présidentielle, un deuxième round entre Biya et les oppositions](https://www.jeuneafrique.com/1741661/politique/regionales-au-cameroun-apres-la-presidentielle-un-deuxieme-round-entre-biya-et-les-oppositions/)
 - [Maroc : les projets inaboutis du milliardaire Patrick Drahi](https://www.jeuneafrique.com/1743562/economie-entreprises/maroc-les-projets-inaboutis-du-milliardaire-patrick-drahi/)
 - [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
 
