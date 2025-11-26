@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 11:02*
+*Generato: 26 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,21 +82,21 @@
 
 ## UE – EP – Press Room
 
+- [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
+- [Children should be at least 16 to access social media, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31496/children-should-be-at-least-16-to-access-social-media-say-meps)
+- [Arctic: MEPs warn of military build-up and geopolitical competition](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31495/arctic-meps-warn-of-military-build-up-and-geopolitical-competition)
+- [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
+- [EU deforestation law: Parliament supports simplification measures](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31498/eu-deforestation-law-parliament-supports-simplification-measures)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31487/ep-today-wednesday-26-november)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
 - [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
 - [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
 - [Court of Auditors: MEPs back candidate from Germany](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31490/court-of-auditors-meps-back-candidate-from-germany)
-- [Toy safety: Parliament adopts new rules to enhance child health protection](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31494/toy-safety-parliament-adopts-new-rules-to-enhance-child-health-protection)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31486/ep-today-tuesday-25-november)
-- [MEPs push for “military Schengen” to withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31538/meps-push-for-military-schengen-to-withstand-potential-russian-aggression)
-- [Opening: 24-27 November plenary session](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31489/opening-24-27-november-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31485/ep-today-monday-24-november)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
 - [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
 - [Sénégal : Ousmane Sonko sera-t-il éligible en 2029 ?](https://www.jeuneafrique.com/1742304/politique/senegal-ousmane-sonko-sera-t-il-eligible-en-2029/)
-- [À Kankan, en Haute-Guinée, la famille Doumbouya fait la loi](https://www.jeuneafrique.com/1741379/politique/a-kankan-en-haute-guinee-la-famille-doumbouya-fait-la-loi/)
+- [Kankan, d’un président à l’autre](https://www.jeuneafrique.com/1743299/politique/kankan-dun-president-a-lautre/)
 - [Quand la guerre en Ukraine s’invite au sommet Afrique-Europe](https://www.jeuneafrique.com/1743296/politique/quand-la-guerre-en-ukraine-sinvite-au-sommet-afrique-europe/)
 - [Trafic de carburant en Libye : ce que l’on sait du démantèlement en Turquie d’un vaste réseau de blanchiment d’argent](https://www.jeuneafrique.com/1743213/politique/trafic-de-carburant-en-libye-ce-que-lon-sait-du-demantelement-en-turquie-dun-vaste-reseau-de-blanchiment-dargent/)
-- [Au Niger, le MPLJ « pro-Bazoum » peut-il inquiéter Tiani ?](https://www.jeuneafrique.com/1743128/politique/au-niger-le-mplj-pro-bazoum-peut-il-inquieter-tiani/)
 - [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
 - [Or au Mali : Barrick évite le divorce avec Bamako](https://www.jeuneafrique.com/1743198/economie-entreprises/or-au-mali-barrick-evite-le-divorce-avec-bamako/)
 
