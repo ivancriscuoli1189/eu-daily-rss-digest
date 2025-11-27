@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Nov 2025, 06:16*
+*Generato: 27 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31488/ep-today-thursday-27-november)
 - [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
 - [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
 - [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
@@ -91,7 +92,6 @@
 - [Arctic: MEPs warn of military build-up and geopolitical competition](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31495/arctic-meps-warn-of-military-build-up-and-geopolitical-competition)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31487/ep-today-wednesday-26-november)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
-- [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Sénégal : la diaspora Pastef prend parti pour Sonko contre Diomaye](https://www.jeuneafrique.com/1743740/politique/senegal-la-diaspora-pastef-prend-parti-pour-sonko-contre-diomaye/)
+- [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
+- [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
+- [Après la condamnation de Serge Mathurin Adou au Niger, la Côte d’Ivoire espère une grâce](https://www.jeuneafrique.com/1743737/politique/apres-la-condamnation-de-serge-mathurin-adou-au-niger-la-cote-divoire-espere-une-grace/)
 - [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
 - [Au Mali, les jihadistes s’inspirent-ils du « modèle » syrien ?](https://www.jeuneafrique.com/1743657/politique/au-mali-les-jihadistes-sinspirent-ils-du-modele-syrien/)
 - [Centrafrique : Touadéra trouve des garanties à Kigali pour pallier un éventuel retrait russe](https://www.jeuneafrique.com/1743443/politique/centrafrique-touadera-trouve-des-garanties-a-kigali-pour-pallier-un-eventuel-retrait-russe/)
 - [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
-- [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
-- [Mohamed et Khadija Bazoum : 865 jours](https://www.jeuneafrique.com/1738527/politique/mohamed-et-khadija-bazoum-865-jours/)
-- [Maroc : les projets inaboutis du milliardaire Patrick Drahi](https://www.jeuneafrique.com/1743562/economie-entreprises/maroc-les-projets-inaboutis-du-milliardaire-patrick-drahi/)
-- [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
+- [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
+- [Finance, agriculture… Comment IFC veut muscler son action en Afrique](https://www.jeuneafrique.com/1743439/economie-entreprises/finance-agriculture-comment-ifc-veut-muscler-son-action-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
