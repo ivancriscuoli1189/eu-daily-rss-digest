@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Nov 2025, 15:10*
+*Generato: 27 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 - [End the judicial persecution of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/end-the-judicial-persecution-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Tunisia: Conviction of Ebru Timtik Award Laureate Ahmed Souab marks escalating repression of lawyers](https://www.icj.org/tunisia-conviction-of-ebru-timtik-award-laureate-ahmed-souab-marks-escalating-repression-of-lawyers/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
-- [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
-- [ICJ submission highlights discrimination as key obstacle to women and girls with disabilities in enforcing their human rights](https://www.icj.org/icj-submission-highlights-discrimination-as-key-obstacle-to-women-and-girls-with-disabilities-in-enforcing-their-human-rights/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
+- [En Côte d’Ivoire, le porte-parole du PDCI placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
 - [Afrique du Sud : dans ces fermes, noirs et blancs luttent ensemble contre la criminalité](https://www.jeuneafrique.com/1743338/politique/afrique-du-sud-dans-ces-fermes-noirs-et-blancs-luttent-ensemble-contre-la-criminalite/)
+- [Présidentielle au Cameroun : quand Tchiroma Bakary poussait Dion Ngute à se présenter](https://www.jeuneafrique.com/1743765/politique/presidentielle-au-cameroun-quand-tchiroma-bakary-poussait-dion-ngute-a-se-presenter/)
 - [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
 - [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
 - [Opposition au Congo : l’Upads se restructure, sans désigner de candidat pour 2026](https://www.jeuneafrique.com/1743779/politique/opposition-au-congo-lupads-se-restructure-sans-designer-de-candidat-pour-2026/)
-- [En Côte d’Ivoire, la guerre pour la succession de Laurent Gbagbo est déclarée](https://www.jeuneafrique.com/1743727/politique/en-cote-divoire-la-guerre-pour-la-succession-de-laurent-gbagbo-est-declaree/)
-- [Sénégal : la diaspora Pastef prend parti pour Sonko contre Diomaye](https://www.jeuneafrique.com/1743740/politique/senegal-la-diaspora-pastef-prend-parti-pour-sonko-contre-diomaye/)
+- [SGTM, Cash Plus, Dislog… Les dessous de l’euphorie boursière au Maroc](https://www.jeuneafrique.com/1743901/economie-entreprises/sgtm-cash-plus-dislog-les-dessous-de-leuphorie-boursiere-au-maroc/)
 - [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
-- [Finance, agriculture… Comment IFC veut muscler son action en Afrique](https://www.jeuneafrique.com/1743439/economie-entreprises/finance-agriculture-comment-ifc-veut-muscler-son-action-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
