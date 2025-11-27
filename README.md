@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Nov 2025, 12:18*
+*Generato: 27 Nov 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
 - [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
 - [Disability rights need to be mainstreamed across all EU policies, MEPs say](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31504/disability-rights-need-to-be-mainstreamed-across-all-eu-policies-meps-say)
 - [MEPs adopt position on new rules to make third-country lobbying more transparent](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31505/meps-adopt-position-on-new-rules-to-make-third-country-lobbying-more-transparent)
@@ -91,12 +92,11 @@
 - [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
 - [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
 - [EU deforestation law: Parliament supports simplification measures](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31498/eu-deforestation-law-parliament-supports-simplification-measures)
-- [Children should be at least 16 to access social media, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31496/children-should-be-at-least-16-to-access-social-media-say-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -268,10 +268,10 @@
 - [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
 - [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
 - [Opposition au Congo : l’Upads se restructure, sans désigner de candidat pour 2026](https://www.jeuneafrique.com/1743779/politique/opposition-au-congo-lupads-se-restructure-sans-designer-de-candidat-pour-2026/)
+- [En Côte d’Ivoire, la guerre pour la succession de Laurent Gbagbo est déclarée](https://www.jeuneafrique.com/1743727/politique/en-cote-divoire-la-guerre-pour-la-succession-de-laurent-gbagbo-est-declaree/)
 - [Sénégal : la diaspora Pastef prend parti pour Sonko contre Diomaye](https://www.jeuneafrique.com/1743740/politique/senegal-la-diaspora-pastef-prend-parti-pour-sonko-contre-diomaye/)
 - [RDC : où en est l’enquête sur la débâcle de l’armée face au M23 ?](https://www.jeuneafrique.com/1743855/politique/rdc-ou-en-est-lenquete-sur-la-debacle-de-larmee-face-au-m23/)
 - [Après la condamnation de Serge Mathurin Adou au Niger, la Côte d’Ivoire espère une grâce](https://www.jeuneafrique.com/1743737/politique/apres-la-condamnation-de-serge-mathurin-adou-au-niger-la-cote-divoire-espere-une-grace/)
-- [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
 - [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
 - [Finance, agriculture… Comment IFC veut muscler son action en Afrique](https://www.jeuneafrique.com/1743439/economie-entreprises/finance-agriculture-comment-ifc-veut-muscler-son-action-en-afrique/)
 
