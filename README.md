@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Nov 2025, 21:09*
+*Generato: 27 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,21 +82,21 @@
 
 ## UE – EP – Press Room
 
-- [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
-- [Children should be at least 16 to access social media, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31496/children-should-be-at-least-16-to-access-social-media-say-meps)
-- [Arctic: MEPs warn of military build-up and geopolitical competition](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31495/arctic-meps-warn-of-military-build-up-and-geopolitical-competition)
+- [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
 - [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
+- [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
 - [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
 - [EU deforestation law: Parliament supports simplification measures](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31498/eu-deforestation-law-parliament-supports-simplification-measures)
+- [Children should be at least 16 to access social media, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31496/children-should-be-at-least-16-to-access-social-media-say-meps)
+- [Arctic: MEPs warn of military build-up and geopolitical competition](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31495/arctic-meps-warn-of-military-build-up-and-geopolitical-competition)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31487/ep-today-wednesday-26-november)
 - [Protection of dogs and cats: deal on EU rules to stop abuse](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31539/protection-of-dogs-and-cats-deal-on-eu-rules-to-stop-abuse)
 - [Parliament sounds the alarm over Hungary’s deepening rule of law crisis](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31492/parliament-sounds-the-alarm-over-hungary-s-deepening-rule-of-law-crisis)
-- [Parliament greenlights first-ever European defence industry programme](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31493/parliament-greenlights-first-ever-european-defence-industry-programme)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sénégal : la diaspora Pastef prend parti pour Sonko contre Diomaye](https://www.jeuneafrique.com/1743740/politique/senegal-la-diaspora-pastef-prend-parti-pour-sonko-contre-diomaye/)
 - [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
 - [Au Mali, les jihadistes s’inspirent-ils du « modèle » syrien ?](https://www.jeuneafrique.com/1743657/politique/au-mali-les-jihadistes-sinspirent-ils-du-modele-syrien/)
 - [Centrafrique : Touadéra trouve des garanties à Kigali pour pallier un éventuel retrait russe](https://www.jeuneafrique.com/1743443/politique/centrafrique-touadera-trouve-des-garanties-a-kigali-pour-pallier-un-eventuel-retrait-russe/)
@@ -271,7 +272,6 @@
 - [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Nigeria : libération de 24 lycéennes enlevées la semaine dernière dans le Kebbi](https://www.jeuneafrique.com/1743646/politique/nigeria-liberation-de-24-lyceennes-enlevees-la-semaine-derniere-dans-le-kebbi/)
 - [Mohamed et Khadija Bazoum : 865 jours](https://www.jeuneafrique.com/1738527/politique/mohamed-et-khadija-bazoum-865-jours/)
-- [Tunisie : l’ambassadeur Giuseppe Perrone convoqué par le président Saïed pour « non-respect des règles du travail diplomatique »](https://www.jeuneafrique.com/1743630/politique/tunisie-lambassadeur-giuseppe-perrone-convoque-par-le-president-saied-pour-non-respect-des-regles-du-travail-diplomatique/)
 - [Maroc : les projets inaboutis du milliardaire Patrick Drahi](https://www.jeuneafrique.com/1743562/economie-entreprises/maroc-les-projets-inaboutis-du-milliardaire-patrick-drahi/)
 - [Angola : BAI se rêve en champion régional le long du corridor de Lobito](https://www.jeuneafrique.com/1743220/economie-entreprises/angola-bai-se-reve-en-champion-regional-le-long-du-corridor-de-lobito/)
 
