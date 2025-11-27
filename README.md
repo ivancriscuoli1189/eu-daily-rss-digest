@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Nov 2025, 09:11*
+*Generato: 27 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [End the judicial persecution of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/end-the-judicial-persecution-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Tunisia: Conviction of Ebru Timtik Award Laureate Ahmed Souab marks escalating repression of lawyers](https://www.icj.org/tunisia-conviction-of-ebru-timtik-award-laureate-ahmed-souab-marks-escalating-repression-of-lawyers/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
-- [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Afrique du Sud : dans ces fermes, noirs et blancs luttent ensemble contre la criminalité](https://www.jeuneafrique.com/1743338/politique/afrique-du-sud-dans-ces-fermes-noirs-et-blancs-luttent-ensemble-contre-la-criminalite/)
 - [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
 - [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
+- [Opposition au Congo : l’Upads se restructure, sans désigner de candidat pour 2026](https://www.jeuneafrique.com/1743779/politique/opposition-au-congo-lupads-se-restructure-sans-designer-de-candidat-pour-2026/)
+- [RDC : où en est l’enquête sur la débâcle de l’armée face au M23 ?](https://www.jeuneafrique.com/1743855/politique/rdc-ou-en-est-lenquete-sur-la-debacle-de-larmee-face-au-m23/)
 - [Après la condamnation de Serge Mathurin Adou au Niger, la Côte d’Ivoire espère une grâce](https://www.jeuneafrique.com/1743737/politique/apres-la-condamnation-de-serge-mathurin-adou-au-niger-la-cote-divoire-espere-une-grace/)
 - [Algérie : 150 jours de détention pour le journaliste français Christophe Gleizes](https://www.jeuneafrique.com/1743713/politique/algerie-150-jours-de-detention-pour-le-journaliste-francais-christophe-gleizes/)
 - [Au Mali, les jihadistes s’inspirent-ils du « modèle » syrien ?](https://www.jeuneafrique.com/1743657/politique/au-mali-les-jihadistes-sinspirent-ils-du-modele-syrien/)
-- [Centrafrique : Touadéra trouve des garanties à Kigali pour pallier un éventuel retrait russe](https://www.jeuneafrique.com/1743443/politique/centrafrique-touadera-trouve-des-garanties-a-kigali-pour-pallier-un-eventuel-retrait-russe/)
-- [En Tunisie, l’Association des femmes démocrates se relance après un mois de suspension imposée](https://www.jeuneafrique.com/1743625/politique/en-tunisie-lassociation-des-femmes-democrates-se-relance-apres-un-mois-de-suspension-imposee/)
-- [Présidentielle en Guinée-Bissau : le camp d’Umaro Sissoco Embaló et celui de Fernando Dias revendiquent chacun la victoire](https://www.jeuneafrique.com/1743640/politique/presidentielle-en-guinee-bissau-le-camp-dumaro-sissoco-embalo-et-celui-de-fernando-dias-revendiquent-chacun-la-victoire/)
 - [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
 - [Finance, agriculture… Comment IFC veut muscler son action en Afrique](https://www.jeuneafrique.com/1743439/economie-entreprises/finance-agriculture-comment-ifc-veut-muscler-son-action-en-afrique/)
 
