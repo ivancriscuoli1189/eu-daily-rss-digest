@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Nov 2025, 21:09*
+*Generato: 28 Nov 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : comment Danpullo a tenté de dissuader Tchiroma Bakary d’affronter Paul Biya](https://www.jeuneafrique.com/1743877/politique/cameroun-comment-danpullo-a-tente-de-dissuader-tchiroma-bakary-daffronter-paul-biya/)
 - [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
 - [En Côte d’Ivoire, le porte-parole du PDCI placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
@@ -271,7 +272,6 @@
 - [Présidentielle au Cameroun : quand Tchiroma Bakary poussait Dion Ngute à se présenter](https://www.jeuneafrique.com/1743765/politique/presidentielle-au-cameroun-quand-tchiroma-bakary-poussait-dion-ngute-a-se-presenter/)
 - [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
 - [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
-- [Opposition au Congo : l’Upads se restructure, sans désigner de candidat pour 2026](https://www.jeuneafrique.com/1743779/politique/opposition-au-congo-lupads-se-restructure-sans-designer-de-candidat-pour-2026/)
 - [SGTM, Cash Plus, Dislog… Les dessous de l’euphorie boursière au Maroc](https://www.jeuneafrique.com/1743901/economie-entreprises/sgtm-cash-plus-dislog-les-dessous-de-leuphorie-boursiere-au-maroc/)
 - [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
 
