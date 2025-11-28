@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 12:18*
+*Generato: 28 Nov 2025, 13:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Quash unjust heavy convictions in ‘conspiracy case’](https://www.amnesty.org/en/latest/news/2025/11/tunisia-quash-unjust-heavy-convictions-in-conspiracy-case/)
 - [Tunisia: Conviction of human rights defenders confirms criminalization of civil society work](https://www.amnesty.org/en/latest/news/2025/11/tunisia-conviction-of-human-rights-defenders-confirms-criminalization-of-civil-society-work/)
 - [Tunisia: Escalating crackdown on human rights organizations reaches critical levels](https://www.amnesty.org/en/latest/news/2025/11/tunisia-escalating-crackdown-on-human-rights-organizations-reaches-critical-levels/)
-- [Tunisia: Rampant violations against refugees and migrants expose EU’s complicity risk](https://www.amnesty.org/en/latest/news/2025/11/tunisia-rampant-violations-against-refugees-migrants-eu-risks-complicity/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -222,6 +222,19 @@
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
+
+## THINK TANK – ECFR – MENA
+
+- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
+- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
+- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
+- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
+- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
+- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
+- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
+- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
+- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
+- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
 
 ## THINK TANK – CESPI – Attualità
 
