@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 11:09*
+*Generato: 28 Nov 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 - [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 
-## THINK TANK – ECFR – MENA
-
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -271,9 +258,9 @@
 - [La Tunisie épinglée par le Parlement européen, Sonia Dahmani libérée](https://www.jeuneafrique.com/1744158/politique/la-tunisie-epinglee-par-le-parlement-europeen-sonia-dahmani-liberee/)
 - [En Côte d’Ivoire, le porte-parole du PDCI, Soumaïla Bredoumy, placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
-- [RDC : 10 choses à savoir sur Jamil Mukulu, le leader des ADF qui fait enfin face à ses juges](https://www.jeuneafrique.com/1742957/politique/rdc-10-choses-a-savoir-sur-jamil-mukulu-le-leader-des-adf-qui-fait-enfin-face-a-ses-juges/)
+- [Destitution du président Embaló : ce que l’on sait du coup de force en Guinée-Bissau](https://www.jeuneafrique.com/1744036/politique/destitution-du-president-embalo-ce-que-lon-sait-du-coup-de-force-en-guinee-bissau/)
+- [Mines : Barrick prépare-t-il un Randgold nouvelle génération en Afrique ?](https://www.jeuneafrique.com/1744089/economie-entreprises/mines-barrick-prepare-t-il-un-randgold-nouvelle-generation-en-afrique/)
 - [Afriquia, Elton, Petro Ivoire… Pourquoi les distributeurs africains restent dans l’ombre des majors](https://www.jeuneafrique.com/1743915/economie-entreprises/afriquia-elton-petro-ivoire-pourquoi-les-distributeurs-africains-restent-a-lombre-des-majors/)
-- [SGTM, Cash Plus, Dislog… Les dessous de l’euphorie boursière au Maroc](https://www.jeuneafrique.com/1743901/economie-entreprises/sgtm-cash-plus-dislog-les-dessous-de-leuphorie-boursiere-au-maroc/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
