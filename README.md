@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 09:11*
+*Generato: 28 Nov 2025, 11:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Procès du « complot » en Tunisie : jusqu’à 45 ans de prison en appel pour des opposants](https://www.jeuneafrique.com/1744448/politique/proces-du-complot-en-tunisie-jusqua-45-ans-de-prison-en-appel/)
+- [Côte d’Ivoire : le porte-parole du PDCI écroué pour « actes terroristes » et « complot »](https://www.jeuneafrique.com/1744427/politique/cote-divoire-le-porte-parole-du-pdci-ecroue-pour-actes-terroristes-et-complot/)
 - [Tunisie : Kaïs Saïed dénonce une « ingérence flagrante » après une résolution du Parlement européen](https://www.jeuneafrique.com/1744410/politique/tunisie-kais-saied-denonce-une-ingerence-flagrante-une-resolution-du-parlement-europeen/)
 - [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
 - [La Tunisie épinglée par le Parlement européen, Sonia Dahmani libérée](https://www.jeuneafrique.com/1744158/politique/la-tunisie-epinglee-par-le-parlement-europeen-sonia-dahmani-liberee/)
-- [En Côte d’Ivoire, le porte-parole du PDCI placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
+- [En Côte d’Ivoire, le porte-parole du PDCI, Soumaïla Bredoumy, placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
 - [RDC : 10 choses à savoir sur Jamil Mukulu, le leader des ADF qui fait enfin face à ses juges](https://www.jeuneafrique.com/1742957/politique/rdc-10-choses-a-savoir-sur-jamil-mukulu-le-leader-des-adf-qui-fait-enfin-face-a-ses-juges/)
-- [Afrique du Sud : dans ces fermes, noirs et blancs luttent ensemble contre la criminalité](https://www.jeuneafrique.com/1743338/politique/afrique-du-sud-dans-ces-fermes-noirs-et-blancs-luttent-ensemble-contre-la-criminalite/)
-- [Présidentielle au Cameroun : quand Tchiroma Bakary poussait Dion Ngute à se présenter](https://www.jeuneafrique.com/1743765/politique/presidentielle-au-cameroun-quand-tchiroma-bakary-poussait-dion-ngute-a-se-presenter/)
 - [Afriquia, Elton, Petro Ivoire… Pourquoi les distributeurs africains restent dans l’ombre des majors](https://www.jeuneafrique.com/1743915/economie-entreprises/afriquia-elton-petro-ivoire-pourquoi-les-distributeurs-africains-restent-a-lombre-des-majors/)
 - [SGTM, Cash Plus, Dislog… Les dessous de l’euphorie boursière au Maroc](https://www.jeuneafrique.com/1743901/economie-entreprises/sgtm-cash-plus-dislog-les-dessous-de-leuphorie-boursiere-au-maroc/)
 
