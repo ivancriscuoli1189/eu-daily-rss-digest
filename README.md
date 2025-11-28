@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 15:10*
+*Generato: 28 Nov 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Coup d’État en Guinée-Bissau: l’ex-ministre des Finances d’Embaló nommé Premier ministre](https://www.jeuneafrique.com/1744774/politique/coup-detat-en-guinee-bissau-lex-ministre-des-finances-dembalo-nomme-premier-ministre/)
+- [« Daandè Liptako », la nouvelle arme médiatique de l’AES](https://www.jeuneafrique.com/1744647/politique/daande-liptako-la-nouvelle-arme-mediatique-de-laes/)
+- [Mali : à Bamako, un début d’amélioration de l’approvisionnement en carburant](https://www.jeuneafrique.com/1744720/politique/mali-a-bamako-un-debut-damelioration-de-lapprovisionnement-en-carburant/)
+- [En Algérie, un journaliste emprisonné sur fond d’interrogations sur le trésor de guerre du FLN](https://www.jeuneafrique.com/1744580/politique/en-algerie-un-journaliste-emprisonne-sur-fond-dinterrogations-sur-le-tresor-de-guerre-du-fln/)
+- [Extradition de Madiambal Diagne : la justice française demande au Sénégal de revoir sa copie](https://www.jeuneafrique.com/1744504/politique/extradition-de-madiambal-diagne-la-justice-francaise-demande-au-senegal-de-revoir-sa-copie/)
 - [Procès du « complot » en Tunisie : jusqu’à 45 ans de prison en appel pour des opposants](https://www.jeuneafrique.com/1744448/politique/proces-du-complot-en-tunisie-jusqua-45-ans-de-prison-en-appel/)
 - [Côte d’Ivoire : le porte-parole du PDCI écroué pour « actes terroristes » et « complot »](https://www.jeuneafrique.com/1744427/politique/cote-divoire-le-porte-parole-du-pdci-ecroue-pour-actes-terroristes-et-complot/)
 - [Tunisie : Kaïs Saïed dénonce une « ingérence flagrante » après une résolution du Parlement européen](https://www.jeuneafrique.com/1744410/politique/tunisie-kais-saied-denonce-une-ingerence-flagrante-une-resolution-du-parlement-europeen/)
-- [Bah Oury : « Tous ceux qui ont contribué au troisième mandat d’Alpha Condé se sont politiquement suicidés »](https://www.jeuneafrique.com/1744031/politique/bah-oury-tous-ceux-qui-ont-contribue-au-troisieme-mandat-dalpha-conde-se-sont-politiquement-suicides/)
-- [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
-- [La Tunisie épinglée par le Parlement européen, Sonia Dahmani libérée](https://www.jeuneafrique.com/1744158/politique/la-tunisie-epinglee-par-le-parlement-europeen-sonia-dahmani-liberee/)
-- [En Côte d’Ivoire, le porte-parole du PDCI, Soumaïla Bredoumy, placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
-- [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
+- [Côte d’Ivoire, Cameroun, Sénégal, Gabon… Ce qu’il faut retenir de leur budget 2026](https://www.jeuneafrique.com/1744661/economie-entreprises/cote-divoire-cameroun-senegal-gabon-ce-quil-faut-retenir-de-leur-budget-2026/)
 - [Mines : Barrick prépare-t-il un Randgold nouvelle génération en Afrique ?](https://www.jeuneafrique.com/1744089/economie-entreprises/mines-barrick-prepare-t-il-un-randgold-nouvelle-generation-en-afrique/)
-- [Afriquia, Elton, Petro Ivoire… Pourquoi les distributeurs africains restent dans l’ombre des majors](https://www.jeuneafrique.com/1743915/economie-entreprises/afriquia-elton-petro-ivoire-pourquoi-les-distributeurs-africains-restent-a-lombre-des-majors/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
