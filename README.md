@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 06:16*
+*Generato: 28 Nov 2025, 09:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
 - [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
 - [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
 - [Disability rights need to be mainstreamed across all EU policies, MEPs say](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31504/disability-rights-need-to-be-mainstreamed-across-all-eu-policies-meps-say)
@@ -91,7 +92,6 @@
 - [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
 - [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
 - [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
-- [EU deforestation law: Parliament supports simplification measures](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31498/eu-deforestation-law-parliament-supports-simplification-measures)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : comment Danpullo a tenté de dissuader Tchiroma Bakary d’affronter Paul Biya](https://www.jeuneafrique.com/1743877/politique/cameroun-comment-danpullo-a-tente-de-dissuader-tchiroma-bakary-daffronter-paul-biya/)
+- [Tunisie : Kaïs Saïed dénonce une « ingérence flagrante » après une résolution du Parlement européen](https://www.jeuneafrique.com/1744410/politique/tunisie-kais-saied-denonce-une-ingerence-flagrante-une-resolution-du-parlement-europeen/)
 - [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
+- [La Tunisie épinglée par le Parlement européen, Sonia Dahmani libérée](https://www.jeuneafrique.com/1744158/politique/la-tunisie-epinglee-par-le-parlement-europeen-sonia-dahmani-liberee/)
 - [En Côte d’Ivoire, le porte-parole du PDCI placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
+- [RDC : 10 choses à savoir sur Jamil Mukulu, le leader des ADF qui fait enfin face à ses juges](https://www.jeuneafrique.com/1742957/politique/rdc-10-choses-a-savoir-sur-jamil-mukulu-le-leader-des-adf-qui-fait-enfin-face-a-ses-juges/)
 - [Afrique du Sud : dans ces fermes, noirs et blancs luttent ensemble contre la criminalité](https://www.jeuneafrique.com/1743338/politique/afrique-du-sud-dans-ces-fermes-noirs-et-blancs-luttent-ensemble-contre-la-criminalite/)
 - [Présidentielle au Cameroun : quand Tchiroma Bakary poussait Dion Ngute à se présenter](https://www.jeuneafrique.com/1743765/politique/presidentielle-au-cameroun-quand-tchiroma-bakary-poussait-dion-ngute-a-se-presenter/)
-- [Tunisie : l’Union européenne soutient son ambassadeur après la convocation par la présidence](https://www.jeuneafrique.com/1743988/politique/tunisie-lunion-europeenne-soutient-son-ambassadeur-apres-la-convocation-par-la-presidence/)
-- [Extradition de Halima Ben Ali : Paris demande un complément d’information à Tunis](https://www.jeuneafrique.com/1743991/politique/extradition-de-halima-ben-ali-paris-demande-un-complement-dinformation-a-tunis/)
+- [Afriquia, Elton, Petro Ivoire… Pourquoi les distributeurs africains restent dans l’ombre des majors](https://www.jeuneafrique.com/1743915/economie-entreprises/afriquia-elton-petro-ivoire-pourquoi-les-distributeurs-africains-restent-a-lombre-des-majors/)
 - [SGTM, Cash Plus, Dislog… Les dessous de l’euphorie boursière au Maroc](https://www.jeuneafrique.com/1743901/economie-entreprises/sgtm-cash-plus-dislog-les-dessous-de-leuphorie-boursiere-au-maroc/)
-- [Dette du Sénégal : pourquoi le rebasage du PIB n’a pas fait de miracle](https://www.jeuneafrique.com/1743725/economie-entreprises/dette-du-senegal-pourquoi-le-rebasage-du-pib-na-pas-fait-de-miracle/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
