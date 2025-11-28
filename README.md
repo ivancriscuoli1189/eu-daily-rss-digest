@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 13:24*
+*Generato: 28 Nov 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -239,7 +239,7 @@
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [Sud globale. Un’invenzione del Nord?](https://www.cespi.it/it/eventi-note/eventi/sud-globale-uninvenzione-del-nord)
+- [Chile: ¿El pueblo unido? El escenario postelectoral en un país polarizado](https://www.cespi.it/it/eventi-note/eventi/chile-el-pueblo-unido-el-escenario-postelectoral-en-un-pais-polarizado)
 - [Graduatoria finale della procedura comparativa per titoli di figure professionali cui affidare incarichi nell’ambito del progetto SU.PR.EME. 2](https://www.cespi.it/it/eventi-note/comunicazioni/graduatoria-finale-della-procedura-comparativa-titoli-di-figure-3)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -267,11 +267,11 @@
 - [Procès du « complot » en Tunisie : jusqu’à 45 ans de prison en appel pour des opposants](https://www.jeuneafrique.com/1744448/politique/proces-du-complot-en-tunisie-jusqua-45-ans-de-prison-en-appel/)
 - [Côte d’Ivoire : le porte-parole du PDCI écroué pour « actes terroristes » et « complot »](https://www.jeuneafrique.com/1744427/politique/cote-divoire-le-porte-parole-du-pdci-ecroue-pour-actes-terroristes-et-complot/)
 - [Tunisie : Kaïs Saïed dénonce une « ingérence flagrante » après une résolution du Parlement européen](https://www.jeuneafrique.com/1744410/politique/tunisie-kais-saied-denonce-une-ingerence-flagrante-une-resolution-du-parlement-europeen/)
+- [Bah Oury : « Tous ceux qui ont contribué au troisième mandat d’Alpha Condé se sont politiquement suicidés »](https://www.jeuneafrique.com/1744031/politique/bah-oury-tous-ceux-qui-ont-contribue-au-troisieme-mandat-dalpha-conde-se-sont-politiquement-suicides/)
 - [États-Unis – Afrique du Sud : Donald Trump exclut Cyril Ramaphosa du prochain G20](https://www.jeuneafrique.com/1744078/politique/etats-unis-afrique-du-sud-donald-trump-exclut-cyril-ramaphosa-du-prochain-g20/)
 - [La Tunisie épinglée par le Parlement européen, Sonia Dahmani libérée](https://www.jeuneafrique.com/1744158/politique/la-tunisie-epinglee-par-le-parlement-europeen-sonia-dahmani-liberee/)
 - [En Côte d’Ivoire, le porte-parole du PDCI, Soumaïla Bredoumy, placé en garde à vue](https://www.jeuneafrique.com/1744030/politique/en-cote-divoire-le-porte-parole-du-pdci-place-en-garde-a-vue/)
 - [Tunisie : l’avocate Sonia Dahmani libérée](https://www.jeuneafrique.com/1744154/politique/tunisie-lavocate-sonia-dahmani-liberee/)
-- [Destitution du président Embaló : ce que l’on sait du coup de force en Guinée-Bissau](https://www.jeuneafrique.com/1744036/politique/destitution-du-president-embalo-ce-que-lon-sait-du-coup-de-force-en-guinee-bissau/)
 - [Mines : Barrick prépare-t-il un Randgold nouvelle génération en Afrique ?](https://www.jeuneafrique.com/1744089/economie-entreprises/mines-barrick-prepare-t-il-un-randgold-nouvelle-generation-en-afrique/)
 - [Afriquia, Elton, Petro Ivoire… Pourquoi les distributeurs africains restent dans l’ombre des majors](https://www.jeuneafrique.com/1743915/economie-entreprises/afriquia-elton-petro-ivoire-pourquoi-les-distributeurs-africains-restent-a-lombre-des-majors/)
 
