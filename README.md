@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 18:15*
+*Generato: 01 Dec 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,8 +272,8 @@
 - [Cameroun : l’opposant Anicet Ekane est mort en détention](https://www.jeuneafrique.com/1744991/politique/cameroun-lopposant-anicet-ekane-est-mort-en-detention/)
 - [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
 - [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
+- [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
 - [Mali : à Bamako, le marché de l’immobilier victime collatérale de l’instabilité sécuritaire et politique](https://www.jeuneafrique.com/1738109/economie-entreprises/mali-a-bamako-le-marche-de-limmobilier-victime-collaterale-de-linstabilite-securitaire-et-politique/)
-- [Niger – Orano : malgré l’arbitrage en cours, Niamey veut vendre son uranium au plus offrant](https://www.jeuneafrique.com/1744971/economie-entreprises/niger-orano-malgre-larbitrage-en-cours-niamey-veut-vendre-son-uranium-au-plus-offrant/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
