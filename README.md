@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 13:29*
+*Generato: 01 Dec 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Quand Olivier Faure « oublie » Mohamed Bazoum](https://www.jeuneafrique.com/1745108/politique/quand-olivier-faure-oublie-mohamed-bazoum/)
 - [Le traitement des migrants en Tunisie porté devant la Cour pénale internationale](https://www.jeuneafrique.com/1744947/politique/le-traitement-des-migrants-en-tunisie-porte-devant-la-cour-penale-internationale/)
 - [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
 - [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
@@ -271,7 +272,6 @@
 - [À Madagascar, les hommes de confiance du colonel-président Michaël Randrianirina](https://www.jeuneafrique.com/1744034/politique/a-madagascar-les-hommes-de-confiance-du-colonel-president-michael-randrianirina/)
 - [Guinée-Bissau : un nouveau gouvernement annoncé](https://www.jeuneafrique.com/1744932/politique/guinee-bissau-un-nouveau-gouvernement-annonce/)
 - [Tunisie : la poétesse et militante Chaïma Issa arrêtée lors d’une manifestation](https://www.jeuneafrique.com/1744927/politique/tunisie-la-poetesse-et-militante-chaima-issa-arretee-lors-dune-manifestation/)
-- [Sénégal-Mali : mon reportage chez les « voisins d’en face »](https://www.jeuneafrique.com/1739990/politique/senegal-mali-mon-reportage-chez-les-voisins-den-face/)
 - [Niger – Orano : malgré l’arbitrage en cours, Niamey veut vendre son uranium au plus offrant](https://www.jeuneafrique.com/1744971/economie-entreprises/niger-orano-malgre-larbitrage-en-cours-niamey-veut-vendre-son-uranium-au-plus-offrant/)
 - [Bitcoin : quand la crypto met l’Afrique face à un dilemme énergétique](https://www.jeuneafrique.com/1744675/economie-entreprises/bitcoin-quand-la-crypto-met-lafrique-face-a-un-dilemme-energetique/)
 
