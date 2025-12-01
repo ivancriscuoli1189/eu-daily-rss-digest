@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Nov 2025, 21:02*
+*Generato: 01 Dec 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -79,6 +79,19 @@
 - [اجتماع رئيس الجمهوريّة قيس سعيّد بأعضاء اللّجنة التي كلّفها بإيجاد حلول عاجلة للوضع البيئي بمدينة قابس](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%91%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%83%D9%84%D9%91%D9%81%D9%87%D8%A7-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الدكتور سالم بن محمد المالك، المدير العام لمنظّمة العالم الإسلامي للتّربية والعلوم والثقافة والسيد ميغل أنخيل موراتينوس، الممثّل السّامي للأمم المتّحدة لتحالف الحضارات والمبعوث الأممي لمكافحة معاداة الإسلام](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%91%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد فاروق بوعسكر رئيس الهيئة العليا المستقلّة للانتخابات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%81%D8%A7%D8%B1%D9%88%D9%82-%D8%A8%D9%88%D8%B9%D8%B3%D9%83%D8%B1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D9%84%D9%91%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA)
+
+## UE – EP – Press Room
+
+- [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
+- [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
+- [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
+- [Disability rights need to be mainstreamed across all EU policies, MEPs say](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31504/disability-rights-need-to-be-mainstreamed-across-all-eu-policies-meps-say)
+- [MEPs adopt position on new rules to make third-country lobbying more transparent](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31505/meps-adopt-position-on-new-rules-to-make-third-country-lobbying-more-transparent)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31488/ep-today-thursday-27-november)
+- [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
+- [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
+- [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
+- [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -251,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Coup d’État en Guinée-Bissau: l’ex-ministre des Finances d’Embaló nommé Premier ministre](https://www.jeuneafrique.com/1744774/politique/coup-detat-en-guinee-bissau-lex-ministre-des-finances-dembalo-nomme-premier-ministre/)
-- [« Daandè Liptako », la nouvelle arme médiatique de l’AES](https://www.jeuneafrique.com/1744647/politique/daande-liptako-la-nouvelle-arme-mediatique-de-laes/)
-- [Mali : à Bamako, un début d’amélioration de l’approvisionnement en carburant](https://www.jeuneafrique.com/1744720/politique/mali-a-bamako-un-debut-damelioration-de-lapprovisionnement-en-carburant/)
-- [En Algérie, un journaliste emprisonné sur fond d’interrogations sur le trésor de guerre du FLN](https://www.jeuneafrique.com/1744580/politique/en-algerie-un-journaliste-emprisonne-sur-fond-dinterrogations-sur-le-tresor-de-guerre-du-fln/)
-- [Extradition de Madiambal Diagne : la justice française demande au Sénégal de revoir sa copie](https://www.jeuneafrique.com/1744504/politique/extradition-de-madiambal-diagne-la-justice-francaise-demande-au-senegal-de-revoir-sa-copie/)
-- [Procès du « complot » en Tunisie : jusqu’à 45 ans de prison en appel pour des opposants](https://www.jeuneafrique.com/1744448/politique/proces-du-complot-en-tunisie-jusqua-45-ans-de-prison-en-appel/)
-- [Côte d’Ivoire : le porte-parole du PDCI écroué pour « actes terroristes » et « complot »](https://www.jeuneafrique.com/1744427/politique/cote-divoire-le-porte-parole-du-pdci-ecroue-pour-actes-terroristes-et-complot/)
-- [Tunisie : Kaïs Saïed dénonce une « ingérence flagrante » après une résolution du Parlement européen](https://www.jeuneafrique.com/1744410/politique/tunisie-kais-saied-denonce-une-ingerence-flagrante-une-resolution-du-parlement-europeen/)
+- [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
+- [Guinée-Bissau : un nouveau gouvernement annoncé](https://www.jeuneafrique.com/1744932/politique/guinee-bissau-un-nouveau-gouvernement-annonce/)
+- [Tunisie : la poétesse et militante Chaïma Issa arrêtée lors d’une manifestation](https://www.jeuneafrique.com/1744927/politique/tunisie-la-poetesse-et-militante-chaima-issa-arretee-lors-dune-manifestation/)
+- [Guinée-Bissau : le PAIGC dénonce un raid mené contre son siège par des hommes lourdement armés](https://www.jeuneafrique.com/1744918/politique/guinee-bissau-le-paigc-denonce-un-raid-contre-son-siege-par-des-hommes-lourdement-armes/)
+- [En Guinée, discrètes purges dans l’entourage d’Alpha Condé](https://www.jeuneafrique.com/1744664/politique/en-guinee-discretes-purges-dans-lentourage-dalpha-conde/)
+- [Un coup d’État en Guinée-Bissau, un exécutif sénégalais qui tangue, un G20 qui entérine un multilatéralisme sous la pression américaine : les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1744527/politique/un-coup-detat-en-guinee-bissau-un-executif-senegalais-qui-tangue-un-g20-qui-enterine-un-multilateralisme-sous-la-pression-americaine-les-5-infos-incontournables-de-la-semaine/)
+- [Coup d’État en Guinée-Bissau : retour en images sur la chute d’Embaló](https://www.jeuneafrique.com/1744889/politique/coup-detat-en-guinee-bissau-retour-en-images-sur-la-chute-dembalo/)
+- [Côte d’Ivoire : au RHDP, Kobenan Kouassi Adjoumani, grande gueule et poète](https://www.jeuneafrique.com/1744439/politique/cote-divoire-au-rhdp-kobenan-kouassi-adjoumani-grande-gueule-et-poete/)
+- [Comment Dangote force les distributeurs nigérians à revoir leur copie](https://www.jeuneafrique.com/1744431/economie-entreprises/comment-dangote-force-les-distributeurs-nigerians-a-revoir-leur-copie/)
 - [Côte d’Ivoire, Cameroun, Sénégal, Gabon… Ce qu’il faut retenir de leur budget 2026](https://www.jeuneafrique.com/1744661/economie-entreprises/cote-divoire-cameroun-senegal-gabon-ce-quil-faut-retenir-de-leur-budget-2026/)
-- [Mines : Barrick prépare-t-il un Randgold nouvelle génération en Afrique ?](https://www.jeuneafrique.com/1744089/economie-entreprises/mines-barrick-prepare-t-il-un-randgold-nouvelle-generation-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
