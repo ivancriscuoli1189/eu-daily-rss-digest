@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 09:16*
+*Generato: 01 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le traitement des migrants en Tunisie porté devant la Cour pénale internationale](https://www.jeuneafrique.com/1744947/politique/le-traitement-des-migrants-en-tunisie-porte-devant-la-cour-penale-internationale/)
+- [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
 - [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
 - [Mohamed Bazoum, bouclier humain d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1744906/politique/mohamed-bazoum-bouclier-humain-dabdourahamane-tiani/)
 - [Guinée-Bissau : un nouveau gouvernement annoncé](https://www.jeuneafrique.com/1744932/politique/guinee-bissau-un-nouveau-gouvernement-annonce/)
 - [Tunisie : la poétesse et militante Chaïma Issa arrêtée lors d’une manifestation](https://www.jeuneafrique.com/1744927/politique/tunisie-la-poetesse-et-militante-chaima-issa-arretee-lors-dune-manifestation/)
+- [Sénégal-Mali : mon reportage chez les « voisins d’en face »](https://www.jeuneafrique.com/1739990/politique/senegal-mali-mon-reportage-chez-les-voisins-den-face/)
 - [Guinée-Bissau : le PAIGC dénonce un raid mené contre son siège par des hommes lourdement armés](https://www.jeuneafrique.com/1744918/politique/guinee-bissau-le-paigc-denonce-un-raid-contre-son-siege-par-des-hommes-lourdement-armes/)
-- [En Guinée, discrètes purges dans l’entourage d’Alpha Condé](https://www.jeuneafrique.com/1744664/politique/en-guinee-discretes-purges-dans-lentourage-dalpha-conde/)
-- [Un coup d’État en Guinée-Bissau, un exécutif sénégalais qui tangue, un G20 qui entérine un multilatéralisme sous la pression américaine : les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1744527/politique/un-coup-detat-en-guinee-bissau-un-executif-senegalais-qui-tangue-un-g20-qui-enterine-un-multilateralisme-sous-la-pression-americaine-les-5-infos-incontournables-de-la-semaine/)
-- [Coup d’État en Guinée-Bissau : retour en images sur la chute d’Embaló](https://www.jeuneafrique.com/1744889/politique/coup-detat-en-guinee-bissau-retour-en-images-sur-la-chute-dembalo/)
-- [Comment Dangote force les distributeurs nigérians à revoir leur copie](https://www.jeuneafrique.com/1744431/economie-entreprises/comment-dangote-force-les-distributeurs-nigerians-a-revoir-leur-copie/)
-- [Noix de cajou : ce que le record d’exportation de la Côte d’Ivoire dit de la révolution du secteur](https://www.jeuneafrique.com/1744097/economie-entreprises/noix-de-cajou-ce-que-le-record-dexportation-de-la-cote-divoire-dit-de-la-revolution-du-secteur/)
+- [Les métropoles ouest-africaines n’ont pas dit leur dernier mot !](https://www.jeuneafrique.com/1741231/economie-entreprises/les-metropoles-ouest-africaines-nont-pas-dit-leur-dernier-mot/)
+- [Bitcoin : quand la crypto met l’Afrique face à un dilemme énergétique](https://www.jeuneafrique.com/1744675/economie-entreprises/bitcoin-quand-la-crypto-met-lafrique-face-a-un-dilemme-energetique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
