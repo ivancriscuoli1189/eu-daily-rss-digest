@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 06:17*
+*Generato: 01 Dec 2025, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
+- [Mohamed Bazoum, bouclier humain d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1744906/politique/mohamed-bazoum-bouclier-humain-dabdourahamane-tiani/)
 - [Guinée-Bissau : un nouveau gouvernement annoncé](https://www.jeuneafrique.com/1744932/politique/guinee-bissau-un-nouveau-gouvernement-annonce/)
 - [Tunisie : la poétesse et militante Chaïma Issa arrêtée lors d’une manifestation](https://www.jeuneafrique.com/1744927/politique/tunisie-la-poetesse-et-militante-chaima-issa-arretee-lors-dune-manifestation/)
 - [Guinée-Bissau : le PAIGC dénonce un raid mené contre son siège par des hommes lourdement armés](https://www.jeuneafrique.com/1744918/politique/guinee-bissau-le-paigc-denonce-un-raid-contre-son-siege-par-des-hommes-lourdement-armes/)
 - [En Guinée, discrètes purges dans l’entourage d’Alpha Condé](https://www.jeuneafrique.com/1744664/politique/en-guinee-discretes-purges-dans-lentourage-dalpha-conde/)
 - [Un coup d’État en Guinée-Bissau, un exécutif sénégalais qui tangue, un G20 qui entérine un multilatéralisme sous la pression américaine : les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1744527/politique/un-coup-detat-en-guinee-bissau-un-executif-senegalais-qui-tangue-un-g20-qui-enterine-un-multilateralisme-sous-la-pression-americaine-les-5-infos-incontournables-de-la-semaine/)
 - [Coup d’État en Guinée-Bissau : retour en images sur la chute d’Embaló](https://www.jeuneafrique.com/1744889/politique/coup-detat-en-guinee-bissau-retour-en-images-sur-la-chute-dembalo/)
-- [Côte d’Ivoire : au RHDP, Kobenan Kouassi Adjoumani, grande gueule et poète](https://www.jeuneafrique.com/1744439/politique/cote-divoire-au-rhdp-kobenan-kouassi-adjoumani-grande-gueule-et-poete/)
 - [Comment Dangote force les distributeurs nigérians à revoir leur copie](https://www.jeuneafrique.com/1744431/economie-entreprises/comment-dangote-force-les-distributeurs-nigerians-a-revoir-leur-copie/)
-- [Côte d’Ivoire, Cameroun, Sénégal, Gabon… Ce qu’il faut retenir de leur budget 2026](https://www.jeuneafrique.com/1744661/economie-entreprises/cote-divoire-cameroun-senegal-gabon-ce-quil-faut-retenir-de-leur-budget-2026/)
+- [Noix de cajou : ce que le record d’exportation de la Côte d’Ivoire dit de la révolution du secteur](https://www.jeuneafrique.com/1744097/economie-entreprises/noix-de-cajou-ce-que-le-record-dexportation-de-la-cote-divoire-dit-de-la-revolution-du-secteur/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
