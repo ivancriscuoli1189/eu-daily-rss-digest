@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 11:02*
+*Generato: 01 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 - [End the judicial persecution of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/end-the-judicial-persecution-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Tunisia: Conviction of Ebru Timtik Award Laureate Ahmed Souab marks escalating repression of lawyers](https://www.icj.org/tunisia-conviction-of-ebru-timtik-award-laureate-ahmed-souab-marks-escalating-repression-of-lawyers/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
-- [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
 - [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
-- [Greece: ICJ and ECRE call the European Committee of Social Rights to ensure Greece’s compliance with migrant and refugee children’s rights](https://www.icj.org/greece-icj-and-ecre-call-the-european-committee-of-social-rights-to-ensure-greeces-compliance-with-migrant-and-refugee-childrens-rights/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -268,11 +268,11 @@
 - [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
 - [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
 - [Mohamed Bazoum, bouclier humain d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1744906/politique/mohamed-bazoum-bouclier-humain-dabdourahamane-tiani/)
+- [À Madagascar, les hommes de confiance du colonel-président Michaël Randrianirina](https://www.jeuneafrique.com/1744034/politique/a-madagascar-les-hommes-de-confiance-du-colonel-president-michael-randrianirina/)
 - [Guinée-Bissau : un nouveau gouvernement annoncé](https://www.jeuneafrique.com/1744932/politique/guinee-bissau-un-nouveau-gouvernement-annonce/)
 - [Tunisie : la poétesse et militante Chaïma Issa arrêtée lors d’une manifestation](https://www.jeuneafrique.com/1744927/politique/tunisie-la-poetesse-et-militante-chaima-issa-arretee-lors-dune-manifestation/)
 - [Sénégal-Mali : mon reportage chez les « voisins d’en face »](https://www.jeuneafrique.com/1739990/politique/senegal-mali-mon-reportage-chez-les-voisins-den-face/)
-- [Guinée-Bissau : le PAIGC dénonce un raid mené contre son siège par des hommes lourdement armés](https://www.jeuneafrique.com/1744918/politique/guinee-bissau-le-paigc-denonce-un-raid-contre-son-siege-par-des-hommes-lourdement-armes/)
-- [Les métropoles ouest-africaines n’ont pas dit leur dernier mot !](https://www.jeuneafrique.com/1741231/economie-entreprises/les-metropoles-ouest-africaines-nont-pas-dit-leur-dernier-mot/)
+- [Niger – Orano : malgré l’arbitrage en cours, Niamey veut vendre son uranium au plus offrant](https://www.jeuneafrique.com/1744971/economie-entreprises/niger-orano-malgre-larbitrage-en-cours-niamey-veut-vendre-son-uranium-au-plus-offrant/)
 - [Bitcoin : quand la crypto met l’Afrique face à un dilemme énergétique](https://www.jeuneafrique.com/1744675/economie-entreprises/bitcoin-quand-la-crypto-met-lafrique-face-a-un-dilemme-energetique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
