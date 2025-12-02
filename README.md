@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Dec 2025, 06:16*
+*Generato: 02 Dec 2025, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : les coulisses de l’exil de Tchiroma Bakary en Gambie](https://www.jeuneafrique.com/?p=1743710)
+- [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
+- [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
+- [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
 - [Bassirou Diomaye Faye : « Le combat pour Thiaroye est un combat pour l’âme du Sénégal »](https://www.jeuneafrique.com/1745211/politique/bassirou-diomaye-faye-le-combat-pour-thiaroye-est-un-combat-pour-lame-du-senegal/)
 - [VIH : les premières injections d’un nouveau traitement vont débuter en Afrique du Sud, en Eswatini et en Zambie](https://www.jeuneafrique.com/1745206/politique/vih-les-premieres-injections-dun-nouveau-traitement-vont-debuter-en-afrique-du-sud-en-eswatini-et-en-zambie/)
 - [Quand Olivier Faure « oublie » Mohamed Bazoum](https://www.jeuneafrique.com/1745108/politique/quand-olivier-faure-oublie-mohamed-bazoum/)
 - [Le traitement des migrants en Tunisie porté devant la Cour pénale internationale](https://www.jeuneafrique.com/1744947/politique/le-traitement-des-migrants-en-tunisie-porte-devant-la-cour-penale-internationale/)
 - [La méthode bulldozer de la maire d’Addis Abeba, Adanech Abiebie, pour moderniser la capitale éthiopienne](https://www.jeuneafrique.com/1739697/politique/la-methode-bulldozer-de-la-maire-daddis-abeba-adanech-abiebie-pour-moderniser-la-capitale-ethiopienne/)
-- [Cameroun : l’opposant Anicet Ekane est mort en détention](https://www.jeuneafrique.com/1744991/politique/cameroun-lopposant-anicet-ekane-est-mort-en-detention/)
-- [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
+- [Marrakech, San Pedro, Dar es-Salaam… Ces villes qui ont tout compris au tourisme de niche](https://www.jeuneafrique.com/1738474/economie-entreprises/marrakech-san-pedro-dar-es-salaam-ces-villes-qui-ont-tout-compris-au-tourisme-de-niche/)
 - [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
-- [Mali : à Bamako, le marché de l’immobilier victime collatérale de l’instabilité sécuritaire et politique](https://www.jeuneafrique.com/1738109/economie-entreprises/mali-a-bamako-le-marche-de-limmobilier-victime-collaterale-de-linstabilite-securitaire-et-politique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
