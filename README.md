@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Dec 2025, 15:12*
+*Generato: 02 Dec 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
 - [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
 - [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 - [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
@@ -91,7 +92,6 @@
 - [MEPs adopt position on new rules to make third-country lobbying more transparent](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31505/meps-adopt-position-on-new-rules-to-make-third-country-lobbying-more-transparent)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31488/ep-today-thursday-27-november)
 - [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
-- [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 - [End the judicial persecution of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/end-the-judicial-persecution-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Tunisia: Conviction of Ebru Timtik Award Laureate Ahmed Souab marks escalating repression of lawyers](https://www.icj.org/tunisia-conviction-of-ebru-timtik-award-laureate-ahmed-souab-marks-escalating-repression-of-lawyers/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
-- [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 - [Egypt: New Criminal Procedure Code violates human rights](https://www.icj.org/egypt-new-criminal-procedure-code-violates-human-rights/)
-- [Türkiye: Justice Reforms Central to Fair, Durable Peace Parliamentary Commission Should Make Bold Recommendations for Change](https://www.icj.org/turkiye-justice-reforms-central-to-fair-durable-peace-parliamentary-commission-should-make-bold-recommendations-for-change/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
 - [En Guinée-Bissau, la Cedeao rencontre la junte et condamne le coup d’État](https://www.jeuneafrique.com/1745340/politique/en-guinee-bissau-la-cedeao-rencontre-la-junte-et-condamne-le-coup-detat/)
 - [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
 - [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
 - [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
-- [Bassirou Diomaye Faye : « Le combat pour Thiaroye est un combat pour l’âme du Sénégal »](https://www.jeuneafrique.com/1745211/politique/bassirou-diomaye-faye-le-combat-pour-thiaroye-est-un-combat-pour-lame-du-senegal/)
-- [VIH : les premières injections d’un nouveau traitement vont débuter en Afrique du Sud, en Eswatini et en Zambie](https://www.jeuneafrique.com/1745206/politique/vih-les-premieres-injections-dun-nouveau-traitement-vont-debuter-en-afrique-du-sud-en-eswatini-et-en-zambie/)
+- [Présidentielle en Guinée : comment Mamadi Doumbouya a tracé sa voie jusqu’à la victoire](https://www.jeuneafrique.com/1743515/politique/presidentielle-en-guinee-comment-mamadi-doumbouya-a-trace-sa-voie-jusqua-la-victoire/)
+- [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
 - [Marrakech, San Pedro, Dar es-Salaam… Ces villes qui ont tout compris au tourisme de niche](https://www.jeuneafrique.com/1738474/economie-entreprises/marrakech-san-pedro-dar-es-salaam-ces-villes-qui-ont-tout-compris-au-tourisme-de-niche/)
-- [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
