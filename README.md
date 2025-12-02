@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Dec 2025, 09:16*
+*Generato: 02 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
 - [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 - [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
 - [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
@@ -91,12 +92,11 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31488/ep-today-thursday-27-november)
 - [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
 - [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
-- [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
 - [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
 - [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
 - [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
@@ -271,7 +272,6 @@
 - [VIH : les premières injections d’un nouveau traitement vont débuter en Afrique du Sud, en Eswatini et en Zambie](https://www.jeuneafrique.com/1745206/politique/vih-les-premieres-injections-dun-nouveau-traitement-vont-debuter-en-afrique-du-sud-en-eswatini-et-en-zambie/)
 - [Quand Olivier Faure « oublie » Mohamed Bazoum](https://www.jeuneafrique.com/1745108/politique/quand-olivier-faure-oublie-mohamed-bazoum/)
 - [Le traitement des migrants en Tunisie porté devant la Cour pénale internationale](https://www.jeuneafrique.com/1744947/politique/le-traitement-des-migrants-en-tunisie-porte-devant-la-cour-penale-internationale/)
-- [La méthode bulldozer de la maire d’Addis Abeba, Adanech Abiebie, pour moderniser la capitale éthiopienne](https://www.jeuneafrique.com/1739697/politique/la-methode-bulldozer-de-la-maire-daddis-abeba-adanech-abiebie-pour-moderniser-la-capitale-ethiopienne/)
 - [Marrakech, San Pedro, Dar es-Salaam… Ces villes qui ont tout compris au tourisme de niche](https://www.jeuneafrique.com/1738474/economie-entreprises/marrakech-san-pedro-dar-es-salaam-ces-villes-qui-ont-tout-compris-au-tourisme-de-niche/)
 - [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
 
