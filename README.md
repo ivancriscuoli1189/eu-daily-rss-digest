@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Dec 2025, 21:02*
+*Generato: 02 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
+- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 - [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
 - [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
 - [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
@@ -91,7 +92,6 @@
 - [Payment services deal: More protection from online fraud and hidden fees](https://www.europarl.europa.eu/news/en/press-room/20251121IPR31540/payment-services-deal-more-protection-from-online-fraud-and-hidden-fees)
 - [2025 Sakharov Prize: interviews with laureates’ and finalists’ representatives](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31582/2025-sakharov-prize-interviews-with-laureates-and-finalists-representatives)
 - [MEPs adopt 2026 EU budget: focus on competitiveness, research and security](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31500/meps-adopt-2026-eu-budget-focus-on-competitiveness-research-and-security)
-- [E-commerce scandals: MEPs want faster enforcement and dissuasive sanctions](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31497/e-commerce-scandals-meps-want-faster-enforcement-and-dissuasive-sanctions)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : les coulisses de l’exil de Tchiroma Bakary en Gambie](https://www.jeuneafrique.com/?p=1743710)
 - [Bassirou Diomaye Faye : « Le combat pour Thiaroye est un combat pour l’âme du Sénégal »](https://www.jeuneafrique.com/1745211/politique/bassirou-diomaye-faye-le-combat-pour-thiaroye-est-un-combat-pour-lame-du-senegal/)
 - [VIH : les premières injections d’un nouveau traitement vont débuter en Afrique du Sud, en Eswatini et en Zambie](https://www.jeuneafrique.com/1745206/politique/vih-les-premieres-injections-dun-nouveau-traitement-vont-debuter-en-afrique-du-sud-en-eswatini-et-en-zambie/)
 - [Quand Olivier Faure « oublie » Mohamed Bazoum](https://www.jeuneafrique.com/1745108/politique/quand-olivier-faure-oublie-mohamed-bazoum/)
@@ -271,7 +272,6 @@
 - [La méthode bulldozer de la maire d’Addis Abeba, Adanech Abiebie, pour moderniser la capitale éthiopienne](https://www.jeuneafrique.com/1739697/politique/la-methode-bulldozer-de-la-maire-daddis-abeba-adanech-abiebie-pour-moderniser-la-capitale-ethiopienne/)
 - [Cameroun : l’opposant Anicet Ekane est mort en détention](https://www.jeuneafrique.com/1744991/politique/cameroun-lopposant-anicet-ekane-est-mort-en-detention/)
 - [Cyril Ramaphosa dénonce une campagne de désinformation orchestrée par les États-Unis](https://www.jeuneafrique.com/1744956/politique/cyril-ramaphosa-denonce-une-campagne-de-desinformation-orchestree-par-les-etats-unis/)
-- [Au Cameroun, des élections régionales dominées par le RDPC de Paul Biya](https://www.jeuneafrique.com/1744944/politique/au-cameroun-des-elections-regionales-dominees-par-le-rdpc-de-paul-biya/)
 - [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
 - [Mali : à Bamako, le marché de l’immobilier victime collatérale de l’instabilité sécuritaire et politique](https://www.jeuneafrique.com/1738109/economie-entreprises/mali-a-bamako-le-marche-de-limmobilier-victime-collaterale-de-linstabilite-securitaire-et-politique/)
 
