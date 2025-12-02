@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Dec 2025, 12:19*
+*Generato: 02 Dec 2025, 13:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
+- [En Guinée-Bissau, la Cedeao rencontre la junte et condamne le coup d’État](https://www.jeuneafrique.com/1745340/politique/en-guinee-bissau-la-cedeao-rencontre-la-junte-et-condamne-le-coup-detat/)
 - [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
 - [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
 - [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
 - [Bassirou Diomaye Faye : « Le combat pour Thiaroye est un combat pour l’âme du Sénégal »](https://www.jeuneafrique.com/1745211/politique/bassirou-diomaye-faye-le-combat-pour-thiaroye-est-un-combat-pour-lame-du-senegal/)
 - [VIH : les premières injections d’un nouveau traitement vont débuter en Afrique du Sud, en Eswatini et en Zambie](https://www.jeuneafrique.com/1745206/politique/vih-les-premieres-injections-dun-nouveau-traitement-vont-debuter-en-afrique-du-sud-en-eswatini-et-en-zambie/)
 - [Quand Olivier Faure « oublie » Mohamed Bazoum](https://www.jeuneafrique.com/1745108/politique/quand-olivier-faure-oublie-mohamed-bazoum/)
-- [Le traitement des migrants en Tunisie porté devant la Cour pénale internationale](https://www.jeuneafrique.com/1744947/politique/le-traitement-des-migrants-en-tunisie-porte-devant-la-cour-penale-internationale/)
 - [Marrakech, San Pedro, Dar es-Salaam… Ces villes qui ont tout compris au tourisme de niche](https://www.jeuneafrique.com/1738474/economie-entreprises/marrakech-san-pedro-dar-es-salaam-ces-villes-qui-ont-tout-compris-au-tourisme-de-niche/)
 - [Entre le Maroc et l’UE, la guerre de la tomate bat son plein sur fond de conflit sur le Sahara](https://www.jeuneafrique.com/1745092/economie-entreprises/entre-le-maroc-et-lue-la-guerre-de-la-tomate-bat-son-plein-sur-fond-de-conflit-sur-le-sahara/)
 
