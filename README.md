@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Dec 2025, 18:15*
+*Generato: 03 Dec 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
 - [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
@@ -91,7 +92,6 @@
 - [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
 - [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 - [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
-- [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guinée-Bissau : après le Congo, Embaló est arrivé au Maroc et souhaite se rendre au Portugal](https://www.jeuneafrique.com/1745885/politique/guinee-bissau-apres-le-congo-embalo-trouve-refuge-au-maroc/)
 - [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
 - [Au Togo, face aux parlementaires, Faure Gnassingbé se fait le chantre de la démocratie](https://www.jeuneafrique.com/1745699/politique/au-togo-face-aux-parlementaires-faure-gnassingbe-se-fait-le-chantre-de-la-democratie/)
 - [Cameroun : le décès d’Anicet Ekane relance le débat sur les détenus de la crise postélectorale](https://www.jeuneafrique.com/1745725/politique/cameroun-le-deces-danicet-ekane-relance-le-debat-sur-les-detenus-de-la-crise-post-electorale/)
@@ -271,7 +272,6 @@
 - [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
 - [Le Qatar peut-il acheter la paix en RDC ?](https://www.jeuneafrique.com/1745454/politique/le-qatar-peut-il-acheter-la-paix-en-rdc/)
 - [Dialogue national en RDC : pourquoi Félix Tshisekedi temporise](https://www.jeuneafrique.com/1745135/politique/dialogue-national-en-rdc-pourquoi-felix-tshisekedi-temporise/)
-- [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Chez Transnet, les recettes de Russel Baatjies pour redresser le fret ferroviaire sud-africain](https://www.jeuneafrique.com/1745449/economie-entreprises/chez-transnet-les-recettes-de-russel-baatjies-pour-redresser-le-fret-ferroviaire-sud-africain/)
 - [Comment va (vraiment) l’économie du Burkina Faso d’Ibrahim Traoré ?](https://www.jeuneafrique.com/1745042/economie-entreprises/comment-va-vraiment-leconomie-du-burkina-faso-dibrahim-traore/)
 
