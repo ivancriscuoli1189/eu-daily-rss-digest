@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Dec 2025, 12:19*
+*Generato: 03 Dec 2025, 13:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -267,11 +267,11 @@
 - [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
 - [Tunisie : arrestation du célèbre opposant et avocat Ayachi Hammami](https://www.jeuneafrique.com/1745770/politique/tunisie-arrestation-du-celebre-opposant-et-avocat-ayachi-hammami/)
 - [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
+- [Dialogue national en RDC : pourquoi Félix Tshisekedi temporise](https://www.jeuneafrique.com/1745135/politique/dialogue-national-en-rdc-pourquoi-felix-tshisekedi-temporise/)
 - [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
 - [En Guinée-Bissau, qui est le mystérieux homme au chapeau sur la photo des putschistes ?](https://www.jeuneafrique.com/1745428/politique/en-guinee-bissau-qui-est-le-mysterieux-homme-au-chapeau-sur-la-photo-des-putschistes/)
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
-- [En Guinée-Bissau, la Cedeao rencontre la junte et condamne le coup d’État](https://www.jeuneafrique.com/1745340/politique/en-guinee-bissau-la-cedeao-rencontre-la-junte-et-condamne-le-coup-detat/)
 - [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
 - [Renationalisation d’Eneo : 5 questions pour comprendre les défis pour le Cameroun de la reprise en main de l’énergéticien](https://www.jeuneafrique.com/1745525/economie-entreprises/renationalisation-deneo-5-questions-pour-comprendre-les-defis-pour-le-cameroun-de-la-reprise-en-main-de-lenergeticien/)
 
