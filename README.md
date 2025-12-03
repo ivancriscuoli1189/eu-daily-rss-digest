@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Dec 2025, 11:02*
+*Generato: 03 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -269,9 +269,9 @@
 - [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
 - [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
+- [En Guinée-Bissau, qui est le mystérieux homme au chapeau sur la photo des putschistes ?](https://www.jeuneafrique.com/1745428/politique/en-guinee-bissau-qui-est-le-mysterieux-homme-au-chapeau-sur-la-photo-des-putschistes/)
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
 - [En Guinée-Bissau, la Cedeao rencontre la junte et condamne le coup d’État](https://www.jeuneafrique.com/1745340/politique/en-guinee-bissau-la-cedeao-rencontre-la-junte-et-condamne-le-coup-detat/)
-- [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
 - [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
 - [Renationalisation d’Eneo : 5 questions pour comprendre les défis pour le Cameroun de la reprise en main de l’énergéticien](https://www.jeuneafrique.com/1745525/economie-entreprises/renationalisation-deneo-5-questions-pour-comprendre-les-defis-pour-le-cameroun-de-la-reprise-en-main-de-lenergeticien/)
 
