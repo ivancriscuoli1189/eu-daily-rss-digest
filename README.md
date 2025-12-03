@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Dec 2025, 15:11*
+*Generato: 03 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
+- [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
+- [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
 - [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
 - [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
 - [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
@@ -89,9 +92,6 @@
 - [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 - [EP leaders visit Nicosia ahead of the Cypriot EU Presidency](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31588/ep-leaders-visit-nicosia-ahead-of-the-cypriot-eu-presidency)
 - [Human rights violations in Tanzania, Iran and Tunisia](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31502/human-rights-violations-in-tanzania-iran-and-tunisia)
-- [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
-- [Disability rights need to be mainstreamed across all EU policies, MEPs say](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31504/disability-rights-need-to-be-mainstreamed-across-all-eu-policies-meps-say)
-- [MEPs adopt position on new rules to make third-country lobbying more transparent](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31505/meps-adopt-position-on-new-rules-to-make-third-country-lobbying-more-transparent)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -203,12 +203,12 @@
 - [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
 - [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 - [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
 - [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
 - [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
-- [Abusive Conspiracy Trial Opens in Tunis](https://www.hrw.org/news/2025/03/05/abusive-conspiracy-trial-opens-tunis)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -266,14 +266,14 @@
 
 - [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
 - [Au Togo, face aux parlementaires, Faure Gnassingbé se fait le chantre de la démocratie](https://www.jeuneafrique.com/1745699/politique/au-togo-face-aux-parlementaires-faure-gnassingbe-se-fait-le-chantre-de-la-democratie/)
+- [Cameroun : le décès d’Anicet Ekane relance le débat sur les détenus de la crise postélectorale](https://www.jeuneafrique.com/1745725/politique/cameroun-le-deces-danicet-ekane-relance-le-debat-sur-les-detenus-de-la-crise-post-electorale/)
 - [Tunisie : arrestation du célèbre opposant et avocat Ayachi Hammami](https://www.jeuneafrique.com/1745770/politique/tunisie-arrestation-du-celebre-opposant-et-avocat-ayachi-hammami/)
 - [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
 - [Le Qatar peut-il acheter la paix en RDC ?](https://www.jeuneafrique.com/1745454/politique/le-qatar-peut-il-acheter-la-paix-en-rdc/)
 - [Dialogue national en RDC : pourquoi Félix Tshisekedi temporise](https://www.jeuneafrique.com/1745135/politique/dialogue-national-en-rdc-pourquoi-felix-tshisekedi-temporise/)
 - [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
-- [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
-- [Cabo Delgado : comment TotalEnergies déclenche son plan B après le retrait de Londres et Amsterdam](https://www.jeuneafrique.com/1745678/economie-entreprises/cabo-delgado-comment-totalenergies-declenche-son-plan-b-apres-le-retrait-de-londres-et-amsterdam/)
-- [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
+- [Chez Transnet, les recettes de Russel Baatjies pour redresser le fret ferroviaire sud-africain](https://www.jeuneafrique.com/1745449/economie-entreprises/chez-transnet-les-recettes-de-russel-baatjies-pour-redresser-le-fret-ferroviaire-sud-africain/)
+- [Comment va (vraiment) l’économie du Burkina Faso d’Ibrahim Traoré ?](https://www.jeuneafrique.com/1745042/economie-entreprises/comment-va-vraiment-leconomie-du-burkina-faso-dibrahim-traore/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
