@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Dec 2025, 21:03*
+*Generato: 03 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
 - [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
 - [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
 - [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
@@ -91,12 +92,11 @@
 - [EU must show leadership in achieving peace in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31571/eu-must-show-leadership-in-achieving-peace-in-ukraine)
 - [Disability rights need to be mainstreamed across all EU policies, MEPs say](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31504/disability-rights-need-to-be-mainstreamed-across-all-eu-policies-meps-say)
 - [MEPs adopt position on new rules to make third-country lobbying more transparent](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31505/meps-adopt-position-on-new-rules-to-make-third-country-lobbying-more-transparent)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251120IPR31488/ep-today-thursday-27-november)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Qatar peut-il acheter la paix en RDC ?](https://www.jeuneafrique.com/?p=1745454)
 - [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
@@ -271,7 +272,6 @@
 - [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
 - [Quel rôle géopolitique pour le Maroc dans un XXIe siècle fracturé ?](https://www.jeuneafrique.com/1744305/politique/quel-role-geopolitique-pour-le-maroc-dans-un-xxie-siecle-fracture/)
 - [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
-- [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
 - [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
 - [Marrakech, San Pedro, Dar es-Salaam… Ces villes qui ont tout compris au tourisme de niche](https://www.jeuneafrique.com/1738474/economie-entreprises/marrakech-san-pedro-dar-es-salaam-ces-villes-qui-ont-tout-compris-au-tourisme-de-niche/)
 
