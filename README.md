@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Dec 2025, 09:15*
+*Generato: 03 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
+- [Tunisie : arrestation du célèbre opposant et avocat Ayachi Hammami](https://www.jeuneafrique.com/1745770/politique/tunisie-arrestation-du-celebre-opposant-et-avocat-ayachi-hammami/)
+- [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
 - [Un pétrolier de la flotille fantôme russe a-t-il été saboté au large de Dakar ?](https://www.jeuneafrique.com/1745606/politique/un-petrolier-de-la-flotille-fantome-russe-a-t-il-ete-sabote-au-large-de-dakar/)
 - [Coup d’État en Guinée-Bissau : les résultats des élections ne pourront pas être publiés](https://www.jeuneafrique.com/1745578/politique/coup-detat-en-guinee-bissau-les-resultats-des-elections-ne-pourront-pas-etre-publies/)
 - [Paul Kagame et Felix Tshisekedi vont signer l’accord de paix à Washington](https://www.jeuneafrique.com/1745376/politique/paul-kagame-et-felix-tshisekedi-vont-signer-laccord-de-paix-a-washington/)
 - [En Guinée-Bissau, la Cedeao rencontre la junte et condamne le coup d’État](https://www.jeuneafrique.com/1745340/politique/en-guinee-bissau-la-cedeao-rencontre-la-junte-et-condamne-le-coup-detat/)
 - [En Tunisie, Jawhar Ben Mbarek suspend sa grève de la faim](https://www.jeuneafrique.com/1745338/politique/en-tunisie-jawhar-ben-mbarek-suspend-sa-greve-de-la-faim/)
-- [Quel rôle géopolitique pour le Maroc dans un XXIe siècle fracturé ?](https://www.jeuneafrique.com/1744305/politique/quel-role-geopolitique-pour-le-maroc-dans-un-xxie-siecle-fracture/)
-- [L’accord Rwanda-UE sur les minerais au cœur d’un débat au Parlement européen](https://www.jeuneafrique.com/1745219/politique/laccord-rwanda-ue-sur-les-minerais-au-coeur-dun-debat-au-parlement-europeen/)
-- [Cameroun : Anicet Ekane, l’opposition jusqu’au sacrifice](https://www.jeuneafrique.com/1745012/politique/cameroun-anicet-ekane-lopposition-jusquau-sacrifice/)
 - [Carrefour, Kin Marché, Hyper Psaro… La bataille des supermarchés s’intensifie à Kinshasa](https://www.jeuneafrique.com/1745003/economie-entreprises/carrefour-kin-marche-hyper-psaro-la-bataille-des-supermarches-sintensifie-a-kinshasa/)
 - [Renationalisation d’Eneo : 5 questions pour comprendre les défis pour le Cameroun de la reprise en main de l’énergéticien](https://www.jeuneafrique.com/1745525/economie-entreprises/renationalisation-deneo-5-questions-pour-comprendre-les-defis-pour-le-cameroun-de-la-reprise-en-main-de-lenergeticien/)
 
