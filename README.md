@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 11:10*
+*Generato: 04 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
 - [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
 - [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 - [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
@@ -234,7 +235,6 @@
 - [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
 - [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
 - [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-- [Trump’s Gaza plan](https://ecfr.eu/podcasts/episode/trumps-gaza-plan/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,12 +266,12 @@
 
 - [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
 - [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
+- [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
 - [Est de la RDC : face à Donald Trump, Félix Tshisekedi, Paul Kagame et l’illusion de la paix ?](https://www.jeuneafrique.com/1745764/politique/est-de-la-rdc-face-a-donald-trump-felix-tshisekedi-paul-kagame-et-lillusion-de-la-paix/)
 - [Guinée-Bissau : après le Congo, Embaló est arrivé au Maroc et souhaite se rendre au Portugal](https://www.jeuneafrique.com/1745885/politique/guinee-bissau-apres-le-congo-embalo-trouve-refuge-au-maroc/)
 - [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
 - [Au Togo, face aux parlementaires, Faure Gnassingbé se fait le chantre de la démocratie](https://www.jeuneafrique.com/1745699/politique/au-togo-face-aux-parlementaires-faure-gnassingbe-se-fait-le-chantre-de-la-democratie/)
 - [Cameroun : le décès d’Anicet Ekane relance le débat sur les détenus de la crise postélectorale](https://www.jeuneafrique.com/1745725/politique/cameroun-le-deces-danicet-ekane-relance-le-debat-sur-les-detenus-de-la-crise-post-electorale/)
-- [Tunisie : arrestation du célèbre opposant et avocat Ayachi Hammami](https://www.jeuneafrique.com/1745770/politique/tunisie-arrestation-du-celebre-opposant-et-avocat-ayachi-hammami/)
 - [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
 - [Mozambique, Sénégal, Maurice… Quels sont les pays les plus endettés d’Afrique ?](https://www.jeuneafrique.com/1745832/economie-entreprises/mozambique-senegal-maurice-quels-sont-les-pays-les-plus-endettes-dafrique/)
 
