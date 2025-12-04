@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 18:16*
+*Generato: 04 Dec 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
@@ -91,7 +92,6 @@
 - [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
 - [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
 - [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
-- [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -223,19 +223,6 @@
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 
-## THINK TANK – ECFR – MENA
-
-- [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -272,8 +259,8 @@
 - [Nathalie Yamb, Samia Nkrumah, Kako Nubukpo… Qui est attendu au congrès panafricain, au Togo ?](https://www.jeuneafrique.com/1745981/politique/nathalie-yamb-samia-nkrumah-kako-nubukpo-qui-est-attendu-au-congres-panafricain-au-togo/)
 - [Abdoulaye Yéro Baldé : « Mamadi Doumbouya n’avait pas le droit de se présenter »](https://www.jeuneafrique.com/1746084/politique/abdoulaye-yero-balde-mamadi-doumbouya-navait-pas-le-droit-de-se-presenter/)
 - [Au Gabon, pourquoi le ministre du Tourisme est assigné à résidence](https://www.jeuneafrique.com/1745904/politique/au-gabon-pourquoi-le-ministre-du-tourisme-est-assigne-a-residence/)
+- [Comment Vodacom a pris le contrôle de Safaricom, l’entreprise la plus rentable d’Afrique de l’Est](https://www.jeuneafrique.com/1746362/economie-entreprises/comment-vodacom-a-pris-le-controle-de-safaricom-lentreprise-la-plus-rentable-dafrique-de-lest/)
 - [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
-- [Mozambique, Sénégal, Maurice… Quels sont les pays les plus endettés d’Afrique ?](https://www.jeuneafrique.com/1745832/economie-entreprises/mozambique-senegal-maurice-quels-sont-les-pays-les-plus-endettes-dafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
