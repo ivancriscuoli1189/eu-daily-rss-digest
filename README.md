@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 12:19*
+*Generato: 04 Dec 2025, 13:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
 - [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
@@ -91,7 +92,6 @@
 - [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
 - [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
 - [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
-- [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
