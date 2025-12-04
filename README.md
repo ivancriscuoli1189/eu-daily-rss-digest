@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 15:12*
+*Generato: 04 Dec 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,11 +82,11 @@
 
 ## UE – EP – Press Room
 
+- [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
 - [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
-- [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
 - [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
 - [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
 - [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
 - [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
 - [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
@@ -234,7 +235,6 @@
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
 - [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
 - [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tanzanie : Meta suspend les comptes Instagram de deux militantes dénonçant les violences électorales](https://www.jeuneafrique.com/1746560/politique/tanzanie-meta-suspend-les-comptes-instagram-de-deux-militantes-denoncant-les-violences-electorales/)
 - [En Namibie, réélection d’Adolf Hitler… Uunona](https://www.jeuneafrique.com/1746247/politique/en-namibie-reelection-dadolf-hitler-uunona/)
 - [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
 - [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
 - [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
-- [Est de la RDC : face à Donald Trump, Félix Tshisekedi, Paul Kagame et l’illusion de la paix ?](https://www.jeuneafrique.com/1745764/politique/est-de-la-rdc-face-a-donald-trump-felix-tshisekedi-paul-kagame-et-lillusion-de-la-paix/)
-- [Guinée-Bissau : après le Congo, Embaló est arrivé au Maroc et souhaite se rendre au Portugal](https://www.jeuneafrique.com/1745885/politique/guinee-bissau-apres-le-congo-embalo-trouve-refuge-au-maroc/)
-- [Au Nigeria, Bola Tinubu nomme l’ancien chef d’état-major des armées ministre de la Défense](https://www.jeuneafrique.com/1745782/politique/au-nigeria-bola-tinubu-nomme-lancien-chef-detat-major-des-armees-ministre-de-la-defense/)
-- [Au Togo, face aux parlementaires, Faure Gnassingbé se fait le chantre de la démocratie](https://www.jeuneafrique.com/1745699/politique/au-togo-face-aux-parlementaires-faure-gnassingbe-se-fait-le-chantre-de-la-democratie/)
+- [Nathalie Yamb, Samia Nkrumah, Kako Nubukpo… Qui est attendu au congrès panafricain, au Togo ?](https://www.jeuneafrique.com/1745981/politique/nathalie-yamb-samia-nkrumah-kako-nubukpo-qui-est-attendu-au-congres-panafricain-au-togo/)
+- [Abdoulaye Yéro Baldé : « Mamadi Doumbouya n’avait pas le droit de se présenter »](https://www.jeuneafrique.com/1746084/politique/abdoulaye-yero-balde-mamadi-doumbouya-navait-pas-le-droit-de-se-presenter/)
+- [Au Gabon, pourquoi le ministre du Tourisme est assigné à résidence](https://www.jeuneafrique.com/1745904/politique/au-gabon-pourquoi-le-ministre-du-tourisme-est-assigne-a-residence/)
 - [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
 - [Mozambique, Sénégal, Maurice… Quels sont les pays les plus endettés d’Afrique ?](https://www.jeuneafrique.com/1745832/economie-entreprises/mozambique-senegal-maurice-quels-sont-les-pays-les-plus-endettes-dafrique/)
 
