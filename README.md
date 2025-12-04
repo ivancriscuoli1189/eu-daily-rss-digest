@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 09:14*
+*Generato: 04 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -79,6 +79,19 @@
 - [اجتماع رئيس الجمهوريّة قيس سعيّد بأعضاء اللّجنة التي كلّفها بإيجاد حلول عاجلة للوضع البيئي بمدينة قابس](http://www.carthage.tn/ar/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%84%D9%91%D8%AC%D9%86%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D9%83%D9%84%D9%91%D9%81%D9%87%D8%A7-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D8%B9%D8%A7%D8%AC%D9%84%D8%A9-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد الدكتور سالم بن محمد المالك، المدير العام لمنظّمة العالم الإسلامي للتّربية والعلوم والثقافة والسيد ميغل أنخيل موراتينوس، الممثّل السّامي للأمم المتّحدة لتحالف الحضارات والمبعوث الأممي لمكافحة معاداة الإسلام](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B3%D8%A7%D9%84%D9%85-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%83%D8%8C-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%85%D9%86%D8%B8%D9%91%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد فاروق بوعسكر رئيس الهيئة العليا المستقلّة للانتخابات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D9%81%D8%A7%D8%B1%D9%88%D9%82-%D8%A8%D9%88%D8%B9%D8%B3%D9%83%D8%B1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D9%84%D9%91%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA)
+
+## UE – EP – Press Room
+
+- [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
+- [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
+- [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
+- [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
+- [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
+- [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
+- [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
+- [Agreement reached on the first EU-wide criminal law rules against corruption](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31697/agreement-reached-on-the-first-eu-wide-criminal-law-rules-against-corruption)
+- [A safer, stronger, more autonomous EU: EP leaders in Cyprus ahead of Presidency](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31726/a-safer-stronger-more-autonomous-eu-ep-leaders-in-cyprus-ahead-of-presidency)
+- [Landmark deal to renew prime EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31695/landmark-deal-to-renew-prime-eu-trade-instrument-for-development)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
 - [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
 - [Est de la RDC : face à Donald Trump, Félix Tshisekedi, Paul Kagame et l’illusion de la paix ?](https://www.jeuneafrique.com/1745764/politique/est-de-la-rdc-face-a-donald-trump-felix-tshisekedi-paul-kagame-et-lillusion-de-la-paix/)
 - [Guinée-Bissau : après le Congo, Embaló est arrivé au Maroc et souhaite se rendre au Portugal](https://www.jeuneafrique.com/1745885/politique/guinee-bissau-apres-le-congo-embalo-trouve-refuge-au-maroc/)
@@ -258,7 +272,6 @@
 - [Au Togo, face aux parlementaires, Faure Gnassingbé se fait le chantre de la démocratie](https://www.jeuneafrique.com/1745699/politique/au-togo-face-aux-parlementaires-faure-gnassingbe-se-fait-le-chantre-de-la-democratie/)
 - [Cameroun : le décès d’Anicet Ekane relance le débat sur les détenus de la crise postélectorale](https://www.jeuneafrique.com/1745725/politique/cameroun-le-deces-danicet-ekane-relance-le-debat-sur-les-detenus-de-la-crise-post-electorale/)
 - [Tunisie : arrestation du célèbre opposant et avocat Ayachi Hammami](https://www.jeuneafrique.com/1745770/politique/tunisie-arrestation-du-celebre-opposant-et-avocat-ayachi-hammami/)
-- [« Leur pays est pourri » : Donald Trump attaque violemment la Somalie](https://www.jeuneafrique.com/1745765/politique/leur-pays-est-pourri-donald-trump-attaque-violemment-la-somalie/)
 - [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
 - [Mozambique, Sénégal, Maurice… Quels sont les pays les plus endettés d’Afrique ?](https://www.jeuneafrique.com/1745832/economie-entreprises/mozambique-senegal-maurice-quels-sont-les-pays-les-plus-endettes-dafrique/)
 
