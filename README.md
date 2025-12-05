@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Dec 2025, 11:02*
+*Generato: 05 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La montée jihadiste au Sahel menace l’Europe, avertit le représentant de l’Union européenne](https://www.jeuneafrique.com/1746645/politique/la-montee-jihadiste-au-sahel-menace-leurope-avertit-le-representant-de-lunion-europeenne/)
 - [Présidentielle en Guinée : Faya Millimono dénonce l’enlèvement de l’un de ses directeurs de campagne](https://www.jeuneafrique.com/1746631/politique/presidentielle-en-guinee-faya-millimono-denonce-lenlevement-de-lun-de-ses-directeurs-de-campagne/)
 - [Mali : l’imam Dicko rejoint la nouvelle coalition d’opposants en exil](https://www.jeuneafrique.com/1746636/politique/mali-limam-dicko-rejoint-la-nouvelle-coalition-dopposants-en-exil/)
+- [États-Unis – Afrique du Sud : Donald Trump prend sa revanche sur Cyril Ramaphosa après le G20 à Johannesburg](https://www.jeuneafrique.com/1746342/politique/etats-unis-afrique-du-sud-donald-trump-prend-sa-revanche-sur-cyril-ramaphosa-apres-le-g20-a-johannesburg/)
 - [Tanzanie : Meta suspend les comptes Instagram de deux militantes dénonçant les violences électorales](https://www.jeuneafrique.com/1746560/politique/tanzanie-meta-suspend-les-comptes-instagram-de-deux-militantes-denoncant-les-violences-electorales/)
+- [Le Burkina Faso d’Ibrahim Traoré rétablit la peine de mort](https://www.jeuneafrique.com/1746483/politique/le-burkina-faso-dibrahim-traore-retablit-la-peine-de-mort/)
 - [En Namibie, réélection d’Adolf Hitler… Uunona](https://www.jeuneafrique.com/1746247/politique/en-namibie-reelection-dadolf-hitler-uunona/)
 - [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
-- [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
-- [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
-- [Guinée-Bissau : que deviennent les opposants depuis le coup d’État ?](https://www.jeuneafrique.com/1745701/politique/guinee-bissau-que-deviennent-les-opposants-depuis-le-coup-detat/)
 - [Crise du carburant au Mali : comment l’économie déjoue les pronostics](https://www.jeuneafrique.com/1746268/economie-entreprises/crise-du-carburant-au-mali-comment-leconomie-dejoue-les-pronostics/)
 - [Comment Vodacom a pris le contrôle de Safaricom, l’entreprise la plus rentable d’Afrique de l’Est](https://www.jeuneafrique.com/1746362/economie-entreprises/comment-vodacom-a-pris-le-controle-de-safaricom-lentreprise-la-plus-rentable-dafrique-de-lest/)
 
