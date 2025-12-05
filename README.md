@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Dec 2025, 06:16*
+*Generato: 05 Dec 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun-Guinée équatoriale : comment Teodorín Obiang a évité une brouille diplomatique](https://www.jeuneafrique.com/1745948/politique/cameroun-guinee-equatoriale-comment-teodorin-obiang-a-evite-une-brouille-diplomatique/)
+- [Mali : l’imam Dicko rejoint la nouvelle coalition d’opposants en exil](https://www.jeuneafrique.com/1746636/politique/mali-limam-dicko-rejoint-la-nouvelle-coalition-dopposants-en-exil/)
 - [Tanzanie : Meta suspend les comptes Instagram de deux militantes dénonçant les violences électorales](https://www.jeuneafrique.com/1746560/politique/tanzanie-meta-suspend-les-comptes-instagram-de-deux-militantes-denoncant-les-violences-electorales/)
 - [En Namibie, réélection d’Adolf Hitler… Uunona](https://www.jeuneafrique.com/1746247/politique/en-namibie-reelection-dadolf-hitler-uunona/)
 - [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
 - [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
 - [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
-- [Nathalie Yamb, Samia Nkrumah, Kako Nubukpo… Qui est attendu au congrès panafricain, au Togo ?](https://www.jeuneafrique.com/1745981/politique/nathalie-yamb-samia-nkrumah-kako-nubukpo-qui-est-attendu-au-congres-panafricain-au-togo/)
-- [Abdoulaye Yéro Baldé : « Mamadi Doumbouya n’avait pas le droit de se présenter »](https://www.jeuneafrique.com/1746084/politique/abdoulaye-yero-balde-mamadi-doumbouya-navait-pas-le-droit-de-se-presenter/)
+- [Guinée-Bissau : que deviennent les opposants depuis le coup d’État ?](https://www.jeuneafrique.com/1745701/politique/guinee-bissau-que-deviennent-les-opposants-depuis-le-coup-detat/)
+- [Présidentielle au Cameroun : comment Maurice Kamto a tenté de devenir le candidat du FSNC à la place d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745510/politique/presidentielle-au-cameroun-comment-maurice-kamto-a-tente-de-devenir-le-candidat-du-fsnc-a-la-place-dissa-tchiroma-bakary/)
+- [Crise du carburant au Mali : comment l’économie déjoue les pronostics](https://www.jeuneafrique.com/1746268/economie-entreprises/crise-du-carburant-au-mali-comment-leconomie-dejoue-les-pronostics/)
 - [Comment Vodacom a pris le contrôle de Safaricom, l’entreprise la plus rentable d’Afrique de l’Est](https://www.jeuneafrique.com/1746362/economie-entreprises/comment-vodacom-a-pris-le-controle-de-safaricom-lentreprise-la-plus-rentable-dafrique-de-lest/)
-- [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
