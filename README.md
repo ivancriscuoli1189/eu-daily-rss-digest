@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Dec 2025, 15:11*
+*Generato: 05 Dec 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,19 +223,6 @@
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 
-## THINK TANK – ECFR – MENA
-
-- [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -264,19 +251,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tunisie : l’UGTT appelle à la grève générale pour le 21 janvier](https://www.jeuneafrique.com/1746773/politique/tunisie-lugtt-appelle-a-la-greve-generale-pour-le-21-janvier/)
 - [Madagascar : le colonel Randrianirina souhaite qu’Andry Rajoelina soit jugé](https://www.jeuneafrique.com/1746945/politique/madagascar-le-colonel-randrianirina-souhaite-quandry-rajoelina-soit-juge/)
 - [Sénégal, Congo, Maroc… Les tribulations d’Embaló en Afrique](https://www.jeuneafrique.com/1746719/politique/senegal-congo-maroc-les-tribulations-dembalo-en-afrique/)
+- [La condamnation du journaliste Christophe Gleizes compromet à nouveau le dialogue entre Paris et Alger](https://www.jeuneafrique.com/1746714/politique/la-condamnation-du-journaliste-christophe-gleizes-compromet-a-nouveau-le-dialogue-entre-paris-et-alger/)
 - [Burkina Faso : huit humanitaires accusés d’« espionnage » ont été libérés](https://www.jeuneafrique.com/1746801/politique/burkina-faso-huit-humanitaires-accuses-d-espionnage-ont-ete-liberes/)
 - [La montée jihadiste au Sahel menace l’Europe, avertit le représentant de l’Union européenne](https://www.jeuneafrique.com/1746645/politique/la-montee-jihadiste-au-sahel-menace-leurope-avertit-le-representant-de-lunion-europeenne/)
 - [Présidentielle en Guinée : Faya Millimono dénonce l’enlèvement de l’un de ses directeurs de campagne](https://www.jeuneafrique.com/1746631/politique/presidentielle-en-guinee-faya-millimono-denonce-lenlevement-de-lun-de-ses-directeurs-de-campagne/)
 - [Mali : l’imam Dicko rejoint la nouvelle coalition d’opposants en exil](https://www.jeuneafrique.com/1746636/politique/mali-limam-dicko-rejoint-la-nouvelle-coalition-dopposants-en-exil/)
-- [RDC-Rwanda : Félix Tshisekedi et Paul Kagame signent l’accord de paix sous l’égide de Donald Trump](https://www.jeuneafrique.com/1746612/politique/rdc-rwanda-felix-tshisekedi-et-paul-kagame-signent-laccord-de-paix-sous-legide-de-donald-trump/)
-- [États-Unis – Afrique du Sud : Donald Trump prend sa revanche sur Cyril Ramaphosa après le G20 à Johannesburg](https://www.jeuneafrique.com/1746342/politique/etats-unis-afrique-du-sud-donald-trump-prend-sa-revanche-sur-cyril-ramaphosa-apres-le-g20-a-johannesburg/)
+- [Mines : comment le projet Simandou à propulsé le guinéen GPC sur le devant de la scène](https://www.jeuneafrique.com/1745744/economie-entreprises/mines-comment-le-projet-simandou-a-propulse-le-guineen-gpc-sur-le-devant-de-la-scene/)
 - [« Partenariats public-privé : pourquoi l’Afrique est à la traîne »](https://www.jeuneafrique.com/1746885/economie-entreprises/partenariats-public-prive-pourquoi-lafrique-est-a-la-traine/)
-- [Spiro, BasiGo, Ampersand… En Afrique, la course survoltée à la moto électrique échappe à tout contrôle](https://www.jeuneafrique.com/1740920/economie-entreprises/spiro-basigo-ampersand-en-afrique-la-course-survoltee-a-la-moto-electrique-echappe-a-tout-controle/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
@@ -286,4 +274,3 @@
 - [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
 - [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
 - [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
-- [Il potere del mare si riflette nello Spazio](https://www.limesonline.com/rubriche/mappe-parlanti/il-potere-del-mare-si-riflette-nello-spazio-19991349/)
