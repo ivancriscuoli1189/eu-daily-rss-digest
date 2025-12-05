@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Dec 2025, 21:02*
+*Generato: 05 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
 - [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
-- [La croissance économique au deuxième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-deuxieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, deuxième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-deuxieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -223,6 +223,19 @@
 - [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 - [Pakistan – Dismantling Justice: A Full-Frontal Assault on the Rule of Law](https://www.icj.org/pakistan-dismantling-justice-a-full-frontal-assault-on-the-rule-of-law/)
 
+## THINK TANK – ECFR – MENA
+
+- [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
+- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
+- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
+- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
+- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
+- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
+- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
+- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
+- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
+- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun-Guinée équatoriale : comment Teodorín Obiang a évité une brouille diplomatique](https://www.jeuneafrique.com/1745948/politique/cameroun-guinee-equatoriale-comment-teodorin-obiang-a-evite-une-brouille-diplomatique/)
 - [Tanzanie : Meta suspend les comptes Instagram de deux militantes dénonçant les violences électorales](https://www.jeuneafrique.com/1746560/politique/tanzanie-meta-suspend-les-comptes-instagram-de-deux-militantes-denoncant-les-violences-electorales/)
 - [En Namibie, réélection d’Adolf Hitler… Uunona](https://www.jeuneafrique.com/1746247/politique/en-namibie-reelection-dadolf-hitler-uunona/)
 - [Dans l’est de la RDC, les combats reprennent à quelques heures de la signature d’un accord de paix à Washington](https://www.jeuneafrique.com/1746172/politique/dans-lest-de-la-rdc-les-combats-reprennent-a-quelques-heures-de-la-signature-dun-accord-de-paix-a-washington/)
@@ -258,7 +272,6 @@
 - [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
 - [Nathalie Yamb, Samia Nkrumah, Kako Nubukpo… Qui est attendu au congrès panafricain, au Togo ?](https://www.jeuneafrique.com/1745981/politique/nathalie-yamb-samia-nkrumah-kako-nubukpo-qui-est-attendu-au-congres-panafricain-au-togo/)
 - [Abdoulaye Yéro Baldé : « Mamadi Doumbouya n’avait pas le droit de se présenter »](https://www.jeuneafrique.com/1746084/politique/abdoulaye-yero-balde-mamadi-doumbouya-navait-pas-le-droit-de-se-presenter/)
-- [Au Gabon, pourquoi le ministre du Tourisme est assigné à résidence](https://www.jeuneafrique.com/1745904/politique/au-gabon-pourquoi-le-ministre-du-tourisme-est-assigne-a-residence/)
 - [Comment Vodacom a pris le contrôle de Safaricom, l’entreprise la plus rentable d’Afrique de l’Est](https://www.jeuneafrique.com/1746362/economie-entreprises/comment-vodacom-a-pris-le-controle-de-safaricom-lentreprise-la-plus-rentable-dafrique-de-lest/)
 - [Casablanca, Lagos, Abidjan… Quelle ville a le marché de l’emploi le plus dynamique ?](https://www.jeuneafrique.com/1745903/economie-entreprises/casablanca-lagos-abidjan-quelle-ville-a-le-marche-de-lemploi-le-plus-dynamique/)
 
