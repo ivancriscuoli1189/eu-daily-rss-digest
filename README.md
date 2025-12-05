@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Dec 2025, 09:12*
+*Generato: 05 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,8 +70,8 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الدّاخلية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%91%D8%A7%D8%AE%D9%84%D9%8A%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد "Giuseppe Perrone" سفير الاتحاد الأوروبي بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-giuseppe-perrone-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة و السيّد سمير عبد الحفيظ وزير الاقتصاد والتخطيط والسيّد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9-1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد "George Elombi" الرئيس الجديد للبنك الإفريقي للتصدير والتوريد "Afreximbank" ورئيس مجلس إدارته](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-george-elombi-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D9%84%D9%84%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D9%8A%D8%AF)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع سعادة السيدة "Mariem Martinez Laurel" سفيرة جمهورية كوبا بتونس التي أدّت زيارة توديع إلى رئيس الدولة بمناسبة انتهاء مهامها.](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-mariem-martinez-laurel-%D8%B3%D9%81%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%83%D9%88%D8%A8%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%AA%D9%8A)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Guinée : Faya Millimono dénonce l’enlèvement de l’un de ses directeurs de campagne](https://www.jeuneafrique.com/1746631/politique/presidentielle-en-guinee-faya-millimono-denonce-lenlevement-de-lun-de-ses-directeurs-de-campagne/)
 - [Mali : l’imam Dicko rejoint la nouvelle coalition d’opposants en exil](https://www.jeuneafrique.com/1746636/politique/mali-limam-dicko-rejoint-la-nouvelle-coalition-dopposants-en-exil/)
 - [Tanzanie : Meta suspend les comptes Instagram de deux militantes dénonçant les violences électorales](https://www.jeuneafrique.com/1746560/politique/tanzanie-meta-suspend-les-comptes-instagram-de-deux-militantes-denoncant-les-violences-electorales/)
 - [En Namibie, réélection d’Adolf Hitler… Uunona](https://www.jeuneafrique.com/1746247/politique/en-namibie-reelection-dadolf-hitler-uunona/)
@@ -271,7 +272,6 @@
 - [Pétrolier russe endommagé : le Sénégal mène une inspection face au risque de pollution](https://www.jeuneafrique.com/1746158/politique/petrolier-russe-endommage-le-senegal-mene-une-inspection-face-au-risque-de-pollution/)
 - [Entre peines sévères et libération conditionnelle, les réactions aux verdicts du procès pour « complot » en Tunisie](https://www.jeuneafrique.com/1745907/politique/entre-peines-severes-et-liberation-conditionnelle-les-reactions-aux-verdicts-du-proces-pour-complot-en-tunisie/)
 - [Guinée-Bissau : que deviennent les opposants depuis le coup d’État ?](https://www.jeuneafrique.com/1745701/politique/guinee-bissau-que-deviennent-les-opposants-depuis-le-coup-detat/)
-- [Présidentielle au Cameroun : comment Maurice Kamto a tenté de devenir le candidat du FSNC à la place d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745510/politique/presidentielle-au-cameroun-comment-maurice-kamto-a-tente-de-devenir-le-candidat-du-fsnc-a-la-place-dissa-tchiroma-bakary/)
 - [Crise du carburant au Mali : comment l’économie déjoue les pronostics](https://www.jeuneafrique.com/1746268/economie-entreprises/crise-du-carburant-au-mali-comment-leconomie-dejoue-les-pronostics/)
 - [Comment Vodacom a pris le contrôle de Safaricom, l’entreprise la plus rentable d’Afrique de l’Est](https://www.jeuneafrique.com/1746362/economie-entreprises/comment-vodacom-a-pris-le-controle-de-safaricom-lentreprise-la-plus-rentable-dafrique-de-lest/)
 
