@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Dec 2025, 15:11*
+*Generato: 08 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -268,10 +268,10 @@
 - [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
 - [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
 - [Tentative de coup d’État au Bénin : le Nigeria confirme avoir mené des frappes, la Cedeao déploie la Force en attente](https://www.jeuneafrique.com/1747263/politique/tentative-de-coup-detat-au-benin-le-nigeria-confirme-avoir-mene-des-frappes-la-cedeao-deploie-la-force-en-attente/)
+- [Cameroun : Chris Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
+- [Bénin : retour sur ces heures qui ont fait vaciller le pouvoir de Patrice Talon](https://www.jeuneafrique.com/1747237/politique/benin-retour-sur-ces-heures-qui-ont-fait-vaciller-le-pouvoir-de-patrice-talon/)
 - [Des experts de l’ONU accusent l’armée rwandaise de graves exactions dans l’est de la RDC](https://www.jeuneafrique.com/1747233/politique/des-experts-de-lonu-accusent-larmee-rwandaise-de-graves-exactions-dans-lest-de-la-rdc/)
 - [Soudan : des dizaines de civils, dont des enfants, tués par des frappes paramilitaires](https://www.jeuneafrique.com/1747224/politique/soudan-des-dizaines-de-civils-dont-des-enfants-tues-par-des-frappes-paramilitaires/)
-- [Russie et Maghreb : une relation qui vient de loin](https://www.jeuneafrique.com/1746227/politique/russie-et-maghreb-une-relation-qui-vient-de-loin/)
-- [« L’opposition n’est pas un crime » : à Tunis, plusieurs centaines de personnes se rassemblent pour demander la libération de militants](https://www.jeuneafrique.com/1747207/politique/lopposition-nest-pas-un-crime-a-tunis-plusieurs-centaines-de-personnes-se-rassemblent-pour-demander-la-liberation-de-militants/)
 - [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
 - [Les villes nouvelles sont-elles le remède miracle au boom démographique de l’Afrique ?](https://www.jeuneafrique.com/1742910/economie-entreprises/les-villes-nouvelles-sont-elles-le-remede-miracle-au-boom-demographique-de-lafrique/)
 
