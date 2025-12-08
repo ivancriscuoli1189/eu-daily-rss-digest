@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Dec 2025, 11:02*
+*Generato: 08 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -271,9 +271,9 @@
 - [« L’opposition n’est pas un crime » : à Tunis, plusieurs centaines de personnes se rassemblent pour demander la libération de militants](https://www.jeuneafrique.com/1747207/politique/lopposition-nest-pas-un-crime-a-tunis-plusieurs-centaines-de-personnes-se-rassemblent-pour-demander-la-liberation-de-militants/)
 - [De Wagner à l’Africa Corps : comment la Russie a sapé la stabilité du Mali](https://www.jeuneafrique.com/1746256/politique/de-wagner-a-lafrica-corps-comment-la-russie-a-sape-la-stabilite-du-mali/)
 - [Bénin : ce que l’on sait de la tentative de coup d’État à Cotonou](https://www.jeuneafrique.com/1747191/politique/tentative-de-coup-detat-en-cours-a-cotonou/)
-- [Guinée-Bissau : après l’étrange coup d’État, « les gens n’ont pas peur, mais ils sont fatigués »](https://www.jeuneafrique.com/1746590/politique/guinee-bissau-apres-letrange-coup-detat-les-gens-nont-pas-peur-mais-ils-sont-fatigues/)
+- [Émirats, Turquie, Arabie saoudite… Au Soudan, une guerre civile sous influences étrangères](https://www.jeuneafrique.com/1746922/politique/emirats-turquie-arabie-saoudite-au-soudan-une-guerre-civile-sous-influences-etrangeres/)
 - [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
-- [Mines : comment le projet Simandou a propulsé le guinéen GPC sur le devant de la scène](https://www.jeuneafrique.com/1745744/economie-entreprises/mines-comment-le-projet-simandou-a-propulse-le-guineen-gpc-sur-le-devant-de-la-scene/)
+- [Les villes nouvelles sont-elles le remède miracle au boom démographique de l’Afrique ?](https://www.jeuneafrique.com/1742910/economie-entreprises/les-villes-nouvelles-sont-elles-le-remede-miracle-au-boom-demographique-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
