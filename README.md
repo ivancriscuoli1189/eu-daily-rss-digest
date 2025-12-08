@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Dec 2025, 21:09*
+*Generato: 08 Dec 2025, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Tunisie : l’UGTT appelle à la grève générale pour le 21 janvier](https://www.jeuneafrique.com/1746773/politique/tunisie-lugtt-appelle-a-la-greve-generale-pour-le-21-janvier/)
-- [Madagascar : le colonel Randrianirina souhaite qu’Andry Rajoelina soit jugé](https://www.jeuneafrique.com/1746945/politique/madagascar-le-colonel-randrianirina-souhaite-quandry-rajoelina-soit-juge/)
-- [Sénégal, Congo, Maroc… Les tribulations d’Embaló en Afrique](https://www.jeuneafrique.com/1746719/politique/senegal-congo-maroc-les-tribulations-dembalo-en-afrique/)
-- [La condamnation du journaliste Christophe Gleizes compromet à nouveau le dialogue entre Paris et Alger](https://www.jeuneafrique.com/1746714/politique/la-condamnation-du-journaliste-christophe-gleizes-compromet-a-nouveau-le-dialogue-entre-paris-et-alger/)
-- [Burkina Faso : huit humanitaires accusés d’« espionnage » ont été libérés](https://www.jeuneafrique.com/1746801/politique/burkina-faso-huit-humanitaires-accuses-d-espionnage-ont-ete-liberes/)
-- [La montée jihadiste au Sahel menace l’Europe, avertit le représentant de l’Union européenne](https://www.jeuneafrique.com/1746645/politique/la-montee-jihadiste-au-sahel-menace-leurope-avertit-le-representant-de-lunion-europeenne/)
-- [Présidentielle en Guinée : Faya Millimono dénonce l’enlèvement de l’un de ses directeurs de campagne](https://www.jeuneafrique.com/1746631/politique/presidentielle-en-guinee-faya-millimono-denonce-lenlevement-de-lun-de-ses-directeurs-de-campagne/)
-- [Mali : l’imam Dicko rejoint la nouvelle coalition d’opposants en exil](https://www.jeuneafrique.com/1746636/politique/mali-limam-dicko-rejoint-la-nouvelle-coalition-dopposants-en-exil/)
+- [Cameroun : Chrislan Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
+- [Des experts de l’ONU accusent l’armée rwandaise de graves exactions dans l’est de la RDC](https://www.jeuneafrique.com/1747233/politique/des-experts-de-lonu-accusent-larmee-rwandaise-de-graves-exactions-dans-lest-de-la-rdc/)
+- [Soudan : des dizaines de civils, dont des enfants, tués par des frappes paramilitaires](https://www.jeuneafrique.com/1747224/politique/soudan-des-dizaines-de-civils-dont-des-enfants-tues-par-des-frappes-paramilitaires/)
+- [« L’opposition n’est pas un crime » : à Tunis, plusieurs centaines de personnes se rassemblent pour demander la libération de militants](https://www.jeuneafrique.com/1747207/politique/lopposition-nest-pas-un-crime-a-tunis-plusieurs-centaines-de-personnes-se-rassemblent-pour-demander-la-liberation-de-militants/)
+- [Bénin : ce que l’on sait de la tentative de coup d’État à Cotonou](https://www.jeuneafrique.com/1747191/politique/tentative-de-coup-detat-en-cours-a-cotonou/)
+- [Guinée-Bissau : après l’étrange coup d’État, « les gens n’ont pas peur, mais ils sont fatigués »](https://www.jeuneafrique.com/1746590/politique/guinee-bissau-apres-letrange-coup-detat-les-gens-nont-pas-peur-mais-ils-sont-fatigues/)
+- [La ville la plus attractive du continent, un accord de paix entre la RDC et le Rwanda, affaire Lamjarred au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1746723/politique/la-ville-la-plus-attractive-du-continent-un-accord-de-paix-entre-la-rdc-et-le-rwanda-affaire-lamjarred-au-maroc-les-5-infos-incontournables-de-la-semaine/)
+- [En Côte d’Ivoire, Alassane Ouattara met en garde ses ministres](https://www.jeuneafrique.com/1746718/politique/en-cote-divoire-alassane-ouattara-met-en-garde-ses-ministres/)
 - [Mines : comment le projet Simandou à propulsé le guinéen GPC sur le devant de la scène](https://www.jeuneafrique.com/1745744/economie-entreprises/mines-comment-le-projet-simandou-a-propulse-le-guineen-gpc-sur-le-devant-de-la-scene/)
-- [« Partenariats public-privé : pourquoi l’Afrique est à la traîne »](https://www.jeuneafrique.com/1746885/economie-entreprises/partenariats-public-prive-pourquoi-lafrique-est-a-la-traine/)
+- [Pourquoi le crédit privé fait son chemin en Afrique](https://www.jeuneafrique.com/1746695/economie-entreprises/pourquoi-le-credit-prive-fait-son-chemin-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
