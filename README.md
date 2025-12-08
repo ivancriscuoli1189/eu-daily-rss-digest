@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Dec 2025, 06:18*
+*Generato: 08 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : Chrislan Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
+- [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
 - [Des experts de l’ONU accusent l’armée rwandaise de graves exactions dans l’est de la RDC](https://www.jeuneafrique.com/1747233/politique/des-experts-de-lonu-accusent-larmee-rwandaise-de-graves-exactions-dans-lest-de-la-rdc/)
 - [Soudan : des dizaines de civils, dont des enfants, tués par des frappes paramilitaires](https://www.jeuneafrique.com/1747224/politique/soudan-des-dizaines-de-civils-dont-des-enfants-tues-par-des-frappes-paramilitaires/)
+- [Russie et Maghreb : une relation qui vient de loin](https://www.jeuneafrique.com/1746227/politique/russie-et-maghreb-une-relation-qui-vient-de-loin/)
 - [« L’opposition n’est pas un crime » : à Tunis, plusieurs centaines de personnes se rassemblent pour demander la libération de militants](https://www.jeuneafrique.com/1747207/politique/lopposition-nest-pas-un-crime-a-tunis-plusieurs-centaines-de-personnes-se-rassemblent-pour-demander-la-liberation-de-militants/)
+- [De Wagner à l’Africa Corps : comment la Russie a sapé la stabilité du Mali](https://www.jeuneafrique.com/1746256/politique/de-wagner-a-lafrica-corps-comment-la-russie-a-sape-la-stabilite-du-mali/)
 - [Bénin : ce que l’on sait de la tentative de coup d’État à Cotonou](https://www.jeuneafrique.com/1747191/politique/tentative-de-coup-detat-en-cours-a-cotonou/)
 - [Guinée-Bissau : après l’étrange coup d’État, « les gens n’ont pas peur, mais ils sont fatigués »](https://www.jeuneafrique.com/1746590/politique/guinee-bissau-apres-letrange-coup-detat-les-gens-nont-pas-peur-mais-ils-sont-fatigues/)
-- [La ville la plus attractive du continent, un accord de paix entre la RDC et le Rwanda, affaire Lamjarred au Maroc… Les 5 infos incontournables de la semaine](https://www.jeuneafrique.com/1746723/politique/la-ville-la-plus-attractive-du-continent-un-accord-de-paix-entre-la-rdc-et-le-rwanda-affaire-lamjarred-au-maroc-les-5-infos-incontournables-de-la-semaine/)
-- [En Côte d’Ivoire, Alassane Ouattara met en garde ses ministres](https://www.jeuneafrique.com/1746718/politique/en-cote-divoire-alassane-ouattara-met-en-garde-ses-ministres/)
-- [Mines : comment le projet Simandou à propulsé le guinéen GPC sur le devant de la scène](https://www.jeuneafrique.com/1745744/economie-entreprises/mines-comment-le-projet-simandou-a-propulse-le-guineen-gpc-sur-le-devant-de-la-scene/)
-- [Pourquoi le crédit privé fait son chemin en Afrique](https://www.jeuneafrique.com/1746695/economie-entreprises/pourquoi-le-credit-prive-fait-son-chemin-en-afrique/)
+- [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
+- [Mines : comment le projet Simandou a propulsé le guinéen GPC sur le devant de la scène](https://www.jeuneafrique.com/1745744/economie-entreprises/mines-comment-le-projet-simandou-a-propulse-le-guineen-gpc-sur-le-devant-de-la-scene/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
