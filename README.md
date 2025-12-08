@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Dec 2025, 18:15*
+*Generato: 08 Dec 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
@@ -91,7 +92,6 @@
 - [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
 - [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
 - [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
-- [Package travels: new rules on traveller protection](https://www.europarl.europa.eu/news/en/press-room/20251127IPR31635/package-travels-new-rules-on-traveller-protection)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -267,13 +267,13 @@
 - [Décès d’Anicet Ekane : Paul Atanga Nji remue le couteau dans la plaie](https://www.jeuneafrique.com/1747404/politique/deces-danicet-ekane-paul-atanga-nji-remue-le-couteau-dans-la-plaie/)
 - [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
 - [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
+- [Législatives en Côte d’Ivoire : à Yamoussoukro, un match capital](https://www.jeuneafrique.com/1746639/politique/legislatives-en-cote-divoire-a-yamoussoukro-un-match-capital/)
 - [Tentative de coup d’État au Bénin : le Nigeria confirme avoir mené des frappes, la Cedeao déploie la Force en attente](https://www.jeuneafrique.com/1747263/politique/tentative-de-coup-detat-au-benin-le-nigeria-confirme-avoir-mene-des-frappes-la-cedeao-deploie-la-force-en-attente/)
 - [Cameroun : Chris Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
 - [Bénin : retour sur ces heures qui ont fait vaciller le pouvoir de Patrice Talon](https://www.jeuneafrique.com/1747237/politique/benin-retour-sur-ces-heures-qui-ont-fait-vaciller-le-pouvoir-de-patrice-talon/)
 - [Des experts de l’ONU accusent l’armée rwandaise de graves exactions dans l’est de la RDC](https://www.jeuneafrique.com/1747233/politique/des-experts-de-lonu-accusent-larmee-rwandaise-de-graves-exactions-dans-lest-de-la-rdc/)
-- [Soudan : des dizaines de civils, dont des enfants, tués par des frappes paramilitaires](https://www.jeuneafrique.com/1747224/politique/soudan-des-dizaines-de-civils-dont-des-enfants-tues-par-des-frappes-paramilitaires/)
+- [« Diaspora-économie » : l’autre rente stratégique de l’Afrique – par Aurélie M’Bida](https://www.jeuneafrique.com/1741572/economie-entreprises/diaspora-economie-lautre-rente-strategique-de-lafrique-par-aurelie-mbida/)
 - [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
-- [Les villes nouvelles sont-elles le remède miracle au boom démographique de l’Afrique ?](https://www.jeuneafrique.com/1742910/economie-entreprises/les-villes-nouvelles-sont-elles-le-remede-miracle-au-boom-demographique-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
