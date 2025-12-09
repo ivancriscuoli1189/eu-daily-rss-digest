@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Dec 2025, 18:13*
+*Generato: 09 Dec 2025, 21:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,12 +265,12 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Guinée-Bissau, la junte se dote d’une charte de transition](https://www.jeuneafrique.com/1747947/politique/en-guinee-bissau-la-junte-se-dote-dune-charte-de-transition/)
+- [Élections en Centrafrique : un quadruple scrutin à haut risque ?](https://www.jeuneafrique.com/1747417/politique/elections-en-centrafrique-un-quadruple-scrutin-a-haut-risque/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
 - [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
 - [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
 - [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
 - [Félix Tshisekedi : « Le Rwanda viole déjà ses engagements »](https://www.jeuneafrique.com/1747580/politique/felix-tshisekedi-le-rwanda-viole-deja-ses-engagements/)
-- [Tentative de coup d’État au Bénin : ce que l’on sait du rôle de la France](https://www.jeuneafrique.com/1747593/politique/tentative-de-coup-detat-au-benin-ce-que-lon-sait-du-role-de-la-france/)
 - [« Ce mandat sera celui de la transmission générationnelle » : Alassane Ouattara investi à Abidjan](https://www.jeuneafrique.com/1747420/politique/ce-mandat-sera-celui-de-la-transmission-generationnelle-alassane-ouattara-investi-a-abidjan/)
 - [Pourquoi le Conseil café cacao ivoirien peine à diversifier ses ventes de fèves](https://www.jeuneafrique.com/1747588/economie-entreprises/pourquoi-le-conseil-cafe-cacao-ivoirien-peine-a-diversifier-ses-ventes-de-feves/)
 - [Jusqu’où peut aller la rivalité entre Afriland et BGFIBank pour la place de leader en Afrique centrale ?](https://www.jeuneafrique.com/1746541/economie-entreprises/jusquou-peut-aller-la-rivalite-entre-afriland-et-bgfibank-pour-la-place-de-leader-en-afrique-centrale/)
