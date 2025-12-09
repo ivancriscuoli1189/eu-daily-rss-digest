@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Dec 2025, 15:12*
+*Generato: 09 Dec 2025, 18:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée-Bissau, la junte se dote d’une charte de transition](https://www.jeuneafrique.com/1747947/politique/en-guinee-bissau-la-junte-se-dote-dune-charte-de-transition/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
 - [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
 - [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
+- [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
 - [Félix Tshisekedi : « Le Rwanda viole déjà ses engagements »](https://www.jeuneafrique.com/1747580/politique/felix-tshisekedi-le-rwanda-viole-deja-ses-engagements/)
+- [Tentative de coup d’État au Bénin : ce que l’on sait du rôle de la France](https://www.jeuneafrique.com/1747593/politique/tentative-de-coup-detat-au-benin-ce-que-lon-sait-du-role-de-la-france/)
 - [« Ce mandat sera celui de la transmission générationnelle » : Alassane Ouattara investi à Abidjan](https://www.jeuneafrique.com/1747420/politique/ce-mandat-sera-celui-de-la-transmission-generationnelle-alassane-ouattara-investi-a-abidjan/)
-- [Tentative de coup d’État au Bénin : comment Bola Tinubu a volé au secours de Patrice Talon](https://www.jeuneafrique.com/1747407/politique/tentative-de-coup-detat-au-benin-comment-bola-tinubu-a-vole-au-secours-de-patrice-talon/)
-- [Décès d’Anicet Ekane : Paul Atanga Nji remue le couteau dans la plaie](https://www.jeuneafrique.com/1747404/politique/deces-danicet-ekane-paul-atanga-nji-remue-le-couteau-dans-la-plaie/)
-- [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
 - [Pourquoi le Conseil café cacao ivoirien peine à diversifier ses ventes de fèves](https://www.jeuneafrique.com/1747588/economie-entreprises/pourquoi-le-conseil-cafe-cacao-ivoirien-peine-a-diversifier-ses-ventes-de-feves/)
-- [« Diaspora-économie » : l’autre rente stratégique de l’Afrique – par Aurélie M’Bida](https://www.jeuneafrique.com/1741572/economie-entreprises/diaspora-economie-lautre-rente-strategique-de-lafrique-par-aurelie-mbida/)
+- [Jusqu’où peut aller la rivalité entre Afriland et BGFIBank pour la place de leader en Afrique centrale ?](https://www.jeuneafrique.com/1746541/economie-entreprises/jusquou-peut-aller-la-rivalite-entre-afriland-et-bgfibank-pour-la-place-de-leader-en-afrique-centrale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
