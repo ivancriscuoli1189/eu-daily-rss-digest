@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Dec 2025, 21:09*
+*Generato: 09 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: deal on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/press-conference-deal-on-sustainability-reporting-and-due-diligence-rules)
+- [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
@@ -90,8 +92,6 @@
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
 - [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
 - [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
-- [MEPs endorse digital pre-clearance system to speed up EU border crossings](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31708/meps-endorse-digital-pre-clearance-system-to-speed-up-eu-border-crossings)
-- [Phasing-out imports of Russian gas in the EU: deal with Council](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31698/phasing-out-imports-of-russian-gas-in-the-eu-deal-with-council)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -203,25 +203,25 @@
 - [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
 - [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
 - [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 - [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
 - [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
-- [Tunisia's Withdrawal of Individuals’ and NGOs’ Access to the African Court Marks a Serious Setback for Human Rights Accountability](https://www.hrw.org/news/2025/03/27/tunisias-withdrawal-individuals-and-ngos-access-african-court-marks-serious-setback)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Asia-Pacific: ICJ and Danish Institute for Human Rights hold regional consultation on developing global principles on human rights in the digital space](https://www.icj.org/asia-pacific-icj-and-danish-institute-for-human-rights-hold-regional-consultation-on-developing-global-principles-on-human-rights-in-the-digital-space/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
-- [End the judicial persecution of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/end-the-judicial-persecution-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
-- [EU: Children with disabilities have the right to participate in legal proceedings](https://www.icj.org/eu-children-with-disabilities-have-the-right-to-participate-in-legal-proceedings/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
 - [Décès d’Anicet Ekane : Paul Atanga Nji remue le couteau dans la plaie](https://www.jeuneafrique.com/1747404/politique/deces-danicet-ekane-paul-atanga-nji-remue-le-couteau-dans-la-plaie/)
 - [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
 - [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
@@ -271,7 +272,6 @@
 - [Tentative de coup d’État au Bénin : le Nigeria confirme avoir mené des frappes, la Cedeao déploie la Force en attente](https://www.jeuneafrique.com/1747263/politique/tentative-de-coup-detat-au-benin-le-nigeria-confirme-avoir-mene-des-frappes-la-cedeao-deploie-la-force-en-attente/)
 - [Cameroun : Chris Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
 - [Bénin : retour sur ces heures qui ont fait vaciller le pouvoir de Patrice Talon](https://www.jeuneafrique.com/1747237/politique/benin-retour-sur-ces-heures-qui-ont-fait-vaciller-le-pouvoir-de-patrice-talon/)
-- [Des experts de l’ONU accusent l’armée rwandaise de graves exactions dans l’est de la RDC](https://www.jeuneafrique.com/1747233/politique/des-experts-de-lonu-accusent-larmee-rwandaise-de-graves-exactions-dans-lest-de-la-rdc/)
 - [« Diaspora-économie » : l’autre rente stratégique de l’Afrique – par Aurélie M’Bida](https://www.jeuneafrique.com/1741572/economie-entreprises/diaspora-economie-lautre-rente-strategique-de-lafrique-par-aurelie-mbida/)
 - [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
 
