@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Dec 2025, 11:10*
+*Generato: 09 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
 - [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
+- [Félix Tshisekedi : « Le Rwanda viole déjà ses engagements »](https://www.jeuneafrique.com/1747580/politique/felix-tshisekedi-le-rwanda-viole-deja-ses-engagements/)
 - [« Ce mandat sera celui de la transmission générationnelle » : Alassane Ouattara investi à Abidjan](https://www.jeuneafrique.com/1747420/politique/ce-mandat-sera-celui-de-la-transmission-generationnelle-alassane-ouattara-investi-a-abidjan/)
 - [Tentative de coup d’État au Bénin : comment Bola Tinubu a volé au secours de Patrice Talon](https://www.jeuneafrique.com/1747407/politique/tentative-de-coup-detat-au-benin-comment-bola-tinubu-a-vole-au-secours-de-patrice-talon/)
 - [Décès d’Anicet Ekane : Paul Atanga Nji remue le couteau dans la plaie](https://www.jeuneafrique.com/1747404/politique/deces-danicet-ekane-paul-atanga-nji-remue-le-couteau-dans-la-plaie/)
 - [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
 - [Guinée-Bissau : « Dire qu’Umaro Sissoco Embaló a orchestré le coup d’État est un mensonge »](https://www.jeuneafrique.com/1747272/politique/guinee-bissau-dire-quumaro-sissoco-embalo-a-orchestre-le-coup-detat-est-un-mensonge/)
-- [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
-- [Législatives en Côte d’Ivoire : à Yamoussoukro, un match capital](https://www.jeuneafrique.com/1746639/politique/legislatives-en-cote-divoire-a-yamoussoukro-un-match-capital/)
+- [Pourquoi le Conseil café cacao ivoirien peine à diversifier ses ventes de fèves](https://www.jeuneafrique.com/1747588/economie-entreprises/pourquoi-le-conseil-cafe-cacao-ivoirien-peine-a-diversifier-ses-ventes-de-feves/)
 - [« Diaspora-économie » : l’autre rente stratégique de l’Afrique – par Aurélie M’Bida](https://www.jeuneafrique.com/1741572/economie-entreprises/diaspora-economie-lautre-rente-strategique-de-lafrique-par-aurelie-mbida/)
-- [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
