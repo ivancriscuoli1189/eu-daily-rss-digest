@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Dec 2025, 06:16*
+*Generato: 09 Dec 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
+- [Tentative de coup d’État au Bénin : comment Bola Tinubu a volé au secours de Patrice Talon](https://www.jeuneafrique.com/1747407/politique/tentative-de-coup-detat-au-benin-comment-bola-tinubu-a-vole-au-secours-de-patrice-talon/)
 - [Décès d’Anicet Ekane : Paul Atanga Nji remue le couteau dans la plaie](https://www.jeuneafrique.com/1747404/politique/deces-danicet-ekane-paul-atanga-nji-remue-le-couteau-dans-la-plaie/)
 - [À quoi pense Kaïs Saïed devant la tombe de Farhat Hached ? – par Frida Dahmani](https://www.jeuneafrique.com/1747269/politique/a-quoi-pense-kais-saied-devant-la-tombe-de-farhat-hached-par-frida-dahmani/)
+- [Guinée-Bissau : « Dire qu’Umaro Sissoco Embaló a orchestré le coup d’État est un mensonge »](https://www.jeuneafrique.com/1747272/politique/guinee-bissau-dire-quumaro-sissoco-embalo-a-orchestre-le-coup-detat-est-un-mensonge/)
 - [Est de la RDC : les combats s’intensifient à Luvungi, près d’Uvira](https://www.jeuneafrique.com/1747278/politique/est-de-la-rdc-les-combats-sintensifient-a-luvungi-pres-duvira/)
 - [Législatives en Côte d’Ivoire : à Yamoussoukro, un match capital](https://www.jeuneafrique.com/1746639/politique/legislatives-en-cote-divoire-a-yamoussoukro-un-match-capital/)
 - [Tentative de coup d’État au Bénin : le Nigeria confirme avoir mené des frappes, la Cedeao déploie la Force en attente](https://www.jeuneafrique.com/1747263/politique/tentative-de-coup-detat-au-benin-le-nigeria-confirme-avoir-mene-des-frappes-la-cedeao-deploie-la-force-en-attente/)
 - [Cameroun : Chris Maneng’s, le discret communicant qui a propulsé Issa Tchiroma Bakary](https://www.jeuneafrique.com/1745562/politique/cameroun-chrislan-manengs-le-discret-communicant-qui-a-propulse-issa-tchiroma-bakary/)
-- [Bénin : retour sur ces heures qui ont fait vaciller le pouvoir de Patrice Talon](https://www.jeuneafrique.com/1747237/politique/benin-retour-sur-ces-heures-qui-ont-fait-vaciller-le-pouvoir-de-patrice-talon/)
 - [« Diaspora-économie » : l’autre rente stratégique de l’Afrique – par Aurélie M’Bida](https://www.jeuneafrique.com/1741572/economie-entreprises/diaspora-economie-lautre-rente-strategique-de-lafrique-par-aurelie-mbida/)
 - [Carlos Lopes : « L’Afrique est devenue un acteur périphérique de l’économie mondiale »](https://www.jeuneafrique.com/1745712/economie-entreprises/carlos-lopes-lafrique-est-devenue-un-acteur-peripherique-de-leconomie-mondiale/)
 
