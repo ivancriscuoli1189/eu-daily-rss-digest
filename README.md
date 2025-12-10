@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 12:19*
+*Generato: 10 Dec 2025, 13:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,13 +82,13 @@
 
 ## UE – EP – Press Room
 
+- [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251204IPR31802/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
-- [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
 - [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
 - [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
 - [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
 - [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
@@ -234,7 +235,6 @@
 - [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
 - [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
-- [Gaza ceasefire](https://ecfr.eu/podcasts/episode/gaza-ceasefire/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Mauritanie : d’anciens responsables inculpés pour détournement de biens publics](https://www.jeuneafrique.com/1748109/politique/mauritanie-danciens-responsables-inculpes-pour-detournement-de-biens-publics/)
+- [Au Maroc, 22 morts dans l’effondrement de deux immeubles à Fès](https://www.jeuneafrique.com/1748115/politique/au-maroc-19-morts-dans-leffondrement-de-deux-immeubles-a-fes/)
 - [En Guinée-Bissau, la junte se dote d’une charte de transition](https://www.jeuneafrique.com/1747947/politique/en-guinee-bissau-la-junte-se-dote-dune-charte-de-transition/)
 - [Élections en Centrafrique : un quadruple scrutin à haut risque ?](https://www.jeuneafrique.com/1747417/politique/elections-en-centrafrique-un-quadruple-scrutin-a-haut-risque/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
+- [Côte d’Ivoire : 5 questions pour comprendre pourquoi les législatives seront décisives](https://www.jeuneafrique.com/1747553/politique/cote-divoire-5-questions-pour-comprendre-pourquoi-les-legislatives-seront-decisives/)
 - [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
 - [Cameroun : les camionneurs en colère, arbitres du bras de fer entre Biya et Tchiroma Bakary ?](https://www.jeuneafrique.com/1747654/politique/cameroun-les-camionneurs-en-colere-arbitres-du-bras-de-fer-entre-biya-et-tchiroma-bakary/)
-- [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
-- [Le journaliste Christophe Gleizes contre un diplomate : la presse algérienne passe le message à Paris](https://www.jeuneafrique.com/1747379/politique/un-journaliste-contre-un-diplomate-la-presse-algerienne-passe-le-message-a-paris/)
 - [Santé et éducation : comment Abidjan veut réduire les inégalités](https://www.jeuneafrique.com/1739987/economie-entreprises/sante-et-education-comment-abidjan-veut-reduire-les-inegalites/)
 - [Axian, Orange Bank, Vista, Proparco… Ce qui pousse les géants à miser sur la microfinance](https://www.jeuneafrique.com/1747140/economie-entreprises/axian-orange-bank-vista-proparco-ce-qui-pousse-les-geants-a-miser-sur-la-microfinance/)
 
