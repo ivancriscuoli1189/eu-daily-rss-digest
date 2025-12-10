@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 11:02*
+*Generato: 10 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,10 +70,10 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-2)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع أعضاء الفريق الذين كلّفهم بإيجاد حلول للوضع البيئي بقابس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D9%83%D9%84%D9%91%D9%81%D9%87%D9%85-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%82%D8%A7%D8%A8%D8%B3)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد قيس بن محمد اليوسف وزير التجارة والصناعة وترويج الاستثمار بسلطنة عُمان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%82%D9%8A%D8%B3-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D8%B3%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%AA%D8%B1%D9%88%D9%8A%D8%AC)
-- [توجّه رئيس الجمهوريّة قيس سعيّد صباح هذا اليوم الجمعة، الخامس من شهر ديسمبر الجاري، إلى ضريح الشّهيد فرحات حشاد بمناسبة الذكرى الثالثة والسبعين لاغتياله قبل أن يتحوّل إلى مقرّ رئاسة الحكومة بالقصبة ويجتمع مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة. وإ](http://www.carthage.tn/ar/%D8%AA%D9%88%D8%AC%D9%91%D9%87-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B5%D8%A8%D8%A7%D8%AD-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9%D8%8C-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3-%D9%85%D9%86-%D8%B4%D9%87%D8%B1-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D8%A7%D9%84%D8%AC%D8%A7%D8%B1%D9%8A%D8%8C-%D8%A5%D9%84%D9%89-%D8%B6%D8%B1%D9%8A%D8%AD-%D8%A7%D9%84%D8%B4%D9%91%D9%87%D9%8A%D8%AF)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة و السيّد سمير عبد الحفيظ وزير الاقتصاد والتخطيط والسيّد فتحي زهير النوري محافظ البنك المركزي التونسي](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد مصطفى الفرجاني وزير الصحّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A7%D9%84%D9%81%D8%B1%D8%AC%D8%A7%D9%86%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9-1)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيد خالد السهيلي وزير الدفاع الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B3%D9%87%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A-3)
 - [لقاء رئيس الجمهورية قيس سعيّد مع سعادة السيّد "Takeshi Osuga" سفير اليابان بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-takeshi-osuga-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
@@ -189,13 +189,13 @@
 - [Global: Amnesty International’s annual letter-writing campaign demonstrates how humanity can win](https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-internationals-annual-letter-writing-campaign-demonstrates-how-humanity-can-win/)
 - [Tunisia: Quash unjust heavy convictions in ‘conspiracy case’](https://www.amnesty.org/en/latest/news/2025/11/tunisia-quash-unjust-heavy-convictions-in-conspiracy-case/)
 - [Tunisia: Conviction of human rights defenders confirms criminalization of civil society work](https://www.amnesty.org/en/latest/news/2025/11/tunisia-conviction-of-human-rights-defenders-confirms-criminalization-of-civil-society-work/)
-- [English](https://www.amnesty.org/en/)
-- [Español](https://www.amnesty.org/es/)
-- [Français](https://www.amnesty.org/fr/)
-- [العربية](https://www.amnesty.org/ar/)
-- [简中](https://www.amnesty.org/zh-hans/)
-- [繁中](https://www.amnesty.org/zh-hant/)
+- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
+- [Who We Are](https://www.amnesty.org/en/about-us/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
