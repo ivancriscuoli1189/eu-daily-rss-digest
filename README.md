@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Dec 2025, 21:02*
+*Generato: 10 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -44,8 +44,8 @@
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
@@ -91,7 +92,6 @@
 - [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
 - [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
-- [Asylum policy: MEPs back first EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31586/asylum-policy-meps-back-first-eu-list-of-safe-countries-of-origin)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
