@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 09:14*
+*Generato: 10 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,6 +40,19 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
+- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
+- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
+- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mauritanie : d’anciens responsables inculpés pour détournement de biens publics](https://www.jeuneafrique.com/1748109/politique/mauritanie-danciens-responsables-inculpes-pour-detournement-de-biens-publics/)
 - [En Guinée-Bissau, la junte se dote d’une charte de transition](https://www.jeuneafrique.com/1747947/politique/en-guinee-bissau-la-junte-se-dote-dune-charte-de-transition/)
 - [Élections en Centrafrique : un quadruple scrutin à haut risque ?](https://www.jeuneafrique.com/1747417/politique/elections-en-centrafrique-un-quadruple-scrutin-a-haut-risque/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
@@ -258,12 +272,12 @@
 - [Cameroun : les camionneurs en colère, arbitres du bras de fer entre Biya et Tchiroma Bakary ?](https://www.jeuneafrique.com/1747654/politique/cameroun-les-camionneurs-en-colere-arbitres-du-bras-de-fer-entre-biya-et-tchiroma-bakary/)
 - [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
 - [Le journaliste Christophe Gleizes contre un diplomate : la presse algérienne passe le message à Paris](https://www.jeuneafrique.com/1747379/politique/un-journaliste-contre-un-diplomate-la-presse-algerienne-passe-le-message-a-paris/)
-- [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
-- [« Dette cachée » du Sénégal : un jeu de dupes au sommet de l’État](https://www.jeuneafrique.com/1742055/economie-entreprises/dette-cachee-du-senegal-un-jeu-de-dupes-au-sommet-de-letat/)
-- [Pourquoi le Conseil café cacao ivoirien peine à diversifier ses ventes de fèves](https://www.jeuneafrique.com/1747588/economie-entreprises/pourquoi-le-conseil-cafe-cacao-ivoirien-peine-a-diversifier-ses-ventes-de-feves/)
+- [Santé et éducation : comment Abidjan veut réduire les inégalités](https://www.jeuneafrique.com/1739987/economie-entreprises/sante-et-education-comment-abidjan-veut-reduire-les-inegalites/)
+- [Axian, Orange Bank, Vista, Proparco… Ce qui pousse les géants à miser sur la microfinance](https://www.jeuneafrique.com/1747140/economie-entreprises/axian-orange-bank-vista-proparco-ce-qui-pousse-les-geants-a-miser-sur-la-microfinance/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
 - [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
@@ -273,4 +287,3 @@
 - [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
 - [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
 - [La Cisgiordania frammentata e spezzettata](https://www.limesonline.com/rubriche/mappe-parlanti/2-la-cisgiordania-frammentata-e-spezzettata-20091202/)
-- [Israele e l'importanza della geografia del suo territorio](https://www.limesonline.com/rubriche/mappe-parlanti/1-israele-e-l-importanza-della-geografia-del-suo-territorio-20058567/)
