@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 06:16*
+*Generato: 10 Dec 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,19 +40,6 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
-- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
-- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
-- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
-- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
-- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
-- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -186,9 +173,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Global: Amnesty International’s annual letter-writing campaign demonstrates how humanity can win](https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-internationals-annual-letter-writing-campaign-demonstrates-how-humanity-can-win/)
 - [Tunisia: Quash unjust heavy convictions in ‘conspiracy case’](https://www.amnesty.org/en/latest/news/2025/11/tunisia-quash-unjust-heavy-convictions-in-conspiracy-case/)
 - [Tunisia: Conviction of human rights defenders confirms criminalization of civil society work](https://www.amnesty.org/en/latest/news/2025/11/tunisia-conviction-of-human-rights-defenders-confirms-criminalization-of-civil-society-work/)
-- [Tunisia: Escalating crackdown on human rights organizations reaches critical levels](https://www.amnesty.org/en/latest/news/2025/11/tunisia-escalating-crackdown-on-human-rights-organizations-reaches-critical-levels/)
 - [English](https://www.amnesty.org/en/)
 - [Español](https://www.amnesty.org/es/)
 - [Français](https://www.amnesty.org/fr/)
@@ -268,12 +255,12 @@
 - [Élections en Centrafrique : un quadruple scrutin à haut risque ?](https://www.jeuneafrique.com/1747417/politique/elections-en-centrafrique-un-quadruple-scrutin-a-haut-risque/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
 - [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
+- [Cameroun : les camionneurs en colère, arbitres du bras de fer entre Biya et Tchiroma Bakary ?](https://www.jeuneafrique.com/1747654/politique/cameroun-les-camionneurs-en-colere-arbitres-du-bras-de-fer-entre-biya-et-tchiroma-bakary/)
 - [RDC : menacé par l’avancée du M23, le Burundi dénonce « l’attitude belliqueuse » du Rwanda](https://www.jeuneafrique.com/1747667/politique/rdc-menace-par-lavancee-du-m23-le-burundi-denonce-lattitude-belliqueuse-du-rwanda/)
+- [Le journaliste Christophe Gleizes contre un diplomate : la presse algérienne passe le message à Paris](https://www.jeuneafrique.com/1747379/politique/un-journaliste-contre-un-diplomate-la-presse-algerienne-passe-le-message-a-paris/)
 - [Présidentielle en Centrafrique : Touadéra contre Dologuélé, le duel classique de l’Oubangui](https://www.jeuneafrique.com/1745561/politique/presidentielle-en-centrafrique-touadera-contre-dologuele-le-duel-classique-de-loubangui/)
-- [Félix Tshisekedi : « Le Rwanda viole déjà ses engagements »](https://www.jeuneafrique.com/1747580/politique/felix-tshisekedi-le-rwanda-viole-deja-ses-engagements/)
-- [« Ce mandat sera celui de la transmission générationnelle » : Alassane Ouattara investi à Abidjan](https://www.jeuneafrique.com/1747420/politique/ce-mandat-sera-celui-de-la-transmission-generationnelle-alassane-ouattara-investi-a-abidjan/)
+- [« Dette cachée » du Sénégal : un jeu de dupes au sommet de l’État](https://www.jeuneafrique.com/1742055/economie-entreprises/dette-cachee-du-senegal-un-jeu-de-dupes-au-sommet-de-letat/)
 - [Pourquoi le Conseil café cacao ivoirien peine à diversifier ses ventes de fèves](https://www.jeuneafrique.com/1747588/economie-entreprises/pourquoi-le-conseil-cafe-cacao-ivoirien-peine-a-diversifier-ses-ventes-de-feves/)
-- [Jusqu’où peut aller la rivalité entre Afriland et BGFIBank pour la place de leader en Afrique centrale ?](https://www.jeuneafrique.com/1746541/economie-entreprises/jusquou-peut-aller-la-rivalite-entre-afriland-et-bgfibank-pour-la-place-de-leader-en-afrique-centrale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
