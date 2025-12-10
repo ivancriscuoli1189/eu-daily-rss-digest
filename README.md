@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 18:16*
+*Generato: 10 Dec 2025, 21:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU strengthens legal protections and support systems for victims of crime](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32105/eu-strengthens-legal-protections-and-support-systems-for-victims-of-crime)
 - [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251204IPR31802/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
@@ -91,7 +92,6 @@
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
 - [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
-- [MEPs support review of criteria to declare a third country safe for asylum applicants](https://www.europarl.europa.eu/news/en/press-room/20251125IPR31585/meps-support-review-of-criteria-to-declare-a-third-country-safe-for-applicants)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
