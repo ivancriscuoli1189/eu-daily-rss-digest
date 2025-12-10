@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 13:30*
+*Generato: 10 Dec 2025, 15:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Bénin : des centaines de militants soutenant Patrice Talon rassemblés pour condamner la tentative de putsch](https://www.jeuneafrique.com/1748246/politique/benin-des-centaines-de-militants-soutenant-patrice-talon-rassembles-pour-condamner-la-tentative-de-putsch/)
 - [Mauritanie : d’anciens responsables inculpés pour détournement de biens publics](https://www.jeuneafrique.com/1748109/politique/mauritanie-danciens-responsables-inculpes-pour-detournement-de-biens-publics/)
 - [Au Maroc, 22 morts dans l’effondrement de deux immeubles à Fès](https://www.jeuneafrique.com/1748115/politique/au-maroc-19-morts-dans-leffondrement-de-deux-immeubles-a-fes/)
 - [En Guinée-Bissau, la junte se dote d’une charte de transition](https://www.jeuneafrique.com/1747947/politique/en-guinee-bissau-la-junte-se-dote-dune-charte-de-transition/)
 - [Élections en Centrafrique : un quadruple scrutin à haut risque ?](https://www.jeuneafrique.com/1747417/politique/elections-en-centrafrique-un-quadruple-scrutin-a-haut-risque/)
+- [Est de la RDC : pourquoi les combats autour d’Uvira font craindre une escalade régionale](https://www.jeuneafrique.com/1747803/politique/est-de-la-rdc-pourquoi-les-combats-autour-duvira-font-craindre-une-escalade-regionale/)
 - [Bénin : Thomas Boni Yayi condamne la tentative de coup d’État](https://www.jeuneafrique.com/1747804/politique/benin-thomas-boni-yayi-condamne-la-tentative-de-coup-detat/)
 - [Côte d’Ivoire : 5 questions pour comprendre pourquoi les législatives seront décisives](https://www.jeuneafrique.com/1747553/politique/cote-divoire-5-questions-pour-comprendre-pourquoi-les-legislatives-seront-decisives/)
-- [L’AES dénonce une violation de son espace aérien après l’atterrissage en urgence d’un avion militaire nigérian au Burkina](https://www.jeuneafrique.com/1747700/politique/laes-denonce-une-violation-de-son-espace-aerien-apres-latterrissage-en-urgence-dun-avion-militaire-nigerian-au-burkina/)
-- [Cameroun : les camionneurs en colère, arbitres du bras de fer entre Biya et Tchiroma Bakary ?](https://www.jeuneafrique.com/1747654/politique/cameroun-les-camionneurs-en-colere-arbitres-du-bras-de-fer-entre-biya-et-tchiroma-bakary/)
 - [Santé et éducation : comment Abidjan veut réduire les inégalités](https://www.jeuneafrique.com/1739987/economie-entreprises/sante-et-education-comment-abidjan-veut-reduire-les-inegalites/)
 - [Axian, Orange Bank, Vista, Proparco… Ce qui pousse les géants à miser sur la microfinance](https://www.jeuneafrique.com/1747140/economie-entreprises/axian-orange-bank-vista-proparco-ce-qui-pousse-les-geants-a-miser-sur-la-microfinance/)
 
