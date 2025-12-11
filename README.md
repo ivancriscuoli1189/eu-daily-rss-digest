@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 13:32*
+*Generato: 11 Dec 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
 - [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
 - [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
 - [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
@@ -91,7 +92,6 @@
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
-- [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -266,12 +266,12 @@
 
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
+- [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
 - [RDC : Uvira, deuxième ville du Sud-Kivu, tombe aux mains de l’AFC/M23](https://www.jeuneafrique.com/1748231/politique/rdc-uvira-deuxieme-ville-du-sud-kivu-tombe-aux-mains-de-lafc-m23/)
 - [Bénin : des centaines de militants soutenant Patrice Talon rassemblés pour condamner la tentative de putsch](https://www.jeuneafrique.com/1748246/politique/benin-des-centaines-de-militants-soutenant-patrice-talon-rassembles-pour-condamner-la-tentative-de-putsch/)
 - [Exclusif – Bénin : les détails de la fuite du lieutenant-colonel Tigri vers un pays voisin](https://www.jeuneafrique.com/1748114/politique/exclusif-le-lieutenant-colonel-tigri-a-quitte-le-benin-pour-se-refugier-dans-un-pays-voisin/)
 - [Mauritanie : d’anciens responsables inculpés pour détournement de biens publics](https://www.jeuneafrique.com/1748109/politique/mauritanie-danciens-responsables-inculpes-pour-detournement-de-biens-publics/)
 - [Au Maroc, 22 morts dans l’effondrement de deux immeubles à Fès](https://www.jeuneafrique.com/1748115/politique/au-maroc-19-morts-dans-leffondrement-de-deux-immeubles-a-fes/)
-- [Algérie : Saïd Chengriha impose un nouveau numéro 2 à la direction du contre-espionnage](https://www.jeuneafrique.com/1747889/politique/algerie-said-chengriha-impose-un-nouveau-numero-2-a-la-direction-du-contre-espionnage/)
 - [Disrupt : Remedial Health, le « Amazon africain des médicaments » qui bat des records de croissance](https://www.jeuneafrique.com/1748156/economie-entreprises/disrupt-remedial-health-le-amazon-africain-des-medicaments-qui-bat-des-records-de-croissance/)
 - [Pourquoi First Bank of Nigeria veut aller plus loin en RDC](https://www.jeuneafrique.com/1747963/economie-entreprises/pourquoi-first-bank-of-nigeria-veut-aller-plus-loin-en-rdc/)
 
