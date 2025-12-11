@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 15:12*
+*Generato: 11 Dec 2025, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Accra accuse Tel-Aviv de « traitement inhumain » de Ghanéens](https://www.jeuneafrique.com/1748510/politique/accra-accuse-tel-aviv-de-traitement-inhumain-de-ghaneens/)
+- [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
 - [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
+- [Présidentielle en Centrafrique : Touadéra-Sarandji, un couple indestructible ?](https://www.jeuneafrique.com/1747313/politique/presidentielle-en-centrafrique-touadera-sarandji-un-couple-indestructible/)
 - [RDC : Uvira, deuxième ville du Sud-Kivu, tombe aux mains de l’AFC/M23](https://www.jeuneafrique.com/1748231/politique/rdc-uvira-deuxieme-ville-du-sud-kivu-tombe-aux-mains-de-lafc-m23/)
 - [Bénin : des centaines de militants soutenant Patrice Talon rassemblés pour condamner la tentative de putsch](https://www.jeuneafrique.com/1748246/politique/benin-des-centaines-de-militants-soutenant-patrice-talon-rassembles-pour-condamner-la-tentative-de-putsch/)
-- [Exclusif – Bénin : les détails de la fuite du lieutenant-colonel Tigri vers un pays voisin](https://www.jeuneafrique.com/1748114/politique/exclusif-le-lieutenant-colonel-tigri-a-quitte-le-benin-pour-se-refugier-dans-un-pays-voisin/)
-- [Mauritanie : d’anciens responsables inculpés pour détournement de biens publics](https://www.jeuneafrique.com/1748109/politique/mauritanie-danciens-responsables-inculpes-pour-detournement-de-biens-publics/)
-- [Au Maroc, 22 morts dans l’effondrement de deux immeubles à Fès](https://www.jeuneafrique.com/1748115/politique/au-maroc-19-morts-dans-leffondrement-de-deux-immeubles-a-fes/)
-- [Disrupt : Remedial Health, le « Amazon africain des médicaments » qui bat des records de croissance](https://www.jeuneafrique.com/1748156/economie-entreprises/disrupt-remedial-health-le-amazon-africain-des-medicaments-qui-bat-des-records-de-croissance/)
-- [Pourquoi First Bank of Nigeria veut aller plus loin en RDC](https://www.jeuneafrique.com/1747963/economie-entreprises/pourquoi-first-bank-of-nigeria-veut-aller-plus-loin-en-rdc/)
+- [Attijariwafa Bank : une domination plus que jamais sans partage sur la place de Casablanca](https://www.jeuneafrique.com/1748380/economie-entreprises/attijariwafa-bank-une-domination-plus-que-jamais-sans-partage-sur-la-place-de-casablanca/)
+- [Comment Ethiopian a fait d’Asky son atout en Afrique de l’Ouest](https://www.jeuneafrique.com/1746191/economie-entreprises/comment-ethiopian-a-fait-dasky-son-atout-en-afrique-de-louest/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
