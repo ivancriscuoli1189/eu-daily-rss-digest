@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Dec 2025, 21:21*
+*Generato: 11 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -44,8 +44,8 @@
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
 - [EU strengthens legal protections and support systems for victims of crime](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32105/eu-strengthens-legal-protections-and-support-systems-for-victims-of-crime)
 - [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251204IPR31802/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
@@ -90,8 +91,7 @@
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
-- [EU wine sector: MEPs and Council agree on new rules to support producers](https://www.europarl.europa.eu/news/en/press-room/20251202IPR31730/eu-wine-sector-meps-and-council-agree-on-new-rules-to-support-producers)
-- [New genomic techniques: deal to support the green transition in farming](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31710/new-genomic-techniques-deal-to-support-the-green-transition-in-farming)
+- [European Parliament election campaign rewarded for creative innovation](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/european-parliament-election-campaign-rewarded-for-creative-innovation)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -212,8 +212,8 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Carlos Ayala: The battle for the rule of law in Latin America](https://www.icj.org/carlos-ayala-the-battle-for-the-rule-of-law-in-latin-america/)
-- [Asia-Pacific: ICJ and Danish Institute for Human Rights hold regional consultation on developing global principles on human rights in the digital space](https://www.icj.org/asia-pacific-icj-and-danish-institute-for-human-rights-hold-regional-consultation-on-developing-global-principles-on-human-rights-in-the-digital-space/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
@@ -221,7 +221,7 @@
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
-- [Uzbekistan: ICJ and the Academy of Justice open the third cycle of the International Human Rights Law Course](https://www.icj.org/uzbekistan-icj-and-the-academy-of-justice-open-the-third-cycle-of-the-international-human-rights-law-course-18-november-2025-tashkent/)
+- [Thailand: Action needed to address torture and enforced disappearance, including implementation of UN Committee’s Recommendations](https://www.icj.org/thailand-action-needed-to-address-torture-and-enforced-disappearance-including-implementation-of-un-committees-recommendations/)
 
 ## THINK TANK – ECFR – MENA
 
