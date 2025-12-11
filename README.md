@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 12:20*
+*Generato: 11 Dec 2025, 13:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,7 +82,7 @@
 
 ## UE – EP – Press Room
 
-- [Deal on enhanced tools to protect EU strategic sectors from foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/deal-on-enhanced-tools-to-protect-eu-strategic-sectors-from-foreign-investments)
+- [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
 - [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
 - [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
 - [EU strengthens legal protections and support systems for victims of crime](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32105/eu-strengthens-legal-protections-and-support-systems-for-victims-of-crime)
