@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 09:15*
+*Generato: 11 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -85,13 +85,13 @@
 - [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
 - [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
 - [EU strengthens legal protections and support systems for victims of crime](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32105/eu-strengthens-legal-protections-and-support-systems-for-victims-of-crime)
-- [EP elections campaign wins Eurobest Grand Prix for Creative Effectiveness](https://www.europarl.europa.eu/news/en/press-room/20251204IPR31802/ep-elections-campaign-wins-eurobest-grand-prix-for-creative-effectiveness)
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 - [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 - [MEPs want Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31709/meps-want-andres-ritter-as-the-next-eu-chief-prosecutor)
+- [European Parliament election campaign rewarded for creative innovation](https://www.europarl.europa.eu/news/en/press-room/20251203IPR31753/european-parliament-election-campaign-rewarded-for-creative-innovation)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
