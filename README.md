@@ -1,19 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 18:14*
-
-## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
-
-- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
-- [La Farnesina](https://www.esteri.it/it/ministero/)
-- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
-- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
-- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
-- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
-- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
-- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
-- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
+*Generato: 11 Dec 2025, 21:12*
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
