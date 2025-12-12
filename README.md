@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 11:10*
+*Generato: 12 Dec 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Archives coloniales du Maroc : entre fonds stratégiques et piège d’une réduction du récit national](https://www.jeuneafrique.com/1748482/politique/archives-coloniales-du-maroc-entre-fonds-strategiques-et-piege-dune-reduction-du-recit-national/)
 - [Symboles culturels, mobilisation sur les réseaux sociaux : y a-t-il un soft power algérien ?](https://www.jeuneafrique.com/1747481/politique/symboles-culturels-mobilisation-sur-les-reseaux-sociaux-y-a-t-il-un-soft-power-algerien/)
 - [Accra accuse Tel-Aviv de « traitement inhumain » de Ghanéens](https://www.jeuneafrique.com/1748510/politique/accra-accuse-tel-aviv-de-traitement-inhumain-de-ghaneens/)
 - [Au Cameroun, Paul Biya renouvelle sa confiance à Ferdinand Ngoh Ngoh](https://www.jeuneafrique.com/1748564/politique/au-cameroun-paul-biya-renouvelle-sa-confiance-a-ferdinand-ngoh-ngoh/)
+- [« Le Burundi a le droit de se défendre s’il est attaqué », selon Édouard Bizimana](https://www.jeuneafrique.com/1748563/politique/le-burundi-a-le-droit-de-se-defendre-sil-est-attaque-selon-edouard-bizimana/)
 - [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
-- [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
-- [Présidentielle en Centrafrique : Touadéra-Sarandji, un couple indestructible ?](https://www.jeuneafrique.com/1747313/politique/presidentielle-en-centrafrique-touadera-sarandji-un-couple-indestructible/)
 - [Amine Bouabid (Bank of Africa) : « La vraie souveraineté africaine ? Financer nos économies »](https://www.jeuneafrique.com/1748519/economie-entreprises/amine-bouabid-bank-of-africa-la-vraie-souverainete-africaine-financer-nos-economies/)
-- [« Dette cachée » du Sénégal : des « oublis » de Macky Sall chiffrés à plusieurs milliards de dollars](https://www.jeuneafrique.com/1748272/economie-entreprises/dette-cachee-du-senegal-des-oublis-de-macky-sall-chiffres-a-plusieurs-milliards-de-dollars/)
+- [Ville d’Afrique les plus propres en 2025 : Kigali toujours leader, Cotonou dans le top 3](https://www.jeuneafrique.com/1748549/economie-entreprises/ville-dafrique-les-plus-propres-en-2025-kigali-toujours-leader-cotonou-dans-le-top-3/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
