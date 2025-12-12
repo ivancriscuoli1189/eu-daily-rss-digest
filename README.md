@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 13:28*
+*Generato: 12 Dec 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
@@ -52,7 +53,6 @@
 - [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
 - [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
-- [Indice des prix à la consommation, Août 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-aout-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [Circular economy: deal on new EU rules for the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32114/circular-economy-deal-on-new-eu-rules-for-the-automotive-sector)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
 - [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
@@ -91,7 +92,6 @@
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
-- [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
