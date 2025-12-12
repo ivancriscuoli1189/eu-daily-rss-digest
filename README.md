@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 12:18*
+*Generato: 12 Dec 2025, 13:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -272,8 +272,8 @@
 - [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
+- [Abidjan, Bamako, Cotonou… Corsair retrouve un second souffle grâce à l’Afrique](https://www.jeuneafrique.com/1746517/economie-entreprises/abidjan-bamako-cotonou-corsair-retrouve-un-second-souffle-grace-a-lafrique/)
 - [Amine Bouabid (Bank of Africa) : « La vraie souveraineté africaine ? Financer nos économies »](https://www.jeuneafrique.com/1748519/economie-entreprises/amine-bouabid-bank-of-africa-la-vraie-souverainete-africaine-financer-nos-economies/)
-- [Ville d’Afrique les plus propres en 2025 : Kigali toujours leader, Cotonou dans le top 3](https://www.jeuneafrique.com/1748549/economie-entreprises/ville-dafrique-les-plus-propres-en-2025-kigali-toujours-leader-cotonou-dans-le-top-3/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
