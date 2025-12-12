@@ -1,6 +1,19 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Dec 2025, 21:12*
+*Generato: 12 Dec 2025, 06:16*
+
+## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
+
+- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
+- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
+- [La Farnesina](https://www.esteri.it/it/ministero/)
+- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
+- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
+- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
+- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
+- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
+- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
+- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -31,8 +44,8 @@
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -69,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Circular economy: deal on new EU rules for the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32114/circular-economy-deal-on-new-eu-rules-for-the-automotive-sector)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
 - [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
 - [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
@@ -78,7 +92,6 @@
 - [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
 - [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 - [Mercosur: MEPs endorse rules to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32082/mercosur-meps-endorse-rules-to-protect-eu-agriculture)
-- [Deforestation law: deal with Council to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251201IPR31711/deforestation-law-deal-with-council-to-postpone-and-simplify-measures)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -251,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, comment le blocus du Jnim a permis à Sadio Camara d’imposer ses hommes à Assimi Goïta](https://www.jeuneafrique.com/1747825/politique/au-mali-comment-le-blocus-du-jnim-a-permis-a-sadio-camara-dimposer-ses-hommes-a-assimi-goita/)
+- [Un « doigt d’honneur aux États-Unis » : quand la chute d’Uvira, dans l’est de la RDC, met à mal l’accord de Washington](https://www.jeuneafrique.com/1748684/politique/un-doigt-dhonneur-aux-etats-unis-quand-la-chute-duvira-dans-lest-de-la-rdc-met-a-mal-laccord-de-washington/)
 - [Accra accuse Tel-Aviv de « traitement inhumain » de Ghanéens](https://www.jeuneafrique.com/1748510/politique/accra-accuse-tel-aviv-de-traitement-inhumain-de-ghaneens/)
 - [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
 - [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
 - [Présidentielle en Centrafrique : Touadéra-Sarandji, un couple indestructible ?](https://www.jeuneafrique.com/1747313/politique/presidentielle-en-centrafrique-touadera-sarandji-un-couple-indestructible/)
-- [RDC : Uvira, deuxième ville du Sud-Kivu, tombe aux mains de l’AFC/M23](https://www.jeuneafrique.com/1748231/politique/rdc-uvira-deuxieme-ville-du-sud-kivu-tombe-aux-mains-de-lafc-m23/)
-- [Bénin : des centaines de militants soutenant Patrice Talon rassemblés pour condamner la tentative de putsch](https://www.jeuneafrique.com/1748246/politique/benin-des-centaines-de-militants-soutenant-patrice-talon-rassembles-pour-condamner-la-tentative-de-putsch/)
 - [Attijariwafa Bank : une domination plus que jamais sans partage sur la place de Casablanca](https://www.jeuneafrique.com/1748380/economie-entreprises/attijariwafa-bank-une-domination-plus-que-jamais-sans-partage-sur-la-place-de-casablanca/)
 - [Comment Ethiopian a fait d’Asky son atout en Afrique de l’Ouest](https://www.jeuneafrique.com/1746191/economie-entreprises/comment-ethiopian-a-fait-dasky-son-atout-en-afrique-de-louest/)
 
