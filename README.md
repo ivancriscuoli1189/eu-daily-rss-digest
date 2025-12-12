@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 06:16*
+*Generato: 12 Dec 2025, 09:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Mali, comment le blocus du Jnim a permis à Sadio Camara d’imposer ses hommes à Assimi Goïta](https://www.jeuneafrique.com/1747825/politique/au-mali-comment-le-blocus-du-jnim-a-permis-a-sadio-camara-dimposer-ses-hommes-a-assimi-goita/)
-- [Un « doigt d’honneur aux États-Unis » : quand la chute d’Uvira, dans l’est de la RDC, met à mal l’accord de Washington](https://www.jeuneafrique.com/1748684/politique/un-doigt-dhonneur-aux-etats-unis-quand-la-chute-duvira-dans-lest-de-la-rdc-met-a-mal-laccord-de-washington/)
+- [Symboles culturels, mobilisation sur les réseaux sociaux : y a-t-il un soft power algérien ?](https://www.jeuneafrique.com/1747481/politique/symboles-culturels-mobilisation-sur-les-reseaux-sociaux-y-a-t-il-un-soft-power-algerien/)
 - [Accra accuse Tel-Aviv de « traitement inhumain » de Ghanéens](https://www.jeuneafrique.com/1748510/politique/accra-accuse-tel-aviv-de-traitement-inhumain-de-ghaneens/)
+- [Au Cameroun, Paul Biya renouvelle sa confiance à Ferdinand Ngoh Ngoh](https://www.jeuneafrique.com/1748564/politique/au-cameroun-paul-biya-renouvelle-sa-confiance-a-ferdinand-ngoh-ngoh/)
 - [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
 - [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
 - [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
 - [Présidentielle en Centrafrique : Touadéra-Sarandji, un couple indestructible ?](https://www.jeuneafrique.com/1747313/politique/presidentielle-en-centrafrique-touadera-sarandji-un-couple-indestructible/)
+- [« Dette cachée » du Sénégal : des « oublis » de Macky Sall chiffrés à plusieurs milliards de dollars](https://www.jeuneafrique.com/1748272/economie-entreprises/dette-cachee-du-senegal-des-oublis-de-macky-sall-chiffres-a-plusieurs-milliards-de-dollars/)
 - [Attijariwafa Bank : une domination plus que jamais sans partage sur la place de Casablanca](https://www.jeuneafrique.com/1748380/economie-entreprises/attijariwafa-bank-une-domination-plus-que-jamais-sans-partage-sur-la-place-de-casablanca/)
-- [Comment Ethiopian a fait d’Asky son atout en Afrique de l’Ouest](https://www.jeuneafrique.com/1746191/economie-entreprises/comment-ethiopian-a-fait-dasky-son-atout-en-afrique-de-louest/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
