@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 15:12*
+*Generato: 12 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Face à Donald Trump, des dirigeants africains soumis et humiliés », estime le géopoliticien Adrien Poussou](https://www.jeuneafrique.com/1749070/politique/face-a-donald-trump-des-dirigeants-africains-soumis-et-humilies-estime-le-geopoliticien-adrien-poussou/)
+- [Est de la RDC : à l’ONU, les États-Unis accusent le Rwanda d’entraîner la région vers la « guerre »](https://www.jeuneafrique.com/1749225/politique/est-de-la-rdc-a-lonu-les-etats-unis-accusent-le-rwanda-dentrainer-la-region-vers-la-guerre/)
+- [Putsch manqué au Bénin : douche froide pour les pro-AES](https://www.jeuneafrique.com/1749006/politique/putsch-manque-au-benin-douche-froide-pour-les-pro-aes/)
 - [Archives coloniales du Maroc : entre fonds stratégiques et piège d’une réduction du récit national](https://www.jeuneafrique.com/1748482/politique/archives-coloniales-du-maroc-entre-fonds-strategiques-et-piege-dune-reduction-du-recit-national/)
 - [Symboles culturels, mobilisation sur les réseaux sociaux : y a-t-il un soft power algérien ?](https://www.jeuneafrique.com/1747481/politique/symboles-culturels-mobilisation-sur-les-reseaux-sociaux-y-a-t-il-un-soft-power-algerien/)
-- [Accra accuse Tel-Aviv de « traitement inhumain » de Ghanéens](https://www.jeuneafrique.com/1748510/politique/accra-accuse-tel-aviv-de-traitement-inhumain-de-ghaneens/)
-- [Au Cameroun, Paul Biya renouvelle sa confiance à Ferdinand Ngoh Ngoh](https://www.jeuneafrique.com/1748564/politique/au-cameroun-paul-biya-renouvelle-sa-confiance-a-ferdinand-ngoh-ngoh/)
-- [« Le Burundi a le droit de se défendre s’il est attaqué », selon Édouard Bizimana](https://www.jeuneafrique.com/1748563/politique/le-burundi-a-le-droit-de-se-defendre-sil-est-attaque-selon-edouard-bizimana/)
-- [Cameroun : l’étonnante diplomatie autour de l’exil de Tchiroma Bakary](https://www.jeuneafrique.com/1748096/politique/cameroun-letonnante-diplomatie-autour-de-lexil-de-tchiroma-bakary/)
-- [Pourquoi l’obtention d’une vice-présidence à l’Organisation internationale de la migration place la Tunisie dans une situation bancale](https://www.jeuneafrique.com/1748473/politique/pourquoi-lobtention-dune-vice-presidence-a-lorganisation-internationale-de-la-migration-place-la-tunisie-dans-une-situation-bancale/)
-- [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
+- [Au Mali, comment le blocus du Jnim a permis à Sadio Camara d’imposer ses hommes à Assimi Goïta](https://www.jeuneafrique.com/1747825/politique/au-mali-comment-le-blocus-du-jnim-a-permis-a-sadio-camara-dimposer-ses-hommes-a-assimi-goita/)
+- [Un « doigt d’honneur aux États-Unis » : quand la chute d’Uvira, dans l’est de la RDC, met à mal l’accord de Washington](https://www.jeuneafrique.com/1748684/politique/un-doigt-dhonneur-aux-etats-unis-quand-la-chute-duvira-dans-lest-de-la-rdc-met-a-mal-laccord-de-washington/)
+- [Entrée du M23 à Uvira en RDC : « Ils parlent de nous protéger mais on ramasse les corps dans les rues »](https://www.jeuneafrique.com/1748555/politique/entree-du-m23-a-uvira-en-rdc-ils-parlent-de-nous-proteger-mais-on-ramasse-les-corps-dans-les-rues/)
+- [Comment Orange a doublé MTN au Cameroun](https://www.jeuneafrique.com/1749062/economie-entreprises/comment-orange-a-double-mtn-au-cameroun/)
 - [Abidjan, Bamako, Cotonou… Corsair retrouve un second souffle grâce à l’Afrique](https://www.jeuneafrique.com/1746517/economie-entreprises/abidjan-bamako-cotonou-corsair-retrouve-un-second-souffle-grace-a-lafrique/)
-- [Amine Bouabid (Bank of Africa) : « La vraie souveraineté africaine ? Financer nos économies »](https://www.jeuneafrique.com/1748519/economie-entreprises/amine-bouabid-bank-of-africa-la-vraie-souverainete-africaine-financer-nos-economies/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
