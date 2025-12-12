@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 09:15*
+*Generato: 12 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Authorities must immediately drop charges against humanitarian workers facing bogus criminal trial](https://www.amnesty.org/en/latest/news/2025/12/tunisia-drop-charges-against-ngo-workers-facing-bogus-criminal-trial/)
 - [Global: Amnesty International’s annual letter-writing campaign demonstrates how humanity can win](https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-internationals-annual-letter-writing-campaign-demonstrates-how-humanity-can-win/)
 - [Tunisia: Quash unjust heavy convictions in ‘conspiracy case’](https://www.amnesty.org/en/latest/news/2025/11/tunisia-quash-unjust-heavy-convictions-in-conspiracy-case/)
-- [Tunisia: Conviction of human rights defenders confirms criminalization of civil society work](https://www.amnesty.org/en/latest/news/2025/11/tunisia-conviction-of-human-rights-defenders-confirms-criminalization-of-civil-society-work/)
 - [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
@@ -272,8 +272,8 @@
 - [Le caftan marocain inscrit au patrimoine immatériel de l’Unesco](https://www.jeuneafrique.com/1748475/politique/le-caftan-marocain-inscrit-au-patrimoine-immateriel-de-lunesco/)
 - [Narcotrafic : le Maroc et la France resserrent l’étau](https://www.jeuneafrique.com/1747855/politique/narcotrafic-le-maroc-et-la-france-resserrent-letau/)
 - [Présidentielle en Centrafrique : Touadéra-Sarandji, un couple indestructible ?](https://www.jeuneafrique.com/1747313/politique/presidentielle-en-centrafrique-touadera-sarandji-un-couple-indestructible/)
+- [Amine Bouabid (Bank of Africa) : « La vraie souveraineté africaine ? Financer nos économies »](https://www.jeuneafrique.com/1748519/economie-entreprises/amine-bouabid-bank-of-africa-la-vraie-souverainete-africaine-financer-nos-economies/)
 - [« Dette cachée » du Sénégal : des « oublis » de Macky Sall chiffrés à plusieurs milliards de dollars](https://www.jeuneafrique.com/1748272/economie-entreprises/dette-cachee-du-senegal-des-oublis-de-macky-sall-chiffres-a-plusieurs-milliards-de-dollars/)
-- [Attijariwafa Bank : une domination plus que jamais sans partage sur la place de Casablanca](https://www.jeuneafrique.com/1748380/economie-entreprises/attijariwafa-bank-une-domination-plus-que-jamais-sans-partage-sur-la-place-de-casablanca/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
