@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 18:15*
+*Generato: 12 Dec 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
