@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 06:18*
+*Generato: 15 Dec 2025, 09:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -269,11 +269,11 @@
 - [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
 - [Centrafrique : ouverture de la campagne pour le quadruple scrutin du 28 décembre](https://www.jeuneafrique.com/1749349/politique/centrafrique-ouverture-de-la-campagne-pour-le-quadruple-scrutin-du-28-decembre/)
 - [Au Bénin, des centaines de jeunes manifestent contre la tentative de putsch](https://www.jeuneafrique.com/1749327/politique/au-benin-des-centaines-de-jeunes-manifestent-contre-la-tentative-de-putsch/)
+- [Élection enterrée et transition suspecte : la Guinée-Bissau dans l’incertitude](https://www.jeuneafrique.com/1747960/politique/election-enterree-et-transition-suspecte-la-guinee-bissau-dans-lincertitude/)
 - [Bénin : tentative de putsch et explosion de fake news](https://www.jeuneafrique.com/1749307/politique/benin-tentative-de-putsch-et-explosion-de-fake-news/)
 - [Au Mali, radiation d’un colonel qui a rapporté des exactions de l’armée](https://www.jeuneafrique.com/1749321/politique/mali-radiation-dun-colonel-qui-a-rapporte-des-exactions-de-larmee/)
-- [Tunisie : 12 ans de prison de plus pour l’opposante Abir Moussi](https://www.jeuneafrique.com/1749317/politique/tunisie-12-ans-de-prison-de-plus-pour-lopposante-abir-moussi/)
-- [Maroc : le possible deal entre Holmarcom et BNP Paribas peut-il faire naître un nouveau géant de la banque ?](https://www.jeuneafrique.com/1749037/economie-entreprises/maroc-le-possible-deal-entre-holmarcom-et-bnp-paribas-peut-il-faire-naitre-un-nouveau-geant-de-la-banque/)
-- [Comment Orange a doublé MTN au Cameroun](https://www.jeuneafrique.com/1749062/economie-entreprises/comment-orange-a-double-mtn-au-cameroun/)
+- [Tunis, Cotonou, Rabat… Quelle ville offre le meilleur accès aux services de santé ?](https://www.jeuneafrique.com/1748983/economie-entreprises/tunis-cotonou-rabat-quelle-ville-offre-le-meilleur-acces-aux-services-de-sante/)
+- [Comment le lobby mondial de l’aérien imagine le ciel africain du futur](https://www.jeuneafrique.com/1748873/economie-entreprises/comment-le-lobby-mondial-de-laerien-imagine-le-ciel-africain-du-futur/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
