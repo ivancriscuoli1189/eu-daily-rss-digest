@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Dec 2025, 21:09*
+*Generato: 15 Dec 2025, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Carlos Ayala: The battle for the rule of law in Latin America](https://www.icj.org/carlos-ayala-the-battle-for-the-rule-of-law-in-latin-america/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
-- [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Face à Donald Trump, des dirigeants africains soumis et humiliés », estime le géopoliticien Adrien Poussou](https://www.jeuneafrique.com/1749070/politique/face-a-donald-trump-des-dirigeants-africains-soumis-et-humilies-estime-le-geopoliticien-adrien-poussou/)
-- [Est de la RDC : à l’ONU, les États-Unis accusent le Rwanda d’entraîner la région vers la « guerre »](https://www.jeuneafrique.com/1749225/politique/est-de-la-rdc-a-lonu-les-etats-unis-accusent-le-rwanda-dentrainer-la-region-vers-la-guerre/)
-- [Putsch manqué au Bénin : douche froide pour les pro-AES](https://www.jeuneafrique.com/1749006/politique/putsch-manque-au-benin-douche-froide-pour-les-pro-aes/)
-- [Archives coloniales du Maroc : entre fonds stratégiques et piège d’une réduction du récit national](https://www.jeuneafrique.com/1748482/politique/archives-coloniales-du-maroc-entre-fonds-strategiques-et-piege-dune-reduction-du-recit-national/)
-- [Symboles culturels, mobilisation sur les réseaux sociaux : y a-t-il un soft power algérien ?](https://www.jeuneafrique.com/1747481/politique/symboles-culturels-mobilisation-sur-les-reseaux-sociaux-y-a-t-il-un-soft-power-algerien/)
-- [Au Mali, comment le blocus du Jnim a permis à Sadio Camara d’imposer ses hommes à Assimi Goïta](https://www.jeuneafrique.com/1747825/politique/au-mali-comment-le-blocus-du-jnim-a-permis-a-sadio-camara-dimposer-ses-hommes-a-assimi-goita/)
-- [Un « doigt d’honneur aux États-Unis » : quand la chute d’Uvira, dans l’est de la RDC, met à mal l’accord de Washington](https://www.jeuneafrique.com/1748684/politique/un-doigt-dhonneur-aux-etats-unis-quand-la-chute-duvira-dans-lest-de-la-rdc-met-a-mal-laccord-de-washington/)
-- [Entrée du M23 à Uvira en RDC : « Ils parlent de nous protéger mais on ramasse les corps dans les rues »](https://www.jeuneafrique.com/1748555/politique/entree-du-m23-a-uvira-en-rdc-ils-parlent-de-nous-proteger-mais-on-ramasse-les-corps-dans-les-rues/)
+- [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
+- [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
+- [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
+- [Centrafrique : ouverture de la campagne pour le quadruple scrutin du 28 décembre](https://www.jeuneafrique.com/1749349/politique/centrafrique-ouverture-de-la-campagne-pour-le-quadruple-scrutin-du-28-decembre/)
+- [Au Bénin, des centaines de jeunes manifestent contre la tentative de putsch](https://www.jeuneafrique.com/1749327/politique/au-benin-des-centaines-de-jeunes-manifestent-contre-la-tentative-de-putsch/)
+- [Bénin : tentative de putsch et explosion de fake news](https://www.jeuneafrique.com/1749307/politique/benin-tentative-de-putsch-et-explosion-de-fake-news/)
+- [Au Mali, radiation d’un colonel qui a rapporté des exactions de l’armée](https://www.jeuneafrique.com/1749321/politique/mali-radiation-dun-colonel-qui-a-rapporte-des-exactions-de-larmee/)
+- [Tunisie : 12 ans de prison de plus pour l’opposante Abir Moussi](https://www.jeuneafrique.com/1749317/politique/tunisie-12-ans-de-prison-de-plus-pour-lopposante-abir-moussi/)
+- [Maroc : le possible deal entre Holmarcom et BNP Paribas peut-il faire naître un nouveau géant de la banque ?](https://www.jeuneafrique.com/1749037/economie-entreprises/maroc-le-possible-deal-entre-holmarcom-et-bnp-paribas-peut-il-faire-naitre-un-nouveau-geant-de-la-banque/)
 - [Comment Orange a doublé MTN au Cameroun](https://www.jeuneafrique.com/1749062/economie-entreprises/comment-orange-a-double-mtn-au-cameroun/)
-- [Abidjan, Bamako, Cotonou… Corsair retrouve un second souffle grâce à l’Afrique](https://www.jeuneafrique.com/1746517/economie-entreprises/abidjan-bamako-cotonou-corsair-retrouve-un-second-souffle-grace-a-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
