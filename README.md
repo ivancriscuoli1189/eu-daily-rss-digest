@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 15:15*
+*Generato: 15 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Sakharov Prize 2025: press conference on Tuesday at 11.30](https://www.europarl.europa.eu/news/en/press-room/20251212IPR32201/sakharov-prize-2025-press-conference-on-tuesday-at-11-30)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32100/ep-today-monday-15-december)
 - [Press conference on the bilateral safeguard clause on agriculture of the EU-Mercosur agreements](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32230/press-conference-on-the-bilateral-safeguard-clause-of-the-eu-mercosur-agreements)
 - [Press conference: updated rules on sustainability reporting and due diligence](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32217/press-conference-updated-rules-on-sustainability-reporting-and-due-diligence)
@@ -91,7 +92,6 @@
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
 - [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
 - [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
-- [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Carlos Ayala: The battle for the rule of law in Latin America](https://www.icj.org/carlos-ayala-the-battle-for-the-rule-of-law-in-latin-america/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
-- [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
+- [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
+- [Ce que l’on sait du nouveau débat sur la polygamie en Tunisie](https://www.jeuneafrique.com/1748901/politique/ce-que-lon-sait-du-nouveau-debat-sur-la-polygamie-en-tunisie/)
 - [La Cedeao menace la Guinée-Bissau de « sanctions ciblées » après le coup d’État](https://www.jeuneafrique.com/1749389/politique/la-cedeao-menace-la-guinee-bissau-de-sanctions-ciblees-apres-le-coup-detat/)
 - [En Algérie, Christophe Gleizes se pourvoit en Cassation](https://www.jeuneafrique.com/1749379/politique/en-algerie-christophe-gleizes-se-pourvoit-en-cassation/)
 - [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
 - [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
 - [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
-- [Faustin-Archange Touadéra : des affaires à la guerre, un président-candidat très entouré](https://www.jeuneafrique.com/1747959/politique/faustin-archange-touadera-des-affaires-a-la-guerre-un-president-candidat-tres-entoure/)
-- [Centrafrique : ouverture de la campagne pour le quadruple scrutin du 28 décembre](https://www.jeuneafrique.com/1749349/politique/centrafrique-ouverture-de-la-campagne-pour-le-quadruple-scrutin-du-28-decembre/)
-- [Au Bénin, des centaines de jeunes manifestent contre la tentative de putsch](https://www.jeuneafrique.com/1749327/politique/au-benin-des-centaines-de-jeunes-manifestent-contre-la-tentative-de-putsch/)
-- [Tunis, Cotonou, Rabat… Quelle ville offre le meilleur accès aux services de santé ?](https://www.jeuneafrique.com/1748983/economie-entreprises/tunis-cotonou-rabat-quelle-ville-offre-le-meilleur-acces-aux-services-de-sante/)
-- [Comment le lobby mondial de l’aérien imagine le ciel africain du futur](https://www.jeuneafrique.com/1748873/economie-entreprises/comment-le-lobby-mondial-de-laerien-imagine-le-ciel-africain-du-futur/)
+- [SanlamAllianz : l’ambition panafricaine du géant des assurances à l’épreuve du risque de change](https://www.jeuneafrique.com/1748698/economie-entreprises/sanlamallianz-lambition-panafricaine-du-geant-des-assurances-a-lepreuve-du-risque-de-change/)
+- [Fonds africain de développement : le premier grand test de Sidi Ould Tah à la tête de la BAD](https://www.jeuneafrique.com/1749016/economie-entreprises/fonds-africain-de-developpement-le-premier-grand-test-de-sidi-ould-tah-a-la-tete-de-la-bad/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
