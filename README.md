@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 11:10*
+*Generato: 15 Dec 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Algérie, Christophe Gleizes se pourvoit en Cassation](https://www.jeuneafrique.com/1749379/politique/en-algerie-christophe-gleizes-se-pourvoit-en-cassation/)
 - [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
 - [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
 - [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
@@ -271,9 +272,8 @@
 - [Centrafrique : ouverture de la campagne pour le quadruple scrutin du 28 décembre](https://www.jeuneafrique.com/1749349/politique/centrafrique-ouverture-de-la-campagne-pour-le-quadruple-scrutin-du-28-decembre/)
 - [Au Bénin, des centaines de jeunes manifestent contre la tentative de putsch](https://www.jeuneafrique.com/1749327/politique/au-benin-des-centaines-de-jeunes-manifestent-contre-la-tentative-de-putsch/)
 - [Élection enterrée et transition suspecte : la Guinée-Bissau dans l’incertitude](https://www.jeuneafrique.com/1747960/politique/election-enterree-et-transition-suspecte-la-guinee-bissau-dans-lincertitude/)
-- [Bénin : tentative de putsch et explosion de fake news](https://www.jeuneafrique.com/1749307/politique/benin-tentative-de-putsch-et-explosion-de-fake-news/)
+- [Projets immobiliers, zones industrielles… Entre Douala et Yaoundé, qui va le plus vite ?](https://www.jeuneafrique.com/1748135/economie-entreprises/projets-immobiliers-zones-industrielles-entre-douala-et-yaounde-qui-va-le-plus-vite/)
 - [Tunis, Cotonou, Rabat… Quelle ville offre le meilleur accès aux services de santé ?](https://www.jeuneafrique.com/1748983/economie-entreprises/tunis-cotonou-rabat-quelle-ville-offre-le-meilleur-acces-aux-services-de-sante/)
-- [Comment le lobby mondial de l’aérien imagine le ciel africain du futur](https://www.jeuneafrique.com/1748873/economie-entreprises/comment-le-lobby-mondial-de-laerien-imagine-le-ciel-africain-du-futur/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
