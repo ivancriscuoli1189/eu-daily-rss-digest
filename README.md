@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 18:15*
+*Generato: 15 Dec 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 15-18 December plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32104/opening-15-18-december-plenary-session)
+- [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
+- [MEPs back new measures to strengthen Europe’s defence readiness](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32218/meps-back-new-measures-to-strengthen-europe-s-defence-readiness)
 - [Sakharov Prize 2025: press conference on Tuesday at 11.30](https://www.europarl.europa.eu/news/en/press-room/20251212IPR32201/sakharov-prize-2025-press-conference-on-tuesday-at-11-30)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32100/ep-today-monday-15-december)
 - [Press conference on the bilateral safeguard clause on agriculture of the EU-Mercosur agreements](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32230/press-conference-on-the-bilateral-safeguard-clause-of-the-eu-mercosur-agreements)
@@ -89,9 +92,6 @@
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32099/press-briefing-on-this-week-s-plenary-session)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [Circular economy: deal on new EU rules for the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32114/circular-economy-deal-on-new-eu-rules-for-the-automotive-sector)
-- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
-- [Agreement on enhanced tools to protect EU strategic sectors from risky foreign investments](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32108/agreement-on-to-protect-eu-strategic-sectors-from-risky-foreign-investments)
-- [MEPs’ recommendations for a new EU framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32107/meps-recommendations-for-a-new-eu-framework-for-innovative-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -272,8 +272,8 @@
 - [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
 - [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
 - [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
+- [Projets immobiliers, zones industrielles… Entre Douala et Yaoundé, qui va le plus vite ?](https://www.jeuneafrique.com/1748135/economie-entreprises/projets-immobiliers-zones-industrielles-entre-douala-et-yaounde-qui-va-le-plus-vite/)
 - [SanlamAllianz : l’ambition panafricaine du géant des assurances à l’épreuve du risque de change](https://www.jeuneafrique.com/1748698/economie-entreprises/sanlamallianz-lambition-panafricaine-du-geant-des-assurances-a-lepreuve-du-risque-de-change/)
-- [Fonds africain de développement : le premier grand test de Sidi Ould Tah à la tête de la BAD](https://www.jeuneafrique.com/1749016/economie-entreprises/fonds-africain-de-developpement-le-premier-grand-test-de-sidi-ould-tah-a-la-tete-de-la-bad/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
