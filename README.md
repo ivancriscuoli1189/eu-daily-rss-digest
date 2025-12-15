@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 09:20*
+*Generato: 15 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: updated rules on sustainability reporting and due diligence](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32217/press-conference-updated-rules-on-sustainability-reporting-and-due-diligence)
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32099/press-briefing-on-this-week-s-plenary-session)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [Circular economy: deal on new EU rules for the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32114/circular-economy-deal-on-new-eu-rules-for-the-automotive-sector)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32098/press-briefing-on-next-week-s-plenary-session)
@@ -90,8 +92,6 @@
 - [Deal on comprehensive reform of EU pharmaceutical legislation](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32110/deal-on-comprehensive-reform-of-eu-pharmaceutical-legislation)
 - [EU strengthens legal protections and support systems for victims of crime](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32105/eu-strengthens-legal-protections-and-support-systems-for-victims-of-crime)
 - [2040 climate target: deal on a 90% emissions reduction in EU climate law](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32091/2040-climate-target-deal-on-a-90-emissions-reduction-in-eu-climate-law)
-- [Reminder: Press conference on sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32081/reminder-press-conference-on-sustainability-reporting-and-due-diligence-rules)
-- [Deal on updated sustainability reporting and due diligence rules](https://www.europarl.europa.eu/news/en/press-room/20251208IPR32080/deal-on-updated-sustainability-reporting-and-due-diligence-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Carlos Ayala: The battle for the rule of law in Latin America](https://www.icj.org/carlos-ayala-the-battle-for-the-rule-of-law-in-latin-america/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
-- [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 - [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
 - [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
-- [Thailand: Action needed to address torture and enforced disappearance, including implementation of UN Committee’s Recommendations](https://www.icj.org/thailand-action-needed-to-address-torture-and-enforced-disappearance-including-implementation-of-un-committees-recommendations/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -267,11 +267,11 @@
 - [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
 - [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
 - [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
+- [Faustin-Archange Touadéra : des affaires à la guerre, un président-candidat très entouré](https://www.jeuneafrique.com/1747959/politique/faustin-archange-touadera-des-affaires-a-la-guerre-un-president-candidat-tres-entoure/)
 - [Centrafrique : ouverture de la campagne pour le quadruple scrutin du 28 décembre](https://www.jeuneafrique.com/1749349/politique/centrafrique-ouverture-de-la-campagne-pour-le-quadruple-scrutin-du-28-decembre/)
 - [Au Bénin, des centaines de jeunes manifestent contre la tentative de putsch](https://www.jeuneafrique.com/1749327/politique/au-benin-des-centaines-de-jeunes-manifestent-contre-la-tentative-de-putsch/)
 - [Élection enterrée et transition suspecte : la Guinée-Bissau dans l’incertitude](https://www.jeuneafrique.com/1747960/politique/election-enterree-et-transition-suspecte-la-guinee-bissau-dans-lincertitude/)
 - [Bénin : tentative de putsch et explosion de fake news](https://www.jeuneafrique.com/1749307/politique/benin-tentative-de-putsch-et-explosion-de-fake-news/)
-- [Au Mali, radiation d’un colonel qui a rapporté des exactions de l’armée](https://www.jeuneafrique.com/1749321/politique/mali-radiation-dun-colonel-qui-a-rapporte-des-exactions-de-larmee/)
 - [Tunis, Cotonou, Rabat… Quelle ville offre le meilleur accès aux services de santé ?](https://www.jeuneafrique.com/1748983/economie-entreprises/tunis-cotonou-rabat-quelle-ville-offre-le-meilleur-acces-aux-services-de-sante/)
 - [Comment le lobby mondial de l’aérien imagine le ciel africain du futur](https://www.jeuneafrique.com/1748873/economie-entreprises/comment-le-lobby-mondial-de-laerien-imagine-le-ciel-africain-du-futur/)
 
