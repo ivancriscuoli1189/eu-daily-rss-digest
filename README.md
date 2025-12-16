@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Dec 2025, 06:16*
+*Generato: 16 Dec 2025, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32101/ep-today)
 - [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
 - [MEPs back new measures to strengthen Europe’s defence readiness](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32218/meps-back-new-measures-to-strengthen-europe-s-defence-readiness)
 - [Opening: 15-18 December plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32104/opening-15-18-december-plenary-session)
@@ -91,7 +92,6 @@
 - [Press conference: updated rules on sustainability reporting and due diligence](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32217/press-conference-updated-rules-on-sustainability-reporting-and-due-diligence)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32099/press-briefing-on-this-week-s-plenary-session)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
-- [Circular economy: deal on new EU rules for the automotive sector](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32114/circular-economy-deal-on-new-eu-rules-for-the-automotive-sector)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Législatives en Côte d’Ivoire : l’influente « dircab » de Dominique Ouattara peut-elle être détrônée ?](https://www.jeuneafrique.com/1749212/politique/legislatives-en-cote-divoire-linfluente-dircab-de-dominique-ouattara-peut-elle-etre-detronee/)
+- [Procès Lumbala : l’ex-rebelle congolais condamné à 30 ans de réclusion criminelle](https://www.jeuneafrique.com/1749739/politique/proces-lumbala-lex-rebelle-congolais-condamne-a-30-ans-de-reclusion-criminelle/)
+- [Parité en politique au Maroc : de l’incitation à la sanction](https://www.jeuneafrique.com/1749587/politique/parite-en-politique-au-maroc-de-lincitation-a-la-sanction/)
 - [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
 - [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
 - [Ce que l’on sait du nouveau débat sur la polygamie en Tunisie](https://www.jeuneafrique.com/1748901/politique/ce-que-lon-sait-du-nouveau-debat-sur-la-polygamie-en-tunisie/)
 - [La Cedeao menace la Guinée-Bissau de « sanctions ciblées » après le coup d’État](https://www.jeuneafrique.com/1749389/politique/la-cedeao-menace-la-guinee-bissau-de-sanctions-ciblees-apres-le-coup-detat/)
+- [Au Sénégal, entre Diomaye et Sonko, la bataille des coalitions avant celle pour le pouvoir ?](https://www.jeuneafrique.com/1748866/politique/au-senegal-entre-diomaye-et-sonko-la-bataille-des-coalitions-avant-celle-pour-le-pouvoir/)
 - [En Algérie, Christophe Gleizes se pourvoit en Cassation](https://www.jeuneafrique.com/1749379/politique/en-algerie-christophe-gleizes-se-pourvoit-en-cassation/)
-- [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
-- [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
+- [Mounir Nakhla (MNT-Halan) : « Les banques sont des partenaires extrêmement solides »](https://www.jeuneafrique.com/1749607/economie-entreprises/mounir-nakhla-mnt-halan-les-banques-sont-des-partenaires-extremement-solides/)
 - [Projets immobiliers, zones industrielles… Entre Douala et Yaoundé, qui va le plus vite ?](https://www.jeuneafrique.com/1748135/economie-entreprises/projets-immobiliers-zones-industrielles-entre-douala-et-yaounde-qui-va-le-plus-vite/)
-- [SanlamAllianz : l’ambition panafricaine du géant des assurances à l’épreuve du risque de change](https://www.jeuneafrique.com/1748698/economie-entreprises/sanlamallianz-lambition-panafricaine-du-geant-des-assurances-a-lepreuve-du-risque-de-change/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
