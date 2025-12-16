@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Dec 2025, 21:10*
+*Generato: 16 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,9 +82,9 @@
 
 ## UE – EP – Press Room
 
-- [Opening: 15-18 December plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32104/opening-15-18-december-plenary-session)
 - [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
 - [MEPs back new measures to strengthen Europe’s defence readiness](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32218/meps-back-new-measures-to-strengthen-europe-s-defence-readiness)
+- [Opening: 15-18 December plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32104/opening-15-18-december-plenary-session)
 - [Sakharov Prize 2025: press conference on Tuesday at 11.30](https://www.europarl.europa.eu/news/en/press-room/20251212IPR32201/sakharov-prize-2025-press-conference-on-tuesday-at-11-30)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32100/ep-today-monday-15-december)
 - [Press conference on the bilateral safeguard clause on agriculture of the EU-Mercosur agreements](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32230/press-conference-on-the-bilateral-safeguard-clause-of-the-eu-mercosur-agreements)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Législatives en Côte d’Ivoire : l’influente « dircab » de Dominique Ouattara peut-elle être détrônée ?](https://www.jeuneafrique.com/1749212/politique/legislatives-en-cote-divoire-linfluente-dircab-de-dominique-ouattara-peut-elle-etre-detronee/)
 - [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
 - [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
 - [Ce que l’on sait du nouveau débat sur la polygamie en Tunisie](https://www.jeuneafrique.com/1748901/politique/ce-que-lon-sait-du-nouveau-debat-sur-la-polygamie-en-tunisie/)
@@ -271,7 +272,6 @@
 - [En Algérie, Christophe Gleizes se pourvoit en Cassation](https://www.jeuneafrique.com/1749379/politique/en-algerie-christophe-gleizes-se-pourvoit-en-cassation/)
 - [Bénin : Kemi Seba, visé par un mandat d’arrêt, dit vouloir « aller au bout de son combat »](https://www.jeuneafrique.com/1749367/politique/benin-kemi-seba-vise-par-un-mandat-darret-dit-vouloir-aller-au-bout-de-son-combat/)
 - [Soudan : six Casques bleus bangladais tués dans une attaque](https://www.jeuneafrique.com/1749358/politique/soudan-six-casques-bleus-bangladais-tues-dans-une-attaque/)
-- [Lettre à moi-même – Par Fawzia Zouari](https://www.jeuneafrique.com/1736910/politique/lettre-a-moi-meme-par-fawzia-zouari/)
 - [Projets immobiliers, zones industrielles… Entre Douala et Yaoundé, qui va le plus vite ?](https://www.jeuneafrique.com/1748135/economie-entreprises/projets-immobiliers-zones-industrielles-entre-douala-et-yaounde-qui-va-le-plus-vite/)
 - [SanlamAllianz : l’ambition panafricaine du géant des assurances à l’épreuve du risque de change](https://www.jeuneafrique.com/1748698/economie-entreprises/sanlamallianz-lambition-panafricaine-du-geant-des-assurances-a-lepreuve-du-risque-de-change/)
 
