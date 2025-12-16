@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Dec 2025, 15:13*
+*Generato: 16 Dec 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
+- [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
 - [Au Sénégal, des propositions de l’ambassadrice de France perçues par Dakar comme « une forme d’ingérence »](https://www.jeuneafrique.com/1749863/politique/au-senegal-des-propositions-de-lambassadrice-de-france-percues-par-dakar-comme-une-forme-dingerence/)
 - [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
+- [Législatives en Côte d’Ivoire : l’influente « dircab » de Dominique Ouattara peut-elle être détrônée ?](https://www.jeuneafrique.com/1749212/politique/legislatives-en-cote-divoire-linfluente-dircab-de-dominique-ouattara-peut-elle-etre-detronee/)
 - [Procès Lumbala : l’ex-rebelle congolais condamné à 30 ans de réclusion criminelle](https://www.jeuneafrique.com/1749739/politique/proces-lumbala-lex-rebelle-congolais-condamne-a-30-ans-de-reclusion-criminelle/)
 - [Parité en politique au Maroc : de l’incitation à la sanction](https://www.jeuneafrique.com/1749587/politique/parite-en-politique-au-maroc-de-lincitation-a-la-sanction/)
-- [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
-- [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
-- [L’intervention du Nigeria au Bénin, la « victoire » dont la Cedeao avait besoin ?](https://www.jeuneafrique.com/1749356/politique/lintervention-du-nigeria-au-benin-la-victoire-dont-la-cedeao-avait-besoin/)
 - [La France réduit encore un peu plus la voilure en Afrique sur l’aide au développement](https://www.jeuneafrique.com/1749785/economie-entreprises/la-france-reduit-encore-un-peu-plus-la-voilure-en-afrique/)
-- [Dette publique : pourquoi la Côte d’Ivoire est devenue le deuxième pays le mieux noté du continent](https://www.jeuneafrique.com/1749606/economie-entreprises/pourquoi-la-cote-divoire-est-devenue-le-deuxieme-pays-le-mieux-note-du-continent/)
+- [Aérien : ce qu’il faut retenir de la suppression des taxes par la Cedeao](https://www.jeuneafrique.com/1748885/economie-entreprises/aerien-ce-quil-faut-retenir-de-la-suppression-des-taxes-par-la-cedeao/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
