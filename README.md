@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Dec 2025, 11:02*
+*Generato: 16 Dec 2025, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [2025 Sakharov Prize: Parliament honours Andrzej Poczobut and Mzia Amaglobeli](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32165/2025-sakharov-prize-parliament-honours-andrzej-poczobut-and-mzia-amaglobeli)
+- [Simplified sustainability reporting and due diligence rules for businesses](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32164/simplified-sustainability-reporting-and-due-diligence-rules-for-businesses)
+- [Parliament to fast-track the reparations loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251216IPR32243/parliament-to-fast-track-the-reparations-loan-for-ukraine)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32101/ep-today)
 - [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
 - [MEPs back new measures to strengthen Europe’s defence readiness](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32218/meps-back-new-measures-to-strengthen-europe-s-defence-readiness)
@@ -89,9 +92,6 @@
 - [Sakharov Prize 2025: press conference on Tuesday at 11.30](https://www.europarl.europa.eu/news/en/press-room/20251212IPR32201/sakharov-prize-2025-press-conference-on-tuesday-at-11-30)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32100/ep-today-monday-15-december)
 - [Press conference on the bilateral safeguard clause on agriculture of the EU-Mercosur agreements](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32230/press-conference-on-the-bilateral-safeguard-clause-of-the-eu-mercosur-agreements)
-- [Press conference: updated rules on sustainability reporting and due diligence](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32217/press-conference-updated-rules-on-sustainability-reporting-and-due-diligence)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32099/press-briefing-on-this-week-s-plenary-session)
-- [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Sénégal, des propositions de l’ambassadrice de France perçues par Dakar comme « une forme d’ingérence »](https://www.jeuneafrique.com/1749863/politique/au-senegal-des-propositions-de-lambassadrice-de-france-percues-par-dakar-comme-une-forme-dingerence/)
 - [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
 - [Procès Lumbala : l’ex-rebelle congolais condamné à 30 ans de réclusion criminelle](https://www.jeuneafrique.com/1749739/politique/proces-lumbala-lex-rebelle-congolais-condamne-a-30-ans-de-reclusion-criminelle/)
 - [Parité en politique au Maroc : de l’incitation à la sanction](https://www.jeuneafrique.com/1749587/politique/parite-en-politique-au-maroc-de-lincitation-a-la-sanction/)
 - [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
 - [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
+- [L’intervention du Nigeria au Bénin, la « victoire » dont la Cedeao avait besoin ?](https://www.jeuneafrique.com/1749356/politique/lintervention-du-nigeria-au-benin-la-victoire-dont-la-cedeao-avait-besoin/)
 - [Ce que l’on sait du nouveau débat sur la polygamie en Tunisie](https://www.jeuneafrique.com/1748901/politique/ce-que-lon-sait-du-nouveau-debat-sur-la-polygamie-en-tunisie/)
-- [La Cedeao menace la Guinée-Bissau de « sanctions ciblées » après le coup d’État](https://www.jeuneafrique.com/1749389/politique/la-cedeao-menace-la-guinee-bissau-de-sanctions-ciblees-apres-le-coup-detat/)
-- [Trump et l’Afrique : épisode 2 d’une saison sous haute tension – par Rama Yade](https://www.jeuneafrique.com/1745040/politique/trump-et-lafrique-episode-2-dune-saison-sous-haute-tension-par-rama-yade/)
 - [La France réduit encore un peu plus la voilure en Afrique sur l’aide au développement](https://www.jeuneafrique.com/1749785/economie-entreprises/la-france-reduit-encore-un-peu-plus-la-voilure-en-afrique/)
 - [Dette publique : pourquoi la Côte d’Ivoire est devenue le deuxième pays le mieux noté du continent](https://www.jeuneafrique.com/1749606/economie-entreprises/pourquoi-la-cote-divoire-est-devenue-le-deuxieme-pays-le-mieux-note-du-continent/)
 
