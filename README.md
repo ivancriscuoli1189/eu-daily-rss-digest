@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Dec 2025, 09:16*
+*Generato: 16 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
 - [Procès Lumbala : l’ex-rebelle congolais condamné à 30 ans de réclusion criminelle](https://www.jeuneafrique.com/1749739/politique/proces-lumbala-lex-rebelle-congolais-condamne-a-30-ans-de-reclusion-criminelle/)
 - [Parité en politique au Maroc : de l’incitation à la sanction](https://www.jeuneafrique.com/1749587/politique/parite-en-politique-au-maroc-de-lincitation-a-la-sanction/)
 - [Kemi Seba nargue le mandat d’arrêt international](https://www.jeuneafrique.com/1749528/politique/kemi-seba-nargue-le-mandat-darret-international/)
 - [Cameroun : que reproche-t-on au journaliste Adolarc Lamissia ?](https://www.jeuneafrique.com/1749494/politique/cameroun-que-reproche-t-on-au-journaliste-adolarc-lamissia/)
 - [Ce que l’on sait du nouveau débat sur la polygamie en Tunisie](https://www.jeuneafrique.com/1748901/politique/ce-que-lon-sait-du-nouveau-debat-sur-la-polygamie-en-tunisie/)
 - [La Cedeao menace la Guinée-Bissau de « sanctions ciblées » après le coup d’État](https://www.jeuneafrique.com/1749389/politique/la-cedeao-menace-la-guinee-bissau-de-sanctions-ciblees-apres-le-coup-detat/)
-- [Au Sénégal, entre Diomaye et Sonko, la bataille des coalitions avant celle pour le pouvoir ?](https://www.jeuneafrique.com/1748866/politique/au-senegal-entre-diomaye-et-sonko-la-bataille-des-coalitions-avant-celle-pour-le-pouvoir/)
-- [En Algérie, Christophe Gleizes se pourvoit en Cassation](https://www.jeuneafrique.com/1749379/politique/en-algerie-christophe-gleizes-se-pourvoit-en-cassation/)
-- [Mounir Nakhla (MNT-Halan) : « Les banques sont des partenaires extrêmement solides »](https://www.jeuneafrique.com/1749607/economie-entreprises/mounir-nakhla-mnt-halan-les-banques-sont-des-partenaires-extremement-solides/)
-- [Projets immobiliers, zones industrielles… Entre Douala et Yaoundé, qui va le plus vite ?](https://www.jeuneafrique.com/1748135/economie-entreprises/projets-immobiliers-zones-industrielles-entre-douala-et-yaounde-qui-va-le-plus-vite/)
+- [Trump et l’Afrique : épisode 2 d’une saison sous haute tension – par Rama Yade](https://www.jeuneafrique.com/1745040/politique/trump-et-lafrique-episode-2-dune-saison-sous-haute-tension-par-rama-yade/)
+- [La France réduit encore un peu plus la voilure en Afrique sur l’aide au développement](https://www.jeuneafrique.com/1749785/economie-entreprises/la-france-reduit-encore-un-peu-plus-la-voilure-en-afrique/)
+- [Dette publique : pourquoi la Côte d’Ivoire est devenue le deuxième pays le mieux noté du continent](https://www.jeuneafrique.com/1749606/economie-entreprises/pourquoi-la-cote-divoire-est-devenue-le-deuxieme-pays-le-mieux-note-du-continent/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
