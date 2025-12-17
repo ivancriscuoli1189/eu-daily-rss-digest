@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 13:27*
+*Generato: 17 Dec 2025, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Emmanuel Macron échappe à un putsch fictif](https://www.jeuneafrique.com/1750319/politique/emmanuel-macron-echappe-a-un-putsch-fictif/)
 - [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
 - [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
+- [Homologation des médias au Sénégal : pourquoi la Cour suprême a retoqué la réforme du gouvernement](https://www.jeuneafrique.com/1749908/politique/homologation-des-medias-au-senegal-pourquoi-la-cour-supreme-a-retoque-la-reforme-du-gouvernement/)
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Tentative de coup d’État au Bénin : 30 mutins arrêtés, les dernières avancées de l’enquête](https://www.jeuneafrique.com/1750010/politique/tentative-de-coup-detat-au-benin-30-mutins-arretes-les-dernieres-avancees-de-lenquete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
 - [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
-- [Au Sénégal, des propositions de l’ambassadrice de France perçues par Dakar comme « une forme d’ingérence »](https://www.jeuneafrique.com/1749863/politique/au-senegal-des-propositions-de-lambassadrice-de-france-percues-par-dakar-comme-une-forme-dingerence/)
-- [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
 - [Sénégal : la baisse des prix de l’électricité menace-t-elle l’équilibre financier de la Senelec ?](https://www.jeuneafrique.com/1749757/economie-entreprises/senegal-la-baisse-des-prix-de-lelectricite-menace-t-elle-lequilibre-financier-de-la-senelec/)
 - [Comment Rabat mise sur la culture pour se bâtir un destin continental](https://www.jeuneafrique.com/1739223/economie-entreprises/comment-rabat-mise-sur-la-culture-pour-se-batir-un-destin-continental/)
 
