@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 11:02*
+*Generato: 17 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
+- [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
+- [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
+- [MEPs back “military Schengen” to help withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32166/meps-back-military-schengen-to-help-withstand-potential-russian-aggression)
+- [Deforestation law: Parliament adopts changes to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32168/deforestation-law-parliament-adopts-changes-to-postpone-and-simplify-measures)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32102/ep-today)
 - [Mercosur: Parliament backs safeguard measures to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32162/mercosur-parliament-backs-safeguard-measures-to-protect-eu-agriculture)
 - [Parliament backs measures to boost EU support for defence investment](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32157/parliament-backs-measures-to-boost-eu-support-for-defence-investment)
 - [Parliament backs €8.5 million in EU aid for dismissed workers in Sweden](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32159/parliament-backs-EU8-5-million-in-eu-aid-for-dismissed-workers-in-sweden)
 - [Parliament endorses simpler rules and more support for farmers](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32163/parliament-endorses-simpler-rules-and-more-support-for-farmers)
-- [Simplified sustainability reporting and due diligence rules for businesses](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32164/simplified-sustainability-reporting-and-due-diligence-rules-for-businesses)
-- [Parliament to fast-track the reparations loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251216IPR32243/parliament-to-fast-track-the-reparations-loan-for-ukraine)
-- [2025 Sakharov Prize: Parliament honours Andrzej Poczobut and Mzia Amaglobeli](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32165/2025-sakharov-prize-parliament-honours-andrzej-poczobut-and-mzia-amaglobeli)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32101/ep-today)
-- [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -195,7 +195,7 @@
 - [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
-- [Who We Are](https://www.amnesty.org/en/about-us/)
+- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -213,11 +213,11 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
+- [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
 - [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 - [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
-- [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
@@ -272,8 +272,8 @@
 - [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
 - [Au Sénégal, des propositions de l’ambassadrice de France perçues par Dakar comme « une forme d’ingérence »](https://www.jeuneafrique.com/1749863/politique/au-senegal-des-propositions-de-lambassadrice-de-france-percues-par-dakar-comme-une-forme-dingerence/)
 - [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
+- [Sénégal : la baisse des prix de l’électricité menace-t-elle l’équilibre financier de la Senelec ?](https://www.jeuneafrique.com/1749757/economie-entreprises/senegal-la-baisse-des-prix-de-lelectricite-menace-t-elle-lequilibre-financier-de-la-senelec/)
 - [Comment Rabat mise sur la culture pour se bâtir un destin continental](https://www.jeuneafrique.com/1739223/economie-entreprises/comment-rabat-mise-sur-la-culture-pour-se-batir-un-destin-continental/)
-- [États-Unis – Afrique : les coulisses d’un lobbying africain à Washington](https://www.jeuneafrique.com/1749482/economie-entreprises/etats-unis-afrique-les-coulisses-dun-lobbying-africain-a-washington/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
