@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Dec 2025, 21:10*
+*Generato: 17 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,13 +82,13 @@
 
 ## UE – EP – Press Room
 
-- [Parliament endorses simpler rules and more support for farmers](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32163/parliament-endorses-simpler-rules-and-more-support-for-farmers)
-- [2025 Sakharov Prize: Parliament honours Andrzej Poczobut and Mzia Amaglobeli](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32165/2025-sakharov-prize-parliament-honours-andrzej-poczobut-and-mzia-amaglobeli)
 - [Mercosur: Parliament backs safeguard measures to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32162/mercosur-parliament-backs-safeguard-measures-to-protect-eu-agriculture)
 - [Parliament backs measures to boost EU support for defence investment](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32157/parliament-backs-measures-to-boost-eu-support-for-defence-investment)
 - [Parliament backs €8.5 million in EU aid for dismissed workers in Sweden](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32159/parliament-backs-EU8-5-million-in-eu-aid-for-dismissed-workers-in-sweden)
+- [Parliament endorses simpler rules and more support for farmers](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32163/parliament-endorses-simpler-rules-and-more-support-for-farmers)
 - [Simplified sustainability reporting and due diligence rules for businesses](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32164/simplified-sustainability-reporting-and-due-diligence-rules-for-businesses)
 - [Parliament to fast-track the reparations loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20251216IPR32243/parliament-to-fast-track-the-reparations-loan-for-ukraine)
+- [2025 Sakharov Prize: Parliament honours Andrzej Poczobut and Mzia Amaglobeli](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32165/2025-sakharov-prize-parliament-honours-andrzej-poczobut-and-mzia-amaglobeli)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32101/ep-today)
 - [Critical medicines: new measures to strengthen security of supply](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32219/critical-medicines-new-measures-to-strengthen-security-of-supply)
 - [MEPs back new measures to strengthen Europe’s defence readiness](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32218/meps-back-new-measures-to-strengthen-europe-s-defence-readiness)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : face à Assimi Goïta, l’ultime combat de l’imam Dicko ?](https://www.jeuneafrique.com/1748761/politique/mali-face-a-assimi-goita-lultime-combat-de-limam-dicko/)
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
 - [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
@@ -271,7 +272,6 @@
 - [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
 - [Tentative de coup d’État au Bénin : l’audition du fils de Thomas Boni Yayi et les soupçons de Cotonou](https://www.jeuneafrique.com/1749688/politique/tentative-de-coup-detat-au-benin-laudition-du-fils-de-thomas-boni-yayi-et-les-soupcons-de-cotonou/)
 - [Législatives en Côte d’Ivoire : l’influente « dircab » de Dominique Ouattara peut-elle être détrônée ?](https://www.jeuneafrique.com/1749212/politique/legislatives-en-cote-divoire-linfluente-dircab-de-dominique-ouattara-peut-elle-etre-detronee/)
-- [Procès Lumbala : l’ex-rebelle congolais condamné à 30 ans de réclusion criminelle](https://www.jeuneafrique.com/1749739/politique/proces-lumbala-lex-rebelle-congolais-condamne-a-30-ans-de-reclusion-criminelle/)
 - [La France réduit encore un peu plus la voilure en Afrique sur l’aide au développement](https://www.jeuneafrique.com/1749785/economie-entreprises/la-france-reduit-encore-un-peu-plus-la-voilure-en-afrique/)
 - [Aérien : ce qu’il faut retenir de la suppression des taxes par la Cedeao](https://www.jeuneafrique.com/1748885/economie-entreprises/aerien-ce-quil-faut-retenir-de-la-suppression-des-taxes-par-la-cedeao/)
 
