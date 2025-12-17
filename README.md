@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 09:16*
+*Generato: 17 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
+- [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 - [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not to Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
-- [Carlos Ayala: The battle for the rule of law in Latin America](https://www.icj.org/carlos-ayala-the-battle-for-the-rule-of-law-in-latin-america/)
-- [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
+- [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
-- [ICJ Honored for Championing Refugee and Migrant Justice Worldwide](https://www.icj.org/icj-honored-for-championing-refugee-and-migrant-justice-worldwide/)
-- [Thailand: Swift action is needed to ensure access to justice for survivors of sexual and gender-based violence](https://www.icj.org/thailand-swift-action-is-needed-to-ensure-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
+- [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Tentative de coup d’État au Bénin : 30 mutins arrêtés, les dernières avancées de l’enquête](https://www.jeuneafrique.com/1750010/politique/tentative-de-coup-detat-au-benin-30-mutins-arretes-les-dernieres-avancees-de-lenquete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
 - [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
 - [Au Sénégal, des propositions de l’ambassadrice de France perçues par Dakar comme « une forme d’ingérence »](https://www.jeuneafrique.com/1749863/politique/au-senegal-des-propositions-de-lambassadrice-de-france-percues-par-dakar-comme-une-forme-dingerence/)
 - [Algérie : Abdelmadjid Tebboune gracie l’historien Mohamed Amine Belghit](https://www.jeuneafrique.com/1749818/politique/algerie-abdelmadjid-tebboune-gracie-lhistorien-mohamed-amine-belghit/)
-- [Tentative de coup d’État au Bénin : l’audition du fils de Thomas Boni Yayi et les soupçons de Cotonou](https://www.jeuneafrique.com/1749688/politique/tentative-de-coup-detat-au-benin-laudition-du-fils-de-thomas-boni-yayi-et-les-soupcons-de-cotonou/)
-- [RDC : ce que l’on sait du retrait annoncé de l’AFC/M23 d’Uvira](https://www.jeuneafrique.com/1749778/politique/rdc-ce-que-lon-sait-du-retrait-annonce-de-lafc-m23-duvira/)
+- [Comment Rabat mise sur la culture pour se bâtir un destin continental](https://www.jeuneafrique.com/1739223/economie-entreprises/comment-rabat-mise-sur-la-culture-pour-se-batir-un-destin-continental/)
 - [États-Unis – Afrique : les coulisses d’un lobbying africain à Washington](https://www.jeuneafrique.com/1749482/economie-entreprises/etats-unis-afrique-les-coulisses-dun-lobbying-africain-a-washington/)
-- [La France réduit encore un peu plus la voilure en Afrique sur l’aide au développement](https://www.jeuneafrique.com/1749785/economie-entreprises/la-france-reduit-encore-un-peu-plus-la-voilure-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
