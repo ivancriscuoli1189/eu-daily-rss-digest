@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 18:16*
+*Generato: 17 Dec 2025, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,6 +83,7 @@
 ## UE – EP – Press Room
 
 - [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
+- [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 - [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
 - [MEPs back “military Schengen” to help withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32166/meps-back-military-schengen-to-help-withstand-potential-russian-aggression)
@@ -91,7 +92,6 @@
 - [Mercosur: Parliament backs safeguard measures to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32162/mercosur-parliament-backs-safeguard-measures-to-protect-eu-agriculture)
 - [Parliament backs measures to boost EU support for defence investment](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32157/parliament-backs-measures-to-boost-eu-support-for-defence-investment)
 - [Parliament backs €8.5 million in EU aid for dismissed workers in Sweden](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32159/parliament-backs-EU8-5-million-in-eu-aid-for-dismissed-workers-in-sweden)
-- [Parliament endorses simpler rules and more support for farmers](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32163/parliament-endorses-simpler-rules-and-more-support-for-farmers)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
