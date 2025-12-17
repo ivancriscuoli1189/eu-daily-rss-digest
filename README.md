@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 15:12*
+*Generato: 17 Dec 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -271,9 +271,9 @@
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Tentative de coup d’État au Bénin : 30 mutins arrêtés, les dernières avancées de l’enquête](https://www.jeuneafrique.com/1750010/politique/tentative-de-coup-detat-au-benin-30-mutins-arretes-les-dernieres-avancees-de-lenquete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
-- [En Algérie, l’espoir d’une prochaine visite du pape](https://www.jeuneafrique.com/1749782/politique/en-algerie-lespoir-dune-prochaine-visite-du-pape/)
+- [5 questions pour comprendre l’affaire du convoi d’uranium et ses enjeux pour le Niger](https://www.jeuneafrique.com/1749853/politique/5-questions-pour-comprendre-laffaire-du-convoi-duranium-et-ses-enjeux-pour-le-niger/)
+- [Grand barrage de la Renaissance : l’Éthiopie peut-elle devenir la centrale électrique de l’Afrique ?](https://www.jeuneafrique.com/1748927/economie-entreprises/grand-barrage-de-la-renaissance-lethiopie-peut-elle-devenir-la-centrale-electrique-de-lafrique/)
 - [Sénégal : la baisse des prix de l’électricité menace-t-elle l’équilibre financier de la Senelec ?](https://www.jeuneafrique.com/1749757/economie-entreprises/senegal-la-baisse-des-prix-de-lelectricite-menace-t-elle-lequilibre-financier-de-la-senelec/)
-- [Comment Rabat mise sur la culture pour se bâtir un destin continental](https://www.jeuneafrique.com/1739223/economie-entreprises/comment-rabat-mise-sur-la-culture-pour-se-batir-un-destin-continental/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
