@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Dec 2025, 21:10*
+*Generato: 18 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
-- [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
+- [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
+- [Asylum: EP and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-ep-and-council-reach-a-deal-to-update-safe-third-country-rules)
 - [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 - [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
+- [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
 - [MEPs back “military Schengen” to help withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32166/meps-back-military-schengen-to-help-withstand-potential-russian-aggression)
 - [Deforestation law: Parliament adopts changes to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32168/deforestation-law-parliament-adopts-changes-to-postpone-and-simplify-measures)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32102/ep-today)
 - [Mercosur: Parliament backs safeguard measures to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32162/mercosur-parliament-backs-safeguard-measures-to-protect-eu-agriculture)
-- [Parliament backs measures to boost EU support for defence investment](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32157/parliament-backs-measures-to-boost-eu-support-for-defence-investment)
-- [Parliament backs €8.5 million in EU aid for dismissed workers in Sweden](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32159/parliament-backs-EU8-5-million-in-eu-aid-for-dismissed-workers-in-sweden)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Cameroun a-t-il vraiment été suspendu de l’Union africaine ?](https://www.jeuneafrique.com/1750021/politique/le-cameroun-a-t-il-vraiment-ete-suspendu-de-lunion-africaine/)
 - [Emmanuel Macron échappe à un putsch fictif](https://www.jeuneafrique.com/1750319/politique/emmanuel-macron-echappe-a-un-putsch-fictif/)
 - [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
 - [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
@@ -271,7 +272,6 @@
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
 - [Tentative de coup d’État au Bénin : 30 mutins arrêtés, les dernières avancées de l’enquête](https://www.jeuneafrique.com/1750010/politique/tentative-de-coup-detat-au-benin-30-mutins-arretes-les-dernieres-avancees-de-lenquete/)
 - [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
-- [5 questions pour comprendre l’affaire du convoi d’uranium et ses enjeux pour le Niger](https://www.jeuneafrique.com/1749853/politique/5-questions-pour-comprendre-laffaire-du-convoi-duranium-et-ses-enjeux-pour-le-niger/)
 - [Grand barrage de la Renaissance : l’Éthiopie peut-elle devenir la centrale électrique de l’Afrique ?](https://www.jeuneafrique.com/1748927/economie-entreprises/grand-barrage-de-la-renaissance-lethiopie-peut-elle-devenir-la-centrale-electrique-de-lafrique/)
 - [Sénégal : la baisse des prix de l’électricité menace-t-elle l’équilibre financier de la Senelec ?](https://www.jeuneafrique.com/1749757/economie-entreprises/senegal-la-baisse-des-prix-de-lelectricite-menace-t-elle-lequilibre-financier-de-la-senelec/)
 
