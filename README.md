@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 12:19*
+*Generato: 18 Dec 2025, 13:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
 - [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
 - [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
 - [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
@@ -91,7 +92,6 @@
 - [Asylum: Parliament and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-parliament-and-council-reach-a-deal-to-update-safe-third-country-rules)
 - [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 - [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
-- [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
