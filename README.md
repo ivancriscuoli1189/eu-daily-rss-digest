@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 11:10*
+*Generato: 18 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
+- [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
+- [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
 - [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
 - [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
@@ -89,9 +92,6 @@
 - [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 - [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
-- [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
-- [MEPs back “military Schengen” to help withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32166/meps-back-military-schengen-to-help-withstand-potential-russian-aggression)
-- [Deforestation law: Parliament adopts changes to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32168/deforestation-law-parliament-adopts-changes-to-postpone-and-simplify-measures)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Est de la RDC : le M23 affirme avoir entamé le retrait de ses troupes d’Uvira](https://www.jeuneafrique.com/1750694/politique/est-de-la-rdc-le-m23-affirme-avoir-entame-le-retrait-de-ses-troupes-duvira/)
+- [Législatives en Côte d’Ivoire : à Jacqueville, la politique divise les héritiers Yacé](https://www.jeuneafrique.com/1750203/politique/legislatives-en-cote-divoire-a-jacqueville-la-politique-divise-les-heritiers-yace/)
 - [Comment Alger a tenté jusqu’au bout de court-circuiter l’inscription du caftan marocain au patrimoine de l’Unesco](https://www.jeuneafrique.com/1750307/politique/comment-alger-a-tente-jusquau-bout-de-court-circuiter-linscription-du-caftan-marocain-au-patrimoine-de-lunesco/)
 - [Emmanuel Macron échappe à un putsch fictif](https://www.jeuneafrique.com/1750319/politique/emmanuel-macron-echappe-a-un-putsch-fictif/)
 - [« Villes mortes » dans le nord du Cameroun : chronique d’une paralysie partielle](https://www.jeuneafrique.com/1744863/politique/villes-mortes-dans-le-nord-du-cameroun-chronique-dune-paralysie-partielle/)
 - [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
 - [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
 - [Homologation des médias au Sénégal : pourquoi la Cour suprême a retoqué la réforme du gouvernement](https://www.jeuneafrique.com/1749908/politique/homologation-des-medias-au-senegal-pourquoi-la-cour-supreme-a-retoque-la-reforme-du-gouvernement/)
-- [Mali : face à Assimi Goïta, l’ultime combat de l’imam Dicko ?](https://www.jeuneafrique.com/1748761/politique/mali-face-a-assimi-goita-lultime-combat-de-limam-dicko/)
-- [En RDC, la discrète résurrection d’Erik Prince, businessman des zones grises](https://www.jeuneafrique.com/1745914/politique/en-rdc-la-discrete-resurrection-derik-prince-businessman-des-zones-grises/)
 - [Corridor de Lobito : l’Angola reçoit un solide coup de pouce des États-Unis et de l’Afrique du Sud](https://www.jeuneafrique.com/1750689/economie-entreprises/corridor-de-lobito-langola-recoit-un-solide-coup-de-pouce-des-etats-unis-et-de-lafrique-du-sud/)
 - [Fintech : pour Flutterwave et Olugbenga Agboola, la Bourse n’est pas une fin en soi](https://www.jeuneafrique.com/1750342/economie-entreprises/fintech-pour-flutterwave-et-olugbenga-agboola-la-bourse-nest-pas-une-fin-en-soi/)
 
