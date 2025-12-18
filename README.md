@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 09:16*
+*Generato: 18 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -271,9 +271,9 @@
 - [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
 - [Homologation des médias au Sénégal : pourquoi la Cour suprême a retoqué la réforme du gouvernement](https://www.jeuneafrique.com/1749908/politique/homologation-des-medias-au-senegal-pourquoi-la-cour-supreme-a-retoque-la-reforme-du-gouvernement/)
 - [Mali : face à Assimi Goïta, l’ultime combat de l’imam Dicko ?](https://www.jeuneafrique.com/1748761/politique/mali-face-a-assimi-goita-lultime-combat-de-limam-dicko/)
-- [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
+- [En RDC, la discrète résurrection d’Erik Prince, businessman des zones grises](https://www.jeuneafrique.com/1745914/politique/en-rdc-la-discrete-resurrection-derik-prince-businessman-des-zones-grises/)
+- [Corridor de Lobito : l’Angola reçoit un solide coup de pouce des États-Unis et de l’Afrique du Sud](https://www.jeuneafrique.com/1750689/economie-entreprises/corridor-de-lobito-langola-recoit-un-solide-coup-de-pouce-des-etats-unis-et-de-lafrique-du-sud/)
 - [Fintech : pour Flutterwave et Olugbenga Agboola, la Bourse n’est pas une fin en soi](https://www.jeuneafrique.com/1750342/economie-entreprises/fintech-pour-flutterwave-et-olugbenga-agboola-la-bourse-nest-pas-une-fin-en-soi/)
-- [Air Sénégal : qui est Yankhoba Diémé, le ministre qui refuse de laisser mourir le pavillon national ?](https://www.jeuneafrique.com/1749930/economie-entreprises/air-senegal-qui-est-yankhoba-dieme-le-ministre-qui-refuse-de-laisser-mourir-le-pavillon-national/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
