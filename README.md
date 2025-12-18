@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 06:16*
+*Generato: 18 Dec 2025, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
+- [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
 - [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
-- [Asylum: EP and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-ep-and-council-reach-a-deal-to-update-safe-third-country-rules)
+- [Asylum: Parliament and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-parliament-and-council-reach-a-deal-to-update-safe-third-country-rules)
 - [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 - [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
 - [‘My Voice, My Choice’: MEPs support citizens’ initiative on accessible abortion](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32167/my-voice-my-choice-meps-support-citizens-initiative-on-accessible-abortion)
 - [EU to phase out imports of Russian gas](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32169/eu-to-phase-out-imports-of-russian-gas)
 - [MEPs back “military Schengen” to help withstand potential Russian aggression](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32166/meps-back-military-schengen-to-help-withstand-potential-russian-aggression)
 - [Deforestation law: Parliament adopts changes to postpone and simplify measures](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32168/deforestation-law-parliament-adopts-changes-to-postpone-and-simplify-measures)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32102/ep-today)
-- [Mercosur: Parliament backs safeguard measures to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32162/mercosur-parliament-backs-safeguard-measures-to-protect-eu-agriculture)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Le Cameroun a-t-il vraiment été suspendu de l’Union africaine ?](https://www.jeuneafrique.com/1750021/politique/le-cameroun-a-t-il-vraiment-ete-suspendu-de-lunion-africaine/)
+- [Comment Alger a tenté jusqu’au bout de court-circuiter l’inscription du caftan marocain au patrimoine de l’Unesco](https://www.jeuneafrique.com/1750307/politique/comment-alger-a-tente-jusquau-bout-de-court-circuiter-linscription-du-caftan-marocain-au-patrimoine-de-lunesco/)
 - [Emmanuel Macron échappe à un putsch fictif](https://www.jeuneafrique.com/1750319/politique/emmanuel-macron-echappe-a-un-putsch-fictif/)
+- [« Villes mortes » dans le nord du Cameroun : chronique d’une paralysie partielle](https://www.jeuneafrique.com/1744863/politique/villes-mortes-dans-le-nord-du-cameroun-chronique-dune-paralysie-partielle/)
 - [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
 - [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
 - [Homologation des médias au Sénégal : pourquoi la Cour suprême a retoqué la réforme du gouvernement](https://www.jeuneafrique.com/1749908/politique/homologation-des-medias-au-senegal-pourquoi-la-cour-supreme-a-retoque-la-reforme-du-gouvernement/)
+- [Mali : face à Assimi Goïta, l’ultime combat de l’imam Dicko ?](https://www.jeuneafrique.com/1748761/politique/mali-face-a-assimi-goita-lultime-combat-de-limam-dicko/)
 - [En RDC, le numéro 2 du parti de Joseph Kabila arrêté](https://www.jeuneafrique.com/1750182/politique/en-rdc-le-numero-2-du-parti-de-joseph-kabila-arrete/)
-- [Tentative de coup d’État au Bénin : 30 mutins arrêtés, les dernières avancées de l’enquête](https://www.jeuneafrique.com/1750010/politique/tentative-de-coup-detat-au-benin-30-mutins-arretes-les-dernieres-avancees-de-lenquete/)
-- [Une brigade antiterroriste de la Cedeao contre les terroristes… ou les putschistes ?](https://www.jeuneafrique.com/1749955/politique/une-brigade-antiterroriste-de-la-cedeao-contre-les-terroristes-ou-les-putschistes/)
-- [Grand barrage de la Renaissance : l’Éthiopie peut-elle devenir la centrale électrique de l’Afrique ?](https://www.jeuneafrique.com/1748927/economie-entreprises/grand-barrage-de-la-renaissance-lethiopie-peut-elle-devenir-la-centrale-electrique-de-lafrique/)
-- [Sénégal : la baisse des prix de l’électricité menace-t-elle l’équilibre financier de la Senelec ?](https://www.jeuneafrique.com/1749757/economie-entreprises/senegal-la-baisse-des-prix-de-lelectricite-menace-t-elle-lequilibre-financier-de-la-senelec/)
+- [Fintech : pour Flutterwave et Olugbenga Agboola, la Bourse n’est pas une fin en soi](https://www.jeuneafrique.com/1750342/economie-entreprises/fintech-pour-flutterwave-et-olugbenga-agboola-la-bourse-nest-pas-une-fin-en-soi/)
+- [Air Sénégal : qui est Yankhoba Diémé, le ministre qui refuse de laisser mourir le pavillon national ?](https://www.jeuneafrique.com/1749930/economie-entreprises/air-senegal-qui-est-yankhoba-dieme-le-ministre-qui-refuse-de-laisser-mourir-le-pavillon-national/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
