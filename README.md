@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 15:12*
+*Generato: 18 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
 - [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
 - [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
 - [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
@@ -91,7 +92,6 @@
 - [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
 - [Asylum: Parliament and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-parliament-and-council-reach-a-deal-to-update-safe-third-country-rules)
 - [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
-- [MEPs demand new measures to protect against algorithmic management at work](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32175/meps-demand-new-measures-to-protect-against-algorithmic-management-at-work)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Massacre du 28-Septembre en Guinée : ouverture d’un procès pour sept autres accusés](https://www.jeuneafrique.com/1751121/politique/massacre-du-28-septembre-en-guinee-ouverture-dun-proces-pour-sept-autres-accuses/)
+- [Le Nigeria présente ses excuses à Ibrahim Traoré après l’incident du C-130](https://www.jeuneafrique.com/1750691/politique/le-nigeria-presente-ses-excuses-a-ibrahim-traore-apres-lincident-du-c-130/)
+- [Patrice Talon : « Aucune frange importante de l’armée n’a adhéré » à la tentative de putsch](https://www.jeuneafrique.com/1750920/politique/patrice-talon-aucune-frange-importante-de-larmee-na-adhere-a-la-tentative-de-putsch/)
 - [Date contre date, manifestation contre manifestation : deux Tunisie face à face](https://www.jeuneafrique.com/1750434/politique/date-contre-date-manifestation-contre-manifestation-deux-tunisie-face-a-face/)
 - [Est de la RDC : le M23 affirme avoir entamé le retrait de ses troupes d’Uvira](https://www.jeuneafrique.com/1750694/politique/est-de-la-rdc-le-m23-affirme-avoir-entame-le-retrait-de-ses-troupes-duvira/)
-- [Législatives en Côte d’Ivoire : à Jacqueville, la politique divise les héritiers Yacé](https://www.jeuneafrique.com/1750203/politique/legislatives-en-cote-divoire-a-jacqueville-la-politique-divise-les-heritiers-yace/)
-- [Comment Alger a tenté jusqu’au bout de court-circuiter l’inscription du caftan marocain au patrimoine de l’Unesco](https://www.jeuneafrique.com/1750307/politique/comment-alger-a-tente-jusquau-bout-de-court-circuiter-linscription-du-caftan-marocain-au-patrimoine-de-lunesco/)
-- [Emmanuel Macron échappe à un putsch fictif](https://www.jeuneafrique.com/1750319/politique/emmanuel-macron-echappe-a-un-putsch-fictif/)
-- [« Villes mortes » dans le nord du Cameroun : chronique d’une paralysie partielle](https://www.jeuneafrique.com/1744863/politique/villes-mortes-dans-le-nord-du-cameroun-chronique-dune-paralysie-partielle/)
-- [Niger, Mali, Burkina Faso… Donald Trump impose des restrictions d’entrée à sept nouveaux pays, ainsi qu’aux Palestiniens](https://www.jeuneafrique.com/1750229/politique/niger-mali-burkina-faso-donald-trump-impose-des-restrictions-dentree-a-sept-nouveaux-pays-ainsi-quaux-palestiniens/)
-- [En Tunisie, l’huile d’olive au cœur d’un bras de fer entre le secteur agricole et les autorités](https://www.jeuneafrique.com/1749820/politique/en-tunisie-lhuile-dolive-au-coeur-dun-bras-de-fer-entre-le-secteur-agricole-et-les-autorites/)
-- [Corridor de Lobito : l’Angola reçoit un solide coup de pouce des États-Unis et de l’Afrique du Sud](https://www.jeuneafrique.com/1750689/economie-entreprises/corridor-de-lobito-langola-recoit-un-solide-coup-de-pouce-des-etats-unis-et-de-lafrique-du-sud/)
-- [Fintech : pour Flutterwave et Olugbenga Agboola, la Bourse n’est pas une fin en soi](https://www.jeuneafrique.com/1750342/economie-entreprises/fintech-pour-flutterwave-et-olugbenga-agboola-la-bourse-nest-pas-une-fin-en-soi/)
+- [Quelles sont les villes les plus sûres d’Afrique ?](https://www.jeuneafrique.com/1750035/politique/rabat-alexandrie-cotonou-quelles-sont-les-villes-les-plus-sures-dafrique/)
+- [Est de la RDC : incontournables, les wazalendo sont-ils aussi incontrôlables ?](https://www.jeuneafrique.com/1750414/politique/est-de-la-rdc-incontournables-les-wazalendo-sont-ils-aussi-incontrolables/)
+- [Le Cameroun a-t-il vraiment été suspendu de l’Union africaine ?](https://www.jeuneafrique.com/1750021/politique/le-cameroun-a-t-il-vraiment-ete-suspendu-de-lunion-africaine/)
+- [BP en Afrique : ce que l’arrivée de Meg O’Neill révèle de la future stratégie du groupe](https://www.jeuneafrique.com/1750999/economie-entreprises/bp-en-afrique-ce-que-larrivee-de-meg-oneill-revele-de-la-future-strategie-du-groupe/)
+- [Jeune Afrique lance l’Africa NextGen Economist Prize](https://www.jeuneafrique.com/1749657/economie-entreprises/jeune-afrique-lance-lafrica-nextgen-economist-prize/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
