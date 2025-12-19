@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Dec 2025, 11:09*
+*Generato: 19 Dec 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Ridha Tlili, documentariste : « En Tunisie, on vit beaucoup dans l’éphémère depuis la révolution »](https://www.jeuneafrique.com/1750047/politique/ridha-tlili-documentariste-en-tunisie-on-vit-beaucoup-dans-lephemere-depuis-la-revolution/)
+- [Législatives en Côte d’Ivoire : Tiémoko Assalé peut-il créer la surprise ?](https://www.jeuneafrique.com/1749942/politique/legislatives-en-cote-divoire-tiemoko-assale-peut-il-creer-la-surprise/)
 - [Massacre du 28-Septembre en Guinée : ouverture d’un procès pour sept autres accusés](https://www.jeuneafrique.com/1751121/politique/massacre-du-28-septembre-en-guinee-ouverture-dun-proces-pour-sept-autres-accuses/)
 - [Alice Nkom : « Issa Tchiroma Bakary est déterminé à lutter jusqu’au bout »](https://www.jeuneafrique.com/1750245/politique/alice-nkom-issa-tchiroma-bakary-est-determine-a-lutter-jusquau-bout/)
 - [Le Nigeria présente ses excuses à Ibrahim Traoré après l’incident du C-130](https://www.jeuneafrique.com/1750691/politique/le-nigeria-presente-ses-excuses-a-ibrahim-traore-apres-lincident-du-c-130/)
 - [Patrice Talon : « Aucune frange importante de l’armée n’a adhéré » à la tentative de putsch](https://www.jeuneafrique.com/1750920/politique/patrice-talon-aucune-frange-importante-de-larmee-na-adhere-a-la-tentative-de-putsch/)
 - [Date contre date, manifestation contre manifestation : deux Tunisie face à face](https://www.jeuneafrique.com/1750434/politique/date-contre-date-manifestation-contre-manifestation-deux-tunisie-face-a-face/)
 - [Guinée : 10 choses à savoir sur Sékou Koureissy Condé, le garant de la présidentielle](https://www.jeuneafrique.com/1750022/politique/guinee-10-choses-a-savoir-sur-sekou-koureissy-conde-le-garant-de-la-presidentielle/)
-- [Est de la RDC : le M23 affirme avoir entamé le retrait de ses troupes d’Uvira](https://www.jeuneafrique.com/1750694/politique/est-de-la-rdc-le-m23-affirme-avoir-entame-le-retrait-de-ses-troupes-duvira/)
-- [Au Mali, les vraies raisons de la radiation du colonel Alpha Yaya Sangaré](https://www.jeuneafrique.com/1750572/politique/au-mali-les-vraies-raisons-de-la-radiation-du-colonel-alpha-yaya-sangare/)
+- [Rabat, Tunis, Kigali… Quelle ville africaine offre le meilleur accès au logement ?](https://www.jeuneafrique.com/1750153/economie-entreprises/rabat-tunis-kigali-quelle-ville-africaine-offre-le-meilleur-acces-au-logement/)
 - [BP en Afrique : ce que l’arrivée de Meg O’Neill révèle de la future stratégie du groupe](https://www.jeuneafrique.com/1750999/economie-entreprises/bp-en-afrique-ce-que-larrivee-de-meg-oneill-revele-de-la-future-strategie-du-groupe/)
-- [Grande distribution : pourquoi Carrefour préfère la master franchise en Afrique](https://www.jeuneafrique.com/1750254/economie-entreprises/grande-distribution-pourquoi-carrefour-prefere-la-master-franchise-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
