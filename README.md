@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Dec 2025, 21:10*
+*Generato: 19 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
 - [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
 - [Tra Bruxelles e Roma: una nuova strategia per il Mediterraneo](https://ecfr.eu/rome/event/tra-bruxelles-e-roma-una-nuova-strategia-per-il-mediterraneo/)
 - [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
@@ -234,7 +235,6 @@
 - [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
 - [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
 - [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [Diplomacy next: The internal politics of Hamas and the power of European engagement](https://ecfr.eu/article/diplomacy-next-the-internal-politics-of-hamas-and-the-power-of-european-engagement/)
 
 ## THINK TANK – CESPI – Attualità
 
