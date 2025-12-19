@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Dec 2025, 06:16*
+*Generato: 19 Dec 2025, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,32 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -173,16 +147,16 @@
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
-- [Actualités](https://lapresse.tn/Actualit%C3%A9s)
-- [Économie](https://lapresse.tn/economie/)
-- [Société](https://lapresse.tn/societe/)
-- [Culture](https://lapresse.tn/culture/)
-- [Sport](https://lapresse.tn/sport/)
-- [International](https://lapresse.tn/International)
-- [Tunisie – Brésil : un match amical attendu à Lille...](https://www.lapresse.tn/2025/11/16/tunisie-bresil-un-match-amical-attendu-a-lille-mardi-soir/)
-- [L’INSSPA saisit 68 tonnes de produits alimentaires et ferme plusieurs...](https://www.lapresse.tn/2025/11/16/linsspa-saisit-68-tonnes-de-produits-alimentaires-et-ferme-plusieurs-commerces/)
-- [Pain sans sel : quand les Tunisiens changent leurs habitudes...](https://www.lapresse.tn/2025/11/16/pain-sans-sel-quand-les-tunisiens-changent-leurs-habitudes-alimentaires/)
-- [La Tunisie s’impose dans la douleur face à la Jordanie...](https://www.lapresse.tn/2025/11/16/la-tunisie-simpose-dans-la-douleur-face-a-la-jordanie-ils-soufflent-le-chaud-et-le-froid/)
+- [Actualités](https://www.lapresse.tn/category/actualites/)
+- [Économie](https://www.lapresse.tn/category/economie/)
+- [Société](https://www.lapresse.tn/category/societe/)
+- [Culture](https://www.lapresse.tn/category/culture/)
+- [Magazine](https://www.lapresse.tn/category/magazine/)
+- [Sport](https://www.lapresse.tn/category/sport/)
+- [International](https://www.lapresse.tn/category/international/)
+- [Editorial](https://www.lapresse.tn/category/editorial/)
+- [L’équipe nationale affronte le Botswana en amical à Tabarka :...](https://www.lapresse.tn/2025/12/18/lequipe-nationale-affronte-le-botswana-en-amical-a-tabarka-lheure-des-choix/)
+- [L’équipe de Tunisie pas favorite pour la CAN : Plutôt...](https://www.lapresse.tn/2025/12/18/lequipe-de-tunisie-pas-favorite-pour-la-can-plutot-un-avantage/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Massacre du 28-Septembre en Guinée : ouverture d’un procès pour sept autres accusés](https://www.jeuneafrique.com/1751121/politique/massacre-du-28-septembre-en-guinee-ouverture-dun-proces-pour-sept-autres-accuses/)
+- [Alice Nkom : « Issa Tchiroma Bakary est déterminé à lutter jusqu’au bout »](https://www.jeuneafrique.com/1750245/politique/alice-nkom-issa-tchiroma-bakary-est-determine-a-lutter-jusquau-bout/)
 - [Le Nigeria présente ses excuses à Ibrahim Traoré après l’incident du C-130](https://www.jeuneafrique.com/1750691/politique/le-nigeria-presente-ses-excuses-a-ibrahim-traore-apres-lincident-du-c-130/)
 - [Patrice Talon : « Aucune frange importante de l’armée n’a adhéré » à la tentative de putsch](https://www.jeuneafrique.com/1750920/politique/patrice-talon-aucune-frange-importante-de-larmee-na-adhere-a-la-tentative-de-putsch/)
 - [Date contre date, manifestation contre manifestation : deux Tunisie face à face](https://www.jeuneafrique.com/1750434/politique/date-contre-date-manifestation-contre-manifestation-deux-tunisie-face-a-face/)
+- [Guinée : 10 choses à savoir sur Sékou Koureissy Condé, le garant de la présidentielle](https://www.jeuneafrique.com/1750022/politique/guinee-10-choses-a-savoir-sur-sekou-koureissy-conde-le-garant-de-la-presidentielle/)
 - [Est de la RDC : le M23 affirme avoir entamé le retrait de ses troupes d’Uvira](https://www.jeuneafrique.com/1750694/politique/est-de-la-rdc-le-m23-affirme-avoir-entame-le-retrait-de-ses-troupes-duvira/)
-- [Quelles sont les villes les plus sûres d’Afrique ?](https://www.jeuneafrique.com/1750035/politique/rabat-alexandrie-cotonou-quelles-sont-les-villes-les-plus-sures-dafrique/)
-- [Est de la RDC : incontournables, les wazalendo sont-ils aussi incontrôlables ?](https://www.jeuneafrique.com/1750414/politique/est-de-la-rdc-incontournables-les-wazalendo-sont-ils-aussi-incontrolables/)
-- [Le Cameroun a-t-il vraiment été suspendu de l’Union africaine ?](https://www.jeuneafrique.com/1750021/politique/le-cameroun-a-t-il-vraiment-ete-suspendu-de-lunion-africaine/)
+- [Au Mali, les vraies raisons de la radiation du colonel Alpha Yaya Sangaré](https://www.jeuneafrique.com/1750572/politique/au-mali-les-vraies-raisons-de-la-radiation-du-colonel-alpha-yaya-sangare/)
 - [BP en Afrique : ce que l’arrivée de Meg O’Neill révèle de la future stratégie du groupe](https://www.jeuneafrique.com/1750999/economie-entreprises/bp-en-afrique-ce-que-larrivee-de-meg-oneill-revele-de-la-future-strategie-du-groupe/)
-- [Jeune Afrique lance l’Africa NextGen Economist Prize](https://www.jeuneafrique.com/1749657/economie-entreprises/jeune-afrique-lance-lafrica-nextgen-economist-prize/)
+- [Grande distribution : pourquoi Carrefour préfère la master franchise en Afrique](https://www.jeuneafrique.com/1750254/economie-entreprises/grande-distribution-pourquoi-carrefour-prefere-la-master-franchise-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
