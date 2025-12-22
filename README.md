@@ -1,6 +1,19 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Dec 2025, 06:17*
+*Generato: 22 Dec 2025, 09:17*
+
+## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
+
+- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
+- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
+- [La Farnesina](https://www.esteri.it/it/ministero/)
+- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
+- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
+- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
+- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
+- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
+- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
+- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -108,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -251,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
 - [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/?p=1751644)
+- [En Algérie, le film sur l’émir Abdelkader tourne à l’affaire d’État](https://www.jeuneafrique.com/1748367/politique/en-algerie-le-film-sur-lemir-abdelkader-tourne-a-laffaire-detat/)
 - [Bassirou Diomaye Faye-Ousmane Sonko : du duo au duel au sommet de l’État ?](https://www.jeuneafrique.com/1751365/politique/bassirou-diomaye-faye-ousmane-sonko-du-duo-au-duel-au-sommet-de-letat/)
 - [Putsch manqué au Bénin : l’ancien ministre Candide Azannaï placé sous mandat de dépôt](https://www.jeuneafrique.com/1751634/politique/putsch-manque-au-benin-lancien-ministre-candide-azannai-place-sous-mandat-de-depot/)
 - [RDC : le mandat de la Monusco prolongé d’un an](https://www.jeuneafrique.com/1751631/politique/rdc-le-mandat-de-la-monusco-prolonge-dun-an/)
 - [Le projet de loi criminalisant la colonisation examiné par les députés algériens](https://www.jeuneafrique.com/1750754/politique/le-projet-de-loi-criminalisant-la-colonisation-examine-par-les-deputes-algeriens/)
 - [Du Cameroun au Cap-Vert, récit de l’opposant Fabrice Lena, évadé de la prison de Douala](https://www.jeuneafrique.com/1750367/politique/du-cameroun-au-cap-vert-recit-de-lopposant-fabrice-lena-evade-de-la-prison-de-douala/)
-- [Guinée, Centrafrique et Côte d’Ivoire aux urnes, les 100 jours de Sidi Ould Tah et le coup d’envoi de la CAN : les 5 infos qu’il fallait retenir](https://www.jeuneafrique.com/1751212/politique/guinee-centrafrique-et-cote-divoire-aux-urnes-les-100-jours-de-sidi-ould-tah-et-le-coup-denvoi-de-la-can-les-5-infos-quil-fallait-retenir/)
+- [Bénin-AES : après la tentative de putsch, coulisses d’une guerre informationnelle](https://www.jeuneafrique.com/1751424/politique/benin-aes-apres-la-tentative-de-putsch-coulisses-dune-guerre-informationnelle/)
 - [Sébastien Abis : « Le continent mène plusieurs révolutions agricoles de front »](https://www.jeuneafrique.com/1749021/economie-entreprises/sebastien-abis-le-continent-mene-plusieurs-revolutions-agricoles-de-front/)
 - [Pourquoi le Sénégal veut rapidement tourner la page de Kosmos Energy](https://www.jeuneafrique.com/1750523/economie-entreprises/pourquoi-le-senegal-veut-rapidement-tourner-la-page-de-kosmos-energy/)
 
