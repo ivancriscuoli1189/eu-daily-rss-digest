@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Dec 2025, 15:11*
+*Generato: 22 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Centrafrique, flop des monnaies virtuelles, pour floraison du crime réel ?](https://www.jeuneafrique.com/1751809/politique/en-centrafrique-flop-des-monnaies-virtuelles-pour-floraison-du-crime-reel/)
 - [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
 - [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/?p=1751644)
 - [En Algérie, le film sur l’émir Abdelkader tourne à l’affaire d’État](https://www.jeuneafrique.com/1748367/politique/en-algerie-le-film-sur-lemir-abdelkader-tourne-a-laffaire-detat/)
+- [Législatives en Côte d’Ivoire : le boycott, un pari risqué pour Laurent Gbagbo](https://www.jeuneafrique.com/1751535/politique/legislatives-en-cote-divoire-le-boycott-un-pari-risque-pour-laurent-gbagbo/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh, l’omniprésent](https://www.jeuneafrique.com/1747171/politique/presidentielle-a-djibouti-ismail-omar-guelleh-lomnipresent/)
 - [Bassirou Diomaye Faye-Ousmane Sonko : du duo au duel au sommet de l’État ?](https://www.jeuneafrique.com/1751365/politique/bassirou-diomaye-faye-ousmane-sonko-du-duo-au-duel-au-sommet-de-letat/)
 - [Comment la Chine est devenue le premier fournisseur d’armes d’Afrique de l’Ouest](https://www.jeuneafrique.com/1749843/politique/comment-la-chine-est-devenue-le-premier-fournisseur-darmes-dafrique-de-louest/)
-- [Putsch manqué au Bénin : l’ancien ministre Candide Azannaï placé sous mandat de dépôt](https://www.jeuneafrique.com/1751634/politique/putsch-manque-au-benin-lancien-ministre-candide-azannai-place-sous-mandat-de-depot/)
-- [RDC : le mandat de la Monusco prolongé d’un an](https://www.jeuneafrique.com/1751631/politique/rdc-le-mandat-de-la-monusco-prolonge-dun-an/)
-- [Sébastien Abis : « Le continent mène plusieurs révolutions agricoles de front »](https://www.jeuneafrique.com/1749021/economie-entreprises/sebastien-abis-le-continent-mene-plusieurs-revolutions-agricoles-de-front/)
-- [Pourquoi le Sénégal veut rapidement tourner la page de Kosmos Energy](https://www.jeuneafrique.com/1750523/economie-entreprises/pourquoi-le-senegal-veut-rapidement-tourner-la-page-de-kosmos-energy/)
+- [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
+- [Comment le Cameroun modère les ambitions de Starlink sur la connexion mobile](https://www.jeuneafrique.com/1751545/economie-entreprises/comment-le-cameroun-modere-les-ambitions-de-starlink-sur-la-connexion-mobile/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
