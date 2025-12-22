@@ -1,19 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Dec 2025, 21:09*
-
-## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
-
-- [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
-- [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
-- [La Farnesina](https://www.esteri.it/it/ministero/)
-- [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
-- [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
-- [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
-- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
-- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
-- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
-- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
+*Generato: 22 Dec 2025, 06:17*
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -45,8 +32,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -121,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Entre l’Algérie et la Tunisie, un accord militaire qui fait réagir](https://www.jeuneafrique.com/1751203/politique/entre-lalgerie-et-la-tunisie-un-accord-militaire-qui-fait-reagir/)
-- [Ridha Tlili, documentariste : « En Tunisie, on vit beaucoup dans l’éphémère depuis la révolution »](https://www.jeuneafrique.com/1750047/politique/ridha-tlili-documentariste-en-tunisie-on-vit-beaucoup-dans-lephemere-depuis-la-revolution/)
-- [Cameroun : entre continuité et reprise en main, Paul Biya verrouille les dix régions](https://www.jeuneafrique.com/1750649/politique/cameroun-entre-continuite-et-reprise-en-main-paul-biya-verrouille-les-dix-regions/)
-- [Présidentielle en Centrafrique : François Bozizé peut-il faire basculer le scrutin ?](https://www.jeuneafrique.com/1750780/politique/presidentielle-en-centrafrique-francois-bozize-peut-il-faire-basculer-le-scrutin/)
-- [Législatives en Côte d’Ivoire : Tiémoko Assalé peut-il créer la surprise ?](https://www.jeuneafrique.com/1749942/politique/legislatives-en-cote-divoire-tiemoko-assale-peut-il-creer-la-surprise/)
-- [Massacre du 28-Septembre en Guinée : ouverture d’un procès pour sept autres accusés](https://www.jeuneafrique.com/1751121/politique/massacre-du-28-septembre-en-guinee-ouverture-dun-proces-pour-sept-autres-accuses/)
-- [Alice Nkom : « Issa Tchiroma Bakary est déterminé à lutter jusqu’au bout »](https://www.jeuneafrique.com/1750245/politique/alice-nkom-issa-tchiroma-bakary-est-determine-a-lutter-jusquau-bout/)
-- [Le Nigeria présente ses excuses à Ibrahim Traoré après l’incident du C-130](https://www.jeuneafrique.com/1750691/politique/le-nigeria-presente-ses-excuses-a-ibrahim-traore-apres-lincident-du-c-130/)
-- [Guinée : le Simandou va-t-il réduire la dépendance de la Chine au fer australien ?](https://www.jeuneafrique.com/1751033/economie-entreprises/guinee-le-simandou-va-t-il-reduire-la-dependance-de-la-chine-au-fer-australien/)
-- [Au Burkina Faso, la radio de l’AES reprend la fréquence de RFI](https://www.jeuneafrique.com/1750848/economie-entreprises/au-burkina-faso-la-radio-de-laes-reprend-la-frequence-de-rfi/)
+- [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
+- [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/?p=1751644)
+- [Bassirou Diomaye Faye-Ousmane Sonko : du duo au duel au sommet de l’État ?](https://www.jeuneafrique.com/1751365/politique/bassirou-diomaye-faye-ousmane-sonko-du-duo-au-duel-au-sommet-de-letat/)
+- [Putsch manqué au Bénin : l’ancien ministre Candide Azannaï placé sous mandat de dépôt](https://www.jeuneafrique.com/1751634/politique/putsch-manque-au-benin-lancien-ministre-candide-azannai-place-sous-mandat-de-depot/)
+- [RDC : le mandat de la Monusco prolongé d’un an](https://www.jeuneafrique.com/1751631/politique/rdc-le-mandat-de-la-monusco-prolonge-dun-an/)
+- [Le projet de loi criminalisant la colonisation examiné par les députés algériens](https://www.jeuneafrique.com/1750754/politique/le-projet-de-loi-criminalisant-la-colonisation-examine-par-les-deputes-algeriens/)
+- [Du Cameroun au Cap-Vert, récit de l’opposant Fabrice Lena, évadé de la prison de Douala](https://www.jeuneafrique.com/1750367/politique/du-cameroun-au-cap-vert-recit-de-lopposant-fabrice-lena-evade-de-la-prison-de-douala/)
+- [Guinée, Centrafrique et Côte d’Ivoire aux urnes, les 100 jours de Sidi Ould Tah et le coup d’envoi de la CAN : les 5 infos qu’il fallait retenir](https://www.jeuneafrique.com/1751212/politique/guinee-centrafrique-et-cote-divoire-aux-urnes-les-100-jours-de-sidi-ould-tah-et-le-coup-denvoi-de-la-can-les-5-infos-quil-fallait-retenir/)
+- [Sébastien Abis : « Le continent mène plusieurs révolutions agricoles de front »](https://www.jeuneafrique.com/1749021/economie-entreprises/sebastien-abis-le-continent-mene-plusieurs-revolutions-agricoles-de-front/)
+- [Pourquoi le Sénégal veut rapidement tourner la page de Kosmos Energy](https://www.jeuneafrique.com/1750523/economie-entreprises/pourquoi-le-senegal-veut-rapidement-tourner-la-page-de-kosmos-energy/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
