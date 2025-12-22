@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Dec 2025, 13:27*
+*Generato: 22 Dec 2025, 15:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
 - [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/?p=1751644)
 - [En Algérie, le film sur l’émir Abdelkader tourne à l’affaire d’État](https://www.jeuneafrique.com/1748367/politique/en-algerie-le-film-sur-lemir-abdelkader-tourne-a-laffaire-detat/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh, l’omniprésent](https://www.jeuneafrique.com/1747171/politique/presidentielle-a-djibouti-ismail-omar-guelleh-lomnipresent/)
@@ -271,7 +272,6 @@
 - [Comment la Chine est devenue le premier fournisseur d’armes d’Afrique de l’Ouest](https://www.jeuneafrique.com/1749843/politique/comment-la-chine-est-devenue-le-premier-fournisseur-darmes-dafrique-de-louest/)
 - [Putsch manqué au Bénin : l’ancien ministre Candide Azannaï placé sous mandat de dépôt](https://www.jeuneafrique.com/1751634/politique/putsch-manque-au-benin-lancien-ministre-candide-azannai-place-sous-mandat-de-depot/)
 - [RDC : le mandat de la Monusco prolongé d’un an](https://www.jeuneafrique.com/1751631/politique/rdc-le-mandat-de-la-monusco-prolonge-dun-an/)
-- [Le projet de loi criminalisant la colonisation examiné par les députés algériens](https://www.jeuneafrique.com/1750754/politique/le-projet-de-loi-criminalisant-la-colonisation-examine-par-les-deputes-algeriens/)
 - [Sébastien Abis : « Le continent mène plusieurs révolutions agricoles de front »](https://www.jeuneafrique.com/1749021/economie-entreprises/sebastien-abis-le-continent-mene-plusieurs-revolutions-agricoles-de-front/)
 - [Pourquoi le Sénégal veut rapidement tourner la page de Kosmos Energy](https://www.jeuneafrique.com/1750523/economie-entreprises/pourquoi-le-senegal-veut-rapidement-tourner-la-page-de-kosmos-energy/)
 
