@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Dec 2025, 06:16*
+*Generato: 23 Dec 2025, 09:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -266,14 +266,14 @@
 
 - [En Centrafrique, flop des monnaies virtuelles, pour floraison du crime réel ?](https://www.jeuneafrique.com/1751809/politique/en-centrafrique-flop-des-monnaies-virtuelles-pour-floraison-du-crime-reel/)
 - [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
-- [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/?p=1751644)
+- [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
+- [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/1751644/politique/soudan-une-frappe-de-drone-sur-un-marche-fait-10-morts/)
 - [En Algérie, le film sur l’émir Abdelkader tourne à l’affaire d’État](https://www.jeuneafrique.com/1748367/politique/en-algerie-le-film-sur-lemir-abdelkader-tourne-a-laffaire-detat/)
 - [Législatives en Côte d’Ivoire : le boycott, un pari risqué pour Laurent Gbagbo](https://www.jeuneafrique.com/1751535/politique/legislatives-en-cote-divoire-le-boycott-un-pari-risque-pour-laurent-gbagbo/)
 - [Présidentielle à Djibouti : Ismaïl Omar Guelleh, l’omniprésent](https://www.jeuneafrique.com/1747171/politique/presidentielle-a-djibouti-ismail-omar-guelleh-lomnipresent/)
 - [Bassirou Diomaye Faye-Ousmane Sonko : du duo au duel au sommet de l’État ?](https://www.jeuneafrique.com/1751365/politique/bassirou-diomaye-faye-ousmane-sonko-du-duo-au-duel-au-sommet-de-letat/)
-- [Comment la Chine est devenue le premier fournisseur d’armes d’Afrique de l’Ouest](https://www.jeuneafrique.com/1749843/politique/comment-la-chine-est-devenue-le-premier-fournisseur-darmes-dafrique-de-louest/)
 - [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
-- [Comment le Cameroun modère les ambitions de Starlink sur la connexion mobile](https://www.jeuneafrique.com/1751545/economie-entreprises/comment-le-cameroun-modere-les-ambitions-de-starlink-sur-la-connexion-mobile/)
+- [Serigne Moussa Dia : « Les Sénégalais sont-ils prêts à se serrer encore plus la ceinture ? »](https://www.jeuneafrique.com/1745564/economie-entreprises/serigne-moussa-dia-les-senegalais-sont-ils-prets-a-se-serrer-encore-plus-la-ceinture/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
