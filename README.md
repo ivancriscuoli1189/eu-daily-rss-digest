@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Dec 2025, 09:15*
+*Generato: 23 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’appel de l’imam Dicko aux Maliens : « Levez-vous, réunissons-nous »](https://www.jeuneafrique.com/1752094/politique/lappel-de-limam-dicko-aux-maliens-levez-vous-reunissons-nous/)
+- [Présidentielle en Centrafrique : pour Henri-Marie Dondra, « le changement, c’est maintenant »](https://www.jeuneafrique.com/1751243/politique/presidentielle-en-centrafrique-pour-henri-marie-dondra-le-changement-cest-maintenant/)
 - [En Centrafrique, flop des monnaies virtuelles, pour floraison du crime réel ?](https://www.jeuneafrique.com/1751809/politique/en-centrafrique-flop-des-monnaies-virtuelles-pour-floraison-du-crime-reel/)
 - [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
+- [Patrice Talon, un ovni politique en Afrique – par Marwane Ben Yahmed](https://www.jeuneafrique.com/1749470/politique/patrice-talon-un-ovni-politique-en-afrique-par-marwane-ben-yahmed/)
 - [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
 - [Soudan : une frappe de drone sur un marché fait 10 morts](https://www.jeuneafrique.com/1751644/politique/soudan-une-frappe-de-drone-sur-un-marche-fait-10-morts/)
 - [En Algérie, le film sur l’émir Abdelkader tourne à l’affaire d’État](https://www.jeuneafrique.com/1748367/politique/en-algerie-le-film-sur-lemir-abdelkader-tourne-a-laffaire-detat/)
-- [Législatives en Côte d’Ivoire : le boycott, un pari risqué pour Laurent Gbagbo](https://www.jeuneafrique.com/1751535/politique/legislatives-en-cote-divoire-le-boycott-un-pari-risque-pour-laurent-gbagbo/)
-- [Présidentielle à Djibouti : Ismaïl Omar Guelleh, l’omniprésent](https://www.jeuneafrique.com/1747171/politique/presidentielle-a-djibouti-ismail-omar-guelleh-lomnipresent/)
-- [Bassirou Diomaye Faye-Ousmane Sonko : du duo au duel au sommet de l’État ?](https://www.jeuneafrique.com/1751365/politique/bassirou-diomaye-faye-ousmane-sonko-du-duo-au-duel-au-sommet-de-letat/)
 - [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
 - [Serigne Moussa Dia : « Les Sénégalais sont-ils prêts à se serrer encore plus la ceinture ? »](https://www.jeuneafrique.com/1745564/economie-entreprises/serigne-moussa-dia-les-senegalais-sont-ils-prets-a-se-serrer-encore-plus-la-ceinture/)
 
