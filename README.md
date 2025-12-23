@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Dec 2025, 13:29*
+*Generato: 23 Dec 2025, 15:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,8 +272,8 @@
 - [Législatives en Côte d’Ivoire : Adama Bictogo et Dia Houphouët à l’assaut de Yopougon](https://www.jeuneafrique.com/1751750/politique/legislatives-en-cote-divoire-adama-bictogo-et-dia-houphouet-a-lassaut-de-yopougon/)
 - [Patrice Talon, un ovni politique en Afrique – par Marwane Ben Yahmed](https://www.jeuneafrique.com/1749470/politique/patrice-talon-un-ovni-politique-en-afrique-par-marwane-ben-yahmed/)
 - [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
-- [Cobalt : pourquoi la RDC remet ses exportations en jeu](https://www.jeuneafrique.com/1752243/economie-entreprises/cobalt-pourquoi-la-rdc-remet-ses-exportations-en-jeu/)
 - [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
+- [Serigne Moussa Dia : « Les Sénégalais sont-ils prêts à se serrer encore plus la ceinture ? »](https://www.jeuneafrique.com/1745564/economie-entreprises/serigne-moussa-dia-les-senegalais-sont-ils-prets-a-se-serrer-encore-plus-la-ceinture/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
