@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Dec 2025, 15:10*
+*Generato: 23 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, Noureddine Tabboubi, le chef de l’UGTT, présente sa démission](https://www.jeuneafrique.com/1752410/politique/en-tunisie-noureddine-tabboubi-le-chef-de-lugtt-presente-sa-demission/)
 - [L’appel de l’imam Dicko aux Maliens : « Levez-vous, réunissons-nous »](https://www.jeuneafrique.com/1752094/politique/lappel-de-limam-dicko-aux-maliens-levez-vous-reunissons-nous/)
+- [Cameroun : Maurice Kamto de retour à la tête du MRC, un nouvel élan pour le parti ?](https://www.jeuneafrique.com/1751852/politique/cameroun-maurice-kamto-de-retour-a-la-tete-du-mrc-un-nouvel-elan-pour-le-parti/)
 - [L’oléoduc entre le Niger et le Bénin à nouveau paralysé par un sabotage](https://www.jeuneafrique.com/1751909/politique/loleoduc-entre-le-niger-et-le-benin-a-nouveau-paralyse-par-un-sabotage/)
 - [Présidentielle en Centrafrique : pour Henri-Marie Dondra, « le changement, c’est maintenant »](https://www.jeuneafrique.com/1751243/politique/presidentielle-en-centrafrique-pour-henri-marie-dondra-le-changement-cest-maintenant/)
 - [En Centrafrique, flop des monnaies virtuelles, pour floraison du crime réel ?](https://www.jeuneafrique.com/1751809/politique/en-centrafrique-flop-des-monnaies-virtuelles-pour-floraison-du-crime-reel/)
 - [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
 - [Législatives en Côte d’Ivoire : Adama Bictogo et Dia Houphouët à l’assaut de Yopougon](https://www.jeuneafrique.com/1751750/politique/legislatives-en-cote-divoire-adama-bictogo-et-dia-houphouet-a-lassaut-de-yopougon/)
-- [Patrice Talon, un ovni politique en Afrique – par Marwane Ben Yahmed](https://www.jeuneafrique.com/1749470/politique/patrice-talon-un-ovni-politique-en-afrique-par-marwane-ben-yahmed/)
-- [Fuite d’Issa Tchiroma Bakary : l’armée camerounaise cherche encore les responsables](https://www.jeuneafrique.com/1751085/politique/fuite-dissa-tchiroma-bakary-larmee-camerounaise-cherche-encore-les-responsables/)
+- [Cobalt : pourquoi la RDC remet ses exportations en jeu](https://www.jeuneafrique.com/1752243/economie-entreprises/cobalt-pourquoi-la-rdc-remet-ses-exportations-en-jeu/)
 - [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
-- [Serigne Moussa Dia : « Les Sénégalais sont-ils prêts à se serrer encore plus la ceinture ? »](https://www.jeuneafrique.com/1745564/economie-entreprises/serigne-moussa-dia-les-senegalais-sont-ils-prets-a-se-serrer-encore-plus-la-ceinture/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
