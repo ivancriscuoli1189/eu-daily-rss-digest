@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Dec 2025, 06:16*
+*Generato: 24 Dec 2025, 09:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Tunisie, Noureddine Tabboubi, le chef de l’UGTT, présente sa démission](https://www.jeuneafrique.com/1752410/politique/en-tunisie-noureddine-tabboubi-le-chef-de-lugtt-presente-sa-demission/)
+- [5 questions pour comprendre la présidentielle en Guinée et ses enjeux](https://www.jeuneafrique.com/1752066/politique/cinq-questions-pour-comprendre-la-presidentielle-en-guinee-et-ses-enjeux/)
+- [Sommet de l’AES : les raisons du retard du capitaine Ibrahim Traoré](https://www.jeuneafrique.com/1752131/politique/sommet-de-laes-les-raisons-du-retard-du-capitaine-ibrahim-traore/)
+- [Du chérif Raïssouni à Clément Besneville, ces enlèvements qui ont défrayé la chronique au Maroc](https://www.jeuneafrique.com/1748617/politique/du-cherif-raissouni-a-clement-besneville-ces-enlevements-qui-ont-defraye-la-chronique-au-maroc/)
 - [L’appel de l’imam Dicko aux Maliens : « Levez-vous, réunissons-nous »](https://www.jeuneafrique.com/1752094/politique/lappel-de-limam-dicko-aux-maliens-levez-vous-reunissons-nous/)
 - [En Côte d’Ivoire, Tidjane Thiam a-t-il encore un avenir politique ?](https://www.jeuneafrique.com/1746930/politique/en-cote-divoire-tidjane-thiam-a-t-il-encore-un-avenir-politique/)
 - [Cameroun : Maurice Kamto de retour à la tête du MRC, un nouvel élan pour le parti ?](https://www.jeuneafrique.com/1751852/politique/cameroun-maurice-kamto-de-retour-a-la-tete-du-mrc-un-nouvel-elan-pour-le-parti/)
 - [L’oléoduc entre le Niger et le Bénin à nouveau paralysé par un sabotage](https://www.jeuneafrique.com/1751909/politique/loleoduc-entre-le-niger-et-le-benin-a-nouveau-paralyse-par-un-sabotage/)
-- [Présidentielle en Centrafrique : pour Henri-Marie Dondra, « le changement, c’est maintenant »](https://www.jeuneafrique.com/1751243/politique/presidentielle-en-centrafrique-pour-henri-marie-dondra-le-changement-cest-maintenant/)
-- [En Centrafrique, flop des monnaies virtuelles, pour floraison du crime réel ?](https://www.jeuneafrique.com/1751809/politique/en-centrafrique-flop-des-monnaies-virtuelles-pour-floraison-du-crime-reel/)
-- [Est de la RDC : affrontements aux abords d’Uvira après le retrait annoncé du M23](https://www.jeuneafrique.com/1751799/politique/est-de-la-rdc-affrontements-aux-abords-duvira-apres-le-retrait-annonce-du-m23/)
+- [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 - [Cobalt : pourquoi la RDC remet ses exportations en jeu](https://www.jeuneafrique.com/1752243/economie-entreprises/cobalt-pourquoi-la-rdc-remet-ses-exportations-en-jeu/)
-- [Ismael Belkhayat (Chari) : « En Afrique, la souveraineté financière est une condition de l’inclusion »](https://www.jeuneafrique.com/1751826/economie-entreprises/ismael-belkhayat-chari-en-afrique-la-souverainete-financiere-est-une-condition-de-linclusion/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
