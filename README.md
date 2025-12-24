@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Dec 2025, 18:15*
+*Generato: 24 Dec 2025, 21:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La France impose un nouvel examen civique aux étrangers :...](https://www.lapresse.tn/2025/12/19/la-france-impose-un-nouvel-examen-civique-aux-etrangers-les-details/)
-- [Tourisme : feu vert pour relancer le mégaprojet Costa Coralis](https://www.lapresse.tn/2025/12/19/tourisme-feu-vert-pour-relancer-le-megaprojet-costa-coralis/)
+- [CAB : Stage de Sousse écourté ? !](https://www.lapresse.tn/2025/12/24/cab-stage-de-sousse-ecourte/)
+- [Journées cinématographiques de Carthage – « The Other… Raeburn »,...](https://www.lapresse.tn/2025/12/24/journees-cinematographiques-de-carthage-the-other-raeburn-de-david-pierre-fila-un-etre-de-rupture/)
 
 ## NGOs – Amnesty International – Tunisia
 
