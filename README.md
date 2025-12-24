@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Dec 2025, 11:09*
+*Generato: 24 Dec 2025, 13:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Turquie, plusieurs responsables militaires libyens meurent dans un accident d’avion](https://www.jeuneafrique.com/1752482/politique/en-turquie-plusieurs-responsables-militaires-libyens-meurent-dans-un-accident-davion/)
-- [Algérie : le Parlement algérien se prononce sur un texte qualifiant la colonisation française de « crime d’État »](https://www.jeuneafrique.com/1752472/politique/algerie-le-parlement-algerien-se-prononce-sur-un-texte-qualifiant-la-colonisation-francaise-de-crime-detat/)
+- [Algérie : le Parlement se prononce sur un texte qualifiant la colonisation française de « crime d’État »](https://www.jeuneafrique.com/1752472/politique/algerie-le-parlement-algerien-se-prononce-sur-un-texte-qualifiant-la-colonisation-francaise-de-crime-detat/)
+- [Au Sénégal, Ousmane Sonko demande la révision de son procès contre Mame Mbaye Niang](https://www.jeuneafrique.com/1752087/politique/au-senegal-ousmane-sonko-demande-la-revision-de-son-proces-contre-mame-mbaye-niang/)
 - [En Tunisie, Noureddine Tabboubi, le chef de l’UGTT, présente sa démission](https://www.jeuneafrique.com/1752410/politique/en-tunisie-noureddine-tabboubi-le-chef-de-lugtt-presente-sa-demission/)
 - [5 questions pour comprendre la présidentielle en Guinée et ses enjeux](https://www.jeuneafrique.com/1752066/politique/cinq-questions-pour-comprendre-la-presidentielle-en-guinee-et-ses-enjeux/)
 - [Sommet de l’AES : les raisons du retard du capitaine Ibrahim Traoré](https://www.jeuneafrique.com/1752131/politique/sommet-de-laes-les-raisons-du-retard-du-capitaine-ibrahim-traore/)
 - [Du chérif Raïssouni à Clément Besneville, ces enlèvements qui ont défrayé la chronique au Maroc](https://www.jeuneafrique.com/1748617/politique/du-cherif-raissouni-a-clement-besneville-ces-enlevements-qui-ont-defraye-la-chronique-au-maroc/)
 - [L’appel de l’imam Dicko aux Maliens : « Levez-vous, réunissons-nous »](https://www.jeuneafrique.com/1752094/politique/lappel-de-limam-dicko-aux-maliens-levez-vous-reunissons-nous/)
-- [En Côte d’Ivoire, Tidjane Thiam a-t-il encore un avenir politique ?](https://www.jeuneafrique.com/1746930/politique/en-cote-divoire-tidjane-thiam-a-t-il-encore-un-avenir-politique/)
 - [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 - [Cobalt : pourquoi la RDC remet ses exportations en jeu](https://www.jeuneafrique.com/1752243/economie-entreprises/cobalt-pourquoi-la-rdc-remet-ses-exportations-en-jeu/)
 
