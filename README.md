@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Dec 2025, 06:16*
+*Generato: 25 Dec 2025, 09:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -267,11 +267,11 @@
 - [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
 - [En Turquie, plusieurs responsables militaires libyens meurent dans un accident d’avion](https://www.jeuneafrique.com/1752482/politique/en-turquie-plusieurs-responsables-militaires-libyens-meurent-dans-un-accident-davion/)
 - [Le Parlement algérien adopte à l’unanimité une loi criminalisant la colonisation française](https://www.jeuneafrique.com/1752472/politique/algerie-le-parlement-algerien-se-prononce-sur-un-texte-qualifiant-la-colonisation-francaise-de-crime-detat/)
-- [Bokassa à Jeune Afrique en 1984 : « Mes 17 épouses m’ont toutes abandonné »](https://www.jeuneafrique.com/1724680/politique/bokassa-a-jeune-afrique-en-1984-mes-17-epouses-mont-toutes-abandonne/)
+- [Comment la « guerre froide » entre la Cedeao et l’AES favorise l’expansion jihadiste](https://www.jeuneafrique.com/1751929/politique/comment-la-guerre-froide-entre-la-cedeao-et-laes-favorise-lexpansion-jihadiste/)
+- [« Il est en danger de mort » : l’épouse du Camerounais Djeukam Tchameni raconte la détention de son mari](https://www.jeuneafrique.com/1750885/politique/il-est-en-danger-de-mort-lepouse-du-camerounais-djeukam-tchameni-raconte-la-detention-de-son-mari/)
 - [AES : ce qu’il faut retenir du sommet entre Ibrahim Traoré, Assimi Goïta et Abdourahamane Tiani](https://www.jeuneafrique.com/1752409/politique/aes-ce-quil-faut-retenir-du-sommet-entre-assimi-goita-ibrahim-traore-et-abdourahamane-tiani/)
 - [Au Sénégal, Ousmane Sonko demande la révision de son procès contre Mame Mbaye Niang](https://www.jeuneafrique.com/1752087/politique/au-senegal-ousmane-sonko-demande-la-revision-de-son-proces-contre-mame-mbaye-niang/)
 - [En Tunisie, Noureddine Tabboubi, le chef de l’UGTT, présente sa démission](https://www.jeuneafrique.com/1752410/politique/en-tunisie-noureddine-tabboubi-le-chef-de-lugtt-presente-sa-demission/)
-- [5 questions pour comprendre la présidentielle en Guinée et ses enjeux](https://www.jeuneafrique.com/1752066/politique/cinq-questions-pour-comprendre-la-presidentielle-en-guinee-et-ses-enjeux/)
 - [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
 - [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 
