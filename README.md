@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Dec 2025, 09:13*
+*Generato: 25 Dec 2025, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [CAB : Stage de Sousse écourté ? !](https://www.lapresse.tn/2025/12/24/cab-stage-de-sousse-ecourte/)
-- [Journées cinématographiques de Carthage – « The Other… Raeburn »,...](https://www.lapresse.tn/2025/12/24/journees-cinematographiques-de-carthage-the-other-raeburn-de-david-pierre-fila-un-etre-de-rupture/)
+- [Huile d’olive : Le syndicat des agriculteurs dénonce des prix...](https://www.lapresse.tn/2025/12/25/huile-dolive-le-syndicat-des-agriculteurs-denonce-des-prix-deconnectes-de-la-realite/)
+- [Hammam Chott : arrestation d’un dangereux trafiquant de drogue](https://www.lapresse.tn/2025/12/25/hammam-chott-arrestation-dun-dangereux-trafiquant-de-drogue/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
 - [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
 - [En Turquie, plusieurs responsables militaires libyens meurent dans un accident d’avion](https://www.jeuneafrique.com/1752482/politique/en-turquie-plusieurs-responsables-militaires-libyens-meurent-dans-un-accident-davion/)
 - [Le Parlement algérien adopte à l’unanimité une loi criminalisant la colonisation française](https://www.jeuneafrique.com/1752472/politique/algerie-le-parlement-algerien-se-prononce-sur-un-texte-qualifiant-la-colonisation-francaise-de-crime-detat/)
-- [Comment la « guerre froide » entre la Cedeao et l’AES favorise l’expansion jihadiste](https://www.jeuneafrique.com/1751929/politique/comment-la-guerre-froide-entre-la-cedeao-et-laes-favorise-lexpansion-jihadiste/)
+- [Bokassa à Jeune Afrique en 1984 : « Mes 17 épouses m’ont toutes abandonné »](https://www.jeuneafrique.com/1724680/politique/bokassa-a-jeune-afrique-en-1984-mes-17-epouses-mont-toutes-abandonne/)
 - [« Il est en danger de mort » : l’épouse du Camerounais Djeukam Tchameni raconte la détention de son mari](https://www.jeuneafrique.com/1750885/politique/il-est-en-danger-de-mort-lepouse-du-camerounais-djeukam-tchameni-raconte-la-detention-de-son-mari/)
 - [AES : ce qu’il faut retenir du sommet entre Ibrahim Traoré, Assimi Goïta et Abdourahamane Tiani](https://www.jeuneafrique.com/1752409/politique/aes-ce-quil-faut-retenir-du-sommet-entre-assimi-goita-ibrahim-traore-et-abdourahamane-tiani/)
 - [Au Sénégal, Ousmane Sonko demande la révision de son procès contre Mame Mbaye Niang](https://www.jeuneafrique.com/1752087/politique/au-senegal-ousmane-sonko-demande-la-revision-de-son-proces-contre-mame-mbaye-niang/)
-- [En Tunisie, Noureddine Tabboubi, le chef de l’UGTT, présente sa démission](https://www.jeuneafrique.com/1752410/politique/en-tunisie-noureddine-tabboubi-le-chef-de-lugtt-presente-sa-demission/)
 - [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
 - [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 
