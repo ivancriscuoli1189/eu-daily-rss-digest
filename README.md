@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Dec 2025, 06:16*
+*Generato: 26 Dec 2025, 09:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, René Emmanuel Sadi ou le malaise d’un baron révolté](https://www.jeuneafrique.com/1750104/politique/au-cameroun-rene-emmanuel-sadi-ou-le-malaise-dun-baron-revolte/)
 - [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
+- [« Sa disparition a laissé un grand vide » : il y a cinq ans, la mort de Soumaïla Cissé](https://www.jeuneafrique.com/1747711/politique/sa-disparition-a-laisse-un-grand-vide-il-y-a-cinq-ans-la-mort-de-soumaila-cisse/)
+- [États-Unis – Afrique : Donald Trump, une année de politique africaine imprévisible](https://www.jeuneafrique.com/1752314/politique/etats-unis-afrique-donald-trump-une-annee-de-politique-africaine-imprevisible/)
+- [Bénin : l’opposition fera-t-elle les frais du putsch manqué contre Patrice Talon ?](https://www.jeuneafrique.com/1751748/politique/benin-lopposition-fera-t-elle-les-frais-du-putsch-manque-contre-patrice-talon/)
 - [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
+- [Côte d’Ivoire – Kandia Camara : « Je ne renonce pas à Abobo, j’en suis la maire et je le reste »](https://www.jeuneafrique.com/1751759/politique/cote-divoire-kandia-camara-je-ne-renonce-pas-a-abobo-jen-suis-la-maire-et-je-le-reste/)
 - [En Turquie, plusieurs responsables militaires libyens meurent dans un accident d’avion](https://www.jeuneafrique.com/1752482/politique/en-turquie-plusieurs-responsables-militaires-libyens-meurent-dans-un-accident-davion/)
 - [Le Parlement algérien adopte à l’unanimité une loi criminalisant la colonisation française](https://www.jeuneafrique.com/1752472/politique/algerie-le-parlement-algerien-se-prononce-sur-un-texte-qualifiant-la-colonisation-francaise-de-crime-detat/)
-- [Bokassa à Jeune Afrique en 1984 : « Mes 17 épouses m’ont toutes abandonné »](https://www.jeuneafrique.com/1724680/politique/bokassa-a-jeune-afrique-en-1984-mes-17-epouses-mont-toutes-abandonne/)
-- [Comment la « guerre froide » entre la Cedeao et l’AES favorise l’expansion jihadiste](https://www.jeuneafrique.com/1751929/politique/comment-la-guerre-froide-entre-la-cedeao-et-laes-favorise-lexpansion-jihadiste/)
-- [« Il est en danger de mort » : l’épouse du Camerounais Djeukam Tchameni raconte la détention de son mari](https://www.jeuneafrique.com/1750885/politique/il-est-en-danger-de-mort-lepouse-du-camerounais-djeukam-tchameni-raconte-la-detention-de-son-mari/)
 - [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
 - [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 
