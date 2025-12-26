@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Dec 2025, 15:10*
+*Generato: 26 Dec 2025, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,19 +223,6 @@
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 
-## THINK TANK – ECFR – MENA
-
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
-- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
-- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Reconnaissance du Somaliland par Israël : la république autoproclamée salue « un moment historique »](https://www.jeuneafrique.com/1752766/politique/reconnaissance-du-somaliland-par-israel-la-republique-autoproclamee-salue-un-moment-historique/)
+- [Intervention militaire des États-Unis au Nigeria : Abuja évoque d’autres frappes dans le cadre d’opérations « conjointes »](https://www.jeuneafrique.com/1752718/politique/intervention-militaire-des-etats-unis-au-nigeria-abuja-evoque-dautres-frappes-dans-le-cadre-doperations-conjointes/)
 - [Présidentielle en Guinée : dernier bain de foule pour Mamadi Doumbouya avant le scrutin](https://www.jeuneafrique.com/1752578/politique/presidentielle-en-guinee-dernier-bain-de-foule-pour-mamadi-doumbouya-avant-le-scrutin/)
 - [« Les bombes pleuvaient sur nous » : des milliers de Congolais fuient les combats dans l’est de la RDC](https://www.jeuneafrique.com/1752571/politique/les-bombes-pleuvaient-sur-nous-des-milliers-de-congolais-fuient-les-combats-dans-lest-de-la-rdc/)
+- [Nigeria : les États-Unis annoncent avoir mené des frappes meurtrières contre l’État islamique dans l’État de Sokoto](https://www.jeuneafrique.com/1752560/politique/nigeria-les-etats-unis-annoncent-avoir-mene-des-frappes-meurtrieres-contre-letat-islamique-dans-letat-de-sokoto/)
 - [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
 - [Au Cameroun, Paul Biya a-t-il définitivement perdu l’Église ?](https://www.jeuneafrique.com/1752419/politique/au-cameroun-paul-biya-a-t-il-definitivement-perdu-leglise/)
 - [« Sa disparition a laissé un grand vide » : il y a cinq ans, la mort de Soumaïla Cissé](https://www.jeuneafrique.com/1747711/politique/sa-disparition-a-laisse-un-grand-vide-il-y-a-cinq-ans-la-mort-de-soumaila-cisse/)
-- [États-Unis – Afrique : Donald Trump, une année de politique africaine imprévisible](https://www.jeuneafrique.com/1752314/politique/etats-unis-afrique-donald-trump-une-annee-de-politique-africaine-imprevisible/)
-- [Bénin : l’opposition fera-t-elle les frais du putsch manqué contre Patrice Talon ?](https://www.jeuneafrique.com/1751748/politique/benin-lopposition-fera-t-elle-les-frais-du-putsch-manque-contre-patrice-talon/)
-- [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
+- [Franc CFA, dirham, naira, franc congolais… En 2025, les monnaies africaines ont repris des couleurs](https://www.jeuneafrique.com/1752119/economie-entreprises/franc-cfa-dirham-naira-franc-congolais-en-2025-les-monnaies-africaines-ont-repris-des-couleurs/)
 - [10 choses à savoir sur Aboubakar Nacanabo, ministre burkinabè de l’Économie, des Finances et de la Prospective](https://www.jeuneafrique.com/1746663/economie-entreprises/10-choses-a-savoir-sur-aboubakar-nacanabo-ministre-burkinabe-de-leconomie-des-finances-et-de-la-prospective/)
-- [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
