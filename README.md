@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Dec 2025, 11:09*
+*Generato: 26 Dec 2025, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Présidentielle en Guinée : dernier bain de foule pour Mamadi Doumbouya avant le scrutin](https://www.jeuneafrique.com/1752578/politique/presidentielle-en-guinee-dernier-bain-de-foule-pour-mamadi-doumbouya-avant-le-scrutin/)
-- [« Les bombes pleuvaient sur nous » : des milliers de Congolais fuient les combats dans l’Est de la RDC](https://www.jeuneafrique.com/1752571/politique/les-bombes-pleuvaient-sur-nous-des-milliers-de-congolais-fuient-les-combats-dans-lest-de-la-rdc/)
+- [« Les bombes pleuvaient sur nous » : des milliers de Congolais fuient les combats dans l’est de la RDC](https://www.jeuneafrique.com/1752571/politique/les-bombes-pleuvaient-sur-nous-des-milliers-de-congolais-fuient-les-combats-dans-lest-de-la-rdc/)
 - [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
+- [Au Cameroun, Paul Biya a-t-il définitivement perdu l’Église ?](https://www.jeuneafrique.com/1752419/politique/au-cameroun-paul-biya-a-t-il-definitivement-perdu-leglise/)
 - [« Sa disparition a laissé un grand vide » : il y a cinq ans, la mort de Soumaïla Cissé](https://www.jeuneafrique.com/1747711/politique/sa-disparition-a-laisse-un-grand-vide-il-y-a-cinq-ans-la-mort-de-soumaila-cisse/)
 - [États-Unis – Afrique : Donald Trump, une année de politique africaine imprévisible](https://www.jeuneafrique.com/1752314/politique/etats-unis-afrique-donald-trump-une-annee-de-politique-africaine-imprevisible/)
 - [Bénin : l’opposition fera-t-elle les frais du putsch manqué contre Patrice Talon ?](https://www.jeuneafrique.com/1751748/politique/benin-lopposition-fera-t-elle-les-frais-du-putsch-manque-contre-patrice-talon/)
 - [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
-- [Côte d’Ivoire – Kandia Camara : « Je ne renonce pas à Abobo, j’en suis la maire et je le reste »](https://www.jeuneafrique.com/1751759/politique/cote-divoire-kandia-camara-je-ne-renonce-pas-a-abobo-jen-suis-la-maire-et-je-le-reste/)
+- [10 choses à savoir sur Aboubakar Nacanabo, ministre burkinabè de l’Économie, des Finances et de la Prospective](https://www.jeuneafrique.com/1746663/economie-entreprises/10-choses-a-savoir-sur-aboubakar-nacanabo-ministre-burkinabe-de-leconomie-des-finances-et-de-la-prospective/)
 - [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
-- [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
