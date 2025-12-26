@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Dec 2025, 21:09*
+*Generato: 26 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, René Emmanuel Sadi ou le malaise d’un baron révolté](https://www.jeuneafrique.com/1750104/politique/au-cameroun-rene-emmanuel-sadi-ou-le-malaise-dun-baron-revolte/)
 - [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
 - [Trump fait valser les ambassadeurs en Afrique](https://www.jeuneafrique.com/1752250/politique/trump-fait-valser-les-ambassadeurs-en-afrique/)
 - [En Turquie, plusieurs responsables militaires libyens meurent dans un accident d’avion](https://www.jeuneafrique.com/1752482/politique/en-turquie-plusieurs-responsables-militaires-libyens-meurent-dans-un-accident-davion/)
@@ -271,7 +272,6 @@
 - [Bokassa à Jeune Afrique en 1984 : « Mes 17 épouses m’ont toutes abandonné »](https://www.jeuneafrique.com/1724680/politique/bokassa-a-jeune-afrique-en-1984-mes-17-epouses-mont-toutes-abandonne/)
 - [Comment la « guerre froide » entre la Cedeao et l’AES favorise l’expansion jihadiste](https://www.jeuneafrique.com/1751929/politique/comment-la-guerre-froide-entre-la-cedeao-et-laes-favorise-lexpansion-jihadiste/)
 - [« Il est en danger de mort » : l’épouse du Camerounais Djeukam Tchameni raconte la détention de son mari](https://www.jeuneafrique.com/1750885/politique/il-est-en-danger-de-mort-lepouse-du-camerounais-djeukam-tchameni-raconte-la-detention-de-son-mari/)
-- [AES : ce qu’il faut retenir du sommet entre Ibrahim Traoré, Assimi Goïta et Abdourahamane Tiani](https://www.jeuneafrique.com/1752409/politique/aes-ce-quil-faut-retenir-du-sommet-entre-assimi-goita-ibrahim-traore-et-abdourahamane-tiani/)
 - [Vivek Badrinath (GSMA) : « Le potentiel du mobile money va bien au-delà de ce que l’on observe actuellement »](https://www.jeuneafrique.com/1746095/economie-entreprises/vivek-badrinath-gsma-le-potentiel-du-mobile-money-va-bien-au-dela-de-ce-que-lon-observe-actuellement/)
 - [En perte de vitesse, le pétrole gabonais peut-il redevenir attrayant ?](https://www.jeuneafrique.com/1752267/economie-entreprises/en-perte-de-vitesse-le-petrole-gabonais-peut-il-redevenir-attrayant/)
 
