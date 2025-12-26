@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Dec 2025, 18:15*
+*Generato: 26 Dec 2025, 21:08*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -222,6 +222,19 @@
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 - [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
+
+## THINK TANK – ECFR – MENA
+
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
+- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
+- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
+- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
+- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
+- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
+- [The mirage of resilience: Why energy markets cannot shake off the Middle East risk](https://ecfr.eu/article/the-mirage-of-resilience-why-energy-markets-cannot-shake-off-the-middle-east-risk/)
+- [Staatsräson: How Germany’s Israel policy hobbles EU strategy](https://ecfr.eu/article/staatsrason-how-germanys-israel-policy-hobbles-eu-strategy/)
+- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
 
 ## THINK TANK – CESPI – Attualità
 
