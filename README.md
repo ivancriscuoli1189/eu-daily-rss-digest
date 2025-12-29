@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Dec 2025, 09:19*
+*Generato: 29 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -268,12 +268,12 @@
 - [En Ouganda, sur qui s’appuie Yoweri Museveni pour rester au pouvoir](https://www.jeuneafrique.com/1750786/politique/en-ouganda-sur-qui-sappuie-yoweri-museveni-pour-rester-au-pouvoir/)
 - [Élections en Éthiopie et en Somalie, le Burundi à la tête de l’UA … En 2026, la température monte en Afrique de l’Est](https://www.jeuneafrique.com/1748242/politique/elections-en-ethiopie-et-en-somalie-le-burundi-a-la-tete-de-lua-en-2026-la-temperature-monte-en-afrique-de-lest/)
 - [L’armée tchadienne qualifie d’« agression injustifiée » une attaque de paramilitaires soudanais](https://www.jeuneafrique.com/1752853/politique/larmee-tchadienne-qualifie-d-agression-injustifiee-une-attaque-de-paramilitaires-soudanais/)
+- [« Participer, ce serait cautionner la gouvernance de Doumbouya » : en Guinée, les partis historiques mis au ban de la présidentielle](https://www.jeuneafrique.com/1752811/politique/participer-ce-serait-cautionner-la-gouvernance-de-doumbouya-en-guinee-les-partis-historiques-mis-au-ban-de-la-presidentielle/)
 - [Gen Z, VDP, Trump, cobalt, paludisme… L’année 2025 racontée en 10 infographies](https://www.jeuneafrique.com/1751811/politique/gen-z-vdp-trump-cobalt-paludisme-lannee-2025-racontee-en-10-infographies/)
 - [Législatives en Côte d’Ivoire : jour de vote décisif](https://www.jeuneafrique.com/1752831/politique/legislatives-en-cote-divoire-jour-de-vote-decisif/)
 - [En Centrafrique, derniers meetings avant la présidentielle](https://www.jeuneafrique.com/1752826/politique/en-centrafrique-derniers-meetings-avant-la-presidentielle/)
-- [L’Afrique australe en 2026 : transition à Madagascar, scandales en Afrique du Sud et un joyau à acquérir…](https://www.jeuneafrique.com/1748244/politique/lafrique-australe-en-2026-transition-a-madagascar-scandales-en-afrique-du-sud-et-un-joyau-a-acquerir/)
+- [Bauxite : l’émirati Axis passe à l’attaque face à la Guinée de Doumbouya](https://www.jeuneafrique.com/1752915/economie-entreprises/bauxite-lemirati-axis-passe-a-lattaque-face-a-la-guinee-de-doumbouya/)
 - [Pourquoi la construction de logements bat son plein à Djibouti](https://www.jeuneafrique.com/1747563/economie-entreprises/pourquoi-la-construction-de-logements-bat-son-plein-a-djibouti/)
-- [Disparition d’uranium : « Entre le Niger et Orano, qui a volé qui ? »](https://www.jeuneafrique.com/1752870/economie-entreprises/disparition-duranium-entre-le-niger-et-orano-qui-a-vole-qui/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
