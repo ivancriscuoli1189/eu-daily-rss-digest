@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Dec 2025, 21:08*
+*Generato: 29 Dec 2025, 06:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Pour le président somalien, la reconnaissance du Somaliland par Israël « menace » la stabilité de la région](https://www.jeuneafrique.com/1752876/politique/pour-le-president-somalien-la-reconnaissance-du-somaliland-par-israel-menace-la-stabilite-de-la-region/)
+- [L’armée tchadienne qualifie d’« agression injustifiée » une attaque de paramilitaires soudanais](https://www.jeuneafrique.com/1752853/politique/larmee-tchadienne-qualifie-d-agression-injustifiee-une-attaque-de-paramilitaires-soudanais/)
+- [Législatives en Côte d’Ivoire : jour de vote décisif](https://www.jeuneafrique.com/1752831/politique/legislatives-en-cote-divoire-jour-de-vote-decisif/)
+- [En Centrafrique, derniers meetings avant la présidentielle](https://www.jeuneafrique.com/1752826/politique/en-centrafrique-derniers-meetings-avant-la-presidentielle/)
+- [L’Afrique australe en 2026 : transition à Madagascar, scandales en Afrique du Sud et un joyau à acquérir…](https://www.jeuneafrique.com/1748244/politique/lafrique-australe-en-2026-transition-a-madagascar-scandales-en-afrique-du-sud-et-un-joyau-a-acquerir/)
+- [Au Gabon, l’ex-ministre du Tourisme Pascal Ogowe Siffon incarcéré](https://www.jeuneafrique.com/1752715/politique/au-gabon-lex-ministre-du-tourisme-pascal-ogowe-siffon-incarcere/)
 - [Reconnaissance du Somaliland par Israël : la république autoproclamée salue « un moment historique »](https://www.jeuneafrique.com/1752766/politique/reconnaissance-du-somaliland-par-israel-la-republique-autoproclamee-salue-un-moment-historique/)
-- [Intervention militaire des États-Unis au Nigeria : Abuja évoque d’autres frappes dans le cadre d’opérations « conjointes »](https://www.jeuneafrique.com/1752718/politique/intervention-militaire-des-etats-unis-au-nigeria-abuja-evoque-dautres-frappes-dans-le-cadre-doperations-conjointes/)
-- [Présidentielle en Guinée : dernier bain de foule pour Mamadi Doumbouya avant le scrutin](https://www.jeuneafrique.com/1752578/politique/presidentielle-en-guinee-dernier-bain-de-foule-pour-mamadi-doumbouya-avant-le-scrutin/)
-- [« Les bombes pleuvaient sur nous » : des milliers de Congolais fuient les combats dans l’est de la RDC](https://www.jeuneafrique.com/1752571/politique/les-bombes-pleuvaient-sur-nous-des-milliers-de-congolais-fuient-les-combats-dans-lest-de-la-rdc/)
-- [Nigeria : les États-Unis annoncent avoir mené des frappes meurtrières contre l’État islamique dans l’État de Sokoto](https://www.jeuneafrique.com/1752560/politique/nigeria-les-etats-unis-annoncent-avoir-mene-des-frappes-meurtrieres-contre-letat-islamique-dans-letat-de-sokoto/)
-- [« Les camps vont devenir des mouroirs » : au Burundi, huit réfugiés venus de RDC décèdent du choléra](https://www.jeuneafrique.com/1752540/politique/les-camps-vont-devenir-des-mouroirs-au-burundi-huit-refugies-venus-de-rdc-decedent-du-cholera/)
-- [Au Cameroun, Paul Biya a-t-il définitivement perdu l’Église ?](https://www.jeuneafrique.com/1752419/politique/au-cameroun-paul-biya-a-t-il-definitivement-perdu-leglise/)
-- [« Sa disparition a laissé un grand vide » : il y a cinq ans, la mort de Soumaïla Cissé](https://www.jeuneafrique.com/1747711/politique/sa-disparition-a-laisse-un-grand-vide-il-y-a-cinq-ans-la-mort-de-soumaila-cisse/)
-- [Franc CFA, dirham, naira, franc congolais… En 2025, les monnaies africaines ont repris des couleurs](https://www.jeuneafrique.com/1752119/economie-entreprises/franc-cfa-dirham-naira-franc-congolais-en-2025-les-monnaies-africaines-ont-repris-des-couleurs/)
-- [10 choses à savoir sur Aboubakar Nacanabo, ministre burkinabè de l’Économie, des Finances et de la Prospective](https://www.jeuneafrique.com/1746663/economie-entreprises/10-choses-a-savoir-sur-aboubakar-nacanabo-ministre-burkinabe-de-leconomie-des-finances-et-de-la-prospective/)
+- [Présidentielle à Djibouti : face à Ismaïl Omar Guelleh, l’opposition sera-t-elle visible ?](https://www.jeuneafrique.com/1745883/politique/presidentielle-a-djibouti-face-a-ismail-omar-guelleh-lopposition-sera-t-elle-visible/)
+- [Disparition d’uranium : « Entre le Niger et Orano, qui a volé qui ? »](https://www.jeuneafrique.com/1752870/economie-entreprises/disparition-duranium-entre-le-niger-et-orano-qui-a-vole-qui/)
+- [Cameroun : quel budget pour lancer un nouveau septennat ?](https://www.jeuneafrique.com/1752789/economie-entreprises/cameroun-quel-budget-pour-lancer-un-nouveau-septennat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
