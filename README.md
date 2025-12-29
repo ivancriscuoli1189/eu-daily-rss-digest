@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Dec 2025, 06:19*
+*Generato: 29 Dec 2025, 09:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,8 +70,8 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع سعادة السيّد "Javier Puig Saura" سفير مملكة اسبانيا بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-javier-puig-saura-%D8%B3%D9%81%D9%8A%D8%B1-%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-3)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد إبراهيم بودربالة رئيس مجلس نواب الشّعب والسيّد عماد الدّربالي رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D9%91%D8%B9%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%85%D8%A7%D8%AF)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-4)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد خالد النّوري وزير الداخليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D9%91%D9%88%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D9%91%D8%A9-0)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع أعضاء الفريق الذين كلّفهم بإيجاد حلول للوضع البيئي بقابس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82-%D8%A7%D9%84%D8%B0%D9%8A%D9%86-%D9%83%D9%84%D9%91%D9%81%D9%87%D9%85-%D8%A8%D8%A5%D9%8A%D8%AC%D8%A7%D8%AF-%D8%AD%D9%84%D9%88%D9%84-%D9%84%D9%84%D9%88%D8%B6%D8%B9-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D9%8A-%D8%A8%D9%82%D8%A7%D8%A8%D8%B3)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد قيس بن محمد اليوسف وزير التجارة والصناعة وترويج الاستثمار بسلطنة عُمان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%82%D9%8A%D8%B3-%D8%A8%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D8%B3%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%AA%D8%B1%D9%88%D9%8A%D8%AC)
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Pour le président somalien, la reconnaissance du Somaliland par Israël « menace » la stabilité de la région](https://www.jeuneafrique.com/1752876/politique/pour-le-president-somalien-la-reconnaissance-du-somaliland-par-israel-menace-la-stabilite-de-la-region/)
+- [En Ouganda, sur qui s’appuie Yoweri Museveni pour rester au pouvoir](https://www.jeuneafrique.com/1750786/politique/en-ouganda-sur-qui-sappuie-yoweri-museveni-pour-rester-au-pouvoir/)
+- [Élections en Éthiopie et en Somalie, le Burundi à la tête de l’UA … En 2026, la température monte en Afrique de l’Est](https://www.jeuneafrique.com/1748242/politique/elections-en-ethiopie-et-en-somalie-le-burundi-a-la-tete-de-lua-en-2026-la-temperature-monte-en-afrique-de-lest/)
 - [L’armée tchadienne qualifie d’« agression injustifiée » une attaque de paramilitaires soudanais](https://www.jeuneafrique.com/1752853/politique/larmee-tchadienne-qualifie-d-agression-injustifiee-une-attaque-de-paramilitaires-soudanais/)
+- [Gen Z, VDP, Trump, cobalt, paludisme… L’année 2025 racontée en 10 infographies](https://www.jeuneafrique.com/1751811/politique/gen-z-vdp-trump-cobalt-paludisme-lannee-2025-racontee-en-10-infographies/)
 - [Législatives en Côte d’Ivoire : jour de vote décisif](https://www.jeuneafrique.com/1752831/politique/legislatives-en-cote-divoire-jour-de-vote-decisif/)
 - [En Centrafrique, derniers meetings avant la présidentielle](https://www.jeuneafrique.com/1752826/politique/en-centrafrique-derniers-meetings-avant-la-presidentielle/)
 - [L’Afrique australe en 2026 : transition à Madagascar, scandales en Afrique du Sud et un joyau à acquérir…](https://www.jeuneafrique.com/1748244/politique/lafrique-australe-en-2026-transition-a-madagascar-scandales-en-afrique-du-sud-et-un-joyau-a-acquerir/)
-- [Au Gabon, l’ex-ministre du Tourisme Pascal Ogowe Siffon incarcéré](https://www.jeuneafrique.com/1752715/politique/au-gabon-lex-ministre-du-tourisme-pascal-ogowe-siffon-incarcere/)
-- [Reconnaissance du Somaliland par Israël : la république autoproclamée salue « un moment historique »](https://www.jeuneafrique.com/1752766/politique/reconnaissance-du-somaliland-par-israel-la-republique-autoproclamee-salue-un-moment-historique/)
-- [Présidentielle à Djibouti : face à Ismaïl Omar Guelleh, l’opposition sera-t-elle visible ?](https://www.jeuneafrique.com/1745883/politique/presidentielle-a-djibouti-face-a-ismail-omar-guelleh-lopposition-sera-t-elle-visible/)
+- [Pourquoi la construction de logements bat son plein à Djibouti](https://www.jeuneafrique.com/1747563/economie-entreprises/pourquoi-la-construction-de-logements-bat-son-plein-a-djibouti/)
 - [Disparition d’uranium : « Entre le Niger et Orano, qui a volé qui ? »](https://www.jeuneafrique.com/1752870/economie-entreprises/disparition-duranium-entre-le-niger-et-orano-qui-a-vole-qui/)
-- [Cameroun : quel budget pour lancer un nouveau septennat ?](https://www.jeuneafrique.com/1752789/economie-entreprises/cameroun-quel-budget-pour-lancer-un-nouveau-septennat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
