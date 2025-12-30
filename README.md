@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Dec 2025, 15:10*
+*Generato: 30 Dec 2025, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -268,10 +268,10 @@
 - [2023, 2024, 2025, 2026… Détention sans fin pour Mohamed Bazoum ?](https://www.jeuneafrique.com/1753302/politique/2023-2024-2025-2026-detention-sans-fin-pour-mohamed-bazoum/)
 - [Présidentielle en Guinée : des premiers résultats confirment la large avance de Doumbouya](https://www.jeuneafrique.com/1753221/politique/presidentielle-en-guinee-des-premiers-resultats-confirment-la-large-avance-de-doumbouya/)
 - [Une Marianne sans filtre : retour sur les dérives racistes de Brigitte Bardot](https://www.jeuneafrique.com/1752965/politique/une-marianne-sans-filtre-retour-sur-les-derives-racistes-de-brigitte-bardot/)
+- [Présidentielle en Centrafrique : à Bangui, Touadéra confiant après une élection ultra-sécurisée](https://www.jeuneafrique.com/1753135/politique/presidentielle-en-centrafrique-a-bangui-touadera-confiant-apres-une-election-ultra-securisee/)
 - [Législatives en Côte d’Ivoire : déferlante historique du RHDP](https://www.jeuneafrique.com/1752966/politique/legislatives-en-cote-divoire-deferlante-historique-du-rhdp/)
 - [Le Niger sur la voie de la mobilisation générale](https://www.jeuneafrique.com/1752998/politique/le-niger-sur-la-voie-de-la-mobilisation-generale/)
 - [Propos anti-Tutsi en RDC : le porte-parole de l’armée sanctionné](https://www.jeuneafrique.com/1752938/politique/propos-anti-tutsi-en-rdc-le-porte-parole-de-larmee-sanctionne/)
-- [« On connaît déjà le résultat de cette présidentielle » : en Guinée, un vote sans suspense mais apaisé](https://www.jeuneafrique.com/1752893/politique/on-connait-deja-le-resultat-de-cette-presidentielle-en-guinee-un-vote-sans-suspense-mais-apaise/)
 - [2025, une année sans concession dans les mines au Mali](https://www.jeuneafrique.com/1753148/economie-entreprises/2025-une-annee-sans-concession-dans-les-mines-au-mali/)
 - [Cacao : « La Côte d’Ivoire et le Ghana doivent étendre leur alliance »](https://www.jeuneafrique.com/1753007/economie-entreprises/cacao-la-cote-divoire-et-le-ghana-doivent-etendre-leur-alliance/)
 
