@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Dec 2025, 21:09*
+*Generato: 30 Dec 2025, 06:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crise au Cameroun : un gouvernement d’union avec Tchiroma Bakary est-il encore possible ?](https://www.jeuneafrique.com/1752936/politique/crise-au-cameroun-un-gouvernement-dunion-avec-tchiroma-bakary-est-il-encore-possible/)
 - [Le Niger sur la voie de la mobilisation générale](https://www.jeuneafrique.com/1752998/politique/le-niger-sur-la-voie-de-la-mobilisation-generale/)
 - [Présidentielle en Centrafrique : des premiers résultats attendus le 5 janvier](https://www.jeuneafrique.com/1752895/politique/presidentielle-en-centrafrique-des-premiers-resultats-attendus-le-5-janvier/)
 - [Tensions entre la RDC et le Rwanda, crise au Cameroun… 2026, année clé dans les rapports de force en Afrique centrale ?](https://www.jeuneafrique.com/1748243/politique/tensions-entre-la-rdc-et-le-rwanda-crise-au-cameroun-2026-annee-cle-dans-les-rapports-de-force-en-afrique-centrale/)
@@ -271,7 +272,6 @@
 - [Pour le président somalien, la reconnaissance du Somaliland par Israël « menace » la stabilité de la région](https://www.jeuneafrique.com/1752876/politique/pour-le-president-somalien-la-reconnaissance-du-somaliland-par-israel-menace-la-stabilite-de-la-region/)
 - [En Ouganda, sur qui s’appuie Yoweri Museveni pour rester au pouvoir](https://www.jeuneafrique.com/1750786/politique/en-ouganda-sur-qui-sappuie-yoweri-museveni-pour-rester-au-pouvoir/)
 - [Élections en Éthiopie et en Somalie, le Burundi à la tête de l’UA … En 2026, la température monte en Afrique de l’Est](https://www.jeuneafrique.com/1748242/politique/elections-en-ethiopie-et-en-somalie-le-burundi-a-la-tete-de-lua-en-2026-la-temperature-monte-en-afrique-de-lest/)
-- [L’armée tchadienne qualifie d’« agression injustifiée » une attaque de paramilitaires soudanais](https://www.jeuneafrique.com/1752853/politique/larmee-tchadienne-qualifie-d-agression-injustifiee-une-attaque-de-paramilitaires-soudanais/)
 - [Bauxite : l’émirati Axis passe à l’attaque face à la Guinée de Doumbouya](https://www.jeuneafrique.com/1752915/economie-entreprises/bauxite-lemirati-axis-passe-a-lattaque-face-a-la-guinee-de-doumbouya/)
 - [Pourquoi la construction de logements bat son plein à Djibouti](https://www.jeuneafrique.com/1747563/economie-entreprises/pourquoi-la-construction-de-logements-bat-son-plein-a-djibouti/)
 
