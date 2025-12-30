@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Dec 2025, 09:15*
+*Generato: 30 Dec 2025, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Présidentielle en Guinée : des premiers résultats confirment la large avance de Doumbouya](https://www.jeuneafrique.com/1753221/politique/presidentielle-en-guinee-des-premiers-resultats-confirment-la-large-avance-de-doumbouya/)
+- [Législatives en Côte d’Ivoire : déferlante historique du RHDP](https://www.jeuneafrique.com/1752966/politique/legislatives-en-cote-divoire-deferlante-historique-du-rhdp/)
 - [Le Niger sur la voie de la mobilisation générale](https://www.jeuneafrique.com/1752998/politique/le-niger-sur-la-voie-de-la-mobilisation-generale/)
 - [Propos anti-Tutsi en RDC : le porte-parole de l’armée sanctionné](https://www.jeuneafrique.com/1752938/politique/propos-anti-tutsi-en-rdc-le-porte-parole-de-larmee-sanctionne/)
 - [« On connaît déjà le résultat de cette présidentielle » : en Guinée, un vote sans suspense mais apaisé](https://www.jeuneafrique.com/1752893/politique/on-connait-deja-le-resultat-de-cette-presidentielle-en-guinee-un-vote-sans-suspense-mais-apaise/)
 - [Présidentielle en Centrafrique : des premiers résultats attendus le 5 janvier](https://www.jeuneafrique.com/1752895/politique/presidentielle-en-centrafrique-des-premiers-resultats-attendus-le-5-janvier/)
 - [Tensions entre la RDC et le Rwanda, crise au Cameroun… 2026, année clé dans les rapports de force en Afrique centrale ?](https://www.jeuneafrique.com/1748243/politique/tensions-entre-la-rdc-et-le-rwanda-crise-au-cameroun-2026-annee-cle-dans-les-rapports-de-force-en-afrique-centrale/)
 - [Et si les femmes prenaient (enfin) le pouvoir ? – par François Soudan](https://www.jeuneafrique.com/1747887/politique/et-si-les-femmes-prenaient-enfin-le-pouvoir-par-francois-soudan/)
-- [Élections législatives 2026 au Maroc : le moment de vérité](https://www.jeuneafrique.com/1747819/politique/elections-legislatives-2026-au-maroc-le-moment-de-verite/)
 - [Cacao : « La Côte d’Ivoire et le Ghana doivent étendre leur alliance »](https://www.jeuneafrique.com/1753007/economie-entreprises/cacao-la-cote-divoire-et-le-ghana-doivent-etendre-leur-alliance/)
 - [Bauxite : l’émirati Axis passe à l’attaque face à la Guinée de Doumbouya](https://www.jeuneafrique.com/1752915/economie-entreprises/bauxite-lemirati-axis-passe-a-lattaque-face-a-la-guinee-de-doumbouya/)
 
