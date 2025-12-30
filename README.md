@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Dec 2025, 06:16*
+*Generato: 30 Dec 2025, 09:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Crise au Cameroun : un gouvernement d’union avec Tchiroma Bakary est-il encore possible ?](https://www.jeuneafrique.com/1752936/politique/crise-au-cameroun-un-gouvernement-dunion-avec-tchiroma-bakary-est-il-encore-possible/)
+- [Présidentielle en Guinée : des premiers résultats confirment la large avance de Doumbouya](https://www.jeuneafrique.com/1753221/politique/presidentielle-en-guinee-des-premiers-resultats-confirment-la-large-avance-de-doumbouya/)
 - [Le Niger sur la voie de la mobilisation générale](https://www.jeuneafrique.com/1752998/politique/le-niger-sur-la-voie-de-la-mobilisation-generale/)
+- [Propos anti-Tutsi en RDC : le porte-parole de l’armée sanctionné](https://www.jeuneafrique.com/1752938/politique/propos-anti-tutsi-en-rdc-le-porte-parole-de-larmee-sanctionne/)
+- [« On connaît déjà le résultat de cette présidentielle » : en Guinée, un vote sans suspense mais apaisé](https://www.jeuneafrique.com/1752893/politique/on-connait-deja-le-resultat-de-cette-presidentielle-en-guinee-un-vote-sans-suspense-mais-apaise/)
 - [Présidentielle en Centrafrique : des premiers résultats attendus le 5 janvier](https://www.jeuneafrique.com/1752895/politique/presidentielle-en-centrafrique-des-premiers-resultats-attendus-le-5-janvier/)
 - [Tensions entre la RDC et le Rwanda, crise au Cameroun… 2026, année clé dans les rapports de force en Afrique centrale ?](https://www.jeuneafrique.com/1748243/politique/tensions-entre-la-rdc-et-le-rwanda-crise-au-cameroun-2026-annee-cle-dans-les-rapports-de-force-en-afrique-centrale/)
+- [Et si les femmes prenaient (enfin) le pouvoir ? – par François Soudan](https://www.jeuneafrique.com/1747887/politique/et-si-les-femmes-prenaient-enfin-le-pouvoir-par-francois-soudan/)
 - [Élections législatives 2026 au Maroc : le moment de vérité](https://www.jeuneafrique.com/1747819/politique/elections-legislatives-2026-au-maroc-le-moment-de-verite/)
-- [Pour le président somalien, la reconnaissance du Somaliland par Israël « menace » la stabilité de la région](https://www.jeuneafrique.com/1752876/politique/pour-le-president-somalien-la-reconnaissance-du-somaliland-par-israel-menace-la-stabilite-de-la-region/)
-- [En Ouganda, sur qui s’appuie Yoweri Museveni pour rester au pouvoir](https://www.jeuneafrique.com/1750786/politique/en-ouganda-sur-qui-sappuie-yoweri-museveni-pour-rester-au-pouvoir/)
-- [Élections en Éthiopie et en Somalie, le Burundi à la tête de l’UA … En 2026, la température monte en Afrique de l’Est](https://www.jeuneafrique.com/1748242/politique/elections-en-ethiopie-et-en-somalie-le-burundi-a-la-tete-de-lua-en-2026-la-temperature-monte-en-afrique-de-lest/)
+- [Cacao : « La Côte d’Ivoire et le Ghana doivent étendre leur alliance »](https://www.jeuneafrique.com/1753007/economie-entreprises/cacao-la-cote-divoire-et-le-ghana-doivent-etendre-leur-alliance/)
 - [Bauxite : l’émirati Axis passe à l’attaque face à la Guinée de Doumbouya](https://www.jeuneafrique.com/1752915/economie-entreprises/bauxite-lemirati-axis-passe-a-lattaque-face-a-la-guinee-de-doumbouya/)
-- [Pourquoi la construction de logements bat son plein à Djibouti](https://www.jeuneafrique.com/1747563/economie-entreprises/pourquoi-la-construction-de-logements-bat-son-plein-a-djibouti/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
