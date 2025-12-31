@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Dec 2025, 11:10*
+*Generato: 31 Dec 2025, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Élections législatives 2026 au Maroc : un match serré aux allures de recomposition](https://www.jeuneafrique.com/1751576/politique/elections-legislatives-2026-au-maroc-un-match-serre-aux-allures-de-recomposition/)
 - [Au Maroc, les avocats vent debout contre la réforme de leur profession](https://www.jeuneafrique.com/1753258/politique/au-maroc-les-avocats-vent-debout-contre-la-reforme-de-leur-profession/)
 - [RDC : plusieurs centaines de familles affluent à Uvira après des combats entre les FARDC et le M23](https://www.jeuneafrique.com/1753343/politique/rdc-plusieurs-centaines-de-familles-affluent-a-uvira-apres-des-combats-entre-les-fardc-et-le-m23/)
 - [2023, 2024, 2025, 2026… Détention sans fin pour Mohamed Bazoum ?](https://www.jeuneafrique.com/1753302/politique/2023-2024-2025-2026-detention-sans-fin-pour-mohamed-bazoum/)
@@ -271,9 +272,8 @@
 - [Présidentielle en Guinée : des premiers résultats confirment la large avance de Doumbouya](https://www.jeuneafrique.com/1753221/politique/presidentielle-en-guinee-des-premiers-resultats-confirment-la-large-avance-de-doumbouya/)
 - [Une Marianne sans filtre : retour sur les dérives racistes de Brigitte Bardot](https://www.jeuneafrique.com/1752965/politique/une-marianne-sans-filtre-retour-sur-les-derives-racistes-de-brigitte-bardot/)
 - [Nigeria, Côte d’Ivoire, Sénégal… En 2026, l’Afrique de l’Ouest passe des certitudes aux doutes](https://www.jeuneafrique.com/1748237/politique/nigeria-cote-divoire-senegal-en-2026-lafrique-de-louest-passe-des-certitudes-aux-doutes/)
-- [Au Nigeria, ce que cachent les frappes de Donald Trump contre l’État islamique](https://www.jeuneafrique.com/1752972/politique/au-nigeria-ce-que-cachent-les-frappes-de-donald-trump-contre-letat-islamique/)
+- [Bourse : pourquoi l’IPO de BGFI joue finalement les prolongations](https://www.jeuneafrique.com/1753410/economie-entreprises/bourse-pourquoi-lipo-de-bgfi-joue-finalement-les-prolongations/)
 - [« Dettes cachées » : au Mozambique, quand le rêve maritime vire au naufrage](https://www.jeuneafrique.com/1751132/economie-entreprises/dettes-cachees-au-mozambique-quand-le-reve-maritime-vire-au-naufrage/)
-- [2025, une année sans concession dans les mines au Mali](https://www.jeuneafrique.com/1753148/economie-entreprises/2025-une-annee-sans-concession-dans-les-mines-au-mali/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
