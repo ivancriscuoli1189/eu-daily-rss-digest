@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Jan 2026, 15:10*
+*Generato: 01 Jan 2026, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Sénégal : Diomaye assure qu’« aucune violence faite aux femmes n’est tolérable »](https://www.jeuneafrique.com/1753696/politique/senegal-diomaye-assure-qu-aucune-violence-faite-aux-femmes-nest-tolerable/)
+- [Produits d’hygiène périmés, revirement officiel et soupçons de corruption : l’affaire Softcare secoue le Sénégal](https://www.jeuneafrique.com/1753324/politique/produits-dhygiene-perimes-revirement-officiel-et-soupcons-de-corruption-laffaire-softcare-secoue-le-senegal/)
 - [Abdoulkader Houssein Omar : « Djibouti a toujours fait le choix de la paix »](https://www.jeuneafrique.com/1745016/politique/abdoulkader-houssein-omar-djibouti-a-toujours-fait-le-choix-de-la-paix/)
 - [« Travel ban » : Assimi Goïta et Ibrahim Traoré répondent à Donald Trump](https://www.jeuneafrique.com/1753543/politique/travel-ban-assimi-goita-et-ibrahim-traore-repondent-a-donald-trump/)
 - [2026, année de l’apaisement pour l’Afrique du Nord ?](https://www.jeuneafrique.com/1745660/politique/2026-annee-de-lapaisement-pour-lafrique-du-nord/)
 - [Présidentielle en Guinée : le pari réussi de Mamadi Doumbouya](https://www.jeuneafrique.com/1753044/politique/presidentielle-en-guinee-le-pari-reussi-de-mamadi-doumbouya/)
 - [Élections législatives 2026 au Maroc : un match serré aux allures de recomposition](https://www.jeuneafrique.com/1751576/politique/elections-legislatives-2026-au-maroc-un-match-serre-aux-allures-de-recomposition/)
 - [Législatives en Côte d’Ivoire : le PDCI encaisse un revers majeur](https://www.jeuneafrique.com/1753433/politique/legislatives-en-cote-divoire-le-pdci-encaisse-un-revers-majeur/)
-- [Au Maroc, les avocats vent debout contre la réforme de leur profession](https://www.jeuneafrique.com/1753258/politique/au-maroc-les-avocats-vent-debout-contre-la-reforme-de-leur-profession/)
 - [« Dettes cachées » : comment le piège de la dette chinoise s’est refermé sur la Zambie](https://www.jeuneafrique.com/1751603/economie-entreprises/dettes-cachees-comment-le-piege-de-la-dette-chinoise-sest-referme-sur-la-zambie/)
 - [Pétrole en Afrique : 2025, l’année des grands réajustements](https://www.jeuneafrique.com/1753351/economie-entreprises/petrole-en-afrique-2025-lannee-des-grands-reajustements/)
 
