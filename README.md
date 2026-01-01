@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Jan 2026, 06:17*
+*Generato: 01 Jan 2026, 09:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -266,14 +266,14 @@
 
 - [Abdoulkader Houssein Omar : « Djibouti a toujours fait le choix de la paix »](https://www.jeuneafrique.com/1745016/politique/abdoulkader-houssein-omar-djibouti-a-toujours-fait-le-choix-de-la-paix/)
 - [« Travel ban » : Assimi Goïta et Ibrahim Traoré répondent à Donald Trump](https://www.jeuneafrique.com/1753543/politique/travel-ban-assimi-goita-et-ibrahim-traore-repondent-a-donald-trump/)
+- [Présidentielle en Guinée : le pari réussi de Mamadi Doumbouya](https://www.jeuneafrique.com/1753044/politique/presidentielle-en-guinee-le-pari-reussi-de-mamadi-doumbouya/)
 - [Élections législatives 2026 au Maroc : un match serré aux allures de recomposition](https://www.jeuneafrique.com/1751576/politique/elections-legislatives-2026-au-maroc-un-match-serre-aux-allures-de-recomposition/)
 - [Législatives en Côte d’Ivoire : le PDCI encaisse un revers majeur](https://www.jeuneafrique.com/1753433/politique/legislatives-en-cote-divoire-le-pdci-encaisse-un-revers-majeur/)
 - [Au Maroc, les avocats vent debout contre la réforme de leur profession](https://www.jeuneafrique.com/1753258/politique/au-maroc-les-avocats-vent-debout-contre-la-reforme-de-leur-profession/)
 - [RDC : plusieurs centaines de familles affluent à Uvira après des combats entre les FARDC et le M23](https://www.jeuneafrique.com/1753343/politique/rdc-plusieurs-centaines-de-familles-affluent-a-uvira-apres-des-combats-entre-les-fardc-et-le-m23/)
 - [2023, 2024, 2025, 2026… Détention sans fin pour Mohamed Bazoum ?](https://www.jeuneafrique.com/1753302/politique/2023-2024-2025-2026-detention-sans-fin-pour-mohamed-bazoum/)
-- [Guerre au Soudan : 5 questions pour comprendre les accusations portées contre le Tchad](https://www.jeuneafrique.com/1753117/politique/guerre-au-soudan-5-questions-pour-comprendre-les-accusations-portees-contre-le-tchad/)
+- [Pétrole en Afrique : 2025, l’année des grands réajustements](https://www.jeuneafrique.com/1753351/economie-entreprises/petrole-en-afrique-2025-lannee-des-grands-reajustements/)
 - [Bourse : pourquoi l’IPO de BGFI joue finalement les prolongations](https://www.jeuneafrique.com/1753410/economie-entreprises/bourse-pourquoi-lipo-de-bgfi-joue-finalement-les-prolongations/)
-- [« Dettes cachées » : au Mozambique, quand le rêve maritime vire au naufrage](https://www.jeuneafrique.com/1751132/economie-entreprises/dettes-cachees-au-mozambique-quand-le-reve-maritime-vire-au-naufrage/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
