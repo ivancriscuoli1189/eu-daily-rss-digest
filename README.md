@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Jan 2026, 09:14*
+*Generato: 02 Jan 2026, 11:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Congo, le PCT referme le débat et appelle Sassou Nguesso à briguer un ultime mandat](https://www.jeuneafrique.com/1753717/politique/au-congo-le-pct-referme-le-debat-et-appelle-sassou-nguesso-a-briguer-un-ultime-mandat/)
 - [10 choses à savoir sur Ferhat Mehenni, figure de proue du séparatisme kabyle](https://www.jeuneafrique.com/1753552/politique/10-choses-a-savoir-sur-ferhat-mehenni-figure-de-proue-du-separatisme-kabyle/)
 - [Sénégal : Diomaye assure qu’« aucune violence faite aux femmes n’est tolérable »](https://www.jeuneafrique.com/1753696/politique/senegal-diomaye-assure-qu-aucune-violence-faite-aux-femmes-nest-tolerable/)
 - [Produits d’hygiène périmés, revirement officiel et soupçons de corruption : l’affaire Softcare secoue le Sénégal](https://www.jeuneafrique.com/1753324/politique/produits-dhygiene-perimes-revirement-officiel-et-soupcons-de-corruption-laffaire-softcare-secoue-le-senegal/)
@@ -271,12 +272,12 @@
 - [Abdoulkader Houssein Omar : « Djibouti a toujours fait le choix de la paix »](https://www.jeuneafrique.com/1745016/politique/abdoulkader-houssein-omar-djibouti-a-toujours-fait-le-choix-de-la-paix/)
 - [« Travel ban » : Assimi Goïta et Ibrahim Traoré répondent à Donald Trump](https://www.jeuneafrique.com/1753543/politique/travel-ban-assimi-goita-et-ibrahim-traore-repondent-a-donald-trump/)
 - [RDC : un déjeuner piquant avec les kabilistes en exil en Afrique du Sud](https://www.jeuneafrique.com/1752368/politique/rdc-un-dejeuner-piquant-avec-les-kabilistes-en-exil-en-afrique-du-sud/)
-- [2026, année de l’apaisement pour l’Afrique du Nord ?](https://www.jeuneafrique.com/1745660/politique/2026-annee-de-lapaisement-pour-lafrique-du-nord/)
 - [Comment Djibouti veut s’imposer comme un hub digital africain](https://www.jeuneafrique.com/1745293/economie-entreprises/comment-djibouti-veut-simposer-comme-un-hub-digital-africain/)
 - [« Dettes cachées » : comment le piège de la dette chinoise s’est refermé sur la Zambie](https://www.jeuneafrique.com/1751603/economie-entreprises/dettes-cachees-comment-le-piege-de-la-dette-chinoise-sest-referme-sur-la-zambie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
 - [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
@@ -286,4 +287,3 @@
 - [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
 - [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
 - [La Corea del Nord, un enigma minaccioso](https://www.limesonline.com/rubriche/mappe-parlanti/4-la-corea-del-nord-un-enigma-minaccioso-20200384/)
-- [Gerusalemme Est e il Progetto espansionistico E1](https://www.limesonline.com/rubriche/mappe-parlanti/3-gerusalemme-est-e-il-progetto-espansionistico-e1-20145297/)
