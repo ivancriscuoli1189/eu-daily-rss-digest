@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Jan 2026, 15:11*
+*Generato: 02 Jan 2026, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,6 +40,32 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
+- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
+- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
+- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
+- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
+- [Commerce Extérieur aux prix courants, Août 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-aout-2025)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Premier Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-premier-semestre-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
 
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
@@ -246,8 +272,8 @@
 - [Produits d’hygiène périmés, revirement officiel et soupçons de corruption : l’affaire Softcare secoue le Sénégal](https://www.jeuneafrique.com/1753324/politique/produits-dhygiene-perimes-revirement-officiel-et-soupcons-de-corruption-laffaire-softcare-secoue-le-senegal/)
 - [Mali : Assimi Goïta radie de nouveaux hauts gradés de l’armée](https://www.jeuneafrique.com/1753596/politique/mali-assimi-goita-radie-de-nouveaux-hauts-grades-de-larmee/)
 - [Abdoulkader Houssein Omar : « Djibouti a toujours fait le choix de la paix »](https://www.jeuneafrique.com/1745016/politique/abdoulkader-houssein-omar-djibouti-a-toujours-fait-le-choix-de-la-paix/)
+- [« Dettes cachées » : au Congo et au Tchad, le jeu dangereux des prêts auprès de Trafigura et Glencore](https://www.jeuneafrique.com/1751477/economie-entreprises/dettes-cachees-au-congo-et-au-tchad-le-jeu-dangereux-des-prets-aupres-de-trafigura-et-glencore/)
 - [Comment Djibouti veut s’imposer comme un hub digital africain](https://www.jeuneafrique.com/1745293/economie-entreprises/comment-djibouti-veut-simposer-comme-un-hub-digital-africain/)
-- [« Dettes cachées » : comment le piège de la dette chinoise s’est refermé sur la Zambie](https://www.jeuneafrique.com/1751603/economie-entreprises/dettes-cachees-comment-le-piege-de-la-dette-chinoise-sest-referme-sur-la-zambie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
