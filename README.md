@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Jan 2026, 11:02*
+*Generato: 02 Jan 2026, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,7 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Congo, le PCT referme le débat et appelle Sassou Nguesso à briguer un ultime mandat](https://www.jeuneafrique.com/1753717/politique/au-congo-le-pct-referme-le-debat-et-appelle-sassou-nguesso-a-briguer-un-ultime-mandat/)
+- [L’or disparu du Cameroun : ce que l’on sait d’un potentiel scandale politique](https://www.jeuneafrique.com/1753514/politique/lor-disparu-du-cameroun-ce-que-lon-sait-dun-potentiel-scandale-politique/)
 - [10 choses à savoir sur Ferhat Mehenni, figure de proue du séparatisme kabyle](https://www.jeuneafrique.com/1753552/politique/10-choses-a-savoir-sur-ferhat-mehenni-figure-de-proue-du-separatisme-kabyle/)
 - [Sénégal : Diomaye assure qu’« aucune violence faite aux femmes n’est tolérable »](https://www.jeuneafrique.com/1753696/politique/senegal-diomaye-assure-qu-aucune-violence-faite-aux-femmes-nest-tolerable/)
 - [Produits d’hygiène périmés, revirement officiel et soupçons de corruption : l’affaire Softcare secoue le Sénégal](https://www.jeuneafrique.com/1753324/politique/produits-dhygiene-perimes-revirement-officiel-et-soupcons-de-corruption-laffaire-softcare-secoue-le-senegal/)
