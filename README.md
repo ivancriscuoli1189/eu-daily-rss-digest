@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Jan 2026, 15:13*
+*Generato: 05 Jan 2026, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -214,14 +214,14 @@
 
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
+- [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
 - [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
-- [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
-- [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -272,8 +272,8 @@
 - [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
 - [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
 - [Violents combats dans l’est de la RDC : une réunion des acteurs régionaux prévue en Zambie](https://www.jeuneafrique.com/1753857/politique/violents-combats-dans-lest-de-la-rdc/)
-- [Du fer de Simandou au port de Monrovia, ce nouveau corridor qui captive Trump](https://www.jeuneafrique.com/1753295/economie-entreprises/du-fer-de-simandou-au-port-de-monrovia-ce-nouveau-corridor-qui-captive-trump/)
-- [Doraleh-DP World : les leçons d’un bras de fer portuaire au long cours](https://www.jeuneafrique.com/1744990/economie-entreprises/doraleh-dp-world-les-lecons-dun-bras-de-fer-portuaire-au-long-cours/)
+- [Cuivre en Afrique : quelles forces façonneront le marché en 2026 ?](https://www.jeuneafrique.com/1753758/economie-entreprises/cuivre-en-afrique-quelles-forces-faconneront-le-marche-en-2026/)
+- [Dangote, Obasanjo, Macron… La galaxie très VIP d’Aigboje Aig-Imoukhuede, président d’Access Holdings](https://www.jeuneafrique.com/1753504/economie-entreprises/dangote-obasanjo-macron-la-galaxie-tres-vip-daigboje-aig-imoukhuede-president-daccess-holdings/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
