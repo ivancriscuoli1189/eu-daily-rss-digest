@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Jan 2026, 11:11*
+*Generato: 05 Jan 2026, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,19 +132,6 @@
 - [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
 - [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
-## UE – DG HOME – News
-
-- [bg български](https://home-affairs.ec.europa.eu/news_bg)
-- [es español](https://home-affairs.ec.europa.eu/news_es)
-- [cs čeština](https://home-affairs.ec.europa.eu/news_cs)
-- [da dansk](https://home-affairs.ec.europa.eu/news_da)
-- [de Deutsch](https://home-affairs.ec.europa.eu/news_de)
-- [et eesti](https://home-affairs.ec.europa.eu/news_et)
-- [el ελληνικά](https://home-affairs.ec.europa.eu/news_el)
-- [en English](https://home-affairs.ec.europa.eu/news_en)
-- [fr français](https://home-affairs.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
 ## UE – Tunisie – Projects portal (Agriculture)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -212,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
 - [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
-- [Thailand/Cambodia: Suspend trial of Uyghur detainees and implement UN request to redress multiple human rights violations](https://www.icj.org/thailand-cambodia-suspend-trial-of-uyghur-detainees-and-implement-un-request-to-redress-multiple-human-rights-violations/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 - [EU: Unaccompanied children must not be placed in asylum border procedures](https://www.icj.org/eu-unaccompanied-children-must-not-be-placed-in-asylum-border-procedures/)
-- [Qatar: States urged to ensure access to justice for women and girls with disabilities](https://www.icj.org/qatar-states-urged-to-ensure-access-to-justice-for-women-and-girls-with-disabilities/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Nigeria, plus de 30 morts et plusieurs personnes enlevées dans l’Ouest](https://www.jeuneafrique.com/1753915/politique/au-nigeria-plus-de-30-morts-et-plusieurs-personnes-enlevees-dans-louest/)
+- [Présidentielle en Guinée : après la validation de sa victoire par la Cour suprême, Doumbouya appelle « à bâtir un pays de souveraineté »](https://www.jeuneafrique.com/1753918/politique/presidentielle-en-guinee-apres-la-validation-de-sa-victoire-par-la-cour-supreme-doumbouya-appelle-a-batir-un-pays-de-souverainete/)
 - [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – Par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
 - [Ciudad de la Paz devient la nouvelle capitale de Guinée équatoriale](https://www.jeuneafrique.com/1753878/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-guinee-equatoriale/)
 - [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
 - [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
 - [Violents combats dans l’est de la RDC : une réunion des acteurs régionaux prévue en Zambie](https://www.jeuneafrique.com/1753857/politique/violents-combats-dans-lest-de-la-rdc/)
 - [Victoire présidentielle téléphonée pour l’ancien légionnaire Doumbouya](https://www.jeuneafrique.com/1753811/politique/victoire-presidentielle-telephonee-pour-lancien-legionnaire-doumbouya/)
-- [Rached Ghannouchi à Jeune Afrique en 1990 : « On ne peut rien faire sans la femme »](https://www.jeuneafrique.com/1724622/politique/rached-ghannouchi-a-jeune-afrique-en-1990-on-ne-peut-rien-faire-sans-la-femme/)
-- [L’équilibrisme des vœux présidentiels 2026](https://www.jeuneafrique.com/1753802/politique/lequilibrisme-des-voeux-presidentiels-2026/)
+- [Du fer de Simandou au port de Monrovia, ce nouveau corridor qui captive Trump](https://www.jeuneafrique.com/1753295/economie-entreprises/du-fer-de-simandou-au-port-de-monrovia-ce-nouveau-corridor-qui-captive-trump/)
 - [Doraleh-DP World : les leçons d’un bras de fer portuaire au long cours](https://www.jeuneafrique.com/1744990/economie-entreprises/doraleh-dp-world-les-lecons-dun-bras-de-fer-portuaire-au-long-cours/)
-- [Heinie Werth (SanlamAllianz) : « Nous devons prouver que l’assurance est bénéfique à tous »](https://www.jeuneafrique.com/1747875/economie-entreprises/heinie-werth-sanlamallianz-nous-devons-prouver-que-lassurance-est-benefique-a-tous/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
