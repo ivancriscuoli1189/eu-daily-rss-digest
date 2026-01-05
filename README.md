@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Jan 2026, 06:22*
+*Generato: 05 Jan 2026, 09:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
 - [Ciudad de la Paz devient la nouvelle capitale de Guinée équatoriale](https://www.jeuneafrique.com/1753878/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-guinee-equatoriale/)
 - [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
 - [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
@@ -271,7 +272,6 @@
 - [Victoire présidentielle téléphonée pour l’ancien légionnaire Doumbouya](https://www.jeuneafrique.com/1753811/politique/victoire-presidentielle-telephonee-pour-lancien-legionnaire-doumbouya/)
 - [Rached Ghannouchi à Jeune Afrique en 1990 : « On ne peut rien faire sans la femme »](https://www.jeuneafrique.com/1724622/politique/rached-ghannouchi-a-jeune-afrique-en-1990-on-ne-peut-rien-faire-sans-la-femme/)
 - [L’équilibrisme des vœux présidentiels 2026](https://www.jeuneafrique.com/1753802/politique/lequilibrisme-des-voeux-presidentiels-2026/)
-- [L’historien algérien Mohammed Harbi, critique du pouvoir post-indépendance, est mort à Paris](https://www.jeuneafrique.com/1753821/politique/lhistorien-algerien-mohammed-harbi-critique-du-pouvoir-post-independance-est-mort-a-paris/)
 - [Doraleh-DP World : les leçons d’un bras de fer portuaire au long cours](https://www.jeuneafrique.com/1744990/economie-entreprises/doraleh-dp-world-les-lecons-dun-bras-de-fer-portuaire-au-long-cours/)
 - [Heinie Werth (SanlamAllianz) : « Nous devons prouver que l’assurance est bénéfique à tous »](https://www.jeuneafrique.com/1747875/economie-entreprises/heinie-werth-sanlamallianz-nous-devons-prouver-que-lassurance-est-benefique-a-tous/)
 
