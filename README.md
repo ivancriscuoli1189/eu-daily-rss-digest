@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Jan 2026, 13:34*
+*Generato: 05 Jan 2026, 15:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
 - [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
-- [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 - [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Capture de Maduro au Venezuela : le bal des opportunistes et des populistes](https://www.jeuneafrique.com/1753971/politique/capture-de-maduro-au-venezuela-le-bal-des-opportunistes-et-des-populistes/)
 - [Au Nigeria, plus de 30 morts et plusieurs personnes enlevées dans l’Ouest](https://www.jeuneafrique.com/1753915/politique/au-nigeria-plus-de-30-morts-et-plusieurs-personnes-enlevees-dans-louest/)
 - [Présidentielle en Guinée : après la validation de sa victoire par la Cour suprême, Doumbouya appelle « à bâtir un pays de souveraineté »](https://www.jeuneafrique.com/1753918/politique/presidentielle-en-guinee-apres-la-validation-de-sa-victoire-par-la-cour-supreme-doumbouya-appelle-a-batir-un-pays-de-souverainete/)
 - [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
@@ -271,7 +272,6 @@
 - [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
 - [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
 - [Violents combats dans l’est de la RDC : une réunion des acteurs régionaux prévue en Zambie](https://www.jeuneafrique.com/1753857/politique/violents-combats-dans-lest-de-la-rdc/)
-- [Victoire présidentielle téléphonée pour l’ancien légionnaire Doumbouya](https://www.jeuneafrique.com/1753811/politique/victoire-presidentielle-telephonee-pour-lancien-legionnaire-doumbouya/)
 - [Du fer de Simandou au port de Monrovia, ce nouveau corridor qui captive Trump](https://www.jeuneafrique.com/1753295/economie-entreprises/du-fer-de-simandou-au-port-de-monrovia-ce-nouveau-corridor-qui-captive-trump/)
 - [Doraleh-DP World : les leçons d’un bras de fer portuaire au long cours](https://www.jeuneafrique.com/1744990/economie-entreprises/doraleh-dp-world-les-lecons-dun-bras-de-fer-portuaire-au-long-cours/)
 
