@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Jan 2026, 21:08*
+*Generato: 05 Jan 2026, 06:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Ciudad de la Paz devient la nouvelle capitale de Guinée équatoriale](https://www.jeuneafrique.com/1753878/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-guinee-equatoriale/)
+- [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
+- [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
+- [Violents combats dans l’est de la RDC : une réunion des acteurs régionaux prévue en Zambie](https://www.jeuneafrique.com/1753857/politique/violents-combats-dans-lest-de-la-rdc/)
+- [Victoire présidentielle téléphonée pour l’ancien légionnaire Doumbouya](https://www.jeuneafrique.com/1753811/politique/victoire-presidentielle-telephonee-pour-lancien-legionnaire-doumbouya/)
+- [Rached Ghannouchi à Jeune Afrique en 1990 : « On ne peut rien faire sans la femme »](https://www.jeuneafrique.com/1724622/politique/rached-ghannouchi-a-jeune-afrique-en-1990-on-ne-peut-rien-faire-sans-la-femme/)
 - [L’équilibrisme des vœux présidentiels 2026](https://www.jeuneafrique.com/1753802/politique/lequilibrisme-des-voeux-presidentiels-2026/)
 - [L’historien algérien Mohammed Harbi, critique du pouvoir post-indépendance, est mort à Paris](https://www.jeuneafrique.com/1753821/politique/lhistorien-algerien-mohammed-harbi-critique-du-pouvoir-post-independance-est-mort-a-paris/)
-- [L’or disparu du Cameroun : ce que l’on sait d’un potentiel scandale politique](https://www.jeuneafrique.com/1753514/politique/lor-disparu-du-cameroun-ce-que-lon-sait-dun-potentiel-scandale-politique/)
-- [10 choses à savoir sur Ferhat Mehenni, figure de proue du séparatisme kabyle](https://www.jeuneafrique.com/1753552/politique/10-choses-a-savoir-sur-ferhat-mehenni-figure-de-proue-du-separatisme-kabyle/)
-- [Sénégal : Diomaye assure qu’« aucune violence faite aux femmes n’est tolérable »](https://www.jeuneafrique.com/1753696/politique/senegal-diomaye-assure-qu-aucune-violence-faite-aux-femmes-nest-tolerable/)
-- [Produits d’hygiène périmés, revirement officiel et soupçons de corruption : l’affaire Softcare secoue le Sénégal](https://www.jeuneafrique.com/1753324/politique/produits-dhygiene-perimes-revirement-officiel-et-soupcons-de-corruption-laffaire-softcare-secoue-le-senegal/)
-- [Mali : Assimi Goïta radie de nouveaux hauts gradés de l’armée](https://www.jeuneafrique.com/1753596/politique/mali-assimi-goita-radie-de-nouveaux-hauts-grades-de-larmee/)
-- [Abdoulkader Houssein Omar : « Djibouti a toujours fait le choix de la paix »](https://www.jeuneafrique.com/1745016/politique/abdoulkader-houssein-omar-djibouti-a-toujours-fait-le-choix-de-la-paix/)
-- [« Dettes cachées » : au Congo et au Tchad, le jeu dangereux des prêts auprès de Trafigura et Glencore](https://www.jeuneafrique.com/1751477/economie-entreprises/dettes-cachees-au-congo-et-au-tchad-le-jeu-dangereux-des-prets-aupres-de-trafigura-et-glencore/)
-- [Comment Djibouti veut s’imposer comme un hub digital africain](https://www.jeuneafrique.com/1745293/economie-entreprises/comment-djibouti-veut-simposer-comme-un-hub-digital-africain/)
+- [Doraleh-DP World : les leçons d’un bras de fer portuaire au long cours](https://www.jeuneafrique.com/1744990/economie-entreprises/doraleh-dp-world-les-lecons-dun-bras-de-fer-portuaire-au-long-cours/)
+- [Heinie Werth (SanlamAllianz) : « Nous devons prouver que l’assurance est bénéfique à tous »](https://www.jeuneafrique.com/1747875/economie-entreprises/heinie-werth-sanlamallianz-nous-devons-prouver-que-lassurance-est-benefique-a-tous/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
