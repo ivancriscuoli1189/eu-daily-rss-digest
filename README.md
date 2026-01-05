@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Jan 2026, 09:21*
+*Generato: 05 Jan 2026, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,7 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
+- [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – Par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
 - [Ciudad de la Paz devient la nouvelle capitale de Guinée équatoriale](https://www.jeuneafrique.com/1753878/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-guinee-equatoriale/)
 - [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
 - [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
