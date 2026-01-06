@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 12:19*
+*Generato: 06 Jan 2026, 13:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -267,11 +267,11 @@
 - [L’opposition togolaise demande la libération de 70 « détenus politiques »](https://www.jeuneafrique.com/1754118/politique/lopposition-togolaise-demande-la-liberation-de-70-detenus-politiques/)
 - [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
 - [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
+- [Burkina Faso : ce que l’on sait de la tentative de déstabilisation évoquée par des soutiens d’Ibrahim Traoré](https://www.jeuneafrique.com/1754004/politique/burkina-faso-ce-que-lon-sait-de-la-tentative-de-destabilisation-evoquee-par-des-soutiens-dibrahim-traore/)
+- [Maroc, Algérie, Tunisie : après l’opération américaine contre Nicolás Maduro, réactions politiques mais gouvernements silencieux](https://www.jeuneafrique.com/1753946/politique/maroc-algerie-tunisie-apres-loperation-americaine-contre-nicolas-maduro-reactions-politiques-mais-gouvernements-silencieux/)
 - [Capture de Maduro au Venezuela : le bal des opportunistes et des populistes](https://www.jeuneafrique.com/1753971/politique/capture-de-maduro-au-venezuela-le-bal-des-opportunistes-et-des-populistes/)
 - [Après les frappes américaines de Noël, la peur s’empare des musulmans dans les zones rurales du Nigeria](https://www.jeuneafrique.com/1753949/politique/apres-les-frappes-americaines-de-noel-la-peur-sempare-des-musulmans-dans-les-zones-rurales-du-nigeria/)
 - [Au Nigeria, plus de 30 morts et plusieurs personnes enlevées dans l’Ouest](https://www.jeuneafrique.com/1753915/politique/au-nigeria-plus-de-30-morts-et-plusieurs-personnes-enlevees-dans-louest/)
-- [Présidentielle en Guinée : après la validation de sa victoire par la Cour suprême, Doumbouya appelle « à bâtir un pays de souveraineté »](https://www.jeuneafrique.com/1753918/politique/presidentielle-en-guinee-apres-la-validation-de-sa-victoire-par-la-cour-supreme-doumbouya-appelle-a-batir-un-pays-de-souverainete/)
-- [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
 - [James Mworia (Centum) : « Nous devons encourager une culture de l’épargne en Afrique »](https://www.jeuneafrique.com/1754016/economie-entreprises/james-mworia-centum-nous-devons-encourager-une-culture-de-lepargne-en-afrique/)
 
