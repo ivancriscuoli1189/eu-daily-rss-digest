@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 15:11*
+*Generato: 06 Jan 2026, 18:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le chef de la diplomatie israélienne s’est rendu au Somaliland : « une incursion » pour la Somalie](https://www.jeuneafrique.com/1754397/politique/le-chef-de-la-diplomatie-israelienne-sest-rendu-au-somaliland-une-incursion-pour-la-somalie/)
+- [Nigeria : des vols de reconnaissance américains pour aider l’armée dans ses frappes](https://www.jeuneafrique.com/1754369/politique/nigeria-des-vols-de-reconnaissance-americains-pour-aider-larmee-dans-ses-frappes/)
 - [En Guinée, l’investiture du président Doumbouya aura lieu le 17 janvier](https://www.jeuneafrique.com/1754312/politique/en-guinee-linvestiture-du-president-doumbouya-aura-lieu-le-17-janvier/)
 - [Tensions entre l’Algérie et le Mali : quand un discours de Tebboune fait grincer des dents à Bamako](https://www.jeuneafrique.com/1754244/politique/tensions-entre-lalgerie-et-le-mali-quand-un-discours-de-tebboune-fait-grincer-des-dents-a-bamako/)
 - [L’opposition togolaise demande la libération de 70 « détenus politiques »](https://www.jeuneafrique.com/1754118/politique/lopposition-togolaise-demande-la-liberation-de-70-detenus-politiques/)
 - [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
 - [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
 - [Burkina Faso : ce que l’on sait de la tentative de déstabilisation évoquée par des soutiens d’Ibrahim Traoré](https://www.jeuneafrique.com/1754004/politique/burkina-faso-ce-que-lon-sait-de-la-tentative-de-destabilisation-evoquee-par-des-soutiens-dibrahim-traore/)
-- [Maroc, Algérie, Tunisie : après l’opération américaine contre Nicolás Maduro, réactions politiques mais gouvernements silencieux](https://www.jeuneafrique.com/1753946/politique/maroc-algerie-tunisie-apres-loperation-americaine-contre-nicolas-maduro-reactions-politiques-mais-gouvernements-silencieux/)
-- [Capture de Maduro au Venezuela : le bal des opportunistes et des populistes](https://www.jeuneafrique.com/1753971/politique/capture-de-maduro-au-venezuela-le-bal-des-opportunistes-et-des-populistes/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
 - [James Mworia (Centum) : « Nous devons encourager une culture de l’épargne en Afrique »](https://www.jeuneafrique.com/1754016/economie-entreprises/james-mworia-centum-nous-devons-encourager-une-culture-de-lepargne-en-afrique/)
 
