@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 09:16*
+*Generato: 06 Jan 2026, 11:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’opposition togolaise demande la libération de 70 « détenus politiques »](https://www.jeuneafrique.com/1754118/politique/lopposition-togolaise-demande-la-liberation-de-70-detenus-politiques/)
 - [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
 - [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
 - [Capture de Maduro au Venezuela : le bal des opportunistes et des populistes](https://www.jeuneafrique.com/1753971/politique/capture-de-maduro-au-venezuela-le-bal-des-opportunistes-et-des-populistes/)
@@ -271,9 +272,8 @@
 - [Au Nigeria, plus de 30 morts et plusieurs personnes enlevées dans l’Ouest](https://www.jeuneafrique.com/1753915/politique/au-nigeria-plus-de-30-morts-et-plusieurs-personnes-enlevees-dans-louest/)
 - [Présidentielle en Guinée : après la validation de sa victoire par la Cour suprême, Doumbouya appelle « à bâtir un pays de souveraineté »](https://www.jeuneafrique.com/1753918/politique/presidentielle-en-guinee-apres-la-validation-de-sa-victoire-par-la-cour-supreme-doumbouya-appelle-a-batir-un-pays-de-souverainete/)
 - [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
-- [« Mamadi Doumbouya a tout acheté ! » : dans le quartier de La Minière, à Conakry, la frénésie immobilière du président](https://www.jeuneafrique.com/1753612/politique/mamadi-doumbouya-a-tout-achete-dans-le-quartier-de-la-miniere-a-conakry-la-frenesie-immobiliere-du-president/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
-- [Cuivre en Afrique : quelles forces façonneront le marché en 2026 ?](https://www.jeuneafrique.com/1753758/economie-entreprises/cuivre-en-afrique-quelles-forces-faconneront-le-marche-en-2026/)
+- [James Mworia (Centum) : « Nous devons encourager une culture de l’épargne en Afrique »](https://www.jeuneafrique.com/1754016/economie-entreprises/james-mworia-centum-nous-devons-encourager-une-culture-de-lepargne-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
