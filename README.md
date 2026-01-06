@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 06:17*
+*Generato: 06 Jan 2026, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
+- [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
 - [Capture de Maduro au Venezuela : le bal des opportunistes et des populistes](https://www.jeuneafrique.com/1753971/politique/capture-de-maduro-au-venezuela-le-bal-des-opportunistes-et-des-populistes/)
+- [Après les frappes américaines de Noël, la peur s’empare des musulmans dans les zones rurales du Nigeria](https://www.jeuneafrique.com/1753949/politique/apres-les-frappes-americaines-de-noel-la-peur-sempare-des-musulmans-dans-les-zones-rurales-du-nigeria/)
 - [Au Nigeria, plus de 30 morts et plusieurs personnes enlevées dans l’Ouest](https://www.jeuneafrique.com/1753915/politique/au-nigeria-plus-de-30-morts-et-plusieurs-personnes-enlevees-dans-louest/)
 - [Présidentielle en Guinée : après la validation de sa victoire par la Cour suprême, Doumbouya appelle « à bâtir un pays de souveraineté »](https://www.jeuneafrique.com/1753918/politique/presidentielle-en-guinee-apres-la-validation-de-sa-victoire-par-la-cour-supreme-doumbouya-appelle-a-batir-un-pays-de-souverainete/)
 - [« La démocratie ne peut pas être en crise en Afrique puisqu’elle n’y existe pas » – par Achille Mbembe](https://www.jeuneafrique.com/1747665/politique/la-democratie-ne-peut-pas-etre-en-crise-en-afrique-puisquelle-ny-existe-pas/)
-- [Ciudad de la Paz devient la nouvelle capitale de Guinée équatoriale](https://www.jeuneafrique.com/1753878/politique/ciudad-de-la-paz-devient-la-nouvelle-capitale-de-guinee-equatoriale/)
-- [Présidentielle en Centrafrique : le camp Touadéra rejette la victoire annoncée par Dologuélé](https://www.jeuneafrique.com/1753867/politique/presidentielle-en-centrafrique-le-camp-touadera-rejette-la-victoire-annoncee-par-dologuele/)
-- [Présidentielle en Centrafrique : Anicet-Georges Dologuélé revendique sa victoire face à Faustin-Archange Touadéra](https://www.jeuneafrique.com/1753859/politique/presidentielle-en-centrafrique-anicet-georges-dologuele-revendique-sa-victoire-face-a-faustin-archange-touadera/)
-- [Violents combats dans l’est de la RDC : une réunion des acteurs régionaux prévue en Zambie](https://www.jeuneafrique.com/1753857/politique/violents-combats-dans-lest-de-la-rdc/)
+- [« Mamadi Doumbouya a tout acheté ! » : dans le quartier de La Minière, à Conakry, la frénésie immobilière du président](https://www.jeuneafrique.com/1753612/politique/mamadi-doumbouya-a-tout-achete-dans-le-quartier-de-la-miniere-a-conakry-la-frenesie-immobiliere-du-president/)
+- [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
 - [Cuivre en Afrique : quelles forces façonneront le marché en 2026 ?](https://www.jeuneafrique.com/1753758/economie-entreprises/cuivre-en-afrique-quelles-forces-faconneront-le-marche-en-2026/)
-- [Dangote, Obasanjo, Macron… La galaxie très VIP d’Aigboje Aig-Imoukhuede, président d’Access Holdings](https://www.jeuneafrique.com/1753504/economie-entreprises/dangote-obasanjo-macron-la-galaxie-tres-vip-daigboje-aig-imoukhuede-president-daccess-holdings/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
