@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 18:15*
+*Generato: 06 Jan 2026, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -271,7 +271,7 @@
 - [L’opposition togolaise demande la libération de 70 « détenus politiques »](https://www.jeuneafrique.com/1754118/politique/lopposition-togolaise-demande-la-liberation-de-70-detenus-politiques/)
 - [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
 - [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
-- [Burkina Faso : ce que l’on sait de la tentative de déstabilisation évoquée par des soutiens d’Ibrahim Traoré](https://www.jeuneafrique.com/1754004/politique/burkina-faso-ce-que-lon-sait-de-la-tentative-de-destabilisation-evoquee-par-des-soutiens-dibrahim-traore/)
+- [Cameroun : où en est l’enquête sur la mort d’Anicet Ekane](https://www.jeuneafrique.com/1753542/politique/cameroun-ou-en-est-lenquete-sur-la-mort-danicet-ekane/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
 - [James Mworia (Centum) : « Nous devons encourager une culture de l’épargne en Afrique »](https://www.jeuneafrique.com/1754016/economie-entreprises/james-mworia-centum-nous-devons-encourager-une-culture-de-lepargne-en-afrique/)
 
