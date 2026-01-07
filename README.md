@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Jan 2026, 21:10*
+*Generato: 07 Jan 2026, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
-- [FES-ICJ High-Level Conference: The role of civil society in the UN80 Initiative](https://www.icj.org/fes-icj-high-level-conference-the-role-of-civil-society-in-the-un80-initiative/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Myanmar: General Elections a Sham to Legitimize Military Rule and Not Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 - [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
-- [Tunisia: “Conspiracy Case” appeal proceedings a travesty of justice](https://www.icj.org/tunisia-conspiracy-case-appeal-proceedings-a-travesty-of-justice/)
 
 ## THINK TANK – ECFR – MENA
 
