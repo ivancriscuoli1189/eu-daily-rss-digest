@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Jan 2026, 11:02*
+*Generato: 07 Jan 2026, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -267,11 +267,11 @@
 - [Au Niger, l’ancien ministre du Pétrole Mahaman Moustapha Barké remis en liberté](https://www.jeuneafrique.com/1754462/politique/au-niger-lancien-ministre-du-petrole-mahaman-moustapha-barke-remis-en-liberte/)
 - [En Guinée, Claude Pivi meurt en détention](https://www.jeuneafrique.com/1754459/politique/en-guinee-claude-pivi-meurt-en-detention/)
 - [En Centrafrique, des agents de sécurité d’Anicet-Georges Dologuélé interpellés en pleine nuit](https://www.jeuneafrique.com/1754423/politique/en-centrafrique-des-agents-de-securite-danicet-georges-dologuele-interpelles-en-pleine-nuit/)
+- [Côte d’Ivoire : Alassane Ouattara reconduit ses généraux dans leurs fonctions](https://www.jeuneafrique.com/1754269/politique/cote-divoire-alassane-ouattara-reconduit-ses-generaux-dans-leurs-fonctions/)
 - [Le chef de la diplomatie israélienne s’est rendu au Somaliland : « une incursion » pour la Somalie](https://www.jeuneafrique.com/1754397/politique/le-chef-de-la-diplomatie-israelienne-sest-rendu-au-somaliland-une-incursion-pour-la-somalie/)
 - [Nigeria : des vols de reconnaissance américains pour aider l’armée dans ses frappes](https://www.jeuneafrique.com/1754369/politique/nigeria-des-vols-de-reconnaissance-americains-pour-aider-larmee-dans-ses-frappes/)
 - [En Guinée, l’investiture du président Doumbouya aura lieu le 17 janvier](https://www.jeuneafrique.com/1754312/politique/en-guinee-linvestiture-du-president-doumbouya-aura-lieu-le-17-janvier/)
 - [Tensions entre l’Algérie et le Mali : quand un discours de Tebboune fait grincer des dents à Bamako](https://www.jeuneafrique.com/1754244/politique/tensions-entre-lalgerie-et-le-mali-quand-un-discours-de-tebboune-fait-grincer-des-dents-a-bamako/)
-- [Bénin-Niger : cinq questions pour comprendre la nouvelle escalade diplomatique](https://www.jeuneafrique.com/1754080/politique/benin-niger-cinq-questions-pour-comprendre-la-nouvelle-escalade-diplomatique/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
 - [CAN 2025 : jusqu’où le Maroc peut-il financer la fête du football ?](https://www.jeuneafrique.com/1752710/economie-entreprises/can-2025-jusquou-le-maroc-peut-il-financer-la-fete-du-football/)
 
