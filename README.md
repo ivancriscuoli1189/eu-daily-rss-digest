@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Jan 2026, 06:17*
+*Generato: 07 Jan 2026, 09:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, Claude Pivi meurt en détention](https://www.jeuneafrique.com/1754459/politique/en-guinee-claude-pivi-meurt-en-detention/)
+- [En Centrafrique, des agents de sécurité d’Anicet-Georges Dologuélé interpellés en pleine nuit](https://www.jeuneafrique.com/1754423/politique/en-centrafrique-des-agents-de-securite-danicet-georges-dologuele-interpelles-en-pleine-nuit/)
 - [Le chef de la diplomatie israélienne s’est rendu au Somaliland : « une incursion » pour la Somalie](https://www.jeuneafrique.com/1754397/politique/le-chef-de-la-diplomatie-israelienne-sest-rendu-au-somaliland-une-incursion-pour-la-somalie/)
 - [Nigeria : des vols de reconnaissance américains pour aider l’armée dans ses frappes](https://www.jeuneafrique.com/1754369/politique/nigeria-des-vols-de-reconnaissance-americains-pour-aider-larmee-dans-ses-frappes/)
 - [En Guinée, l’investiture du président Doumbouya aura lieu le 17 janvier](https://www.jeuneafrique.com/1754312/politique/en-guinee-linvestiture-du-president-doumbouya-aura-lieu-le-17-janvier/)
 - [Tensions entre l’Algérie et le Mali : quand un discours de Tebboune fait grincer des dents à Bamako](https://www.jeuneafrique.com/1754244/politique/tensions-entre-lalgerie-et-le-mali-quand-un-discours-de-tebboune-fait-grincer-des-dents-a-bamako/)
+- [Bénin-Niger : cinq questions pour comprendre la nouvelle escalade diplomatique](https://www.jeuneafrique.com/1754080/politique/benin-niger-cinq-questions-pour-comprendre-la-nouvelle-escalade-diplomatique/)
 - [L’opposition togolaise demande la libération de 70 « détenus politiques »](https://www.jeuneafrique.com/1754118/politique/lopposition-togolaise-demande-la-liberation-de-70-detenus-politiques/)
-- [Un préfet et sa famille tués par des jihadistes présumés au Niger](https://www.jeuneafrique.com/1754097/politique/un-prefet-et-sa-famille-tues-par-des-jihadistes-presumes-au-niger/)
-- [En Centrafrique, Touadéra réélu sans surprise pour un troisième mandat](https://www.jeuneafrique.com/1754083/politique/en-centrafrique-touadera-reelu-sans-surprise-pour-un-troisieme-mandat/)
-- [Cameroun : où en est l’enquête sur la mort d’Anicet Ekane](https://www.jeuneafrique.com/1753542/politique/cameroun-ou-en-est-lenquete-sur-la-mort-danicet-ekane/)
 - [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
-- [James Mworia (Centum) : « Nous devons encourager une culture de l’épargne en Afrique »](https://www.jeuneafrique.com/1754016/economie-entreprises/james-mworia-centum-nous-devons-encourager-une-culture-de-lepargne-en-afrique/)
+- [CAN 2025 : jusqu’où le Maroc peut-il financer la fête du football ?](https://www.jeuneafrique.com/1752710/economie-entreprises/can-2025-jusquou-le-maroc-peut-il-financer-la-fete-du-football/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
