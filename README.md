@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Jan 2026, 15:13*
+*Generato: 07 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
+- [Rumeur de tentative de déstabilisation au Burkina Faso : la junte confirme](https://www.jeuneafrique.com/1754520/politique/rumeur-de-tentative-de-destabilisation-au-burkina-faso-la-junte-confirme/)
 - [Au Niger, l’ancien ministre du Pétrole Mahaman Moustapha Barké remis en liberté](https://www.jeuneafrique.com/1754462/politique/au-niger-lancien-ministre-du-petrole-mahaman-moustapha-barke-remis-en-liberte/)
 - [En Algérie, la justice refuse la libération de Saida Neghza](https://www.jeuneafrique.com/1754458/politique/en-algerie-la-justice-refuse-la-liberation-de-saida-neghza/)
 - [En Guinée, Claude Pivi meurt en détention](https://www.jeuneafrique.com/1754459/politique/en-guinee-claude-pivi-meurt-en-detention/)
+- [Pourquoi Djibouti est devenu si stratégique pour les pays du Golfe](https://www.jeuneafrique.com/1744998/politique/pourquoi-djibouti-est-devenu-si-strategique-pour-les-pays-du-golfe/)
 - [En Centrafrique, des agents de sécurité d’Anicet-Georges Dologuélé interpellés en pleine nuit](https://www.jeuneafrique.com/1754423/politique/en-centrafrique-des-agents-de-securite-danicet-georges-dologuele-interpelles-en-pleine-nuit/)
 - [Côte d’Ivoire : Alassane Ouattara reconduit ses généraux dans leurs fonctions](https://www.jeuneafrique.com/1754269/politique/cote-divoire-alassane-ouattara-reconduit-ses-generaux-dans-leurs-fonctions/)
-- [Le chef de la diplomatie israélienne s’est rendu au Somaliland : « une incursion » pour la Somalie](https://www.jeuneafrique.com/1754397/politique/le-chef-de-la-diplomatie-israelienne-sest-rendu-au-somaliland-une-incursion-pour-la-somalie/)
-- [Nigeria : des vols de reconnaissance américains pour aider l’armée dans ses frappes](https://www.jeuneafrique.com/1754369/politique/nigeria-des-vols-de-reconnaissance-americains-pour-aider-larmee-dans-ses-frappes/)
-- [En Guinée, l’investiture du président Doumbouya aura lieu le 17 janvier](https://www.jeuneafrique.com/1754312/politique/en-guinee-linvestiture-du-president-doumbouya-aura-lieu-le-17-janvier/)
-- [Venezuela, dédollarisation, guerre commerciale… Pourquoi l’or atteint des sommets ?](https://www.jeuneafrique.com/1754371/economie-entreprises/venezuela-dedollarisation-guerre-commerciale-pourquoi-lor-atteint-des-sommets/)
-- [« Performance historique » pour le tourisme au Maroc en 2025](https://www.jeuneafrique.com/1754099/economie-entreprises/performance-historique-pour-le-tourisme-au-maroc-en-2025/)
+- [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
+- [Dette du Sénégal : la restructuration est-elle inévitable ?](https://www.jeuneafrique.com/1754622/economie-entreprises/dette-du-senegal-la-restructuration-est-elle-inevitable/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
