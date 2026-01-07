@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Jan 2026, 18:16*
+*Generato: 07 Jan 2026, 21:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -273,7 +273,7 @@
 - [En Centrafrique, des agents de sécurité d’Anicet-Georges Dologuélé interpellés en pleine nuit](https://www.jeuneafrique.com/1754423/politique/en-centrafrique-des-agents-de-securite-danicet-georges-dologuele-interpelles-en-pleine-nuit/)
 - [Côte d’Ivoire : Alassane Ouattara reconduit ses généraux dans leurs fonctions](https://www.jeuneafrique.com/1754269/politique/cote-divoire-alassane-ouattara-reconduit-ses-generaux-dans-leurs-fonctions/)
 - [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
-- [Dette du Sénégal : la restructuration est-elle inévitable ?](https://www.jeuneafrique.com/1754622/economie-entreprises/dette-du-senegal-la-restructuration-est-elle-inevitable/)
+- [Maroc : comment Alami Lazraq prépare la relève après avoir sauvé Alliances développement immobilier](https://www.jeuneafrique.com/1754564/economie-entreprises/maroc-comment-alami-lazraq-prepare-la-releve-apres-avoir-sauve-alliances-developpement-immobilier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
