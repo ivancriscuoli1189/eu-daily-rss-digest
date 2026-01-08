@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Jan 2026, 15:14*
+*Generato: 08 Jan 2026, 18:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -270,10 +270,10 @@
 - [L’ancien ministre ghanéen des Finances arrêté aux États-Unis](https://www.jeuneafrique.com/1754809/politique/lancien-ministre-ghaneen-des-finances-arrete-aux-etats-unis/)
 - [Au Sénégal, les rivalités politiques se déportent dans le bassin arachidier](https://www.jeuneafrique.com/1754578/politique/au-senegal-les-rivalites-politiques-se-deportent-dans-le-bassin-arachidier/)
 - [Les avocats marocains en grève contre la nouvelle loi réglementant leur profession](https://www.jeuneafrique.com/1754474/politique/les-avocats-marocains-en-greve-contre-la-nouvelle-loi-reglementant-leur-profession/)
+- [Cameroun : ouverture du procès des personnes arrêtées lors de la crise postélectorale](https://www.jeuneafrique.com/1754567/politique/cameroun-ouverture-du-proces-des-personnes-arretees-lors-de-la-crise-postelectorale/)
 - [Côte d’Ivoire : Soumaïla Bredoumy, porte-parole du PDCI, en liberté provisoire](https://www.jeuneafrique.com/1754663/politique/cote-divoire-soumaila-bredoumy-porte-parole-du-pdci-en-liberte-provisoire/)
-- [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
 - [Pétrole au Nigeria : MRS soutenue par Dangote impose sa loi face à la NNPC](https://www.jeuneafrique.com/1754139/economie-entreprises/petrole-au-nigeria-mrs-soutenue-par-dangote-impose-sa-loi-face-a-la-nnpc/)
-- [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
+- [Gregory Clerc et Castel, la chronique d’une chute annoncée](https://www.jeuneafrique.com/1754634/economie-entreprises/gregory-clerc-et-castel-la-chronique-dune-chute-annoncee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
