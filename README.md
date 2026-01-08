@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Jan 2026, 06:17*
+*Generato: 08 Jan 2026, 09:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : Soumaïla Bredoumy, porte-parole du PDCI, en liberté provisoire](https://www.jeuneafrique.com/1754663/politique/cote-divoire-soumaila-bredoumy-porte-parole-du-pdci-en-liberte-provisoire/)
 - [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
+- [Algérie : que sait-on des tensions actuelles entre le président Tebboune et le général Chengriha ?](https://www.jeuneafrique.com/1754589/politique/algerie-que-sait-on-des-tensions-actuelles-entre-le-president-tebboune-et-le-general-chengriha/)
+- [En Côte d’Ivoire, démission du Premier ministre et du gouvernement](https://www.jeuneafrique.com/1754603/politique/en-cote-divoire-demission-du-gouvernement-et-du-premier-ministre/)
 - [Rumeur de tentative de déstabilisation au Burkina Faso : la junte confirme](https://www.jeuneafrique.com/1754520/politique/rumeur-de-tentative-de-destabilisation-au-burkina-faso-la-junte-confirme/)
 - [Au Niger, l’ancien ministre du Pétrole Mahaman Moustapha Barké remis en liberté](https://www.jeuneafrique.com/1754462/politique/au-niger-lancien-ministre-du-petrole-mahaman-moustapha-barke-remis-en-liberte/)
 - [En Algérie, la justice refuse la libération de Saida Neghza](https://www.jeuneafrique.com/1754458/politique/en-algerie-la-justice-refuse-la-liberation-de-saida-neghza/)
 - [En Guinée, Claude Pivi meurt en détention](https://www.jeuneafrique.com/1754459/politique/en-guinee-claude-pivi-meurt-en-detention/)
-- [Pourquoi Djibouti est devenu si stratégique pour les pays du Golfe](https://www.jeuneafrique.com/1744998/politique/pourquoi-djibouti-est-devenu-si-strategique-pour-les-pays-du-golfe/)
-- [En Centrafrique, des agents de sécurité d’Anicet-Georges Dologuélé interpellés en pleine nuit](https://www.jeuneafrique.com/1754423/politique/en-centrafrique-des-agents-de-securite-danicet-georges-dologuele-interpelles-en-pleine-nuit/)
-- [Côte d’Ivoire : Alassane Ouattara reconduit ses généraux dans leurs fonctions](https://www.jeuneafrique.com/1754269/politique/cote-divoire-alassane-ouattara-reconduit-ses-generaux-dans-leurs-fonctions/)
 - [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
 - [Maroc : comment Alami Lazraq prépare la relève après avoir sauvé Alliances développement immobilier](https://www.jeuneafrique.com/1754564/economie-entreprises/maroc-comment-alami-lazraq-prepare-la-releve-apres-avoir-sauve-alliances-developpement-immobilier/)
 
