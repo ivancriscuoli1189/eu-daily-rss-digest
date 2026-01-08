@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Jan 2026, 21:10*
+*Generato: 08 Jan 2026, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
