@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Jan 2026, 09:18*
+*Generato: 08 Jan 2026, 11:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Centrafrique, l’armée et Wagner affrontent la milice AAKG dans le sud-est du pays](https://www.jeuneafrique.com/1754793/politique/en-centrafrique-larmee-et-wagner-affrontent-la-milice-aakg-dans-le-sud-est-du-pays/)
+- [L’ancien ministre ghanéen des Finances arrêté aux États-Unis](https://www.jeuneafrique.com/1754809/politique/lancien-ministre-ghaneen-des-finances-arrete-aux-etats-unis/)
 - [Côte d’Ivoire : Soumaïla Bredoumy, porte-parole du PDCI, en liberté provisoire](https://www.jeuneafrique.com/1754663/politique/cote-divoire-soumaila-bredoumy-porte-parole-du-pdci-en-liberte-provisoire/)
 - [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
 - [Algérie : que sait-on des tensions actuelles entre le président Tebboune et le général Chengriha ?](https://www.jeuneafrique.com/1754589/politique/algerie-que-sait-on-des-tensions-actuelles-entre-le-president-tebboune-et-le-general-chengriha/)
 - [En Côte d’Ivoire, démission du Premier ministre et du gouvernement](https://www.jeuneafrique.com/1754603/politique/en-cote-divoire-demission-du-gouvernement-et-du-premier-ministre/)
 - [Rumeur de tentative de déstabilisation au Burkina Faso : la junte confirme](https://www.jeuneafrique.com/1754520/politique/rumeur-de-tentative-de-destabilisation-au-burkina-faso-la-junte-confirme/)
 - [Au Niger, l’ancien ministre du Pétrole Mahaman Moustapha Barké remis en liberté](https://www.jeuneafrique.com/1754462/politique/au-niger-lancien-ministre-du-petrole-mahaman-moustapha-barke-remis-en-liberte/)
-- [En Algérie, la justice refuse la libération de Saida Neghza](https://www.jeuneafrique.com/1754458/politique/en-algerie-la-justice-refuse-la-liberation-de-saida-neghza/)
-- [En Guinée, Claude Pivi meurt en détention](https://www.jeuneafrique.com/1754459/politique/en-guinee-claude-pivi-meurt-en-detention/)
 - [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
-- [Maroc : comment Alami Lazraq prépare la relève après avoir sauvé Alliances développement immobilier](https://www.jeuneafrique.com/1754564/economie-entreprises/maroc-comment-alami-lazraq-prepare-la-releve-apres-avoir-sauve-alliances-developpement-immobilier/)
+- [Dette du Sénégal : la restructuration est-elle inévitable ?](https://www.jeuneafrique.com/1754622/economie-entreprises/dette-du-senegal-la-restructuration-est-elle-inevitable/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
