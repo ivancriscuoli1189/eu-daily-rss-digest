@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Jan 2026, 11:12*
+*Generato: 08 Jan 2026, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,19 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
 ## UE – DG HOME – News
 
 - [bg български](https://home-affairs.ec.europa.eu/news_bg)
@@ -212,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
-- [UN HRC: ICJ Statement on the Human Rights Situation in Venezuela](https://www.icj.org/un-hrc-icj-statement-on-the-human-rights-situation-in-venezuela/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
-- [Civil Society Joint Statement: Germany’s surrender of El Hishri to the ICC is a turning point for accountability in the Libya Situation](https://www.icj.org/civil-society-joint-statement-germanys-surrender-of-el-hishri-to-the-icc-is-a-turning-point-for-accountability-in-the-libya-situation/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -266,14 +253,14 @@
 
 - [En Centrafrique, l’armée et Wagner affrontent la milice AAKG dans le sud-est du pays](https://www.jeuneafrique.com/1754793/politique/en-centrafrique-larmee-et-wagner-affrontent-la-milice-aakg-dans-le-sud-est-du-pays/)
 - [L’ancien ministre ghanéen des Finances arrêté aux États-Unis](https://www.jeuneafrique.com/1754809/politique/lancien-ministre-ghaneen-des-finances-arrete-aux-etats-unis/)
+- [Les avocats marocains en grève contre la nouvelle loi réglementant leur profession](https://www.jeuneafrique.com/1754474/politique/les-avocats-marocains-en-greve-contre-la-nouvelle-loi-reglementant-leur-profession/)
 - [Côte d’Ivoire : Soumaïla Bredoumy, porte-parole du PDCI, en liberté provisoire](https://www.jeuneafrique.com/1754663/politique/cote-divoire-soumaila-bredoumy-porte-parole-du-pdci-en-liberte-provisoire/)
 - [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
 - [Algérie : que sait-on des tensions actuelles entre le président Tebboune et le général Chengriha ?](https://www.jeuneafrique.com/1754589/politique/algerie-que-sait-on-des-tensions-actuelles-entre-le-president-tebboune-et-le-general-chengriha/)
 - [En Côte d’Ivoire, démission du Premier ministre et du gouvernement](https://www.jeuneafrique.com/1754603/politique/en-cote-divoire-demission-du-gouvernement-et-du-premier-ministre/)
 - [Rumeur de tentative de déstabilisation au Burkina Faso : la junte confirme](https://www.jeuneafrique.com/1754520/politique/rumeur-de-tentative-de-destabilisation-au-burkina-faso-la-junte-confirme/)
-- [Au Niger, l’ancien ministre du Pétrole Mahaman Moustapha Barké remis en liberté](https://www.jeuneafrique.com/1754462/politique/au-niger-lancien-ministre-du-petrole-mahaman-moustapha-barke-remis-en-liberte/)
+- [Pétrole au Nigeria : MRS soutenue par Dangote impose sa loi face à la NNPC](https://www.jeuneafrique.com/1754139/economie-entreprises/petrole-au-nigeria-mrs-soutenue-par-dangote-impose-sa-loi-face-a-la-nnpc/)
 - [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
-- [Dette du Sénégal : la restructuration est-elle inévitable ?](https://www.jeuneafrique.com/1754622/economie-entreprises/dette-du-senegal-la-restructuration-est-elle-inevitable/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
