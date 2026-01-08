@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Jan 2026, 12:20*
+*Generato: 08 Jan 2026, 13:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -118,6 +118,19 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Avec la disparition d’Albert Bourgi, l’Afrique perd l’un de ses derniers intellectuels de gauche](https://www.jeuneafrique.com/1754867/politique/avec-la-disparition-dalbert-bourgi-lafrique-perd-lun-de-ses-derniers-intellectuels-de-gauche/)
 - [En Centrafrique, l’armée et Wagner affrontent la milice AAKG dans le sud-est du pays](https://www.jeuneafrique.com/1754793/politique/en-centrafrique-larmee-et-wagner-affrontent-la-milice-aakg-dans-le-sud-est-du-pays/)
 - [L’ancien ministre ghanéen des Finances arrêté aux États-Unis](https://www.jeuneafrique.com/1754809/politique/lancien-ministre-ghaneen-des-finances-arrete-aux-etats-unis/)
 - [Les avocats marocains en grève contre la nouvelle loi réglementant leur profession](https://www.jeuneafrique.com/1754474/politique/les-avocats-marocains-en-greve-contre-la-nouvelle-loi-reglementant-leur-profession/)
@@ -258,7 +272,6 @@
 - [Extension du « travel ban » américain : Trump, l’interventionniste isolationniste](https://www.jeuneafrique.com/1754558/politique/extension-du-travel-ban-americain-trump-linterventionniste-isolationniste/)
 - [Algérie : que sait-on des tensions actuelles entre le président Tebboune et le général Chengriha ?](https://www.jeuneafrique.com/1754589/politique/algerie-que-sait-on-des-tensions-actuelles-entre-le-president-tebboune-et-le-general-chengriha/)
 - [En Côte d’Ivoire, démission du Premier ministre et du gouvernement](https://www.jeuneafrique.com/1754603/politique/en-cote-divoire-demission-du-gouvernement-et-du-premier-ministre/)
-- [Rumeur de tentative de déstabilisation au Burkina Faso : la junte confirme](https://www.jeuneafrique.com/1754520/politique/rumeur-de-tentative-de-destabilisation-au-burkina-faso-la-junte-confirme/)
 - [Pétrole au Nigeria : MRS soutenue par Dangote impose sa loi face à la NNPC](https://www.jeuneafrique.com/1754139/economie-entreprises/petrole-au-nigeria-mrs-soutenue-par-dangote-impose-sa-loi-face-a-la-nnpc/)
 - [Abidjan, Casablanca, Lagos… Ce qu’il faut retenir du boom des Bourses africaines en 2025](https://www.jeuneafrique.com/1754661/economie-entreprises/abidjan-casablanca-lagos-ce-quil-faut-retenir-du-boom-des-bourses-africaines-en-2025/)
 
