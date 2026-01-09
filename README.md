@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Jan 2026, 18:16*
+*Generato: 09 Jan 2026, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -273,7 +273,7 @@
 - [L’AES condamne un « acte d’agression » des États-Unis au Venezuela](https://www.jeuneafrique.com/1754970/politique/laes-condamne-un-acte-dagression-des-etats-unis-au-venezuela/)
 - [Les États-Unis annoncent suspendre leur aide alimentaire en Somalie](https://www.jeuneafrique.com/1754968/politique/les-etats-unis-annoncent-suspendre-leur-aide-alimentaire-en-somalie/)
 - [Glencore – Rio Tinto : l’alliance qui pourrait redessiner le secteur minier](https://www.jeuneafrique.com/1755124/economie-entreprises/glencore-rio-tinto-lalliance-qui-pourrait-redessiner-le-secteur-minier/)
-- [Marchés financiers : comment la place d’Abidjan veut entrer dans la cour des grands](https://www.jeuneafrique.com/1753989/economie-entreprises/marches-financiers-comment-la-place-dabidjan-veut-entrer-dans-la-cour-des-grands/)
+- [Data centers : quel hub de l’IA le Maroc va-t-il devenir ?](https://www.jeuneafrique.com/1755093/economie-entreprises/data-centers-quel-hub-de-lia-le-maroc-va-t-il-devenir/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
