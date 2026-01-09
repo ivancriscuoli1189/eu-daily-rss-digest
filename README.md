@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Jan 2026, 15:12*
+*Generato: 09 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Centrafrique, le parti de Touadéra en tête des législatives, l’opposant Dologuélé se maintient au second tour](https://www.jeuneafrique.com/1755519/politique/en-centrafrique-le-parti-de-touadera-en-tete-des-legislatives-lopposant-dologuele-se-maintient-au-second-tour/)
+- [Côte d’Ivoire : cinq ans de prison requis contre le député malien Mamadou Hawa Gassama](https://www.jeuneafrique.com/1755355/politique/cote-divoire-cinq-ans-de-prison-requis-contre-le-depute-malien-mamadou-hawa-gassama/)
 - [Emmanuel Macron : président échaudé craint le buzz](https://www.jeuneafrique.com/1755249/politique/emmanuel-macron-president-echaude-craint-le-buzz/)
-- [Imane Khelif : l’influenceur Papacito jugé en février pour cyberharcèlement de la boxeuse algérienne](https://www.jeuneafrique.com/1755278/politique/imane-khelif-linfluenceur-papacito-juge-en-fevrier-pour-cyberharcelement-de-la-boxeuse-algerienne/)
+- [Imane Khelif : l’influenceur Papacito jugé en février pour le cyberharcèlement de la boxeuse algérienne](https://www.jeuneafrique.com/1755278/politique/imane-khelif-linfluenceur-papacito-juge-en-fevrier-pour-cyberharcelement-de-la-boxeuse-algerienne/)
 - [Des navires chinois, iraniens et russes attendus en Afrique du Sud pour des exercices militaires](https://www.jeuneafrique.com/1755139/politique/des-navires-chinois-iraniens-et-russes-attendus-en-afrique-du-sud-pour-des-exercices-militaires/)
 - [Au Sénégal, deux anciens ministres de Macky Sall inculpés par la justice](https://www.jeuneafrique.com/1754928/politique/au-senegal-deux-anciens-ministres-de-macky-sall-inculpes-par-la-justice/)
 - [L’AES condamne un « acte d’agression » des États-Unis au Venezuela](https://www.jeuneafrique.com/1754970/politique/laes-condamne-un-acte-dagression-des-etats-unis-au-venezuela/)
 - [Les États-Unis annoncent suspendre leur aide alimentaire en Somalie](https://www.jeuneafrique.com/1754968/politique/les-etats-unis-annoncent-suspendre-leur-aide-alimentaire-en-somalie/)
-- [Est de la RDC : à quoi va servir la réunion de Livingstone ?](https://www.jeuneafrique.com/1754845/politique/est-de-la-rdc-a-quoi-va-servir-la-reunion-de-livingstone/)
-- [Au Congrès, le Maroc installe le Sahara au cœur du jeu américain](https://www.jeuneafrique.com/1754631/politique/au-congres-le-maroc-installe-le-sahara-au-coeur-du-jeu-americain/)
 - [Glencore – Rio Tinto : l’alliance qui pourrait redessiner le secteur minier](https://www.jeuneafrique.com/1755124/economie-entreprises/glencore-rio-tinto-lalliance-qui-pourrait-redessiner-le-secteur-minier/)
 - [Marchés financiers : comment la place d’Abidjan veut entrer dans la cour des grands](https://www.jeuneafrique.com/1753989/economie-entreprises/marches-financiers-comment-la-place-dabidjan-veut-entrer-dans-la-cour-des-grands/)
 
