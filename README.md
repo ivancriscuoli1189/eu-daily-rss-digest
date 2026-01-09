@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Jan 2026, 11:10*
+*Generato: 09 Jan 2026, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Myanmar: General Elections a Sham to Legitimize Military Rule and Not Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
 - [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -278,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Des navires chinois, iraniens et russes attendus en Afrique du Sud pour des exercices militaires](https://www.jeuneafrique.com/1755139/politique/des-navires-chinois-iraniens-et-russes-attendus-en-afrique-du-sud-pour-des-exercices-militaires/)
+- [Au Sénégal, deux anciens ministres de Macky Sall inculpés par la justice](https://www.jeuneafrique.com/1754928/politique/au-senegal-deux-anciens-ministres-de-macky-sall-inculpes-par-la-justice/)
 - [L’AES condamne un « acte d’agression » des États-Unis au Venezuela](https://www.jeuneafrique.com/1754970/politique/laes-condamne-un-acte-dagression-des-etats-unis-au-venezuela/)
 - [Les États-Unis annoncent suspendre leur aide alimentaire en Somalie](https://www.jeuneafrique.com/1754968/politique/les-etats-unis-annoncent-suspendre-leur-aide-alimentaire-en-somalie/)
 - [Est de la RDC : à quoi va servir la réunion de Livingstone ?](https://www.jeuneafrique.com/1754845/politique/est-de-la-rdc-a-quoi-va-servir-la-reunion-de-livingstone/)
 - [Au Congrès, le Maroc installe le Sahara au cœur du jeu américain](https://www.jeuneafrique.com/1754631/politique/au-congres-le-maroc-installe-le-sahara-au-coeur-du-jeu-americain/)
 - [Avec la disparition d’Albert Bourgi, l’Afrique perd l’un de ses derniers intellectuels de gauche](https://www.jeuneafrique.com/1754867/politique/avec-la-disparition-dalbert-bourgi-lafrique-perd-lun-de-ses-derniers-intellectuels-de-gauche/)
 - [En Centrafrique, l’armée et Wagner affrontent la milice AAKG dans le sud-est du pays](https://www.jeuneafrique.com/1754793/politique/en-centrafrique-larmee-et-wagner-affrontent-la-milice-aakg-dans-le-sud-est-du-pays/)
-- [L’ancien ministre ghanéen des Finances arrêté aux États-Unis](https://www.jeuneafrique.com/1754809/politique/lancien-ministre-ghaneen-des-finances-arrete-aux-etats-unis/)
 - [Glencore – Rio Tinto : l’alliance qui pourrait redessiner le secteur minier](https://www.jeuneafrique.com/1755124/economie-entreprises/glencore-rio-tinto-lalliance-qui-pourrait-redessiner-le-secteur-minier/)
 - [Pétrole au Nigeria : MRS soutenue par Dangote impose sa loi face à la NNPC](https://www.jeuneafrique.com/1754139/economie-entreprises/petrole-au-nigeria-mrs-soutenue-par-dangote-impose-sa-loi-face-a-la-nnpc/)
 
