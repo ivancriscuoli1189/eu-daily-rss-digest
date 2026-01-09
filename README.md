@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Jan 2026, 13:31*
+*Generato: 09 Jan 2026, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 - [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
-- [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
+- [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
-- [Myanmar: General Elections a Sham to Legitimize Military Rule and Not Restore Democracy](https://www.icj.org/myanmar-general-elections-a-sham-to-legitimize-military-rule-and-not-to-restore-democracy/)
-- [Tajikistan: Legal and institutional reforms are required to meet international human rights obligations on GBV](https://www.icj.org/tajikistan-legal-and-institutional-reforms-are-required-to-meet-international-human-rights-obligations-on-gbv/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Emmanuel Macron : président échaudé craint le buzz](https://www.jeuneafrique.com/1755249/politique/emmanuel-macron-president-echaude-craint-le-buzz/)
 - [Imane Khelif : l’influenceur Papacito jugé en février pour cyberharcèlement de la boxeuse algérienne](https://www.jeuneafrique.com/1755278/politique/imane-khelif-linfluenceur-papacito-juge-en-fevrier-pour-cyberharcelement-de-la-boxeuse-algerienne/)
 - [Des navires chinois, iraniens et russes attendus en Afrique du Sud pour des exercices militaires](https://www.jeuneafrique.com/1755139/politique/des-navires-chinois-iraniens-et-russes-attendus-en-afrique-du-sud-pour-des-exercices-militaires/)
 - [Au Sénégal, deux anciens ministres de Macky Sall inculpés par la justice](https://www.jeuneafrique.com/1754928/politique/au-senegal-deux-anciens-ministres-de-macky-sall-inculpes-par-la-justice/)
@@ -284,9 +285,8 @@
 - [Les États-Unis annoncent suspendre leur aide alimentaire en Somalie](https://www.jeuneafrique.com/1754968/politique/les-etats-unis-annoncent-suspendre-leur-aide-alimentaire-en-somalie/)
 - [Est de la RDC : à quoi va servir la réunion de Livingstone ?](https://www.jeuneafrique.com/1754845/politique/est-de-la-rdc-a-quoi-va-servir-la-reunion-de-livingstone/)
 - [Au Congrès, le Maroc installe le Sahara au cœur du jeu américain](https://www.jeuneafrique.com/1754631/politique/au-congres-le-maroc-installe-le-sahara-au-coeur-du-jeu-americain/)
-- [Avec la disparition d’Albert Bourgi, l’Afrique perd l’un de ses derniers intellectuels de gauche](https://www.jeuneafrique.com/1754867/politique/avec-la-disparition-dalbert-bourgi-lafrique-perd-lun-de-ses-derniers-intellectuels-de-gauche/)
 - [Glencore – Rio Tinto : l’alliance qui pourrait redessiner le secteur minier](https://www.jeuneafrique.com/1755124/economie-entreprises/glencore-rio-tinto-lalliance-qui-pourrait-redessiner-le-secteur-minier/)
-- [Pétrole au Nigeria : MRS soutenue par Dangote impose sa loi face à la NNPC](https://www.jeuneafrique.com/1754139/economie-entreprises/petrole-au-nigeria-mrs-soutenue-par-dangote-impose-sa-loi-face-a-la-nnpc/)
+- [Marchés financiers : comment la place d’Abidjan veut entrer dans la cour des grands](https://www.jeuneafrique.com/1753989/economie-entreprises/marches-financiers-comment-la-place-dabidjan-veut-entrer-dans-la-cour-des-grands/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
