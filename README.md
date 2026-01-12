@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 06:20*
+*Generato: 12 Jan 2026, 09:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
+- [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
+- [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
 - [Les Béninois appelés aux urnes pour les législatives](https://www.jeuneafrique.com/1755590/politique/les-beninois-appeles-aux-urnes-pour-les-legislatives/)
 - [Guinée-Bissau : la junte et la Cedeao discutent d’une transition politique](https://www.jeuneafrique.com/1755583/politique/guinee-bissau-la-junte-et-la-cedeao-discutent-dune-transition-politique/)
 - [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
 - [Enlèvement de Nicolás Maduro : face à Trump, les présidents africains entre peur et stupeur](https://www.jeuneafrique.com/1755530/politique/enlevement-de-nicolas-maduro-face-a-trump-les-presidents-africains-entre-peur-et-stupeur/)
 - [La berbérité, ou le soulèvement permanent](https://www.jeuneafrique.com/1751726/politique/la-berberite-ou-le-soulevement-permanent/)
-- [L’ONU alerte sur le « climat répressif » qui pèse sur les prochaines élections en Ouganda](https://www.jeuneafrique.com/1755551/politique/lonu-alerte-sur-le-climat-repressif-qui-pese-sur-les-prochaines-elections-en-ouganda/)
 - [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
 - [En Afrique, une transition énergétique juste doit intégrer les hydrocarbures sans stigmatisation](https://www.jeuneafrique.com/1754615/economie-entreprises/en-afrique-une-transition-energetique-juste-doit-integrer-les-hydrocarbures-sans-stigmatisation/)
 
