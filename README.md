@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 12:21*
+*Generato: 12 Jan 2026, 13:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
 - [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
 - [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
@@ -271,7 +272,6 @@
 - [Guinée-Bissau : la junte et la Cedeao discutent d’une transition politique](https://www.jeuneafrique.com/1755583/politique/guinee-bissau-la-junte-et-la-cedeao-discutent-dune-transition-politique/)
 - [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
 - [Enlèvement de Nicolás Maduro : face à Trump, les présidents africains entre peur et stupeur](https://www.jeuneafrique.com/1755530/politique/enlevement-de-nicolas-maduro-face-a-trump-les-presidents-africains-entre-peur-et-stupeur/)
-- [La berbérité, ou le soulèvement permanent](https://www.jeuneafrique.com/1751726/politique/la-berberite-ou-le-soulevement-permanent/)
 - [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
 - [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
 
