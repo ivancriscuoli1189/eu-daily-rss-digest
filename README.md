@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 11:11*
+*Generato: 12 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
 - [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
 - [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
@@ -91,7 +92,6 @@
 - [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
 - [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
 - [Asylum: Parliament and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-parliament-and-council-reach-a-deal-to-update-safe-third-country-rules)
-- [Mercosur: Parliament and Council agree on agriculture safeguards](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32258/mercosur-parliament-and-council-agree-on-agriculture-safeguards)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -223,19 +223,6 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -285,8 +272,8 @@
 - [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
 - [Enlèvement de Nicolás Maduro : face à Trump, les présidents africains entre peur et stupeur](https://www.jeuneafrique.com/1755530/politique/enlevement-de-nicolas-maduro-face-a-trump-les-presidents-africains-entre-peur-et-stupeur/)
 - [La berbérité, ou le soulèvement permanent](https://www.jeuneafrique.com/1751726/politique/la-berberite-ou-le-soulevement-permanent/)
+- [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
 - [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
-- [En Afrique, une transition énergétique juste doit intégrer les hydrocarbures sans stigmatisation](https://www.jeuneafrique.com/1754615/economie-entreprises/en-afrique-une-transition-energetique-juste-doit-integrer-les-hydrocarbures-sans-stigmatisation/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
