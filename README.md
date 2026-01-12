@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 15:15*
+*Generato: 12 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
 - [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
 - [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
 - [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
-- [Asylum: Parliament and Council reach a deal to update safe third country rules](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32222/asylum-parliament-and-council-reach-a-deal-to-update-safe-third-country-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -223,19 +223,6 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, les jihadistes attaquent trois usines dans la région de Kayes](https://www.jeuneafrique.com/1755863/politique/au-mali-les-jihadistes-attaquent-trois-usines-dans-la-region-de-kayes/)
 - [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
 - [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
 - [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
 - [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
+- [Généraux, espions, chefs d’État : les alliés sécuritaires de Patrice Talon](https://www.jeuneafrique.com/1755115/politique/generaux-espions-chefs-detat-les-allies-securitaires-de-patrice-talon/)
 - [Les Béninois appelés aux urnes pour les législatives](https://www.jeuneafrique.com/1755590/politique/les-beninois-appeles-aux-urnes-pour-les-legislatives/)
-- [Guinée-Bissau : la junte et la Cedeao discutent d’une transition politique](https://www.jeuneafrique.com/1755583/politique/guinee-bissau-la-junte-et-la-cedeao-discutent-dune-transition-politique/)
-- [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
+- [De Johannesburg à Casablanca, les places financières africaines peinent à s’interconnecter](https://www.jeuneafrique.com/1755048/economie-entreprises/de-johannesburg-a-casablanca-les-places-financieres-africaines-peinent-a-sinterconnecter/)
 - [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
-- [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
