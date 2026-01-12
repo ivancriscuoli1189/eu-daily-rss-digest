@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 13:34*
+*Generato: 12 Jan 2026, 15:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد سمير عبد الحفيظ وزير الاقتصاد والتخطيط](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة فضيلة قرقوري وكيل الرئيس الأوّل لمحكمة المحاسبات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D9%82%D8%B1%D9%82%D9%88%D8%B1%D9%8A-%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D9%91%D9%84-%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّد رشيد العامري وزير النّقل](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B1%D8%B4%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%B1%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%86%D9%91%D9%82%D9%84)
 - [لقاء رئيس الجمهورية مع وزير الفلاحة والموارد المائية والصّيد البحري و الرئيس المدير العام للدّيوان الوطني للزّيت والرئيس المدير العام للدّيوان الوطني للأعلاف](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%91%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%88-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D9%84%D9%84%D8%AF%D9%91%D9%8A%D9%88%D8%A7%D9%86)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّد إبراهيم بودربالة رئيس مجلس نواب الشّعب والسيّد عماد الدّربالي رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D9%91%D8%B9%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D9%85%D8%A7%D8%AF)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,6 +223,19 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -266,12 +279,12 @@
 
 - [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
 - [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
+- [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
 - [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
 - [Les Béninois appelés aux urnes pour les législatives](https://www.jeuneafrique.com/1755590/politique/les-beninois-appeles-aux-urnes-pour-les-legislatives/)
 - [Guinée-Bissau : la junte et la Cedeao discutent d’une transition politique](https://www.jeuneafrique.com/1755583/politique/guinee-bissau-la-junte-et-la-cedeao-discutent-dune-transition-politique/)
 - [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
-- [Enlèvement de Nicolás Maduro : face à Trump, les présidents africains entre peur et stupeur](https://www.jeuneafrique.com/1755530/politique/enlevement-de-nicolas-maduro-face-a-trump-les-presidents-africains-entre-peur-et-stupeur/)
 - [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
 - [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
 
