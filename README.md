@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Jan 2026, 21:11*
+*Generato: 12 Jan 2026, 06:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,6 +223,19 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -264,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Centrafrique, le parti de Touadéra en tête des législatives, l’opposant Dologuélé se maintient au second tour](https://www.jeuneafrique.com/1755519/politique/en-centrafrique-le-parti-de-touadera-en-tete-des-legislatives-lopposant-dologuele-se-maintient-au-second-tour/)
-- [Côte d’Ivoire : cinq ans de prison requis contre le député malien Mamadou Hawa Gassama](https://www.jeuneafrique.com/1755355/politique/cote-divoire-cinq-ans-de-prison-requis-contre-le-depute-malien-mamadou-hawa-gassama/)
-- [Emmanuel Macron : président échaudé craint le buzz](https://www.jeuneafrique.com/1755249/politique/emmanuel-macron-president-echaude-craint-le-buzz/)
-- [Imane Khelif : l’influenceur Papacito jugé en février pour le cyberharcèlement de la boxeuse algérienne](https://www.jeuneafrique.com/1755278/politique/imane-khelif-linfluenceur-papacito-juge-en-fevrier-pour-cyberharcelement-de-la-boxeuse-algerienne/)
-- [Des navires chinois, iraniens et russes attendus en Afrique du Sud pour des exercices militaires](https://www.jeuneafrique.com/1755139/politique/des-navires-chinois-iraniens-et-russes-attendus-en-afrique-du-sud-pour-des-exercices-militaires/)
-- [Au Sénégal, deux anciens ministres de Macky Sall inculpés par la justice](https://www.jeuneafrique.com/1754928/politique/au-senegal-deux-anciens-ministres-de-macky-sall-inculpes-par-la-justice/)
-- [L’AES condamne un « acte d’agression » des États-Unis au Venezuela](https://www.jeuneafrique.com/1754970/politique/laes-condamne-un-acte-dagression-des-etats-unis-au-venezuela/)
-- [Les États-Unis annoncent suspendre leur aide alimentaire en Somalie](https://www.jeuneafrique.com/1754968/politique/les-etats-unis-annoncent-suspendre-leur-aide-alimentaire-en-somalie/)
-- [Glencore – Rio Tinto : l’alliance qui pourrait redessiner le secteur minier](https://www.jeuneafrique.com/1755124/economie-entreprises/glencore-rio-tinto-lalliance-qui-pourrait-redessiner-le-secteur-minier/)
-- [Data centers : quel hub de l’IA le Maroc va-t-il devenir ?](https://www.jeuneafrique.com/1755093/economie-entreprises/data-centers-quel-hub-de-lia-le-maroc-va-t-il-devenir/)
+- [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
+- [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
+- [Les Béninois appelés aux urnes pour les législatives](https://www.jeuneafrique.com/1755590/politique/les-beninois-appeles-aux-urnes-pour-les-legislatives/)
+- [Guinée-Bissau : la junte et la Cedeao discutent d’une transition politique](https://www.jeuneafrique.com/1755583/politique/guinee-bissau-la-junte-et-la-cedeao-discutent-dune-transition-politique/)
+- [Quand Trump claque la porte, l’Afrique trinque](https://www.jeuneafrique.com/1755337/politique/quand-trump-claque-la-porte-lafrique-trinque/)
+- [Enlèvement de Nicolás Maduro : face à Trump, les présidents africains entre peur et stupeur](https://www.jeuneafrique.com/1755530/politique/enlevement-de-nicolas-maduro-face-a-trump-les-presidents-africains-entre-peur-et-stupeur/)
+- [La berbérité, ou le soulèvement permanent](https://www.jeuneafrique.com/1751726/politique/la-berberite-ou-le-soulevement-permanent/)
+- [L’ONU alerte sur le « climat répressif » qui pèse sur les prochaines élections en Ouganda](https://www.jeuneafrique.com/1755551/politique/lonu-alerte-sur-le-climat-repressif-qui-pese-sur-les-prochaines-elections-en-ouganda/)
+- [En Éthiopie, la construction du nouvel aéroport international à Bishoftu est officiellement lancée](https://www.jeuneafrique.com/1755566/economie-entreprises/en-ethiopie-la-construction-du-nouvel-aeroport-international-a-bishoftu-est-officiellement-lancee/)
+- [En Afrique, une transition énergétique juste doit intégrer les hydrocarbures sans stigmatisation](https://www.jeuneafrique.com/1754615/economie-entreprises/en-afrique-une-transition-energetique-juste-doit-integrer-les-hydrocarbures-sans-stigmatisation/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
