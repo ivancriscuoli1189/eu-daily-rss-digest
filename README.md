@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Jan 2026, 18:17*
+*Generato: 13 Jan 2026, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
@@ -285,8 +272,8 @@
 - [Comment la reconnaissance du Somaliland par Israël bouleverse les équilibres dans la Corne de l’Afrique](https://www.jeuneafrique.com/1755480/politique/comment-la-reconnaissance-du-somaliland-par-israel-bouleverse-les-equilibres-dans-la-corne-de-lafrique/)
 - [Félix Tshisekedi à Luanda : les coulisses d’une médiation angolaise relancée](https://www.jeuneafrique.com/1755814/politique/felix-tshisekedi-a-luanda-les-coulisses-dune-mediation-angolaise-relancee/)
 - [Qui est Augustin Emane, le nouveau ministre gabonais de la Justice ?](https://www.jeuneafrique.com/1755083/politique/qui-est-augustin-emane-le-nouveau-ministre-gabonais-de-la-justice/)
+- [Agoa : Washington met (enfin) le commerce avec l’Afrique de nouveau sur la table](https://www.jeuneafrique.com/1755857/economie-entreprises/agoa-washington-met-enfin-le-commerce-avec-lafrique-de-nouveau-sur-la-table/)
 - [Royal Air Maroc : des ambitions de géant freinées par un service client défaillant](https://www.jeuneafrique.com/1746534/economie-entreprises/royal-air-maroc-des-ambitions-de-geant-freinees-par-un-service-client-defaillant/)
-- [Mobile money : qui de Visa ou de Mastercard gagnera la bataille des cartes de paiement en Afrique ?](https://www.jeuneafrique.com/1755495/economie-entreprises/mobile-money-qui-de-visa-ou-de-mastecard-gagnera-la-bataille-des-cartes-de-paiement-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
