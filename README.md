@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Jan 2026, 11:11*
+*Generato: 13 Jan 2026, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 - [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
@@ -286,7 +273,7 @@
 - [« Détruire le pipeline, c’est détruire Tiani » : Moussa Kounaï, le rebelle qui veut faire tomber le chef de la junte au Niger](https://www.jeuneafrique.com/1755216/politique/detruire-le-pipeline-cest-detruire-tiani-moussa-kounai-le-rebelle-qui-veut-faire-tomber-le-chef-de-la-junte/)
 - [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
 - [Royal Air Maroc : des ambitions de géant freinées par un service client défaillant](https://www.jeuneafrique.com/1746534/economie-entreprises/royal-air-maroc-des-ambitions-de-geant-freinees-par-un-service-client-defaillant/)
-- [Le franc CFA a-t-il sauvé le Sénégal ? – par Thaïs Brouck](https://www.jeuneafrique.com/1747643/economie-entreprises/le-franc-cfa-a-t-il-sauve-le-senegal-par-thais-brouck/)
+- [Mobile money : qui de Visa ou de Mastercard gagnera la bataille des cartes de paiement en Afrique ?](https://www.jeuneafrique.com/1755495/economie-entreprises/mobile-money-qui-de-visa-ou-de-mastecard-gagnera-la-bataille-des-cartes-de-paiement-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
