@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Jan 2026, 21:10*
+*Generato: 13 Jan 2026, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -240,7 +240,7 @@
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [Chile: ¿El pueblo unido? El escenario postelectoral en un país polarizado](https://www.cespi.it/it/eventi-note/eventi/chile-el-pueblo-unido-el-escenario-postelectoral-en-un-pais-polarizado)
-- [Graduatoria finale della procedura comparativa per titoli di figure professionali cui affidare incarichi nell’ambito del progetto SU.PR.EME. 2](https://www.cespi.it/it/eventi-note/comunicazioni/graduatoria-finale-della-procedura-comparativa-titoli-di-figure-3)
+- [AVVISO DI APERTURA PROCEDURA DI SELEZIONE: Realizzazione Video-tutorial](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-realizzazione-video-tutorial)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Comment la reconnaissance du Somaliland par Israël bouleverse les équilibres dans la Corne de l’Afrique](https://www.jeuneafrique.com/1755480/politique/comment-la-reconnaissance-du-somaliland-par-israel-bouleverse-les-equilibres-dans-la-corne-de-lafrique/)
 - [Au Mali, les jihadistes attaquent trois usines dans la région de Kayes](https://www.jeuneafrique.com/1755863/politique/au-mali-les-jihadistes-attaquent-trois-usines-dans-la-region-de-kayes/)
 - [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
 - [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
@@ -271,7 +272,6 @@
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
 - [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
 - [Généraux, espions, chefs d’État : les alliés sécuritaires de Patrice Talon](https://www.jeuneafrique.com/1755115/politique/generaux-espions-chefs-detat-les-allies-securitaires-de-patrice-talon/)
-- [Les Béninois appelés aux urnes pour les législatives](https://www.jeuneafrique.com/1755590/politique/les-beninois-appeles-aux-urnes-pour-les-legislatives/)
 - [De Johannesburg à Casablanca, les places financières africaines peinent à s’interconnecter](https://www.jeuneafrique.com/1755048/economie-entreprises/de-johannesburg-a-casablanca-les-places-financieres-africaines-peinent-a-sinterconnecter/)
 - [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
 
