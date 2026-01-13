@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Jan 2026, 06:17*
+*Generato: 13 Jan 2026, 09:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -118,19 +118,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Comment la reconnaissance du Somaliland par Israël bouleverse les équilibres dans la Corne de l’Afrique](https://www.jeuneafrique.com/1755480/politique/comment-la-reconnaissance-du-somaliland-par-israel-bouleverse-les-equilibres-dans-la-corne-de-lafrique/)
+- [Crise du pétrole au Mali : le Niger sanctionne les transporteurs refusant de livrer du carburant à Bamako](https://www.jeuneafrique.com/1756014/politique/crise-du-petrole-au-mali-le-niger-sanctionne-les-transporteurs-refusant-de-livrer-du-carburant-a-bamako/)
 - [Au Mali, les jihadistes attaquent trois usines dans la région de Kayes](https://www.jeuneafrique.com/1755863/politique/au-mali-les-jihadistes-attaquent-trois-usines-dans-la-region-de-kayes/)
+- [Au Maroc, l’annonce du futur retrait d’Aziz Akhannouch prend le RNI par surprise](https://www.jeuneafrique.com/1755690/politique/au-maroc-lannonce-du-futur-retrait-daziz-akhannouch-prend-le-rni-par-surprise/)
 - [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
 - [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
+- [« Détruire le pipeline, c’est détruire Tiani » : Moussa Kounaï, le rebelle qui veut faire tomber le chef de la junte au Niger](https://www.jeuneafrique.com/1755216/politique/detruire-le-pipeline-cest-detruire-tiani-moussa-kounai-le-rebelle-qui-veut-faire-tomber-le-chef-de-la-junte/)
 - [Pourquoi l’administration Trump s’attaque aux Américains d’origine somalienne](https://www.jeuneafrique.com/1755184/politique/pourquoi-ladministration-trump-sattaque-aux-americains-dorigine-somalienne/)
 - [Afrique du Sud : l’ANC doit « se renouveler ou périr », estime Cyril Ramaphosa](https://www.jeuneafrique.com/1755594/politique/afrique-du-sud-lanc-doit-se-renouveler-ou-perir-estime-cyril-ramaphosa/)
-- [Quand Mohamed Harbi décryptait l’utilisation de l’histoire par le pouvoir algérien](https://www.jeuneafrique.com/1753927/politique/quand-mohamed-harbi-decryptait-lutilisation-de-lhistoire-par-le-pouvoir-algerien/)
-- [Généraux, espions, chefs d’État : les alliés sécuritaires de Patrice Talon](https://www.jeuneafrique.com/1755115/politique/generaux-espions-chefs-detat-les-allies-securitaires-de-patrice-talon/)
-- [De Johannesburg à Casablanca, les places financières africaines peinent à s’interconnecter](https://www.jeuneafrique.com/1755048/economie-entreprises/de-johannesburg-a-casablanca-les-places-financieres-africaines-peinent-a-sinterconnecter/)
-- [Venezuela : comment l’OPA de Trump déstabilise la politique économique de Tinubu](https://www.jeuneafrique.com/1755166/economie-entreprises/venezuela-comment-lopa-de-trump-destabilise-la-politique-economique-de-tinubu/)
+- [Royal Air Maroc : des ambitions de géant freinées par un service client défaillant](https://www.jeuneafrique.com/1746534/economie-entreprises/royal-air-maroc-des-ambitions-de-geant-freinees-par-un-service-client-defaillant/)
+- [Le franc CFA a-t-il sauvé le Sénégal ? – par Thaïs Brouck](https://www.jeuneafrique.com/1747643/economie-entreprises/le-franc-cfa-a-t-il-sauve-le-senegal-par-thais-brouck/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
