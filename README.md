@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Jan 2026, 15:14*
+*Generato: 13 Jan 2026, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,16 +212,29 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 - [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
-- [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Uzbekistan: ICJ convenes Expert Discussion on strengthening implementation of UN Treaty Bodies](https://www.icj.org/uzbekistan-icj-convenes-expert-discussion-on-strengthening-implementation-of-un-treaty-bodies/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
-- [Uzbekistan: ICJ launches Winter School on international human rights law](https://www.icj.org/uzbekistan-icj-launches-winter-school-on-international-human-rights-law/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Nigeria : les États-Unis livrent du matériel militaire pour la lutte anti-jihadiste](https://www.jeuneafrique.com/1756279/politique/nigeria-les-etats-unis-livrent-du-materiel-militaire-pour-la-lutte-anti-jihadiste/)
 - [Ouganda : pour Museveni, 40 ans et plus si affinités](https://www.jeuneafrique.com/1756103/politique/ouganda-pour-museveni-40-ans-et-plus-si-affinites/)
 - [Assassinat de l’ex-ministre Yolande Viviane Compaoré au Burkina Faso : les autorités annoncent ouvrir une enquête](https://www.jeuneafrique.com/1756138/politique/assassinat-de-lex-ministre-yolande-viviane-compaore-au-burkina-faso-les-autorites-annoncent-ouvrir-une-enquete/)
 - [Crise du pétrole au Mali : le Niger sanctionne les transporteurs refusant de livrer du carburant à Bamako](https://www.jeuneafrique.com/1756014/politique/crise-du-petrole-au-mali-le-niger-sanctionne-les-transporteurs-refusant-de-livrer-du-carburant-a-bamako/)
+- [Quels sont les passeports africains les plus puissants en 2026 ?](https://www.jeuneafrique.com/1755195/politique/quels-sont-les-passeports-africains-les-plus-puissants-en-2026/)
+- [Comment la reconnaissance du Somaliland par Israël bouleverse les équilibres dans la Corne de l’Afrique](https://www.jeuneafrique.com/1755480/politique/comment-la-reconnaissance-du-somaliland-par-israel-bouleverse-les-equilibres-dans-la-corne-de-lafrique/)
+- [Félix Tshisekedi à Luanda : les coulisses d’une médiation angolaise relancée](https://www.jeuneafrique.com/1755814/politique/felix-tshisekedi-a-luanda-les-coulisses-dune-mediation-angolaise-relancee/)
 - [Qui est Augustin Emane, le nouveau ministre gabonais de la Justice ?](https://www.jeuneafrique.com/1755083/politique/qui-est-augustin-emane-le-nouveau-ministre-gabonais-de-la-justice/)
-- [Au Mali, les jihadistes attaquent trois usines dans la région de Kayes](https://www.jeuneafrique.com/1755863/politique/au-mali-les-jihadistes-attaquent-trois-usines-dans-la-region-de-kayes/)
-- [Au Maroc, l’annonce du futur retrait d’Aziz Akhannouch prend le RNI par surprise](https://www.jeuneafrique.com/1755690/politique/au-maroc-lannonce-du-futur-retrait-daziz-akhannouch-prend-le-rni-par-surprise/)
-- [L’Algérie propose à ses ressortissants vivant sans papiers à l’étranger de régulariser leur situation](https://www.jeuneafrique.com/1755660/politique/lalgerie-propose-a-ses-ressortissants-vivant-sans-papiers-a-letranger-de-regulariser-leurs-situations/)
-- [Soudan : le gouvernement fait son retour à Khartoum, capitale dévastée par la guerre](https://www.jeuneafrique.com/1755621/politique/soudan-le-gouvernement-fait-son-retour-a-khartoum-capitale-devastee-par-la-guerre/)
 - [Royal Air Maroc : des ambitions de géant freinées par un service client défaillant](https://www.jeuneafrique.com/1746534/economie-entreprises/royal-air-maroc-des-ambitions-de-geant-freinees-par-un-service-client-defaillant/)
 - [Mobile money : qui de Visa ou de Mastercard gagnera la bataille des cartes de paiement en Afrique ?](https://www.jeuneafrique.com/1755495/economie-entreprises/mobile-money-qui-de-visa-ou-de-mastecard-gagnera-la-bataille-des-cartes-de-paiement-en-afrique/)
 
