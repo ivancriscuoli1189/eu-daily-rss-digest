@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Jan 2026, 06:18*
+*Generato: 14 Jan 2026, 09:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : Marc Brys continue-t-il de toucher son salaire malgré son éviction ?](https://www.jeuneafrique.com/?p=1756073)
+- [Pape Léon en Afrique : une tournée qui passera aussi par l’Angola](https://www.jeuneafrique.com/1756384/politique/pape-leon-en-afrique-une-tournee-qui-passera-aussi-par-langola/)
+- [Présidentielle en Ouganda : internet bloqué à la veille du scrutin](https://www.jeuneafrique.com/1756401/politique/presidentielle-en-ouganda-internet-bloque-a-la-veille-du-scrutin/)
 - [Nigeria : les États-Unis livrent du matériel militaire pour la lutte anti-jihadiste](https://www.jeuneafrique.com/1756279/politique/nigeria-les-etats-unis-livrent-du-materiel-militaire-pour-la-lutte-anti-jihadiste/)
 - [Ouganda : pour Museveni, 40 ans et plus si affinités](https://www.jeuneafrique.com/1756103/politique/ouganda-pour-museveni-40-ans-et-plus-si-affinites/)
 - [Assassinat de l’ex-ministre Yolande Viviane Compaoré au Burkina Faso : les autorités annoncent ouvrir une enquête](https://www.jeuneafrique.com/1756138/politique/assassinat-de-lex-ministre-yolande-viviane-compaore-au-burkina-faso-les-autorites-annoncent-ouvrir-une-enquete/)
+- [Au Sénégal, pourquoi Farba Ngom n’est-il toujours pas libre de ses mouvements ?](https://www.jeuneafrique.com/1756028/politique/au-senegal-pourquoi-farba-ngom-nest-il-toujours-pas-libre-de-ses-mouvements/)
 - [Crise du pétrole au Mali : le Niger sanctionne les transporteurs refusant de livrer du carburant à Bamako](https://www.jeuneafrique.com/1756014/politique/crise-du-petrole-au-mali-le-niger-sanctionne-les-transporteurs-refusant-de-livrer-du-carburant-a-bamako/)
 - [Quels sont les passeports africains les plus puissants en 2026 ?](https://www.jeuneafrique.com/1755195/politique/quels-sont-les-passeports-africains-les-plus-puissants-en-2026/)
-- [Comment la reconnaissance du Somaliland par Israël bouleverse les équilibres dans la Corne de l’Afrique](https://www.jeuneafrique.com/1755480/politique/comment-la-reconnaissance-du-somaliland-par-israel-bouleverse-les-equilibres-dans-la-corne-de-lafrique/)
-- [Félix Tshisekedi à Luanda : les coulisses d’une médiation angolaise relancée](https://www.jeuneafrique.com/1755814/politique/felix-tshisekedi-a-luanda-les-coulisses-dune-mediation-angolaise-relancee/)
-- [Agoa : Washington met (enfin) le commerce avec l’Afrique de nouveau sur la table](https://www.jeuneafrique.com/1755857/economie-entreprises/agoa-washington-met-enfin-le-commerce-avec-lafrique-de-nouveau-sur-la-table/)
-- [Royal Air Maroc : des ambitions de géant freinées par un service client défaillant](https://www.jeuneafrique.com/1746534/economie-entreprises/royal-air-maroc-des-ambitions-de-geant-freinees-par-un-service-client-defaillant/)
+- [Face au retrait occidental, Sidi Ould Tah parie plus que jamais sur le monde arabe](https://www.jeuneafrique.com/1756356/economie-entreprises/face-au-retrait-occidental-sidi-ould-tah-parie-plus-que-jamais-sur-le-monde-arabe/)
+- [Jean-Rémi Kouchakji (Hub2) : « La fintech africaine est en train de se professionnaliser »](https://www.jeuneafrique.com/1756147/economie-entreprises/jean-remi-kouchakji-hub2-la-fintech-africaine-est-en-train-de-se-professionnaliser/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
