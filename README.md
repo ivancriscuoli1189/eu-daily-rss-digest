@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Jan 2026, 11:12*
+*Generato: 14 Jan 2026, 12:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Disparition de Claudette Colvin, première Noire américaine qui refusa de céder sa place aux Blancs](https://www.jeuneafrique.com/1756452/politique/disparition-de-claudette-colvin-premiere-noire-americaine-qui-refusa-de-ceder-sa-place-aux-blancs/)
 - [Pape Léon en Afrique : une tournée qui passera aussi par l’Angola](https://www.jeuneafrique.com/1756384/politique/pape-leon-en-afrique-une-tournee-qui-passera-aussi-par-langola/)
 - [Présidentielle en Ouganda : internet bloqué à la veille du scrutin](https://www.jeuneafrique.com/1756401/politique/presidentielle-en-ouganda-internet-bloque-a-la-veille-du-scrutin/)
+- [Cameroun : Marc Brys continue-t-il de toucher son salaire malgré son éviction ?](https://www.jeuneafrique.com/1756073/politique/cameroun-marc-brys-continue-t-il-de-toucher-son-salaire-malgre-son-eviction/)
 - [Nigeria : les États-Unis livrent du matériel militaire pour la lutte anti-jihadiste](https://www.jeuneafrique.com/1756279/politique/nigeria-les-etats-unis-livrent-du-materiel-militaire-pour-la-lutte-anti-jihadiste/)
 - [Ouganda : pour Museveni, 40 ans et plus si affinités](https://www.jeuneafrique.com/1756103/politique/ouganda-pour-museveni-40-ans-et-plus-si-affinites/)
 - [Assassinat de l’ex-ministre Yolande Viviane Compaoré au Burkina Faso : les autorités annoncent ouvrir une enquête](https://www.jeuneafrique.com/1756138/politique/assassinat-de-lex-ministre-yolande-viviane-compaore-au-burkina-faso-les-autorites-annoncent-ouvrir-une-enquete/)
 - [Au Sénégal, pourquoi Farba Ngom n’est-il toujours pas libre de ses mouvements ?](https://www.jeuneafrique.com/1756028/politique/au-senegal-pourquoi-farba-ngom-nest-il-toujours-pas-libre-de-ses-mouvements/)
-- [Crise du pétrole au Mali : le Niger sanctionne les transporteurs refusant de livrer du carburant à Bamako](https://www.jeuneafrique.com/1756014/politique/crise-du-petrole-au-mali-le-niger-sanctionne-les-transporteurs-refusant-de-livrer-du-carburant-a-bamako/)
-- [Quels sont les passeports africains les plus puissants en 2026 ?](https://www.jeuneafrique.com/1755195/politique/quels-sont-les-passeports-africains-les-plus-puissants-en-2026/)
 - [Face au retrait occidental, Sidi Ould Tah parie plus que jamais sur le monde arabe](https://www.jeuneafrique.com/1756356/economie-entreprises/face-au-retrait-occidental-sidi-ould-tah-parie-plus-que-jamais-sur-le-monde-arabe/)
 - [Jean-Rémi Kouchakji (Hub2) : « La fintech africaine est en train de se professionnaliser »](https://www.jeuneafrique.com/1756147/economie-entreprises/jean-remi-kouchakji-hub2-la-fintech-africaine-est-en-train-de-se-professionnaliser/)
 
