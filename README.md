@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Jan 2026, 15:15*
+*Generato: 14 Jan 2026, 18:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
@@ -91,7 +92,6 @@
 - [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
 - [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
-- [Deal on new measures to boost citizens’ investments in financial markets](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32220/deal-on-new-measures-to-boost-citizens-investments-in-financial-markets)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -144,19 +144,6 @@
 - [en English](https://home-affairs.ec.europa.eu/news_en)
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
 
 ## UE – Tunisie – Projects portal (Governance)
 
@@ -223,6 +210,19 @@
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
+
 ## THINK TANK – ECFR – MENA
 
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Sénégal, l’achat de véhicules pour les députés vire à la polémique](https://www.jeuneafrique.com/1756718/politique/au-senegal-lachat-de-vehicules-pour-les-deputes-vire-a-la-polemique/)
+- [Cameroun : 14 morts, dont 7 enfants, dans une attaque séparatiste dans le Nord-Ouest](https://www.jeuneafrique.com/1756700/politique/cameroun-14-morts-dont-7-enfants-dans-une-attaque-separatiste-dans-le-nord-ouest/)
+- [RDC : les raisons du bras de fer entre Washington et Pékin autour du prochain patron de la Monusco](https://www.jeuneafrique.com/1756510/politique/rdc-les-raisons-du-bras-de-fer-entre-washington-et-pekin-autour-du-prochain-patron-de-la-monusco/)
+- [En Guinée-Bissau, la junte modifie la Constitution et instaure un régime présidentiel](https://www.jeuneafrique.com/1756673/politique/en-guinee-bissau-la-junte-modifie-la-constitution-et-instaure-un-regime-presidentiel/)
 - [Disparition de Claudette Colvin, première Noire américaine qui refusa de céder sa place aux Blancs](https://www.jeuneafrique.com/1756452/politique/disparition-de-claudette-colvin-premiere-noire-americaine-qui-refusa-de-ceder-sa-place-aux-blancs/)
 - [Pape Léon en Afrique : une tournée qui passera aussi par l’Angola](https://www.jeuneafrique.com/1756384/politique/pape-leon-en-afrique-une-tournee-qui-passera-aussi-par-langola/)
 - [Présidentielle en Ouganda : internet bloqué à la veille du scrutin](https://www.jeuneafrique.com/1756401/politique/presidentielle-en-ouganda-internet-bloque-a-la-veille-du-scrutin/)
 - [Cameroun : Marc Brys continue-t-il de toucher son salaire malgré son éviction ?](https://www.jeuneafrique.com/1756073/politique/cameroun-marc-brys-continue-t-il-de-toucher-son-salaire-malgre-son-eviction/)
-- [Nigeria : les États-Unis livrent du matériel militaire pour la lutte anti-jihadiste](https://www.jeuneafrique.com/1756279/politique/nigeria-les-etats-unis-livrent-du-materiel-militaire-pour-la-lutte-anti-jihadiste/)
-- [Ouganda : pour Museveni, 40 ans et plus si affinités](https://www.jeuneafrique.com/1756103/politique/ouganda-pour-museveni-40-ans-et-plus-si-affinites/)
-- [Assassinat de l’ex-ministre Yolande Viviane Compaoré au Burkina Faso : les autorités annoncent ouvrir une enquête](https://www.jeuneafrique.com/1756138/politique/assassinat-de-lex-ministre-yolande-viviane-compaore-au-burkina-faso-les-autorites-annoncent-ouvrir-une-enquete/)
-- [5 questions pour comprendre à quoi pourrait ressembler le plan d’autonomie du Sahara occidental](https://www.jeuneafrique.com/1755647/politique/5-questions-pour-comprendre-a-quoi-pourrait-ressembler-le-plan-dautonomie-du-sahara-occidental/)
+- [Pourquoi le départ de Lukoil d’Afrique suscite l’appétit des géants américains](https://www.jeuneafrique.com/1756268/economie-entreprises/pourquoi-le-depart-de-lukoil-dafrique-suscite-lappetit-des-geants-americains/)
 - [Face au retrait occidental, Sidi Ould Tah parie plus que jamais sur le monde arabe](https://www.jeuneafrique.com/1756356/economie-entreprises/face-au-retrait-occidental-sidi-ould-tah-parie-plus-que-jamais-sur-le-monde-arabe/)
-- [Jean-Rémi Kouchakji (Hub2) : « La fintech africaine est en train de se professionnaliser »](https://www.jeuneafrique.com/1756147/economie-entreprises/jean-remi-kouchakji-hub2-la-fintech-africaine-est-en-train-de-se-professionnaliser/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
