@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Jan 2026, 12:20*
+*Generato: 14 Jan 2026, 13:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,19 +223,6 @@
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 - [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [research](https://carnegie-mec.org/research?lang=en)
-- [emissary](https://carnegie-mec.org/emissary?lang=en)
-- [about](https://carnegie-mec.org/about?lang=en)
-- [experts](https://carnegie-mec.org/experts?lang=en)
-- [support](https://carnegie-mec.org/development)
-- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
-- [events](https://carnegie-mec.org/events?lang=en)
-- [blogs](https://carnegie-mec.org/blogs)
-- [podcasts](https://carnegie-mec.org/podcasts)
-- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
-
 ## THINK TANK – ECFR – MENA
 
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
@@ -284,7 +271,7 @@
 - [Nigeria : les États-Unis livrent du matériel militaire pour la lutte anti-jihadiste](https://www.jeuneafrique.com/1756279/politique/nigeria-les-etats-unis-livrent-du-materiel-militaire-pour-la-lutte-anti-jihadiste/)
 - [Ouganda : pour Museveni, 40 ans et plus si affinités](https://www.jeuneafrique.com/1756103/politique/ouganda-pour-museveni-40-ans-et-plus-si-affinites/)
 - [Assassinat de l’ex-ministre Yolande Viviane Compaoré au Burkina Faso : les autorités annoncent ouvrir une enquête](https://www.jeuneafrique.com/1756138/politique/assassinat-de-lex-ministre-yolande-viviane-compaore-au-burkina-faso-les-autorites-annoncent-ouvrir-une-enquete/)
-- [Au Sénégal, pourquoi Farba Ngom n’est-il toujours pas libre de ses mouvements ?](https://www.jeuneafrique.com/1756028/politique/au-senegal-pourquoi-farba-ngom-nest-il-toujours-pas-libre-de-ses-mouvements/)
+- [5 questions pour comprendre à quoi pourrait ressembler le plan d’autonomie du Sahara occidental](https://www.jeuneafrique.com/1755647/politique/5-questions-pour-comprendre-a-quoi-pourrait-ressembler-le-plan-dautonomie-du-sahara-occidental/)
 - [Face au retrait occidental, Sidi Ould Tah parie plus que jamais sur le monde arabe](https://www.jeuneafrique.com/1756356/economie-entreprises/face-au-retrait-occidental-sidi-ould-tah-parie-plus-que-jamais-sur-le-monde-arabe/)
 - [Jean-Rémi Kouchakji (Hub2) : « La fintech africaine est en train de se professionnaliser »](https://www.jeuneafrique.com/1756147/economie-entreprises/jean-remi-kouchakji-hub2-la-fintech-africaine-est-en-train-de-se-professionnaliser/)
 
