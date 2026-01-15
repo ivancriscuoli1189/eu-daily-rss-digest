@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Jan 2026, 18:21*
+*Generato: 15 Jan 2026, 21:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -118,6 +118,19 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -259,8 +272,8 @@
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
 - [Centrafrique : après la présidentielle, Touadéra face aux défis du remaniement et des nominations](https://www.jeuneafrique.com/1756434/politique/centrafrique-ce-qui-attend-touadera-declare-vainqueur-de-la-presidentielle/)
+- [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
 - [Pourquoi Pi-Spi, le pari numérique de la BCEAO, tarde à décoller](https://www.jeuneafrique.com/1756248/economie-entreprises/pourquoi-pi-spi-le-pari-numerique-de-la-bceao-tarde-a-decoller/)
-- [Maroc : qui pour remplacer Hassan Ouriagli à la tête d’Al Mada ?](https://www.jeuneafrique.com/1756331/economie-entreprises/maroc-qui-pour-remplacer-hassan-ouriagli-a-la-tete-dal-mada/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
