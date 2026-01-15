@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Jan 2026, 15:13*
+*Generato: 15 Jan 2026, 18:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
@@ -91,7 +92,6 @@
 - [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
 - [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
 - [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -118,19 +118,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -271,9 +258,9 @@
 - [Au Burundi, la condamnation de la journaliste Sandra Muhoza dénoncée par RSF](https://www.jeuneafrique.com/1756862/politique/au-burundi-la-condamnation-de-la-journaliste-sandra-muhoza-denoncee-rsf/)
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
-- [Sénégal : pourquoi les révélations de la ministre de la Justice sur Farba Ngom font polémique](https://www.jeuneafrique.com/1756560/politique/senegal-pourquoi-les-revelations-de-la-ministre-de-la-justice-sur-farba-ngom-font-polemique/)
+- [Centrafrique : après la présidentielle, Touadéra face aux défis du remaniement et des nominations](https://www.jeuneafrique.com/1756434/politique/centrafrique-ce-qui-attend-touadera-declare-vainqueur-de-la-presidentielle/)
+- [Pourquoi Pi-Spi, le pari numérique de la BCEAO, tarde à décoller](https://www.jeuneafrique.com/1756248/economie-entreprises/pourquoi-pi-spi-le-pari-numerique-de-la-bceao-tarde-a-decoller/)
 - [Maroc : qui pour remplacer Hassan Ouriagli à la tête d’Al Mada ?](https://www.jeuneafrique.com/1756331/economie-entreprises/maroc-qui-pour-remplacer-hassan-ouriagli-a-la-tete-dal-mada/)
-- [Gabon : Thierry Minko, le pari d’Oligui Nguema pour renouer avec le FMI](https://www.jeuneafrique.com/1756442/economie-entreprises/gabon-thierry-minko-le-pari-doligui-nguema-pour-renouer-avec-le-fmi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
