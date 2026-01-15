@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Jan 2026, 11:11*
+*Generato: 15 Jan 2026, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -269,9 +269,9 @@
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
 - [Au Sénégal, l’achat de véhicules pour les députés vire à la polémique](https://www.jeuneafrique.com/1756718/politique/au-senegal-lachat-de-vehicules-pour-les-deputes-vire-a-la-polemique/)
+- [Côte d’Ivoire : privé d’Assemblée nationale, le PPA-CI prépare l’après-Gbagbo](https://www.jeuneafrique.com/1756343/politique/cote-divoire-prive-dassemblee-nationale-le-ppa-ci-prepare-lapres-gbagbo/)
 - [Cameroun : 14 morts, dont 7 enfants, dans une attaque séparatiste dans le Nord-Ouest](https://www.jeuneafrique.com/1756700/politique/cameroun-14-morts-dont-7-enfants-dans-une-attaque-separatiste-dans-le-nord-ouest/)
 - [RDC : les raisons du bras de fer entre Washington et Pékin autour du prochain patron de la Monusco](https://www.jeuneafrique.com/1756510/politique/rdc-les-raisons-du-bras-de-fer-entre-washington-et-pekin-autour-du-prochain-patron-de-la-monusco/)
-- [En Guinée-Bissau, la junte modifie la Constitution et instaure un régime présidentiel](https://www.jeuneafrique.com/1756673/politique/en-guinee-bissau-la-junte-modifie-la-constitution-et-instaure-un-regime-presidentiel/)
 - [Maroc : qui pour remplacer Hassan Ouriagli à la tête d’Al Mada ?](https://www.jeuneafrique.com/1756331/economie-entreprises/maroc-qui-pour-remplacer-hassan-ouriagli-a-la-tete-dal-mada/)
 - [Pourquoi le départ de Lukoil d’Afrique suscite l’appétit des géants américains](https://www.jeuneafrique.com/1756268/economie-entreprises/pourquoi-le-depart-de-lukoil-dafrique-suscite-lappetit-des-geants-americains/)
 
