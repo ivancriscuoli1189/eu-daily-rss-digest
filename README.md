@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Jan 2026, 09:17*
+*Generato: 15 Jan 2026, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
+- [Au Burundi, la condamnation de la journaliste Sandra Muhoza dénoncée par RSF](https://www.jeuneafrique.com/1756862/politique/au-burundi-la-condamnation-de-la-journaliste-sandra-muhoza-denoncee-rsf/)
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
 - [Au Sénégal, l’achat de véhicules pour les députés vire à la polémique](https://www.jeuneafrique.com/1756718/politique/au-senegal-lachat-de-vehicules-pour-les-deputes-vire-a-la-polemique/)
 - [Cameroun : 14 morts, dont 7 enfants, dans une attaque séparatiste dans le Nord-Ouest](https://www.jeuneafrique.com/1756700/politique/cameroun-14-morts-dont-7-enfants-dans-une-attaque-separatiste-dans-le-nord-ouest/)
 - [RDC : les raisons du bras de fer entre Washington et Pékin autour du prochain patron de la Monusco](https://www.jeuneafrique.com/1756510/politique/rdc-les-raisons-du-bras-de-fer-entre-washington-et-pekin-autour-du-prochain-patron-de-la-monusco/)
 - [En Guinée-Bissau, la junte modifie la Constitution et instaure un régime présidentiel](https://www.jeuneafrique.com/1756673/politique/en-guinee-bissau-la-junte-modifie-la-constitution-et-instaure-un-regime-presidentiel/)
-- [CAN 2025 : les hackers de Jabaroot entrent dans les polémiques entre le Maroc et l’Algérie](https://www.jeuneafrique.com/1756455/politique/can-2025-les-hackers-de-jabaroot-entrent-dans-les-polemiques-entre-le-maroc-et-lalgerie/)
-- [Disparition de Claudette Colvin, première Noire américaine qui refusa de céder sa place aux Blancs](https://www.jeuneafrique.com/1756452/politique/disparition-de-claudette-colvin-premiere-noire-americaine-qui-refusa-de-ceder-sa-place-aux-blancs/)
 - [Maroc : qui pour remplacer Hassan Ouriagli à la tête d’Al Mada ?](https://www.jeuneafrique.com/1756331/economie-entreprises/maroc-qui-pour-remplacer-hassan-ouriagli-a-la-tete-dal-mada/)
 - [Pourquoi le départ de Lukoil d’Afrique suscite l’appétit des géants américains](https://www.jeuneafrique.com/1756268/economie-entreprises/pourquoi-le-depart-de-lukoil-dafrique-suscite-lappetit-des-geants-americains/)
 
