@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Jan 2026, 21:11*
+*Generato: 15 Jan 2026, 06:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -213,15 +213,15 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
+- [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 - [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
-- [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
+- [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Uzbekistan: ICJ convenes Expert Discussion on strengthening implementation of UN Treaty Bodies](https://www.icj.org/uzbekistan-icj-convenes-expert-discussion-on-strengthening-implementation-of-un-treaty-bodies/)
 - [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
-- [Laos: After 13 years, renewed international action needed to ensure justice in Sombath Somphone’s enforced disappearance](https://www.icj.org/laos-after-13-years-renewed-international-action-needed-to-ensure-justice-in-sombath-somphones-enforced-disappearance/)
 
 ## THINK TANK – ECFR – MENA
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Centrafrique : ce qui attend Touadéra, déclaré vainqueur de la présidentielle](https://www.jeuneafrique.com/1756434/politique/centrafrique-ce-qui-attend-touadera-declare-vainqueur-de-la-presidentielle/)
 - [Au Sénégal, l’achat de véhicules pour les députés vire à la polémique](https://www.jeuneafrique.com/1756718/politique/au-senegal-lachat-de-vehicules-pour-les-deputes-vire-a-la-polemique/)
 - [Cameroun : 14 morts, dont 7 enfants, dans une attaque séparatiste dans le Nord-Ouest](https://www.jeuneafrique.com/1756700/politique/cameroun-14-morts-dont-7-enfants-dans-une-attaque-separatiste-dans-le-nord-ouest/)
 - [RDC : les raisons du bras de fer entre Washington et Pékin autour du prochain patron de la Monusco](https://www.jeuneafrique.com/1756510/politique/rdc-les-raisons-du-bras-de-fer-entre-washington-et-pekin-autour-du-prochain-patron-de-la-monusco/)
@@ -271,7 +272,6 @@
 - [Disparition de Claudette Colvin, première Noire américaine qui refusa de céder sa place aux Blancs](https://www.jeuneafrique.com/1756452/politique/disparition-de-claudette-colvin-premiere-noire-americaine-qui-refusa-de-ceder-sa-place-aux-blancs/)
 - [Pape Léon en Afrique : une tournée qui passera aussi par l’Angola](https://www.jeuneafrique.com/1756384/politique/pape-leon-en-afrique-une-tournee-qui-passera-aussi-par-langola/)
 - [Présidentielle en Ouganda : internet bloqué à la veille du scrutin](https://www.jeuneafrique.com/1756401/politique/presidentielle-en-ouganda-internet-bloque-a-la-veille-du-scrutin/)
-- [Cameroun : Marc Brys continue-t-il de toucher son salaire malgré son éviction ?](https://www.jeuneafrique.com/1756073/politique/cameroun-marc-brys-continue-t-il-de-toucher-son-salaire-malgre-son-eviction/)
 - [Pourquoi le départ de Lukoil d’Afrique suscite l’appétit des géants américains](https://www.jeuneafrique.com/1756268/economie-entreprises/pourquoi-le-depart-de-lukoil-dafrique-suscite-lappetit-des-geants-americains/)
 - [Face au retrait occidental, Sidi Ould Tah parie plus que jamais sur le monde arabe](https://www.jeuneafrique.com/1756356/economie-entreprises/face-au-retrait-occidental-sidi-ould-tah-parie-plus-que-jamais-sur-le-monde-arabe/)
 
