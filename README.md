@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Jan 2026, 13:33*
+*Generato: 15 Jan 2026, 15:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
@@ -91,7 +92,6 @@
 - [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
 - [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20251209IPR32103/ep-today)
-- [European Parliament Press Kit for the European Council of 18–19 December 2025](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32257/european-parliament-press-kit-for-the-european-council-of-18-19-december-2025)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
+- [Un député français d’extrême droite compare la fiscalité au génocide des Tutsi au Rwanda et provoque un tollé](https://www.jeuneafrique.com/1757008/politique/un-depute-francais-dextreme-droite-compare-la-fiscalite-au-genocide-des-tutsi-au-rwanda-et-provoque-un-tolle/)
+- [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
 - [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
 - [Au Burundi, la condamnation de la journaliste Sandra Muhoza dénoncée par RSF](https://www.jeuneafrique.com/1756862/politique/au-burundi-la-condamnation-de-la-journaliste-sandra-muhoza-denoncee-rsf/)
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
 - [Sénégal : pourquoi les révélations de la ministre de la Justice sur Farba Ngom font polémique](https://www.jeuneafrique.com/1756560/politique/senegal-pourquoi-les-revelations-de-la-ministre-de-la-justice-sur-farba-ngom-font-polemique/)
-- [Au Sénégal, l’achat de véhicules pour les députés vire à la polémique](https://www.jeuneafrique.com/1756718/politique/au-senegal-lachat-de-vehicules-pour-les-deputes-vire-a-la-polemique/)
-- [Côte d’Ivoire : privé d’Assemblée nationale, le PPA-CI prépare l’après-Gbagbo](https://www.jeuneafrique.com/1756343/politique/cote-divoire-prive-dassemblee-nationale-le-ppa-ci-prepare-lapres-gbagbo/)
-- [Cameroun : 14 morts, dont 7 enfants, dans une attaque séparatiste dans le Nord-Ouest](https://www.jeuneafrique.com/1756700/politique/cameroun-14-morts-dont-7-enfants-dans-une-attaque-separatiste-dans-le-nord-ouest/)
 - [Maroc : qui pour remplacer Hassan Ouriagli à la tête d’Al Mada ?](https://www.jeuneafrique.com/1756331/economie-entreprises/maroc-qui-pour-remplacer-hassan-ouriagli-a-la-tete-dal-mada/)
 - [Gabon : Thierry Minko, le pari d’Oligui Nguema pour renouer avec le FMI](https://www.jeuneafrique.com/1756442/economie-entreprises/gabon-thierry-minko-le-pari-doligui-nguema-pour-renouer-avec-le-fmi/)
 
