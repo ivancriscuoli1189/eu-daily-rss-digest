@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 13:31*
+*Generato: 16 Jan 2026, 15:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Air passenger rights: press conference on Wednesday at 14.30](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32418/air-passenger-rights-press-conference-on-wednesday-at-14-30)
 - [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
@@ -91,7 +92,6 @@
 - [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
 - [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
 - [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
-- [Human rights violations in Azerbaijan, Nigeria and Guinea Bissau](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32170/human-rights-violations-in-azerbaijan-nigeria-and-guinea-bissau)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle en Ouganda : un député proche de Bobi Wine dénonce l’assassinat de dix de ses partisans par l’armée](https://www.jeuneafrique.com/1757472/politique/presidentielle-en-ouganda-un-depute-proche-de-bobi-wine-denonce-lassassinat-de-dix-de-ses-partisans-par-larmee/)
 - [Niger : le nouvel ambassadeur de Russie prend ses fonctions à Niamey](https://www.jeuneafrique.com/1757218/politique/niger-le-nouvel-ambassadeur-de-russie-prend-ses-fonctions-a-niamey/)
 - [Centrafrique : pourquoi Dondra a choisi de ne pas contester la victoire de Touadéra](https://www.jeuneafrique.com/1756933/politique/centrafrique-pourquoi-dondra-a-choisi-de-ne-pas-contester-la-victoire-de-touadera/)
 - [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
@@ -271,7 +272,6 @@
 - [Côte d’Ivoire : Patrick Achi désigné candidat du RHDP à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1757045/politique/cote-divoire-patrick-achi-designe-candidat-du-rhdp-a-la-presidence-de-lassemblee-nationale/)
 - [10 choses à savoir sur la Rwandaise Clare Akamanzi, patronne de la NBA Afrique](https://www.jeuneafrique.com/1754963/politique/10-choses-a-savoir-sur-la-rwandaise-clare-akamanzi-patronne-de-la-nba-afrique/)
 - [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
-- [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
 - [Sénégal, Gabon, Congo… Comment les producteurs de pétrole entendent reconquérir les majors du secteur](https://www.jeuneafrique.com/1757136/economie-entreprises/senegal-gabon-congo-comment-les-producteurs-de-petrole-entendent-reconquerir-les-majors-du-secteur/)
 - [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
 
