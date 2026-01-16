@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 09:16*
+*Generato: 16 Jan 2026, 11:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger : le nouvel ambassadeur de Russie prend ses fonctions à Niamey](https://www.jeuneafrique.com/1757218/politique/niger-le-nouvel-ambassadeur-de-russie-prend-ses-fonctions-a-niamey/)
+- [Centrafrique : pourquoi Dondra a choisi de ne pas contester la victoire de Touadéra](https://www.jeuneafrique.com/1756933/politique/centrafrique-pourquoi-dondra-a-choisi-de-ne-pas-contester-la-victoire-de-touadera/)
 - [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
 - [Un député français d’extrême droite compare la fiscalité au génocide des Tutsi au Rwanda et provoque un tollé](https://www.jeuneafrique.com/1757008/politique/un-depute-francais-dextreme-droite-compare-la-fiscalite-au-genocide-des-tutsi-au-rwanda-et-provoque-un-tolle/)
+- [Côte d’Ivoire : Patrick Achi désigné candidat du RHDP à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1757045/politique/cote-divoire-patrick-achi-designe-candidat-du-rhdp-a-la-presidence-de-lassemblee-nationale/)
 - [10 choses à savoir sur la Rwandaise Clare Akamanzi, patronne de la NBA Afrique](https://www.jeuneafrique.com/1754963/politique/10-choses-a-savoir-sur-la-rwandaise-clare-akamanzi-patronne-de-la-nba-afrique/)
 - [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
 - [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
-- [Au Burundi, la condamnation de la journaliste Sandra Muhoza dénoncée par RSF](https://www.jeuneafrique.com/1756862/politique/au-burundi-la-condamnation-de-la-journaliste-sandra-muhoza-denoncee-rsf/)
-- [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
-- [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
+- [Afrique de l’Ouest : ce que l’on sait de la suspension du paiement en ligne par carte bancaire](https://www.jeuneafrique.com/1757184/economie-entreprises/afrique-de-louest-ce-que-lon-sait-de-la-suspension-du-paiement-en-ligne-par-carte-bancaire/)
 - [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
-- [Pourquoi Pi-Spi, le pari numérique de la BCEAO, tarde à décoller](https://www.jeuneafrique.com/1756248/economie-entreprises/pourquoi-pi-spi-le-pari-numerique-de-la-bceao-tarde-a-decoller/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
