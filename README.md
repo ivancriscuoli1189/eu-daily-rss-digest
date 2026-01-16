@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 06:18*
+*Generato: 16 Jan 2026, 09:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
@@ -52,7 +53,6 @@
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
-- [Indice des prix à la consommation, Septembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-septembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -266,12 +266,12 @@
 
 - [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
 - [Un député français d’extrême droite compare la fiscalité au génocide des Tutsi au Rwanda et provoque un tollé](https://www.jeuneafrique.com/1757008/politique/un-depute-francais-dextreme-droite-compare-la-fiscalite-au-genocide-des-tutsi-au-rwanda-et-provoque-un-tolle/)
+- [10 choses à savoir sur la Rwandaise Clare Akamanzi, patronne de la NBA Afrique](https://www.jeuneafrique.com/1754963/politique/10-choses-a-savoir-sur-la-rwandaise-clare-akamanzi-patronne-de-la-nba-afrique/)
 - [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
 - [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
 - [Au Burundi, la condamnation de la journaliste Sandra Muhoza dénoncée par RSF](https://www.jeuneafrique.com/1756862/politique/au-burundi-la-condamnation-de-la-journaliste-sandra-muhoza-denoncee-rsf/)
 - [En Tunisie, les familles de prisonniers « politiques » s’unissent au sein d’un collectif](https://www.jeuneafrique.com/1756841/politique/en-tunisie-les-familles-de-prisonniers-politiques-sunissent-au-sein-dun-collectif/)
 - [Bobi Wine face à Yoweri Museveni : en Ouganda, un double scrutin sous haute tension](https://www.jeuneafrique.com/1756824/politique/bobi-wine-face-a-yoweri-museveni-en-ouganda-un-double-scrutin-sous-haute-tension/)
-- [Centrafrique : après la présidentielle, Touadéra face aux défis du remaniement et des nominations](https://www.jeuneafrique.com/1756434/politique/centrafrique-ce-qui-attend-touadera-declare-vainqueur-de-la-presidentielle/)
 - [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
 - [Pourquoi Pi-Spi, le pari numérique de la BCEAO, tarde à décoller](https://www.jeuneafrique.com/1756248/economie-entreprises/pourquoi-pi-spi-le-pari-numerique-de-la-bceao-tarde-a-decoller/)
 
