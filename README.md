@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 15:13*
+*Generato: 16 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Hurdles to the ratification of the Electoral Act: press conference with the rapporteur](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32463/hurdles-to-the-ratification-of-the-electoral-act-press-conference)
+- [Press conference with EUDS rapporteur Tomas Tobé](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32462/press-conference-with-euds-rapporteur-tomas-tobe)
 - [Air passenger rights: press conference on Wednesday at 14.30](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32418/air-passenger-rights-press-conference-on-wednesday-at-14-30)
 - [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
@@ -90,13 +92,11 @@
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
 - [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
-- [Asylum policy: deal on first-ever EU list of safe countries of origin](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32221/asylum-policy-deal-on-first-ever-eu-list-of-safe-countries-of-origin)
-- [Parliament denounces continuous Belarusian hybrid attacks against Lithuania](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32171/parliament-denounces-continuous-belarusian-hybrid-attacks-against-lithuania)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -266,14 +266,14 @@
 
 - [Présidentielle en Ouganda : un député proche de Bobi Wine dénonce l’assassinat de dix de ses partisans par l’armée](https://www.jeuneafrique.com/1757472/politique/presidentielle-en-ouganda-un-depute-proche-de-bobi-wine-denonce-lassassinat-de-dix-de-ses-partisans-par-larmee/)
 - [Niger : le nouvel ambassadeur de Russie prend ses fonctions à Niamey](https://www.jeuneafrique.com/1757218/politique/niger-le-nouvel-ambassadeur-de-russie-prend-ses-fonctions-a-niamey/)
+- [Cet éléphant dans la pièce, qui piétine l’État de droit – par Georges Dougueli](https://www.jeuneafrique.com/1749305/politique/cet-elephant-dans-la-piece-qui-pietine-letat-de-droit-par-georges-dougueli/)
+- [Au Cameroun, comment Yerima Dewa est passé de lieutenant à ennemi de Tchiroma Bakary](https://www.jeuneafrique.com/1741671/politique/au-cameroun-comment-yerima-dewa-est-passe-de-lieutenant-a-ennemi-de-tchiroma-bakary/)
 - [Centrafrique : pourquoi Dondra a choisi de ne pas contester la victoire de Touadéra](https://www.jeuneafrique.com/1756933/politique/centrafrique-pourquoi-dondra-a-choisi-de-ne-pas-contester-la-victoire-de-touadera/)
 - [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
 - [Un député français d’extrême droite compare la fiscalité au génocide des Tutsi au Rwanda et provoque un tollé](https://www.jeuneafrique.com/1757008/politique/un-depute-francais-dextreme-droite-compare-la-fiscalite-au-genocide-des-tutsi-au-rwanda-et-provoque-un-tolle/)
 - [Côte d’Ivoire : Patrick Achi désigné candidat du RHDP à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1757045/politique/cote-divoire-patrick-achi-designe-candidat-du-rhdp-a-la-presidence-de-lassemblee-nationale/)
-- [10 choses à savoir sur la Rwandaise Clare Akamanzi, patronne de la NBA Afrique](https://www.jeuneafrique.com/1754963/politique/10-choses-a-savoir-sur-la-rwandaise-clare-akamanzi-patronne-de-la-nba-afrique/)
-- [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
+- [Afrique de l’Ouest : ce que l’on sait de la suspension du paiement en ligne par carte bancaire](https://www.jeuneafrique.com/1757184/economie-entreprises/afrique-de-louest-ce-que-lon-sait-de-la-suspension-du-paiement-en-ligne-par-carte-bancaire/)
 - [Sénégal, Gabon, Congo… Comment les producteurs de pétrole entendent reconquérir les majors du secteur](https://www.jeuneafrique.com/1757136/economie-entreprises/senegal-gabon-congo-comment-les-producteurs-de-petrole-entendent-reconquerir-les-majors-du-secteur/)
-- [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
