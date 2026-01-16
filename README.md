@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 11:11*
+*Generato: 16 Jan 2026, 12:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -272,7 +272,7 @@
 - [10 choses à savoir sur la Rwandaise Clare Akamanzi, patronne de la NBA Afrique](https://www.jeuneafrique.com/1754963/politique/10-choses-a-savoir-sur-la-rwandaise-clare-akamanzi-patronne-de-la-nba-afrique/)
 - [En Tunisie, plus question de grève générale ni de démission à l’UGTT](https://www.jeuneafrique.com/1756822/politique/en-tunisie-plus-question-de-greve-generale-ni-de-demission-a-lugtt/)
 - [Au Tchad, l’armée affronte les rebelles du MPRD dans le sud du pays](https://www.jeuneafrique.com/1756870/politique/au-tchad-larmee-affronte-les-rebelles-du-mprd-dans-le-sud-du-pays/)
-- [Afrique de l’Ouest : ce que l’on sait de la suspension du paiement en ligne par carte bancaire](https://www.jeuneafrique.com/1757184/economie-entreprises/afrique-de-louest-ce-que-lon-sait-de-la-suspension-du-paiement-en-ligne-par-carte-bancaire/)
+- [Sénégal, Gabon, Congo… Comment les producteurs de pétrole entendent reconquérir les majors du secteur](https://www.jeuneafrique.com/1757136/economie-entreprises/senegal-gabon-congo-comment-les-producteurs-de-petrole-entendent-reconquerir-les-majors-du-secteur/)
 - [Entre les États-Unis et la Chine, le Kenya sécurise ses exportations vers Pékin](https://www.jeuneafrique.com/1757182/economie-entreprises/entre-les-etats-unis-et-la-chine-le-kenya-securise-ses-exportations-vers-pekin/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
