@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Jan 2026, 06:21*
+*Generato: 19 Jan 2026, 09:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-parliament-s-proposals-to-support-innovative-companies)
 - [Hurdles to the ratification of the Electoral Act: press conference with the rapporteur](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32463/hurdles-to-the-ratification-of-the-electoral-act-press-conference)
 - [Press conference with EUDS rapporteur Tomas Tobé](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32462/press-conference-with-euds-rapporteur-tomas-tobe)
 - [Air passenger rights: press conference on Wednesday at 14.30](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32418/air-passenger-rights-press-conference-on-wednesday-at-14-30)
@@ -91,12 +92,11 @@
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 - [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
-- [Time for Europe to take responsibility for its security - Metsola at EUCO](https://www.europarl.europa.eu/news/en/press-room/20251217IPR32256/time-for-europe-to-take-responsibility-for-its-security-metsola-at-euco)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Guinée : désormais élu, Mamadi Doumbouya peut-il baisser la garde ?](https://www.jeuneafrique.com/1754222/politique/guinee-desormais-elu-mamadi-doumbouya-peut-il-baisser-la-garde/)
-- [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ du M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
+- [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ de l’AFC/M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
+- [Côte d’Ivoire : Patrick Achi, le candidat surprise d’Alassane Ouattara au perchoir](https://www.jeuneafrique.com/1757358/politique/cote-divoire-patrick-achi-le-candidat-surprise-dalassane-ouattara-au-perchoir/)
 - [« Mon cœur est rempli d’émotion » : en Guinée, Mamadi Doumbouya investi président](https://www.jeuneafrique.com/1757665/politique/mon-coeur-est-rempli-demotion-en-guinee-mamadi-doumbouya-investi-president/)
 - [Hassan Cheikh Mohamoud visite une ville revendiquée par le Somaliland](https://www.jeuneafrique.com/1757644/politique/hassan-cheikh-mohamoud-visite-une-ville-revendiquee-par-le-somaliland/)
 - [Présidentielle en Ouganda : Yoweri Museveni réélu sans surprise pour un septième mandat](https://www.jeuneafrique.com/1757633/politique/presidentielle-en-ouganda-yoweri-museveni-reelu-sans-surprise-pour-un-septieme-mandat/)
 - [Au Burkina Faso, le lexique révolutionnaire n’épargne pas les ministères](https://www.jeuneafrique.com/1757213/politique/au-burkina-faso-le-lexique-revolutionnaire-nepargne-pas-les-ministeres/)
 - [Côte d’Ivoire : l’ex-Premier ministre Patrick Achi élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1754297/politique/cote-divoire-lex-premier-ministre-patrick-achi-elu-president-de-lassemblee-nationale/)
 - [Crise dans l’est de la RDC : un an d’échecs diplomatiques](https://www.jeuneafrique.com/1755455/politique/crise-dans-lest-de-la-rdc-un-an-dechecs-diplomatiques/)
-- [Brahim Boudaoud (Maroc Telecom) : « Notre effort d’investissement est considérable »](https://www.jeuneafrique.com/1748466/economie-entreprises/brahim-boudaoud-maroc-telecom-notre-effort-dinvestissement-est-considerable/)
-- [Afrique de l’Ouest : ce que l’on sait de la suspension du paiement en ligne par carte bancaire](https://www.jeuneafrique.com/1757184/economie-entreprises/afrique-de-louest-ce-que-lon-sait-de-la-suspension-du-paiement-en-ligne-par-carte-bancaire/)
+- [Comment la fintech SycaPay veut rayonner sur le continent à partir d’Abidjan](https://www.jeuneafrique.com/1746388/economie-entreprises/comment-la-fintech-sycapay-veut-rayonner-sur-le-continent-a-partir-dabidjan/)
+- [Davos 2026 : qui sont les VIP africains attendus au Forum économique mondial ?](https://www.jeuneafrique.com/1757431/economie-entreprises/davos-2026-qui-sont-les-vip-africains-attendus-au-forum-economique-mondial/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
