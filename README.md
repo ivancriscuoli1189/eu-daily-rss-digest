@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Jan 2026, 21:10*
+*Generato: 19 Jan 2026, 06:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -239,7 +239,7 @@
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [Chile: ¿El pueblo unido? El escenario postelectoral en un país polarizado](https://www.cespi.it/it/eventi-note/eventi/chile-el-pueblo-unido-el-escenario-postelectoral-en-un-pais-polarizado)
+- [La salute nel sud globale oggi](https://www.cespi.it/it/eventi-note/eventi/la-salute-nel-sud-globale-oggi)
 - [AVVISO DI APERTURA PROCEDURA DI SELEZIONE: Realizzazione Video-tutorial](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-realizzazione-video-tutorial)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Présidentielle en Ouganda : un député proche de Bobi Wine dénonce l’assassinat de dix de ses partisans par l’armée](https://www.jeuneafrique.com/1757472/politique/presidentielle-en-ouganda-un-depute-proche-de-bobi-wine-denonce-lassassinat-de-dix-de-ses-partisans-par-larmee/)
-- [Niger : le nouvel ambassadeur de Russie prend ses fonctions à Niamey](https://www.jeuneafrique.com/1757218/politique/niger-le-nouvel-ambassadeur-de-russie-prend-ses-fonctions-a-niamey/)
-- [Cet éléphant dans la pièce, qui piétine l’État de droit – par Georges Dougueli](https://www.jeuneafrique.com/1749305/politique/cet-elephant-dans-la-piece-qui-pietine-letat-de-droit-par-georges-dougueli/)
-- [Au Cameroun, comment Yerima Dewa est passé de lieutenant à ennemi de Tchiroma Bakary](https://www.jeuneafrique.com/1741671/politique/au-cameroun-comment-yerima-dewa-est-passe-de-lieutenant-a-ennemi-de-tchiroma-bakary/)
-- [Centrafrique : pourquoi Dondra a choisi de ne pas contester la victoire de Touadéra](https://www.jeuneafrique.com/1756933/politique/centrafrique-pourquoi-dondra-a-choisi-de-ne-pas-contester-la-victoire-de-touadera/)
-- [Au Cameroun, avec Paul Biya, le statu quo, c’est maintenant !](https://www.jeuneafrique.com/1756964/politique/au-cameroun-avec-paul-biya-le-statu-quo-cest-maintenant/)
-- [Un député français d’extrême droite compare la fiscalité au génocide des Tutsi au Rwanda et provoque un tollé](https://www.jeuneafrique.com/1757008/politique/un-depute-francais-dextreme-droite-compare-la-fiscalite-au-genocide-des-tutsi-au-rwanda-et-provoque-un-tolle/)
-- [Côte d’Ivoire : Patrick Achi désigné candidat du RHDP à la présidence de l’Assemblée nationale](https://www.jeuneafrique.com/1757045/politique/cote-divoire-patrick-achi-designe-candidat-du-rhdp-a-la-presidence-de-lassemblee-nationale/)
+- [Guinée : désormais élu, Mamadi Doumbouya peut-il baisser la garde ?](https://www.jeuneafrique.com/1754222/politique/guinee-desormais-elu-mamadi-doumbouya-peut-il-baisser-la-garde/)
+- [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ du M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
+- [« Mon cœur est rempli d’émotion » : en Guinée, Mamadi Doumbouya investi président](https://www.jeuneafrique.com/1757665/politique/mon-coeur-est-rempli-demotion-en-guinee-mamadi-doumbouya-investi-president/)
+- [Hassan Cheikh Mohamoud visite une ville revendiquée par le Somaliland](https://www.jeuneafrique.com/1757644/politique/hassan-cheikh-mohamoud-visite-une-ville-revendiquee-par-le-somaliland/)
+- [Présidentielle en Ouganda : Yoweri Museveni réélu sans surprise pour un septième mandat](https://www.jeuneafrique.com/1757633/politique/presidentielle-en-ouganda-yoweri-museveni-reelu-sans-surprise-pour-un-septieme-mandat/)
+- [Au Burkina Faso, le lexique révolutionnaire n’épargne pas les ministères](https://www.jeuneafrique.com/1757213/politique/au-burkina-faso-le-lexique-revolutionnaire-nepargne-pas-les-ministeres/)
+- [Côte d’Ivoire : l’ex-Premier ministre Patrick Achi élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1754297/politique/cote-divoire-lex-premier-ministre-patrick-achi-elu-president-de-lassemblee-nationale/)
+- [Crise dans l’est de la RDC : un an d’échecs diplomatiques](https://www.jeuneafrique.com/1755455/politique/crise-dans-lest-de-la-rdc-un-an-dechecs-diplomatiques/)
+- [Brahim Boudaoud (Maroc Telecom) : « Notre effort d’investissement est considérable »](https://www.jeuneafrique.com/1748466/economie-entreprises/brahim-boudaoud-maroc-telecom-notre-effort-dinvestissement-est-considerable/)
 - [Afrique de l’Ouest : ce que l’on sait de la suspension du paiement en ligne par carte bancaire](https://www.jeuneafrique.com/1757184/economie-entreprises/afrique-de-louest-ce-que-lon-sait-de-la-suspension-du-paiement-en-ligne-par-carte-bancaire/)
-- [Sénégal, Gabon, Congo… Comment les producteurs de pétrole entendent reconquérir les majors du secteur](https://www.jeuneafrique.com/1757136/economie-entreprises/senegal-gabon-congo-comment-les-producteurs-de-petrole-entendent-reconquerir-les-majors-du-secteur/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
