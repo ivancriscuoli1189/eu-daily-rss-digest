@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Jan 2026, 11:13*
+*Generato: 19 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Centrafrique : la Cour constitutionnelle confirme la réélection de Touadéra](https://www.jeuneafrique.com/1757865/politique/centrafrique-la-cour-constitutionnelle-confirme-la-reelection-de-touadera/)
 - [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ de l’AFC/M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
 - [Côte d’Ivoire : Patrick Achi, le candidat surprise d’Alassane Ouattara au perchoir](https://www.jeuneafrique.com/1757358/politique/cote-divoire-patrick-achi-le-candidat-surprise-dalassane-ouattara-au-perchoir/)
 - [« Mon cœur est rempli d’émotion » : en Guinée, Mamadi Doumbouya investi président](https://www.jeuneafrique.com/1757665/politique/mon-coeur-est-rempli-demotion-en-guinee-mamadi-doumbouya-investi-president/)
@@ -271,7 +272,6 @@
 - [Présidentielle en Ouganda : Yoweri Museveni réélu sans surprise pour un septième mandat](https://www.jeuneafrique.com/1757633/politique/presidentielle-en-ouganda-yoweri-museveni-reelu-sans-surprise-pour-un-septieme-mandat/)
 - [Au Burkina Faso, le lexique révolutionnaire n’épargne pas les ministères](https://www.jeuneafrique.com/1757213/politique/au-burkina-faso-le-lexique-revolutionnaire-nepargne-pas-les-ministeres/)
 - [Côte d’Ivoire : l’ex-Premier ministre Patrick Achi élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1754297/politique/cote-divoire-lex-premier-ministre-patrick-achi-elu-president-de-lassemblee-nationale/)
-- [Crise dans l’est de la RDC : un an d’échecs diplomatiques](https://www.jeuneafrique.com/1755455/politique/crise-dans-lest-de-la-rdc-un-an-dechecs-diplomatiques/)
 - [Comment la fintech SycaPay veut rayonner sur le continent à partir d’Abidjan](https://www.jeuneafrique.com/1746388/economie-entreprises/comment-la-fintech-sycapay-veut-rayonner-sur-le-continent-a-partir-dabidjan/)
 - [Davos 2026 : qui sont les VIP africains attendus au Forum économique mondial ?](https://www.jeuneafrique.com/1757431/economie-entreprises/davos-2026-qui-sont-les-vip-africains-attendus-au-forum-economique-mondial/)
 
