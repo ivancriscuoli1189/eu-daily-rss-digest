@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Jan 2026, 13:37*
+*Generato: 19 Jan 2026, 15:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,8 +30,8 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
+- [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
 - [Press conference: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-parliament-s-proposals-to-support-innovative-companies)
 - [Hurdles to the ratification of the Electoral Act: press conference with the rapporteur](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32463/hurdles-to-the-ratification-of-the-electoral-act-press-conference)
@@ -91,12 +92,11 @@
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
-- [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
