@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Jan 2026, 09:22*
+*Generato: 19 Jan 2026, 11:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
 - [Press conference: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-parliament-s-proposals-to-support-innovative-companies)
 - [Hurdles to the ratification of the Electoral Act: press conference with the rapporteur](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32463/hurdles-to-the-ratification-of-the-electoral-act-press-conference)
 - [Press conference with EUDS rapporteur Tomas Tobé](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32462/press-conference-with-euds-rapporteur-tomas-tobe)
@@ -91,12 +92,11 @@
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
 - [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 - [Change of EP Parking Reservation Tool from 2 January 2026](https://www.europarl.europa.eu/news/en/press-room/20251211IPR32154/change-of-ep-parking-reservation-tool-from-2-january-2026)
-- [EU institutions define priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20251215IPR32213/eu-institutions-define-priorities-for-2026)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 - [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 - [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
-- [Turkey: Drop Bogus Charges against Istanbul Bar Association Leadership](https://www.icj.org/turkey-drop-bogus-charges-against-istanbul-bar-association-leadership/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Uzbekistan: ICJ convenes Expert Discussion on strengthening implementation of UN Treaty Bodies](https://www.icj.org/uzbekistan-icj-convenes-expert-discussion-on-strengthening-implementation-of-un-treaty-bodies/)
-- [Kyrgyz Republic: ICJ welcomes Constitutional Court ruling blocking reintroduction of the death penalty](https://www.icj.org/kyrgyz-republic-icj-welcomes-constitutional-court-ruling-blocking-reintroduction-of-the-death-penalty/)
 
 ## THINK TANK – ECFR – MENA
 
