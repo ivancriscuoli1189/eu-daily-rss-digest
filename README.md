@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Jan 2026, 15:15*
+*Generato: 19 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
 - [Press conference: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-parliament-s-proposals-to-support-innovative-companies)
@@ -91,7 +92,6 @@
 - [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 - [EP group leaders express unequivocal support to Greenland and Denmark](https://www.europarl.europa.eu/news/en/press-room/20260113IPR32390/ep-group-leaders-unequivocally-support-greenland-and-denmark)
-- [Air passengers should keep their rights, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20251218IPR32269/air-passengers-should-keep-their-rights-say-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Algérie-France : Ségolène Royal propose un plan pour renouer avec Alger](https://www.jeuneafrique.com/1757910/politique/algerie-france-segolene-royal-propose-un-plan-pour-renouer-avec-alger/)
 - [Centrafrique : la Cour constitutionnelle confirme la réélection de Touadéra](https://www.jeuneafrique.com/1757865/politique/centrafrique-la-cour-constitutionnelle-confirme-la-reelection-de-touadera/)
+- [En Côte d’Ivoire, Stéphane Kipré fait cavalier seul à l’Assemblée](https://www.jeuneafrique.com/1753645/politique/en-cote-divoire-stephane-kipre-fait-cavalier-seul-a-lassemblee/)
+- [Guinée : désormais élu, Mamadi Doumbouya peut-il baisser la garde ?](https://www.jeuneafrique.com/1754222/politique/guinee-desormais-elu-mamadi-doumbouya-peut-il-baisser-la-garde/)
 - [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ de l’AFC/M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
+- [Au Togo, comment Faure Gnassingbé, président du Conseil, a refaçonné son entourage](https://www.jeuneafrique.com/1757203/politique/au-togo-comment-faure-gnassingbe-president-du-conseil-a-refaconne-son-entourage/)
 - [Côte d’Ivoire : Patrick Achi, le candidat surprise d’Alassane Ouattara au perchoir](https://www.jeuneafrique.com/1757358/politique/cote-divoire-patrick-achi-le-candidat-surprise-dalassane-ouattara-au-perchoir/)
-- [« Mon cœur est rempli d’émotion » : en Guinée, Mamadi Doumbouya investi président](https://www.jeuneafrique.com/1757665/politique/mon-coeur-est-rempli-demotion-en-guinee-mamadi-doumbouya-investi-president/)
-- [Hassan Cheikh Mohamoud visite une ville revendiquée par le Somaliland](https://www.jeuneafrique.com/1757644/politique/hassan-cheikh-mohamoud-visite-une-ville-revendiquee-par-le-somaliland/)
-- [Présidentielle en Ouganda : Yoweri Museveni réélu sans surprise pour un septième mandat](https://www.jeuneafrique.com/1757633/politique/presidentielle-en-ouganda-yoweri-museveni-reelu-sans-surprise-pour-un-septieme-mandat/)
-- [Au Burkina Faso, le lexique révolutionnaire n’épargne pas les ministères](https://www.jeuneafrique.com/1757213/politique/au-burkina-faso-le-lexique-revolutionnaire-nepargne-pas-les-ministeres/)
-- [Côte d’Ivoire : l’ex-Premier ministre Patrick Achi élu président de l’Assemblée nationale](https://www.jeuneafrique.com/1754297/politique/cote-divoire-lex-premier-ministre-patrick-achi-elu-president-de-lassemblee-nationale/)
+- [Législatives au Bénin : vers une Assemblée nationale sans l’opposition](https://www.jeuneafrique.com/1757690/politique/legislatives-au-benin-vers-une-assemblee-nationale-sans-lopposition/)
 - [Comment la fintech SycaPay veut rayonner sur le continent à partir d’Abidjan](https://www.jeuneafrique.com/1746388/economie-entreprises/comment-la-fintech-sycapay-veut-rayonner-sur-le-continent-a-partir-dabidjan/)
 - [Davos 2026 : qui sont les VIP africains attendus au Forum économique mondial ?](https://www.jeuneafrique.com/1757431/economie-entreprises/davos-2026-qui-sont-les-vip-africains-attendus-au-forum-economique-mondial/)
 
