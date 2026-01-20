@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Jan 2026, 18:19*
+*Generato: 20 Jan 2026, 21:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -41,32 +41,6 @@
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
 
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
-- [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
-- [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
-- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
-- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
-- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
-- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
-
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
@@ -95,8 +69,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Tunis, le ministère de la Culture expulsé de ses locaux par celui de la Défense](https://www.jeuneafrique.com/1758170/politique/a-tunis-le-ministere-de-la-culture-expulse-de-ses-locaux-par-celui-de-la-defense/)
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
@@ -271,7 +246,6 @@
 - [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
 - [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
 - [En Côte d’Ivoire, ces indéboulonnables ministres du système Ouattara](https://www.jeuneafrique.com/1757243/politique/en-cote-divoire-ces-indeboulonnables-ministres-du-systeme-ouattara/)
-- [Togo – Burkina Faso : où est passé Paul-Henri Sandaogo Damiba ?](https://www.jeuneafrique.com/1757753/politique/togo-burkina-faso-ou-est-passe-paul-henri-sandaogo-damiba/)
 - [Énergies renouvelables : l’émirati Masdar redouble d’ambition sur le continent](https://www.jeuneafrique.com/1757857/economie-entreprises/energies-renouvelables-lemirati-masdar-redouble-dambition-sur-le-continent/)
 - [Arnaud Floris (Bpifrance) : « En Afrique, notre priorité, c’est le commerce »](https://www.jeuneafrique.com/1757539/economie-entreprises/arnaud-floris-bpifrance-en-afrique-notre-priorite-cest-le-commerce/)
 
