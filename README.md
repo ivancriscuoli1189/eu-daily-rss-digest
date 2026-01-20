@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Jan 2026, 13:38*
+*Generato: 20 Jan 2026, 15:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -269,9 +269,9 @@
 - [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
 - [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
 - [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
+- [Togo – Burkina Faso : où est passé Paul-Henri Sandaogo Damiba ?](https://www.jeuneafrique.com/1757753/politique/togo-burkina-faso-ou-est-passe-paul-henri-sandaogo-damiba/)
 - [Cameroun : le gouvernement Dion Ngute en sursis, suspendu à la parole de Paul Biya](https://www.jeuneafrique.com/1757513/politique/cameroun-le-gouvernement-dion-ngute-en-sursis-suspendu-a-la-parole-de-paul-biya/)
 - [Algérie-France : Ségolène Royal propose un plan pour renouer avec Alger](https://www.jeuneafrique.com/1757910/politique/algerie-france-segolene-royal-propose-un-plan-pour-renouer-avec-alger/)
-- [Centrafrique : la Cour constitutionnelle confirme la réélection de Touadéra](https://www.jeuneafrique.com/1757865/politique/centrafrique-la-cour-constitutionnelle-confirme-la-reelection-de-touadera/)
 - [Arnaud Floris (Bpifrance) : « En Afrique, notre priorité, c’est le commerce »](https://www.jeuneafrique.com/1757539/economie-entreprises/arnaud-floris-bpifrance-en-afrique-notre-priorite-cest-le-commerce/)
 - [Engrais : entre Dangote et OCP, la perspective d’un choc des titans en Éthiopie ?](https://www.jeuneafrique.com/1748200/economie-entreprises/engrais-entre-dangote-et-ocp-la-perspective-dun-choc-des-titans-en-ethiopie/)
 
