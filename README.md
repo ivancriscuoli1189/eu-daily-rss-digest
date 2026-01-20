@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Jan 2026, 06:19*
+*Generato: 20 Jan 2026, 09:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32434/ep-today)
 - [Laying the groundwork for Parliament’s SPAAK building renovation](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32427/laying-the-groundwork-for-parliament-s-spaak-building-renovation)
 - [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
@@ -91,7 +92,6 @@
 - [Press conference with EUDS rapporteur Tomas Tobé](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32462/press-conference-with-euds-rapporteur-tomas-tobe)
 - [Air passenger rights: press conference on Wednesday at 14.30](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32418/air-passenger-rights-press-conference-on-wednesday-at-14-30)
 - [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
-- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260115IPR32405/press-briefing-on-next-week-s-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
+- [Cameroun : le gouvernement Dion Ngute en sursis, suspendu à la parole de Paul Biya](https://www.jeuneafrique.com/1757513/politique/cameroun-le-gouvernement-dion-ngute-en-sursis-suspendu-a-la-parole-de-paul-biya/)
 - [Algérie-France : Ségolène Royal propose un plan pour renouer avec Alger](https://www.jeuneafrique.com/1757910/politique/algerie-france-segolene-royal-propose-un-plan-pour-renouer-avec-alger/)
 - [Centrafrique : la Cour constitutionnelle confirme la réélection de Touadéra](https://www.jeuneafrique.com/1757865/politique/centrafrique-la-cour-constitutionnelle-confirme-la-reelection-de-touadera/)
 - [En Côte d’Ivoire, Stéphane Kipré fait cavalier seul à l’Assemblée](https://www.jeuneafrique.com/1753645/politique/en-cote-divoire-stephane-kipre-fait-cavalier-seul-a-lassemblee/)
 - [Guinée : désormais élu, Mamadi Doumbouya peut-il baisser la garde ?](https://www.jeuneafrique.com/1754222/politique/guinee-desormais-elu-mamadi-doumbouya-peut-il-baisser-la-garde/)
 - [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ de l’AFC/M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
 - [Au Togo, comment Faure Gnassingbé, président du Conseil, a refaçonné son entourage](https://www.jeuneafrique.com/1757203/politique/au-togo-comment-faure-gnassingbe-president-du-conseil-a-refaconne-son-entourage/)
-- [Côte d’Ivoire : Patrick Achi, le candidat surprise d’Alassane Ouattara au perchoir](https://www.jeuneafrique.com/1757358/politique/cote-divoire-patrick-achi-le-candidat-surprise-dalassane-ouattara-au-perchoir/)
-- [Législatives au Bénin : vers une Assemblée nationale sans l’opposition](https://www.jeuneafrique.com/1757690/politique/legislatives-au-benin-vers-une-assemblee-nationale-sans-lopposition/)
-- [Comment la fintech SycaPay veut rayonner sur le continent à partir d’Abidjan](https://www.jeuneafrique.com/1746388/economie-entreprises/comment-la-fintech-sycapay-veut-rayonner-sur-le-continent-a-partir-dabidjan/)
-- [Davos 2026 : qui sont les VIP africains attendus au Forum économique mondial ?](https://www.jeuneafrique.com/1757431/economie-entreprises/davos-2026-qui-sont-les-vip-africains-attendus-au-forum-economique-mondial/)
+- [Engrais : entre Dangote et OCP, la perspective d’un choc des titans en Éthiopie ?](https://www.jeuneafrique.com/1748200/economie-entreprises/engrais-entre-dangote-et-ocp-la-perspective-dun-choc-des-titans-en-ethiopie/)
+- [Eau et électricité : le secteur privé fait-il mieux que l’État ?](https://www.jeuneafrique.com/1757603/economie-entreprises/eau-et-electricite-le-secteur-prive-fait-il-mieux-que-letat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
