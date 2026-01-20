@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Jan 2026, 15:19*
+*Generato: 20 Jan 2026, 18:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,19 +264,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
 - [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
 - [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
 - [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
+- [En Côte d’Ivoire, ces indéboulonnables ministres du système Ouattara](https://www.jeuneafrique.com/1757243/politique/en-cote-divoire-ces-indeboulonnables-ministres-du-systeme-ouattara/)
 - [Togo – Burkina Faso : où est passé Paul-Henri Sandaogo Damiba ?](https://www.jeuneafrique.com/1757753/politique/togo-burkina-faso-ou-est-passe-paul-henri-sandaogo-damiba/)
-- [Cameroun : le gouvernement Dion Ngute en sursis, suspendu à la parole de Paul Biya](https://www.jeuneafrique.com/1757513/politique/cameroun-le-gouvernement-dion-ngute-en-sursis-suspendu-a-la-parole-de-paul-biya/)
-- [Algérie-France : Ségolène Royal propose un plan pour renouer avec Alger](https://www.jeuneafrique.com/1757910/politique/algerie-france-segolene-royal-propose-un-plan-pour-renouer-avec-alger/)
+- [Énergies renouvelables : l’émirati Masdar redouble d’ambition sur le continent](https://www.jeuneafrique.com/1757857/economie-entreprises/energies-renouvelables-lemirati-masdar-redouble-dambition-sur-le-continent/)
 - [Arnaud Floris (Bpifrance) : « En Afrique, notre priorité, c’est le commerce »](https://www.jeuneafrique.com/1757539/economie-entreprises/arnaud-floris-bpifrance-en-afrique-notre-priorite-cest-le-commerce/)
-- [Engrais : entre Dangote et OCP, la perspective d’un choc des titans en Éthiopie ?](https://www.jeuneafrique.com/1748200/economie-entreprises/engrais-entre-dangote-et-ocp-la-perspective-dun-choc-des-titans-en-ethiopie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/petrolio-venezuelano-o-escremento-del-diavolo-lo-stato-dell-industria-degli-idrocarburi-del-venezuela-21001987/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
@@ -286,4 +287,3 @@
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
 - [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
-- [Il Sudan in lotta](https://www.limesonline.com/rubriche/mappe-parlanti/il-sudan-in-lotta-20321513/)
