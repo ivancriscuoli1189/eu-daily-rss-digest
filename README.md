@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Jan 2026, 09:22*
+*Generato: 20 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,8 +30,8 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
+- [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
@@ -82,21 +82,21 @@
 
 ## UE – EP – Press Room
 
+- [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
+- [MEPs debate Cyprus Presidency priorities with President Nikos Christodoulides](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32441/meps-debate-cyprus-presidency-priorities-with-president-nikos-christodoulides)
+- [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
+- [Parliament to fast-track support loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32445/parliament-to-fast-track-support-loan-for-ukraine)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32434/ep-today)
 - [Laying the groundwork for Parliament’s SPAAK building renovation](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32427/laying-the-groundwork-for-parliament-s-spaak-building-renovation)
 - [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
-- [Press conference: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-parliament-s-proposals-to-support-innovative-companies)
-- [Hurdles to the ratification of the Electoral Act: press conference with the rapporteur](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32463/hurdles-to-the-ratification-of-the-electoral-act-press-conference)
-- [Press conference with EUDS rapporteur Tomas Tobé](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32462/press-conference-with-euds-rapporteur-tomas-tobe)
-- [Air passenger rights: press conference on Wednesday at 14.30](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32418/air-passenger-rights-press-conference-on-wednesday-at-14-30)
-- [EU budget 2028–2034: debate on National and Regional Partnership Plans model](https://www.europarl.europa.eu/news/en/press-room/20260112IPR32348/eu-budget-2028-2034-debate-on-national-and-regional-partnership-plans-model)
+- [Press conference today: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-today-parliament-s-proposals-to-support-innovative-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
+- [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
+- [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
+- [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
 - [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
 - [Cameroun : le gouvernement Dion Ngute en sursis, suspendu à la parole de Paul Biya](https://www.jeuneafrique.com/1757513/politique/cameroun-le-gouvernement-dion-ngute-en-sursis-suspendu-a-la-parole-de-paul-biya/)
 - [Algérie-France : Ségolène Royal propose un plan pour renouer avec Alger](https://www.jeuneafrique.com/1757910/politique/algerie-france-segolene-royal-propose-un-plan-pour-renouer-avec-alger/)
 - [Centrafrique : la Cour constitutionnelle confirme la réélection de Touadéra](https://www.jeuneafrique.com/1757865/politique/centrafrique-la-cour-constitutionnelle-confirme-la-reelection-de-touadera/)
-- [En Côte d’Ivoire, Stéphane Kipré fait cavalier seul à l’Assemblée](https://www.jeuneafrique.com/1753645/politique/en-cote-divoire-stephane-kipre-fait-cavalier-seul-a-lassemblee/)
-- [Guinée : désormais élu, Mamadi Doumbouya peut-il baisser la garde ?](https://www.jeuneafrique.com/1754222/politique/guinee-desormais-elu-mamadi-doumbouya-peut-il-baisser-la-garde/)
-- [Est de la RDC : des forces pro-gouvernementales entrent dans Uvira après le départ de l’AFC/M23](https://www.jeuneafrique.com/1757748/politique/est-de-la-rdc-des-forces-pro-gouvernementales-entrent-dans-uvira-apres-le-depart-du-m23/)
-- [Au Togo, comment Faure Gnassingbé, président du Conseil, a refaçonné son entourage](https://www.jeuneafrique.com/1757203/politique/au-togo-comment-faure-gnassingbe-president-du-conseil-a-refaconne-son-entourage/)
+- [Arnaud Floris (Bpifrance) : « En Afrique, notre priorité, c’est le commerce »](https://www.jeuneafrique.com/1757539/economie-entreprises/arnaud-floris-bpifrance-en-afrique-notre-priorite-cest-le-commerce/)
 - [Engrais : entre Dangote et OCP, la perspective d’un choc des titans en Éthiopie ?](https://www.jeuneafrique.com/1748200/economie-entreprises/engrais-entre-dangote-et-ocp-la-perspective-dun-choc-des-titans-en-ethiopie/)
-- [Eau et électricité : le secteur privé fait-il mieux que l’État ?](https://www.jeuneafrique.com/1757603/economie-entreprises/eau-et-electricite-le-secteur-prive-fait-il-mieux-que-letat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
