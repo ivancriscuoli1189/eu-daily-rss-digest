@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 06:19*
+*Generato: 21 Jan 2026, 09:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-5)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة فضيلة قرقوري وكيل الرئيس الأوّل لمحكمة المحاسبات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D9%82%D8%B1%D9%82%D9%88%D8%B1%D9%8A-%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D9%91%D9%84-%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد سمير عبد الحفيظ وزير الاقتصاد والتخطيط](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 - [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
 - [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
 - [Parliament to fast-track support loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32445/parliament-to-fast-track-support-loan-for-ukraine)
@@ -91,7 +92,6 @@
 - [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
-- [Press conference today: Parliament’s proposals to support innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32422/press-conference-today-parliament-s-proposals-to-support-innovative-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Tchad-Soudan: Mahamat Idriss Déby Itno dans l’impasse du Darfour ?](https://www.jeuneafrique.com/1758158/politique/tchad-soudan-mahamat-idriss-deby-itno-dans-limpasse-du-darfour/)
+- [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
+- [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
 - [À Tunis, le ministère de la Culture expulsé de ses locaux par celui de la Défense](https://www.jeuneafrique.com/1758170/politique/a-tunis-le-ministere-de-la-culture-expulse-de-ses-locaux-par-celui-de-la-defense/)
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
 - [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
 - [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
-- [Maroc-États-Unis : Mohammed VI accepte de rejoindre le « Conseil de paix » de Donald Trump](https://www.jeuneafrique.com/1758082/politique/maroc-etats-unis-mohammed-vi-accepte-de-rejoindre-le-conseil-de-paix-de-donald-trump/)
-- [Énergies renouvelables : l’émirati Masdar redouble d’ambition sur le continent](https://www.jeuneafrique.com/1757857/economie-entreprises/energies-renouvelables-lemirati-masdar-redouble-dambition-sur-le-continent/)
-- [Arnaud Floris (Bpifrance) : « En Afrique, notre priorité, c’est le commerce »](https://www.jeuneafrique.com/1757539/economie-entreprises/arnaud-floris-bpifrance-en-afrique-notre-priorite-cest-le-commerce/)
+- [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
+- [Afrique centrale : pourquoi le FMI tire de nouveau la sonnette d’alarme](https://www.jeuneafrique.com/1758303/economie-entreprises/afrique-centrale-pourquoi-le-fmi-tire-de-nouveau-la-sonnette-dalarme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
