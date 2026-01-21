@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 11:14*
+*Generato: 21 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -71,7 +71,7 @@
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-5)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين وزير الصحّة ووزير الشؤون الإجتماعيّة والسيّدات والسّادة الرئيسة المديرة العامة للصيدلية المركزيّة للبلاد التونسية ورئيسة المجلس الوطني لعمادة الأطبّاء والمديرة العامة للوكالة الوطنية للدّواء ومواد الصحّة وئيس المج](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة فضيلة قرقوري وكيل الرئيس الأوّل لمحكمة المحاسبات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D9%82%D8%B1%D9%82%D9%88%D8%B1%D9%8A-%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D9%91%D9%84-%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد سمير عبد الحفيظ وزير الاقتصاد والتخطيط](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8)
 - [لقاء رئيس الجمهورية قيس سعيّد برؤساء المؤسسات الإعلامية الوطنية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A8%D8%B1%D8%A4%D8%B3%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9)
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament stands behind air passenger rights](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32442/european-parliament-stands-behind-air-passenger-rights)
 - [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
+- [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
+- [MEPs approve “enhanced cooperation” for €90 billion EU support loan to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32446/meps-approve-enhanced-cooperation-for-EU90-billion-eu-support-loan-to-ukraine)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 - [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
 - [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
 - [Parliament to fast-track support loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32445/parliament-to-fast-track-support-loan-for-ukraine)
 - [MEPs debate Cyprus Presidency priorities with President Nikos Christodoulides](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32441/meps-debate-cyprus-presidency-priorities-with-president-nikos-christodoulides)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32434/ep-today)
-- [Laying the groundwork for Parliament’s SPAAK building renovation](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32427/laying-the-groundwork-for-parliament-s-spaak-building-renovation)
-- [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
 - [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
 - [À Tunis, le ministère de la Culture expulsé de ses locaux par celui de la Défense](https://www.jeuneafrique.com/1758170/politique/a-tunis-le-ministere-de-la-culture-expulse-de-ses-locaux-par-celui-de-la-defense/)
@@ -271,12 +272,12 @@
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
-- [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Afrique centrale : pourquoi le FMI tire de nouveau la sonnette d’alarme](https://www.jeuneafrique.com/1758303/economie-entreprises/afrique-centrale-pourquoi-le-fmi-tire-de-nouveau-la-sonnette-dalarme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/petrolio-venezuelano-o-escremento-del-diavolo-lo-stato-dell-industria-degli-idrocarburi-del-venezuela-21001987/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
@@ -286,4 +287,3 @@
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
-- [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
