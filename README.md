@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 13:37*
+*Generato: 21 Jan 2026, 15:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -85,18 +85,18 @@
 - [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
 - [European Parliament stands behind air passenger rights](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32442/european-parliament-stands-behind-air-passenger-rights)
 - [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
+- [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
 - [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
 - [MEPs approve “enhanced cooperation” for €90 billion EU support loan to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32446/meps-approve-enhanced-cooperation-for-EU90-billion-eu-support-loan-to-ukraine)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 - [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
 - [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
 - [Parliament to fast-track support loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32445/parliament-to-fast-track-support-loan-for-ukraine)
-- [MEPs debate Cyprus Presidency priorities with President Nikos Christodoulides](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32441/meps-debate-cyprus-presidency-priorities-with-president-nikos-christodoulides)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,19 +223,6 @@
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Uzbekistan: ICJ convenes Expert Discussion on strengthening implementation of UN Treaty Bodies](https://www.icj.org/uzbekistan-icj-convenes-expert-discussion-on-strengthening-implementation-of-un-treaty-bodies/)
 
-## THINK TANK – ECFR – MENA
-
-- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
-- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
-- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Western Sahara shuffle: Trump’s foray could make or break peace](https://ecfr.eu/article/western-sahara-shuffle-trumps-foray-could-make-or-break-peace/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
-- [The power of the possible: A step-by-step approach to strengthen human rights in the Middle East](https://ecfr.eu/publication/the-power-of-the-possible-a-step-by-step-approach-to-strengthen-human-rights-in-the-middle-east/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -267,17 +254,16 @@
 - [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
 - [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
+- [RDC : « Les activités du CNC relèvent surtout du cyberharcèlement »](https://www.jeuneafrique.com/1757920/politique/rdc-les-activites-du-cnc-relevent-surtout-du-cyberharcelement/)
 - [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
 - [À Tunis, le ministère de la Culture expulsé de ses locaux par celui de la Défense](https://www.jeuneafrique.com/1758170/politique/a-tunis-le-ministere-de-la-culture-expulse-de-ses-locaux-par-celui-de-la-defense/)
 - [Avion militaire et transpondeur coupé : comment Damiba a été renvoyé à Ouagadougou](https://www.jeuneafrique.com/1758214/politique/avion-militaire-et-transpondeur-coupe-comment-damiba-a-ete-renvoye-a-ouagadougou/)
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
-- [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Afrique centrale : pourquoi le FMI tire de nouveau la sonnette d’alarme](https://www.jeuneafrique.com/1758303/economie-entreprises/afrique-centrale-pourquoi-le-fmi-tire-de-nouveau-la-sonnette-dalarme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
-- [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/petrolio-venezuelano-o-escremento-del-diavolo-lo-stato-dell-industria-degli-idrocarburi-del-venezuela-21001987/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
@@ -287,3 +273,4 @@
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
+- [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
