@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 12:21*
+*Generato: 21 Jan 2026, 13:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
 - [European Parliament stands behind air passenger rights](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32442/european-parliament-stands-behind-air-passenger-rights)
 - [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
 - [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
@@ -91,12 +92,11 @@
 - [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
 - [Parliament to fast-track support loan for Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32445/parliament-to-fast-track-support-loan-for-ukraine)
 - [MEPs debate Cyprus Presidency priorities with President Nikos Christodoulides](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32441/meps-debate-cyprus-presidency-priorities-with-president-nikos-christodoulides)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32434/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
 - [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
 - [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
@@ -271,7 +272,6 @@
 - [Avion militaire et transpondeur coupé : comment Damiba a été renvoyé à Ouagadougou](https://www.jeuneafrique.com/1758214/politique/avion-militaire-et-transpondeur-coupe-comment-damiba-a-ete-renvoye-a-ouagadougou/)
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
-- [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Afrique centrale : pourquoi le FMI tire de nouveau la sonnette d’alarme](https://www.jeuneafrique.com/1758303/economie-entreprises/afrique-centrale-pourquoi-le-fmi-tire-de-nouveau-la-sonnette-dalarme/)
 
