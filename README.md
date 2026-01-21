@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 09:21*
+*Generato: 21 Jan 2026, 11:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 - [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
 - [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
@@ -91,7 +92,6 @@
 - [Laying the groundwork for Parliament’s SPAAK building renovation](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32427/laying-the-groundwork-for-parliament-s-spaak-building-renovation)
 - [Opening: 19-22 January plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32440/opening-19-22-january-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32433/ep-today)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32432/press-briefing-on-this-week-s-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -267,11 +267,11 @@
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
 - [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
 - [À Tunis, le ministère de la Culture expulsé de ses locaux par celui de la Défense](https://www.jeuneafrique.com/1758170/politique/a-tunis-le-ministere-de-la-culture-expulse-de-ses-locaux-par-celui-de-la-defense/)
+- [Avion militaire et transpondeur coupé : comment Damiba a été renvoyé à Ouagadougou](https://www.jeuneafrique.com/1758214/politique/avion-militaire-et-transpondeur-coupe-comment-damiba-a-ete-renvoye-a-ouagadougou/)
 - [Au Maroc, un sentiment post-CAN au goût amer malgré la fierté d’une organisation réussie](https://www.jeuneafrique.com/1758081/politique/au-maroc-un-sentiment-post-can-au-gout-amer-malgre-la-fierte-dune-organisation-reussie/)
 - [Nigeria : plus de 160 chrétiens kidnappés pendant la messe](https://www.jeuneafrique.com/1758099/politique/nigeria-plus-de-160-chretiens-kidnappes-pendant-la-messe/)
 - [Ouganda : après la réélection de Museveni, son fils dit vouloir la mort de l’opposant Bobi Wine](https://www.jeuneafrique.com/1758101/politique/ouganda-apres-la-reelection-de-museveni-son-fils-dit-vouloir-la-mort-de-lopposant-bobi-wine/)
 - [Est de la RDC : l’armée congolaise reprend le contrôle d’Uvira après le retrait de l’AFC/M23](https://www.jeuneafrique.com/1758095/politique/est-de-la-rdc-larmee-congolaise-reprend-le-controle-duvira-apres-le-retrait-de-lafc-m23/)
-- [Cameroun : le difficile début d’année de Cavayé Yéguié Djibril, président de l’Assemblée](https://www.jeuneafrique.com/1757816/politique/cameroun-le-difficile-debut-dannee-de-cavaye-yeguie-djibril-president-de-lassemblee/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Afrique centrale : pourquoi le FMI tire de nouveau la sonnette d’alarme](https://www.jeuneafrique.com/1758303/economie-entreprises/afrique-centrale-pourquoi-le-fmi-tire-de-nouveau-la-sonnette-dalarme/)
 
