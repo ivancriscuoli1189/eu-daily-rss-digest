@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Jan 2026, 18:28*
+*Generato: 21 Jan 2026, 21:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [CAN 2025 : Bassirou Diomaye Faye redouble de générosité à l’égard des Lions de la Teranga](https://www.jeuneafrique.com/1758439/politique/can-2025-bassirou-diomaye-faye-redouble-de-generosite-a-legard-des-lions-de-la-teranga/)
 - [En Guinée-Bissau, la junte fixe au 6 décembre 2026 la date de la présidentielle et des législatives](https://www.jeuneafrique.com/1758557/politique/en-guinee-bissau-la-junte-fixe-au-6-decembre-2026-la-date-de-la-presidentielle-et-des-legislatives/)
 - [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
 - [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
@@ -271,7 +272,6 @@
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
 - [Tchad-Soudan: Mahamat Idriss Déby Itno dans l’impasse du Darfour ?](https://www.jeuneafrique.com/1758158/politique/tchad-soudan-mahamat-idriss-deby-itno-dans-limpasse-du-darfour/)
 - [RDC : « Les activités du CNC relèvent surtout du cyberharcèlement »](https://www.jeuneafrique.com/1757920/politique/rdc-les-activites-du-cnc-relevent-surtout-du-cyberharcelement/)
-- [Crimes rituels au Gabon : Oligui Nguema peut-il rétablir la peine de mort ?](https://www.jeuneafrique.com/1758186/politique/crimes-rituels-au-gabon-oligui-nguema-peut-il-retablir-la-peine-de-mort/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Pourquoi Bruxelles donne sa chance à Corsair et à ses ambitions africaines](https://www.jeuneafrique.com/1756891/economie-entreprises/pourquoi-bruxelles-donne-sa-chance-a-corsair-et-a-ses-ambitions-africaines/)
 
