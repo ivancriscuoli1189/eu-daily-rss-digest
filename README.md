@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Jan 2026, 11:15*
+*Generato: 22 Jan 2026, 12:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
+- [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
+- [Parliament rejects motion of censure against European Commission](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32439/parliament-rejects-motion-of-censure-against-european-commission)
 - [EP leaders reject the visa ban imposed on former Commissioner Breton](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32567/ep-leaders-reject-the-visa-ban-imposed-on-former-commissioner-breton)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32436/ep-today)
 - [International Holocaust Remembrance Day: invitation to interview Tatiana Bucci](https://www.europarl.europa.eu/news/en/press-room/20260121IPR32539/international-holocaust-remembrance-day-invitation-to-interview-tatiana-bucci)
@@ -89,9 +92,6 @@
 - [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
 - [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
 - [MEPs approve “enhanced cooperation” for €90 billion EU support loan to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32446/meps-approve-enhanced-cooperation-for-EU90-billion-eu-support-loan-to-ukraine)
-- [European Parliament stands behind air passenger rights](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32442/european-parliament-stands-behind-air-passenger-rights)
-- [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
 - [Rencontre avec le vendeur de tournevis à l’origine des frappes de Trump au Nigeria](https://www.jeuneafrique.com/1757854/politique/rencontre-avec-le-vendeur-de-tournevis-a-lorigine-des-frappes-de-trump-au-nigeria/)
 - [CAN 2025 : Bassirou Diomaye Faye redouble de générosité à l’égard des Lions de la Teranga](https://www.jeuneafrique.com/1758439/politique/can-2025-bassirou-diomaye-faye-redouble-de-generosite-a-legard-des-lions-de-la-teranga/)
 - [En Guinée-Bissau, la junte fixe au 6 décembre 2026 la date de la présidentielle et des législatives](https://www.jeuneafrique.com/1758557/politique/en-guinee-bissau-la-junte-fixe-au-6-decembre-2026-la-date-de-la-presidentielle-et-des-legislatives/)
@@ -284,7 +285,6 @@
 - [En Côte d’Ivoire, Alassane Ouattara reconduit son Premier ministre Robert Beugré Mambé](https://www.jeuneafrique.com/1757887/politique/en-cote-divoire-alassane-ouattara-reconduit-son-premier-ministre-robert-beugre-mambe/)
 - [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
 - [Cameroun : Emmanuel Nsahlai, l’avocat des Biya au cœur de la justice américaine](https://www.jeuneafrique.com/1756641/politique/cameroun-emmanuel-nsahlai-lavocat-des-biya-au-coeur-de-la-justice-americaine/)
-- [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Pourquoi Bruxelles donne sa chance à Corsair et à ses ambitions africaines](https://www.jeuneafrique.com/1756891/economie-entreprises/pourquoi-bruxelles-donne-sa-chance-a-corsair-et-a-ses-ambitions-africaines/)
 
