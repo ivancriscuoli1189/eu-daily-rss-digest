@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Jan 2026, 18:16*
+*Generato: 22 Jan 2026, 21:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -222,6 +222,19 @@
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
 
 ## THINK TANK – ECFR – MENA
 
