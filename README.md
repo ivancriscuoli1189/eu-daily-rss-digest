@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Jan 2026, 15:18*
+*Generato: 22 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : entre Biya et Tchiroma Bakary, un médiateur nommé Baba Danpullo](https://www.jeuneafrique.com/1757923/politique/cameroun-entre-biya-et-tchiroma-bakary-un-mediateur-nomme-baba-danpullo/)
 - [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
+- [RDC : Christian Ndaywel, du sommet de la hiérarchie militaire à la case prison](https://www.jeuneafrique.com/1758267/politique/rdc-christian-ndaywel-du-sommet-de-la-hierarchie-militaire-a-la-case-prison/)
 - [Rencontre avec le vendeur de tournevis à l’origine des frappes de Trump au Nigeria](https://www.jeuneafrique.com/1757854/politique/rencontre-avec-le-vendeur-de-tournevis-a-lorigine-des-frappes-de-trump-au-nigeria/)
+- [Au Mali, Assimi Goïta veut encadrer l’usage des drones civils pour contrer leur détournement par les jihadistes](https://www.jeuneafrique.com/1758424/politique/au-mali-assimi-goita-veut-encadrer-lusage-des-drones-civils-pour-contrer-leur-detournement-par-les-jihadistes/)
 - [CAN 2025 : Bassirou Diomaye Faye redouble de générosité à l’égard des Lions de la Teranga](https://www.jeuneafrique.com/1758439/politique/can-2025-bassirou-diomaye-faye-redouble-de-generosite-a-legard-des-lions-de-la-teranga/)
 - [En Guinée-Bissau, la junte fixe au 6 décembre 2026 la date de la présidentielle et des législatives](https://www.jeuneafrique.com/1758557/politique/en-guinee-bissau-la-junte-fixe-au-6-decembre-2026-la-date-de-la-presidentielle-et-des-legislatives/)
 - [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
-- [En Côte d’Ivoire, Alassane Ouattara reconduit son Premier ministre Robert Beugré Mambé](https://www.jeuneafrique.com/1757887/politique/en-cote-divoire-alassane-ouattara-reconduit-son-premier-ministre-robert-beugre-mambe/)
-- [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
-- [Cameroun : Emmanuel Nsahlai, l’avocat des Biya au cœur de la justice américaine](https://www.jeuneafrique.com/1756641/politique/cameroun-emmanuel-nsahlai-lavocat-des-biya-au-coeur-de-la-justice-americaine/)
+- [Minerais critiques : pourquoi les leaders africains vont à Washington](https://www.jeuneafrique.com/1758581/economie-entreprises/minerais-critiques-pourquoi-les-leaders-africains-vont-a-washington/)
 - [Yvon Sana Bangui, l’homme qui a appris à gouverner la BEAC](https://www.jeuneafrique.com/1758345/economie-entreprises/yvon-sana-bangui-lhomme-qui-a-appris-a-gouverner-la-beac/)
-- [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
