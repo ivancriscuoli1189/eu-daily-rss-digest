@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Jan 2026, 09:22*
+*Generato: 22 Jan 2026, 11:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP leaders reject the visa ban imposed on former Commissioner Breton](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32567/ep-leaders-reject-the-visa-ban-imposed-on-former-commissioner-breton)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32436/ep-today)
 - [International Holocaust Remembrance Day: invitation to interview Tatiana Bucci](https://www.europarl.europa.eu/news/en/press-room/20260121IPR32539/international-holocaust-remembrance-day-invitation-to-interview-tatiana-bucci)
 - [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
@@ -91,12 +92,11 @@
 - [European Parliament stands behind air passenger rights](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32442/european-parliament-stands-behind-air-passenger-rights)
 - [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
-- [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -222,6 +222,19 @@
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 - [Uzbekistan: ICJ convenes Expert Discussion on strengthening implementation of UN Treaty Bodies](https://www.icj.org/uzbekistan-icj-convenes-expert-discussion-on-strengthening-implementation-of-un-treaty-bodies/)
+
+## THINK TANK – Carnegie MENA – Research
+
+- [research](https://carnegie-mec.org/research?lang=en)
+- [emissary](https://carnegie-mec.org/emissary?lang=en)
+- [about](https://carnegie-mec.org/about?lang=en)
+- [experts](https://carnegie-mec.org/experts?lang=en)
+- [support](https://carnegie-mec.org/development)
+- [programs](https://carnegie-mec.org/programs-and-projects?lang=en)
+- [events](https://carnegie-mec.org/events?lang=en)
+- [blogs](https://carnegie-mec.org/blogs)
+- [podcasts](https://carnegie-mec.org/podcasts)
+- [videos](https://carnegie-mec.org/carnegie-explainer-videos?lang=en)
 
 ## THINK TANK – ECFR – MENA
 
