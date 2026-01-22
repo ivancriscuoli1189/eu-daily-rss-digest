@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Jan 2026, 06:18*
+*Generato: 22 Jan 2026, 09:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32436/ep-today)
 - [International Holocaust Remembrance Day: invitation to interview Tatiana Bucci](https://www.europarl.europa.eu/news/en/press-room/20260121IPR32539/international-holocaust-remembrance-day-invitation-to-interview-tatiana-bucci)
 - [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
 - [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
@@ -91,7 +92,6 @@
 - [MEPs debate outcome of December EU summit and need for a stronger Europe](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32448/meps-debate-outcome-of-december-eu-summit-and-need-for-a-stronger-europe)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32435/ep-today)
 - [EU competitiveness: MEPs propose new legal framework for innovative companies](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32438/eu-competitiveness-meps-propose-new-legal-framework-for-innovative-companies)
-- [Critical medicines: EU measures to boost competitiveness and tackle shortages](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32437/critical-medicines-eu-measures-to-boost-competitiveness-and-tackle-shortages)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Centrafrique : Faustin-Archange Touadéra, les secrets d’un pouvoir](https://www.jeuneafrique.com/1756781/politique/centrafrique-faustin-archange-touadera-les-secrets-dun-pouvoir/)
+- [Rencontre avec le vendeur de tournevis à l’origine des frappes de Trump au Nigeria](https://www.jeuneafrique.com/1757854/politique/rencontre-avec-le-vendeur-de-tournevis-a-lorigine-des-frappes-de-trump-au-nigeria/)
 - [CAN 2025 : Bassirou Diomaye Faye redouble de générosité à l’égard des Lions de la Teranga](https://www.jeuneafrique.com/1758439/politique/can-2025-bassirou-diomaye-faye-redouble-de-generosite-a-legard-des-lions-de-la-teranga/)
 - [En Guinée-Bissau, la junte fixe au 6 décembre 2026 la date de la présidentielle et des législatives](https://www.jeuneafrique.com/1758557/politique/en-guinee-bissau-la-junte-fixe-au-6-decembre-2026-la-date-de-la-presidentielle-et-des-legislatives/)
 - [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
+- [En Côte d’Ivoire, Alassane Ouattara reconduit son Premier ministre Robert Beugré Mambé](https://www.jeuneafrique.com/1757887/politique/en-cote-divoire-alassane-ouattara-reconduit-son-premier-ministre-robert-beugre-mambe/)
 - [En Algérie, l’exigence d’indemnisation pour la colonisation française bute sur les réserves du Sénat](https://www.jeuneafrique.com/1758365/politique/en-algerie-lexigence-dindemnisation-pour-la-colonisation-francaise-bute-sur-les-reserves-du-senat/)
 - [Cameroun : Emmanuel Nsahlai, l’avocat des Biya au cœur de la justice américaine](https://www.jeuneafrique.com/1756641/politique/cameroun-emmanuel-nsahlai-lavocat-des-biya-au-coeur-de-la-justice-americaine/)
 - [Au Niger, le Tillabéri théâtre d’une nouvelle attaque meurtrière](https://www.jeuneafrique.com/1758385/politique/au-niger-le-tillaberi-theatre-dune-nouvelle-attaque-meurtriere/)
-- [Tchad-Soudan: Mahamat Idriss Déby Itno dans l’impasse du Darfour ?](https://www.jeuneafrique.com/1758158/politique/tchad-soudan-mahamat-idriss-deby-itno-dans-limpasse-du-darfour/)
 - [Cacao ivoirien : l’État intervient pour racheter les stocks](https://www.jeuneafrique.com/1758372/economie-entreprises/cacao-ivoirien-letat-intervient-pour-racheter-les-stocks/)
 - [Pourquoi Bruxelles donne sa chance à Corsair et à ses ambitions africaines](https://www.jeuneafrique.com/1756891/economie-entreprises/pourquoi-bruxelles-donne-sa-chance-a-corsair-et-a-ses-ambitions-africaines/)
 
