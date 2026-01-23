@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Jan 2026, 09:18*
+*Generato: 23 Jan 2026, 11:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-5)
+- [زيارة رئيس الجمهورية قيس سعيد يوم أمس وفجر هذا اليوم إلى عدد من الجهات المتضررة من الفيضانات](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B3-%D9%88%D9%81%D8%AC%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%B6%D8%B1%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين وزير الصحّة ووزير الشؤون الإجتماعيّة والسيّدات والسّادة الرئيسة المديرة العامة للصيدلية المركزيّة للبلاد التونسية ورئيسة المجلس الوطني لعمادة الأطبّاء والمديرة العامة للوكالة الوطنية للدّواء ومواد الصحّة وئيس المج](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة فضيلة قرقوري وكيل الرئيس الأوّل لمحكمة المحاسبات](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D9%82%D8%B1%D9%82%D9%88%D8%B1%D9%8A-%D9%88%D9%83%D9%8A%D9%84-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D9%88%D9%91%D9%84-%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D8%B3%D8%A8%D8%A7%D8%AA)
 - [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد سمير عبد الحفيظ وزير الاقتصاد والتخطيط](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B3%D9%85%D9%8A%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%AD%D9%81%D9%8A%D8%B8)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -225,16 +225,16 @@
 
 ## THINK TANK – Carnegie MENA – Research
 
-- [Research](https://carnegie-mec.org/en/middle-east/research)
-- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
-- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/en/middle-east/experts)
-- [Research](https://carnegie-mec.org/middle-east/research)
-- [Diwan](https://carnegie-mec.org/middle-east/diwan)
-- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/middle-east/experts)
-- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
-- [Events](https://carnegie-mec.org/middle-east/events)
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
 
 ## THINK TANK – ECFR – MENA
 
@@ -280,13 +280,13 @@
 - [En Guinée, démission du gouvernement dirigé par Bah Oury](https://www.jeuneafrique.com/1759102/politique/en-guinee-demission-du-gouvernement-dirige-par-bah-oury/)
 - [Mohammed VI : « Le Maroc est et restera un grand pays africain »](https://www.jeuneafrique.com/1759086/politique/mohammed-vi-le-maroc-est-et-restera-un-grand-pays-africain/)
 - [Tunisie : trois ans et demi de prison pour les chroniqueurs Mourad Zeghidi et Borhen Bsaies](https://www.jeuneafrique.com/1759087/politique/tunisie-trois-ans-et-demi-de-prison-pour-les-chroniqueurs-mourad-zeghidi-et-borhen-bsaies/)
+- [Maroc-Sénégal : pourquoi tant d’amertume autour de la finale de la CAN ?](https://www.jeuneafrique.com/1758679/politique/maroc-senegal-pourquoi-tant-damertume-autour-de-la-finale-de-la-can/)
 - [Cameroun : entre Biya et Tchiroma Bakary, un médiateur nommé Baba Danpullo](https://www.jeuneafrique.com/1757923/politique/cameroun-entre-biya-et-tchiroma-bakary-un-mediateur-nomme-baba-danpullo/)
 - [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
 - [Centrafrique : Faustin-Archange Touadéra, les secrets d’un pouvoir](https://www.jeuneafrique.com/1756781/politique/centrafrique-faustin-archange-touadera-les-secrets-dun-pouvoir/)
 - [RDC : Christian Ndaywel, du sommet de la hiérarchie militaire à la case prison](https://www.jeuneafrique.com/1758267/politique/rdc-christian-ndaywel-du-sommet-de-la-hierarchie-militaire-a-la-case-prison/)
-- [Rencontre avec le vendeur de tournevis à l’origine des frappes de Trump au Nigeria](https://www.jeuneafrique.com/1757854/politique/rencontre-avec-le-vendeur-de-tournevis-a-lorigine-des-frappes-de-trump-au-nigeria/)
-- [Ngozi Okonjo-Iweala, Wamkele Mene… Huis clos africain à Davos pour préparer la riposte face aux menaces économiques de Trump](https://www.jeuneafrique.com/1758892/economie-entreprises/ngozi-okonjo-iweala-wamkele-mene-huis-clos-africain-a-davos-pour-organiser-la-risposte-face-aux-menaces-economiques-de-trump/)
-- [Le Gabon et le FMI ont-ils vraiment trouvé un accord ?](https://www.jeuneafrique.com/1758920/economie-entreprises/le-gabon-et-le-fmi-ont-ils-vraiment-trouve-un-accord/)
+- [Niger : Orano durcit le ton sur l’avenir du stock d’uranium contrôlé par la junte](https://www.jeuneafrique.com/1759124/economie-entreprises/niger-orano-durcit-le-ton-sur-lavenir-du-stock-duranium-controle-par-la-junte/)
+- [RDC-États-Unis : les projets miniers congolais présentés à Washington valent-ils vraiment le coup ?](https://www.jeuneafrique.com/1758952/economie-entreprises/rdc-etats-unis-les-projets-miniers-congolais-presentes-a-washington-valent-ils-vraiment-le-coup/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
