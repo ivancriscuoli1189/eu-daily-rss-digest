@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Jan 2026, 15:15*
+*Generato: 23 Jan 2026, 18:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Arrestations nocturnes et lieux de détention secrets : en RDC, Tshisekedi veut-il en finir avec le parti de Kabila ?](https://www.jeuneafrique.com/1758513/politique/arrestations-nocturnes-et-lieux-de-detention-secrets-en-rdc-tshisekedi-veut-il-en-finir-avec-le-parti-de-kabila/)
+- [« Soigner l’Afrique, c’est soigner le monde », par João Lourenço](https://www.jeuneafrique.com/1759312/politique/soigner-lafrique-cest-soigner-le-monde-par-joao-lourenco/)
 - [En Guinée, démission du gouvernement dirigé par Bah Oury](https://www.jeuneafrique.com/1759102/politique/en-guinee-demission-du-gouvernement-dirige-par-bah-oury/)
 - [Mohammed VI : « Le Maroc est et restera un grand pays africain »](https://www.jeuneafrique.com/1759086/politique/mohammed-vi-le-maroc-est-et-restera-un-grand-pays-africain/)
 - [Tunisie : trois ans et demi de prison pour les chroniqueurs Mourad Zeghidi et Borhen Bsaies](https://www.jeuneafrique.com/1759087/politique/tunisie-trois-ans-et-demi-de-prison-pour-les-chroniqueurs-mourad-zeghidi-et-borhen-bsaies/)
+- [Uvira, ville « libérée » mais toujours menacée : dans l’est de la RDC, le piège du retrait de l’AFC/M23](https://www.jeuneafrique.com/1758587/politique/uvira-ville-liberee-mais-toujours-menacee-dans-lest-de-la-rdc-le-piege-du-retrait-de-lafc-m23/)
+- [Au Cameroun, une note « rouge » alerte Paul Biya sur un projet d’endettement et de « captation financière »](https://www.jeuneafrique.com/1758693/politique/au-cameroun-une-note-rouge-alerte-paul-biya-sur-un-projet-dendettement-et-de-captation-financiere/)
 - [Maroc-Sénégal : pourquoi tant d’amertume autour de la finale de la CAN ?](https://www.jeuneafrique.com/1758679/politique/maroc-senegal-pourquoi-tant-damertume-autour-de-la-finale-de-la-can/)
-- [Cameroun : entre Biya et Tchiroma Bakary, un médiateur nommé Baba Danpullo](https://www.jeuneafrique.com/1757923/politique/cameroun-entre-biya-et-tchiroma-bakary-un-mediateur-nomme-baba-danpullo/)
-- [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
-- [Centrafrique : Faustin-Archange Touadéra, les secrets d’un pouvoir](https://www.jeuneafrique.com/1756781/politique/centrafrique-faustin-archange-touadera-les-secrets-dun-pouvoir/)
-- [RDC : Christian Ndaywel, du sommet de la hiérarchie militaire à la case prison](https://www.jeuneafrique.com/1758267/politique/rdc-christian-ndaywel-du-sommet-de-la-hierarchie-militaire-a-la-case-prison/)
 - [Crise du pétrole au Mali : vers un retour du rationnement de carburant](https://www.jeuneafrique.com/1759209/economie-entreprises/crise-du-petrole-au-mali-vers-un-retour-du-rationnement-de-carburant/)
 - [Niger : Orano durcit le ton sur l’avenir du stock d’uranium contrôlé par la junte](https://www.jeuneafrique.com/1759124/economie-entreprises/niger-orano-durcit-le-ton-sur-lavenir-du-stock-duranium-controle-par-la-junte/)
 
