@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Jan 2026, 06:17*
+*Generato: 23 Jan 2026, 09:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -225,16 +225,16 @@
 
 ## THINK TANK – Carnegie MENA – Research
 
-- [Research](https://carnegie-mec.org/en/research)
-- [Emissary](https://carnegie-mec.org/en/emissary)
-- [About](https://carnegie-mec.org/en/about)
-- [Experts](https://carnegie-mec.org/en/experts)
-- [Donate](https://donate.carnegieendowment.org/support)
-- [Research](https://carnegie-mec.org/research)
-- [Emissary](https://carnegie-mec.org/emissary)
-- [About](https://carnegie-mec.org/about)
-- [Experts](https://carnegie-mec.org/experts)
-- [Donate](https://carnegie-mec.org/development)
+- [Research](https://carnegie-mec.org/en/middle-east/research)
+- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
+- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/en/middle-east/experts)
+- [Research](https://carnegie-mec.org/middle-east/research)
+- [Diwan](https://carnegie-mec.org/middle-east/diwan)
+- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/middle-east/experts)
+- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
+- [Events](https://carnegie-mec.org/middle-east/events)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, démission du gouvernement dirigé par Bah Oury](https://www.jeuneafrique.com/1759102/politique/en-guinee-demission-du-gouvernement-dirige-par-bah-oury/)
+- [Mohammed VI : « Le Maroc est et restera un grand pays africain »](https://www.jeuneafrique.com/1759086/politique/mohammed-vi-le-maroc-est-et-restera-un-grand-pays-africain/)
+- [Tunisie : trois ans et demi de prison pour les chroniqueurs Mourad Zeghidi et Borhen Bsaies](https://www.jeuneafrique.com/1759087/politique/tunisie-trois-ans-et-demi-de-prison-pour-les-chroniqueurs-mourad-zeghidi-et-borhen-bsaies/)
 - [Cameroun : entre Biya et Tchiroma Bakary, un médiateur nommé Baba Danpullo](https://www.jeuneafrique.com/1757923/politique/cameroun-entre-biya-et-tchiroma-bakary-un-mediateur-nomme-baba-danpullo/)
 - [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
+- [Centrafrique : Faustin-Archange Touadéra, les secrets d’un pouvoir](https://www.jeuneafrique.com/1756781/politique/centrafrique-faustin-archange-touadera-les-secrets-dun-pouvoir/)
 - [RDC : Christian Ndaywel, du sommet de la hiérarchie militaire à la case prison](https://www.jeuneafrique.com/1758267/politique/rdc-christian-ndaywel-du-sommet-de-la-hierarchie-militaire-a-la-case-prison/)
 - [Rencontre avec le vendeur de tournevis à l’origine des frappes de Trump au Nigeria](https://www.jeuneafrique.com/1757854/politique/rencontre-avec-le-vendeur-de-tournevis-a-lorigine-des-frappes-de-trump-au-nigeria/)
-- [Au Mali, Assimi Goïta veut encadrer l’usage des drones civils pour contrer leur détournement par les jihadistes](https://www.jeuneafrique.com/1758424/politique/au-mali-assimi-goita-veut-encadrer-lusage-des-drones-civils-pour-contrer-leur-detournement-par-les-jihadistes/)
-- [CAN 2025 : Bassirou Diomaye Faye redouble de générosité à l’égard des Lions de la Teranga](https://www.jeuneafrique.com/1758439/politique/can-2025-bassirou-diomaye-faye-redouble-de-generosite-a-legard-des-lions-de-la-teranga/)
-- [En Guinée-Bissau, la junte fixe au 6 décembre 2026 la date de la présidentielle et des législatives](https://www.jeuneafrique.com/1758557/politique/en-guinee-bissau-la-junte-fixe-au-6-decembre-2026-la-date-de-la-presidentielle-et-des-legislatives/)
-- [Le Maroc, premier pays africain à adhérer au clone de l’ONU de Trump](https://www.jeuneafrique.com/1758479/politique/le-maroc-premier-pays-africain-a-adherer-au-clone-de-lonu-de-trump/)
-- [Minerais critiques : pourquoi les leaders africains vont à Washington](https://www.jeuneafrique.com/1758581/economie-entreprises/minerais-critiques-pourquoi-les-leaders-africains-vont-a-washington/)
-- [Yvon Sana Bangui, l’homme qui a appris à gouverner la BEAC](https://www.jeuneafrique.com/1758345/economie-entreprises/yvon-sana-bangui-lhomme-qui-a-appris-a-gouverner-la-beac/)
+- [Ngozi Okonjo-Iweala, Wamkele Mene… Huis clos africain à Davos pour préparer la riposte face aux menaces économiques de Trump](https://www.jeuneafrique.com/1758892/economie-entreprises/ngozi-okonjo-iweala-wamkele-mene-huis-clos-africain-a-davos-pour-organiser-la-risposte-face-aux-menaces-economiques-de-trump/)
+- [Le Gabon et le FMI ont-ils vraiment trouvé un accord ?](https://www.jeuneafrique.com/1758920/economie-entreprises/le-gabon-et-le-fmi-ont-ils-vraiment-trouve-un-accord/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
