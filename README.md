@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Jan 2026, 13:35*
+*Generato: 23 Jan 2026, 15:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -223,6 +223,19 @@
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
+
 ## THINK TANK – ECFR – MENA
 
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
@@ -272,8 +285,8 @@
 - [L’avocat et ancien député tunisien Seifeddine Makhlouf finalement extradé par l’Algérie](https://www.jeuneafrique.com/1758492/politique/lavocat-et-ancien-depute-tunisien-seifeddine-makhlouf-finalement-extrade-par-lalgerie/)
 - [Centrafrique : Faustin-Archange Touadéra, les secrets d’un pouvoir](https://www.jeuneafrique.com/1756781/politique/centrafrique-faustin-archange-touadera-les-secrets-dun-pouvoir/)
 - [RDC : Christian Ndaywel, du sommet de la hiérarchie militaire à la case prison](https://www.jeuneafrique.com/1758267/politique/rdc-christian-ndaywel-du-sommet-de-la-hierarchie-militaire-a-la-case-prison/)
+- [Crise du pétrole au Mali : vers un retour du rationnement de carburant](https://www.jeuneafrique.com/1759209/economie-entreprises/crise-du-petrole-au-mali-vers-un-retour-du-rationnement-de-carburant/)
 - [Niger : Orano durcit le ton sur l’avenir du stock d’uranium contrôlé par la junte](https://www.jeuneafrique.com/1759124/economie-entreprises/niger-orano-durcit-le-ton-sur-lavenir-du-stock-duranium-controle-par-la-junte/)
-- [Eurobonds et sukuk pour une levée de fonds inédite au Bénin](https://www.jeuneafrique.com/1759110/economie-entreprises/eurobonds-et-sukuk-pour-une-levee-de-fonds-inedite-au-benin/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
