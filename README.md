@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Jan 2026, 06:20*
+*Generato: 26 Jan 2026, 09:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
 - [Ousmane Sonko attendu au Maroc, alors que les tensions perdurent entre les supporters des deux pays après la CAN](https://www.jeuneafrique.com/1759471/politique/ousmane-sonko-attendu-au-maroc-alors-que-les-tensions-perdurent-entre-les-supporters-des-deux-pays-apres-la-can/)
 - [Le pape Léon XIV se rendra en Guinée équatoriale](https://www.jeuneafrique.com/1759463/politique/le-pape-leon-xiv-se-rendra-en-guinee-equatoriale/)
@@ -284,9 +285,8 @@
 - [Tunisie : dans « IAMK2 », l’ancien gendre de Ben Ali met en scène son parcours et sa réussite](https://www.jeuneafrique.com/1759081/politique/tunisie-dans-iamk2-lancien-gendre-de-ben-ali-met-en-scene-son-parcours-et-sa-reussite/)
 - [Niger : le correspondant de la Deutsche Welle incarcéré à Niamey](https://www.jeuneafrique.com/1759453/politique/niger-le-correspondant-de-la-deutsche-welle-incarcere-a-niamey/)
 - [La Fabrique de l’info : « Je ne souhaite pas vous donner mon nom, mais… »](https://www.jeuneafrique.com/1756209/politique/la-fabrique-de-linfo-je-ne-souhaite-pas-vous-donner-mon-nom-mais/)
-- [Enquête sur le CNC en RDC, le dossier Damiba entre le Togo et le Burkina, une femme à la tête d’Al Mada… Voici les 5 infos qu’il ne fallait pas manquer cette semaine](https://www.jeuneafrique.com/1759123/politique/enquete-sur-le-cnc-en-rdc-le-dossier-damiba-entre-le-togo-et-le-burkina-une-femme-a-la-tete-dal-mada-voici-les-5-infos-quil-ne-fallait-pas-manquer-cette-semaine/)
+- [Afrique-États-Unis : comment Donald Trump fragilise les transferts d’argent de la diaspora](https://www.jeuneafrique.com/1757006/economie-entreprises/afrique-etats-unis-comment-donald-trump-fragilise-les-transferts-dargent-de-la-diaspora/)
 - [Au sommet de la Cemac, le plan de rigueur des dirigeants peut-il convaincre le FMI ?](https://www.jeuneafrique.com/1759348/economie-entreprises/au-sommet-de-la-cemac-le-plan-de-rigueur-des-dirigeants-peut-il-convaincre-le-fmi/)
-- [Maroc-Tunisie : le vrai coût du bras de fer sur les dattes](https://www.jeuneafrique.com/1759050/economie-entreprises/maroc-tunisie-le-vrai-cout-du-bras-de-fer-sur-les-dattes/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
