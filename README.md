@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Jan 2026, 09:23*
+*Generato: 26 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
 - [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
 - [Parliament rejects motion of censure against European Commission](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32439/parliament-rejects-motion-of-censure-against-european-commission)
@@ -91,7 +92,6 @@
 - [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
 - [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
 - [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
-- [MEPs approve “enhanced cooperation” for €90 billion EU support loan to Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32446/meps-approve-enhanced-cooperation-for-EU90-billion-eu-support-loan-to-ukraine)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
 - [Tunisia: Authorities must immediately drop charges against humanitarian workers facing bogus criminal trial](https://www.amnesty.org/en/latest/news/2025/12/tunisia-drop-charges-against-ngo-workers-facing-bogus-criminal-trial/)
 - [Global: Amnesty International’s annual letter-writing campaign demonstrates how humanity can win](https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-internationals-annual-letter-writing-campaign-demonstrates-how-humanity-can-win/)
-- [Tunisia: Quash unjust heavy convictions in ‘conspiracy case’](https://www.amnesty.org/en/latest/news/2025/11/tunisia-quash-unjust-heavy-convictions-in-conspiracy-case/)
 - [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
@@ -253,7 +253,7 @@
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [La salute nel sud globale oggi](https://www.cespi.it/it/eventi-note/eventi/la-salute-nel-sud-globale-oggi)
-- [AVVISO DI APERTURA PROCEDURA DI SELEZIONE: Realizzazione Video-tutorial](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-realizzazione-video-tutorial)
+- [AVVISO DI APERTURA PROCEDURA DI SELEZIONE - realizzazione di interventi di espansione per l’applicazione Moneymize](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-realizzazione-di-interventi-di)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -279,14 +279,14 @@
 
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
+- [Au Cameroun, l’armée débordée par les fuites de documents « confidentiels »](https://www.jeuneafrique.com/1758844/politique/au-cameroun-larmee-se-bat-contre-les-fuites/)
 - [Ousmane Sonko attendu au Maroc, alors que les tensions perdurent entre les supporters des deux pays après la CAN](https://www.jeuneafrique.com/1759471/politique/ousmane-sonko-attendu-au-maroc-alors-que-les-tensions-perdurent-entre-les-supporters-des-deux-pays-apres-la-can/)
 - [Le pape Léon XIV se rendra en Guinée équatoriale](https://www.jeuneafrique.com/1759463/politique/le-pape-leon-xiv-se-rendra-en-guinee-equatoriale/)
 - [Guinée : Doumbouya et l’armée, une relation sous haute tension](https://www.jeuneafrique.com/1759301/politique/guinee-doumbouya-et-larmee-une-relation-sous-haute-tension/)
 - [Tunisie : dans « IAMK2 », l’ancien gendre de Ben Ali met en scène son parcours et sa réussite](https://www.jeuneafrique.com/1759081/politique/tunisie-dans-iamk2-lancien-gendre-de-ben-ali-met-en-scene-son-parcours-et-sa-reussite/)
 - [Niger : le correspondant de la Deutsche Welle incarcéré à Niamey](https://www.jeuneafrique.com/1759453/politique/niger-le-correspondant-de-la-deutsche-welle-incarcere-a-niamey/)
-- [La Fabrique de l’info : « Je ne souhaite pas vous donner mon nom, mais… »](https://www.jeuneafrique.com/1756209/politique/la-fabrique-de-linfo-je-ne-souhaite-pas-vous-donner-mon-nom-mais/)
+- [Hott, Abbas Tolli, Maimbo, Tshabalala… Ils visaient la BAD, que font-ils aujourd’hui ?](https://www.jeuneafrique.com/1759269/economie-entreprises/hott-abbas-tolli-maimbo-tshabalala-ils-visaient-la-bad-que-font-ils-aujourdhui/)
 - [Afrique-États-Unis : comment Donald Trump fragilise les transferts d’argent de la diaspora](https://www.jeuneafrique.com/1757006/economie-entreprises/afrique-etats-unis-comment-donald-trump-fragilise-les-transferts-dargent-de-la-diaspora/)
-- [Au sommet de la Cemac, le plan de rigueur des dirigeants peut-il convaincre le FMI ?](https://www.jeuneafrique.com/1759348/economie-entreprises/au-sommet-de-la-cemac-le-plan-de-rigueur-des-dirigeants-peut-il-convaincre-le-fmi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
