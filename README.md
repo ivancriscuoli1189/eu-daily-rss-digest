@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Jan 2026, 18:16*
+*Generato: 26 Jan 2026, 06:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Arrestations nocturnes et lieux de détention secrets : en RDC, Tshisekedi veut-il en finir avec le parti de Kabila ?](https://www.jeuneafrique.com/1758513/politique/arrestations-nocturnes-et-lieux-de-detention-secrets-en-rdc-tshisekedi-veut-il-en-finir-avec-le-parti-de-kabila/)
-- [« Soigner l’Afrique, c’est soigner le monde », par João Lourenço](https://www.jeuneafrique.com/1759312/politique/soigner-lafrique-cest-soigner-le-monde-par-joao-lourenco/)
-- [En Guinée, démission du gouvernement dirigé par Bah Oury](https://www.jeuneafrique.com/1759102/politique/en-guinee-demission-du-gouvernement-dirige-par-bah-oury/)
-- [Mohammed VI : « Le Maroc est et restera un grand pays africain »](https://www.jeuneafrique.com/1759086/politique/mohammed-vi-le-maroc-est-et-restera-un-grand-pays-africain/)
-- [Tunisie : trois ans et demi de prison pour les chroniqueurs Mourad Zeghidi et Borhen Bsaies](https://www.jeuneafrique.com/1759087/politique/tunisie-trois-ans-et-demi-de-prison-pour-les-chroniqueurs-mourad-zeghidi-et-borhen-bsaies/)
-- [Uvira, ville « libérée » mais toujours menacée : dans l’est de la RDC, le piège du retrait de l’AFC/M23](https://www.jeuneafrique.com/1758587/politique/uvira-ville-liberee-mais-toujours-menacee-dans-lest-de-la-rdc-le-piege-du-retrait-de-lafc-m23/)
-- [Au Cameroun, une note « rouge » alerte Paul Biya sur un projet d’endettement et de « captation financière »](https://www.jeuneafrique.com/1758693/politique/au-cameroun-une-note-rouge-alerte-paul-biya-sur-un-projet-dendettement-et-de-captation-financiere/)
-- [Maroc-Sénégal : pourquoi tant d’amertume autour de la finale de la CAN ?](https://www.jeuneafrique.com/1758679/politique/maroc-senegal-pourquoi-tant-damertume-autour-de-la-finale-de-la-can/)
-- [Crise du pétrole au Mali : vers un retour du rationnement de carburant](https://www.jeuneafrique.com/1759209/economie-entreprises/crise-du-petrole-au-mali-vers-un-retour-du-rationnement-de-carburant/)
-- [Niger : Orano durcit le ton sur l’avenir du stock d’uranium contrôlé par la junte](https://www.jeuneafrique.com/1759124/economie-entreprises/niger-orano-durcit-le-ton-sur-lavenir-du-stock-duranium-controle-par-la-junte/)
+- [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
+- [Ousmane Sonko attendu au Maroc, alors que les tensions perdurent entre les supporters des deux pays après la CAN](https://www.jeuneafrique.com/1759471/politique/ousmane-sonko-attendu-au-maroc-alors-que-les-tensions-perdurent-entre-les-supporters-des-deux-pays-apres-la-can/)
+- [Le pape Léon XIV se rendra en Guinée équatoriale](https://www.jeuneafrique.com/1759463/politique/le-pape-leon-xiv-se-rendra-en-guinee-equatoriale/)
+- [Guinée : Doumbouya et l’armée, une relation sous haute tension](https://www.jeuneafrique.com/1759301/politique/guinee-doumbouya-et-larmee-une-relation-sous-haute-tension/)
+- [Tunisie : dans « IAMK2 », l’ancien gendre de Ben Ali met en scène son parcours et sa réussite](https://www.jeuneafrique.com/1759081/politique/tunisie-dans-iamk2-lancien-gendre-de-ben-ali-met-en-scene-son-parcours-et-sa-reussite/)
+- [Niger : le correspondant de la Deutsche Welle incarcéré à Niamey](https://www.jeuneafrique.com/1759453/politique/niger-le-correspondant-de-la-deutsche-welle-incarcere-a-niamey/)
+- [La Fabrique de l’info : « Je ne souhaite pas vous donner mon nom, mais… »](https://www.jeuneafrique.com/1756209/politique/la-fabrique-de-linfo-je-ne-souhaite-pas-vous-donner-mon-nom-mais/)
+- [Enquête sur le CNC en RDC, le dossier Damiba entre le Togo et le Burkina, une femme à la tête d’Al Mada… Voici les 5 infos qu’il ne fallait pas manquer cette semaine](https://www.jeuneafrique.com/1759123/politique/enquete-sur-le-cnc-en-rdc-le-dossier-damiba-entre-le-togo-et-le-burkina-une-femme-a-la-tete-dal-mada-voici-les-5-infos-quil-ne-fallait-pas-manquer-cette-semaine/)
+- [Au sommet de la Cemac, le plan de rigueur des dirigeants peut-il convaincre le FMI ?](https://www.jeuneafrique.com/1759348/economie-entreprises/au-sommet-de-la-cemac-le-plan-de-rigueur-des-dirigeants-peut-il-convaincre-le-fmi/)
+- [Maroc-Tunisie : le vrai coût du bras de fer sur les dattes](https://www.jeuneafrique.com/1759050/economie-entreprises/maroc-tunisie-le-vrai-cout-du-bras-de-fer-sur-les-dattes/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
