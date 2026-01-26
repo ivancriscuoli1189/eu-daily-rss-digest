@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Jan 2026, 12:21*
+*Generato: 26 Jan 2026, 13:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
 - [Au Cameroun, l’armée débordée par les fuites de documents « confidentiels »](https://www.jeuneafrique.com/1758844/politique/au-cameroun-larmee-se-bat-contre-les-fuites/)
@@ -284,7 +285,6 @@
 - [Le pape Léon XIV se rendra en Guinée équatoriale](https://www.jeuneafrique.com/1759463/politique/le-pape-leon-xiv-se-rendra-en-guinee-equatoriale/)
 - [Guinée : Doumbouya et l’armée, une relation sous haute tension](https://www.jeuneafrique.com/1759301/politique/guinee-doumbouya-et-larmee-une-relation-sous-haute-tension/)
 - [Tunisie : dans « IAMK2 », l’ancien gendre de Ben Ali met en scène son parcours et sa réussite](https://www.jeuneafrique.com/1759081/politique/tunisie-dans-iamk2-lancien-gendre-de-ben-ali-met-en-scene-son-parcours-et-sa-reussite/)
-- [Niger : le correspondant de la Deutsche Welle incarcéré à Niamey](https://www.jeuneafrique.com/1759453/politique/niger-le-correspondant-de-la-deutsche-welle-incarcere-a-niamey/)
 - [Hott, Abbas Tolli, Maimbo, Tshabalala… Ils visaient la BAD, que font-ils aujourd’hui ?](https://www.jeuneafrique.com/1759269/economie-entreprises/hott-abbas-tolli-maimbo-tshabalala-ils-visaient-la-bad-que-font-ils-aujourdhui/)
 - [Afrique-États-Unis : comment Donald Trump fragilise les transferts d’argent de la diaspora](https://www.jeuneafrique.com/1757006/economie-entreprises/afrique-etats-unis-comment-donald-trump-fragilise-les-transferts-dargent-de-la-diaspora/)
 
