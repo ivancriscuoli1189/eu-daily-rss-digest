@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Jan 2026, 13:37*
+*Generato: 26 Jan 2026, 15:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -278,13 +278,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
+- [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
 - [Au Cameroun, l’armée débordée par les fuites de documents « confidentiels »](https://www.jeuneafrique.com/1758844/politique/au-cameroun-larmee-se-bat-contre-les-fuites/)
 - [Ousmane Sonko attendu au Maroc, alors que les tensions perdurent entre les supporters des deux pays après la CAN](https://www.jeuneafrique.com/1759471/politique/ousmane-sonko-attendu-au-maroc-alors-que-les-tensions-perdurent-entre-les-supporters-des-deux-pays-apres-la-can/)
 - [Le pape Léon XIV se rendra en Guinée équatoriale](https://www.jeuneafrique.com/1759463/politique/le-pape-leon-xiv-se-rendra-en-guinee-equatoriale/)
 - [Guinée : Doumbouya et l’armée, une relation sous haute tension](https://www.jeuneafrique.com/1759301/politique/guinee-doumbouya-et-larmee-une-relation-sous-haute-tension/)
-- [Tunisie : dans « IAMK2 », l’ancien gendre de Ben Ali met en scène son parcours et sa réussite](https://www.jeuneafrique.com/1759081/politique/tunisie-dans-iamk2-lancien-gendre-de-ben-ali-met-en-scene-son-parcours-et-sa-reussite/)
 - [Hott, Abbas Tolli, Maimbo, Tshabalala… Ils visaient la BAD, que font-ils aujourd’hui ?](https://www.jeuneafrique.com/1759269/economie-entreprises/hott-abbas-tolli-maimbo-tshabalala-ils-visaient-la-bad-que-font-ils-aujourdhui/)
 - [Afrique-États-Unis : comment Donald Trump fragilise les transferts d’argent de la diaspora](https://www.jeuneafrique.com/1757006/economie-entreprises/afrique-etats-unis-comment-donald-trump-fragilise-les-transferts-dargent-de-la-diaspora/)
 
