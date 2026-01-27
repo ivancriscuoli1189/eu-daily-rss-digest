@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Jan 2026, 13:38*
+*Generato: 27 Jan 2026, 15:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
 - [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
 - [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
@@ -91,7 +92,6 @@
 - [International Holocaust Remembrance Day: invitation to interview Tatiana Bucci](https://www.europarl.europa.eu/news/en/press-room/20260121IPR32539/international-holocaust-remembrance-day-invitation-to-interview-tatiana-bucci)
 - [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
 - [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
-- [EU-Mercosur: MEPs demand a legal opinion on its conformity with the EU treaties](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32450/eu-mercosur-meps-demand-a-legal-opinion-on-its-conformity-with-the-eu-treaties)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mahamat Idriss Déby Itno attendu chez Emmanuel Macron à Paris](https://www.jeuneafrique.com/1760058/politique/mahamat-idriss-deby-itno-attendu-chez-emmanuel-macron-a-paris/)
+- [« Il montre une autre Afrique » : la folle tournée de l’influenceur IShowSpeed](https://www.jeuneafrique.com/1760029/politique/il-montre-une-autre-afrique-la-folle-tournee-de-linfluenceur-ishowspeed/)
+- [L’Union africaine adoube Mamadi Doumbouya](https://www.jeuneafrique.com/1759905/politique/lunion-africaine-adoube-mamadi-doumbouya/)
 - [La présidence algérienne annonce des réformes institutionnelles, l’opposition critique](https://www.jeuneafrique.com/1759837/politique/la-presidence-algerienne-annonce-des-reformes-institutionnelles-lopposition-critique/)
 - [RDC : les rebelles ADF massacrent des agriculteurs en Ituri](https://www.jeuneafrique.com/1759880/politique/rdc-les-rebelles-adf-massacrent-des-agriculteurs-en-ituri/)
 - [Au Nigeria, l’armée va juger des officiers pour une tentative de coup d’État contre Tinubu en 2025](https://www.jeuneafrique.com/1759878/politique/au-nigeria-larmee-va-juger-des-officiers-pour-une-tentative-de-coup-detat-contre-tinubu-en-2025/)
 - [Ousmane Sonko en visite au Maroc sur fond de tensions post-CAN](https://www.jeuneafrique.com/1759535/politique/ousmane-sonko-en-visite-au-maroc-sur-fond-de-tensions-post-can/)
-- [Massacre de Shakaloha au Kenya : le gourou Paul Mackenzie visé par de nouvelles accusations](https://www.jeuneafrique.com/1759706/politique/massacre-de-shakaloha-au-kenya-le-gourou-paul-mackenzie-vise-par-de-nouvelles-accusations/)
-- [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
-- [Cameroun : entre Kamto et Tchiroma Bakary, un duel d’opposants face à Biya](https://www.jeuneafrique.com/1758480/politique/cameroun-entre-kamto-et-tchiroma-bakary-un-duel-dopposants-face-a-biya/)
-- [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
+- [Quelle est l’armée africaine la plus puissante ? Le classement 2026, pays par pays](https://www.jeuneafrique.com/1759651/politique/quelle-est-larmee-africaine-la-plus-puissante-le-classement-2026-pays-par-pays/)
 - [Cacao : Barry Callebaut change de patron mais pas de position](https://www.jeuneafrique.com/1759727/economie-entreprises/cacao-barry-callebaut-change-de-patron-mais-pas-de-position/)
 - [Afreximbank peut-elle se passer des agences de notation ?](https://www.jeuneafrique.com/1759641/economie-entreprises/afreximbank-peut-elle-se-passer-des-agences-de-notation/)
 
