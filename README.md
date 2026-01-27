@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Jan 2026, 11:14*
+*Generato: 27 Jan 2026, 12:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -225,16 +225,16 @@
 
 ## THINK TANK – Carnegie MENA – Research
 
-- [Research](https://carnegie-mec.org/en/middle-east/research)
-- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
-- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/en/middle-east/experts)
-- [Research](https://carnegie-mec.org/middle-east/research)
-- [Diwan](https://carnegie-mec.org/middle-east/diwan)
-- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/middle-east/experts)
-- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
-- [Events](https://carnegie-mec.org/middle-east/events)
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
 
 ## THINK TANK – ECFR – MENA
 
@@ -281,12 +281,12 @@
 - [Au Nigeria, l’armée va juger des officiers pour une tentative de coup d’État contre Tinubu en 2025](https://www.jeuneafrique.com/1759878/politique/au-nigeria-larmee-va-juger-des-officiers-pour-une-tentative-de-coup-detat-contre-tinubu-en-2025/)
 - [Massacre de Shakaloha au Kenya : le gourou Paul Mackenzie visé par de nouvelles accusations](https://www.jeuneafrique.com/1759706/politique/massacre-de-shakaloha-au-kenya-le-gourou-paul-mackenzie-vise-par-de-nouvelles-accusations/)
 - [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
+- [Cameroun : entre Kamto et Tchiroma Bakary, un duel d’opposants face à Biya](https://www.jeuneafrique.com/1758480/politique/cameroun-entre-kamto-et-tchiroma-bakary-un-duel-dopposants-face-a-biya/)
 - [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
 - [Côte d’Ivoire : Maurice Kakou Guikahué, gardien du temple PDCI](https://www.jeuneafrique.com/1754682/politique/cote-divoire-maurice-kakou-guikahue-gardien-du-temple-pdci/)
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
-- [Sécurité, propagande et business : au Burkina Faso, comment Ibrahim Traoré gère les affaires d’État en famille](https://www.jeuneafrique.com/1758659/politique/securite-propagande-et-business-au-burkina-faso-ibrahim-traore-gere-les-affaires-detat-en-famille/)
+- [Cacao : Barry Callebaut change de patron mais pas de position](https://www.jeuneafrique.com/1759727/economie-entreprises/cacao-barry-callebaut-change-de-patron-mais-pas-de-position/)
 - [Afreximbank peut-elle se passer des agences de notation ?](https://www.jeuneafrique.com/1759641/economie-entreprises/afreximbank-peut-elle-se-passer-des-agences-de-notation/)
-- [Du Maroc à l’Afrique du Sud, Club Med mise sur une expansion mesurée en Afrique](https://www.jeuneafrique.com/1759129/economie-entreprises/du-maroc-a-lafrique-du-sud-club-med-mise-sur-une-expansion-mesuree-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
