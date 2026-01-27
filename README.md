@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Jan 2026, 06:18*
+*Generato: 27 Jan 2026, 09:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,7 +277,6 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Remaniement au Cameroun : pourquoi l’ouverture est une illusion chez Paul Biya](https://www.jeuneafrique.com/1759538/politique/remaniement-au-cameroun-pourquoi-louverture-est-une-illusion-chez-paul-biya/)
 - [Massacre de Shakaloha au Kenya : le gourou Paul Mackenzie visé par de nouvelles accusations](https://www.jeuneafrique.com/1759706/politique/massacre-de-shakaloha-au-kenya-le-gourou-paul-mackenzie-vise-par-de-nouvelles-accusations/)
 - [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
 - [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
@@ -285,8 +284,9 @@
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [Sécurité, propagande et business : au Burkina Faso, comment Ibrahim Traoré gère les affaires d’État en famille](https://www.jeuneafrique.com/1758659/politique/securite-propagande-et-business-au-burkina-faso-ibrahim-traore-gere-les-affaires-detat-en-famille/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
+- [Au Cameroun, l’armée débordée par les fuites de documents « confidentiels »](https://www.jeuneafrique.com/1758844/politique/au-cameroun-larmee-se-bat-contre-les-fuites/)
+- [Afreximbank peut-elle se passer des agences de notation ?](https://www.jeuneafrique.com/1759641/economie-entreprises/afreximbank-peut-elle-se-passer-des-agences-de-notation/)
 - [Du Maroc à l’Afrique du Sud, Club Med mise sur une expansion mesurée en Afrique](https://www.jeuneafrique.com/1759129/economie-entreprises/du-maroc-a-lafrique-du-sud-club-med-mise-sur-une-expansion-mesuree-en-afrique/)
-- [« Former des chefs économistes africains ne relève ni de quotas ni de symboles, c’est une nécessité stratégique »](https://www.jeuneafrique.com/1758430/economie-entreprises/former-des-chefs-economistes-africains-ne-releve-ni-de-quotas-ni-de-symboles-cest-une-necessite-strategique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
