@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Jan 2026, 21:13*
+*Generato: 27 Jan 2026, 06:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -223,6 +223,19 @@
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
+
 ## THINK TANK – ECFR – MENA
 
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Remaniement au Cameroun : pourquoi l’ouverture est une illusion chez Paul Biya](https://www.jeuneafrique.com/1759538/politique/remaniement-au-cameroun-pourquoi-louverture-est-une-illusion-chez-paul-biya/)
 - [Massacre de Shakaloha au Kenya : le gourou Paul Mackenzie visé par de nouvelles accusations](https://www.jeuneafrique.com/1759706/politique/massacre-de-shakaloha-au-kenya-le-gourou-paul-mackenzie-vise-par-de-nouvelles-accusations/)
 - [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
 - [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
@@ -271,7 +285,6 @@
 - [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [Sécurité, propagande et business : au Burkina Faso, comment Ibrahim Traoré gère les affaires d’État en famille](https://www.jeuneafrique.com/1758659/politique/securite-propagande-et-business-au-burkina-faso-ibrahim-traore-gere-les-affaires-detat-en-famille/)
 - [L’Algérie convoque le chargé d’affaires français au sujet d’un reportage télévisé](https://www.jeuneafrique.com/1759475/politique/lalgerie-convoque-le-charge-daffaires-francais-et-fustige-un-reportage-mensonger/)
-- [Au Cameroun, l’armée débordée par les fuites de documents « confidentiels »](https://www.jeuneafrique.com/1758844/politique/au-cameroun-larmee-se-bat-contre-les-fuites/)
 - [Du Maroc à l’Afrique du Sud, Club Med mise sur une expansion mesurée en Afrique](https://www.jeuneafrique.com/1759129/economie-entreprises/du-maroc-a-lafrique-du-sud-club-med-mise-sur-une-expansion-mesuree-en-afrique/)
 - [« Former des chefs économistes africains ne relève ni de quotas ni de symboles, c’est une nécessité stratégique »](https://www.jeuneafrique.com/1758430/economie-entreprises/former-des-chefs-economistes-africains-ne-releve-ni-de-quotas-ni-de-symboles-cest-une-necessite-strategique/)
 
