@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Jan 2026, 12:21*
+*Generato: 27 Jan 2026, 13:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
 - [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
 - [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
@@ -247,7 +248,6 @@
 - [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
 - [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
 - [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-- [Power sharing: The politics of European-Tunisian energy cooperation](https://ecfr.eu/publication/power-sharing-the-politics-of-european-tunisian-energy-cooperation/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La présidence algérienne annonce des réformes institutionnelles, l’opposition critique](https://www.jeuneafrique.com/1759837/politique/la-presidence-algerienne-annonce-des-reformes-institutionnelles-lopposition-critique/)
 - [RDC : les rebelles ADF massacrent des agriculteurs en Ituri](https://www.jeuneafrique.com/1759880/politique/rdc-les-rebelles-adf-massacrent-des-agriculteurs-en-ituri/)
 - [Au Nigeria, l’armée va juger des officiers pour une tentative de coup d’État contre Tinubu en 2025](https://www.jeuneafrique.com/1759878/politique/au-nigeria-larmee-va-juger-des-officiers-pour-une-tentative-de-coup-detat-contre-tinubu-en-2025/)
+- [Ousmane Sonko en visite au Maroc sur fond de tensions post-CAN](https://www.jeuneafrique.com/1759535/politique/ousmane-sonko-en-visite-au-maroc-sur-fond-de-tensions-post-can/)
 - [Massacre de Shakaloha au Kenya : le gourou Paul Mackenzie visé par de nouvelles accusations](https://www.jeuneafrique.com/1759706/politique/massacre-de-shakaloha-au-kenya-le-gourou-paul-mackenzie-vise-par-de-nouvelles-accusations/)
 - [Les États-Unis « collaborent toujours » avec les armées du Burkina Faso, du Mali et du Niger](https://www.jeuneafrique.com/1759611/politique/les-etats-unis-collaborent-toujours-avec-les-armees-du-burkina-faso-du-mali-et-du-niger/)
 - [Cameroun : entre Kamto et Tchiroma Bakary, un duel d’opposants face à Biya](https://www.jeuneafrique.com/1758480/politique/cameroun-entre-kamto-et-tchiroma-bakary-un-duel-dopposants-face-a-biya/)
 - [Tunisie : après les tempêtes, Sidi Bou Saïd en danger](https://www.jeuneafrique.com/1759490/politique/tunisie-apres-les-tempetes-sidi-bou-said-en-danger/)
-- [Côte d’Ivoire : Maurice Kakou Guikahué, gardien du temple PDCI](https://www.jeuneafrique.com/1754682/politique/cote-divoire-maurice-kakou-guikahue-gardien-du-temple-pdci/)
-- [Janvier 1976 : la bataille d’Amgala, déclencheur de la guerre du Sahara occidental](https://www.jeuneafrique.com/1756012/politique/janvier-1976-la-bataille-damgala-declencheur-de-la-guerre-du-sahara-occidental/)
 - [Cacao : Barry Callebaut change de patron mais pas de position](https://www.jeuneafrique.com/1759727/economie-entreprises/cacao-barry-callebaut-change-de-patron-mais-pas-de-position/)
 - [Afreximbank peut-elle se passer des agences de notation ?](https://www.jeuneafrique.com/1759641/economie-entreprises/afreximbank-peut-elle-se-passer-des-agences-de-notation/)
 
