@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Jan 2026, 15:20*
+*Generato: 27 Jan 2026, 18:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [New measures to protect EU steel market from global overcapacity](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32626/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
 - [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32436/ep-today)
 - [International Holocaust Remembrance Day: invitation to interview Tatiana Bucci](https://www.europarl.europa.eu/news/en/press-room/20260121IPR32539/international-holocaust-remembrance-day-invitation-to-interview-tatiana-bucci)
 - [EU must respond decisively to any form of coercion against EU member states](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32444/eu-must-respond-decisively-to-any-form-of-coercion-against-eu-member-states)
-- [40 years of Spanish and Portuguese EU membership](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32452/40-years-of-spanish-and-portuguese-eu-membership)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -281,12 +281,12 @@
 - [« Il montre une autre Afrique » : la folle tournée de l’influenceur IShowSpeed](https://www.jeuneafrique.com/1760029/politique/il-montre-une-autre-afrique-la-folle-tournee-de-linfluenceur-ishowspeed/)
 - [L’Union africaine adoube Mamadi Doumbouya](https://www.jeuneafrique.com/1759905/politique/lunion-africaine-adoube-mamadi-doumbouya/)
 - [La présidence algérienne annonce des réformes institutionnelles, l’opposition critique](https://www.jeuneafrique.com/1759837/politique/la-presidence-algerienne-annonce-des-reformes-institutionnelles-lopposition-critique/)
+- [À Tunis, une rencontre sur l’avenir de la Libye… sans les Libyens](https://www.jeuneafrique.com/1759835/politique/a-tunis-une-rencontre-sur-lavenir-de-la-libye-sans-les-libyens/)
 - [RDC : les rebelles ADF massacrent des agriculteurs en Ituri](https://www.jeuneafrique.com/1759880/politique/rdc-les-rebelles-adf-massacrent-des-agriculteurs-en-ituri/)
 - [Au Nigeria, l’armée va juger des officiers pour une tentative de coup d’État contre Tinubu en 2025](https://www.jeuneafrique.com/1759878/politique/au-nigeria-larmee-va-juger-des-officiers-pour-une-tentative-de-coup-detat-contre-tinubu-en-2025/)
-- [Ousmane Sonko en visite au Maroc sur fond de tensions post-CAN](https://www.jeuneafrique.com/1759535/politique/ousmane-sonko-en-visite-au-maroc-sur-fond-de-tensions-post-can/)
-- [Quelle est l’armée africaine la plus puissante ? Le classement 2026, pays par pays](https://www.jeuneafrique.com/1759651/politique/quelle-est-larmee-africaine-la-plus-puissante-le-classement-2026-pays-par-pays/)
-- [Cacao : Barry Callebaut change de patron mais pas de position](https://www.jeuneafrique.com/1759727/economie-entreprises/cacao-barry-callebaut-change-de-patron-mais-pas-de-position/)
-- [Afreximbank peut-elle se passer des agences de notation ?](https://www.jeuneafrique.com/1759641/economie-entreprises/afreximbank-peut-elle-se-passer-des-agences-de-notation/)
+- [Remaniement au Cameroun : pourquoi l’ouverture est une illusion chez Paul Biya](https://www.jeuneafrique.com/1759538/politique/remaniement-au-cameroun-pourquoi-louverture-est-une-illusion-chez-paul-biya/)
+- [États-Unis – Afrique : douche froide pour l’Agoa à Washington](https://www.jeuneafrique.com/1759921/economie-entreprises/etats-unis-afrique-douche-froide-pour-lagoa-a-washington/)
+- [Safaricom, EABL, KPC… Pourquoi le Kenya vit son grand boom des fusions-acquisitions ?](https://www.jeuneafrique.com/1759700/economie-entreprises/safaricom-eabl-kpc-pourquoi-le-kenya-vit-son-grand-boom-des-fusions-acquisitions/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
