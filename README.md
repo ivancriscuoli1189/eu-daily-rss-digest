@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Jan 2026, 06:19*
+*Generato: 28 Jan 2026, 09:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/middle-east/research)
+- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
+- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/en/middle-east/experts)
+- [Research](https://carnegie-mec.org/middle-east/research)
+- [Diwan](https://carnegie-mec.org/middle-east/diwan)
+- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/middle-east/experts)
+- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
+- [Events](https://carnegie-mec.org/middle-east/events)
+
 ## THINK TANK – ECFR – MENA
 
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
@@ -264,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Congo : ce que l’on sait de la plainte norvégienne citant la famille Sassou Nguesso](https://www.jeuneafrique.com/1760105/politique/congo-ce-que-lon-sait-de-la-plainte-norvegienne-citant-la-famille-sassou-nguesso/)
 - [Mahamat Idriss Déby Itno attendu chez Emmanuel Macron à Paris](https://www.jeuneafrique.com/1760058/politique/mahamat-idriss-deby-itno-attendu-chez-emmanuel-macron-a-paris/)
 - [« Il montre une autre Afrique » : la folle tournée de l’influenceur IShowSpeed](https://www.jeuneafrique.com/1760029/politique/il-montre-une-autre-afrique-la-folle-tournee-de-linfluenceur-ishowspeed/)
+- [En Côte d’Ivoire, l’affaire du jeune opposant Jean-François Kouassi sonne comme un « avertissement »](https://www.jeuneafrique.com/1759821/politique/en-cote-divoire-laffaire-du-jeune-opposant-jean-francois-kouassi-sonne-comme-un-avertissement/)
 - [L’Union africaine adoube Mamadi Doumbouya](https://www.jeuneafrique.com/1759905/politique/lunion-africaine-adoube-mamadi-doumbouya/)
 - [La présidence algérienne annonce des réformes institutionnelles, l’opposition critique](https://www.jeuneafrique.com/1759837/politique/la-presidence-algerienne-annonce-des-reformes-institutionnelles-lopposition-critique/)
 - [À Tunis, une rencontre sur l’avenir de la Libye… sans les Libyens](https://www.jeuneafrique.com/1759835/politique/a-tunis-une-rencontre-sur-lavenir-de-la-libye-sans-les-libyens/)
 - [RDC : les rebelles ADF massacrent des agriculteurs en Ituri](https://www.jeuneafrique.com/1759880/politique/rdc-les-rebelles-adf-massacrent-des-agriculteurs-en-ituri/)
-- [Au Nigeria, l’armée va juger des officiers pour une tentative de coup d’État contre Tinubu en 2025](https://www.jeuneafrique.com/1759878/politique/au-nigeria-larmee-va-juger-des-officiers-pour-une-tentative-de-coup-detat-contre-tinubu-en-2025/)
-- [Remaniement au Cameroun : pourquoi l’ouverture est une illusion chez Paul Biya](https://www.jeuneafrique.com/1759538/politique/remaniement-au-cameroun-pourquoi-louverture-est-une-illusion-chez-paul-biya/)
+- [Start-up : le Sénégal prend du galon dans la tech africaine](https://www.jeuneafrique.com/1759934/economie-entreprises/start-up-le-senegal-prend-du-galon-dans-la-tech-africaine/)
 - [États-Unis – Afrique : douche froide pour l’Agoa à Washington](https://www.jeuneafrique.com/1759921/economie-entreprises/etats-unis-afrique-douche-froide-pour-lagoa-a-washington/)
-- [Safaricom, EABL, KPC… Pourquoi le Kenya vit son grand boom des fusions-acquisitions ?](https://www.jeuneafrique.com/1759700/economie-entreprises/safaricom-eabl-kpc-pourquoi-le-kenya-vit-son-grand-boom-des-fusions-acquisitions/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
