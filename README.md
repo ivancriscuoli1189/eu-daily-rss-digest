@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Jan 2026, 13:40*
+*Generato: 28 Jan 2026, 15:20*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -286,7 +286,7 @@
 - [En Côte d’Ivoire, l’affaire du jeune opposant Jean-François Kouassi sonne comme un « avertissement »](https://www.jeuneafrique.com/1759821/politique/en-cote-divoire-laffaire-du-jeune-opposant-jean-francois-kouassi-sonne-comme-un-avertissement/)
 - [L’Union africaine adoube Mamadi Doumbouya](https://www.jeuneafrique.com/1759905/politique/lunion-africaine-adoube-mamadi-doumbouya/)
 - [Niger : pourquoi le général Tiani a-t-il décidé de retirer les Finances à Lamine Zeine ?](https://www.jeuneafrique.com/1760227/economie-entreprises/niger-pourquoi-le-general-tiani-a-t-il-decide-de-retirer-les-finances-a-lamine-zeine/)
-- [En Côte d’Ivoire, une lutte d’influence secoue la Société ivoirienne de raffinage](https://www.jeuneafrique.com/1758270/economie-entreprises/en-cote-divoire-une-lutte-dinfluence-secoue-la-societe-ivoirienne-de-raffinage/)
+- [Start-up : le Sénégal prend du galon dans la tech africaine](https://www.jeuneafrique.com/1759934/economie-entreprises/start-up-le-senegal-prend-du-galon-dans-la-tech-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
