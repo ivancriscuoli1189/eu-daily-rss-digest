@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Jan 2026, 18:22*
+*Generato: 28 Jan 2026, 21:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
+
 ## THINK TANK – ECFR – MENA
 
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Maroc : Mohamed Chaouki candidat unique à la succession d’Akhannouch au RNI, la surprise Aujjar n’aura pas lieu](https://www.jeuneafrique.com/1760532/politique/maroc-mohamed-chaouki-candidat-unique-a-la-succession-dakhannouch-au-rni-la-surprise-aujjar-naura-pas-lieu/)
 - [Pourquoi le président Tebboune a déclaré l’ambassadeur de France persona non grata](https://www.jeuneafrique.com/1759990/politique/pourquoi-le-president-tebboune-a-declare-lambassadeur-de-france-persona-non-grata/)
 - [Maroc : Mohamed Aujjar, favori à la succession d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1760268/politique/maroc-mohamed-aujjar-favori-a-la-succession-daziz-akhannouch-a-la-tete-du-rni/)
 - [Accord sur les migrants : le Rwanda poursuit le Royaume-Uni en justice](https://www.jeuneafrique.com/1760257/politique/accord-sur-les-migrants-le-rwanda-poursuit-le-royaume-uni-en-justice/)
@@ -271,7 +285,6 @@
 - [Congo : ce que l’on sait de la plainte norvégienne citant la famille Sassou Nguesso](https://www.jeuneafrique.com/1760105/politique/congo-ce-que-lon-sait-de-la-plainte-norvegienne-citant-la-famille-sassou-nguesso/)
 - [En Guinée, pourquoi Mamadi Doumbouya a reconduit son Premier ministre, Bah Oury](https://www.jeuneafrique.com/1759988/politique/en-guinee-pourquoi-mamadi-doumbouya-a-reconduit-son-premier-ministre-bah-oury/)
 - [Affaire Paramount : au Mali, la prison à vie requise contre d’anciens piliers du régime IBK](https://www.jeuneafrique.com/1760002/politique/affaire-paramount-au-mali-la-prison-a-vie-requise-contre-danciens-piliers-du-regime-ibk/)
-- [Mahamat Idriss Déby Itno attendu chez Emmanuel Macron à Paris](https://www.jeuneafrique.com/1760058/politique/mahamat-idriss-deby-itno-attendu-chez-emmanuel-macron-a-paris/)
 - [Khaby Lame, le tiktokeur sénégalais qui valait 1 milliard](https://www.jeuneafrique.com/1760376/economie-entreprises/khaby-lame-le-tiktokeur-senegalais-qui-valait-1-milliard/)
 - [Bangui, Libreville, Accra… Air France délaisse-t-elle vraiment certaines capitales africaines ?](https://www.jeuneafrique.com/1758771/economie-entreprises/bangui-libreville-accra-air-france-delaisse-t-elle-vraiment-certaines-capitales-africaines/)
 
