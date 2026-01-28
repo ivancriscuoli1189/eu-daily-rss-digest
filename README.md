@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Jan 2026, 12:22*
+*Generato: 28 Jan 2026, 13:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -223,6 +223,19 @@
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
 - [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
 
+## THINK TANK – Carnegie MENA – Research
+
+- [Research](https://carnegie-mec.org/en/research)
+- [Emissary](https://carnegie-mec.org/en/emissary)
+- [About](https://carnegie-mec.org/en/about)
+- [Experts](https://carnegie-mec.org/en/experts)
+- [Donate](https://donate.carnegieendowment.org/support)
+- [Research](https://carnegie-mec.org/research)
+- [Emissary](https://carnegie-mec.org/emissary)
+- [About](https://carnegie-mec.org/about)
+- [Experts](https://carnegie-mec.org/experts)
+- [Donate](https://carnegie-mec.org/development)
+
 ## THINK TANK – ECFR – MENA
 
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Moulay El Hassan, l’autre star de la CAN 2025](https://www.jeuneafrique.com/1758553/politique/moulay-el-hassan-lautre-star-de-la-can-2025/)
 - [Congo : ce que l’on sait de la plainte norvégienne citant la famille Sassou Nguesso](https://www.jeuneafrique.com/1760105/politique/congo-ce-que-lon-sait-de-la-plainte-norvegienne-citant-la-famille-sassou-nguesso/)
 - [En Guinée, pourquoi Mamadi Doumbouya a reconduit son Premier ministre, Bah Oury](https://www.jeuneafrique.com/1759988/politique/en-guinee-pourquoi-mamadi-doumbouya-a-reconduit-son-premier-ministre-bah-oury/)
 - [Affaire Paramount : au Mali, la prison à vie requise contre d’anciens piliers du régime IBK](https://www.jeuneafrique.com/1760002/politique/affaire-paramount-au-mali-la-prison-a-vie-requise-contre-danciens-piliers-du-regime-ibk/)
@@ -271,9 +285,8 @@
 - [« Il montre une autre Afrique » : la folle tournée de l’influenceur IShowSpeed](https://www.jeuneafrique.com/1760029/politique/il-montre-une-autre-afrique-la-folle-tournee-de-linfluenceur-ishowspeed/)
 - [En Côte d’Ivoire, l’affaire du jeune opposant Jean-François Kouassi sonne comme un « avertissement »](https://www.jeuneafrique.com/1759821/politique/en-cote-divoire-laffaire-du-jeune-opposant-jean-francois-kouassi-sonne-comme-un-avertissement/)
 - [L’Union africaine adoube Mamadi Doumbouya](https://www.jeuneafrique.com/1759905/politique/lunion-africaine-adoube-mamadi-doumbouya/)
-- [La présidence algérienne annonce des réformes institutionnelles, l’opposition critique](https://www.jeuneafrique.com/1759837/politique/la-presidence-algerienne-annonce-des-reformes-institutionnelles-lopposition-critique/)
 - [Niger : pourquoi le général Tiani a-t-il décidé de retirer les Finances à Lamine Zeine ?](https://www.jeuneafrique.com/1760227/economie-entreprises/niger-pourquoi-le-general-tiani-a-t-il-decide-de-retirer-les-finances-a-lamine-zeine/)
-- [Start-up : le Sénégal prend du galon dans la tech africaine](https://www.jeuneafrique.com/1759934/economie-entreprises/start-up-le-senegal-prend-du-galon-dans-la-tech-africaine/)
+- [En Côte d’Ivoire, une lutte d’influence secoue la Société ivoirienne de raffinage](https://www.jeuneafrique.com/1758270/economie-entreprises/en-cote-divoire-une-lutte-dinfluence-secoue-la-societe-ivoirienne-de-raffinage/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
