@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 18:28*
+*Generato: 29 Jan 2026, 21:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,7 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : entre Louis Paul Motaze et Cyrus Ngo’o, la bataille du port de Douala](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
+- [Cameroun : guerre de contrats et luttes de pouvoir au port de Douala entre Motaze et Cyrus Ngo’o](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
 - [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
 - [Bola Tinubu en Turquie : la chute qui fait le buzz](https://www.jeuneafrique.com/1760807/politique/bola-tinubu-en-turquie-la-chute-qui-fait-le-buzz/)
 - [Les fils de la coopération sécuritaire entre Paris et Alger totalement rompus](https://www.jeuneafrique.com/1760736/politique/les-fils-de-la-cooperation-securitaire-entre-paris-et-alger-totalement-rompus/)
