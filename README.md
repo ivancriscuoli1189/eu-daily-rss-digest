@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 12:27*
+*Generato: 29 Jan 2026, 13:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
 - [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 - [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
-- [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Les fils de la coopération sécuritaire entre Paris et Alger totalement rompus](https://www.jeuneafrique.com/1760736/politique/les-fils-de-la-cooperation-securitaire-entre-paris-et-alger-totalement-rompus/)
 - [L’ancien ministre algérien de l’Industrie, Ali Aoun, devant les juges le 2 février](https://www.jeuneafrique.com/1760669/politique/lancien-ministre-algerien-de-lindustrie-ali-aoun-devant-les-juges-le-2-fevrier/)
 - [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
 - [Côte d’Ivoire : au PDCI, la discrète fronde des députés-maires d’Abidjan](https://www.jeuneafrique.com/1760261/politique/cote-divoire-au-pdci-la-discrete-fronde-des-deputes-maires-dabidjan/)
@@ -284,7 +285,6 @@
 - [Pourquoi le président Tebboune a déclaré l’ambassadeur de France persona non grata](https://www.jeuneafrique.com/1759990/politique/pourquoi-le-president-tebboune-a-declare-lambassadeur-de-france-persona-non-grata/)
 - [Est de la RDC : comment Doha tente de relancer une médiation au point mort](https://www.jeuneafrique.com/1760299/politique/est-de-la-rdc-comment-doha-tente-de-relancer-une-mediation-au-point-mort/)
 - [Maroc : Mohamed Aujjar, favori à la succession d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1760268/politique/maroc-mohamed-aujjar-favori-a-la-succession-daziz-akhannouch-a-la-tete-du-rni/)
-- [Accord sur les migrants : le Rwanda poursuit le Royaume-Uni en justice](https://www.jeuneafrique.com/1760257/politique/accord-sur-les-migrants-le-rwanda-poursuit-le-royaume-uni-en-justice/)
 - [Après son départ d’Afrique, le géant russe Lukoil signe un accord avec Carlyle](https://www.jeuneafrique.com/1760740/economie-entreprises/apres-son-depart-dafrique-le-geant-russe-lukoil-signe-un-accord-avec-carlyle/)
 - [MTN : une ligne rouge a-t-elle été franchie lors de la crise chez Irancell ?](https://www.jeuneafrique.com/1760339/economie-entreprises/mtn-une-ligne-rouge-a-t-elle-ete-franchie-lors-de-la-crise-chez-irancell/)
 
