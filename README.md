@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 06:31*
+*Generato: 29 Jan 2026, 09:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : Garoua, la ville qui a cru renverser Paul Biya](https://www.jeuneafrique.com/1753839/politique/cameroun-garoua-la-ville-qui-a-cru-renverser-paul-biya/)
+- [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
+- [Côte d’Ivoire : au PDCI, la discrète fronde des députés-maires d’Abidjan](https://www.jeuneafrique.com/1760261/politique/cote-divoire-au-pdci-la-discrete-fronde-des-deputes-maires-dabidjan/)
 - [Maroc : Mohamed Chaouki candidat unique à la succession d’Akhannouch au RNI, la surprise Aujjar n’aura pas lieu](https://www.jeuneafrique.com/1760532/politique/maroc-mohamed-chaouki-candidat-unique-a-la-succession-dakhannouch-au-rni-la-surprise-aujjar-naura-pas-lieu/)
 - [Pourquoi le président Tebboune a déclaré l’ambassadeur de France persona non grata](https://www.jeuneafrique.com/1759990/politique/pourquoi-le-president-tebboune-a-declare-lambassadeur-de-france-persona-non-grata/)
+- [Est de la RDC : comment Doha tente de relancer une médiation au point mort](https://www.jeuneafrique.com/1760299/politique/est-de-la-rdc-comment-doha-tente-de-relancer-une-mediation-au-point-mort/)
 - [Maroc : Mohamed Aujjar, favori à la succession d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1760268/politique/maroc-mohamed-aujjar-favori-a-la-succession-daziz-akhannouch-a-la-tete-du-rni/)
 - [Accord sur les migrants : le Rwanda poursuit le Royaume-Uni en justice](https://www.jeuneafrique.com/1760257/politique/accord-sur-les-migrants-le-rwanda-poursuit-le-royaume-uni-en-justice/)
 - [Moulay El Hassan, l’autre star de la CAN 2025](https://www.jeuneafrique.com/1758553/politique/moulay-el-hassan-lautre-star-de-la-can-2025/)
-- [Congo : ce que l’on sait de la plainte norvégienne citant la famille Sassou Nguesso](https://www.jeuneafrique.com/1760105/politique/congo-ce-que-lon-sait-de-la-plainte-norvegienne-citant-la-famille-sassou-nguesso/)
-- [En Guinée, pourquoi Mamadi Doumbouya a reconduit son Premier ministre, Bah Oury](https://www.jeuneafrique.com/1759988/politique/en-guinee-pourquoi-mamadi-doumbouya-a-reconduit-son-premier-ministre-bah-oury/)
+- [MTN : une ligne rouge a-t-elle été franchie lors de la crise chez Irancell ?](https://www.jeuneafrique.com/1760339/economie-entreprises/mtn-une-ligne-rouge-a-t-elle-ete-franchie-lors-de-la-crise-chez-irancell/)
 - [Khaby Lame, le tiktokeur sénégalais qui valait 1 milliard](https://www.jeuneafrique.com/1760376/economie-entreprises/khaby-lame-le-tiktokeur-senegalais-qui-valait-1-milliard/)
-- [Bangui, Libreville, Accra… Air France délaisse-t-elle vraiment certaines capitales africaines ?](https://www.jeuneafrique.com/1758771/economie-entreprises/bangui-libreville-accra-air-france-delaisse-t-elle-vraiment-certaines-capitales-africaines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
