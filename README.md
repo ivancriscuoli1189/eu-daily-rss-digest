@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 09:30*
+*Generato: 29 Jan 2026, 11:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,15 +70,15 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد بدر عبد العاطي وزير الخارجية والهجرة وشؤون المصريين بالخارج لجمهورية مصر العربية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد أحمد عطاف وزير الدولة، وزير الشؤون الخارجية والجالية الوطنية بالخارج والشؤون الإفريقية للجمهورية الجزائرية الديمقراطية الشعبية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%B7%D8%A7%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9)
 - [إشراف رئيس الجمهوريّة قيس سعيّد على جلسة عمل تتعلق بالفيضانات التي شهدتها بعض جهات الجمهوريّة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D8%AA%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع سفيرة جمهورية بولونيا بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D9%81%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A8%D9%88%D9%84%D9%88%D9%86%D9%8A%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع سفير الجمهورية البرتغالية بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
 - [زيارة رئيس الجمهورية قيس سعيد يوم أمس وفجر هذا اليوم إلى عدد من الجهات المتضررة من الفيضانات](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B3-%D9%88%D9%81%D8%AC%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%B6%D8%B1%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين وزير الصحّة ووزير الشؤون الإجتماعيّة والسيّدات والسّادة الرئيسة المديرة العامة للصيدلية المركزيّة للبلاد التونسية ورئيسة المجلس الوطني لعمادة الأطبّاء والمديرة العامة للوكالة الوطنية للدّواء ومواد الصحّة وئيس المج](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%91%D8%A9-%D9%88%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D9%91%D8%A7%D8%AF%D8%A9)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّد عصام الأحمر وزير الشؤون الإجتماعية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدة مشكاة سلامة الخالدي وزيرة الماليّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-5)
 
 ## UE – EP – Press Room
 
@@ -225,16 +225,16 @@
 
 ## THINK TANK – Carnegie MENA – Research
 
-- [Research](https://carnegie-mec.org/en/research)
-- [Emissary](https://carnegie-mec.org/en/emissary)
-- [About](https://carnegie-mec.org/en/about)
-- [Experts](https://carnegie-mec.org/en/experts)
-- [Donate](https://donate.carnegieendowment.org/support)
-- [Research](https://carnegie-mec.org/research)
-- [Emissary](https://carnegie-mec.org/emissary)
-- [About](https://carnegie-mec.org/about)
-- [Experts](https://carnegie-mec.org/experts)
-- [Donate](https://carnegie-mec.org/development)
+- [Research](https://carnegie-mec.org/en/middle-east/research)
+- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
+- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/en/middle-east/experts)
+- [Research](https://carnegie-mec.org/middle-east/research)
+- [Diwan](https://carnegie-mec.org/middle-east/diwan)
+- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/middle-east/experts)
+- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
+- [Events](https://carnegie-mec.org/middle-east/events)
 
 ## THINK TANK – ECFR – MENA
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’ancien ministre algérien de l’Industrie, Ali Aoun, devant les juges le 2 février](https://www.jeuneafrique.com/1760669/politique/lancien-ministre-algerien-de-lindustrie-ali-aoun-devant-les-juges-le-2-fevrier/)
 - [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
 - [Côte d’Ivoire : au PDCI, la discrète fronde des députés-maires d’Abidjan](https://www.jeuneafrique.com/1760261/politique/cote-divoire-au-pdci-la-discrete-fronde-des-deputes-maires-dabidjan/)
 - [Maroc : Mohamed Chaouki candidat unique à la succession d’Akhannouch au RNI, la surprise Aujjar n’aura pas lieu](https://www.jeuneafrique.com/1760532/politique/maroc-mohamed-chaouki-candidat-unique-a-la-succession-dakhannouch-au-rni-la-surprise-aujjar-naura-pas-lieu/)
@@ -284,9 +285,8 @@
 - [Est de la RDC : comment Doha tente de relancer une médiation au point mort](https://www.jeuneafrique.com/1760299/politique/est-de-la-rdc-comment-doha-tente-de-relancer-une-mediation-au-point-mort/)
 - [Maroc : Mohamed Aujjar, favori à la succession d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1760268/politique/maroc-mohamed-aujjar-favori-a-la-succession-daziz-akhannouch-a-la-tete-du-rni/)
 - [Accord sur les migrants : le Rwanda poursuit le Royaume-Uni en justice](https://www.jeuneafrique.com/1760257/politique/accord-sur-les-migrants-le-rwanda-poursuit-le-royaume-uni-en-justice/)
-- [Moulay El Hassan, l’autre star de la CAN 2025](https://www.jeuneafrique.com/1758553/politique/moulay-el-hassan-lautre-star-de-la-can-2025/)
+- [Après son départ d’Afrique, le géant russe Lukoil signe un accord avec Carlyle](https://www.jeuneafrique.com/1760740/economie-entreprises/apres-son-depart-dafrique-le-geant-russe-lukoil-signe-un-accord-avec-carlyle/)
 - [MTN : une ligne rouge a-t-elle été franchie lors de la crise chez Irancell ?](https://www.jeuneafrique.com/1760339/economie-entreprises/mtn-une-ligne-rouge-a-t-elle-ete-franchie-lors-de-la-crise-chez-irancell/)
-- [Khaby Lame, le tiktokeur sénégalais qui valait 1 milliard](https://www.jeuneafrique.com/1760376/economie-entreprises/khaby-lame-le-tiktokeur-senegalais-qui-valait-1-milliard/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
