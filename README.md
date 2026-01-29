@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 15:24*
+*Generato: 29 Jan 2026, 18:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : entre Louis Paul Motaze et Cyrus Ngo’o, la bataille du port de Douala](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
+- [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
 - [Bola Tinubu en Turquie : la chute qui fait le buzz](https://www.jeuneafrique.com/1760807/politique/bola-tinubu-en-turquie-la-chute-qui-fait-le-buzz/)
 - [Les fils de la coopération sécuritaire entre Paris et Alger totalement rompus](https://www.jeuneafrique.com/1760736/politique/les-fils-de-la-cooperation-securitaire-entre-paris-et-alger-totalement-rompus/)
 - [L’ancien ministre algérien de l’Industrie, Ali Aoun, devant les juges le 2 février](https://www.jeuneafrique.com/1760669/politique/lancien-ministre-algerien-de-lindustrie-ali-aoun-devant-les-juges-le-2-fevrier/)
 - [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
-- [Côte d’Ivoire : au PDCI, la discrète fronde des députés-maires d’Abidjan](https://www.jeuneafrique.com/1760261/politique/cote-divoire-au-pdci-la-discrete-fronde-des-deputes-maires-dabidjan/)
-- [Maroc : Mohamed Chaouki candidat unique à la succession d’Akhannouch au RNI, la surprise Aujjar n’aura pas lieu](https://www.jeuneafrique.com/1760532/politique/maroc-mohamed-chaouki-candidat-unique-a-la-succession-dakhannouch-au-rni-la-surprise-aujjar-naura-pas-lieu/)
-- [Pourquoi le président Tebboune a déclaré l’ambassadeur de France persona non grata](https://www.jeuneafrique.com/1759990/politique/pourquoi-le-president-tebboune-a-declare-lambassadeur-de-france-persona-non-grata/)
-- [Est de la RDC : comment Doha tente de relancer une médiation au point mort](https://www.jeuneafrique.com/1760299/politique/est-de-la-rdc-comment-doha-tente-de-relancer-une-mediation-au-point-mort/)
+- [Finale de la CAN Sénégal-Maroc : ce qu’il faut retenir des sanctions de la CAF](https://www.jeuneafrique.com/1760668/politique/finale-de-la-can-senegal-maroc-la-caf-sanctionne-les-deux-equipes/)
+- [Au Niger, des tirs nourris autour de l’aéroport de Niamey](https://www.jeuneafrique.com/1760676/politique/au-niger-des-tirs-nourris-autour-de-laeroport-de-niamey/)
+- [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 - [Après son départ d’Afrique, le géant russe Lukoil signe un accord avec Carlyle](https://www.jeuneafrique.com/1760740/economie-entreprises/apres-son-depart-dafrique-le-geant-russe-lukoil-signe-un-accord-avec-carlyle/)
-- [MTN : une ligne rouge a-t-elle été franchie lors de la crise chez Irancell ?](https://www.jeuneafrique.com/1760339/economie-entreprises/mtn-une-ligne-rouge-a-t-elle-ete-franchie-lors-de-la-crise-chez-irancell/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
