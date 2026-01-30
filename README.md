@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Jan 2026, 21:16*
+*Generato: 30 Jan 2026, 06:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : Maroua, la « fille aînée du renouveau » qui se détourne de Paul Biya](https://www.jeuneafrique.com/1759648/politique/cameroun-maroua-la-fille-ainee-du-renouveau-qui-se-detourne-de-paul-biya/)
 - [Cameroun : guerre de contrats et luttes de pouvoir au port de Douala entre Motaze et Cyrus Ngo’o](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
 - [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
 - [Bola Tinubu en Turquie : la chute qui fait le buzz](https://www.jeuneafrique.com/1760807/politique/bola-tinubu-en-turquie-la-chute-qui-fait-le-buzz/)
@@ -284,7 +285,6 @@
 - [L’ancien ministre algérien de l’Industrie, Ali Aoun, devant les juges le 2 février](https://www.jeuneafrique.com/1760669/politique/lancien-ministre-algerien-de-lindustrie-ali-aoun-devant-les-juges-le-2-fevrier/)
 - [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
 - [Finale de la CAN Sénégal-Maroc : ce qu’il faut retenir des sanctions de la CAF](https://www.jeuneafrique.com/1760668/politique/finale-de-la-can-senegal-maroc-la-caf-sanctionne-les-deux-equipes/)
-- [Au Niger, des tirs nourris autour de l’aéroport de Niamey](https://www.jeuneafrique.com/1760676/politique/au-niger-des-tirs-nourris-autour-de-laeroport-de-niamey/)
 - [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 - [Après son départ d’Afrique, le géant russe Lukoil signe un accord avec Carlyle](https://www.jeuneafrique.com/1760740/economie-entreprises/apres-son-depart-dafrique-le-geant-russe-lukoil-signe-un-accord-avec-carlyle/)
 
