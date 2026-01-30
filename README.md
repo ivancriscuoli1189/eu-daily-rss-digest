@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 18:25*
+*Generato: 30 Jan 2026, 21:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -285,8 +285,8 @@
 - [Au Mali, le Jnim reprend ses attaques : un convoi de camions-citernes incendié](https://www.jeuneafrique.com/1761148/politique/au-mali-le-jnim-reprend-ses-attaques-un-convoi-de-camions-citernes-incendie/)
 - [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
 - [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
-- [Nialé Kaba : « Le nouveau modèle de croissance de la Côte d’Ivoire repose sur la création massive d’emplois »](https://www.jeuneafrique.com/1754978/economie-entreprises/niale-kaba-le-nouveau-modele-de-croissance-de-la-cote-divoire-repose-sur-la-creation-massive-demplois/)
-- [Comment Canal+ compte rentabiliser son rachat de MultiChoice en Afrique](https://www.jeuneafrique.com/1760845/economie-entreprises/comment-canal-compte-rentabiliser-son-rachat-de-multichoice-en-afrique/)
+- [Le Cameroun s’achète un répit grâce à une sortie réussie sur les marchés internationaux](https://www.jeuneafrique.com/1761510/economie-entreprises/le-cameroun-sachete-un-repit-grace-a-une-sortie-reussie-sur-les-marches-internationaux/)
+- [Comment ENI a trouvé la parade au gaz russe en Afrique](https://www.jeuneafrique.com/1761210/economie-entreprises/comment-eni-a-trouve-la-parade-au-gaz-russe-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
