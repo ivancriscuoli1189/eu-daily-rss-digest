@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 13:46*
+*Generato: 30 Jan 2026, 15:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -225,16 +225,16 @@
 
 ## THINK TANK – Carnegie MENA – Research
 
-- [Research](https://carnegie-mec.org/en/research)
-- [Emissary](https://carnegie-mec.org/en/emissary)
-- [About](https://carnegie-mec.org/en/about)
-- [Experts](https://carnegie-mec.org/en/experts)
-- [Donate](https://donate.carnegieendowment.org/support)
-- [Research](https://carnegie-mec.org/research)
-- [Emissary](https://carnegie-mec.org/emissary)
-- [About](https://carnegie-mec.org/about)
-- [Experts](https://carnegie-mec.org/experts)
-- [Donate](https://carnegie-mec.org/development)
+- [Research](https://carnegie-mec.org/en/middle-east/research)
+- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
+- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/en/middle-east/experts)
+- [Research](https://carnegie-mec.org/middle-east/research)
+- [Diwan](https://carnegie-mec.org/middle-east/diwan)
+- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
+- [Experts](https://carnegie-mec.org/middle-east/experts)
+- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
+- [Events](https://carnegie-mec.org/middle-east/events)
 
 ## THINK TANK – ECFR – MENA
 
@@ -262,31 +262,18 @@
 - [Network](https://www.cespi.it/it/chi-siamo/network)
 - [Partner](https://www.cespi.it/it/chi-siamo/partner)
 
-## THINK TANK – Brookings – Middle East – Articles
-
-- [Experts](https://www.brookings.edu/experts/)
-- [Events](https://www.brookings.edu/events/)
-- [Research Programs](https://www.brookings.edu/research-programs/)
-- [Research & Commentary](https://www.brookings.edu/research-commentary/)
-- [Newsletters](https://www.brookings.edu/newsletters/)
-- [For Media](https://www.brookings.edu/for-media/)
-- [About Us](https://www.brookings.edu/about-us/)
-- [Leadership](https://www.brookings.edu/about-us/leadership/)
-- [Careers](https://www.brookings.edu/careers/)
-- [Our Commitments](https://www.brookings.edu/about-us/#commitments)
-
 ## MAGAZINES – Jeune Afrique
 
+- [Niger : l’État islamique revendique l’attaque de l’aéroport de Niamey](https://www.jeuneafrique.com/1761372/politique/niger-letat-islamique-revendique-lattaque-de-laeroport-de-niamey/)
+- [Le Burkina Faso euthanasie les partis politiques déjà anesthésiés](https://www.jeuneafrique.com/1761175/politique/le-burkina-faso-euthanasie-les-partis-politiques-deja-anesthesies/)
 - [Tchad-France : à Paris, Mahamat Idriss Déby Itno et Emmanuel Macron affichent leurs « nouvelles ambitions »](https://www.jeuneafrique.com/1761153/politique/tchad-france-a-paris-mahamat-idriss-deby-itno-et-emmanuel-macron-affichent-leurs-nouvelles-ambitions/)
 - [Au Mali, le Jnim reprend ses attaques : un convoi de camions-citernes incendié](https://www.jeuneafrique.com/1761148/politique/au-mali-le-jnim-reprend-ses-attaques-un-convoi-de-camions-citernes-incendie/)
 - [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
 - [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
 - [Algérie-France : Ségolène Royal veut convaincre Emmanuel Macron de « faire un premier geste »](https://www.jeuneafrique.com/1761098/politique/algerie-france-segolene-royal-veut-convaincre-emmanuel-macron-de-faire-un-premier-geste/)
 - [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi incarcéré](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
-- [En Côte d’Ivoire, le bras droit de Tidjane Thiam, Calice Yapo Yapo, face à la justice](https://www.jeuneafrique.com/1760846/politique/en-cote-divoire-le-bras-droit-de-tidjane-thiam-calice-yapo-yapo-face-a-la-justice/)
-- [Cameroun : guerre de contrats et luttes de pouvoir au port de Douala entre Motaze et Cyrus Ngo’o](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
+- [Comment Canal+ compte rentabiliser son rachat de MultiChoice en Afrique](https://www.jeuneafrique.com/1760845/economie-entreprises/comment-canal-compte-rentabiliser-son-rachat-de-multichoice-en-afrique/)
 - [Maroc – Sénégal : quand les champions économiques entrent en première ligne](https://www.jeuneafrique.com/1760793/economie-entreprises/maroc-senegal-quand-les-champions-economiques-entrent-en-premiere-ligne/)
-- [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
