@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 11:19*
+*Generato: 30 Jan 2026, 12:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
 - [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
@@ -246,7 +247,6 @@
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
 - [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
 - [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Trump’s AI thaw: How Europe and the Gulf can protect against American and Chinese tech pressure](https://ecfr.eu/article/trumps-ai-thaw-how-europe-and-the-gulf-can-protect-against-american-and-chinese-tech-pressure/)
 - [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 
 ## THINK TANK – CESPI – Attualità
@@ -282,9 +282,9 @@
 - [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
 - [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
 - [Algérie-France : Ségolène Royal veut convaincre Emmanuel Macron de « faire un premier geste »](https://www.jeuneafrique.com/1761098/politique/algerie-france-segolene-royal-veut-convaincre-emmanuel-macron-de-faire-un-premier-geste/)
-- [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi interpellé](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
+- [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi incarcéré](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
+- [En Côte d’Ivoire, le bras droit de Tidjane Thiam, Calice Yapo Yapo, face à la justice](https://www.jeuneafrique.com/1760846/politique/en-cote-divoire-le-bras-droit-de-tidjane-thiam-calice-yapo-yapo-face-a-la-justice/)
 - [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
-- [Bola Tinubu en Turquie : la chute qui fait le buzz](https://www.jeuneafrique.com/1760807/politique/bola-tinubu-en-turquie-la-chute-qui-fait-le-buzz/)
 - [Maroc – Sénégal : quand les champions économiques entrent en première ligne](https://www.jeuneafrique.com/1760793/economie-entreprises/maroc-senegal-quand-les-champions-economiques-entrent-en-premiere-ligne/)
 - [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 
