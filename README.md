@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 15:22*
+*Generato: 30 Jan 2026, 18:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -262,18 +262,31 @@
 - [Network](https://www.cespi.it/it/chi-siamo/network)
 - [Partner](https://www.cespi.it/it/chi-siamo/partner)
 
+## THINK TANK – Brookings – Middle East – Articles
+
+- [Experts](https://www.brookings.edu/experts/)
+- [Events](https://www.brookings.edu/events/)
+- [Research Programs](https://www.brookings.edu/research-programs/)
+- [Research & Commentary](https://www.brookings.edu/research-commentary/)
+- [Newsletters](https://www.brookings.edu/newsletters/)
+- [For Media](https://www.brookings.edu/for-media/)
+- [About Us](https://www.brookings.edu/about-us/)
+- [Leadership](https://www.brookings.edu/about-us/leadership/)
+- [Careers](https://www.brookings.edu/careers/)
+- [Our Commitments](https://www.brookings.edu/about-us/#commitments)
+
 ## MAGAZINES – Jeune Afrique
 
+- [En Algérie, trois trafiquants marocains tués près de Béchar : les dessous d’une opération ciblée](https://www.jeuneafrique.com/1761367/politique/en-algerie-trois-trafiquants-marocains-tues-pres-de-bechar-les-dessous-dune-operation-ciblee/)
 - [Niger : l’État islamique revendique l’attaque de l’aéroport de Niamey](https://www.jeuneafrique.com/1761372/politique/niger-letat-islamique-revendique-lattaque-de-laeroport-de-niamey/)
 - [Le Burkina Faso euthanasie les partis politiques déjà anesthésiés](https://www.jeuneafrique.com/1761175/politique/le-burkina-faso-euthanasie-les-partis-politiques-deja-anesthesies/)
+- [Côte d’Ivoire-Mali : le député malien Mamadou Hawa Gassama condamné à trois ans de prison](https://www.jeuneafrique.com/1761114/politique/cote-divoire-mali-le-depute-malien-mamadou-hawa-gassama-condamne-a-trois-ans-de-prison/)
 - [Tchad-France : à Paris, Mahamat Idriss Déby Itno et Emmanuel Macron affichent leurs « nouvelles ambitions »](https://www.jeuneafrique.com/1761153/politique/tchad-france-a-paris-mahamat-idriss-deby-itno-et-emmanuel-macron-affichent-leurs-nouvelles-ambitions/)
 - [Au Mali, le Jnim reprend ses attaques : un convoi de camions-citernes incendié](https://www.jeuneafrique.com/1761148/politique/au-mali-le-jnim-reprend-ses-attaques-un-convoi-de-camions-citernes-incendie/)
 - [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
 - [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
-- [Algérie-France : Ségolène Royal veut convaincre Emmanuel Macron de « faire un premier geste »](https://www.jeuneafrique.com/1761098/politique/algerie-france-segolene-royal-veut-convaincre-emmanuel-macron-de-faire-un-premier-geste/)
-- [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi incarcéré](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
+- [Nialé Kaba : « Le nouveau modèle de croissance de la Côte d’Ivoire repose sur la création massive d’emplois »](https://www.jeuneafrique.com/1754978/economie-entreprises/niale-kaba-le-nouveau-modele-de-croissance-de-la-cote-divoire-repose-sur-la-creation-massive-demplois/)
 - [Comment Canal+ compte rentabiliser son rachat de MultiChoice en Afrique](https://www.jeuneafrique.com/1760845/economie-entreprises/comment-canal-compte-rentabiliser-son-rachat-de-multichoice-en-afrique/)
-- [Maroc – Sénégal : quand les champions économiques entrent en première ligne](https://www.jeuneafrique.com/1760793/economie-entreprises/maroc-senegal-quand-les-champions-economiques-entrent-en-premiere-ligne/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
