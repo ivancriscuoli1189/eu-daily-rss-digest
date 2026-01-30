@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 09:27*
+*Generato: 30 Jan 2026, 11:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tchad-France : à Paris, Mahamat Idriss Déby Itno et Emmanuel Macron affichent leurs « nouvelles ambitions »](https://www.jeuneafrique.com/1761153/politique/tchad-france-a-paris-mahamat-idriss-deby-itno-et-emmanuel-macron-affichent-leurs-nouvelles-ambitions/)
+- [Au Mali, le Jnim reprend ses attaques : un convoi de camions-citernes incendié](https://www.jeuneafrique.com/1761148/politique/au-mali-le-jnim-reprend-ses-attaques-un-convoi-de-camions-citernes-incendie/)
+- [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
+- [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
 - [Algérie-France : Ségolène Royal veut convaincre Emmanuel Macron de « faire un premier geste »](https://www.jeuneafrique.com/1761098/politique/algerie-france-segolene-royal-veut-convaincre-emmanuel-macron-de-faire-un-premier-geste/)
-- [Attaque à Niamey : Tiani accuse Talon, Ouattara et Macron](https://www.jeuneafrique.com/1761091/politique/attaque-a-niamey-tiani-accuse-talon-ouattara-et-macron/)
+- [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi interpellé](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
 - [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
 - [Bola Tinubu en Turquie : la chute qui fait le buzz](https://www.jeuneafrique.com/1760807/politique/bola-tinubu-en-turquie-la-chute-qui-fait-le-buzz/)
-- [Les fils de la coopération sécuritaire entre Paris et Alger totalement rompus](https://www.jeuneafrique.com/1760736/politique/les-fils-de-la-cooperation-securitaire-entre-paris-et-alger-totalement-rompus/)
-- [10 choses à savoir sur l’ambassadrice de Déby Itno auprès de Macron, Amina Priscille Longoh](https://www.jeuneafrique.com/1760335/politique/10-choses-a-savoir-sur-lambassadrice-de-deby-itno-aupres-de-macron-amina-priscille-longoh/)
-- [L’ancien ministre algérien de l’Industrie, Ali Aoun, devant les juges le 2 février](https://www.jeuneafrique.com/1760669/politique/lancien-ministre-algerien-de-lindustrie-ali-aoun-devant-les-juges-le-2-fevrier/)
-- [La Cedeao lève ses dernières sanctions contre la Guinée](https://www.jeuneafrique.com/1760695/politique/la-cedeao-leve-ses-dernieres-sanctions-contre-la-guinee/)
 - [Maroc – Sénégal : quand les champions économiques entrent en première ligne](https://www.jeuneafrique.com/1760793/economie-entreprises/maroc-senegal-quand-les-champions-economiques-entrent-en-premiere-ligne/)
 - [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 
