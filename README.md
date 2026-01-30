@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 12:26*
+*Generato: 30 Jan 2026, 13:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -284,7 +284,7 @@
 - [Algérie-France : Ségolène Royal veut convaincre Emmanuel Macron de « faire un premier geste »](https://www.jeuneafrique.com/1761098/politique/algerie-france-segolene-royal-veut-convaincre-emmanuel-macron-de-faire-un-premier-geste/)
 - [Coup d’État manqué au Bénin : le directeur de cabinet de Thomas Boni Yayi incarcéré](https://www.jeuneafrique.com/1761036/politique/coup-detat-manque-au-benin-le-directeur-de-cabinet-de-thomas-boni-yayi-interpelle/)
 - [En Côte d’Ivoire, le bras droit de Tidjane Thiam, Calice Yapo Yapo, face à la justice](https://www.jeuneafrique.com/1760846/politique/en-cote-divoire-le-bras-droit-de-tidjane-thiam-calice-yapo-yapo-face-a-la-justice/)
-- [Des lobbyistes américains au secours de la Tanzanie de Samia Suluhu Hassan](https://www.jeuneafrique.com/1760750/politique/des-lobbyistes-americains-au-secours-de-la-tanzanie-de-samia-suluhu-hassan/)
+- [Cameroun : guerre de contrats et luttes de pouvoir au port de Douala entre Motaze et Cyrus Ngo’o](https://www.jeuneafrique.com/1760443/politique/cameroun-entre-louis-paul-motaze-et-cyrus-ngoo-la-bataille-du-port-de-douala/)
 - [Maroc – Sénégal : quand les champions économiques entrent en première ligne](https://www.jeuneafrique.com/1760793/economie-entreprises/maroc-senegal-quand-les-champions-economiques-entrent-en-premiere-ligne/)
 - [Cabo Delgado : le pari à haut risque que TotalEnergies accepte de rejouer](https://www.jeuneafrique.com/1760765/economie-entreprises/cabo-delgado-le-pari-a-haut-risque-que-totalenergies-accepte-de-rejouer/)
 
