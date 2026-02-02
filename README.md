@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Feb 2026, 06:48*
+*Generato: 02 Feb 2026, 09:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -284,7 +284,7 @@
 - [Est de la RDC : éboulements meurtriers de la mine de coltan de Rubaya](https://www.jeuneafrique.com/1761591/politique/est-de-la-rdc-eboulements-meurtriers-de-la-mine-de-coltan-de-rubaya/)
 - [Organisation, affluence, sécurité : quel bilan pour la CAN marocaine ?](https://www.jeuneafrique.com/1758548/politique/organisation-affluence-securite-quel-bilan-pour-la-can-marocaine/)
 - [Métaphores zoologiques, infox, IA… Quand Ibrahim Traoré fait la guerre par les mots](https://www.jeuneafrique.com/1761538/politique/metaphores-zoologiques-infox-ia-quand-ibrahim-traore-fait-la-guerre-par-les-mots/)
-- [En Guinée-Bissau, Domingos Simões Pereira et les autres principaux opposants ont été libérés](https://www.jeuneafrique.com/1761567/politique/en-guinee-bissau-lopposant-domingos-simoes-pereira-a-ete-libere/)
+- [L’oléoduc entre le Niger et le Bénin, victime de la bataille diplomatique entre Tiani et Talon ?](https://www.jeuneafrique.com/1759999/politique/loleoduc-entre-le-niger-et-le-benin-victime-de-la-bataille-diplomatique-entre-talon-et-tiani/)
 - [Le Cameroun s’achète un répit grâce à une sortie réussie sur les marchés internationaux](https://www.jeuneafrique.com/1761510/economie-entreprises/le-cameroun-sachete-un-repit-grace-a-une-sortie-reussie-sur-les-marches-internationaux/)
 - [Sanctions contre le Mali : une victoire juridique pour Bamako qui bouscule l’alignement Uemoa-Cedeao](https://www.jeuneafrique.com/1761484/economie-entreprises/sanctions-contre-le-mali-une-victoire-juridique-pour-bamako-qui-bouscule-lalignement-uemoa-cedeao/)
 
