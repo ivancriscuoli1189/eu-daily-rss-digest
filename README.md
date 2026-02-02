@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Jan 2026, 21:17*
+*Generato: 02 Feb 2026, 06:48*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
+- [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 - [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
 - [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
-- [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
-- [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
-- [Thailand: New sexual harassment law a step in the right direction, albeit concerns remain](https://www.icj.org/thailand-new-sexual-harassment-law-a-step-in-the-right-direction-albeit-concerns-remain/)
-- [United States/Venezuela: Territorial sovereignty, the rule of law and human rights must be guaranteed and respected](https://www.icj.org/united-states-venezuela-territorial-sovereignty-the-rule-of-law-and-human-rights-must-be-guaranteed-and-respected/)
+- [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
+- [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -253,7 +253,7 @@
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [La salute nel sud globale oggi](https://www.cespi.it/it/eventi-note/eventi/la-salute-nel-sud-globale-oggi)
-- [AVVISO DI APERTURA PROCEDURA DI SELEZIONE - realizzazione di interventi di espansione per l’applicazione Moneymize](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-di-apertura-procedura-di-selezione-realizzazione-di-interventi-di)
+- [AVVISO RICHIESTA PREVENTIVO PER RICHIESTA PERCORSO FORMATIVO CORSO DI PRIMO SOCCORSO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-richiesta-percorso-formativo-corso-di-primo)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En Algérie, trois trafiquants marocains tués près de Béchar : les dessous d’une opération ciblée](https://www.jeuneafrique.com/1761367/politique/en-algerie-trois-trafiquants-marocains-tues-pres-de-bechar-les-dessous-dune-operation-ciblee/)
-- [Niger : l’État islamique revendique l’attaque de l’aéroport de Niamey](https://www.jeuneafrique.com/1761372/politique/niger-letat-islamique-revendique-lattaque-de-laeroport-de-niamey/)
-- [Le Burkina Faso euthanasie les partis politiques déjà anesthésiés](https://www.jeuneafrique.com/1761175/politique/le-burkina-faso-euthanasie-les-partis-politiques-deja-anesthesies/)
-- [Côte d’Ivoire-Mali : le député malien Mamadou Hawa Gassama condamné à trois ans de prison](https://www.jeuneafrique.com/1761114/politique/cote-divoire-mali-le-depute-malien-mamadou-hawa-gassama-condamne-a-trois-ans-de-prison/)
-- [Tchad-France : à Paris, Mahamat Idriss Déby Itno et Emmanuel Macron affichent leurs « nouvelles ambitions »](https://www.jeuneafrique.com/1761153/politique/tchad-france-a-paris-mahamat-idriss-deby-itno-et-emmanuel-macron-affichent-leurs-nouvelles-ambitions/)
-- [Au Mali, le Jnim reprend ses attaques : un convoi de camions-citernes incendié](https://www.jeuneafrique.com/1761148/politique/au-mali-le-jnim-reprend-ses-attaques-un-convoi-de-camions-citernes-incendie/)
-- [En Guinée-Bissau, le chef de la junte promu au grade le plus élevé de l’armée](https://www.jeuneafrique.com/1761137/politique/en-guinee-bissau-le-chef-de-la-junte-promu-au-grade-le-plus-eleve-de-larmee/)
-- [Au Burkina Faso, Ibrahim Traoré va dissoudre les partis politiques](https://www.jeuneafrique.com/1761111/politique/au-burkina-faso-ibrahim-traore-va-dissoudre-les-partis-politiques/)
+- [RDC : un glissement de terrain sur la mine de Rubaya, contrôlée par l’AFC/M23, fait craindre « au moins 200 morts »](https://www.jeuneafrique.com/1761610/politique/rdc-un-glissement-de-terrain-sur-la-mine-de-rubaya-controlee-par-lafc-m23-fait-craindre-au-moins-200-morts/)
+- [Le Nigérien Abdourahamane Tiani remercie le grand frère russe](https://www.jeuneafrique.com/1761204/politique/le-nigerien-abdourahamane-tiani-remercie-le-grand-frere-russe/)
+- [L’Algérie lance un deuxième satellite pour renforcer la surveillance](https://www.jeuneafrique.com/1761604/politique/lalgerie-lance-un-deuxieme-satellite-pour-renforcer-la-surveillance/)
+- [Au Maroc et chez les autres pays participants, quels lendemains après la CAN ?](https://www.jeuneafrique.com/1758550/politique/au-maroc-et-chez-les-autres-pays-participants-quels-lendemains-apres-la-can/)
+- [Est de la RDC : éboulements meurtriers de la mine de coltan de Rubaya](https://www.jeuneafrique.com/1761591/politique/est-de-la-rdc-eboulements-meurtriers-de-la-mine-de-coltan-de-rubaya/)
+- [Organisation, affluence, sécurité : quel bilan pour la CAN marocaine ?](https://www.jeuneafrique.com/1758548/politique/organisation-affluence-securite-quel-bilan-pour-la-can-marocaine/)
+- [Métaphores zoologiques, infox, IA… Quand Ibrahim Traoré fait la guerre par les mots](https://www.jeuneafrique.com/1761538/politique/metaphores-zoologiques-infox-ia-quand-ibrahim-traore-fait-la-guerre-par-les-mots/)
+- [En Guinée-Bissau, Domingos Simões Pereira et les autres principaux opposants ont été libérés](https://www.jeuneafrique.com/1761567/politique/en-guinee-bissau-lopposant-domingos-simoes-pereira-a-ete-libere/)
 - [Le Cameroun s’achète un répit grâce à une sortie réussie sur les marchés internationaux](https://www.jeuneafrique.com/1761510/economie-entreprises/le-cameroun-sachete-un-repit-grace-a-une-sortie-reussie-sur-les-marches-internationaux/)
-- [Comment ENI a trouvé la parade au gaz russe en Afrique](https://www.jeuneafrique.com/1761210/economie-entreprises/comment-eni-a-trouve-la-parade-au-gaz-russe-en-afrique/)
+- [Sanctions contre le Mali : une victoire juridique pour Bamako qui bouscule l’alignement Uemoa-Cedeao](https://www.jeuneafrique.com/1761484/economie-entreprises/sanctions-contre-le-mali-une-victoire-juridique-pour-bamako-qui-bouscule-lalignement-uemoa-cedeao/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
