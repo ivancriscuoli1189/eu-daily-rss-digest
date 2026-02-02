@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Feb 2026, 09:34*
+*Generato: 02 Feb 2026, 18:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -277,19 +277,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : visite d’un haut responsable américain à Bamako pour renforcer la relation bilatérale](https://www.jeuneafrique.com/1761752/politique/mali-visite-dun-haut-responsable-americain-a-bamako-pour-renforcer-la-relation-bilaterale/)
+- [« Il faut y aller » : Laurent Nuñez est « attendu » en Algérie par Tebboune, assure Ségolène Royal](https://www.jeuneafrique.com/1761666/politique/il-faut-y-aller-laurent-nunez-est-attendu-en-algerie-par-tebboune-assure-segolene-royal/)
+- [RDC : l’aéroport de Kisangani ciblé par une attaque de « drones kamikazes »](https://www.jeuneafrique.com/1761648/politique/rdc-laeroport-de-kisangani-cible-par-une-attaque-de-drones-kamikazes/)
+- [Sénégal : la révision du procès Prodac, le pari risqué d’Ousmane Sonko – par Mehdi Ba](https://www.jeuneafrique.com/1757291/politique/senegal-la-revision-du-proces-prodac-le-pari-risque-dousmane-sonko-par-mehdi-ba/)
+- [Mali-France : quand Bamako accueillait François Hollande en héros](https://www.jeuneafrique.com/1760758/politique/mali-france-quand-bamako-accueillait-francois-hollande-en-heros/)
 - [RDC : un glissement de terrain sur la mine de Rubaya, contrôlée par l’AFC/M23, fait craindre « au moins 200 morts »](https://www.jeuneafrique.com/1761610/politique/rdc-un-glissement-de-terrain-sur-la-mine-de-rubaya-controlee-par-lafc-m23-fait-craindre-au-moins-200-morts/)
 - [Le Nigérien Abdourahamane Tiani remercie le grand frère russe](https://www.jeuneafrique.com/1761204/politique/le-nigerien-abdourahamane-tiani-remercie-le-grand-frere-russe/)
-- [L’Algérie lance un deuxième satellite pour renforcer la surveillance](https://www.jeuneafrique.com/1761604/politique/lalgerie-lance-un-deuxieme-satellite-pour-renforcer-la-surveillance/)
-- [Au Maroc et chez les autres pays participants, quels lendemains après la CAN ?](https://www.jeuneafrique.com/1758550/politique/au-maroc-et-chez-les-autres-pays-participants-quels-lendemains-apres-la-can/)
-- [Est de la RDC : éboulements meurtriers de la mine de coltan de Rubaya](https://www.jeuneafrique.com/1761591/politique/est-de-la-rdc-eboulements-meurtriers-de-la-mine-de-coltan-de-rubaya/)
-- [Organisation, affluence, sécurité : quel bilan pour la CAN marocaine ?](https://www.jeuneafrique.com/1758548/politique/organisation-affluence-securite-quel-bilan-pour-la-can-marocaine/)
-- [Métaphores zoologiques, infox, IA… Quand Ibrahim Traoré fait la guerre par les mots](https://www.jeuneafrique.com/1761538/politique/metaphores-zoologiques-infox-ia-quand-ibrahim-traore-fait-la-guerre-par-les-mots/)
-- [L’oléoduc entre le Niger et le Bénin, victime de la bataille diplomatique entre Tiani et Talon ?](https://www.jeuneafrique.com/1759999/politique/loleoduc-entre-le-niger-et-le-benin-victime-de-la-bataille-diplomatique-entre-talon-et-tiani/)
-- [Le Cameroun s’achète un répit grâce à une sortie réussie sur les marchés internationaux](https://www.jeuneafrique.com/1761510/economie-entreprises/le-cameroun-sachete-un-repit-grace-a-une-sortie-reussie-sur-les-marches-internationaux/)
-- [Sanctions contre le Mali : une victoire juridique pour Bamako qui bouscule l’alignement Uemoa-Cedeao](https://www.jeuneafrique.com/1761484/economie-entreprises/sanctions-contre-le-mali-une-victoire-juridique-pour-bamako-qui-bouscule-lalignement-uemoa-cedeao/)
+- [Côte d’Ivoire : les réseaux d’influence de Téné Birahima Ouattara, propulsé vice-Premier ministre](https://www.jeuneafrique.com/1760313/politique/cote-divoire-les-reseaux-dinfluence-de-tene-birahima-ouattara-propulse-vice-premier-ministre/)
+- [À Gara Djebilet, l’Algérie accélère son pari saharien grâce au chinois CRCC](https://www.jeuneafrique.com/1761621/economie-entreprises/a-gara-djebilet-lalgerie-accelere-son-pari-saharien-grace-au-chinois-crcc/)
+- [Pourquoi la crise du cacao fait vaciller le Ghana](https://www.jeuneafrique.com/1761285/economie-entreprises/pourquoi-la-crise-du-cacao-fait-vaciller-le-ghana/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
@@ -299,4 +300,3 @@
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
 - [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
 - [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
-- [Grandi orizzonti egiziani](https://www.limesonline.com/rubriche/mappe-parlanti/egitto-medio-oriente-orizzonti-20432401/)
