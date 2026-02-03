@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Feb 2026, 18:26*
+*Generato: 03 Feb 2026, 06:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Avec ou contre Biya : au Cameroun, Bello Bouba Maïgari a-t-il encore un avenir politique ?](https://www.jeuneafrique.com/1761617/politique/avec-ou-contre-biya-au-cameroun-bello-bouba-maigari-a-t-il-encore-un-avenir-politique/)
 - [Mali : visite d’un haut responsable américain à Bamako pour renforcer la relation bilatérale](https://www.jeuneafrique.com/1761752/politique/mali-visite-dun-haut-responsable-americain-a-bamako-pour-renforcer-la-relation-bilaterale/)
 - [« Il faut y aller » : Laurent Nuñez est « attendu » en Algérie par Tebboune, assure Ségolène Royal](https://www.jeuneafrique.com/1761666/politique/il-faut-y-aller-laurent-nunez-est-attendu-en-algerie-par-tebboune-assure-segolene-royal/)
 - [RDC : l’aéroport de Kisangani ciblé par une attaque de « drones kamikazes »](https://www.jeuneafrique.com/1761648/politique/rdc-laeroport-de-kisangani-cible-par-une-attaque-de-drones-kamikazes/)
@@ -284,9 +285,8 @@
 - [Mali-France : quand Bamako accueillait François Hollande en héros](https://www.jeuneafrique.com/1760758/politique/mali-france-quand-bamako-accueillait-francois-hollande-en-heros/)
 - [RDC : un glissement de terrain sur la mine de Rubaya, contrôlée par l’AFC/M23, fait craindre « au moins 200 morts »](https://www.jeuneafrique.com/1761610/politique/rdc-un-glissement-de-terrain-sur-la-mine-de-rubaya-controlee-par-lafc-m23-fait-craindre-au-moins-200-morts/)
 - [Le Nigérien Abdourahamane Tiani remercie le grand frère russe](https://www.jeuneafrique.com/1761204/politique/le-nigerien-abdourahamane-tiani-remercie-le-grand-frere-russe/)
-- [Côte d’Ivoire : les réseaux d’influence de Téné Birahima Ouattara, propulsé vice-Premier ministre](https://www.jeuneafrique.com/1760313/politique/cote-divoire-les-reseaux-dinfluence-de-tene-birahima-ouattara-propulse-vice-premier-ministre/)
+- [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
 - [À Gara Djebilet, l’Algérie accélère son pari saharien grâce au chinois CRCC](https://www.jeuneafrique.com/1761621/economie-entreprises/a-gara-djebilet-lalgerie-accelere-son-pari-saharien-grace-au-chinois-crcc/)
-- [Pourquoi la crise du cacao fait vaciller le Ghana](https://www.jeuneafrique.com/1761285/economie-entreprises/pourquoi-la-crise-du-cacao-fait-vaciller-le-ghana/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
