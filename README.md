@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Feb 2026, 12:30*
+*Generato: 03 Feb 2026, 13:55*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,7 +277,6 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Parlement tunisien, des députés décidés à s’opposer à l’exécutif](https://www.jeuneafrique.com/1761830/politique/au-parlement-tunisien-des-deputes-decides-a-sopposer-a-lexecutif/)
 - [Nouveau gouvernement en Guinée : des changements à la Justice, à la Sécurité et aux Finances](https://www.jeuneafrique.com/1761832/politique/nouveau-gouvernement-en-guinee-des-changements-a-la-justice-a-la-securite-et-aux-finances/)
 - [En Libye, trois soldats de Khalifa Haftar tués dans des combats à la frontière avec le Niger](https://www.jeuneafrique.com/1761823/politique/en-libye-trois-soldats-de-khalifa-haftar-tues-dans-des-combats-a-la-frontiere-avec-le-niger/)
 - [Mali : visite d’un haut responsable américain à Bamako pour renforcer la relation bilatérale](https://www.jeuneafrique.com/1761752/politique/mali-visite-dun-haut-responsable-americain-a-bamako-pour-renforcer-la-relation-bilaterale/)
@@ -285,8 +284,9 @@
 - [RDC : l’aéroport de Kisangani ciblé par une attaque de « drones kamikazes »](https://www.jeuneafrique.com/1761648/politique/rdc-laeroport-de-kisangani-cible-par-une-attaque-de-drones-kamikazes/)
 - [Haman Mana : « Paul Biya n’a jamais eu de projet de société pour le Cameroun »](https://www.jeuneafrique.com/1759028/politique/haman-mana-paul-biya-na-jamais-eu-de-projet-de-societe-pour-le-cameroun/)
 - [Sénégal : la révision du procès Prodac, le pari risqué d’Ousmane Sonko – par Mehdi Ba](https://www.jeuneafrique.com/1757291/politique/senegal-la-revision-du-proces-prodac-le-pari-risque-dousmane-sonko-par-mehdi-ba/)
+- [Mali-France : quand Bamako accueillait François Hollande en héros](https://www.jeuneafrique.com/1760758/politique/mali-france-quand-bamako-accueillait-francois-hollande-en-heros/)
+- [Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités](https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/)
 - [À Gara Djebilet, l’Algérie accélère son pari saharien grâce au chinois CRCC](https://www.jeuneafrique.com/1761621/economie-entreprises/a-gara-djebilet-lalgerie-accelere-son-pari-saharien-grace-au-chinois-crcc/)
-- [Fadi Wazni : « Notre ambition : devenir un acteur majeur de l’ensemble de la filière aluminium »](https://www.jeuneafrique.com/1757698/economie-entreprises/fadi-wazni-notre-ambition-devenir-un-acteur-majeur-de-lensemble-de-la-filiere-aluminium/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
