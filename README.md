@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Feb 2026, 06:35*
+*Generato: 03 Feb 2026, 09:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Avec ou contre Biya : au Cameroun, Bello Bouba Maïgari a-t-il encore un avenir politique ?](https://www.jeuneafrique.com/1761617/politique/avec-ou-contre-biya-au-cameroun-bello-bouba-maigari-a-t-il-encore-un-avenir-politique/)
+- [Nouveau gouvernement en Guinée : des changements à la Justice, à la Sécurité et aux Finances](https://www.jeuneafrique.com/1761832/politique/nouveau-gouvernement-en-guinee-des-changements-a-la-justice-a-la-securite-et-aux-finances/)
+- [En Libye, trois soldats de Khalifa Haftar tués dans des combats à la frontière avec le Niger](https://www.jeuneafrique.com/1761823/politique/en-libye-trois-soldats-de-khalifa-haftar-tues-dans-des-combats-a-la-frontiere-avec-le-niger/)
 - [Mali : visite d’un haut responsable américain à Bamako pour renforcer la relation bilatérale](https://www.jeuneafrique.com/1761752/politique/mali-visite-dun-haut-responsable-americain-a-bamako-pour-renforcer-la-relation-bilaterale/)
 - [« Il faut y aller » : Laurent Nuñez est « attendu » en Algérie par Tebboune, assure Ségolène Royal](https://www.jeuneafrique.com/1761666/politique/il-faut-y-aller-laurent-nunez-est-attendu-en-algerie-par-tebboune-assure-segolene-royal/)
 - [RDC : l’aéroport de Kisangani ciblé par une attaque de « drones kamikazes »](https://www.jeuneafrique.com/1761648/politique/rdc-laeroport-de-kisangani-cible-par-une-attaque-de-drones-kamikazes/)
+- [Haman Mana : « Paul Biya n’a jamais eu de projet de société pour le Cameroun »](https://www.jeuneafrique.com/1759028/politique/haman-mana-paul-biya-na-jamais-eu-de-projet-de-societe-pour-le-cameroun/)
 - [Sénégal : la révision du procès Prodac, le pari risqué d’Ousmane Sonko – par Mehdi Ba](https://www.jeuneafrique.com/1757291/politique/senegal-la-revision-du-proces-prodac-le-pari-risque-dousmane-sonko-par-mehdi-ba/)
 - [Mali-France : quand Bamako accueillait François Hollande en héros](https://www.jeuneafrique.com/1760758/politique/mali-france-quand-bamako-accueillait-francois-hollande-en-heros/)
-- [RDC : un glissement de terrain sur la mine de Rubaya, contrôlée par l’AFC/M23, fait craindre « au moins 200 morts »](https://www.jeuneafrique.com/1761610/politique/rdc-un-glissement-de-terrain-sur-la-mine-de-rubaya-controlee-par-lafc-m23-fait-craindre-au-moins-200-morts/)
-- [Le Nigérien Abdourahamane Tiani remercie le grand frère russe](https://www.jeuneafrique.com/1761204/politique/le-nigerien-abdourahamane-tiani-remercie-le-grand-frere-russe/)
-- [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
 - [À Gara Djebilet, l’Algérie accélère son pari saharien grâce au chinois CRCC](https://www.jeuneafrique.com/1761621/economie-entreprises/a-gara-djebilet-lalgerie-accelere-son-pari-saharien-grace-au-chinois-crcc/)
+- [Fadi Wazni : « Notre ambition : devenir un acteur majeur de l’ensemble de la filière aluminium »](https://www.jeuneafrique.com/1757698/economie-entreprises/fadi-wazni-notre-ambition-devenir-un-acteur-majeur-de-lensemble-de-la-filiere-aluminium/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
