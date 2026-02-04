@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 11:25*
+*Generato: 04 Feb 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -236,19 +236,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
-- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
-- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
-- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
-- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
-- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -278,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
+- [Libye : Seif el-Islam Kadhafi est mort](https://www.jeuneafrique.com/1762179/politique/libye-seif-al-islam-kadhafi-annonce-mort/)
 - [Crise du cacao en Côte d’Ivoire : deux leaders syndicalistes poursuivis pour diffamation](https://www.jeuneafrique.com/1762015/politique/crise-du-cacao-en-cote-divoire-deux-leaders-syndicalistes-poursuivis-pour-diffamation/)
 - [Jeune Afrique suspendu au Mali : comment contourner la censure](https://www.jeuneafrique.com/1762043/politique/jeune-afrique-suspendu-au-mali-comment-contourner-la-censure/)
+- [Extradition de Madiambal Diagne : pourquoi sa défense et le Parquet général s’opposent](https://www.jeuneafrique.com/1761955/politique/extradition-de-madiambal-diagne-pourquoi-sa-defense-et-le-parquet-general-sopposent/)
 - [Le Mali rappelle l’obligation du permis de port d’armes biométrique](https://www.jeuneafrique.com/1761880/politique/le-mali-rappelle-lobligation-du-permis-de-port-darmes-biometrique/)
 - [En Tunisie, Rached Ghannouchi condamné à 20 ans de prison supplémentaires](https://www.jeuneafrique.com/1761934/politique/en-tunisie-rached-ghannouchi-condamne-a-20-ans-de-prison-supplementaires/)
 - [Au Parlement tunisien, des députés décidés à s’opposer à l’exécutif](https://www.jeuneafrique.com/1761830/politique/au-parlement-tunisien-des-deputes-decides-a-sopposer-a-lexecutif/)
-- [Nouveau gouvernement en Guinée : des changements à la Justice, à la Sécurité et aux Finances](https://www.jeuneafrique.com/1761832/politique/nouveau-gouvernement-en-guinee-des-changements-a-la-justice-a-la-securite-et-aux-finances/)
-- [En Libye, trois soldats de Khalifa Haftar tués dans des combats à la frontière avec le Niger](https://www.jeuneafrique.com/1761823/politique/en-libye-trois-soldats-de-khalifa-haftar-tues-dans-des-combats-a-la-frontiere-avec-le-niger/)
 - [Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités](https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/)
 - [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
 
