@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 15:31*
+*Generato: 04 Feb 2026, 18:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -186,9 +186,9 @@
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
 - [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
 - [Tunisia: Authorities must immediately drop charges against humanitarian workers facing bogus criminal trial](https://www.amnesty.org/en/latest/news/2025/12/tunisia-drop-charges-against-ngo-workers-facing-bogus-criminal-trial/)
-- [Global: Amnesty International’s annual letter-writing campaign demonstrates how humanity can win](https://www.amnesty.org/en/latest/news/2025/12/global-amnesty-internationals-annual-letter-writing-campaign-demonstrates-how-humanity-can-win/)
 - [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
@@ -285,8 +285,8 @@
 - [Extradition de Madiambal Diagne : pourquoi sa défense et le Parquet général s’opposent](https://www.jeuneafrique.com/1761955/politique/extradition-de-madiambal-diagne-pourquoi-sa-defense-et-le-parquet-general-sopposent/)
 - [Le Mali rappelle l’obligation du permis de port d’armes biométrique](https://www.jeuneafrique.com/1761880/politique/le-mali-rappelle-lobligation-du-permis-de-port-darmes-biometrique/)
 - [En Tunisie, Rached Ghannouchi condamné à 20 ans de prison supplémentaires](https://www.jeuneafrique.com/1761934/politique/en-tunisie-rached-ghannouchi-condamne-a-20-ans-de-prison-supplementaires/)
-- [Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités](https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/)
-- [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
+- [Jean-Fidèle Otandault : « Le principal enjeu pour les économies africaines, ce n’est pas le niveau de la dette, c’est son coût »](https://www.jeuneafrique.com/1761944/economie-entreprises/jean-fidele-otandault-le-principal-enjeu-pour-les-economies-africaines-ce-nest-pas-le-niveau-de-la-dette-cest-son-cout/)
+- [Cameroun : comment le clan Moudiki a verrouillé son emprise sur la SNH](https://www.jeuneafrique.com/1761807/economie-entreprises/cameroun-comment-le-clan-moudiki-a-verrouille-son-emprise-sur-la-snh/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
