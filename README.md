@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 13:54*
+*Generato: 04 Feb 2026, 15:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU-US trade legislation: MEPs to resume work on Turnberry proposals](https://www.europarl.europa.eu/news/en/press-room/20260204IPR33305/eu-us-trade-legislation-meps-to-resume-work-on-turnberry-proposals)
 - [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
@@ -91,7 +92,6 @@
 - [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
 - [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
-- [Parliament rejects motion of censure against European Commission](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32439/parliament-rejects-motion-of-censure-against-european-commission)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun et au-delà, la Russie favorise aussi l’implantation de son Église orthodoxe](https://www.jeuneafrique.com/1762266/politique/au-cameroun-et-au-dela-la-russie-favorise-aussi-limplantation-de-son-eglise-orthodoxe/)
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Libye : Seif el-Islam Kadhafi est mort](https://www.jeuneafrique.com/1762179/politique/libye-seif-al-islam-kadhafi-annonce-mort/)
 - [Crise du cacao en Côte d’Ivoire : deux leaders syndicalistes poursuivis pour diffamation](https://www.jeuneafrique.com/1762015/politique/crise-du-cacao-en-cote-divoire-deux-leaders-syndicalistes-poursuivis-pour-diffamation/)
@@ -284,7 +285,6 @@
 - [Extradition de Madiambal Diagne : pourquoi sa défense et le Parquet général s’opposent](https://www.jeuneafrique.com/1761955/politique/extradition-de-madiambal-diagne-pourquoi-sa-defense-et-le-parquet-general-sopposent/)
 - [Le Mali rappelle l’obligation du permis de port d’armes biométrique](https://www.jeuneafrique.com/1761880/politique/le-mali-rappelle-lobligation-du-permis-de-port-darmes-biometrique/)
 - [En Tunisie, Rached Ghannouchi condamné à 20 ans de prison supplémentaires](https://www.jeuneafrique.com/1761934/politique/en-tunisie-rached-ghannouchi-condamne-a-20-ans-de-prison-supplementaires/)
-- [Au Parlement tunisien, des députés décidés à s’opposer à l’exécutif](https://www.jeuneafrique.com/1761830/politique/au-parlement-tunisien-des-deputes-decides-a-sopposer-a-lexecutif/)
 - [Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités](https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/)
 - [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
 
