@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 09:31*
+*Generato: 04 Feb 2026, 11:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Crise du cacao en Côte d’Ivoire : deux leaders syndicalistes poursuivis pour diffamation](https://www.jeuneafrique.com/1762015/politique/crise-du-cacao-en-cote-divoire-deux-leaders-syndicalistes-poursuivis-pour-diffamation/)
 - [Jeune Afrique suspendu au Mali : comment contourner la censure](https://www.jeuneafrique.com/1762043/politique/jeune-afrique-suspendu-au-mali-comment-contourner-la-censure/)
 - [Le Mali rappelle l’obligation du permis de port d’armes biométrique](https://www.jeuneafrique.com/1761880/politique/le-mali-rappelle-lobligation-du-permis-de-port-darmes-biometrique/)
@@ -284,7 +285,6 @@
 - [Au Parlement tunisien, des députés décidés à s’opposer à l’exécutif](https://www.jeuneafrique.com/1761830/politique/au-parlement-tunisien-des-deputes-decides-a-sopposer-a-lexecutif/)
 - [Nouveau gouvernement en Guinée : des changements à la Justice, à la Sécurité et aux Finances](https://www.jeuneafrique.com/1761832/politique/nouveau-gouvernement-en-guinee-des-changements-a-la-justice-a-la-securite-et-aux-finances/)
 - [En Libye, trois soldats de Khalifa Haftar tués dans des combats à la frontière avec le Niger](https://www.jeuneafrique.com/1761823/politique/en-libye-trois-soldats-de-khalifa-haftar-tues-dans-des-combats-a-la-frontiere-avec-le-niger/)
-- [Mamadou Touré : « Le président Ouattara travaille à un grand parti capable de gouverner pour les 25 prochaines années »](https://www.jeuneafrique.com/1755639/politique/mamadou-toure-le-president-ouattara-travaille-a-un-grand-parti-capable-de-gouverner-pour-les-25-prochaines-annees/)
 - [Baromètre Deloitte-AFIS : comment les financiers africains redéfinissent leurs priorités](https://www.jeuneafrique.com/1761278/economie-entreprises/barometre-deloitte-afis-comment-les-financiers-africains-redefinissent-leurs-priorites/)
 - [Dans la Copperbelt, KoBold Metals teste la reconquête minière américaine en Afrique](https://www.jeuneafrique.com/1755434/economie-entreprises/dans-la-copperbelt-kobold-metals-teste-la-reconquete-miniere-americaine-en-afrique/)
 
