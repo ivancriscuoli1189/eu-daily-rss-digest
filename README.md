@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 12:29*
+*Generato: 04 Feb 2026, 13:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -235,6 +235,19 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
+
+## THINK TANK – ECFR – MENA
+
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
+- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
+- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
+- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
+- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
+- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 
 ## THINK TANK – CESPI – Attualità
 
