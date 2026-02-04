@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Feb 2026, 21:23*
+*Generato: 04 Feb 2026, 06:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 - [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
 - [Protect copyrighted work used by generative AI, say Legal Affairs MEPs](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32636/protect-copyrighted-work-used-by-generative-ai-say-legal-affairs-meps)
@@ -91,7 +92,6 @@
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
 - [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
 - [Parliament rejects motion of censure against European Commission](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32439/parliament-rejects-motion-of-censure-against-european-commission)
-- [EP leaders reject the visa ban imposed on former Commissioner Breton](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32567/ep-leaders-reject-the-visa-ban-imposed-on-former-commissioner-breton)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
