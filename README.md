@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 15:30*
+*Generato: 05 Feb 2026, 18:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -145,32 +145,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -238,6 +212,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
 - [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
@@ -246,7 +221,6 @@
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
 - [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-- [One year after Assad: Syria’s struggle for security, recovery and reform](https://ecfr.eu/podcasts/episode/one-year-after-assad-syrias-struggle-for-security-recovery-and-reform/)
 - [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 
 ## THINK TANK – CESPI – Attualità
@@ -274,6 +248,19 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
+
+## MAGAZINES – Jeune Afrique
+
+- [Après un des pires massacres de l’histoire du Nigeria, Bola Tinubu déploie l’armée](https://www.jeuneafrique.com/1762719/politique/apres-un-des-pires-massacres-de-lhistoire-du-nigeria-bola-tinubu-deploie-larmee/)
+- [Au Niger, Nathalie Yamb, la « chevalière de Niamey », se pose en « soldate » aux côtés d’Abdourahamane Tiani](https://www.jeuneafrique.com/1762649/politique/au-niger-nathalie-yamb-la-chevaliere-de-niamey-se-pose-en-soldate-aux-cotes-dabdourahamane-tiani/)
+- [Proches de Denis Sassou Nguesso accusés de corruption : le ministre Thierry Moungalla dénonce une « entreprise de démolition permanente »](https://www.jeuneafrique.com/1762586/politique/proches-de-denis-sassou-nguesso-accuses-de-corruption-le-ministre-thierry-moungalla-denonce-une-entreprise-de-demolition-permanente/)
+- [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
+- [Maroc : Mohamed Chaouki, improbable héritier d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1762189/politique/maroc-mohamed-chaouki-improbable-heritier-daziz-akhannouch-a-la-tete-du-rni/)
+- [En Guinée, comment le Premier ministre veut muscler le futur parti de Doumbouya](https://www.jeuneafrique.com/1762218/politique/en-guinee-comment-le-premier-ministre-veut-muscler-le-futur-parti-de-doumbouya/)
+- [RDC : avec l’attaque de l’aéroport de Kisangani, l’AFC/M23 intensifie la bataille de l’air](https://www.jeuneafrique.com/1762393/politique/rdc-avec-lattaque-de-laeroport-de-kisangani-lafc-m23-intensifie-la-bataille-de-lair/)
+- [Dissolution des partis au Burkina Faso : comment la classe politique tente de s’organiser](https://www.jeuneafrique.com/1762428/politique/dissolution-des-partis-au-burkina-faso-comment-la-classe-politique-tente-de-sorganiser/)
+- [Dans le bras de fer entre Orano et le Niger, c’est au tour de Niamey de porter plainte](https://www.jeuneafrique.com/1762573/economie-entreprises/dans-le-bras-de-fer-entre-orano-et-le-niger-cest-au-tour-de-niamey-de-porter-plainte/)
+- [États-Unis ‒ Afrique : ce que l’on sait du nouveau fonds de Trump pour les minerais critiques](https://www.jeuneafrique.com/1762435/economie-entreprises/etats-unis-92-afrique-ce-que-lon-sait-du-nouveau-fonds-de-trump-pour-les-minerais-critiques/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
