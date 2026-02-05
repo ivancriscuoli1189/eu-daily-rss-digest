@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 13:58*
+*Generato: 05 Feb 2026, 15:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33606/press-briefing-on-next-week-s-plenary-session)
 - [EU-US trade legislation: MEPs to resume work on Turnberry proposals](https://www.europarl.europa.eu/news/en/press-room/20260204IPR33305/eu-us-trade-legislation-meps-to-resume-work-on-turnberry-proposals)
 - [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
@@ -91,7 +92,6 @@
 - [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
 - [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 - [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
-- [Human rights violations in Honduras, the Central African Republic and Hong Kong](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32447/human-rights-violations-in-honduras-the-central-african-republic-and-hong-kong)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -274,19 +274,6 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
-
-## MAGAZINES – Jeune Afrique
-
-- [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
-- [RDC : avec l’attaque de l’aéroport de Kisangani, l’AFC/M23 intensifie la bataille de l’air](https://www.jeuneafrique.com/1762393/politique/rdc-avec-lattaque-de-laeroport-de-kisangani-lafc-m23-intensifie-la-bataille-de-lair/)
-- [Dissolution des partis au Burkina Faso : comment la classe politique tente de s’organiser](https://www.jeuneafrique.com/1762428/politique/dissolution-des-partis-au-burkina-faso-comment-la-classe-politique-tente-de-sorganiser/)
-- [Côte d’Ivoire : Naya Jarvis Zamblé, la benjamine de l’Assemblée qui veut légaliser la polygamie](https://www.jeuneafrique.com/1762338/politique/cote-divoire-naya-jarvis-zamble-la-benjamine-de-lassemblee-qui-veut-legaliser-la-polygamie/)
-- [Au Cameroun et au-delà, la Russie favorise aussi l’implantation de son Église orthodoxe](https://www.jeuneafrique.com/1762266/politique/au-cameroun-et-au-dela-la-russie-favorise-aussi-limplantation-de-son-eglise-orthodoxe/)
-- [Libye : qui avait intérêt à assassiner Seif el-Islam Kadhafi ?](https://www.jeuneafrique.com/1762263/politique/libye-qui-avait-interet-a-assassiner-seif-el-islam-kadhafi/)
-- [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
-- [Crise du carburant au Mali : pourquoi Doumbouya ne peut pas vraiment secourir Goïta](https://www.jeuneafrique.com/1761976/politique/crise-du-carburant-au-mali-pourquoi-doumbouya-ne-peut-pas-vraiment-secourir-goita/)
-- [Dans le bras de fer entre Orano et le Niger, c’est au tour de Niamey de porter plainte](https://www.jeuneafrique.com/1762573/economie-entreprises/dans-le-bras-de-fer-entre-orano-et-le-niger-cest-au-tour-de-niamey-de-porter-plainte/)
-- [Sand To Green, la start-up marocaine qui réinvente l’agriculture durable grâce à la tech](https://www.jeuneafrique.com/1761895/economie-entreprises/sand-to-green-la-start-up-marocaine-qui-reinvente-lagriculture-durable-grace-a-la-tech/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
