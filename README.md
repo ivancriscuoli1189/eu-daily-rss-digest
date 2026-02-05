@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 11:26*
+*Generato: 05 Feb 2026, 12:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
-- [Commerce Extérieur aux prix courants, Septembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-septembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -278,13 +278,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
+- [RDC : avec l’attaque de l’aéroport de Kisangani, l’AFC/M23 intensifie la bataille de l’air](https://www.jeuneafrique.com/1762393/politique/rdc-avec-lattaque-de-laeroport-de-kisangani-lafc-m23-intensifie-la-bataille-de-lair/)
 - [Dissolution des partis au Burkina Faso : comment la classe politique tente de s’organiser](https://www.jeuneafrique.com/1762428/politique/dissolution-des-partis-au-burkina-faso-comment-la-classe-politique-tente-de-sorganiser/)
+- [Côte d’Ivoire : Naya Jarvis Zamblé, la benjamine de l’Assemblée qui veut légaliser la polygamie](https://www.jeuneafrique.com/1762338/politique/cote-divoire-naya-jarvis-zamble-la-benjamine-de-lassemblee-qui-veut-legaliser-la-polygamie/)
 - [Au Cameroun et au-delà, la Russie favorise aussi l’implantation de son Église orthodoxe](https://www.jeuneafrique.com/1762266/politique/au-cameroun-et-au-dela-la-russie-favorise-aussi-limplantation-de-son-eglise-orthodoxe/)
 - [Libye : qui avait intérêt à assassiner Seif el-Islam Kadhafi ?](https://www.jeuneafrique.com/1762263/politique/libye-qui-avait-interet-a-assassiner-seif-el-islam-kadhafi/)
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Crise du carburant au Mali : pourquoi Doumbouya ne peut pas vraiment secourir Goïta](https://www.jeuneafrique.com/1761976/politique/crise-du-carburant-au-mali-pourquoi-doumbouya-ne-peut-pas-vraiment-secourir-goita/)
-- [Port de Douala : Paul Biya ordonne une enquête sur son chef d’état-major particulier](https://www.jeuneafrique.com/1762018/politique/port-de-douala-paul-biya-ordonne-une-enquete-sur-son-chef-detat-major-particulier/)
-- [Libye : Seif el-Islam Kadhafi est mort](https://www.jeuneafrique.com/1762179/politique/libye-seif-al-islam-kadhafi-annonce-mort/)
 - [Sand To Green, la start-up marocaine qui réinvente l’agriculture durable grâce à la tech](https://www.jeuneafrique.com/1761895/economie-entreprises/sand-to-green-la-start-up-marocaine-qui-reinvente-lagriculture-durable-grace-a-la-tech/)
 - [Félix Amenounve, l’architecte togolais de la finance ouest-africaine](https://www.jeuneafrique.com/1761191/economie-entreprises/felix-amenounve-larchitecte-togolais-de-la-finance-ouest-africaine/)
 
