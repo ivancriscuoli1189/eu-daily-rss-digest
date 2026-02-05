@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Feb 2026, 21:23*
+*Generato: 05 Feb 2026, 06:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, comment le Premier ministre veut muscler le futur parti de Doumbouya](https://www.jeuneafrique.com/1762218/politique/en-guinee-comment-le-premier-ministre-veut-muscler-le-futur-parti-de-doumbouya/)
 - [Au Cameroun et au-delà, la Russie favorise aussi l’implantation de son Église orthodoxe](https://www.jeuneafrique.com/1762266/politique/au-cameroun-et-au-dela-la-russie-favorise-aussi-limplantation-de-son-eglise-orthodoxe/)
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Port de Douala : Paul Biya ordonne une enquête sur son chef d’état-major particulier](https://www.jeuneafrique.com/1762018/politique/port-de-douala-paul-biya-ordonne-une-enquete-sur-son-chef-detat-major-particulier/)
@@ -284,7 +285,6 @@
 - [Crise du cacao en Côte d’Ivoire : deux leaders syndicalistes poursuivis pour diffamation](https://www.jeuneafrique.com/1762015/politique/crise-du-cacao-en-cote-divoire-deux-leaders-syndicalistes-poursuivis-pour-diffamation/)
 - [Jeune Afrique suspendu au Mali : comment contourner la censure](https://www.jeuneafrique.com/1762043/politique/jeune-afrique-suspendu-au-mali-comment-contourner-la-censure/)
 - [Extradition de Madiambal Diagne : pourquoi sa défense et le Parquet général s’opposent](https://www.jeuneafrique.com/1761955/politique/extradition-de-madiambal-diagne-pourquoi-sa-defense-et-le-parquet-general-sopposent/)
-- [Le Mali rappelle l’obligation du permis de port d’armes biométrique](https://www.jeuneafrique.com/1761880/politique/le-mali-rappelle-lobligation-du-permis-de-port-darmes-biometrique/)
 - [Jean-Fidèle Otandault : « Le principal enjeu pour les économies africaines, ce n’est pas le niveau de la dette, c’est son coût »](https://www.jeuneafrique.com/1761944/economie-entreprises/jean-fidele-otandault-le-principal-enjeu-pour-les-economies-africaines-ce-nest-pas-le-niveau-de-la-dette-cest-son-cout/)
 - [Cameroun : comment le clan Moudiki a verrouillé son emprise sur la SNH](https://www.jeuneafrique.com/1761807/economie-entreprises/cameroun-comment-le-clan-moudiki-a-verrouille-son-emprise-sur-la-snh/)
 
