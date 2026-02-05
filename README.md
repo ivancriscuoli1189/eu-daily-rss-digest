@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 09:32*
+*Generato: 05 Feb 2026, 11:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد بدر عبد العاطي وزير الخارجية والهجرة وشؤون المصريين بالخارج لجمهورية مصر العربية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد أحمد عطاف وزير الدولة، وزير الشؤون الخارجية والجالية الوطنية بالخارج والشؤون الإفريقية للجمهورية الجزائرية الديمقراطية الشعبية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%B7%D8%A7%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9)
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 - [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
 - [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
-- [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
-- [Tunisia: End arbitrary criminal proceedings against Tunisian judges’ association President Anas Hmedi](https://www.icj.org/tunisia-end-arbitrary-criminal-proceedings-against-tunisian-judges-association-president-anas-hmedi/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -278,15 +278,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
+- [Dissolution des partis au Burkina Faso : comment la classe politique tente de s’organiser](https://www.jeuneafrique.com/1762428/politique/dissolution-des-partis-au-burkina-faso-comment-la-classe-politique-tente-de-sorganiser/)
 - [Au Cameroun et au-delà, la Russie favorise aussi l’implantation de son Église orthodoxe](https://www.jeuneafrique.com/1762266/politique/au-cameroun-et-au-dela-la-russie-favorise-aussi-limplantation-de-son-eglise-orthodoxe/)
 - [Libye : qui avait intérêt à assassiner Seif el-Islam Kadhafi ?](https://www.jeuneafrique.com/1762263/politique/libye-qui-avait-interet-a-assassiner-seif-el-islam-kadhafi/)
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Crise du carburant au Mali : pourquoi Doumbouya ne peut pas vraiment secourir Goïta](https://www.jeuneafrique.com/1761976/politique/crise-du-carburant-au-mali-pourquoi-doumbouya-ne-peut-pas-vraiment-secourir-goita/)
 - [Port de Douala : Paul Biya ordonne une enquête sur son chef d’état-major particulier](https://www.jeuneafrique.com/1762018/politique/port-de-douala-paul-biya-ordonne-une-enquete-sur-son-chef-detat-major-particulier/)
 - [Libye : Seif el-Islam Kadhafi est mort](https://www.jeuneafrique.com/1762179/politique/libye-seif-al-islam-kadhafi-annonce-mort/)
-- [Crise du cacao en Côte d’Ivoire : deux leaders syndicalistes poursuivis pour diffamation](https://www.jeuneafrique.com/1762015/politique/crise-du-cacao-en-cote-divoire-deux-leaders-syndicalistes-poursuivis-pour-diffamation/)
 - [Sand To Green, la start-up marocaine qui réinvente l’agriculture durable grâce à la tech](https://www.jeuneafrique.com/1761895/economie-entreprises/sand-to-green-la-start-up-marocaine-qui-reinvente-lagriculture-durable-grace-a-la-tech/)
-- [Jean-Fidèle Otandault : « Le principal enjeu pour les économies africaines, ce n’est pas le niveau de la dette, c’est son coût »](https://www.jeuneafrique.com/1761944/economie-entreprises/jean-fidele-otandault-le-principal-enjeu-pour-les-economies-africaines-ce-nest-pas-le-niveau-de-la-dette-cest-son-cout/)
+- [Félix Amenounve, l’architecte togolais de la finance ouest-africaine](https://www.jeuneafrique.com/1761191/economie-entreprises/felix-amenounve-larchitecte-togolais-de-la-finance-ouest-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
