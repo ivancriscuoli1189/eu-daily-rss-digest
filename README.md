@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 12:30*
+*Generato: 05 Feb 2026, 13:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -49,8 +49,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -285,8 +285,8 @@
 - [Libye : qui avait intérêt à assassiner Seif el-Islam Kadhafi ?](https://www.jeuneafrique.com/1762263/politique/libye-qui-avait-interet-a-assassiner-seif-el-islam-kadhafi/)
 - [Duel RDC-Rwanda pour la tête de l’OIF : la ministre française de la Francophonie s’invite dans le débat](https://www.jeuneafrique.com/1762194/politique/duel-rdc-rwanda-pour-la-tete-de-loif-la-ministre-francaise-de-la-francophonie-sinvite-dans-le-debat/)
 - [Crise du carburant au Mali : pourquoi Doumbouya ne peut pas vraiment secourir Goïta](https://www.jeuneafrique.com/1761976/politique/crise-du-carburant-au-mali-pourquoi-doumbouya-ne-peut-pas-vraiment-secourir-goita/)
+- [Dans le bras de fer entre Orano et le Niger, c’est au tour de Niamey de porter plainte](https://www.jeuneafrique.com/1762573/economie-entreprises/dans-le-bras-de-fer-entre-orano-et-le-niger-cest-au-tour-de-niamey-de-porter-plainte/)
 - [Sand To Green, la start-up marocaine qui réinvente l’agriculture durable grâce à la tech](https://www.jeuneafrique.com/1761895/economie-entreprises/sand-to-green-la-start-up-marocaine-qui-reinvente-lagriculture-durable-grace-a-la-tech/)
-- [Félix Amenounve, l’architecte togolais de la finance ouest-africaine](https://www.jeuneafrique.com/1761191/economie-entreprises/felix-amenounve-larchitecte-togolais-de-la-finance-ouest-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
