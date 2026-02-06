@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Feb 2026, 15:29*
+*Generato: 06 Feb 2026, 18:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Trump reposte une vidéo raciste des Obama représentés en singe](https://www.jeuneafrique.com/1763107/politique/trump-reposte-une-video-raciste-des-obama-representes-en-singe/)
+- [Libye : Seif el-Islam Kadhafi inhumé en présence de milliers de partisans](https://www.jeuneafrique.com/1763202/politique/libye-seif-el-islam-kadhafi-inhume-en-presence-de-milliers-de-partisans/)
 - [RDC : l’attaque de l’AFC/M23 à Kisangani est un possible « acte terroriste », dénonce l’Union africaine](https://www.jeuneafrique.com/1762953/politique/rdc-lattaque-de-lafc-m23-a-kisangani-est-un-possible-acte-terroriste-denonce-lunion-africaine/)
 - [Boualem Sansal évoque des « rumeurs » sur sa déchéance de nationalité algérienne](https://www.jeuneafrique.com/1762907/politique/boualem-sansal-evoque-des-rumeurs-sur-sa-decheance-de-nationalite-algerienne/)
 - [Au Mali, Youssouf Sissoko, directeur du journal L’Alternance, arrêté pour avoir critiqué le général Tiani](https://www.jeuneafrique.com/1762899/politique/au-mali-youssouf-sissoko-directeur-du-journal-lalternance-arrete-pour-avoir-critique-le-general-tiani/)
+- [De Patrice Lumumba à Constant Mutamba, Tiken Jah Fakoly à l’ère de la post-vérité](https://www.jeuneafrique.com/1762601/politique/de-patrice-lumumba-a-constant-mutamba-tiken-jah-fakoly-a-lere-de-la-post-verite/)
 - [« Le jour où ils ont tué Chokri Belaïd », par Nizar Snoussi](https://www.jeuneafrique.com/1755617/politique/le-jour-ou-ils-ont-tue-chokri-belaid-par-nizar-snoussi/)
 - [Présidentielle au Congo : Denis Sassou Nguesso officiellement candidat à un cinquième mandat](https://www.jeuneafrique.com/1762751/politique/presidentielle-au-congo-denis-sassou-nguesso-officiellement-candidat-a-un-cinquieme-mandat/)
-- [Après un des pires massacres de l’histoire du Nigeria, Bola Tinubu déploie l’armée](https://www.jeuneafrique.com/1762719/politique/apres-un-des-pires-massacres-de-lhistoire-du-nigeria-bola-tinubu-deploie-larmee/)
-- [Au Niger, Nathalie Yamb, la « chevalière de Niamey », se pose en « soldate » aux côtés d’Abdourahamane Tiani](https://www.jeuneafrique.com/1762649/politique/au-niger-nathalie-yamb-la-chevaliere-de-niamey-se-pose-en-soldate-aux-cotes-dabdourahamane-tiani/)
-- [Proches de Denis Sassou Nguesso accusés de corruption : le ministre Thierry Moungalla dénonce une « entreprise de démolition permanente »](https://www.jeuneafrique.com/1762586/politique/proches-de-denis-sassou-nguesso-accuses-de-corruption-le-ministre-thierry-moungalla-denonce-une-entreprise-de-demolition-permanente/)
-- [Starlink en Afrique : quels sont les pays connectés ?](https://www.jeuneafrique.com/1762708/economie-entreprises/starlink-en-afrique-quels-sont-les-pays-connectes/)
-- [Cuivre, cobalt, zinc : ce qu’il faut retenir de la visite express de Tshisekedi à Washington](https://www.jeuneafrique.com/1762614/economie-entreprises/cuivre-cobalt-zinc-ce-quil-faut-retenir-de-la-visite-express-de-tshisekedi-a-washington/)
+- [MCB, la banque mauricienne qui veut capter la ruée vers les minerais africains](https://www.jeuneafrique.com/1762665/economie-entreprises/mcb-la-banque-mauricienne-qui-veut-capter-la-ruee-vers-les-minerais-africains/)
+- [Flambée des cours de l’or : les pays producteurs africains en profitent-ils vraiment ?](https://www.jeuneafrique.com/1762668/economie-entreprises/flambee-des-cours-de-lor-les-pays-producteurs-africains-en-profitent-ils-vraiment/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
