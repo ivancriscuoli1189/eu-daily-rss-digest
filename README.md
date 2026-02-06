@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Feb 2026, 09:31*
+*Generato: 06 Feb 2026, 11:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Boualem Sansal évoque des « rumeurs » sur sa déchéance de nationalité algérienne](https://www.jeuneafrique.com/1762907/politique/boualem-sansal-evoque-des-rumeurs-sur-sa-decheance-de-nationalite-algerienne/)
 - [Au Mali, Youssouf Sissoko, directeur du journal L’Alternance, arrêté pour avoir critiqué le général Tiani](https://www.jeuneafrique.com/1762899/politique/au-mali-youssouf-sissoko-directeur-du-journal-lalternance-arrete-pour-avoir-critique-le-general-tiani/)
 - [Après un des pires massacres de l’histoire du Nigeria, Bola Tinubu déploie l’armée](https://www.jeuneafrique.com/1762719/politique/apres-un-des-pires-massacres-de-lhistoire-du-nigeria-bola-tinubu-deploie-larmee/)
 - [Au Niger, Nathalie Yamb, la « chevalière de Niamey », se pose en « soldate » aux côtés d’Abdourahamane Tiani](https://www.jeuneafrique.com/1762649/politique/au-niger-nathalie-yamb-la-chevaliere-de-niamey-se-pose-en-soldate-aux-cotes-dabdourahamane-tiani/)
@@ -284,7 +285,6 @@
 - [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
 - [Maroc : Mohamed Chaouki, improbable héritier d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1762189/politique/maroc-mohamed-chaouki-improbable-heritier-daziz-akhannouch-a-la-tete-du-rni/)
 - [En Guinée, comment le Premier ministre veut muscler le futur parti de Doumbouya](https://www.jeuneafrique.com/1762218/politique/en-guinee-comment-le-premier-ministre-veut-muscler-le-futur-parti-de-doumbouya/)
-- [RDC : avec l’attaque de l’aéroport de Kisangani, l’AFC/M23 intensifie la bataille de l’air](https://www.jeuneafrique.com/1762393/politique/rdc-avec-lattaque-de-laeroport-de-kisangani-lafc-m23-intensifie-la-bataille-de-lair/)
 - [Starlink en Afrique : quels sont les pays connectés ?](https://www.jeuneafrique.com/1762708/economie-entreprises/starlink-en-afrique-quels-sont-les-pays-connectes/)
 - [Cuivre, cobalt, zinc : ce qu’il faut retenir de la visite express de Tshisekedi à Washington](https://www.jeuneafrique.com/1762614/economie-entreprises/cuivre-cobalt-zinc-ce-quil-faut-retenir-de-la-visite-express-de-tshisekedi-a-washington/)
 
