@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Feb 2026, 21:18*
+*Generato: 06 Feb 2026, 06:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -49,8 +49,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : après la présidentielle, Hiram Iyodi à la conquête de son avenir](https://www.jeuneafrique.com/1761792/politique/cameroun-apres-la-presidentielle-hiram-iyodi-a-la-conquete-de-son-avenir/)
 - [Après un des pires massacres de l’histoire du Nigeria, Bola Tinubu déploie l’armée](https://www.jeuneafrique.com/1762719/politique/apres-un-des-pires-massacres-de-lhistoire-du-nigeria-bola-tinubu-deploie-larmee/)
 - [Au Niger, Nathalie Yamb, la « chevalière de Niamey », se pose en « soldate » aux côtés d’Abdourahamane Tiani](https://www.jeuneafrique.com/1762649/politique/au-niger-nathalie-yamb-la-chevaliere-de-niamey-se-pose-en-soldate-aux-cotes-dabdourahamane-tiani/)
 - [Proches de Denis Sassou Nguesso accusés de corruption : le ministre Thierry Moungalla dénonce une « entreprise de démolition permanente »](https://www.jeuneafrique.com/1762586/politique/proches-de-denis-sassou-nguesso-accuses-de-corruption-le-ministre-thierry-moungalla-denonce-une-entreprise-de-demolition-permanente/)
@@ -284,9 +285,8 @@
 - [Maroc : Mohamed Chaouki, improbable héritier d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1762189/politique/maroc-mohamed-chaouki-improbable-heritier-daziz-akhannouch-a-la-tete-du-rni/)
 - [En Guinée, comment le Premier ministre veut muscler le futur parti de Doumbouya](https://www.jeuneafrique.com/1762218/politique/en-guinee-comment-le-premier-ministre-veut-muscler-le-futur-parti-de-doumbouya/)
 - [RDC : avec l’attaque de l’aéroport de Kisangani, l’AFC/M23 intensifie la bataille de l’air](https://www.jeuneafrique.com/1762393/politique/rdc-avec-lattaque-de-laeroport-de-kisangani-lafc-m23-intensifie-la-bataille-de-lair/)
-- [Dissolution des partis au Burkina Faso : comment la classe politique tente de s’organiser](https://www.jeuneafrique.com/1762428/politique/dissolution-des-partis-au-burkina-faso-comment-la-classe-politique-tente-de-sorganiser/)
+- [Flambée des cours de l’or : les pays producteurs africains en profitent-ils vraiment ?](https://www.jeuneafrique.com/1762668/economie-entreprises/flambee-des-cours-de-lor-les-pays-producteurs-africains-en-profitent-ils-vraiment/)
 - [Dans le bras de fer entre Orano et le Niger, c’est au tour de Niamey de porter plainte](https://www.jeuneafrique.com/1762573/economie-entreprises/dans-le-bras-de-fer-entre-orano-et-le-niger-cest-au-tour-de-niamey-de-porter-plainte/)
-- [États-Unis ‒ Afrique : ce que l’on sait du nouveau fonds de Trump pour les minerais critiques](https://www.jeuneafrique.com/1762435/economie-entreprises/etats-unis-92-afrique-ce-que-lon-sait-du-nouveau-fonds-de-trump-pour-les-minerais-critiques/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
