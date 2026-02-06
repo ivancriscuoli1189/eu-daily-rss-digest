@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Feb 2026, 13:53*
+*Generato: 06 Feb 2026, 15:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33606/press-briefing-on-next-week-s-plenary-session)
 - [EU-US trade legislation: MEPs to resume work on Turnberry proposals](https://www.europarl.europa.eu/news/en/press-room/20260204IPR33305/eu-us-trade-legislation-meps-to-resume-work-on-turnberry-proposals)
 - [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
@@ -91,7 +92,6 @@
 - [New measures to protect EU steel market from global overcapacity](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32626/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
 - [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
-- [European Parliament condemns Iran’s brutal repression of protesters](https://www.europarl.europa.eu/news/en/press-room/20260116IPR32443/european-parliament-condemns-iran-s-brutal-repression-of-protesters)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
