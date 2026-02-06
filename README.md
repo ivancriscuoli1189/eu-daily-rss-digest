@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Feb 2026, 11:24*
+*Generato: 06 Feb 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -71,14 +71,14 @@
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد بدر عبد العاطي وزير الخارجية والهجرة وشؤون المصريين بالخارج لجمهورية مصر العربية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد أحمد عطاف وزير الدولة، وزير الشؤون الخارجية والجالية الوطنية بالخارج والشؤون الإفريقية للجمهورية الجزائرية الديمقراطية الشعبية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%B7%D8%A7%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9)
 - [إشراف رئيس الجمهوريّة قيس سعيّد على جلسة عمل تتعلق بالفيضانات التي شهدتها بعض جهات الجمهوريّة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D8%AA%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع سفيرة جمهورية بولونيا بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D9%81%D9%8A%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A8%D9%88%D9%84%D9%88%D9%86%D9%8A%D8%A7-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع سفير الجمهورية البرتغالية بتونس](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9-%D8%A8%D8%AA%D9%88%D9%86%D8%B3)
-- [زيارة رئيس الجمهورية قيس سعيد يوم أمس وفجر هذا اليوم إلى عدد من الجهات المتضررة من الفيضانات](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D8%AF-%D9%8A%D9%88%D9%85-%D8%A3%D9%85%D8%B3-%D9%88%D9%81%D8%AC%D8%B1-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A5%D9%84%D9%89-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%B6%D8%B1%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-5)
 
 ## UE – EP – Press Room
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : l’attaque de l’AFC/M23 à Kisangani est un possible « acte terroriste », dénonce l’Union africaine](https://www.jeuneafrique.com/1762953/politique/rdc-lattaque-de-lafc-m23-a-kisangani-est-un-possible-acte-terroriste-denonce-lunion-africaine/)
 - [Boualem Sansal évoque des « rumeurs » sur sa déchéance de nationalité algérienne](https://www.jeuneafrique.com/1762907/politique/boualem-sansal-evoque-des-rumeurs-sur-sa-decheance-de-nationalite-algerienne/)
 - [Au Mali, Youssouf Sissoko, directeur du journal L’Alternance, arrêté pour avoir critiqué le général Tiani](https://www.jeuneafrique.com/1762899/politique/au-mali-youssouf-sissoko-directeur-du-journal-lalternance-arrete-pour-avoir-critique-le-general-tiani/)
+- [« Le jour où ils ont tué Chokri Belaïd », par Nizar Snoussi](https://www.jeuneafrique.com/1755617/politique/le-jour-ou-ils-ont-tue-chokri-belaid-par-nizar-snoussi/)
+- [Présidentielle au Congo : Denis Sassou Nguesso officiellement candidat à un cinquième mandat](https://www.jeuneafrique.com/1762751/politique/presidentielle-au-congo-denis-sassou-nguesso-officiellement-candidat-a-un-cinquieme-mandat/)
 - [Après un des pires massacres de l’histoire du Nigeria, Bola Tinubu déploie l’armée](https://www.jeuneafrique.com/1762719/politique/apres-un-des-pires-massacres-de-lhistoire-du-nigeria-bola-tinubu-deploie-larmee/)
 - [Au Niger, Nathalie Yamb, la « chevalière de Niamey », se pose en « soldate » aux côtés d’Abdourahamane Tiani](https://www.jeuneafrique.com/1762649/politique/au-niger-nathalie-yamb-la-chevaliere-de-niamey-se-pose-en-soldate-aux-cotes-dabdourahamane-tiani/)
 - [Proches de Denis Sassou Nguesso accusés de corruption : le ministre Thierry Moungalla dénonce une « entreprise de démolition permanente »](https://www.jeuneafrique.com/1762586/politique/proches-de-denis-sassou-nguesso-accuses-de-corruption-le-ministre-thierry-moungalla-denonce-une-entreprise-de-demolition-permanente/)
-- [Guinée : le général Idi Amin confirmé à la Défense dans le nouveau gouvernement](https://www.jeuneafrique.com/1762556/politique/guinee-le-general-idi-amin-confirme-a-la-defense-dans-le-nouveau-gouvernement/)
-- [Maroc : Mohamed Chaouki, improbable héritier d’Aziz Akhannouch à la tête du RNI](https://www.jeuneafrique.com/1762189/politique/maroc-mohamed-chaouki-improbable-heritier-daziz-akhannouch-a-la-tete-du-rni/)
-- [En Guinée, comment le Premier ministre veut muscler le futur parti de Doumbouya](https://www.jeuneafrique.com/1762218/politique/en-guinee-comment-le-premier-ministre-veut-muscler-le-futur-parti-de-doumbouya/)
 - [Starlink en Afrique : quels sont les pays connectés ?](https://www.jeuneafrique.com/1762708/economie-entreprises/starlink-en-afrique-quels-sont-les-pays-connectes/)
 - [Cuivre, cobalt, zinc : ce qu’il faut retenir de la visite express de Tshisekedi à Washington](https://www.jeuneafrique.com/1762614/economie-entreprises/cuivre-cobalt-zinc-ce-quil-faut-retenir-de-la-visite-express-de-tshisekedi-a-washington/)
 
