@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 09:46*
+*Generato: 09 Feb 2026, 11:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 - [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33606/press-briefing-on-next-week-s-plenary-session)
 - [EU-US trade legislation: MEPs to resume work on Turnberry proposals](https://www.europarl.europa.eu/news/en/press-room/20260204IPR33305/eu-us-trade-legislation-meps-to-resume-work-on-turnberry-proposals)
@@ -91,7 +92,6 @@
 - [Protect copyrighted work used by generative AI, say Legal Affairs MEPs](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32636/protect-copyrighted-work-used-by-generative-ai-say-legal-affairs-meps)
 - [New measures to protect EU steel market from global overcapacity](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32626/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
-- [European Parliament to commemorate International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260122IPR32583/european-parliament-to-commemorate-international-holocaust-remembrance-day)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Kasserine : Vers une couverture vaccinale de 80 % du...](https://www.lapresse.tn/2026/02/09/kasserine-vers-une-couverture-vaccinale-de-80-du-cheptel-en-2026/)
-- [ALKIMIA-Packaging lance un processus de cession de son unité de...](https://www.lapresse.tn/2026/02/09/alkimia-packaging-lance-un-processus-de-cession-de-son-unite-de-microbilles-de-verre-a-gabes/)
+- [Un homme condamné à la peine capitale pour avoir tué...](https://www.lapresse.tn/2026/02/09/un-homme-condamne-a-la-peine-capitale-pour-avoir-tue-sa-femme-et-sa-fille/)
+- [Ramadan 2026-prix des légumes, des fruits et des volailles :...](https://www.lapresse.tn/2026/02/09/ramadan-2026-prix-des-legumes-des-fruits-et-des-volailles-les-marges-beneficiaires-seront-plafonnes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Niger, au moins 17 civils tués par une frappe de drone militaire](https://www.jeuneafrique.com/1763514/politique/au-niger-au-moins-17-civils-tues-par-une-frappe-de-drone-militaire/)
+- [La police sénégalaise démantèle un réseau international de pédophilie](https://www.jeuneafrique.com/1763528/politique/la-police-senegalaise-demantele-un-reseau-international-de-pedophilie/)
+- [RDC : la Monusco a été informée du départ annoncé du contingent sud-africain](https://www.jeuneafrique.com/1763535/politique/rdc-la-monusco-a-ete-informee-du-depart-annonce-du-contingent-sud-africain/)
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
+- [Au Maroc, la fin de cavale en suspens du parrain italien Patrizio Forniti](https://www.jeuneafrique.com/1762890/politique/au-maroc-la-fin-de-cavale-en-suspens-du-parrain-italien-patrizio-forniti/)
+- [Sahara : Washington réunit le Maroc, l’Algérie, la Mauritanie et le Polisario, à Madrid](https://www.jeuneafrique.com/1763424/politique/sahara-washington-reunit-le-maroc-lalgerie-la-mauritanie-et-le-polisario-a-madrid/)
 - [Niger : quel est le vrai bilan sécuritaire d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1761928/politique/niger-quel-est-le-vrai-bilan-securitaire-dabdourahamane-tiani/)
-- [« De maigres gains pour les pauvres » : le poids des inégalités sociales dans le Mali d’Assimi Goïta](https://www.jeuneafrique.com/1762741/politique/de-maigres-gains-pour-les-pauvres-le-poids-des-inegalites-sociales-dans-le-mali-dassimi-goita/)
-- [La surprise Chaouki au RNI marocain, l’attaque de l’aéroport de Kisangani, la crise du cacao… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1762913/politique/la-surprise-chaouki-au-rni-marocain-lattaque-de-laeroport-de-kisangani-la-crise-du-cacao-les-5-infos-quil-ne-fallait-pas-manquer/)
-- [La plus grande fuite de données de l’histoire du Sénégal ? Ce que l’on sait de la cyberattaque qui a visé la DAF](https://www.jeuneafrique.com/1763081/politique/la-plus-grande-fuite-de-donnees-de-lhistoire-du-senegal-ce-que-lon-sait-de-la-cyberattaque-qui-a-vise-la-daf/)
-- [Au Maroc, pourquoi le retrait d’Aziz Akhannouch pourrait fragiliser le RNI](https://www.jeuneafrique.com/1763018/politique/au-maroc-pourquoi-le-retrait-daziz-akhannouch-pourrait-fragiliser-le-rni/)
-- [Trump reposte une vidéo raciste des Obama représentés en singe](https://www.jeuneafrique.com/1763107/politique/trump-reposte-une-video-raciste-des-obama-representes-en-singe/)
 - [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
 - [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
 
