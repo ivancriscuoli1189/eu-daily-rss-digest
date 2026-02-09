@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 14:06*
+*Generato: 09 Feb 2026, 15:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [SONEDE : installation du dispositif TPE pour le payement des...](https://www.lapresse.tn/2026/02/09/sonede-installation-du-dispositif-tpe-pour-le-payement-des-factures/)
 - [Redeyef : l’hôpital local doté de nouveaux équipements médicaux](https://www.lapresse.tn/2026/02/09/redeyef-lhopital-local-dote-de-nouveaux-equipements-medicaux/)
-- [Au large de la Libye : 53 migrants, dont deux...](https://www.lapresse.tn/2026/02/09/au-large-de-la-libye-53-migrants-dont-deux-nourrissons-portes-disparus-dans-le-naufrage-de-leur-embarcation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mali : Moussa Mara a été condamné en appel à deux ans de prison, dont un ferme](https://www.jeuneafrique.com/1763686/politique/mali-moussa-mara-a-ete-condamne-en-appel-a-deux-ans-de-prison-dont-un-ferme/)
 - [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
 - [Au Niger, au moins 17 civils tués par une frappe de drone militaire](https://www.jeuneafrique.com/1763514/politique/au-niger-au-moins-17-civils-tues-par-une-frappe-de-drone-militaire/)
 - [La police sénégalaise démantèle un réseau international de pédophilie](https://www.jeuneafrique.com/1763528/politique/la-police-senegalaise-demantele-un-reseau-international-de-pedophilie/)
@@ -284,7 +285,6 @@
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
 - [Au Maroc, la fin de cavale en suspens du parrain italien Patrizio Forniti](https://www.jeuneafrique.com/1762890/politique/au-maroc-la-fin-de-cavale-en-suspens-du-parrain-italien-patrizio-forniti/)
-- [En RDC, l’histoire d’un conflit foncier devenu insurrection armée à deux pas de Kinshasa](https://www.jeuneafrique.com/1762580/politique/en-rdc-lhistoire-dun-conflit-foncier-devenu-insurrection-armee-a-deux-pas-de-kinshasa/)
 - [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
 - [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
 
