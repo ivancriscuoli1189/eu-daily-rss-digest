@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Feb 2026, 21:19*
+*Generato: 09 Feb 2026, 06:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Agriculture biologique : Les exportations rapportent 800 millions de dinars](https://www.lapresse.tn/2025/12/25/agriculture-biologique-les-exportations-rapportent-800-millions-de-dinars/)
-- [Huile d’olive : Le syndicat des agriculteurs dénonce des prix...](https://www.lapresse.tn/2025/12/25/huile-dolive-le-syndicat-des-agriculteurs-denonce-des-prix-deconnectes-de-la-realite/)
+- [L’EST met fin à la collaboration avec Maher Kanzari](https://www.lapresse.tn/2026/02/08/est-hamdi-meddeb-met-fin-aux-fonctions-de-maher-kanzari/)
+- [7e JAMC : «Atyef» de Habiba Jendoubi (Tunisie) : Une...](https://www.lapresse.tn/2026/02/08/7e-jamc-atyef-de-habiba-jendoubi-tunisie-une-epopee-visuelle-en-ombres-portees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -252,7 +252,7 @@
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [La salute nel sud globale oggi](https://www.cespi.it/it/eventi-note/eventi/la-salute-nel-sud-globale-oggi)
+- [Laberinto Centroamérica](https://www.cespi.it/it/eventi-note/eventi/laberinto-centroamerica)
 - [AVVISO RICHIESTA PREVENTIVO PER RICHIESTA PERCORSO FORMATIVO CORSO DI PRIMO SOCCORSO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-richiesta-percorso-formativo-corso-di-primo)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Crimes de guerre au Mali : qui jugera les jihadistes ?](https://www.jeuneafrique.com/1763065/politique/crimes-de-guerre-au-mali-qui-jugera-les-jihadistes/)
+- [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
+- [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
+- [La surprise Chaouki au RNI marocain, l’attaque de l’aéroport de Kisangani, la crise du cacao… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1762913/politique/la-surprise-chaouki-au-rni-marocain-lattaque-de-laeroport-de-kisangani-la-crise-du-cacao-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [La plus grande fuite de données de l’histoire du Sénégal ? Ce que l’on sait de la cyberattaque qui a visé la DAF](https://www.jeuneafrique.com/1763081/politique/la-plus-grande-fuite-de-donnees-de-lhistoire-du-senegal-ce-que-lon-sait-de-la-cyberattaque-qui-a-vise-la-daf/)
+- [Au Maroc, pourquoi le retrait d’Aziz Akhannouch pourrait fragiliser le RNI](https://www.jeuneafrique.com/1763018/politique/au-maroc-pourquoi-le-retrait-daziz-akhannouch-pourrait-fragiliser-le-rni/)
 - [Trump reposte une vidéo raciste des Obama représentés en singe](https://www.jeuneafrique.com/1763107/politique/trump-reposte-une-video-raciste-des-obama-representes-en-singe/)
 - [Libye : Seif el-Islam Kadhafi inhumé en présence de milliers de partisans](https://www.jeuneafrique.com/1763202/politique/libye-seif-el-islam-kadhafi-inhume-en-presence-de-milliers-de-partisans/)
-- [RDC : l’attaque de l’AFC/M23 à Kisangani est un possible « acte terroriste », dénonce l’Union africaine](https://www.jeuneafrique.com/1762953/politique/rdc-lattaque-de-lafc-m23-a-kisangani-est-un-possible-acte-terroriste-denonce-lunion-africaine/)
-- [Boualem Sansal évoque des « rumeurs » sur sa déchéance de nationalité algérienne](https://www.jeuneafrique.com/1762907/politique/boualem-sansal-evoque-des-rumeurs-sur-sa-decheance-de-nationalite-algerienne/)
-- [Au Mali, Youssouf Sissoko, directeur du journal L’Alternance, arrêté pour avoir critiqué le général Tiani](https://www.jeuneafrique.com/1762899/politique/au-mali-youssouf-sissoko-directeur-du-journal-lalternance-arrete-pour-avoir-critique-le-general-tiani/)
-- [De Patrice Lumumba à Constant Mutamba, Tiken Jah Fakoly à l’ère de la post-vérité](https://www.jeuneafrique.com/1762601/politique/de-patrice-lumumba-a-constant-mutamba-tiken-jah-fakoly-a-lere-de-la-post-verite/)
-- [« Le jour où ils ont tué Chokri Belaïd », par Nizar Snoussi](https://www.jeuneafrique.com/1755617/politique/le-jour-ou-ils-ont-tue-chokri-belaid-par-nizar-snoussi/)
-- [Présidentielle au Congo : Denis Sassou Nguesso officiellement candidat à un cinquième mandat](https://www.jeuneafrique.com/1762751/politique/presidentielle-au-congo-denis-sassou-nguesso-officiellement-candidat-a-un-cinquieme-mandat/)
-- [MCB, la banque mauricienne qui veut capter la ruée vers les minerais africains](https://www.jeuneafrique.com/1762665/economie-entreprises/mcb-la-banque-mauricienne-qui-veut-capter-la-ruee-vers-les-minerais-africains/)
-- [Flambée des cours de l’or : les pays producteurs africains en profitent-ils vraiment ?](https://www.jeuneafrique.com/1762668/economie-entreprises/flambee-des-cours-de-lor-les-pays-producteurs-africains-en-profitent-ils-vraiment/)
+- [Banque africaine de développement : comment Sidi Ould Tah a compensé le désengagement de Donald Trump](https://www.jeuneafrique.com/1763016/economie-entreprises/banque-africaine-de-developpement-comment-sidi-ould-tah-a-compense-le-desengagement-de-donald-trump/)
+- [Comment Vodacom RDC tire la croissance du groupe de télécoms africain](https://www.jeuneafrique.com/1762860/economie-entreprises/comment-vodacom-rdc-tire-la-croissance-du-groupe-de-telecoms-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
