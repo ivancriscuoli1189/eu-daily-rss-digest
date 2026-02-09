@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 15:42*
+*Generato: 09 Feb 2026, 18:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 - [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
@@ -91,7 +92,6 @@
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
 - [Protect copyrighted work used by generative AI, say Legal Affairs MEPs](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32636/protect-copyrighted-work-used-by-generative-ai-say-legal-affairs-meps)
-- [New measures to protect EU steel market from global overcapacity](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32626/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [SONEDE : installation du dispositif TPE pour le payement des...](https://www.lapresse.tn/2026/02/09/sonede-installation-du-dispositif-tpe-pour-le-payement-des-factures/)
-- [Redeyef : l’hôpital local doté de nouveaux équipements médicaux](https://www.lapresse.tn/2026/02/09/redeyef-lhopital-local-dote-de-nouveaux-equipements-medicaux/)
+- [Question de la semaine : En quoi le «Growth Marketing»...](https://www.lapresse.tn/2026/02/09/question-de-la-semaine-en-quoi-le-growth-marketing-fait-il-la-difference/)
+- [Investissements 2025 : quelles régions tunisiennes tirent l’économie vers le...](https://www.lapresse.tn/2026/02/09/investissements-2025-quelles-regions-tunisiennes-tirent-leconomie-vers-le-haut/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assassinat de Ghislaine Dupont et Claude Verlon au Mali : à Paris, un juge français réclame une nouvelle déclassification de documents](https://www.jeuneafrique.com/1763777/politique/assassinat-de-ghislaine-dupont-et-claude-verlon-au-mali-a-paris-un-juge-francais-reclame-une-nouvelle-declassification-de-documents/)
 - [Mali : Moussa Mara a été condamné en appel à deux ans de prison, dont un ferme](https://www.jeuneafrique.com/1763686/politique/mali-moussa-mara-a-ete-condamne-en-appel-a-deux-ans-de-prison-dont-un-ferme/)
 - [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
 - [Au Niger, au moins 17 civils tués par une frappe de drone militaire](https://www.jeuneafrique.com/1763514/politique/au-niger-au-moins-17-civils-tues-par-une-frappe-de-drone-militaire/)
@@ -284,9 +285,8 @@
 - [RDC : la Monusco a été informée du départ annoncé du contingent sud-africain](https://www.jeuneafrique.com/1763535/politique/rdc-la-monusco-a-ete-informee-du-depart-annonce-du-contingent-sud-africain/)
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
-- [Au Maroc, la fin de cavale en suspens du parrain italien Patrizio Forniti](https://www.jeuneafrique.com/1762890/politique/au-maroc-la-fin-de-cavale-en-suspens-du-parrain-italien-patrizio-forniti/)
-- [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
-- [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
+- [Zijin, Cmoc, Sinomine… Pourquoi les groupes miniers chinois tiennent leur ligne en Afrique](https://www.jeuneafrique.com/1754010/economie-entreprises/zijin-cmoc-sinomine-pourquoi-les-groupes-miniers-chinois-tiennent-leur-ligne-en-afrique/)
+- [Du premium au low cost : le triple jeu d’Air France-KLM en Afrique](https://www.jeuneafrique.com/1760723/economie-entreprises/du-premium-au-low-cost-le-triple-jeu-dair-france-klm-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
