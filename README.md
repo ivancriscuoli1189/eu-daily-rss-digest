@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 12:37*
+*Generato: 09 Feb 2026, 14:06*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 - [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33606/press-briefing-on-next-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
 - [Protect copyrighted work used by generative AI, say Legal Affairs MEPs](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32636/protect-copyrighted-work-used-by-generative-ai-say-legal-affairs-meps)
 - [New measures to protect EU steel market from global overcapacity](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32626/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
-- [European Parliament commemorates the International Holocaust Remembrance Day](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32623/european-parliament-commemorates-the-international-holocaust-remembrance-day)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie-Canada : promouvoir les opportunités d’emploi pour les tunisiens](https://www.lapresse.tn/2026/02/09/tunisie-canada-promouvoir-les-opportunites-demploi-pour-les-tunisiens/)
-- [Ligue des Champions CAF : l’EST s’incline face au Stade...](https://www.lapresse.tn/2026/02/09/ligue-des-champions-caf-lest-sincline-face-au-stade-malien-1-0-lors-de-la-5e-journee/)
+- [Redeyef : l’hôpital local doté de nouveaux équipements médicaux](https://www.lapresse.tn/2026/02/09/redeyef-lhopital-local-dote-de-nouveaux-equipements-medicaux/)
+- [Au large de la Libye : 53 migrants, dont deux...](https://www.lapresse.tn/2026/02/09/au-large-de-la-libye-53-migrants-dont-deux-nourrissons-portes-disparus-dans-le-naufrage-de-leur-embarcation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
 - [Au Niger, au moins 17 civils tués par une frappe de drone militaire](https://www.jeuneafrique.com/1763514/politique/au-niger-au-moins-17-civils-tues-par-une-frappe-de-drone-militaire/)
 - [La police sénégalaise démantèle un réseau international de pédophilie](https://www.jeuneafrique.com/1763528/politique/la-police-senegalaise-demantele-un-reseau-international-de-pedophilie/)
 - [RDC : la Monusco a été informée du départ annoncé du contingent sud-africain](https://www.jeuneafrique.com/1763535/politique/rdc-la-monusco-a-ete-informee-du-depart-annonce-du-contingent-sud-africain/)
@@ -284,7 +285,6 @@
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
 - [Au Maroc, la fin de cavale en suspens du parrain italien Patrizio Forniti](https://www.jeuneafrique.com/1762890/politique/au-maroc-la-fin-de-cavale-en-suspens-du-parrain-italien-patrizio-forniti/)
 - [En RDC, l’histoire d’un conflit foncier devenu insurrection armée à deux pas de Kinshasa](https://www.jeuneafrique.com/1762580/politique/en-rdc-lhistoire-dun-conflit-foncier-devenu-insurrection-armee-a-deux-pas-de-kinshasa/)
-- [Sahara : Washington réunit le Maroc, l’Algérie, la Mauritanie et le Polisario, à Madrid](https://www.jeuneafrique.com/1763424/politique/sahara-washington-reunit-le-maroc-lalgerie-la-mauritanie-et-le-polisario-a-madrid/)
 - [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
 - [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
 
