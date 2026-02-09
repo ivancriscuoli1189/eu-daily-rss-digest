@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 06:52*
+*Generato: 09 Feb 2026, 09:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’EST met fin à la collaboration avec Maher Kanzari](https://www.lapresse.tn/2026/02/08/est-hamdi-meddeb-met-fin-aux-fonctions-de-maher-kanzari/)
-- [7e JAMC : «Atyef» de Habiba Jendoubi (Tunisie) : Une...](https://www.lapresse.tn/2026/02/08/7e-jamc-atyef-de-habiba-jendoubi-tunisie-une-epopee-visuelle-en-ombres-portees/)
+- [Kasserine : Vers une couverture vaccinale de 80 % du...](https://www.lapresse.tn/2026/02/09/kasserine-vers-une-couverture-vaccinale-de-80-du-cheptel-en-2026/)
+- [ALKIMIA-Packaging lance un processus de cession de son unité de...](https://www.lapresse.tn/2026/02/09/alkimia-packaging-lance-un-processus-de-cession-de-son-unite-de-microbilles-de-verre-a-gabes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Crimes de guerre au Mali : qui jugera les jihadistes ?](https://www.jeuneafrique.com/1763065/politique/crimes-de-guerre-au-mali-qui-jugera-les-jihadistes/)
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
+- [Niger : quel est le vrai bilan sécuritaire d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1761928/politique/niger-quel-est-le-vrai-bilan-securitaire-dabdourahamane-tiani/)
+- [« De maigres gains pour les pauvres » : le poids des inégalités sociales dans le Mali d’Assimi Goïta](https://www.jeuneafrique.com/1762741/politique/de-maigres-gains-pour-les-pauvres-le-poids-des-inegalites-sociales-dans-le-mali-dassimi-goita/)
 - [La surprise Chaouki au RNI marocain, l’attaque de l’aéroport de Kisangani, la crise du cacao… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1762913/politique/la-surprise-chaouki-au-rni-marocain-lattaque-de-laeroport-de-kisangani-la-crise-du-cacao-les-5-infos-quil-ne-fallait-pas-manquer/)
 - [La plus grande fuite de données de l’histoire du Sénégal ? Ce que l’on sait de la cyberattaque qui a visé la DAF](https://www.jeuneafrique.com/1763081/politique/la-plus-grande-fuite-de-donnees-de-lhistoire-du-senegal-ce-que-lon-sait-de-la-cyberattaque-qui-a-vise-la-daf/)
 - [Au Maroc, pourquoi le retrait d’Aziz Akhannouch pourrait fragiliser le RNI](https://www.jeuneafrique.com/1763018/politique/au-maroc-pourquoi-le-retrait-daziz-akhannouch-pourrait-fragiliser-le-rni/)
 - [Trump reposte une vidéo raciste des Obama représentés en singe](https://www.jeuneafrique.com/1763107/politique/trump-reposte-une-video-raciste-des-obama-representes-en-singe/)
-- [Libye : Seif el-Islam Kadhafi inhumé en présence de milliers de partisans](https://www.jeuneafrique.com/1763202/politique/libye-seif-el-islam-kadhafi-inhume-en-presence-de-milliers-de-partisans/)
-- [Banque africaine de développement : comment Sidi Ould Tah a compensé le désengagement de Donald Trump](https://www.jeuneafrique.com/1763016/economie-entreprises/banque-africaine-de-developpement-comment-sidi-ould-tah-a-compense-le-desengagement-de-donald-trump/)
-- [Comment Vodacom RDC tire la croissance du groupe de télécoms africain](https://www.jeuneafrique.com/1762860/economie-entreprises/comment-vodacom-rdc-tire-la-croissance-du-groupe-de-telecoms-africain/)
+- [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
+- [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
