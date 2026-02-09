@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 11:38*
+*Generato: 09 Feb 2026, 12:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Un homme condamné à la peine capitale pour avoir tué...](https://www.lapresse.tn/2026/02/09/un-homme-condamne-a-la-peine-capitale-pour-avoir-tue-sa-femme-et-sa-fille/)
-- [Ramadan 2026-prix des légumes, des fruits et des volailles :...](https://www.lapresse.tn/2026/02/09/ramadan-2026-prix-des-legumes-des-fruits-et-des-volailles-les-marges-beneficiaires-seront-plafonnes/)
+- [Tunisie-Canada : promouvoir les opportunités d’emploi pour les tunisiens](https://www.lapresse.tn/2026/02/09/tunisie-canada-promouvoir-les-opportunites-demploi-pour-les-tunisiens/)
+- [Ligue des Champions CAF : l’EST s’incline face au Stade...](https://www.lapresse.tn/2026/02/09/ligue-des-champions-caf-lest-sincline-face-au-stade-malien-1-0-lors-de-la-5e-journee/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -283,8 +283,8 @@
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
 - [Au Maroc, la fin de cavale en suspens du parrain italien Patrizio Forniti](https://www.jeuneafrique.com/1762890/politique/au-maroc-la-fin-de-cavale-en-suspens-du-parrain-italien-patrizio-forniti/)
+- [En RDC, l’histoire d’un conflit foncier devenu insurrection armée à deux pas de Kinshasa](https://www.jeuneafrique.com/1762580/politique/en-rdc-lhistoire-dun-conflit-foncier-devenu-insurrection-armee-a-deux-pas-de-kinshasa/)
 - [Sahara : Washington réunit le Maroc, l’Algérie, la Mauritanie et le Polisario, à Madrid](https://www.jeuneafrique.com/1763424/politique/sahara-washington-reunit-le-maroc-lalgerie-la-mauritanie-et-le-polisario-a-madrid/)
-- [Niger : quel est le vrai bilan sécuritaire d’Abdourahamane Tiani ?](https://www.jeuneafrique.com/1761928/politique/niger-quel-est-le-vrai-bilan-securitaire-dabdourahamane-tiani/)
 - [Tech : comment le paiement numérique devient une stratégie politique](https://www.jeuneafrique.com/1763274/economie-entreprises/tech-comment-le-paiement-numerique-devient-une-strategie-politique/)
 - [Finance : pourquoi l’IPO de BGFI était aussi un test de confiance pour Henri-Claude Oyima](https://www.jeuneafrique.com/1762950/economie-entreprises/finance-pourquoi-lipo-de-bgfi-etait-aussi-un-test-de-confiance-pour-henri-claude-oyima/)
 
