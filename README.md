@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 18:40*
+*Generato: 09 Feb 2026, 21:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,6 +83,7 @@
 ## UE – EP – Press Room
 
 - [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
+- [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 - [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
@@ -91,7 +92,6 @@
 - [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
-- [Protect copyrighted work used by generative AI, say Legal Affairs MEPs](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32636/protect-copyrighted-work-used-by-generative-ai-say-legal-affairs-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Question de la semaine : En quoi le «Growth Marketing»...](https://www.lapresse.tn/2026/02/09/question-de-la-semaine-en-quoi-le-growth-marketing-fait-il-la-difference/)
-- [Investissements 2025 : quelles régions tunisiennes tirent l’économie vers le...](https://www.lapresse.tn/2026/02/09/investissements-2025-quelles-regions-tunisiennes-tirent-leconomie-vers-le-haut/)
+- [Les prix du poisson devraient baisser pendant le Ramadan](https://www.lapresse.tn/2026/02/09/les-prix-du-poisson-devraient-baisser-pendant-le-ramadan/)
+- [Près de 728 millions d’euros d’échanges entre la Tunisie et...](https://www.lapresse.tn/2026/02/09/pres-de-728-millions-deuros-dechanges-entre-la-tunisie-et-la-republique-tcheque-en-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 
