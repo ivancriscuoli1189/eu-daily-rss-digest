@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Feb 2026, 06:52*
+*Generato: 10 Feb 2026, 11:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33609/ep-today)
 - [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
 - [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
@@ -91,7 +92,6 @@
 - [EU-US trade legislation: MEPs to resume work on Turnberry proposals](https://www.europarl.europa.eu/news/en/press-room/20260204IPR33305/eu-us-trade-legislation-meps-to-resume-work-on-turnberry-proposals)
 - [EU survey: rising concerns push demand for more European action](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32643/eu-survey-rising-concerns-push-demand-for-more-european-action)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
-- [New Eurobarometer survey: media briefing on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32641/new-eurobarometer-survey-media-briefing-on-tuesday-at-10-30)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -118,19 +118,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Les prix du poisson devraient baisser pendant le Ramadan](https://www.lapresse.tn/2026/02/09/les-prix-du-poisson-devraient-baisser-pendant-le-ramadan/)
-- [Près de 728 millions d’euros d’échanges entre la Tunisie et...](https://www.lapresse.tn/2026/02/09/pres-de-728-millions-deuros-dechanges-entre-la-tunisie-et-la-republique-tcheque-en-2025/)
+- [Triathlon : La sélection tunisienne s’envole pour la Coupe d’Afrique...](https://www.lapresse.tn/2026/02/10/triathlon-la-selection-tunisienne-senvole-pour-la-coupe-dafrique-en-egypte/)
+- [Revendiquant la moitié de sa propriété: Trump menace de bloquer...](https://www.lapresse.tn/2026/02/10/revendiquant-la-moitie-de-sa-propriete-trump-menace-de-bloquer-louverture-dun-pont-frontalier-avec-le-canada/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -203,12 +190,12 @@
 - [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
 - [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
 - [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
 - [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 - [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
-- [Tunisia: Arbitrary Detention Crushes Dissent](https://www.hrw.org/news/2025/04/16/tunisia-arbitrary-detention-crushes-dissent)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -223,21 +210,9 @@
 - [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 - [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 
-## THINK TANK – Carnegie MENA – Research
-
-- [Research](https://carnegie-mec.org/en/middle-east/research)
-- [Diwan](https://carnegie-mec.org/en/middle-east/diwan)
-- [About](https://carnegie-mec.org/en/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/en/middle-east/experts)
-- [Research](https://carnegie-mec.org/middle-east/research)
-- [Diwan](https://carnegie-mec.org/middle-east/diwan)
-- [About](https://carnegie-mec.org/middle-east/about-the-malcolm-h-kerr-carnegie-middle-east-center)
-- [Experts](https://carnegie-mec.org/middle-east/experts)
-- [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
-- [Events](https://carnegie-mec.org/middle-east/events)
-
 ## THINK TANK – ECFR – MENA
 
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
 - [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
 - [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
@@ -247,7 +222,6 @@
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
 - [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
 - [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-- [Averting West Bank collapse: How to revive Palestinian politics](https://ecfr.eu/publication/averting-west-bank-collapse-how-to-revive-palestinian-politics/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Dialogue en RDC : mises à l’écart par Tshisekedi, les Églises maintiennent le cap](https://www.jeuneafrique.com/1763804/politique/dialogue-en-rdc-mises-a-lecart-par-tshisekedi-les-eglises-maintiennent-le-cap/)
+- [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
+- [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
+- [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
+- [Crise du carburant au Mali : le syndicat des chauffeurs routiers décrète une grève](https://www.jeuneafrique.com/1763886/politique/crise-du-carburant-au-mali-le-syndicat-des-chauffeurs-routiers-decrete-une-greve/)
 - [Assassinat de Ghislaine Dupont et Claude Verlon au Mali : à Paris, un juge français réclame une nouvelle déclassification de documents](https://www.jeuneafrique.com/1763777/politique/assassinat-de-ghislaine-dupont-et-claude-verlon-au-mali-a-paris-un-juge-francais-reclame-une-nouvelle-declassification-de-documents/)
 - [Mali : Moussa Mara a été condamné en appel à deux ans de prison, dont un ferme](https://www.jeuneafrique.com/1763686/politique/mali-moussa-mara-a-ete-condamne-en-appel-a-deux-ans-de-prison-dont-un-ferme/)
 - [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
 - [Au Niger, au moins 17 civils tués par une frappe de drone militaire](https://www.jeuneafrique.com/1763514/politique/au-niger-au-moins-17-civils-tues-par-une-frappe-de-drone-militaire/)
-- [La police sénégalaise démantèle un réseau international de pédophilie](https://www.jeuneafrique.com/1763528/politique/la-police-senegalaise-demantele-un-reseau-international-de-pedophilie/)
-- [RDC : la Monusco a été informée du départ annoncé du contingent sud-africain](https://www.jeuneafrique.com/1763535/politique/rdc-la-monusco-a-ete-informee-du-depart-annonce-du-contingent-sud-africain/)
-- [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
 - [Zijin, Cmoc, Sinomine… Pourquoi les groupes miniers chinois tiennent leur ligne en Afrique](https://www.jeuneafrique.com/1754010/economie-entreprises/zijin-cmoc-sinomine-pourquoi-les-groupes-miniers-chinois-tiennent-leur-ligne-en-afrique/)
-- [Du premium au low cost : le triple jeu d’Air France-KLM en Afrique](https://www.jeuneafrique.com/1760723/economie-entreprises/du-premium-au-low-cost-le-triple-jeu-dair-france-klm-en-afrique/)
+- [Minerais critiques : l’Afrique courtisée, mais pas indispensable – par Aurélie M’Bida](https://www.jeuneafrique.com/1757764/economie-entreprises/minerais-critiques-lafrique-courtisee-mais-pas-indispensable-par-aurelie-mbida/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
