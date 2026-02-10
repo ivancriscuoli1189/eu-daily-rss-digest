@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Feb 2026, 21:28*
+*Generato: 10 Feb 2026, 06:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – Press Room
 
-- [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 - [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
+- [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 - [EU asylum rules update: press conference with lead MEPs Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33814/eu-asylum-rules-update-press-conference-with-lead-meps-tuesday-at-14-00)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dialogue en RDC : mises à l’écart par Tshisekedi, les Églises maintiennent le cap](https://www.jeuneafrique.com/1763804/politique/dialogue-en-rdc-mises-a-lecart-par-tshisekedi-les-eglises-maintiennent-le-cap/)
 - [Assassinat de Ghislaine Dupont et Claude Verlon au Mali : à Paris, un juge français réclame une nouvelle déclassification de documents](https://www.jeuneafrique.com/1763777/politique/assassinat-de-ghislaine-dupont-et-claude-verlon-au-mali-a-paris-un-juge-francais-reclame-une-nouvelle-declassification-de-documents/)
 - [Mali : Moussa Mara a été condamné en appel à deux ans de prison, dont un ferme](https://www.jeuneafrique.com/1763686/politique/mali-moussa-mara-a-ete-condamne-en-appel-a-deux-ans-de-prison-dont-un-ferme/)
 - [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
@@ -284,7 +285,6 @@
 - [La police sénégalaise démantèle un réseau international de pédophilie](https://www.jeuneafrique.com/1763528/politique/la-police-senegalaise-demantele-un-reseau-international-de-pedophilie/)
 - [RDC : la Monusco a été informée du départ annoncé du contingent sud-africain](https://www.jeuneafrique.com/1763535/politique/rdc-la-monusco-a-ete-informee-du-depart-annonce-du-contingent-sud-africain/)
 - [« Ce ne sont pas de simples provocations, mais des actes d’agression » : l’Éthiopie somme l’Érythrée de retirer ses troupes de son territoire](https://www.jeuneafrique.com/1763452/politique/ce-ne-sont-pas-de-simples-provocations-mais-des-actes-dagression-lethiopie-somme-lerythree-de-retirer-immediatement-ses-troupes-de-son-territoire/)
-- [Guinée-Bissau : l’opposant Domingos Simões Pereira, soupçonné de tentatives de coup d’État, convoqué par un tribunal militaire](https://www.jeuneafrique.com/1763439/politique/guinee-bissau-lopposant-domingos-simoes-pereira-soupconne-de-tentatives-de-coup-detat-convoque-par-un-tribunal-militaire/)
 - [Zijin, Cmoc, Sinomine… Pourquoi les groupes miniers chinois tiennent leur ligne en Afrique](https://www.jeuneafrique.com/1754010/economie-entreprises/zijin-cmoc-sinomine-pourquoi-les-groupes-miniers-chinois-tiennent-leur-ligne-en-afrique/)
 - [Du premium au low cost : le triple jeu d’Air France-KLM en Afrique](https://www.jeuneafrique.com/1760723/economie-entreprises/du-premium-au-low-cost-le-triple-jeu-dair-france-klm-en-afrique/)
 
