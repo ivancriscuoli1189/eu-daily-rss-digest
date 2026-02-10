@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Feb 2026, 15:54*
+*Generato: 10 Feb 2026, 18:48*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,6 +119,19 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+
 ## UE – DG HOME – News
 
 - [bg български](https://home-affairs.ec.europa.eu/news_bg)
@@ -168,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : le secteur monétique enregistre une croissance à deux...](https://www.lapresse.tn/2026/02/10/tunisie-le-secteur-monetique-enregistre-une-croissance-a-deux-vitesses-en-2025/)
-- [Nabeul se dote de caméras de surveillance aux carrefours et...](https://www.lapresse.tn/2026/02/10/nabeul-se-dote-de-cameras-de-surveillance-aux-carrefours-et-aux-entrees-de-la-ville/)
+- [Financement des PME : Rattrapé par la transformation économique](https://www.lapresse.tn/2026/02/10/financement-des-pme-rattrape-par-la-transformation-economique/)
+- [EST – Successeur de Maher Kanzari : Ce sera un...](https://www.lapresse.tn/2026/02/10/est-successeur-de-maher-kanzari-ce-sera-un-etranger/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,19 +236,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
-- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
-- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
-- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
-- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
-- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
-- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
-- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Niger de Tiani, cheval de Troie de l’Algérie de Tebboune au sein de l’AES ?](https://www.jeuneafrique.com/1764001/politique/le-niger-de-tiani-cheval-de-troie-de-lalgerie-de-tebboune-au-sein-de-laes/)
+- [Au Sénégal, pourquoi Ousmane Sonko et Mame Mbaye Niang se retrouvent de nouveau face à face devant la justice](https://www.jeuneafrique.com/1764011/politique/au-senegal-pourquoi-ousmane-sonko-et-mame-mbaye-niang-se-retrouvent-a-nouveau-face-a-face-devant-la-justice/)
+- [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
+- [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
 - [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
 - [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
 - [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
 - [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
-- [Crise du carburant au Mali : le syndicat des chauffeurs routiers décrète une grève](https://www.jeuneafrique.com/1763886/politique/crise-du-carburant-au-mali-le-syndicat-des-chauffeurs-routiers-decrete-une-greve/)
-- [Afrique–France : « La loi sur les restitutions doit intégrer le mot colonisation »](https://www.jeuneafrique.com/1763673/politique/afrique-france-la-loi-sur-les-restitutions-doit-integrer-le-mot-colonisation/)
-- [En Côte d’Ivoire, les jours de Tidjane Thiam à la tête du PDCI sont-ils comptés ?](https://www.jeuneafrique.com/1763627/politique/en-cote-divoire-les-jours-de-tidjane-thiam-a-la-tete-du-pdci-sont-ils-comptes/)
-- [Assassinat de Ghislaine Dupont et Claude Verlon au Mali : à Paris, un juge français réclame une nouvelle déclassification de documents](https://www.jeuneafrique.com/1763777/politique/assassinat-de-ghislaine-dupont-et-claude-verlon-au-mali-a-paris-un-juge-francais-reclame-une-nouvelle-declassification-de-documents/)
-- [Orange, MTN, Maroc Telecom… Pourquoi les opérateurs parient sur les réseaux partagés](https://www.jeuneafrique.com/1763552/economie-entreprises/orange-mtn-maroc-telecom-pourquoi-les-operateurs-parient-sur-les-reseaux-partages/)
-- [Zijin, Cmoc, Sinomine… Pourquoi les groupes miniers chinois tiennent leur ligne en Afrique](https://www.jeuneafrique.com/1754010/economie-entreprises/zijin-cmoc-sinomine-pourquoi-les-groupes-miniers-chinois-tiennent-leur-ligne-en-afrique/)
+- [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
+- [RDC : pourquoi tout le monde se bat pour racheter le groupe minier Chemaf](https://www.jeuneafrique.com/1762882/economie-entreprises/rdc-pourquoi-tout-le-monde-se-bat-pour-racheter-le-minier-chemaf/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
