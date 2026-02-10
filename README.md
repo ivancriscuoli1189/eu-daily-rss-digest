@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Feb 2026, 14:14*
+*Generato: 10 Feb 2026, 15:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
 - [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 - [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
 - [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
@@ -91,7 +92,6 @@
 - [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
 - [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33607/press-briefing-on-this-week-s-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le futur centre urbain de “Raoud City Center” avance à...](https://www.lapresse.tn/2026/02/10/le-futur-centre-urbain-de-raoud-city-center-avance-a-grands-pas/)
-- [Manouba : une huilerie fermée pour déversement illégal de margine](https://www.lapresse.tn/2026/02/10/manouba-une-huilerie-fermee-pour-deversement-illegal-de-margine/)
+- [Tunisie : le secteur monétique enregistre une croissance à deux...](https://www.lapresse.tn/2026/02/10/tunisie-le-secteur-monetique-enregistre-une-croissance-a-deux-vitesses-en-2025/)
+- [Nabeul se dote de caméras de surveillance aux carrefours et...](https://www.lapresse.tn/2026/02/10/nabeul-se-dote-de-cameras-de-surveillance-aux-carrefours-et-aux-entrees-de-la-ville/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
 - [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
 - [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
 - [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
 - [Crise du carburant au Mali : le syndicat des chauffeurs routiers décrète une grève](https://www.jeuneafrique.com/1763886/politique/crise-du-carburant-au-mali-le-syndicat-des-chauffeurs-routiers-decrete-une-greve/)
 - [Afrique–France : « La loi sur les restitutions doit intégrer le mot colonisation »](https://www.jeuneafrique.com/1763673/politique/afrique-france-la-loi-sur-les-restitutions-doit-integrer-le-mot-colonisation/)
+- [En Côte d’Ivoire, les jours de Tidjane Thiam à la tête du PDCI sont-ils comptés ?](https://www.jeuneafrique.com/1763627/politique/en-cote-divoire-les-jours-de-tidjane-thiam-a-la-tete-du-pdci-sont-ils-comptes/)
 - [Assassinat de Ghislaine Dupont et Claude Verlon au Mali : à Paris, un juge français réclame une nouvelle déclassification de documents](https://www.jeuneafrique.com/1763777/politique/assassinat-de-ghislaine-dupont-et-claude-verlon-au-mali-a-paris-un-juge-francais-reclame-une-nouvelle-declassification-de-documents/)
-- [Mali : Moussa Mara a été condamné en appel à deux ans de prison, dont un ferme](https://www.jeuneafrique.com/1763686/politique/mali-moussa-mara-a-ete-condamne-en-appel-a-deux-ans-de-prison-dont-un-ferme/)
-- [Faustin-Archange Touadéra : anatomie d’un pouvoir sous haute protection](https://www.jeuneafrique.com/1763509/politique/faustin-archange-touadera-anatomie-dun-pouvoir-sous-haute-protection/)
 - [Orange, MTN, Maroc Telecom… Pourquoi les opérateurs parient sur les réseaux partagés](https://www.jeuneafrique.com/1763552/economie-entreprises/orange-mtn-maroc-telecom-pourquoi-les-operateurs-parient-sur-les-reseaux-partages/)
 - [Zijin, Cmoc, Sinomine… Pourquoi les groupes miniers chinois tiennent leur ligne en Afrique](https://www.jeuneafrique.com/1754010/economie-entreprises/zijin-cmoc-sinomine-pourquoi-les-groupes-miniers-chinois-tiennent-leur-ligne-en-afrique/)
 
