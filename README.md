@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 18:45*
+*Generato: 11 Feb 2026, 21:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nabeul – vidéosurveillance sur la voie publique : La Cité...](https://www.lapresse.tn/2026/02/11/nabeul-videosurveillance-sur-la-voie-publique-la-cite-des-potiers-sequipe-de-cctv/)
-- [Point de vue : L’intenable Jamel Himoudi !](https://www.lapresse.tn/2026/02/11/point-de-vue-lintenable-jamel-himoudi/)
+- [Coup de filet municipal à Ariana : sept camions saisis](https://www.lapresse.tn/2026/02/11/coup-de-filet-municipal-a-ariana-sept-camions-saisis/)
+- [Immeubles menaçant ruine : le casse-tête du relogement bloque les...](https://www.lapresse.tn/2026/02/11/immeubles-menacant-ruine-le-casse-tete-du-relogement-bloque-les-demolitions/)
 
 ## NGOs – Amnesty International – Tunisia
 
