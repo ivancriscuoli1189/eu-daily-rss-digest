@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 06:47*
+*Generato: 11 Feb 2026, 09:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33611/ep-today)
 - [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
 - [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
 - [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33609/ep-today)
 - [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
 - [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33608/ep-today-monday-9-february)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Comptes publics : Un pas décisif vers plus de clarté](https://www.lapresse.tn/2026/02/11/comptes-publics-un-pas-decisif-vers-plus-de-clarte/)
-- [Inondations à Nabeul : 125 000 volailles, 900 moutons et...](https://www.lapresse.tn/2026/02/10/inondations-a-nabeul-125-000-volailles-900-moutons-et-des-hectares-de-fraises-detruits/)
+- [Djerba réduit de moitié sa consommation d’électricité grâce aux LED](https://www.lapresse.tn/2026/02/11/djerba-reduit-de-moitie-sa-consommation-delectricite-grace-aux-led/)
+- [L’Université de Carthage décroche la certification internationale ISO 9001:2015](https://www.lapresse.tn/2026/02/11/luniversite-de-carthage-decroche-la-certification-internationale-iso-90012015/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,11 +277,11 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
 - [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
 - [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
 - [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
 - [À Madrid, Washington imprime son rythme aux négociations sur le Sahara occidental](https://www.jeuneafrique.com/1763987/politique/a-madrid-washington-imprime-son-rythme-aux-negociations-sur-le-sahara-occidental/)
+- [Tirs à Conakry, Toumba Diakité enlevé : ce que l’on sait de la situation à la Maison centrale](https://www.jeuneafrique.com/1763998/politique/tirs-a-conakry-toumba-diakite-enleve-ce-que-lon-sait-de-la-situation-a-la-maison-centrale/)
 - [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
 - [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
 - [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
