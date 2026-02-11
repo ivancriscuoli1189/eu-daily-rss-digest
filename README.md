@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Feb 2026, 21:32*
+*Generato: 11 Feb 2026, 06:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -49,8 +49,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 - [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 
@@ -83,9 +83,9 @@
 ## UE – EP – Press Room
 
 - [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
-- [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 - [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
 - [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
+- [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 - [Mercosur: Parliament approves safeguard clauses to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33618/mercosur-parliament-approves-safeguard-clauses-to-protect-eu-agriculture)
 - [EU climate law: a 2040 emissions reduction target of 90% for the EU](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33620/eu-climate-law-a-2040-emissions-reduction-target-of-90-for-the-eu)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33609/ep-today)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Comptes publics : Un pas décisif vers plus de clarté](https://www.lapresse.tn/2026/02/11/comptes-publics-un-pas-decisif-vers-plus-de-clarte/)
 - [Inondations à Nabeul : 125 000 volailles, 900 moutons et...](https://www.lapresse.tn/2026/02/10/inondations-a-nabeul-125-000-volailles-900-moutons-et-des-hectares-de-fraises-detruits/)
-- [Le CA ramène un point de Sfax : Encore des...](https://www.lapresse.tn/2026/02/10/le-ca-ramene-un-point-de-sfax-encore-des-details-manquants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
 - [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
 - [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
 - [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
@@ -284,7 +285,6 @@
 - [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
 - [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
 - [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
-- [Crise du carburant au Mali : le syndicat des chauffeurs routiers décrète une grève](https://www.jeuneafrique.com/1763886/politique/crise-du-carburant-au-mali-le-syndicat-des-chauffeurs-routiers-decrete-une-greve/)
 - [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
 - [Chine-Afrique : les énergies renouvelables, carte maîtresse de Pékin pour asseoir son influence économique](https://www.jeuneafrique.com/1764114/economie-entreprises/chine-afrique-les-energies-renouvelables-carte-maitresse-de-pekin-pour-asseoir-son-influence-economique/)
 
