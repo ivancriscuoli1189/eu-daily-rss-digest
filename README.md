@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 09:39*
+*Generato: 11 Feb 2026, 11:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs back €7.5 million in EU support for workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33624/meps-back-EU7-5-million-in-eu-support-for-workers-in-belgium)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33611/ep-today)
 - [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
 - [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
@@ -91,7 +92,6 @@
 - [EU climate law: a 2040 emissions reduction target of 90% for the EU](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33620/eu-climate-law-a-2040-emissions-reduction-target-of-90-for-the-eu)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33609/ep-today)
 - [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
-- [Opening: 9-12 February plenary session](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33614/opening-9-12-february-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Djerba réduit de moitié sa consommation d’électricité grâce aux LED](https://www.lapresse.tn/2026/02/11/djerba-reduit-de-moitie-sa-consommation-delectricite-grace-aux-led/)
-- [L’Université de Carthage décroche la certification internationale ISO 9001:2015](https://www.lapresse.tn/2026/02/11/luniversite-de-carthage-decroche-la-certification-internationale-iso-90012015/)
+- [Vente de produits impropres à la consommation : les contrevenants...](https://www.lapresse.tn/2026/02/11/vente-de-produits-impropres-a-la-consommation-les-contrevenants-risquent-desormais-une-peine-de-prison/)
+- [Un important réseau de narcotrafiquants démantelé entre Jbel El Ahmar...](https://www.lapresse.tn/2026/02/11/un-important-reseau-de-narcotrafiquants-demantele-entre-jbel-el-ahmar-et-les-jardins-del-menzah/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Sénégal, pourquoi Ousmane Sonko et Mame Mbaye Niang se retrouvent de nouveau face à face devant la justice](https://www.jeuneafrique.com/1764011/politique/au-senegal-pourquoi-ousmane-sonko-et-mame-mbaye-niang-se-retrouvent-a-nouveau-face-a-face-devant-la-justice/)
 - [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
+- [Cameroun : Cabral Libii succombera-t-il à la tentation d’une ouverture vers Paul Biya ?](https://www.jeuneafrique.com/1762828/politique/cameroun-cabral-libii-succombera-t-il-a-la-tentation-dune-ouverture-vers-paul-biya/)
 - [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
 - [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
 - [À Madrid, Washington imprime son rythme aux négociations sur le Sahara occidental](https://www.jeuneafrique.com/1763987/politique/a-madrid-washington-imprime-son-rythme-aux-negociations-sur-le-sahara-occidental/)
 - [Tirs à Conakry, Toumba Diakité enlevé : ce que l’on sait de la situation à la Maison centrale](https://www.jeuneafrique.com/1763998/politique/tirs-a-conakry-toumba-diakite-enleve-ce-que-lon-sait-de-la-situation-a-la-maison-centrale/)
 - [Qui est Ahmed Saïdani, le député tunisien arrêté pour « offense » au président Saïed ?](https://www.jeuneafrique.com/1763889/politique/qui-est-ahmed-saidani-le-depute-tunisien-arrete-pour-offense-au-president-saied/)
-- [Le successeur de Jack Lang à l’Institut du monde arabe sera désigné le 16 février](https://www.jeuneafrique.com/1763952/politique/le-successeur-de-jack-lang-a-linstitut-du-monde-arabe-sera-designe-le-16-fevrier/)
-- [Cameroun : le dirigeant ambazonien Lucas Cho Ayaba désormais accusé de crimes de guerre](https://www.jeuneafrique.com/1763904/politique/cameroun-le-dirigeant-ambazonien-lucas-cho-ayaba-desormais-accuse-de-crimes-de-guerre/)
 - [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
 - [Chine-Afrique : les énergies renouvelables, carte maîtresse de Pékin pour asseoir son influence économique](https://www.jeuneafrique.com/1764114/economie-entreprises/chine-afrique-les-energies-renouvelables-carte-maitresse-de-pekin-pour-asseoir-son-influence-economique/)
 
