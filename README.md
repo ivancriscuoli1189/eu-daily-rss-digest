@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 14:07*
+*Generato: 11 Feb 2026, 15:49*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Recherche scientifique en Tunisie : les femmes majoritaires, mais encore...](https://www.lapresse.tn/2026/02/11/recherche-scientifique-en-tunisie-les-femmes-majoritaires-mais-encore-freinees-dans-lacces-au-pouvoir-decisionnel/)
-- [Suspension temporaire des visas italiens : que faire si vous...](https://www.lapresse.tn/2026/02/11/suspension-temporaire-des-visas-italiens-que-faire-si-vous-voyagez-depuis-la-tunisie/)
+- [Point de presse de Sabri Lamouchi, nouveau sélectionneur national :...](https://www.lapresse.tn/2026/02/11/point-de-presse-de-sabri-lamouchi-nouveau-selectionneur-national-il-nous-faut-des-regles-de-vie-et-de-travail/)
+- [Sabri Lamouchi tient un point de presse aujourd’hui (15h00...](https://www.lapresse.tn/2026/02/11/sabri-lamouchi-tient-un-point-de-presse-aujourdhui-15h00-a-la-ftf-positivons/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
 - [Le Niger de Tiani, cheval de Troie de l’Algérie de Tebboune au sein de l’AES ?](https://www.jeuneafrique.com/1764001/politique/le-niger-de-tiani-cheval-de-troie-de-lalgerie-de-tebboune-au-sein-de-laes/)
 - [Au Sénégal, pourquoi Ousmane Sonko et Mame Mbaye Niang se retrouvent de nouveau face à face devant la justice](https://www.jeuneafrique.com/1764011/politique/au-senegal-pourquoi-ousmane-sonko-et-mame-mbaye-niang-se-retrouvent-a-nouveau-face-a-face-devant-la-justice/)
 - [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
@@ -284,7 +285,6 @@
 - [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
 - [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
 - [À Madrid, Washington imprime son rythme aux négociations sur le Sahara occidental](https://www.jeuneafrique.com/1763987/politique/a-madrid-washington-imprime-son-rythme-aux-negociations-sur-le-sahara-occidental/)
-- [Tirs à Conakry, Toumba Diakité enlevé : ce que l’on sait de la situation à la Maison centrale](https://www.jeuneafrique.com/1763998/politique/tirs-a-conakry-toumba-diakite-enleve-ce-que-lon-sait-de-la-situation-a-la-maison-centrale/)
 - [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
 - [Chine-Afrique : les énergies renouvelables, carte maîtresse de Pékin pour asseoir son influence économique](https://www.jeuneafrique.com/1764114/economie-entreprises/chine-afrique-les-energies-renouvelables-carte-maitresse-de-pekin-pour-asseoir-son-influence-economique/)
 
