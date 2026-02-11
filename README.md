@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 15:49*
+*Generato: 11 Feb 2026, 18:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Point de presse de Sabri Lamouchi, nouveau sélectionneur national :...](https://www.lapresse.tn/2026/02/11/point-de-presse-de-sabri-lamouchi-nouveau-selectionneur-national-il-nous-faut-des-regles-de-vie-et-de-travail/)
-- [Sabri Lamouchi tient un point de presse aujourd’hui (15h00...](https://www.lapresse.tn/2026/02/11/sabri-lamouchi-tient-un-point-de-presse-aujourdhui-15h00-a-la-ftf-positivons/)
+- [Nabeul – vidéosurveillance sur la voie publique : La Cité...](https://www.lapresse.tn/2026/02/11/nabeul-videosurveillance-sur-la-voie-publique-la-cite-des-potiers-sequipe-de-cctv/)
+- [Point de vue : L’intenable Jamel Himoudi !](https://www.lapresse.tn/2026/02/11/point-de-vue-lintenable-jamel-himoudi/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
+- [Du Cameroun au Kenya : comment la Russie ratisse l’Afrique pour combler ses pertes humaines en Ukraine](https://www.jeuneafrique.com/1764543/politique/du-cameroun-au-kenya-comment-la-russie-ratisse-lafrique-pour-combler-ses-pertes-humaines-en-ukraine/)
+- [CNews sanctionnée de 100 000 euros d’amendes pour deux séquences discriminatoires sur les Algériens et les Palestiniens](https://www.jeuneafrique.com/1764665/politique/cnews-sanctionnee-de-100-000-euros-damendes-pour-deux-sequences-discriminatoires-sur-les-algeriens-et-les-palestiniens/)
+- [Cameroun : ce que Paul Biya a dit (ou pas) dans son discours à la jeunesse](https://www.jeuneafrique.com/1764479/politique/cameroun-ce-que-paul-biya-a-dit-ou-pas-dans-son-discours-a-la-jeunesse/)
+- [Que reste-t-il du mouvement GenZ marocain ?](https://www.jeuneafrique.com/1764339/politique/que-reste-t-il-du-mouvement-genz-marocain/)
+- [Mali-Côte d’Ivoire : le député Mamadou Hawa Gassama gracié par Alassane Ouattara](https://www.jeuneafrique.com/1764424/politique/mali-cote-divoire-le-depute-mamadou-hawa-gassama-gracie-par-alassane-ouattara/)
 - [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
 - [Le Niger de Tiani, cheval de Troie de l’Algérie de Tebboune au sein de l’AES ?](https://www.jeuneafrique.com/1764001/politique/le-niger-de-tiani-cheval-de-troie-de-lalgerie-de-tebboune-au-sein-de-laes/)
-- [Au Sénégal, pourquoi Ousmane Sonko et Mame Mbaye Niang se retrouvent de nouveau face à face devant la justice](https://www.jeuneafrique.com/1764011/politique/au-senegal-pourquoi-ousmane-sonko-et-mame-mbaye-niang-se-retrouvent-a-nouveau-face-a-face-devant-la-justice/)
-- [Russie-Afrique : le Kenya juge « inacceptable » que ses ressortissants deviennent de la « chair à canon » pour Moscou](https://www.jeuneafrique.com/1764253/politique/russie-afrique-le-kenya-juge-inacceptable-que-ses-ressortissants-deviennent-de-la-chair-a-canon-pour-moscou/)
-- [Cameroun : Cabral Libii succombera-t-il à la tentation d’une ouverture vers Paul Biya ?](https://www.jeuneafrique.com/1762828/politique/cameroun-cabral-libii-succombera-t-il-a-la-tentation-dune-ouverture-vers-paul-biya/)
-- [Stupeur sur un campus de Dakar après le décès d’un étudiant](https://www.jeuneafrique.com/1764171/politique/stupeur-sur-un-campus-de-dakar-apres-le-deces-dun-etudiant/)
-- [Madagascar-Eswatini : le soutien du roi Mswati III à Andry Rajoelina provoque une crise diplomatique](https://www.jeuneafrique.com/1764091/politique/madagascar-eswatini-le-soutien-du-roi-mswati-iii-a-andry-rajoelina-provoque-une-crise-diplomatique/)
-- [À Madrid, Washington imprime son rythme aux négociations sur le Sahara occidental](https://www.jeuneafrique.com/1763987/politique/a-madrid-washington-imprime-son-rythme-aux-negociations-sur-le-sahara-occidental/)
+- [Comment les chasseurs de têtes façonnent le monde de la finance africaine](https://www.jeuneafrique.com/1763992/economie-entreprises/comment-les-chasseurs-de-tetes-faconnent-le-monde-de-la-finance-africaine/)
 - [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
-- [Chine-Afrique : les énergies renouvelables, carte maîtresse de Pékin pour asseoir son influence économique](https://www.jeuneafrique.com/1764114/economie-entreprises/chine-afrique-les-energies-renouvelables-carte-maitresse-de-pekin-pour-asseoir-son-influence-economique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
