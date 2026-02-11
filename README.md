@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 11:35*
+*Generato: 11 Feb 2026, 12:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [“Expanded and enhanced” – opening a new chapter for EU Defence Partnerships](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33902/expanded-and-enhanced-opening-a-new-chapter-for-eu-defence-partnerships)
+- [Parliament approves €90 billion Ukraine support loan package](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)
 - [MEPs back €7.5 million in EU support for workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33624/meps-back-EU7-5-million-in-eu-support-for-workers-in-belgium)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33611/ep-today)
 - [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
@@ -90,8 +92,6 @@
 - [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 - [Mercosur: Parliament approves safeguard clauses to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33618/mercosur-parliament-approves-safeguard-clauses-to-protect-eu-agriculture)
 - [EU climate law: a 2040 emissions reduction target of 90% for the EU](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33620/eu-climate-law-a-2040-emissions-reduction-target-of-90-for-the-eu)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33609/ep-today)
-- [MEPs adopt proposals to tackle Europe’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33603/meps-adopt-proposals-to-tackle-europe-s-housing-crisis)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vente de produits impropres à la consommation : les contrevenants...](https://www.lapresse.tn/2026/02/11/vente-de-produits-impropres-a-la-consommation-les-contrevenants-risquent-desormais-une-peine-de-prison/)
-- [Un important réseau de narcotrafiquants démantelé entre Jbel El Ahmar...](https://www.lapresse.tn/2026/02/11/un-important-reseau-de-narcotrafiquants-demantele-entre-jbel-el-ahmar-et-les-jardins-del-menzah/)
+- [Soigner par l’eau : la Tunisie confirme l’efficacité de l’hydrothérapie](https://www.lapresse.tn/2026/02/11/soigner-par-leau-la-tunisie-confirme-lefficacite-de-lhydrotherapie/)
+- [Saint-Valentin : une forte réduction annoncée sur les vols Tunisair](https://www.lapresse.tn/2026/02/11/saint-valentin-une-forte-reduction-annoncee-sur-les-vols-tunisair/)
 
 ## NGOs – Amnesty International – Tunisia
 
