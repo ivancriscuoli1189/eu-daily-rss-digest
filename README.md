@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 09:35*
+*Generato: 12 Feb 2026, 11:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
-- [Indice des prix à la consommation, Octobre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-octobre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [President Metsola: “We have a narrow window to deliver for Europe and we must.”](https://www.europarl.europa.eu/news/en/press-room/20260209IPR34104/president-metsola-we-have-a-narrow-window-to-deliver-for-europe-and-we-must)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33612/ep-today)
 - [“Expanded and enhanced” – opening a new chapter for EU Defence Partnerships](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33902/expanded-and-enhanced-opening-a-new-chapter-for-eu-defence-partnerships)
 - [Parliament approves €90 billion Ukraine support loan package](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)
@@ -91,7 +92,6 @@
 - [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
 - [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
 - [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
-- [Mercosur: Parliament approves safeguard clauses to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33618/mercosur-parliament-approves-safeguard-clauses-to-protect-eu-agriculture)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tempête exceptionnelle : Nils frappe le sud de la France](https://www.lapresse.tn/2026/02/12/tempete-exceptionnelle-nils-frappe-le-sud-de-la-france/)
-- [Recrutement : plus de 1 800 postes ouverts dans l’enseignement...](https://www.lapresse.tn/2026/02/12/recrutement-plus-de-1-800-postes-ouverts-dans-lenseignement-secondaire-et-technique/)
+- [Epson Atmix annonce une nouvelle unité de production de poudres...](https://www.lapresse.tn/2026/02/12/epson-atmix-annonce-une-nouvelle-unite-de-production-de-poudres-dalliages-amorphes/)
+- [Tunisie : mise en service d’une unité mobile de secours...](https://www.lapresse.tn/2026/02/12/tunisie-mise-en-service-dune-unite-mobile-de-secours-et-de-reanimation-a-medjez-el-bab/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
 - [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
 - [Du Cameroun au Kenya : comment la Russie ratisse l’Afrique pour combler ses pertes humaines en Ukraine](https://www.jeuneafrique.com/1764543/politique/du-cameroun-au-kenya-comment-la-russie-ratisse-lafrique-pour-combler-ses-pertes-humaines-en-ukraine/)
 - [CNews sanctionnée de 100 000 euros d’amendes pour deux séquences discriminatoires sur les Algériens et les Palestiniens](https://www.jeuneafrique.com/1764665/politique/cnews-sanctionnee-de-100-000-euros-damendes-pour-deux-sequences-discriminatoires-sur-les-algeriens-et-les-palestiniens/)
@@ -284,7 +285,6 @@
 - [Que reste-t-il du mouvement GenZ marocain ?](https://www.jeuneafrique.com/1764339/politique/que-reste-t-il-du-mouvement-genz-marocain/)
 - [Mali-Côte d’Ivoire : le député Mamadou Hawa Gassama gracié par Alassane Ouattara](https://www.jeuneafrique.com/1764424/politique/mali-cote-divoire-le-depute-mamadou-hawa-gassama-gracie-par-alassane-ouattara/)
 - [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
-- [Le Niger de Tiani, cheval de Troie de l’Algérie de Tebboune au sein de l’AES ?](https://www.jeuneafrique.com/1764001/politique/le-niger-de-tiani-cheval-de-troie-de-lalgerie-de-tebboune-au-sein-de-laes/)
 - [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
 - [De Barrick à ministre au Mali, Hilaire Diarra, le choix de Goïta pour relancer le secteur minier](https://www.jeuneafrique.com/1763386/economie-entreprises/de-barrick-a-ministre-au-mali-hilaire-diarra-le-choix-de-goita-pour-relancer-le-secteur-minier/)
 
