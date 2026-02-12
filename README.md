@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Feb 2026, 21:24*
+*Generato: 12 Feb 2026, 06:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Coup de filet municipal à Ariana : sept camions saisis](https://www.lapresse.tn/2026/02/11/coup-de-filet-municipal-a-ariana-sept-camions-saisis/)
-- [Immeubles menaçant ruine : le casse-tête du relogement bloque les...](https://www.lapresse.tn/2026/02/11/immeubles-menacant-ruine-le-casse-tete-du-relogement-bloque-les-demolitions/)
+- [Coco Beach illégal : jusqu’à 50 000 dinars d’amende et...](https://www.lapresse.tn/2026/02/11/coco-beach-illegal-jusqua-50-000-dinars-damende-et-six-mois-de-prison-en-vue/)
+- [Le Tunisien Ridha Mami, premier membre arabe de l’Académie nationale...](https://www.lapresse.tn/2026/02/11/le-tunisien-ridha-mami-premier-membre-arabe-de-lacademie-nationale-dhistoire-et-de-geographie-du-mexique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -203,12 +203,12 @@
 - [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
 - [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
 - [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
 - [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
 - [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
 - [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
 - [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
 - [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Sham Trial](https://www.hrw.org/news/2025/04/22/tunisia-harsh-sentences-conspiracy-case-sham-trial)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
