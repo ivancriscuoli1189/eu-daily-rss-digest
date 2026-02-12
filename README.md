@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 12:34*
+*Generato: 12 Feb 2026, 14:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Gand illumine ses rues pour le Ramadan, une première en...](https://www.lapresse.tn/2026/02/12/gand-illumine-ses-rues-pour-le-ramadan-une-premiere-en-belgique/)
-- [Tunisie–Chine : vers un jumelage culturel entre Bizerte et Hebi...](https://www.lapresse.tn/2026/02/12/tunisie-chine-vers-un-jumelage-culturel-entre-bizerte-et-hebi/)
+- [Espérance de Tunis – Petro Atlético : la CAF annonce...](https://www.lapresse.tn/2026/02/12/esperance-de-tunis-petro-atletico-la-caf-annonce-larbitre-du-duel-du-groupe-d/)
+- [Facturation électronique : vers l’abrogation de l’article 53 de la...](https://www.lapresse.tn/2026/02/12/facturation-electronique-vers-labrogation-de-larticle-53-de-la-loi-de-finances-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
 - [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
 - [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
 - [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
@@ -284,7 +285,6 @@
 - [CNews sanctionnée de 100 000 euros d’amendes pour deux séquences discriminatoires sur les Algériens et les Palestiniens](https://www.jeuneafrique.com/1764665/politique/cnews-sanctionnee-de-100-000-euros-damendes-pour-deux-sequences-discriminatoires-sur-les-algeriens-et-les-palestiniens/)
 - [Cameroun : ce que Paul Biya a dit (ou pas) dans son discours à la jeunesse](https://www.jeuneafrique.com/1764479/politique/cameroun-ce-que-paul-biya-a-dit-ou-pas-dans-son-discours-a-la-jeunesse/)
 - [Que reste-t-il du mouvement GenZ marocain ?](https://www.jeuneafrique.com/1764339/politique/que-reste-t-il-du-mouvement-genz-marocain/)
-- [Mali-Côte d’Ivoire : le député Mamadou Hawa Gassama gracié par Alassane Ouattara](https://www.jeuneafrique.com/1764424/politique/mali-cote-divoire-le-depute-mamadou-hawa-gassama-gracie-par-alassane-ouattara/)
 - [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
 - [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
 
