@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 11:32*
+*Generato: 12 Feb 2026, 12:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
+- [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
+- [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
+- [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
+- [New rules to protect farmers against unfair trading practices](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33625/new-rules-to-protect-farmers-against-unfair-trading-practices)
 - [President Metsola: “We have a narrow window to deliver for Europe and we must.”](https://www.europarl.europa.eu/news/en/press-room/20260209IPR34104/president-metsola-we-have-a-narrow-window-to-deliver-for-europe-and-we-must)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33612/ep-today)
 - [“Expanded and enhanced” – opening a new chapter for EU Defence Partnerships](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33902/expanded-and-enhanced-opening-a-new-chapter-for-eu-defence-partnerships)
 - [Parliament approves €90 billion Ukraine support loan package](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)
 - [MEPs back €7.5 million in EU support for workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33624/meps-back-EU7-5-million-in-eu-support-for-workers-in-belgium)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33611/ep-today)
-- [UN General Assembly President Annalena Baerbock: The United Nations need Europe](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33622/un-general-assembly-president-annalena-baerbock-the-united-nations-need-europe)
-- [MEPs stress the importance of independent central banks in times of heightened tension](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33621/meps-stress-importance-of-independent-central-banks-in-times-of-tension)
-- [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
-- [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Epson Atmix annonce une nouvelle unité de production de poudres...](https://www.lapresse.tn/2026/02/12/epson-atmix-annonce-une-nouvelle-unite-de-production-de-poudres-dalliages-amorphes/)
-- [Tunisie : mise en service d’une unité mobile de secours...](https://www.lapresse.tn/2026/02/12/tunisie-mise-en-service-dune-unite-mobile-de-secours-et-de-reanimation-a-medjez-el-bab/)
+- [Gand illumine ses rues pour le Ramadan, une première en...](https://www.lapresse.tn/2026/02/12/gand-illumine-ses-rues-pour-le-ramadan-une-premiere-en-belgique/)
+- [Tunisie–Chine : vers un jumelage culturel entre Bizerte et Hebi...](https://www.lapresse.tn/2026/02/12/tunisie-chine-vers-un-jumelage-culturel-entre-bizerte-et-hebi/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
 - [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
 - [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
 - [Du Cameroun au Kenya : comment la Russie ratisse l’Afrique pour combler ses pertes humaines en Ukraine](https://www.jeuneafrique.com/1764543/politique/du-cameroun-au-kenya-comment-la-russie-ratisse-lafrique-pour-combler-ses-pertes-humaines-en-ukraine/)
@@ -284,9 +285,8 @@
 - [Cameroun : ce que Paul Biya a dit (ou pas) dans son discours à la jeunesse](https://www.jeuneafrique.com/1764479/politique/cameroun-ce-que-paul-biya-a-dit-ou-pas-dans-son-discours-a-la-jeunesse/)
 - [Que reste-t-il du mouvement GenZ marocain ?](https://www.jeuneafrique.com/1764339/politique/que-reste-t-il-du-mouvement-genz-marocain/)
 - [Mali-Côte d’Ivoire : le député Mamadou Hawa Gassama gracié par Alassane Ouattara](https://www.jeuneafrique.com/1764424/politique/mali-cote-divoire-le-depute-mamadou-hawa-gassama-gracie-par-alassane-ouattara/)
-- [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
+- [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
 - [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
-- [De Barrick à ministre au Mali, Hilaire Diarra, le choix de Goïta pour relancer le secteur minier](https://www.jeuneafrique.com/1763386/economie-entreprises/de-barrick-a-ministre-au-mali-hilaire-diarra-le-choix-de-goita-pour-relancer-le-secteur-minier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
