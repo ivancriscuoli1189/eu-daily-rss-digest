@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 15:39*
+*Generato: 12 Feb 2026, 18:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [“Ce que la vie ne t’a jamais dit”, un premier...](https://www.lapresse.tn/2026/02/12/ce-que-la-vie-ne-ta-jamais-dit-un-premier-roman-introspectif-signe-myriam-khiari/)
-- [Taux d’intérêt : les plafonds fixés pour le premier semestre...](https://www.lapresse.tn/2026/02/12/taux-dinteret-les-plafonds-fixes-pour-le-premier-semestre-2026/)
+- [À Gaza, le cinéma déploie de petites ailes : Réparer...](https://www.lapresse.tn/2026/02/12/a-gaza-le-cinema-deploie-de-petites-ailes-reparer-lenfance/)
+- [Stationnement : Qui arrêtera l’hégémonie du camion‑grue ?](https://www.lapresse.tn/2026/02/12/stationnement-qui-arretera-lhegemonie-du-camion-grue/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [La Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
+- [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
+- [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
+- [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
+- [Le Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
 - [Sahara occidental : après les discussions de Madrid, quel avenir pour la Minurso ?](https://www.jeuneafrique.com/1764890/politique/sahara-occidental-apres-les-discussions-de-madrid-quel-avenir-pour-la-minurso/)
+- [Mali : l’imam Mahmoud Dicko à Nouakchott pour renforcer son influence régionale](https://www.jeuneafrique.com/1764609/politique/mali-limam-mahmoud-dicko-a-nouakchott-pour-renforcer-son-influence-regionale/)
 - [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
 - [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
-- [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
-- [Du Cameroun au Kenya : comment la Russie ratisse l’Afrique pour combler ses pertes humaines en Ukraine](https://www.jeuneafrique.com/1764543/politique/du-cameroun-au-kenya-comment-la-russie-ratisse-lafrique-pour-combler-ses-pertes-humaines-en-ukraine/)
-- [CNews sanctionnée de 100 000 euros d’amendes pour deux séquences discriminatoires sur les Algériens et les Palestiniens](https://www.jeuneafrique.com/1764665/politique/cnews-sanctionnee-de-100-000-euros-damendes-pour-deux-sequences-discriminatoires-sur-les-algeriens-et-les-palestiniens/)
-- [Cameroun : ce que Paul Biya a dit (ou pas) dans son discours à la jeunesse](https://www.jeuneafrique.com/1764479/politique/cameroun-ce-que-paul-biya-a-dit-ou-pas-dans-son-discours-a-la-jeunesse/)
+- [Face à la concurrence, il faut repenser le métier d’avocat en Afrique](https://www.jeuneafrique.com/1765134/economie-entreprises/face-a-la-concurrence-il-faut-repenser-le-metier-davocat-en-afrique/)
 - [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
-- [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
