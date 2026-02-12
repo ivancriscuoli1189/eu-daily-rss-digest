@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 14:02*
+*Generato: 12 Feb 2026, 15:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Espérance de Tunis – Petro Atlético : la CAF annonce...](https://www.lapresse.tn/2026/02/12/esperance-de-tunis-petro-atletico-la-caf-annonce-larbitre-du-duel-du-groupe-d/)
-- [Facturation électronique : vers l’abrogation de l’article 53 de la...](https://www.lapresse.tn/2026/02/12/facturation-electronique-vers-labrogation-de-larticle-53-de-la-loi-de-finances-2026/)
+- [“Ce que la vie ne t’a jamais dit”, un premier...](https://www.lapresse.tn/2026/02/12/ce-que-la-vie-ne-ta-jamais-dit-un-premier-roman-introspectif-signe-myriam-khiari/)
+- [Taux d’intérêt : les plafonds fixés pour le premier semestre...](https://www.lapresse.tn/2026/02/12/taux-dinteret-les-plafonds-fixes-pour-le-premier-semestre-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -278,13 +278,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [La Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
+- [Sahara occidental : après les discussions de Madrid, quel avenir pour la Minurso ?](https://www.jeuneafrique.com/1764890/politique/sahara-occidental-apres-les-discussions-de-madrid-quel-avenir-pour-la-minurso/)
 - [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
 - [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
 - [Au Zimbabwe, Emmerson Mnangagwa n’entretient même pas le suspense](https://www.jeuneafrique.com/1764541/politique/au-zimbabwe-emmerson-mnangagwa-nentretient-meme-pas-le-suspense/)
 - [Du Cameroun au Kenya : comment la Russie ratisse l’Afrique pour combler ses pertes humaines en Ukraine](https://www.jeuneafrique.com/1764543/politique/du-cameroun-au-kenya-comment-la-russie-ratisse-lafrique-pour-combler-ses-pertes-humaines-en-ukraine/)
 - [CNews sanctionnée de 100 000 euros d’amendes pour deux séquences discriminatoires sur les Algériens et les Palestiniens](https://www.jeuneafrique.com/1764665/politique/cnews-sanctionnee-de-100-000-euros-damendes-pour-deux-sequences-discriminatoires-sur-les-algeriens-et-les-palestiniens/)
 - [Cameroun : ce que Paul Biya a dit (ou pas) dans son discours à la jeunesse](https://www.jeuneafrique.com/1764479/politique/cameroun-ce-que-paul-biya-a-dit-ou-pas-dans-son-discours-a-la-jeunesse/)
-- [Que reste-t-il du mouvement GenZ marocain ?](https://www.jeuneafrique.com/1764339/politique/que-reste-t-il-du-mouvement-genz-marocain/)
 - [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
 - [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
 
