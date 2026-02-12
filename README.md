@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 06:46*
+*Generato: 12 Feb 2026, 09:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,7 +70,7 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع وزير الداخلية و وزير التربية و كاتب الدّولة للأمن الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33612/ep-today)
 - [“Expanded and enhanced” – opening a new chapter for EU Defence Partnerships](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33902/expanded-and-enhanced-opening-a-new-chapter-for-eu-defence-partnerships)
 - [Parliament approves €90 billion Ukraine support loan package](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)
 - [MEPs back €7.5 million in EU support for workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33624/meps-back-EU7-5-million-in-eu-support-for-workers-in-belgium)
@@ -91,7 +92,6 @@
 - [Asylum: new rules for safe third countries and EU safe countries of origin list](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33617/asylum-new-rules-for-safe-third-countries-and-eu-safe-countries-of-origin-list)
 - [New measures to protect and promote the EU’s wine sector](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33615/new-measures-to-protect-and-promote-the-eu-s-wine-sector)
 - [Mercosur: Parliament approves safeguard clauses to protect EU agriculture](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33618/mercosur-parliament-approves-safeguard-clauses-to-protect-eu-agriculture)
-- [EU climate law: a 2040 emissions reduction target of 90% for the EU](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33620/eu-climate-law-a-2040-emissions-reduction-target-of-90-for-the-eu)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Coco Beach illégal : jusqu’à 50 000 dinars d’amende et...](https://www.lapresse.tn/2026/02/11/coco-beach-illegal-jusqua-50-000-dinars-damende-et-six-mois-de-prison-en-vue/)
-- [Le Tunisien Ridha Mami, premier membre arabe de l’Académie nationale...](https://www.lapresse.tn/2026/02/11/le-tunisien-ridha-mami-premier-membre-arabe-de-lacademie-nationale-dhistoire-et-de-geographie-du-mexique/)
+- [Tempête exceptionnelle : Nils frappe le sud de la France](https://www.lapresse.tn/2026/02/12/tempete-exceptionnelle-nils-frappe-le-sud-de-la-france/)
+- [Recrutement : plus de 1 800 postes ouverts dans l’enseignement...](https://www.lapresse.tn/2026/02/12/recrutement-plus-de-1-800-postes-ouverts-dans-lenseignement-secondaire-et-technique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [Mali-Côte d’Ivoire : le député Mamadou Hawa Gassama gracié par Alassane Ouattara](https://www.jeuneafrique.com/1764424/politique/mali-cote-divoire-le-depute-mamadou-hawa-gassama-gracie-par-alassane-ouattara/)
 - [Louise Mushikiwabo : « Je pense avoir encore beaucoup de choses à apporter à l’OIF »](https://www.jeuneafrique.com/1763752/politique/louise-mushikiwabo-je-pense-avoir-encore-beaucoup-de-choses-a-apporter-a-loif/)
 - [Le Niger de Tiani, cheval de Troie de l’Algérie de Tebboune au sein de l’AES ?](https://www.jeuneafrique.com/1764001/politique/le-niger-de-tiani-cheval-de-troie-de-lalgerie-de-tebboune-au-sein-de-laes/)
-- [Comment les chasseurs de têtes façonnent le monde de la finance africaine](https://www.jeuneafrique.com/1763992/economie-entreprises/comment-les-chasseurs-de-tetes-faconnent-le-monde-de-la-finance-africaine/)
-- [Pris d’assaut, le marché financier ouest-africain est-il au bord de l’implosion ?](https://www.jeuneafrique.com/1764211/economie-entreprises/pris-dassaut-le-marche-financier-ouest-africain-est-il-au-bord-de-limplosion/)
+- [Comment Dangote veut devenir un conglomérat à 100 milliards de dollars](https://www.jeuneafrique.com/1764558/economie-entreprises/comment-dangote-veut-devenir-un-conglomerat-a-100-milliards-de-dollars/)
+- [De Barrick à ministre au Mali, Hilaire Diarra, le choix de Goïta pour relancer le secteur minier](https://www.jeuneafrique.com/1763386/economie-entreprises/de-barrick-a-ministre-au-mali-hilaire-diarra-le-choix-de-goita-pour-relancer-le-secteur-minier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
