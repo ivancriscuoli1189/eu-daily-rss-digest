@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 13:53*
+*Generato: 13 Feb 2026, 15:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ligue 1 – 21e journée – JSK : En bonne...](https://www.lapresse.tn/2026/02/13/ligue-1-21e-journee-jsk-en-bonne-posture/)
-- [Femmes enceintes : le vaccin trivalent dTCa intégré au calendrier...](https://www.lapresse.tn/2026/02/13/femmes-enceintes-le-vaccin-trivalent-dtca-integre-au-calendrier-vaccinal/)
+- [Affaire du chien égorgé à Moknine : les acteurs présumés...](https://www.lapresse.tn/2026/02/13/affaire-du-chien-egorge-a-teboulba-les-acteurs-presumes-interpelles/)
+- [Le taux d’inflation baisse, le pouvoir d’achat ne s’améliore pas...](https://www.lapresse.tn/2026/02/13/le-taux-dinflation-baisse-le-pouvoir-dachat-ne-sameliore-pas-analyse-de-lexpert-economique-ridha-chkoundali/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tchad : le touriste français porté disparu a été retrouvé mort](https://www.jeuneafrique.com/1765567/politique/tchad-le-touriste-francais-porte-disparu-a-ete-retrouve-mort/)
 - [Au Sénégal, l’université de Dakar « suspend » les organisations étudiantes](https://www.jeuneafrique.com/1765281/politique/au-senegal-luniversite-de-dakar-suspend-les-organisations-etudiantes/)
 - [Laurent Nuñez en Algérie en début de semaine](https://www.jeuneafrique.com/1765261/politique/laurent-nunez-en-algerie-en-debut-de-semaine/)
 - [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
@@ -284,7 +285,6 @@
 - [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
 - [Sahara occidental : ce que l’on sait des grandes lignes du plan d’autonomie marocain](https://www.jeuneafrique.com/1764915/politique/sahara-occidental-ce-que-lon-sait-des-grandes-lignes-du-plan-dautonomie-marocain/)
 - [Corruption en Afrique : état des lieux, pays par pays](https://www.jeuneafrique.com/1764615/politique/corruption-en-afrique-etat-des-lieux-pays-par-pays/)
-- [Le Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
 - [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
 - [Pétrole au Sénégal : Petrosen peut-elle vraiment changer de dimension ?](https://www.jeuneafrique.com/1765174/economie-entreprises/petrole-au-senegal-petrosen-peut-elle-vraiment-changer-de-dimension/)
 
