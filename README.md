@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 06:43*
+*Generato: 13 Feb 2026, 09:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nafti échange avec la Commission de l’UA sur la coopération...](https://www.lapresse.tn/2026/02/12/nafti-echange-avec-la-commission-de-lua-sur-la-cooperation-continentale-et-les-defis-africains/)
-- [Essahafa Alyawm : lancement imminent d’un nouveau site digital le...](https://www.lapresse.tn/2026/02/12/essahafa-alyawm-lancement-imminent-dun-nouveau-site-digital-le-14-fevrier/)
+- [Ben Arous-Zaghouan : coup d’envoi des travaux de renforcement de...](https://www.lapresse.tn/2026/02/13/ben-arous-zaghouan-coup-denvoi-des-travaux-de-renforcement-de-la-route-nationale-n-3/)
+- [Italie : adoption d’un projet de loi pour imposer un...](https://www.lapresse.tn/2026/02/13/italie-adoption-dun-projet-de-loi-pour-imposer-un-blocus-maritime-aux-migrants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 - [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
-- [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 - [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
-- [Tunisia: Quash the unjust conviction of civil society actors and others for upholding migrants’ and refugees’ human rights and release those arbitrarily detained](https://www.icj.org/tunisia-quash-the-unjust-conviction-of-civil-society-actors-and-others-for-upholding-migrants-and-refugees-human-rights-and-release-those-arbitrarily-detained/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -277,7 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Gabon, les liaisons dangereuses entre politiques et sorcellerie](https://www.jeuneafrique.com/1762780/politique/au-gabon-les-liaisons-dangereuses-entre-politiques-et-sorcellerie/)
+- [Laurent Nuñez en Algérie en début de semaine](https://www.jeuneafrique.com/1765261/politique/laurent-nunez-en-algerie-en-debut-de-semaine/)
 - [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
 - [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
 - [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
@@ -285,8 +285,8 @@
 - [Sahara occidental : après les discussions de Madrid, quel avenir pour la Minurso ?](https://www.jeuneafrique.com/1764890/politique/sahara-occidental-apres-les-discussions-de-madrid-quel-avenir-pour-la-minurso/)
 - [Mali : l’imam Mahmoud Dicko à Nouakchott pour renforcer son influence régionale](https://www.jeuneafrique.com/1764609/politique/mali-limam-mahmoud-dicko-a-nouakchott-pour-renforcer-son-influence-regionale/)
 - [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
-- [Face à la concurrence, il faut repenser le métier d’avocat en Afrique](https://www.jeuneafrique.com/1765134/economie-entreprises/face-a-la-concurrence-il-faut-repenser-le-metier-davocat-en-afrique/)
-- [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
+- [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
+- [Pétrole au Sénégal : Petrosen peut-elle vraiment changer de dimension ?](https://www.jeuneafrique.com/1765174/economie-entreprises/petrole-au-senegal-petrosen-peut-elle-vraiment-changer-de-dimension/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
