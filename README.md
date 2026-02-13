@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 11:23*
+*Generato: 13 Feb 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -274,6 +274,19 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
+
+## MAGAZINES – Jeune Afrique
+
+- [Au Sénégal, l’université de Dakar « suspend » les organisations étudiantes](https://www.jeuneafrique.com/1765281/politique/au-senegal-luniversite-de-dakar-suspend-les-organisations-etudiantes/)
+- [Laurent Nuñez en Algérie en début de semaine](https://www.jeuneafrique.com/1765261/politique/laurent-nunez-en-algerie-en-debut-de-semaine/)
+- [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
+- [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
+- [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
+- [Sahara occidental : ce que l’on sait des grandes lignes du plan d’autonomie marocain](https://www.jeuneafrique.com/1764915/politique/sahara-occidental-ce-que-lon-sait-des-grandes-lignes-du-plan-dautonomie-marocain/)
+- [Corruption en Afrique : état des lieux, pays par pays](https://www.jeuneafrique.com/1764615/politique/corruption-en-afrique-etat-des-lieux-pays-par-pays/)
+- [Le Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
+- [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
+- [Pétrole au Sénégal : Petrosen peut-elle vraiment changer de dimension ?](https://www.jeuneafrique.com/1765174/economie-entreprises/petrole-au-senegal-petrosen-peut-elle-vraiment-changer-de-dimension/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
