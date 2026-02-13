@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Feb 2026, 21:22*
+*Generato: 13 Feb 2026, 06:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -50,8 +50,8 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
@@ -82,9 +82,9 @@
 
 ## UE – EP – Press Room
 
-- [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
+- [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
 - [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
 - [New rules to protect farmers against unfair trading practices](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33625/new-rules-to-protect-farmers-against-unfair-trading-practices)
 - [President Metsola: “We have a narrow window to deliver for Europe and we must.”](https://www.europarl.europa.eu/news/en/press-room/20260209IPR34104/president-metsola-we-have-a-narrow-window-to-deliver-for-europe-and-we-must)
@@ -171,6 +171,19 @@
 - [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
 
+## MEDIA TUNISIA – La Presse de Tunisie
+
+- [Actualités](https://www.lapresse.tn/category/actualites/)
+- [Économie](https://www.lapresse.tn/category/economie/)
+- [Société](https://www.lapresse.tn/category/societe/)
+- [Culture](https://www.lapresse.tn/category/culture/)
+- [Magazine](https://www.lapresse.tn/category/magazine/)
+- [Sport](https://www.lapresse.tn/category/sport/)
+- [International](https://www.lapresse.tn/category/international/)
+- [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Nafti échange avec la Commission de l’UA sur la coopération...](https://www.lapresse.tn/2026/02/12/nafti-echange-avec-la-commission-de-lua-sur-la-cooperation-continentale-et-les-defis-africains/)
+- [Essahafa Alyawm : lancement imminent d’un nouveau site digital le...](https://www.lapresse.tn/2026/02/12/essahafa-alyawm-lancement-imminent-dun-nouveau-site-digital-le-14-fevrier/)
+
 ## NGOs – Amnesty International – Tunisia
 
 - [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
@@ -223,6 +236,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
+- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
+- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
+- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -251,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Gabon, les liaisons dangereuses entre politiques et sorcellerie](https://www.jeuneafrique.com/1762780/politique/au-gabon-les-liaisons-dangereuses-entre-politiques-et-sorcellerie/)
 - [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
 - [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
 - [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
@@ -258,7 +285,6 @@
 - [Sahara occidental : après les discussions de Madrid, quel avenir pour la Minurso ?](https://www.jeuneafrique.com/1764890/politique/sahara-occidental-apres-les-discussions-de-madrid-quel-avenir-pour-la-minurso/)
 - [Mali : l’imam Mahmoud Dicko à Nouakchott pour renforcer son influence régionale](https://www.jeuneafrique.com/1764609/politique/mali-limam-mahmoud-dicko-a-nouakchott-pour-renforcer-son-influence-regionale/)
 - [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
-- [RDC : « L’accord conclu avec les États-Unis n’est pas un bradage. Au contraire, il signe la fin du pillage »](https://www.jeuneafrique.com/1764566/politique/rdc-laccord-conclu-avec-les-etats-unis-nest-pas-un-bradage-au-contraire-il-signe-la-fin-du-pillage/)
 - [Face à la concurrence, il faut repenser le métier d’avocat en Afrique](https://www.jeuneafrique.com/1765134/economie-entreprises/face-a-la-concurrence-il-faut-repenser-le-metier-davocat-en-afrique/)
 - [Pourquoi l’Afrique offre un répit à Heineken](https://www.jeuneafrique.com/1764821/economie-entreprises/pourquoi-lafrique-offre-un-repit-a-heineken/)
 
