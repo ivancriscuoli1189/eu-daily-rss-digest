@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 09:32*
+*Generato: 13 Feb 2026, 11:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ben Arous-Zaghouan : coup d’envoi des travaux de renforcement de...](https://www.lapresse.tn/2026/02/13/ben-arous-zaghouan-coup-denvoi-des-travaux-de-renforcement-de-la-route-nationale-n-3/)
-- [Italie : adoption d’un projet de loi pour imposer un...](https://www.lapresse.tn/2026/02/13/italie-adoption-dun-projet-de-loi-pour-imposer-un-blocus-maritime-aux-migrants/)
+- [Femmes enceintes : le vaccin trivalent dTCa intégré au calendrier...](https://www.lapresse.tn/2026/02/13/femmes-enceintes-le-vaccin-trivalent-dtca-integre-au-calendrier-vaccinal/)
+- [Affaire de l’agression d’un enfant de trois ans à Ennasr...](https://www.lapresse.tn/2026/02/13/affaire-de-lagression-dun-enfant-de-trois-ans-a-ennasr-le-parquet-reagit/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -274,19 +274,6 @@
 - [Leadership](https://www.brookings.edu/about-us/leadership/)
 - [Careers](https://www.brookings.edu/careers/)
 - [Our Commitments](https://www.brookings.edu/about-us/#commitments)
-
-## MAGAZINES – Jeune Afrique
-
-- [Laurent Nuñez en Algérie en début de semaine](https://www.jeuneafrique.com/1765261/politique/laurent-nunez-en-algerie-en-debut-de-semaine/)
-- [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
-- [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
-- [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
-- [Le Niger va « entrer en guerre avec la France », menace le général Amadou Ibro](https://www.jeuneafrique.com/1765006/politique/la-niger-va-entrer-en-guerre-avec-la-france-menace-le-general-amadou-ibro/)
-- [Sahara occidental : après les discussions de Madrid, quel avenir pour la Minurso ?](https://www.jeuneafrique.com/1764890/politique/sahara-occidental-apres-les-discussions-de-madrid-quel-avenir-pour-la-minurso/)
-- [Mali : l’imam Mahmoud Dicko à Nouakchott pour renforcer son influence régionale](https://www.jeuneafrique.com/1764609/politique/mali-limam-mahmoud-dicko-a-nouakchott-pour-renforcer-son-influence-regionale/)
-- [Niger–Bénin : quand Abdourahamane Tiani demande une escorte militaire à Patrice Talon](https://www.jeuneafrique.com/1764673/politique/niger-benin-quand-abdourahamane-tiani-demande-une-escorte-militaire-a-patrice-talon/)
-- [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
-- [Pétrole au Sénégal : Petrosen peut-elle vraiment changer de dimension ?](https://www.jeuneafrique.com/1765174/economie-entreprises/petrole-au-senegal-petrosen-peut-elle-vraiment-changer-de-dimension/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
