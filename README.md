@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 18:29*
+*Generato: 13 Feb 2026, 21:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [« My Favourites » de Sami Maatougui au Théâtre de l’Opéra de...](https://www.lapresse.tn/2026/02/13/my-favourites-de-sami-maatougui-au-theatre-de-lopera-de-tunis-lartisan-discret-des-grands-succes/)
-- [Football : les rencontres à suivre ce soir en Ligue...](https://www.lapresse.tn/2026/02/13/football-les-rencontres-a-suivre-ce-soir-en-ligue-1-serie-a-et-bundesliga/)
+- [Ramadan 2026 : Programme du Festival de la Médina de...](https://www.lapresse.tn/2026/02/13/ramadan-2026-programme-du-festival-de-la-medina-de-tunis/)
+- [Tunisie : Sartex adopte la réutilisation de l’eau grâce à...](https://www.lapresse.tn/2026/02/13/tunisie-sartex-adopte-la-reutilisation-de-leau-grace-a-la-technologie-italienne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -286,7 +286,7 @@
 - [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
 - [Sahara occidental : ce que l’on sait des grandes lignes du plan d’autonomie marocain](https://www.jeuneafrique.com/1764915/politique/sahara-occidental-ce-que-lon-sait-des-grandes-lignes-du-plan-dautonomie-marocain/)
 - [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
-- [Pétrole au Sénégal : Petrosen peut-elle vraiment changer de dimension ?](https://www.jeuneafrique.com/1765174/economie-entreprises/petrole-au-senegal-petrosen-peut-elle-vraiment-changer-de-dimension/)
+- [Jumia affiche sa confiance sous le regard hésitant de Wall Street](https://www.jeuneafrique.com/1765231/economie-entreprises/jumia-affiche-sa-confiance-sous-le-regard-hesitant-de-wall-street/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
