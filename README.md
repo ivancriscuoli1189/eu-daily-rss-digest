@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 12:29*
+*Generato: 13 Feb 2026, 13:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Ligue 1 – 21e journée – JSK : En bonne...](https://www.lapresse.tn/2026/02/13/ligue-1-21e-journee-jsk-en-bonne-posture/)
 - [Femmes enceintes : le vaccin trivalent dTCa intégré au calendrier...](https://www.lapresse.tn/2026/02/13/femmes-enceintes-le-vaccin-trivalent-dtca-integre-au-calendrier-vaccinal/)
-- [Affaire de l’agression d’un enfant de trois ans à Ennasr...](https://www.lapresse.tn/2026/02/13/affaire-de-lagression-dun-enfant-de-trois-ans-a-ennasr-le-parquet-reagit/)
 
 ## NGOs – Amnesty International – Tunisia
 
