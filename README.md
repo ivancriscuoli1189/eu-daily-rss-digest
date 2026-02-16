@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 12:32*
+*Generato: 16 Feb 2026, 13:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Service militaire 2026 : qui doit se présenter et où...](https://www.lapresse.tn/2026/02/16/service-militaire-2026-qui-doit-se-presenter-et-ou/)
-- [La leucémie, cancer pédiatrique le plus fréquent](https://www.lapresse.tn/2026/02/16/la-leucemie-cancer-pediatrique-le-plus-frequent/)
+- [France : 81 départements en alerte rouge face aux risques...](https://www.lapresse.tn/2026/02/16/france-81-departements-en-alerte-rouge-face-aux-risques-de-crues-et-intemperies/)
+- [Viol sur mineur dans une crèche : huit personnes poursuivies](https://www.lapresse.tn/2026/02/16/viol-sur-mineur-dans-une-creche-huit-personnes-poursuivies/)
 
 ## NGOs – Amnesty International – Tunisia
 
