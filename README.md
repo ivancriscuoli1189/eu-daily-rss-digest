@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 11:32*
+*Generato: 16 Feb 2026, 12:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sanofi quitte-t-il réellement la Tunisie ?](https://www.lapresse.tn/2026/02/16/sanofi-quitte-t-il-reellement-la-tunisie/)
-- [La production d’électricité a augmenté en 2025](https://www.lapresse.tn/2026/02/16/la-production-delectricite-a-augmente-en-2025/)
+- [Service militaire 2026 : qui doit se présenter et où...](https://www.lapresse.tn/2026/02/16/service-militaire-2026-qui-doit-se-presenter-et-ou/)
+- [La leucémie, cancer pédiatrique le plus fréquent](https://www.lapresse.tn/2026/02/16/la-leucemie-cancer-pediatrique-le-plus-frequent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -281,10 +281,10 @@
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
 - [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
 - [Dans les archives de Jeune Afrique : Haïlé Sélassié, le Négus côté cour](https://www.jeuneafrique.com/1751718/politique/dans-les-archives-de-jeune-afrique-haile-selassie-le-negus-cote-cour/)
+- [Entre diplomates et hommes de l’ombre, comment Évariste Ndayishimiye va diriger l’UA](https://www.jeuneafrique.com/1764242/politique/entre-diplomates-et-hommes-de-lombre-comment-evariste-ndayishimiye-va-diriger-lua/)
 - [Bougafer 1933-2026 : quand l’histoire devient terrain d’entente entre le Maroc et la France](https://www.jeuneafrique.com/1765555/politique/bougafer-1933-2026-quand-lhistoire-devient-terrain-dentente-entre-le-maroc-et-la-france/)
 - [Nigeria : au moins 46 personnes tuées dans trois attaques dans le Centre-Ouest](https://www.jeuneafrique.com/1765905/politique/nigeria-au-moins-46-personnes-tuees-dans-trois-attaques-dans-le-centre-ouest/)
-- [Au sommet de l’UA, Giorgia Meloni organise sa contre-soirée](https://www.jeuneafrique.com/1765528/politique/au-sommet-de-lua-giorgia-meloni-organise-sa-contre-soiree/)
-- [Donald Trump s’est encore enrichi depuis sa réélection](https://www.jeuneafrique.com/1765431/politique/donald-trump-sest-encore-enrichi-depuis-sa-reelection/)
+- [RDC : à Goma, la guerre a fermé l’aéroport et mis l’économie locale à genoux](https://www.jeuneafrique.com/1765358/politique/rdc-a-goma-la-guerre-a-ferme-laeroport-et-mis-leconomie-locale-a-genoux/)
 - [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
 - [Quand les groupes miniers attaquent les États : l’Afrique prise au piège des tribunaux d’arbitrage ?](https://www.jeuneafrique.com/1760918/economie-entreprises/quand-les-groupes-miniers-attaquent-les-etats-lafrique-prise-au-piege-des-tribunaux-darbitrage/)
 
