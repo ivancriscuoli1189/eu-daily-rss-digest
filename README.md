@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 09:39*
+*Generato: 16 Feb 2026, 11:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,32 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – EEAS – Delegation of the EU to Tunisia – Press
-
-- [About the European External Action Service](https://www.eeas.europa.eu/eeas/about-european-external-action-service_en)
-- [Creation of the EEAS](https://www.eeas.europa.eu/eeas/creation-european-external-action-service_en)
-- [Annual reports](https://www.eeas.europa.eu/eeas/annual-reports_en)
-- [Structure and Organisation](https://www.eeas.europa.eu/eeas/structure-and-organisation_en)
-- [High Representative / Vice President](https://www.eeas.europa.eu/eeas/high-representative-vice-president_en)
-- [Consular protection for EU citizens](https://www.eeas.europa.eu/eeas/consular-protection-eu-citizens_en)
-- [Diplomatic corps](https://www.eeas.europa.eu/filter-page-diplomatic-corps_en)
-- [EU special representatives](https://www.eeas.europa.eu/eeas/eu-special-representatives_en)
-- [Get in touch](https://www.eeas.europa.eu/eeas/contact_en)
-- [Visit the EEAS](https://www.eeas.europa.eu/eeas/visit-european-external-action-service_en)
-
-## UE – EEAS – Delegation of the EU to Tunisia – Stories
-
-- [About the European External Action Service](https://www.eeas.europa.eu/eeas/about-european-external-action-service_en)
-- [Creation of the EEAS](https://www.eeas.europa.eu/eeas/creation-european-external-action-service_en)
-- [Annual reports](https://www.eeas.europa.eu/eeas/annual-reports_en)
-- [Structure and Organisation](https://www.eeas.europa.eu/eeas/structure-and-organisation_en)
-- [High Representative / Vice President](https://www.eeas.europa.eu/eeas/high-representative-vice-president_en)
-- [Consular protection for EU citizens](https://www.eeas.europa.eu/eeas/consular-protection-eu-citizens_en)
-- [Diplomatic corps](https://www.eeas.europa.eu/filter-page-diplomatic-corps_en)
-- [EU special representatives](https://www.eeas.europa.eu/eeas/eu-special-representatives_en)
-- [Get in touch](https://www.eeas.europa.eu/eeas/contact_en)
-- [Visit the EEAS](https://www.eeas.europa.eu/eeas/visit-european-external-action-service_en)
-
 ## UE – DG NEAR – Tunisia – News
 
 - [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
@@ -207,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [72% des élèves éprouvent des difficultés en mathématiques](https://www.lapresse.tn/2026/02/16/72-des-eleves-eprouvent-des-difficultes-en-mathematiques/)
-- [La FTF réagit après des actes de sabotage sur le...](https://www.lapresse.tn/2026/02/16/la-ftf-reagit-apres-des-actes-de-sabotage-sur-le-var/)
+- [Sanofi quitte-t-il réellement la Tunisie ?](https://www.lapresse.tn/2026/02/16/sanofi-quitte-t-il-reellement-la-tunisie/)
+- [La production d’électricité a augmenté en 2025](https://www.lapresse.tn/2026/02/16/la-production-delectricite-a-augmente-en-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -262,6 +236,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
+- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
+- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
+- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -290,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le ministre français de l’Intérieur en Algérie pour tenter de renouer les liens](https://www.jeuneafrique.com/1765968/politique/le-ministre-francais-de-linterieur-en-algerie-pour-tenter-de-renouer-les-liens/)
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
 - [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
 - [Dans les archives de Jeune Afrique : Haïlé Sélassié, le Négus côté cour](https://www.jeuneafrique.com/1751718/politique/dans-les-archives-de-jeune-afrique-haile-selassie-le-negus-cote-cour/)
@@ -297,7 +285,6 @@
 - [Nigeria : au moins 46 personnes tuées dans trois attaques dans le Centre-Ouest](https://www.jeuneafrique.com/1765905/politique/nigeria-au-moins-46-personnes-tuees-dans-trois-attaques-dans-le-centre-ouest/)
 - [Au sommet de l’UA, Giorgia Meloni organise sa contre-soirée](https://www.jeuneafrique.com/1765528/politique/au-sommet-de-lua-giorgia-meloni-organise-sa-contre-soiree/)
 - [Donald Trump s’est encore enrichi depuis sa réélection](https://www.jeuneafrique.com/1765431/politique/donald-trump-sest-encore-enrichi-depuis-sa-reelection/)
-- [Monusco, Angola… Un cessez-le-feu est-il encore possible dans l’est de la RDC ?](https://www.jeuneafrique.com/1765421/politique/monusco-angola-un-cessez-le-feu-est-il-encore-possible-dans-lest-de-la-rdc/)
 - [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
 - [Quand les groupes miniers attaquent les États : l’Afrique prise au piège des tribunaux d’arbitrage ?](https://www.jeuneafrique.com/1760918/economie-entreprises/quand-les-groupes-miniers-attaquent-les-etats-lafrique-prise-au-piege-des-tribunaux-darbitrage/)
 
