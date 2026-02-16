@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 06:50*
+*Generato: 16 Feb 2026, 09:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,6 +119,32 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – EEAS – Delegation of the EU to Tunisia – Press
+
+- [About the European External Action Service](https://www.eeas.europa.eu/eeas/about-european-external-action-service_en)
+- [Creation of the EEAS](https://www.eeas.europa.eu/eeas/creation-european-external-action-service_en)
+- [Annual reports](https://www.eeas.europa.eu/eeas/annual-reports_en)
+- [Structure and Organisation](https://www.eeas.europa.eu/eeas/structure-and-organisation_en)
+- [High Representative / Vice President](https://www.eeas.europa.eu/eeas/high-representative-vice-president_en)
+- [Consular protection for EU citizens](https://www.eeas.europa.eu/eeas/consular-protection-eu-citizens_en)
+- [Diplomatic corps](https://www.eeas.europa.eu/filter-page-diplomatic-corps_en)
+- [EU special representatives](https://www.eeas.europa.eu/eeas/eu-special-representatives_en)
+- [Get in touch](https://www.eeas.europa.eu/eeas/contact_en)
+- [Visit the EEAS](https://www.eeas.europa.eu/eeas/visit-european-external-action-service_en)
+
+## UE – EEAS – Delegation of the EU to Tunisia – Stories
+
+- [About the European External Action Service](https://www.eeas.europa.eu/eeas/about-european-external-action-service_en)
+- [Creation of the EEAS](https://www.eeas.europa.eu/eeas/creation-european-external-action-service_en)
+- [Annual reports](https://www.eeas.europa.eu/eeas/annual-reports_en)
+- [Structure and Organisation](https://www.eeas.europa.eu/eeas/structure-and-organisation_en)
+- [High Representative / Vice President](https://www.eeas.europa.eu/eeas/high-representative-vice-president_en)
+- [Consular protection for EU citizens](https://www.eeas.europa.eu/eeas/consular-protection-eu-citizens_en)
+- [Diplomatic corps](https://www.eeas.europa.eu/filter-page-diplomatic-corps_en)
+- [EU special representatives](https://www.eeas.europa.eu/eeas/eu-special-representatives_en)
+- [Get in touch](https://www.eeas.europa.eu/eeas/contact_en)
+- [Visit the EEAS](https://www.eeas.europa.eu/eeas/visit-european-external-action-service_en)
+
 ## UE – DG NEAR – Tunisia – News
 
 - [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
@@ -181,8 +207,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nabeul : lancement des travaux de réhabilitation de la route...](https://www.lapresse.tn/2026/02/15/nabeul-lancement-des-travaux-de-rehabilitation-de-la-route-korba-el-mida/)
-- [La SONEDE annonce une nouvelle coupure d’eau…](https://www.lapresse.tn/2026/02/15/la-sonede-annonce-une-nouvelle-coupure-deau/)
+- [72% des élèves éprouvent des difficultés en mathématiques](https://www.lapresse.tn/2026/02/16/72-des-eleves-eprouvent-des-difficultes-en-mathematiques/)
+- [La FTF réagit après des actes de sabotage sur le...](https://www.lapresse.tn/2026/02/16/la-ftf-reagit-apres-des-actes-de-sabotage-sur-le-var/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,19 +262,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
-- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
-- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
-- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
-- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
-- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
-- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
-- [Taming Trump’s Gaza plan: A European-Arab initiative for lasting peace](https://ecfr.eu/article/taming-trumps-gaza-plan-a-european-arab-initiative-for-lasting-peace/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -277,16 +290,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : après une présidentielle ratée, Joshua Osih peut-il relancer le SDF ?](https://www.jeuneafrique.com/1764903/politique/cameroun-apres-une-presidentielle-ratee-joshua-osih-peut-il-relancer-le-sdf/)
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
 - [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
+- [Dans les archives de Jeune Afrique : Haïlé Sélassié, le Négus côté cour](https://www.jeuneafrique.com/1751718/politique/dans-les-archives-de-jeune-afrique-haile-selassie-le-negus-cote-cour/)
 - [Bougafer 1933-2026 : quand l’histoire devient terrain d’entente entre le Maroc et la France](https://www.jeuneafrique.com/1765555/politique/bougafer-1933-2026-quand-lhistoire-devient-terrain-dentente-entre-le-maroc-et-la-france/)
 - [Nigeria : au moins 46 personnes tuées dans trois attaques dans le Centre-Ouest](https://www.jeuneafrique.com/1765905/politique/nigeria-au-moins-46-personnes-tuees-dans-trois-attaques-dans-le-centre-ouest/)
+- [Au sommet de l’UA, Giorgia Meloni organise sa contre-soirée](https://www.jeuneafrique.com/1765528/politique/au-sommet-de-lua-giorgia-meloni-organise-sa-contre-soiree/)
 - [Donald Trump s’est encore enrichi depuis sa réélection](https://www.jeuneafrique.com/1765431/politique/donald-trump-sest-encore-enrichi-depuis-sa-reelection/)
 - [Monusco, Angola… Un cessez-le-feu est-il encore possible dans l’est de la RDC ?](https://www.jeuneafrique.com/1765421/politique/monusco-angola-un-cessez-le-feu-est-il-encore-possible-dans-lest-de-la-rdc/)
-- [Au Maroc, Aziz Akhannouch et le PJD se disputent le mérite d’avoir désamorcé la crise des avocats](https://www.jeuneafrique.com/1765372/politique/au-maroc-aziz-akhannouch-et-le-pjd-se-disputent-le-merite-davoir-desamorce-la-crise-des-avocats/)
-- [Khalid Safir (CDG) : « Nous comptons mobiliser 100 milliards de dirhams pour financer l’économie marocaine »](https://www.jeuneafrique.com/1762591/economie-entreprises/khalid-safir-cdg-nous-comptons-mobiliser-100-milliards-de-dirhams-pour-financer-leconomie-marocaine/)
-- [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
+- [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
+- [Quand les groupes miniers attaquent les États : l’Afrique prise au piège des tribunaux d’arbitrage ?](https://www.jeuneafrique.com/1760918/economie-entreprises/quand-les-groupes-miniers-attaquent-les-etats-lafrique-prise-au-piege-des-tribunaux-darbitrage/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
