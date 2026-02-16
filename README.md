@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 13:57*
+*Generato: 16 Feb 2026, 15:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [France : 81 départements en alerte rouge face aux risques...](https://www.lapresse.tn/2026/02/16/france-81-departements-en-alerte-rouge-face-aux-risques-de-crues-et-intemperies/)
-- [Viol sur mineur dans une crèche : huit personnes poursuivies](https://www.lapresse.tn/2026/02/16/viol-sur-mineur-dans-une-creche-huit-personnes-poursuivies/)
+- [Foot-quarts de finale LCA : L’EST fixé, demain, sur...](https://www.lapresse.tn/2026/02/16/foot-quarts-de-finale-lca-lest-fixe-demain-sur-son-adversaire/)
+- [Depuis mi-janvier : saisie de plus de 165 tonnes de...](https://www.lapresse.tn/2026/02/16/depuis-mi-janvier-saisie-de-plus-de-165-tonnes-de-produits-alimentaires-impropres-a-la-consommation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mort d’un étudiant au Sénégal : ce que révèle le rapport d’autopsie qui a fuité dans la presse](https://www.jeuneafrique.com/1766172/politique/etudiant-tue-au-senegal-ce-que-revele-le-rapport-dautopsie-qui-a-fuite-dans-la-presse/)
+- [Algérie-Niger : Assimi Goïta au menu des discussions entre Tiani et Tebboune ?](https://www.jeuneafrique.com/1766042/politique/algerie-niger-assimi-goita-au-menu-des-discussions-entre-tiani-et-tebboune/)
+- [En Tunisie, des peines jusqu’à 15 ans de prison pour l’attaque de la synagogue de la Ghriba](https://www.jeuneafrique.com/1766169/politique/en-tunisie-des-peines-jusqua-15-ans-de-prison-pour-lattaque-de-la-synagogue-de-la-ghriba/)
 - [Le ministre français de l’Intérieur en Algérie pour tenter de renouer les liens](https://www.jeuneafrique.com/1765968/politique/le-ministre-francais-de-linterieur-en-algerie-pour-tenter-de-renouer-les-liens/)
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
 - [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
 - [Dans les archives de Jeune Afrique : Haïlé Sélassié, le Négus côté cour](https://www.jeuneafrique.com/1751718/politique/dans-les-archives-de-jeune-afrique-haile-selassie-le-negus-cote-cour/)
 - [Entre diplomates et hommes de l’ombre, comment Évariste Ndayishimiye va diriger l’UA](https://www.jeuneafrique.com/1764242/politique/entre-diplomates-et-hommes-de-lombre-comment-evariste-ndayishimiye-va-diriger-lua/)
-- [Bougafer 1933-2026 : quand l’histoire devient terrain d’entente entre le Maroc et la France](https://www.jeuneafrique.com/1765555/politique/bougafer-1933-2026-quand-lhistoire-devient-terrain-dentente-entre-le-maroc-et-la-france/)
-- [Nigeria : au moins 46 personnes tuées dans trois attaques dans le Centre-Ouest](https://www.jeuneafrique.com/1765905/politique/nigeria-au-moins-46-personnes-tuees-dans-trois-attaques-dans-le-centre-ouest/)
-- [RDC : à Goma, la guerre a fermé l’aéroport et mis l’économie locale à genoux](https://www.jeuneafrique.com/1765358/politique/rdc-a-goma-la-guerre-a-ferme-laeroport-et-mis-leconomie-locale-a-genoux/)
+- [Côte d’Ivoire : ENI annonce la découverte d’un nouveau gisement](https://www.jeuneafrique.com/1766133/economie-entreprises/cote-divoire-eni-annonce-la-decouverte-dun-nouveau-gisement/)
 - [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
-- [Quand les groupes miniers attaquent les États : l’Afrique prise au piège des tribunaux d’arbitrage ?](https://www.jeuneafrique.com/1760918/economie-entreprises/quand-les-groupes-miniers-attaquent-les-etats-lafrique-prise-au-piege-des-tribunaux-darbitrage/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
