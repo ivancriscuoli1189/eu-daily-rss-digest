@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Feb 2026, 21:24*
+*Generato: 16 Feb 2026, 06:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -51,8 +53,6 @@
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
 - [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Octobre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-octobre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan 2026 : Programme du Festival de la Médina de...](https://www.lapresse.tn/2026/02/13/ramadan-2026-programme-du-festival-de-la-medina-de-tunis/)
-- [Tunisie : Sartex adopte la réutilisation de l’eau grâce à...](https://www.lapresse.tn/2026/02/13/tunisie-sartex-adopte-la-reutilisation-de-leau-grace-a-la-technologie-italienne/)
+- [Nabeul : lancement des travaux de réhabilitation de la route...](https://www.lapresse.tn/2026/02/15/nabeul-lancement-des-travaux-de-rehabilitation-de-la-route-korba-el-mida/)
+- [La SONEDE annonce une nouvelle coupure d’eau…](https://www.lapresse.tn/2026/02/15/la-sonede-annonce-une-nouvelle-coupure-deau/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Institut du monde arabe : un choix éminemment politique pour tourner la page des années Lang](https://www.jeuneafrique.com/1765021/politique/institut-du-monde-arabe-un-choix-eminemment-politique-pour-tourner-la-page-des-annees-lang/)
-- [Tchad : le touriste français porté disparu a été retrouvé mort](https://www.jeuneafrique.com/1765567/politique/tchad-le-touriste-francais-porte-disparu-a-ete-retrouve-mort/)
-- [Au Sénégal, l’université de Dakar suspend les organisations étudiantes](https://www.jeuneafrique.com/1765281/politique/au-senegal-luniversite-de-dakar-suspend-les-organisations-etudiantes/)
-- [Laurent Nuñez en Algérie en début de semaine](https://www.jeuneafrique.com/1765261/politique/laurent-nunez-en-algerie-en-debut-de-semaine/)
-- [Au Mali, Assimi Goïta remanie son gouvernement et promeut des ministres influents](https://www.jeuneafrique.com/1765206/politique/au-mali-assimi-goita-remanie-son-gouvernement-et-promeut-des-ministres-influents/)
-- [Tchad : un touriste français porté disparu dans le Nord-Est, l’armée mobilisée](https://www.jeuneafrique.com/1765105/politique/tchad-un-touriste-francais-porte-disparu-dans-le-nord-est-larmee-mobilisee/)
-- [Nigeria : 200 instructeurs américains bientôt déployés](https://www.jeuneafrique.com/1765001/politique/nigeria-200-instructeurs-americains-bientot-deployes/)
-- [Sahara occidental : ce que l’on sait des grandes lignes du plan d’autonomie marocain](https://www.jeuneafrique.com/1764915/politique/sahara-occidental-ce-que-lon-sait-des-grandes-lignes-du-plan-dautonomie-marocain/)
+- [Cameroun : après une présidentielle ratée, Joshua Osih peut-il relancer le SDF ?](https://www.jeuneafrique.com/1764903/politique/cameroun-apres-une-presidentielle-ratee-joshua-osih-peut-il-relancer-le-sdf/)
+- [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
+- [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
+- [Bougafer 1933-2026 : quand l’histoire devient terrain d’entente entre le Maroc et la France](https://www.jeuneafrique.com/1765555/politique/bougafer-1933-2026-quand-lhistoire-devient-terrain-dentente-entre-le-maroc-et-la-france/)
+- [Nigeria : au moins 46 personnes tuées dans trois attaques dans le Centre-Ouest](https://www.jeuneafrique.com/1765905/politique/nigeria-au-moins-46-personnes-tuees-dans-trois-attaques-dans-le-centre-ouest/)
+- [Donald Trump s’est encore enrichi depuis sa réélection](https://www.jeuneafrique.com/1765431/politique/donald-trump-sest-encore-enrichi-depuis-sa-reelection/)
+- [Monusco, Angola… Un cessez-le-feu est-il encore possible dans l’est de la RDC ?](https://www.jeuneafrique.com/1765421/politique/monusco-angola-un-cessez-le-feu-est-il-encore-possible-dans-lest-de-la-rdc/)
+- [Au Maroc, Aziz Akhannouch et le PJD se disputent le mérite d’avoir désamorcé la crise des avocats](https://www.jeuneafrique.com/1765372/politique/au-maroc-aziz-akhannouch-et-le-pjd-se-disputent-le-merite-davoir-desamorce-la-crise-des-avocats/)
+- [Khalid Safir (CDG) : « Nous comptons mobiliser 100 milliards de dirhams pour financer l’économie marocaine »](https://www.jeuneafrique.com/1762591/economie-entreprises/khalid-safir-cdg-nous-comptons-mobiliser-100-milliards-de-dirhams-pour-financer-leconomie-marocaine/)
 - [Cacao : face aux difficultés, le Ghana réduit son prix d’achat aux planteurs](https://www.jeuneafrique.com/1765288/economie-entreprises/cacao-face-aux-difficultes-le-ghana-reduit-son-prix-dachat-aux-planteurs/)
-- [Jumia affiche sa confiance sous le regard hésitant de Wall Street](https://www.jeuneafrique.com/1765231/economie-entreprises/jumia-affiche-sa-confiance-sous-le-regard-hesitant-de-wall-street/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
