@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 18:26*
+*Generato: 16 Feb 2026, 21:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Un condamné intégré à la Société de transport du Sahel...](https://www.lapresse.tn/2026/02/16/un-condamne-integre-a-la-societe-de-transport-du-sahel-dans-le-cadre-du-travail-dinteret-general/)
-- [Ramadan 2026 : Une cartographie ambitieuse de la fiction arabe](https://www.lapresse.tn/2026/02/16/ramadan-2026-une-cartographie-ambitieuse-de-la-fiction-arabe/)
+- [Vol de voitures : Comment se protéger ?](https://www.lapresse.tn/2026/02/16/vol-de-voitures-comment-se-proteger/)
+- [Franchise douanière chinoise : Quand Pékin ouvre ses portes, nous...](https://www.lapresse.tn/2026/02/16/franchise-douaniere-chinoise-quand-pekin-ouvre-ses-portes-nous-devons-avancer/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -281,11 +281,11 @@
 - [Algérie-Niger : Assimi Goïta au menu des discussions entre Tiani et Tebboune ?](https://www.jeuneafrique.com/1766042/politique/algerie-niger-assimi-goita-au-menu-des-discussions-entre-tiani-et-tebboune/)
 - [En Tunisie, des peines jusqu’à 15 ans de prison pour l’attaque de la synagogue de la Ghriba](https://www.jeuneafrique.com/1766169/politique/en-tunisie-des-peines-jusqua-15-ans-de-prison-pour-lattaque-de-la-synagogue-de-la-ghriba/)
 - [Le ministre français de l’Intérieur en Algérie pour tenter de renouer les liens](https://www.jeuneafrique.com/1765968/politique/le-ministre-francais-de-linterieur-en-algerie-pour-tenter-de-renouer-les-liens/)
+- [Najat Vallaud-Belkacem : « Le numérique crée une nouvelle forme de colonisation »](https://www.jeuneafrique.com/1764389/politique/najat-vallaud-belkacem-le-numerique-cree-une-nouvelle-forme-de-colonisation/)
 - [À l’UA, le retour en grâce des « bons putschistes », Brice Clotaire Oligui Nguema et Mamadi Doumbouya](https://www.jeuneafrique.com/1765915/politique/a-lua-le-retour-en-grace-des-bons-putschistes-brice-clotaire-oligui-nguema-et-mamadi-doumbouya/)
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
 - [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
-- [Dans les archives de Jeune Afrique : Haïlé Sélassié, le Négus côté cour](https://www.jeuneafrique.com/1751718/politique/dans-les-archives-de-jeune-afrique-haile-selassie-le-negus-cote-cour/)
-- [Côte d’Ivoire : ENI annonce la découverte d’un nouveau gisement](https://www.jeuneafrique.com/1766133/economie-entreprises/cote-divoire-eni-annonce-la-decouverte-dun-nouveau-gisement/)
+- [Côte d’Ivoire : ENI annonce la découverte d’un nouveau gisement d’hydrocarbures](https://www.jeuneafrique.com/1766133/economie-entreprises/cote-divoire-eni-annonce-la-decouverte-dun-nouveau-gisement/)
 - [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
