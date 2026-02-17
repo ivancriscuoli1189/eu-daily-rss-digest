@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Feb 2026, 21:18*
+*Generato: 17 Feb 2026, 06:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vol de voitures : Comment se protéger ?](https://www.lapresse.tn/2026/02/16/vol-de-voitures-comment-se-proteger/)
-- [Franchise douanière chinoise : Quand Pékin ouvre ses portes, nous...](https://www.lapresse.tn/2026/02/16/franchise-douaniere-chinoise-quand-pekin-ouvre-ses-portes-nous-devons-avancer/)
+- [Nouvelles perturbations sur les traversées de la CTN](https://www.lapresse.tn/2026/02/17/nouvelles-perturbations-sur-les-traversees-de-la-ctn/)
+- [La Tunisie première au Concours international Al-Ahram de l’huile d’olive...](https://www.lapresse.tn/2026/02/16/la-tunisie-premiere-au-concours-international-al-ahram-de-lhuile-dolive-avec-46-medailles-dor/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : Bruno Bidjang, le communicant qui navigue entre les clans](https://www.jeuneafrique.com/1763140/politique/cameroun-bruno-bidjang-le-communicant-qui-navigue-entre-les-clans/)
 - [Mort d’un étudiant au Sénégal : ce que révèle le rapport d’autopsie qui a fuité dans la presse](https://www.jeuneafrique.com/1766172/politique/etudiant-tue-au-senegal-ce-que-revele-le-rapport-dautopsie-qui-a-fuite-dans-la-presse/)
 - [Algérie-Niger : Assimi Goïta au menu des discussions entre Tiani et Tebboune ?](https://www.jeuneafrique.com/1766042/politique/algerie-niger-assimi-goita-au-menu-des-discussions-entre-tiani-et-tebboune/)
 - [En Tunisie, des peines jusqu’à 15 ans de prison pour l’attaque de la synagogue de la Ghriba](https://www.jeuneafrique.com/1766169/politique/en-tunisie-des-peines-jusqua-15-ans-de-prison-pour-lattaque-de-la-synagogue-de-la-ghriba/)
@@ -284,7 +285,6 @@
 - [Najat Vallaud-Belkacem : « Le numérique crée une nouvelle forme de colonisation »](https://www.jeuneafrique.com/1764389/politique/najat-vallaud-belkacem-le-numerique-cree-une-nouvelle-forme-de-colonisation/)
 - [À l’UA, le retour en grâce des « bons putschistes », Brice Clotaire Oligui Nguema et Mamadi Doumbouya](https://www.jeuneafrique.com/1765915/politique/a-lua-le-retour-en-grace-des-bons-putschistes-brice-clotaire-oligui-nguema-et-mamadi-doumbouya/)
 - [Burkina Faso : une série d’attaques jihadistes fait au moins une dizaine de morts](https://www.jeuneafrique.com/1765919/politique/burkina-faso-une-serie-dattaques-jihadistes-fait-au-moins-une-dizaine-de-morts/)
-- [Le Ghana va déposer une résolution à l’ONU pour désigner la traite des esclaves africains comme « crime le plus grave contre l’humanité »](https://www.jeuneafrique.com/1765913/politique/le-ghana-va-deposer-une-resolution-a-lonu-pour-designer-la-traite-des-esclaves-africains-comme-crime-le-plus-grave-contre-lhumanite/)
 - [Côte d’Ivoire : ENI annonce la découverte d’un nouveau gisement d’hydrocarbures](https://www.jeuneafrique.com/1766133/economie-entreprises/cote-divoire-eni-annonce-la-decouverte-dun-nouveau-gisement/)
 - [Après Ethiopian Airlines et RwandAir, la nouvelle vie de Girma Wake au chevet du pavillon ougandais](https://www.jeuneafrique.com/1765675/economie-entreprises/apres-ethiopian-airlines-et-rwandair-la-nouvelle-vie-de-girma-wake-au-chevet-du-pavillon-ougandais/)
 
