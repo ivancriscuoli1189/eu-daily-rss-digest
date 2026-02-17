@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Feb 2026, 11:31*
+*Generato: 17 Feb 2026, 12:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mellassine : trois poids lourds entrent en collision](https://www.lapresse.tn/2026/02/17/mellassine-trois-poids-lourds-entrent-en-collision/)
-- [Ramadan-Ariana : ouverture de points de vente à prix réduits](https://www.lapresse.tn/2026/02/17/ramadan-ariana-ouverture-de-points-de-vente-a-prix-reduits/)
+- [Ramadan : horaires des cours dans les collèges et lycées](https://www.lapresse.tn/2026/02/17/ramadan-horaires-des-cours-dans-les-colleges-et-lycees/)
+- [Coupe de la CAF : le tirage des quarts de...](https://www.lapresse.tn/2026/02/17/coupe-de-la-caf-le-tirage-des-quarts-de-finale-devoile-au-caire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [Algérie-Niger : Assimi Goïta au menu des discussions entre Tiani et Tebboune ?](https://www.jeuneafrique.com/1766042/politique/algerie-niger-assimi-goita-au-menu-des-discussions-entre-tiani-et-tebboune/)
 - [En Tunisie, des peines jusqu’à 15 ans de prison pour l’attaque de la synagogue de la Ghriba](https://www.jeuneafrique.com/1766169/politique/en-tunisie-des-peines-jusqua-15-ans-de-prison-pour-lattaque-de-la-synagogue-de-la-ghriba/)
 - [Mauritanie-France : les coulisses de la future visite d’État de Ghazouani à Paris](https://www.jeuneafrique.com/1765864/politique/mauritanie-france-les-coulisses-de-la-future-visite-detat-de-ghazouani-a-paris/)
-- [Du phosphate à l’engrais, l’intuition de Mostafa Terrab qui a relancé OCP](https://www.jeuneafrique.com/1763467/economie-entreprises/du-phosphate-a-lengrais-lintuition-de-mostafa-terrab-qui-a-relance-ocp/)
 - [Algérie-Niger : après le dégel des relations, le gazoduc transsaharien relancé](https://www.jeuneafrique.com/1766381/economie-entreprises/algerie-niger-apres-le-degel-des-relations-le-gazoduc-transsaharien-relance/)
+- [Chine-Afrique : à qui va profiter la suppression des droits de douane annoncée par Pékin ?](https://www.jeuneafrique.com/1766306/economie-entreprises/chine-afrique-a-qui-va-profiter-la-suppression-des-droits-de-douane-annoncee-par-pekin/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
