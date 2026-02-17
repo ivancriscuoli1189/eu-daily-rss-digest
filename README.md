@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Feb 2026, 15:39*
+*Generato: 17 Feb 2026, 18:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sécurité routière : nouveaux horaires pour les poids lourds durant...](https://www.lapresse.tn/2026/02/17/securite-routiere-nouveaux-horaires-pour-les-poids-lourds-durant-le-ramadan/)
-- [Jendouba : Un programme d’urgence pour les établissements scolaires sinistrés](https://www.lapresse.tn/2026/02/17/jendouba-un-programme-durgence-pour-les-etablissements-scolaires-sinistres/)
+- [Viandes rouges : Le marché est-il manipulé ?](https://www.lapresse.tn/2026/02/17/viandes-rouges-le-marche-est-il-manipule/)
+- [TGM à l’arrêt : La pénurie de conducteurs freinerait-elle la...](https://www.lapresse.tn/2026/02/17/tgm-a-larret-la-penurie-de-conducteurs-freinerait-elle-la-reprise/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
 - [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
 - [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
 - [Afrique du Sud : arrivée du nouvel ambassadeur américain, sur fond de tensions](https://www.jeuneafrique.com/1766375/politique/afrique-du-sud-arrivee-du-nouvel-ambassadeur-americain-sur-fond-de-tensions/)
 - [Nigeria : une centaine de militaires américains arrivent pour former l’armée locale](https://www.jeuneafrique.com/1766370/politique/nigeria-une-centaine-de-militaires-americains-arrivent-pour-former-larmee-locale/)
 - [Institut du monde arabe : Anne-Claire Legendre, conseillère diplomatique de Macron, choisie pour remplacer Jack Lang](https://www.jeuneafrique.com/1766387/politique/institut-du-monde-arabe-anne-claire-legendre-conseillere-diplomatique-de-macron-choisie-pour-remplacer-jack-lang/)
+- [Est de la RDC : comment João Lourenço revient au centre du jeu](https://www.jeuneafrique.com/1766060/politique/est-de-la-rdc-comment-joao-lourenco-revient-au-centre-du-jeu/)
 - [Mort d’un étudiant au Sénégal : ce que révèle le rapport d’autopsie qui a fuité dans la presse](https://www.jeuneafrique.com/1766172/politique/etudiant-tue-au-senegal-ce-que-revele-le-rapport-dautopsie-qui-a-fuite-dans-la-presse/)
-- [Algérie-Niger : Assimi Goïta au menu des discussions entre Tiani et Tebboune ?](https://www.jeuneafrique.com/1766042/politique/algerie-niger-assimi-goita-au-menu-des-discussions-entre-tiani-et-tebboune/)
-- [En Tunisie, des peines jusqu’à 15 ans de prison pour l’attaque de la synagogue de la Ghriba](https://www.jeuneafrique.com/1766169/politique/en-tunisie-des-peines-jusqua-15-ans-de-prison-pour-lattaque-de-la-synagogue-de-la-ghriba/)
 - [Algérie-Niger : après le dégel des relations, le gazoduc transsaharien relancé](https://www.jeuneafrique.com/1766381/economie-entreprises/algerie-niger-apres-le-degel-des-relations-le-gazoduc-transsaharien-relance/)
-- [Chine-Afrique : à qui va profiter la suppression des droits de douane annoncée par Pékin ?](https://www.jeuneafrique.com/1766306/economie-entreprises/chine-afrique-a-qui-va-profiter-la-suppression-des-droits-de-douane-annoncee-par-pekin/)
+- [Comment MSC a fait du cacao l’une des clés de son essor africain](https://www.jeuneafrique.com/1765350/economie-entreprises/comment-msc-a-fait-du-cacao-lune-des-cles-de-son-essor-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
