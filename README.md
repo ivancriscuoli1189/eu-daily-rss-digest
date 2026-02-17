@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Feb 2026, 18:39*
+*Generato: 17 Feb 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Viandes rouges : Le marché est-il manipulé ?](https://www.lapresse.tn/2026/02/17/viandes-rouges-le-marche-est-il-manipule/)
-- [TGM à l’arrêt : La pénurie de conducteurs freinerait-elle la...](https://www.lapresse.tn/2026/02/17/tgm-a-larret-la-penurie-de-conducteurs-freinerait-elle-la-reprise/)
+- [La balance commerciale des produits de la pêche excédentaire de...](https://www.lapresse.tn/2026/02/17/la-balance-commerciale-des-produits-de-la-peche-excedentaire-de-2838-md-a-fin-decembre-2025/)
+- [Ramadan 2026 : carte mondiale des heures de jeûne les...](https://www.lapresse.tn/2026/02/17/ramadan-2026-carte-mondiale-des-heures-de-jeune-les-plus-longues-et-les-plus-courtes/)
 
 ## NGOs – Amnesty International – Tunisia
 
