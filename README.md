@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Feb 2026, 12:32*
+*Generato: 17 Feb 2026, 13:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan : horaires des cours dans les collèges et lycées](https://www.lapresse.tn/2026/02/17/ramadan-horaires-des-cours-dans-les-colleges-et-lycees/)
-- [Coupe de la CAF : le tirage des quarts de...](https://www.lapresse.tn/2026/02/17/coupe-de-la-caf-le-tirage-des-quarts-de-finale-devoile-au-caire/)
+- [Phénomène de jet des pierres chez les adolescents : parents...](https://www.lapresse.tn/2026/02/17/phenomene-de-jet-des-pierres-chez-les-adolescents-parents-et-ecole-ont-failli-a-leurs-devoirs/)
+- [L’EST a trouvé le successeur de Kanzari : Patrice Beaumelle,...](https://www.lapresse.tn/2026/02/17/lest-a-trouve-le-successeur-de-kanzari-patrice-beaumelle-le-nouveau-patron/)
 
 ## NGOs – Amnesty International – Tunisia
 
