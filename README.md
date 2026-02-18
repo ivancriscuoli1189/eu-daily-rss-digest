@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 14:00*
+*Generato: 18 Feb 2026, 15:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie, Maroc, Algérie : qui domine réellement la connectivité mobile en...](https://www.lapresse.tn/2026/02/18/tunisie-maroc-algerie-qui-domine-reellement-la-connectivite-mobile-en-2025/)
-- [Tunisie : partenariat tuniso-coréen pour la création de 75 start-ups...](https://www.lapresse.tn/2026/02/18/tunisie-partenariat-tuniso-coreen-pour-la-creation-de-75-start-ups-dans-le-numerique/)
+- [Maux de tête durant Ramadan : la prévention commence dès...](https://www.lapresse.tn/2026/02/18/maux-de-tete-durant-ramadan-la-prevention-commence-des-ce-soir/)
+- [La cuisine tunisienne figure au Top 3 arabe, et au...](https://www.lapresse.tn/2026/02/18/la-cuisine-tunisienne-figure-au-top-3-arabe-et-au-top-30-mondial/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,7 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Migrants expulsés des États-Unis et retenus au Cameroun : la polémique enfle](https://www.jeuneafrique.com/1766596/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-la-polemique-enfle/)
+- [Qui est Anne-Claire Legendre, la nouvelle patronne de l’Institut du monde arabe ?](https://www.jeuneafrique.com/1766661/politique/qui-est-anne-claire-legendre-la-nouvelle-patronne-de-linstitut-du-monde-arabe/)
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
