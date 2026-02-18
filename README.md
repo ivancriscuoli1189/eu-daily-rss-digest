@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 18:36*
+*Generato: 18 Feb 2026, 21:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pourquoi : La Transtu et la fraude](https://www.lapresse.tn/2026/02/18/pourquoi-la-transtu-et-la-fraude/)
-- [La Goulette : La mer reprend lentement mais sûrement ses...](https://www.lapresse.tn/2026/02/18/la-goulette-la-mer-reprend-lentement-mais-surement-ses-droits/)
+- [L’intelligence artificielle s’invite au cœur du Ramadan](https://www.lapresse.tn/2026/02/18/lintelligence-artificielle-sinvite-au-coeur-du-ramadan/)
+- [Arab Tunisian Lease : bénéfice net en hausse en 2025...](https://www.lapresse.tn/2026/02/18/arab-tunisian-lease-benefice-net-en-hausse-en-2025-et-dividende-propose-de-0400-dinar/)
 
 ## NGOs – Amnesty International – Tunisia
 
