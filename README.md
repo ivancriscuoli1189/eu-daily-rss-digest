@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 06:46*
+*Generato: 18 Feb 2026, 09:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La balance commerciale des produits de la pêche excédentaire de...](https://www.lapresse.tn/2026/02/17/la-balance-commerciale-des-produits-de-la-peche-excedentaire-de-2838-md-a-fin-decembre-2025/)
-- [Ramadan 2026 : carte mondiale des heures de jeûne les...](https://www.lapresse.tn/2026/02/17/ramadan-2026-carte-mondiale-des-heures-de-jeune-les-plus-longues-et-les-plus-courtes/)
+- [Enseignement supérieur : Le référentiel national d’accréditation au centre d’un...](https://www.lapresse.tn/2026/02/18/enseignement-superieur-le-referentiel-national-daccreditation-au-centre-dun-atelier-de-latea/)
+- [Train international Tunis – Algérie : programme spécial Ramadan 2026](https://www.lapresse.tn/2026/02/18/train-international-tunis-algerie-programme-special-ramadan-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
+- [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
 - [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
 - [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
 - [Afrique du Sud : arrivée du nouvel ambassadeur américain, sur fond de tensions](https://www.jeuneafrique.com/1766375/politique/afrique-du-sud-arrivee-du-nouvel-ambassadeur-americain-sur-fond-de-tensions/)
 - [Nigeria : une centaine de militaires américains arrivent pour former l’armée locale](https://www.jeuneafrique.com/1766370/politique/nigeria-une-centaine-de-militaires-americains-arrivent-pour-former-larmee-locale/)
 - [Institut du monde arabe : Anne-Claire Legendre, conseillère diplomatique de Macron, choisie pour remplacer Jack Lang](https://www.jeuneafrique.com/1766387/politique/institut-du-monde-arabe-anne-claire-legendre-conseillere-diplomatique-de-macron-choisie-pour-remplacer-jack-lang/)
-- [Est de la RDC : comment João Lourenço revient au centre du jeu](https://www.jeuneafrique.com/1766060/politique/est-de-la-rdc-comment-joao-lourenco-revient-au-centre-du-jeu/)
+- [Cameroun : Bruno Bidjang, le communicant qui navigue entre les clans](https://www.jeuneafrique.com/1763140/politique/cameroun-bruno-bidjang-le-communicant-qui-navigue-entre-les-clans/)
 - [Algérie-Niger : après le dégel des relations, le gazoduc transsaharien relancé](https://www.jeuneafrique.com/1766381/economie-entreprises/algerie-niger-apres-le-degel-des-relations-le-gazoduc-transsaharien-relance/)
 - [Comment MSC a fait du cacao l’une des clés de son essor africain](https://www.jeuneafrique.com/1765350/economie-entreprises/comment-msc-a-fait-du-cacao-lune-des-cles-de-son-essor-africain/)
 
