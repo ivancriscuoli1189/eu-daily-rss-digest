@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 09:34*
+*Generato: 18 Feb 2026, 11:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Enseignement supérieur : Le référentiel national d’accréditation au centre d’un...](https://www.lapresse.tn/2026/02/18/enseignement-superieur-le-referentiel-national-daccreditation-au-centre-dun-atelier-de-latea/)
-- [Train international Tunis – Algérie : programme spécial Ramadan 2026](https://www.lapresse.tn/2026/02/18/train-international-tunis-algerie-programme-special-ramadan-2026/)
+- [BCT : mise en circulation d’un nouveau billet de 20...](https://www.lapresse.tn/2026/02/18/bct-mise-en-circulation-dun-nouveau-billet-de-20-dinars/)
+- [Ramadan : les musulmans de France tiraillés entre deux dates](https://www.lapresse.tn/2026/02/18/ramadan-les-musulmans-de-france-tirailles-entre-deux-dates/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Migrants expulsés des États-Unis et retenus au Cameroun : la polémique enfle](https://www.jeuneafrique.com/1766596/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-la-polemique-enfle/)
+- [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
 - [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
 - [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
 - [Afrique du Sud : arrivée du nouvel ambassadeur américain, sur fond de tensions](https://www.jeuneafrique.com/1766375/politique/afrique-du-sud-arrivee-du-nouvel-ambassadeur-americain-sur-fond-de-tensions/)
 - [Nigeria : une centaine de militaires américains arrivent pour former l’armée locale](https://www.jeuneafrique.com/1766370/politique/nigeria-une-centaine-de-militaires-americains-arrivent-pour-former-larmee-locale/)
-- [Institut du monde arabe : Anne-Claire Legendre, conseillère diplomatique de Macron, choisie pour remplacer Jack Lang](https://www.jeuneafrique.com/1766387/politique/institut-du-monde-arabe-anne-claire-legendre-conseillere-diplomatique-de-macron-choisie-pour-remplacer-jack-lang/)
-- [Cameroun : Bruno Bidjang, le communicant qui navigue entre les clans](https://www.jeuneafrique.com/1763140/politique/cameroun-bruno-bidjang-le-communicant-qui-navigue-entre-les-clans/)
+- [Du phosphate aux engrais, l’intuition de Mostafa Terrab qui a relancé OCP](https://www.jeuneafrique.com/1763467/economie-entreprises/du-phosphate-a-lengrais-lintuition-de-mostafa-terrab-qui-a-relance-ocp/)
 - [Algérie-Niger : après le dégel des relations, le gazoduc transsaharien relancé](https://www.jeuneafrique.com/1766381/economie-entreprises/algerie-niger-apres-le-degel-des-relations-le-gazoduc-transsaharien-relance/)
-- [Comment MSC a fait du cacao l’une des clés de son essor africain](https://www.jeuneafrique.com/1765350/economie-entreprises/comment-msc-a-fait-du-cacao-lune-des-cles-de-son-essor-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
