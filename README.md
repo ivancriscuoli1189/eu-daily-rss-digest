@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Feb 2026, 21:23*
+*Generato: 18 Feb 2026, 06:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
 - [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
 - [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
@@ -284,7 +285,6 @@
 - [Nigeria : une centaine de militaires américains arrivent pour former l’armée locale](https://www.jeuneafrique.com/1766370/politique/nigeria-une-centaine-de-militaires-americains-arrivent-pour-former-larmee-locale/)
 - [Institut du monde arabe : Anne-Claire Legendre, conseillère diplomatique de Macron, choisie pour remplacer Jack Lang](https://www.jeuneafrique.com/1766387/politique/institut-du-monde-arabe-anne-claire-legendre-conseillere-diplomatique-de-macron-choisie-pour-remplacer-jack-lang/)
 - [Est de la RDC : comment João Lourenço revient au centre du jeu](https://www.jeuneafrique.com/1766060/politique/est-de-la-rdc-comment-joao-lourenco-revient-au-centre-du-jeu/)
-- [Mort d’un étudiant au Sénégal : ce que révèle le rapport d’autopsie qui a fuité dans la presse](https://www.jeuneafrique.com/1766172/politique/etudiant-tue-au-senegal-ce-que-revele-le-rapport-dautopsie-qui-a-fuite-dans-la-presse/)
 - [Algérie-Niger : après le dégel des relations, le gazoduc transsaharien relancé](https://www.jeuneafrique.com/1766381/economie-entreprises/algerie-niger-apres-le-degel-des-relations-le-gazoduc-transsaharien-relance/)
 - [Comment MSC a fait du cacao l’une des clés de son essor africain](https://www.jeuneafrique.com/1765350/economie-entreprises/comment-msc-a-fait-du-cacao-lune-des-cles-de-son-essor-africain/)
 
