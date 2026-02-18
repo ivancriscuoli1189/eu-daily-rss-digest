@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 12:32*
+*Generato: 18 Feb 2026, 14:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan-alimentation saine et équilibrée : les conseils du ministère de...](https://www.lapresse.tn/2026/02/18/ramadan-alimentation-saine-et-equilibree-les-conseils-du-ministere-de-la-sante/)
-- [Chine : ce que la suppression des droits de douane...](https://www.lapresse.tn/2026/02/18/chine-ce-que-la-suppression-des-droits-de-douane-signifie-pour-la-tunisie/)
+- [Tunisie, Maroc, Algérie : qui domine réellement la connectivité mobile en...](https://www.lapresse.tn/2026/02/18/tunisie-maroc-algerie-qui-domine-reellement-la-connectivite-mobile-en-2025/)
+- [Tunisie : partenariat tuniso-coréen pour la création de 75 start-ups...](https://www.lapresse.tn/2026/02/18/tunisie-partenariat-tuniso-coreen-pour-la-creation-de-75-start-ups-dans-le-numerique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,6 +236,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
+- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
+- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
+- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -268,10 +281,10 @@
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
+- [Maroc : l’UE clarifie sa position sur le Sahara occidental et réaffirme l’importance du partenariat](https://www.jeuneafrique.com/1766500/politique/maroc-lue-clarifie-sa-position-sur-le-sahara-occidental-et-reaffirme-limportance-du-partenariat/)
 - [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
 - [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
 - [Afrique du Sud : arrivée du nouvel ambassadeur américain, sur fond de tensions](https://www.jeuneafrique.com/1766375/politique/afrique-du-sud-arrivee-du-nouvel-ambassadeur-americain-sur-fond-de-tensions/)
-- [Nigeria : une centaine de militaires américains arrivent pour former l’armée locale](https://www.jeuneafrique.com/1766370/politique/nigeria-une-centaine-de-militaires-americains-arrivent-pour-former-larmee-locale/)
 - [Pourquoi British Airways privilégie les alliances plutôt que l’expansion directe en Afrique](https://www.jeuneafrique.com/1766555/economie-entreprises/pourquoi-british-airways-privilegie-les-alliances-plutot-que-lexpansion-directe-en-afrique/)
 - [Du phosphate aux engrais, l’intuition de Mostafa Terrab qui a relancé OCP](https://www.jeuneafrique.com/1763467/economie-entreprises/du-phosphate-a-lengrais-lintuition-de-mostafa-terrab-qui-a-relance-ocp/)
 
