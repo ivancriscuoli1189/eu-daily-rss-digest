@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 15:39*
+*Generato: 18 Feb 2026, 18:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Maux de tête durant Ramadan : la prévention commence dès...](https://www.lapresse.tn/2026/02/18/maux-de-tete-durant-ramadan-la-prevention-commence-des-ce-soir/)
-- [La cuisine tunisienne figure au Top 3 arabe, et au...](https://www.lapresse.tn/2026/02/18/la-cuisine-tunisienne-figure-au-top-3-arabe-et-au-top-30-mondial/)
+- [Pourquoi : La Transtu et la fraude](https://www.lapresse.tn/2026/02/18/pourquoi-la-transtu-et-la-fraude/)
+- [La Goulette : La mer reprend lentement mais sûrement ses...](https://www.lapresse.tn/2026/02/18/la-goulette-la-mer-reprend-lentement-mais-surement-ses-droits/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mort de Leïla Shahid, ancienne représentante de la Palestine en France et en Europe](https://www.jeuneafrique.com/1766964/politique/mort-de-leila-shahid-ancienne-representante-de-la-palestine-en-france-et-en-europe/)
 - [Qui est Anne-Claire Legendre, la nouvelle patronne de l’Institut du monde arabe ?](https://www.jeuneafrique.com/1766661/politique/qui-est-anne-claire-legendre-la-nouvelle-patronne-de-linstitut-du-monde-arabe/)
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
+- [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
+- [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
 - [Maroc : l’UE clarifie sa position sur le Sahara occidental et réaffirme l’importance du partenariat](https://www.jeuneafrique.com/1766500/politique/maroc-lue-clarifie-sa-position-sur-le-sahara-occidental-et-reaffirme-limportance-du-partenariat/)
-- [Feu Jesse Jackson, passeur entre Martin Luther King et Barack Obama](https://www.jeuneafrique.com/1766460/politique/feu-jesse-jackson-passeur-entre-martin-luther-king-et-barack-obama/)
-- [Jesse Jackson, charismatique défenseur des droits des Afro-Américains, est mort](https://www.jeuneafrique.com/1766426/politique/jesse-jackson-charismatique-defenseur-des-droits-des-afro-americains-est-mort/)
-- [Afrique du Sud : arrivée du nouvel ambassadeur américain, sur fond de tensions](https://www.jeuneafrique.com/1766375/politique/afrique-du-sud-arrivee-du-nouvel-ambassadeur-americain-sur-fond-de-tensions/)
-- [Pourquoi British Airways privilégie les alliances plutôt que l’expansion directe en Afrique](https://www.jeuneafrique.com/1766555/economie-entreprises/pourquoi-british-airways-privilegie-les-alliances-plutot-que-lexpansion-directe-en-afrique/)
-- [Du phosphate aux engrais, l’intuition de Mostafa Terrab qui a relancé OCP](https://www.jeuneafrique.com/1763467/economie-entreprises/du-phosphate-a-lengrais-lintuition-de-mostafa-terrab-qui-a-relance-ocp/)
+- [Maroc : Ahmed Rahhou, le pionnier du digital qui a ranimé CIH Bank](https://www.jeuneafrique.com/1764831/economie-entreprises/maroc-ahmed-rahhou-le-pionnier-du-digital-qui-a-ranime-cih-bank/)
+- [Boeing-Airbus : la bataille des livraisons s’intensifie face à la menace du chinois Comac](https://www.jeuneafrique.com/1766405/economie-entreprises/boeing-airbus-la-bataille-des-livraisons-sintensifie-face-a-la-menace-du-chinois-comac/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
