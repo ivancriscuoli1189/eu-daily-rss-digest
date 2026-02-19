@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 09:33*
+*Generato: 19 Feb 2026, 11:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan 2026 : Ces deux pays démarrent le mois sacré...](https://www.lapresse.tn/2026/02/19/ramadan-2026-ces-deux-pays-demarrent-le-mois-sacre-vendredi/)
-- [Huile subventionnée : une stratégie pour cibler en priorité les...](https://www.lapresse.tn/2026/02/19/huile-subventionnee-une-strategie-pour-cibler-en-priorite-les-familles-necessiteuses/)
+- [Etablissements éducatifs : quand le harcèlement scolaire « tue »](https://www.lapresse.tn/2026/02/19/etablissements-educatifs-quand-le-harcelement-scolaire-tue/)
+- [La Tunisie remet ses grands chantiers en marche](https://www.lapresse.tn/2026/02/19/la-tunisie-remet-ses-grands-chantiers-en-marche/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,6 +236,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
+- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
+- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
+- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
+- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
@@ -272,11 +285,13 @@
 - [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
 - [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
+- [10 choses à savoir sur Mariama Ciré Sylla, nouvelle cheffe d’orchestre de l’économie guinéenne](https://www.jeuneafrique.com/1766363/economie-entreprises/10-choses-a-savoir-sur-mariama-cire-sylla-nouvelle-cheffe-dorchestre-de-leconomie-guineenne/)
 - [Bénin, Djibouti, Espagne… Marsa Maroc amorce enfin son expansion à l’international](https://www.jeuneafrique.com/1766657/economie-entreprises/benin-djibouti-espagne-marsa-maroc-amorce-enfin-son-expansion-a-linternational/)
-- [Maroc : Ahmed Rahhou, le pionnier du digital qui a ranimé CIH Bank](https://www.jeuneafrique.com/1764831/economie-entreprises/maroc-ahmed-rahhou-le-pionnier-du-digital-qui-a-ranime-cih-bank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
+- [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
@@ -285,5 +300,3 @@
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
 - [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
 - [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
-- [Il Fiume Evros e l'Europa dei muri](https://www.limesonline.com/rubriche/mappe-parlanti/il-fiume-evros-e-al-confine-tra-grecia-e-turchia-per-arginare-migranti-20528310/)
-- [Il triangolo di Hala'ib e Bir Tawil, territori contesi](https://www.limesonline.com/rubriche/mappe-parlanti/il-triangolo-di-hala-ib-e-bir-tawil-territori-contesi-confine-egitto-sudan-20485314/)
