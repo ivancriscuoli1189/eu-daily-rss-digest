@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 14:00*
+*Generato: 19 Feb 2026, 15:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Viandes rouges en Tunisie: les prix ont quintuplé depuis 2010](https://www.lapresse.tn/2026/02/19/viandes-rouges-en-tunisie-depuis-2010-les-prix-ont-quintuple/)
-- [Montée des eaux dans plusieurs régions : quelles solutions?](https://www.lapresse.tn/2026/02/19/montee-des-eaux-dans-plusieurs-regions-quelles-solutions/)
+- [Tunisie : reprise imminente de la raffinerie de sucre de...](https://www.lapresse.tn/2026/02/19/tunisie-reprise-imminente-de-la-raffinerie-de-sucre-de-beja/)
+- [Huile d’olive : 36 lauréats au concours national de la...](https://www.lapresse.tn/2026/02/19/huile-dolive-36-laureats-au-concours-national-de-la-meilleure-vierge-extra/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
 - [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
 - [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
+- [Comment Orange trouve sa croissance en Afrique](https://www.jeuneafrique.com/1767031/economie-entreprises/comment-orange-trouve-sa-croissance-en-afrique/)
 - [Bénin, Djibouti, Espagne… Marsa Maroc amorce enfin son expansion à l’international](https://www.jeuneafrique.com/1766657/economie-entreprises/benin-djibouti-espagne-marsa-maroc-amorce-enfin-son-expansion-a-linternational/)
-- [MTN rachète IHS Towers et scelle le retour à une pleine souveraineté sur ses tours télécoms](https://www.jeuneafrique.com/1766945/economie-entreprises/mtn-rachete-ihs-towers-et-scelle-le-retour-a-une-pleine-souverainete-sur-ses-tours-telecoms/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
