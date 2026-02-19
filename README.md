@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 11:30*
+*Generato: 19 Feb 2026, 12:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Etablissements éducatifs : quand le harcèlement scolaire « tue »](https://www.lapresse.tn/2026/02/19/etablissements-educatifs-quand-le-harcelement-scolaire-tue/)
-- [La Tunisie remet ses grands chantiers en marche](https://www.lapresse.tn/2026/02/19/la-tunisie-remet-ses-grands-chantiers-en-marche/)
+- [Bir El Kassâa : Les tarifs officiels face aux prix...](https://www.lapresse.tn/2026/02/19/bir-el-kassaa-les-tarifs-officiels-face-aux-prix-du-terrain/)
+- [» Du producteur au consommateur » : 16 points de vente...](https://www.lapresse.tn/2026/02/19/du-producteur-au-consommateur-16-points-de-vente-amenages-dans-les-regions/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
 - [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
-- [10 choses à savoir sur Mariama Ciré Sylla, nouvelle cheffe d’orchestre de l’économie guinéenne](https://www.jeuneafrique.com/1766363/economie-entreprises/10-choses-a-savoir-sur-mariama-cire-sylla-nouvelle-cheffe-dorchestre-de-leconomie-guineenne/)
 - [Bénin, Djibouti, Espagne… Marsa Maroc amorce enfin son expansion à l’international](https://www.jeuneafrique.com/1766657/economie-entreprises/benin-djibouti-espagne-marsa-maroc-amorce-enfin-son-expansion-a-linternational/)
+- [MTN rachète IHS Towers et scelle le retour à une pleine souveraineté sur ses tours télécoms](https://www.jeuneafrique.com/1766945/economie-entreprises/mtn-rachete-ihs-towers-et-scelle-le-retour-a-une-pleine-souverainete-sur-ses-tours-telecoms/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
