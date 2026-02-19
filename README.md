@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Feb 2026, 21:26*
+*Generato: 19 Feb 2026, 06:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -253,7 +253,7 @@
 
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [Laberinto Centroamérica](https://www.cespi.it/it/eventi-note/eventi/laberinto-centroamerica)
-- [AVVISO RICHIESTA PREVENTIVO PER RICHIESTA PERCORSO FORMATIVO CORSO DI PRIMO SOCCORSO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-richiesta-percorso-formativo-corso-di-primo)
+- [Il DDL immigrazione mette a serio rischio i diritti e l’inclusione dei minori non accompagnati: chiediamo la piena applicazione della Legge 47](https://www.cespi.it/it/eventi-note/comunicazioni/il-ddl-immigrazione-mette-serio-rischio-i-diritti-linclusione-dei-minori)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, le port de Douala toujours menacé de paralysie par la guerre des clans](https://www.jeuneafrique.com/1766420/politique/au-cameroun-le-port-de-douala-toujours-menace-de-paralysie-par-la-guerre-des-clans/)
 - [Mort de Leïla Shahid, ancienne représentante de la Palestine en France et en Europe](https://www.jeuneafrique.com/1766964/politique/mort-de-leila-shahid-ancienne-representante-de-la-palestine-en-france-et-en-europe/)
 - [Qui est Anne-Claire Legendre, la nouvelle patronne de l’Institut du monde arabe ?](https://www.jeuneafrique.com/1766661/politique/qui-est-anne-claire-legendre-la-nouvelle-patronne-de-linstitut-du-monde-arabe/)
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
@@ -284,7 +285,6 @@
 - [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
 - [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Laurent Nuñez en Algérie : Paris et Alger relancent « une coopération sécuritaire de très haut niveau »](https://www.jeuneafrique.com/1766585/politique/laurent-nunez-en-algerie-paris-et-alger-relancent-une-cooperation-securitaire-de-tres-haut-niveau/)
-- [Maroc : l’UE clarifie sa position sur le Sahara occidental et réaffirme l’importance du partenariat](https://www.jeuneafrique.com/1766500/politique/maroc-lue-clarifie-sa-position-sur-le-sahara-occidental-et-reaffirme-limportance-du-partenariat/)
 - [Maroc : Ahmed Rahhou, le pionnier du digital qui a ranimé CIH Bank](https://www.jeuneafrique.com/1764831/economie-entreprises/maroc-ahmed-rahhou-le-pionnier-du-digital-qui-a-ranime-cih-bank/)
 - [Boeing-Airbus : la bataille des livraisons s’intensifie face à la menace du chinois Comac](https://www.jeuneafrique.com/1766405/economie-entreprises/boeing-airbus-la-bataille-des-livraisons-sintensifie-face-a-la-menace-du-chinois-comac/)
 
