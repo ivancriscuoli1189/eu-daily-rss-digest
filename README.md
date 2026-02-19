@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 18:36*
+*Generato: 19 Feb 2026, 21:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [CAB : Quand le compteur tourne, les Cabistes se sentent...](https://www.lapresse.tn/2026/02/19/cab-quand-le-compteur-tourne-les-cabistes-se-sentent-bien/)
-- [Au Cinema for Peace Gala- Berlin : Kaouther Ben Hania...](https://www.lapresse.tn/2026/02/19/au-cinema-for-peace-gala-berlin-kaouther-ben-hania-decline-son-prix-et-denonce-le-silence-entourant-le-genocide-a-gaza/)
+- [Ramadan 2026 : le grand retour des stars tunisiennes](https://www.lapresse.tn/2026/02/19/ramadan-2026-le-grand-retour-des-stars-tunisiennes/)
+- [PGH vise le rachat de la participation de MPEFIV dans...](https://www.lapresse.tn/2026/02/19/pgh-vise-le-rachat-de-la-participation-de-mpefiv-dans-landor/)
 
 ## NGOs – Amnesty International – Tunisia
 
