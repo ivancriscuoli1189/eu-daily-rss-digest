@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 12:33*
+*Generato: 19 Feb 2026, 14:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Bir El Kassâa : Les tarifs officiels face aux prix...](https://www.lapresse.tn/2026/02/19/bir-el-kassaa-les-tarifs-officiels-face-aux-prix-du-terrain/)
-- [» Du producteur au consommateur » : 16 points de vente...](https://www.lapresse.tn/2026/02/19/du-producteur-au-consommateur-16-points-de-vente-amenages-dans-les-regions/)
+- [Viandes rouges en Tunisie: les prix ont quintuplé depuis 2010](https://www.lapresse.tn/2026/02/19/viandes-rouges-en-tunisie-depuis-2010-les-prix-ont-quintuple/)
+- [Montée des eaux dans plusieurs régions : quelles solutions?](https://www.lapresse.tn/2026/02/19/montee-des-eaux-dans-plusieurs-regions-quelles-solutions/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : Narcisse N’Dri, l’homme de l’ombre de Bédié qui en savait trop](https://www.jeuneafrique.com/1766800/politique/cote-divoire-narcisse-ndri-lhomme-de-lombre-de-bedie-qui-en-savait-trop/)
 - [Mort de Leïla Shahid, ancienne représentante de la Palestine en France et en Europe](https://www.jeuneafrique.com/1766964/politique/mort-de-leila-shahid-ancienne-representante-de-la-palestine-en-france-et-en-europe/)
 - [Laurent Nuñez en Algérie : les contacts sécuritaires sont rétablis mais le dialogue politique attendra](https://www.jeuneafrique.com/1766741/politique/laurent-nunez-en-algerie-les-contacts-securitaires-sont-retablis-mais-le-dialogue-politique-attendra/)
 - [Migrants expulsés des États-Unis et retenus au Cameroun : la polémique enfle](https://www.jeuneafrique.com/1766596/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-la-polemique-enfle/)
@@ -284,7 +285,6 @@
 - [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
 - [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
 - [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
-- [Congo : Firmin Ayessa, une vie au cœur du pouvoir](https://www.jeuneafrique.com/1766522/politique/congo-firmin-ayessa-une-vie-au-coeur-du-pouvoir/)
 - [Bénin, Djibouti, Espagne… Marsa Maroc amorce enfin son expansion à l’international](https://www.jeuneafrique.com/1766657/economie-entreprises/benin-djibouti-espagne-marsa-maroc-amorce-enfin-son-expansion-a-linternational/)
 - [MTN rachète IHS Towers et scelle le retour à une pleine souveraineté sur ses tours télécoms](https://www.jeuneafrique.com/1766945/economie-entreprises/mtn-rachete-ihs-towers-et-scelle-le-retour-a-une-pleine-souverainete-sur-ses-tours-telecoms/)
 
