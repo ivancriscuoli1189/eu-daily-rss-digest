@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 15:35*
+*Generato: 19 Feb 2026, 18:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : reprise imminente de la raffinerie de sucre de...](https://www.lapresse.tn/2026/02/19/tunisie-reprise-imminente-de-la-raffinerie-de-sucre-de-beja/)
-- [Huile d’olive : 36 lauréats au concours national de la...](https://www.lapresse.tn/2026/02/19/huile-dolive-36-laureats-au-concours-national-de-la-meilleure-vierge-extra/)
+- [CAB : Quand le compteur tourne, les Cabistes se sentent...](https://www.lapresse.tn/2026/02/19/cab-quand-le-compteur-tourne-les-cabistes-se-sentent-bien/)
+- [Au Cinema for Peace Gala- Berlin : Kaouther Ben Hania...](https://www.lapresse.tn/2026/02/19/au-cinema-for-peace-gala-berlin-kaouther-ben-hania-decline-son-prix-et-denonce-le-silence-entourant-le-genocide-a-gaza/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,12 +212,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
-- [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Sénégal, le gouvernement va soumettre un projet de loi visant à « durcir les peines » pour homosexualité](https://www.jeuneafrique.com/1767205/politique/au-senegal-le-gouvernement-va-soumettre-un-projet-de-loi-visant-a-durcir-les-peines-pour-homosexualite/)
+- [Tunisie : réduction de peine en appel pour l’opposante Abir Moussi](https://www.jeuneafrique.com/1767260/politique/tunisie-reduction-de-peine-en-appel-pour-lopposante-abir-moussi/)
+- [Migrants expulsés des États-Unis et retenus au Cameroun : des journalistes et un avocat arrêtés à Yaoundé](https://www.jeuneafrique.com/1767127/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-des-journalistes-et-un-avocat-arretes-a-yaounde/)
+- [Mali : comment Sadio Camara a assuré son retour en grâce à l’occasion du remaniement](https://www.jeuneafrique.com/1766595/politique/mali-comment-sadio-camara-a-assure-son-retour-en-grace-a-loccasion-du-remaniement/)
 - [Côte d’Ivoire : Narcisse N’Dri, l’homme de l’ombre de Bédié qui en savait trop](https://www.jeuneafrique.com/1766800/politique/cote-divoire-narcisse-ndri-lhomme-de-lombre-de-bedie-qui-en-savait-trop/)
 - [Mort de Leïla Shahid, ancienne représentante de la Palestine en France et en Europe](https://www.jeuneafrique.com/1766964/politique/mort-de-leila-shahid-ancienne-representante-de-la-palestine-en-france-et-en-europe/)
 - [Laurent Nuñez en Algérie : les contacts sécuritaires sont rétablis mais le dialogue politique attendra](https://www.jeuneafrique.com/1766741/politique/laurent-nunez-en-algerie-les-contacts-securitaires-sont-retablis-mais-le-dialogue-politique-attendra/)
 - [Migrants expulsés des États-Unis et retenus au Cameroun : la polémique enfle](https://www.jeuneafrique.com/1766596/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-la-polemique-enfle/)
-- [Qui est Anne-Claire Legendre, la nouvelle patronne de l’Institut du monde arabe ?](https://www.jeuneafrique.com/1766661/politique/qui-est-anne-claire-legendre-la-nouvelle-patronne-de-linstitut-du-monde-arabe/)
-- [Gabon : les réseaux sociaux suspendus « jusqu’à nouvel ordre »](https://www.jeuneafrique.com/1766668/politique/gabon-les-reseaux-sociaux-suspendus-jusqua-nouvel-ordre/)
-- [En Centrafrique, Faustin-Archange Touadéra peut-il gouverner sans alliés ?](https://www.jeuneafrique.com/1766533/politique/en-centrafrique-faustin-archange-touadera-peut-il-gouverner-sans-allies/)
-- [Présidentielle 2026 au Bénin : Paul Hounkpè, seul face à Romuald Wadagni](https://www.jeuneafrique.com/1761956/politique/presidentielle-2026-au-benin-paul-hounkpe-seul-face-a-romuald-wadagni/)
+- [Mercuria, Vitol, Gunvor… Les traders pétroliers se lancent à l’assaut du marché minier africain](https://www.jeuneafrique.com/1765827/economie-entreprises/mercuria-vitol-gunvor-les-traders-petroliers-se-lancent-a-lassaut-du-marche-minier-africain/)
 - [Comment Orange trouve sa croissance en Afrique](https://www.jeuneafrique.com/1767031/economie-entreprises/comment-orange-trouve-sa-croissance-en-afrique/)
-- [Bénin, Djibouti, Espagne… Marsa Maroc amorce enfin son expansion à l’international](https://www.jeuneafrique.com/1766657/economie-entreprises/benin-djibouti-espagne-marsa-maroc-amorce-enfin-son-expansion-a-linternational/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
