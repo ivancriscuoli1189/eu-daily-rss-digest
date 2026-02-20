@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Feb 2026, 13:52*
+*Generato: 20 Feb 2026, 15:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Entre la rupture de jeune et le S’hour : boire...](https://www.lapresse.tn/2026/02/20/entre-la-rupture-de-jeune-et-le-shour-boire-au-moins-deux-litres-deau-pour-eviter-la-deshydratation/)
-- [Train Tunis-Sousse : changement d’horaire](https://www.lapresse.tn/2026/02/20/train-tunis-sousse-changement-dhoraire/)
+- [Manouba : six élèves exclus définitivement après une banderole jugée...](https://www.lapresse.tn/2026/02/20/manouba-six-eleves-exclus-definitivement-apres-une-banderole-jugee-immorale-au-lycee/)
+- [Crimes dans les écoles : le parlement propose la réclusion...](https://www.lapresse.tn/2026/02/20/crimes-dans-les-ecoles-le-parlement-propose-la-reclusion-a-perpetuite-pour-les-trafiquants-et-agresseurs-de-mineurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
