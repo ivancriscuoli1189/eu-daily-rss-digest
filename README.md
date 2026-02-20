@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Feb 2026, 15:28*
+*Generato: 20 Feb 2026, 18:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Manouba : six élèves exclus définitivement après une banderole jugée...](https://www.lapresse.tn/2026/02/20/manouba-six-eleves-exclus-definitivement-apres-une-banderole-jugee-immorale-au-lycee/)
-- [Crimes dans les écoles : le parlement propose la réclusion...](https://www.lapresse.tn/2026/02/20/crimes-dans-les-ecoles-le-parlement-propose-la-reclusion-a-perpetuite-pour-les-trafiquants-et-agresseurs-de-mineurs/)
+- [Ramadan : Frénésie rime avec gaspillage](https://www.lapresse.tn/2026/02/20/ramadan-frenesie-rime-avec-gaspillage/)
+- [Basket – À une journée de la fin du play-off...](https://www.lapresse.tn/2026/02/20/basket-a-une-journee-de-la-fin-du-play-off-tout-est-clair/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En se rapprochant encore de Madagascar, Moscou poursuit sa progression en Afrique](https://www.jeuneafrique.com/1767747/politique/en-se-rapprochant-encore-de-madagascar-moscou-poursuit-sa-progression-en-afrique/)
 - [Burkina Faso : dans le Gourma, le Jnim s’attaque aux gardes forestiers](https://www.jeuneafrique.com/1767540/politique/burkina-faso-dans-le-gourma-le-jnim-sattaque-aux-gardes-forestiers/)
 - [Le député tunisien Ahmed Saïdani condamné à huit mois de prison pour avoir critiqué Kaïs Saïed](https://www.jeuneafrique.com/1767590/politique/le-depute-tunisien-ahmed-saidani-condamne-a-8-mois-de-prison-pour-avoir-critique-kais-saied/)
+- [En Tunisie, le sujet de la Cour constitutionnelle enfin au programme de l’Assemblée](https://www.jeuneafrique.com/1767509/politique/en-tunisie-le-sujet-de-la-cour-constitutionnelle-enfin-au-programme-de-lassemblee/)
 - [CAN 2025 : des peines de trois mois à un an de prison pour les 18 supporters sénégalais](https://www.jeuneafrique.com/1767514/politique/can-2025-les-18-supporters-senegalais-condamnes-entre-trois-mois-et-un-an-de-prison/)
 - [Flotte fantôme russe : pourquoi le Cameroun suspend son pavillon maritime](https://www.jeuneafrique.com/1766690/politique/flotte-fantome-russe-pourquoi-le-cameroun-suspend-son-pavillon-maritime/)
 - [Burkina Faso : révélations sur la propagande numérique d’activistes pro-Ibrahim Traoré](https://www.jeuneafrique.com/1767257/politique/burkina-faso-revelations-sur-la-propagande-numerique-dactivistes-pro-ibrahim-traore/)
 - [« On reste sur nos gardes » : à Bukavu, dans l’est de la RDC, les rebelles se sont imposés sans convaincre](https://www.jeuneafrique.com/1766922/politique/on-reste-sur-nos-gardes-a-bukavu-dans-lest-de-la-rdc-les-rebelles-se-sont-imposes-sans-convaincre/)
-- [YouTube, TikTok, WhatsApp… Ce que l’on sait de la suspension des réseaux sociaux au Gabon](https://www.jeuneafrique.com/1767152/politique/youtube-tiktok-whatsapp-ce-que-lon-sait-de-la-suspension-des-reseaux-sociaux-au-gabon/)
-- [Au Sénégal, le gouvernement va soumettre un projet de loi visant à « durcir les peines » pour homosexualité](https://www.jeuneafrique.com/1767205/politique/au-senegal-le-gouvernement-va-soumettre-un-projet-de-loi-visant-a-durcir-les-peines-pour-homosexualite/)
-- [Air France-KLM bousculé en Afrique par une année d’agitation internationale](https://www.jeuneafrique.com/1767096/economie-entreprises/air-france-klm-bouscule-en-afrique-par-une-annee-dagitation-internationale/)
-- [Côte d’Ivoire : ce qu’il faut retenir de l’emprunt obligataire record à 1,3 milliard de dollars](https://www.jeuneafrique.com/1767125/economie-entreprises/cote-divoire-ce-quil-faut-retenir-de-lemprunt-obligataire-record-a-13-milliard-de-dollars/)
+- [Mustafa Rawji (Rawbank) : « Notre priorité, c’est désormais l’économie réelle, celle qui crée de l’emploi »](https://www.jeuneafrique.com/1740613/economie-entreprises/mustafa-rawji-rawbank-notre-priorite-cest-desormais-leconomie-reelle-celle-qui-cree-de-lemploi/)
+- [Cameroun : pourquoi l’État n’en finit pas de voler au secours d’Eneo](https://www.jeuneafrique.com/1767441/economie-entreprises/cameroun-pourquoi-letat-nen-finit-pas-de-voler-au-secours-deneo/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
