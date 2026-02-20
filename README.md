@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Feb 2026, 21:21*
+*Generato: 20 Feb 2026, 06:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Tabarka s’ouvre au tourisme tchèque : vols saisonniers directs confirmés](https://www.lapresse.tn/2026/02/19/tabarka-souvre-au-tourisme-tcheque-vols-saisonniers-directs-confirmes/)
 - [Ramadan 2026 : le grand retour des stars tunisiennes](https://www.lapresse.tn/2026/02/19/ramadan-2026-le-grand-retour-des-stars-tunisiennes/)
-- [PGH vise le rachat de la participation de MPEFIV dans...](https://www.lapresse.tn/2026/02/19/pgh-vise-le-rachat-de-la-participation-de-mpefiv-dans-landor/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Côte d’Ivoire : Téné Birahima Ouattara, « frère de » et vigie au sommet de l’État](https://www.jeuneafrique.com/1765952/politique/cote-divoire-tene-birahima-ouattara-frere-de-et-vigie-au-sommet-de-letat/)
+- [Flotte fantôme russe : pourquoi le Cameroun suspend son pavillon maritime](https://www.jeuneafrique.com/1766690/politique/flotte-fantome-russe-pourquoi-le-cameroun-suspend-son-pavillon-maritime/)
 - [Au Sénégal, le gouvernement va soumettre un projet de loi visant à « durcir les peines » pour homosexualité](https://www.jeuneafrique.com/1767205/politique/au-senegal-le-gouvernement-va-soumettre-un-projet-de-loi-visant-a-durcir-les-peines-pour-homosexualite/)
 - [Tunisie : réduction de peine en appel pour l’opposante Abir Moussi](https://www.jeuneafrique.com/1767260/politique/tunisie-reduction-de-peine-en-appel-pour-lopposante-abir-moussi/)
 - [Migrants expulsés des États-Unis et retenus au Cameroun : des journalistes et un avocat arrêtés à Yaoundé](https://www.jeuneafrique.com/1767127/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-des-journalistes-et-un-avocat-arretes-a-yaounde/)
 - [Mali : comment Sadio Camara a assuré son retour en grâce à l’occasion du remaniement](https://www.jeuneafrique.com/1766595/politique/mali-comment-sadio-camara-a-assure-son-retour-en-grace-a-loccasion-du-remaniement/)
 - [Côte d’Ivoire : Narcisse N’Dri, l’homme de l’ombre de Bédié qui en savait trop](https://www.jeuneafrique.com/1766800/politique/cote-divoire-narcisse-ndri-lhomme-de-lombre-de-bedie-qui-en-savait-trop/)
 - [Mort de Leïla Shahid, ancienne représentante de la Palestine en France et en Europe](https://www.jeuneafrique.com/1766964/politique/mort-de-leila-shahid-ancienne-representante-de-la-palestine-en-france-et-en-europe/)
-- [Laurent Nuñez en Algérie : les contacts sécuritaires sont rétablis mais le dialogue politique attendra](https://www.jeuneafrique.com/1766741/politique/laurent-nunez-en-algerie-les-contacts-securitaires-sont-retablis-mais-le-dialogue-politique-attendra/)
-- [Migrants expulsés des États-Unis et retenus au Cameroun : la polémique enfle](https://www.jeuneafrique.com/1766596/politique/migrants-expulses-des-etats-unis-et-retenus-au-cameroun-la-polemique-enfle/)
 - [Mercuria, Vitol, Gunvor… Les traders pétroliers se lancent à l’assaut du marché minier africain](https://www.jeuneafrique.com/1765827/economie-entreprises/mercuria-vitol-gunvor-les-traders-petroliers-se-lancent-a-lassaut-du-marche-minier-africain/)
 - [Comment Orange trouve sa croissance en Afrique](https://www.jeuneafrique.com/1767031/economie-entreprises/comment-orange-trouve-sa-croissance-en-afrique/)
 
