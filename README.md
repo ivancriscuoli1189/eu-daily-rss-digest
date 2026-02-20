@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Feb 2026, 12:29*
+*Generato: 20 Feb 2026, 13:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Municipalités-agents contractuels : le ministère de l’Intérieur fait le point...](https://www.lapresse.tn/2026/02/20/municipalites-agents-contractuels-le-ministere-de-linterieur-fait-le-point-sur-leur-statut/)
-- [Tunisie : le pouvoir d’achat des ménages en baisse de...](https://www.lapresse.tn/2026/02/20/tunisie-le-pouvoir-dachat-des-menages-en-baisse-de-8-sur-2018-2024-alerte-liace/)
+- [Entre la rupture de jeune et le S’hour : boire...](https://www.lapresse.tn/2026/02/20/entre-la-rupture-de-jeune-et-le-shour-boire-au-moins-deux-litres-deau-pour-eviter-la-deshydratation/)
+- [Train Tunis-Sousse : changement d’horaire](https://www.lapresse.tn/2026/02/20/train-tunis-sousse-changement-dhoraire/)
 
 ## NGOs – Amnesty International – Tunisia
 
