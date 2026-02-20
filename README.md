@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Feb 2026, 18:30*
+*Generato: 20 Feb 2026, 21:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan : Frénésie rime avec gaspillage](https://www.lapresse.tn/2026/02/20/ramadan-frenesie-rime-avec-gaspillage/)
-- [Basket – À une journée de la fin du play-off...](https://www.lapresse.tn/2026/02/20/basket-a-une-journee-de-la-fin-du-play-off-tout-est-clair/)
+- [Tunis : Les commerçants sous contrôle et 49 infractions relevées...](https://www.lapresse.tn/2026/02/20/tunis-les-commercants-sous-controle-et-49-infractions-relevees-au-premier-jour-de-ramadan/)
+- [Festival des premières chorégraphiques : « Infinité » par la compagnie Yvann Alexandre...](https://www.lapresse.tn/2026/02/20/festival-des-premieres-choregraphiques-infinite-par-la-compagnie-yvann-alexandre-linfini-en-mouvement/)
 
 ## NGOs – Amnesty International – Tunisia
 
