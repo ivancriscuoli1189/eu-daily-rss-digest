@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Feb 2026, 15:48*
+*Generato: 23 Feb 2026, 18:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
 - [Ukraine: Parliament marks four years of Russia’s war with extraordinary session](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36003/ukraine-parliament-marks-four-years-of-russia-s-war-with-extraordinary-session)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
@@ -91,7 +92,6 @@
 - [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
 - [New rules to protect farmers against unfair trading practices](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33625/new-rules-to-protect-farmers-against-unfair-trading-practices)
 - [President Metsola: “We have a narrow window to deliver for Europe and we must.”](https://www.europarl.europa.eu/news/en/press-room/20260209IPR34104/president-metsola-we-have-a-narrow-window-to-deliver-for-europe-and-we-must)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33612/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Plus d’une voiture sur deux a plus de 15 ans...](https://www.lapresse.tn/2026/02/23/plus-dune-voiture-sur-deux-a-plus-de-15-ans-en-tunisie/)
-- [Séjoumi : un projet pour transformer la sebkha en poumon...](https://www.lapresse.tn/2026/02/23/sejoumi-un-projet-pour-transformer-la-sebkha-en-poumon-vert-de-tunis/)
+- [Témoignage – Mejri Ali, 64 ans, ancien habitant de l’immeuble...](https://www.lapresse.tn/2026/02/23/temoignage-mejri-ali-64-ans-ancien-habitant-de-limmeuble-menace-de-demolition-a-la-rue-fadhel-ben-achour-la-petite-sicile-jai-du-quitter-mon-logement-sans-aucu/)
+- [La Médina de tunis : La réhabilitation, des racines ...](https://www.lapresse.tn/2026/02/23/la-medina-de-tunis-la-rehabilitation-des-racines-a-la-modernite/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
 - [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
 - [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
+- [Centrafrique : réélu, Faustin-Archange Touadéra face au casse-tête du prochain gouvernement](https://www.jeuneafrique.com/1767462/politique/centrafrique-reelu-faustin-archange-touadera-face-au-casse-tete-du-prochain-gouvernement/)
 - [Sahara occidental : comment Alger et le Polisario ont été contraints de renoncer à l’indépendance](https://www.jeuneafrique.com/1767757/politique/sahara-occidental-comment-alger-et-le-polisario-ont-ete-contraints-de-renoncer-a-lindependance/)
+- [Au Cameroun, Issa Tchiroma Bakary et le jeu dangereux du boycott](https://www.jeuneafrique.com/1767097/politique/au-cameroun-issa-tchiroma-bakary-et-le-jeu-dangereux-du-boycott/)
+- [Maroc : le transfert en Irak des ex-jihadistes de Daech inquiète leur famille](https://www.jeuneafrique.com/1767698/politique/maroc-le-transfert-en-irak-des-ex-jihadistes-de-daech-inquiete-leur-famille/)
 - [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
-- [Rachid Raha, militant amazigh, veut remplacer l’Union du Maghreb arabe par une « Union de Tamazgha »](https://www.jeuneafrique.com/1767322/politique/rachid-raha-militant-amazigh-veut-remplacer-lunion-du-maghreb-arabe-par-une-union-de-tamazgha/)
-- [Pour séduire les États-Unis, le Somaliland leur propose ses minerais et des bases militaires](https://www.jeuneafrique.com/1767999/politique/pour-seduire-les-etats-unis-le-somaliland-leur-propose-ses-minerais-et-des-bases-militaires/)
-- [Guerre au Soudan : les FSR d’Hemetti revendiquent la prise d’Al-Tina, à la frontière avec le Tchad](https://www.jeuneafrique.com/1767993/politique/guerre-au-soudan-les-fsr-dhemetti-revendiquent-la-prise-dal-tina-a-la-frontiere-avec-le-tchad/)
-- [Guinée : Toumba Diakité, l’ex-bras droit de Dadis Camara qui espère encore peser](https://www.jeuneafrique.com/1767763/politique/guinee-toumba-diakite-lex-bras-droit-de-dadis-camara-qui-espere-encore-peser/)
+- [CMA CGM, Maersk… Pourquoi les armateurs hésitent encore à passer par le canal de Suez](https://www.jeuneafrique.com/1766183/economie-entreprises/cma-cgm-maersk-pourquoi-les-armateurs-hesitent-encore-a-passer-par-le-canal-de-suez/)
 - [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
-- [Khaby Lame, Younes Zarou, Axel Merryl… Ces stars africaines à la conquête de TikTok](https://www.jeuneafrique.com/1762389/societe/khaby-lame-younes-zarou-axel-merry-ces-stars-africaines-a-la-conquete-de-tiktok/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
