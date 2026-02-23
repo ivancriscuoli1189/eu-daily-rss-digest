@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Feb 2026, 09:40*
+*Generato: 23 Feb 2026, 11:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
 - [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
@@ -91,7 +92,6 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33612/ep-today)
 - [“Expanded and enhanced” – opening a new chapter for EU Defence Partnerships](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33902/expanded-and-enhanced-opening-a-new-chapter-for-eu-defence-partnerships)
 - [Parliament approves €90 billion Ukraine support loan package](https://www.europarl.europa.eu/news/en/press-room/20260206IPR33903/parliament-approves-EU90-billion-ukraine-support-loan-package)
-- [MEPs back €7.5 million in EU support for workers in Belgium](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33624/meps-back-EU7-5-million-in-eu-support-for-workers-in-belgium)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Deux mille ans sous les décombres : l’os qui donne...](https://www.lapresse.tn/2026/02/23/deux-mille-ans-sous-les-decombres-los-qui-donne-raison-aux-chroniqueurs-dhannibal/)
-- [La raffinerie de sucre de Béja reprend du service aujourd’hui](https://www.lapresse.tn/2026/02/23/la-raffinerie-de-sucre-de-beja-reprend-du-service-aujourdhui/)
+- [Facturation électronique : entre souveraineté des données et équité fiscale,...](https://www.lapresse.tn/2026/02/23/facturation-electronique-entre-souverainete-des-donnees-et-equite-fiscale-le-parlement-cherche-sa-voie/)
+- [28 février : un rare alignement de six planètes illuminera...](https://www.lapresse.tn/2026/02/23/28-fevrier-un-rare-alignement-de-six-planetes-illuminera-le-ciel/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
 - [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
 - [Pour séduire les États-Unis, le Somaliland leur propose ses minerais et des bases militaires](https://www.jeuneafrique.com/1767999/politique/pour-seduire-les-etats-unis-le-somaliland-leur-propose-ses-minerais-et-des-bases-militaires/)
 - [Guerre au Soudan : les FSR d’Hemetti revendiquent la prise d’Al-Tina, à la frontière avec le Tchad](https://www.jeuneafrique.com/1767993/politique/guerre-au-soudan-les-fsr-dhemetti-revendiquent-la-prise-dal-tina-a-la-frontiere-avec-le-tchad/)
@@ -284,7 +285,6 @@
 - [La Gambie s’inquiète pour ses ressortissants partis combattre à l’étranger](https://www.jeuneafrique.com/1767984/politique/la-gambie-sinquiete-pour-ses-ressortissants-partis-combattre-a-letranger/)
 - [Dans les archives de Jeune Afrique : Guinée-Bissau, la naissance d’un État](https://www.jeuneafrique.com/1758673/politique/dans-les-archives-de-jeune-afrique-guinee-bissau-la-naissance-dun-etat/)
 - [La Tunisie à l’heure de l’immobilisme](https://www.jeuneafrique.com/1766665/politique/la-tunisie-a-lheure-de-limmobilisme/)
-- [En Guinée, les élections législatives et locales auront lieu le 24 mai](https://www.jeuneafrique.com/1767976/politique/en-guinee-les-elections-legislatives-et-locales-auront-lieu-le-24-mai/)
 - [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
 - [Khaby Lame, Younes Zarou, Axel Merry… Ces stars africaines à la conquête de TikTok](https://www.jeuneafrique.com/1762389/societe/khaby-lame-younes-zarou-axel-merry-ces-stars-africaines-a-la-conquete-de-tiktok/)
 
