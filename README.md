@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Feb 2026, 21:13*
+*Generato: 23 Feb 2026, 06:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunis : Les commerçants sous contrôle et 49 infractions relevées...](https://www.lapresse.tn/2026/02/20/tunis-les-commercants-sous-controle-et-49-infractions-relevees-au-premier-jour-de-ramadan/)
-- [Festival des premières chorégraphiques : « Infinité » par la compagnie Yvann Alexandre...](https://www.lapresse.tn/2026/02/20/festival-des-premieres-choregraphiques-infinite-par-la-compagnie-yvann-alexandre-linfini-en-mouvement/)
+- [Une soirée symphonique à Tunis dédiée au génie de Baligh...](https://www.lapresse.tn/2026/02/22/une-soiree-symphonique-a-tunis-dediee-au-genie-de-baligh-hamdi/)
+- [Ramadan : plus de 71 tonnes de produits alimentaires impropres...](https://www.lapresse.tn/2026/02/22/ramadan-plus-de-71-tonnes-de-produits-alimentaires-impropres-a-la-consommation-saisies/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [En se rapprochant encore de Madagascar, Moscou poursuit sa progression en Afrique](https://www.jeuneafrique.com/1767747/politique/en-se-rapprochant-encore-de-madagascar-moscou-poursuit-sa-progression-en-afrique/)
-- [Burkina Faso : dans le Gourma, le Jnim s’attaque aux gardes forestiers](https://www.jeuneafrique.com/1767540/politique/burkina-faso-dans-le-gourma-le-jnim-sattaque-aux-gardes-forestiers/)
-- [Le député tunisien Ahmed Saïdani condamné à huit mois de prison pour avoir critiqué Kaïs Saïed](https://www.jeuneafrique.com/1767590/politique/le-depute-tunisien-ahmed-saidani-condamne-a-8-mois-de-prison-pour-avoir-critique-kais-saied/)
-- [En Tunisie, le sujet de la Cour constitutionnelle enfin au programme de l’Assemblée](https://www.jeuneafrique.com/1767509/politique/en-tunisie-le-sujet-de-la-cour-constitutionnelle-enfin-au-programme-de-lassemblee/)
-- [CAN 2025 : des peines de trois mois à un an de prison pour les 18 supporters sénégalais](https://www.jeuneafrique.com/1767514/politique/can-2025-les-18-supporters-senegalais-condamnes-entre-trois-mois-et-un-an-de-prison/)
-- [Flotte fantôme russe : pourquoi le Cameroun suspend son pavillon maritime](https://www.jeuneafrique.com/1766690/politique/flotte-fantome-russe-pourquoi-le-cameroun-suspend-son-pavillon-maritime/)
-- [Burkina Faso : révélations sur la propagande numérique d’activistes pro-Ibrahim Traoré](https://www.jeuneafrique.com/1767257/politique/burkina-faso-revelations-sur-la-propagande-numerique-dactivistes-pro-ibrahim-traore/)
-- [« On reste sur nos gardes » : à Bukavu, dans l’est de la RDC, les rebelles se sont imposés sans convaincre](https://www.jeuneafrique.com/1766922/politique/on-reste-sur-nos-gardes-a-bukavu-dans-lest-de-la-rdc-les-rebelles-se-sont-imposes-sans-convaincre/)
-- [Mustafa Rawji (Rawbank) : « Notre priorité, c’est désormais l’économie réelle, celle qui crée de l’emploi »](https://www.jeuneafrique.com/1740613/economie-entreprises/mustafa-rawji-rawbank-notre-priorite-cest-desormais-leconomie-reelle-celle-qui-cree-de-lemploi/)
-- [Cameroun : pourquoi l’État n’en finit pas de voler au secours d’Eneo](https://www.jeuneafrique.com/1767441/economie-entreprises/cameroun-pourquoi-letat-nen-finit-pas-de-voler-au-secours-deneo/)
+- [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
+- [Pour séduire les États-Unis, le Somaliland leur propose ses minerais et des bases militaires](https://www.jeuneafrique.com/1767999/politique/pour-seduire-les-etats-unis-le-somaliland-leur-propose-ses-minerais-et-des-bases-militaires/)
+- [Guerre au Soudan : les FSR d’Hemetti revendiquent la prise d’Al-Tina, à la frontière avec le Tchad](https://www.jeuneafrique.com/1767993/politique/guerre-au-soudan-les-fsr-dhemetti-revendiquent-la-prise-dal-tina-a-la-frontiere-avec-le-tchad/)
+- [La Gambie s’inquiète pour ses ressortissants partis combattre à l’étranger](https://www.jeuneafrique.com/1767984/politique/la-gambie-sinquiete-pour-ses-ressortissants-partis-combattre-a-letranger/)
+- [En Guinée, les élections législatives et locales auront lieu le 24 mai](https://www.jeuneafrique.com/1767976/politique/en-guinee-les-elections-legislatives-et-locales-auront-lieu-le-24-mai/)
+- [Guinée : qui est Ibrahima Sory II Tounkara, le juge du massacre du 28-Septembre devenu garde des Sceaux](https://www.jeuneafrique.com/1767465/politique/guinee-qui-est-ibrahima-sory-ii-tounkara-le-juge-du-massacre-du-28-septembre-devenu-garde-des-sceaux/)
+- [Touadéra en Centrafrique, Orange en Afrique, Nuñez à Alger… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1767124/politique/touadera-en-centrafrique-orange-en-afrique-nunez-a-alger-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [RDC-Jean-Marc Kabund : « Félix Tshisekedi fait partie du problème, il ne peut pas fixer les règles du dialogue »](https://www.jeuneafrique.com/1767904/politique/rdc-jean-marc-kabund-felix-tshisekedi-fait-partie-du-probleme-il-ne-peut-pas-fixer-les-regles-du-dialogue/)
+- [En Guinée, comment Addax a gardé la main sur l’approvisionnement en carburant](https://www.jeuneafrique.com/1767812/economie-entreprises/en-guinee-comment-addax-a-garde-la-main-sur-lapprovisionnement-en-carburant/)
+- [Pourquoi WhatsApp fonctionne encore au Gabon, malgré la coupure des réseaux sociaux](https://www.jeuneafrique.com/1767925/economie-entreprises/pourquoi-whatsapp-fonctionne-encore-au-gabon-malgre-la-coupure-des-reseaux-sociaux/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
