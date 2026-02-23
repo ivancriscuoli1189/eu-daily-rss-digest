@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Feb 2026, 12:35*
+*Generato: 23 Feb 2026, 13:59*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : Le troisième district devient-il le nouveau pôle agricole...](https://www.lapresse.tn/2026/02/23/tunisie-le-troisieme-district-devient-il-le-nouveau-pole-agricole-du-pays/)
-- [Ramadan : plus de 2 000 infractions économiques relevées depuis...](https://www.lapresse.tn/2026/02/23/ramadan-plus-de-2-000-infractions-economiques-relevees-depuis-le-debut-du-mois/)
+- [Sidi Bouzid : comment 800 000 tonnes de margine seront...](https://www.lapresse.tn/2026/02/23/sidi-bouzid-comment-800-000-tonnes-de-margine-seront-valorisees-chaque-annee/)
+- [Investissements, devises, crypto : ce que pourrait changer le nouveau...](https://www.lapresse.tn/2026/02/23/investissements-devises-crypto-ce-que-pourrait-changer-le-nouveau-code-des-changes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -278,15 +278,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
+- [Sahara occidental : comment Alger et le Polisario ont été contraints de renoncer à l’indépendance](https://www.jeuneafrique.com/1767757/politique/sahara-occidental-comment-alger-et-le-polisario-ont-ete-contraints-de-renoncer-a-lindependance/)
 - [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
 - [Rachid Raha, militant amazigh, veut remplacer l’Union du Maghreb arabe par une « Union de Tamazgha »](https://www.jeuneafrique.com/1767322/politique/rachid-raha-militant-amazigh-veut-remplacer-lunion-du-maghreb-arabe-par-une-union-de-tamazgha/)
 - [Pour séduire les États-Unis, le Somaliland leur propose ses minerais et des bases militaires](https://www.jeuneafrique.com/1767999/politique/pour-seduire-les-etats-unis-le-somaliland-leur-propose-ses-minerais-et-des-bases-militaires/)
 - [Guerre au Soudan : les FSR d’Hemetti revendiquent la prise d’Al-Tina, à la frontière avec le Tchad](https://www.jeuneafrique.com/1767993/politique/guerre-au-soudan-les-fsr-dhemetti-revendiquent-la-prise-dal-tina-a-la-frontiere-avec-le-tchad/)
 - [Guinée : Toumba Diakité, l’ex-bras droit de Dadis Camara qui espère encore peser](https://www.jeuneafrique.com/1767763/politique/guinee-toumba-diakite-lex-bras-droit-de-dadis-camara-qui-espere-encore-peser/)
 - [La Gambie s’inquiète pour ses ressortissants partis combattre à l’étranger](https://www.jeuneafrique.com/1767984/politique/la-gambie-sinquiete-pour-ses-ressortissants-partis-combattre-a-letranger/)
-- [Dans les archives de Jeune Afrique : Guinée-Bissau, la naissance d’un État](https://www.jeuneafrique.com/1758673/politique/dans-les-archives-de-jeune-afrique-guinee-bissau-la-naissance-dun-etat/)
 - [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
-- [Khaby Lame, Younes Zarou, Axel Merry… Ces stars africaines à la conquête de TikTok](https://www.jeuneafrique.com/1762389/societe/khaby-lame-younes-zarou-axel-merry-ces-stars-africaines-a-la-conquete-de-tiktok/)
+- [Khaby Lame, Younes Zarou, Axel Merryl… Ces stars africaines à la conquête de TikTok](https://www.jeuneafrique.com/1762389/societe/khaby-lame-younes-zarou-axel-merry-ces-stars-africaines-a-la-conquete-de-tiktok/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
