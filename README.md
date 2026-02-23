@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Feb 2026, 18:44*
+*Generato: 23 Feb 2026, 21:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Témoignage – Mejri Ali, 64 ans, ancien habitant de l’immeuble...](https://www.lapresse.tn/2026/02/23/temoignage-mejri-ali-64-ans-ancien-habitant-de-limmeuble-menace-de-demolition-a-la-rue-fadhel-ben-achour-la-petite-sicile-jai-du-quitter-mon-logement-sans-aucu/)
-- [La Médina de tunis : La réhabilitation, des racines ...](https://www.lapresse.tn/2026/02/23/la-medina-de-tunis-la-rehabilitation-des-racines-a-la-modernite/)
+- [Huile subventionnée : plus de 3 200 litres saisis à...](https://www.lapresse.tn/2026/02/23/huile-subventionnee-plus-de-3-200-litres-saisis-a-gabes/)
+- [Sbiba : un hôpital de 105 lits attendu avant fin...](https://www.lapresse.tn/2026/02/23/sbiba-un-hopital-de-105-lits-attendu-avant-fin-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -279,12 +279,12 @@
 
 - [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
 - [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
+- [Mohammed Moussaoui vs Chems-Eddine Hafiz, duel au croissant dans l’islam de France](https://www.jeuneafrique.com/1768083/politique/mohammed-moussaoui-vs-chems-eddine-hafiz-duel-au-croissant-dans-lislam-de-france/)
 - [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
 - [Centrafrique : réélu, Faustin-Archange Touadéra face au casse-tête du prochain gouvernement](https://www.jeuneafrique.com/1767462/politique/centrafrique-reelu-faustin-archange-touadera-face-au-casse-tete-du-prochain-gouvernement/)
 - [Sahara occidental : comment Alger et le Polisario ont été contraints de renoncer à l’indépendance](https://www.jeuneafrique.com/1767757/politique/sahara-occidental-comment-alger-et-le-polisario-ont-ete-contraints-de-renoncer-a-lindependance/)
 - [Au Cameroun, Issa Tchiroma Bakary et le jeu dangereux du boycott](https://www.jeuneafrique.com/1767097/politique/au-cameroun-issa-tchiroma-bakary-et-le-jeu-dangereux-du-boycott/)
 - [Maroc : le transfert en Irak des ex-jihadistes de Daech inquiète leur famille](https://www.jeuneafrique.com/1767698/politique/maroc-le-transfert-en-irak-des-ex-jihadistes-de-daech-inquiete-leur-famille/)
-- [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
 - [CMA CGM, Maersk… Pourquoi les armateurs hésitent encore à passer par le canal de Suez](https://www.jeuneafrique.com/1766183/economie-entreprises/cma-cgm-maersk-pourquoi-les-armateurs-hesitent-encore-a-passer-par-le-canal-de-suez/)
 - [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
 
