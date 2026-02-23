@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Feb 2026, 06:50*
+*Generato: 23 Feb 2026, 09:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Une soirée symphonique à Tunis dédiée au génie de Baligh...](https://www.lapresse.tn/2026/02/22/une-soiree-symphonique-a-tunis-dediee-au-genie-de-baligh-hamdi/)
-- [Ramadan : plus de 71 tonnes de produits alimentaires impropres...](https://www.lapresse.tn/2026/02/22/ramadan-plus-de-71-tonnes-de-produits-alimentaires-impropres-a-la-consommation-saisies/)
+- [Deux mille ans sous les décombres : l’os qui donne...](https://www.lapresse.tn/2026/02/23/deux-mille-ans-sous-les-decombres-los-qui-donne-raison-aux-chroniqueurs-dhannibal/)
+- [La raffinerie de sucre de Béja reprend du service aujourd’hui](https://www.lapresse.tn/2026/02/23/la-raffinerie-de-sucre-de-beja-reprend-du-service-aujourdhui/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -280,13 +280,13 @@
 - [Le Ghana et le Burkina Faso renforcent leur coopération sécuritaire et transfrontalière](https://www.jeuneafrique.com/1768006/politique/le-ghana-et-le-burkina-faso-renforcent-leur-cooperation-securitaire-et-transfrontaliere/)
 - [Pour séduire les États-Unis, le Somaliland leur propose ses minerais et des bases militaires](https://www.jeuneafrique.com/1767999/politique/pour-seduire-les-etats-unis-le-somaliland-leur-propose-ses-minerais-et-des-bases-militaires/)
 - [Guerre au Soudan : les FSR d’Hemetti revendiquent la prise d’Al-Tina, à la frontière avec le Tchad](https://www.jeuneafrique.com/1767993/politique/guerre-au-soudan-les-fsr-dhemetti-revendiquent-la-prise-dal-tina-a-la-frontiere-avec-le-tchad/)
+- [Guinée : Toumba Diakité, l’ex-bras droit de Dadis Camara qui espère encore peser](https://www.jeuneafrique.com/1767763/politique/guinee-toumba-diakite-lex-bras-droit-de-dadis-camara-qui-espere-encore-peser/)
 - [La Gambie s’inquiète pour ses ressortissants partis combattre à l’étranger](https://www.jeuneafrique.com/1767984/politique/la-gambie-sinquiete-pour-ses-ressortissants-partis-combattre-a-letranger/)
+- [Dans les archives de Jeune Afrique : Guinée-Bissau, la naissance d’un État](https://www.jeuneafrique.com/1758673/politique/dans-les-archives-de-jeune-afrique-guinee-bissau-la-naissance-dun-etat/)
+- [La Tunisie à l’heure de l’immobilisme](https://www.jeuneafrique.com/1766665/politique/la-tunisie-a-lheure-de-limmobilisme/)
 - [En Guinée, les élections législatives et locales auront lieu le 24 mai](https://www.jeuneafrique.com/1767976/politique/en-guinee-les-elections-legislatives-et-locales-auront-lieu-le-24-mai/)
-- [Guinée : qui est Ibrahima Sory II Tounkara, le juge du massacre du 28-Septembre devenu garde des Sceaux](https://www.jeuneafrique.com/1767465/politique/guinee-qui-est-ibrahima-sory-ii-tounkara-le-juge-du-massacre-du-28-septembre-devenu-garde-des-sceaux/)
-- [Touadéra en Centrafrique, Orange en Afrique, Nuñez à Alger… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1767124/politique/touadera-en-centrafrique-orange-en-afrique-nunez-a-alger-les-5-infos-quil-ne-fallait-pas-manquer/)
-- [RDC-Jean-Marc Kabund : « Félix Tshisekedi fait partie du problème, il ne peut pas fixer les règles du dialogue »](https://www.jeuneafrique.com/1767904/politique/rdc-jean-marc-kabund-felix-tshisekedi-fait-partie-du-probleme-il-ne-peut-pas-fixer-les-regles-du-dialogue/)
-- [En Guinée, comment Addax a gardé la main sur l’approvisionnement en carburant](https://www.jeuneafrique.com/1767812/economie-entreprises/en-guinee-comment-addax-a-garde-la-main-sur-lapprovisionnement-en-carburant/)
-- [Pourquoi WhatsApp fonctionne encore au Gabon, malgré la coupure des réseaux sociaux](https://www.jeuneafrique.com/1767925/economie-entreprises/pourquoi-whatsapp-fonctionne-encore-au-gabon-malgre-la-coupure-des-reseaux-sociaux/)
+- [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
+- [Khaby Lame, Younes Zarou, Axel Merry… Ces stars africaines à la conquête de TikTok](https://www.jeuneafrique.com/1762389/societe/khaby-lame-younes-zarou-axel-merry-ces-stars-africaines-a-la-conquete-de-tiktok/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
