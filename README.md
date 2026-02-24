@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 11:31*
+*Generato: 24 Feb 2026, 12:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Véhicules électriques et hybrides : les incitations fiscales et financières](https://www.lapresse.tn/2026/02/24/vehicules-electriques-et-hybrides-lanme-detaille-les-incitations-fiscales-et-financieres/)
-- [RAÏDET : Plus de 6 mille projets féminins financés](https://www.lapresse.tn/2026/02/24/raidet-plus-de-6-mille-projets-feminins-finances/)
+- [La Confédération des Sages-femmes appelle à rectifier l’appellation de la...](https://www.lapresse.tn/2026/02/24/la-confederation-des-sages-femmes-appelle-a-rectifier-lappellation-de-la-profession/)
+- [Facturation électronique : le Parlement évoque un possible report à...](https://www.lapresse.tn/2026/02/24/facturation-electronique-le-parlement-evoque-un-possible-report-a-2027/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -279,12 +279,12 @@
 
 - [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
 - [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
+- [Pourquoi Mahamat Idriss Déby Itno a fermé la frontière Tchad-Soudan](https://www.jeuneafrique.com/1768062/politique/pourquoi-mahamat-idriss-deby-itno-a-ferme-la-frontiere-tchad-soudan/)
 - [Mohammed Moussaoui vs Chems-Eddine Hafiz, duel au croissant dans l’islam de France](https://www.jeuneafrique.com/1768083/politique/mohammed-moussaoui-vs-chems-eddine-hafiz-duel-au-croissant-dans-lislam-de-france/)
 - [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
 - [Centrafrique : réélu, Faustin-Archange Touadéra face au casse-tête du prochain gouvernement](https://www.jeuneafrique.com/1767462/politique/centrafrique-reelu-faustin-archange-touadera-face-au-casse-tete-du-prochain-gouvernement/)
 - [Sahara occidental : comment Alger et le Polisario ont été contraints de renoncer à l’indépendance](https://www.jeuneafrique.com/1767757/politique/sahara-occidental-comment-alger-et-le-polisario-ont-ete-contraints-de-renoncer-a-lindependance/)
 - [Au Cameroun, Issa Tchiroma Bakary et le jeu dangereux du boycott](https://www.jeuneafrique.com/1767097/politique/au-cameroun-issa-tchiroma-bakary-et-le-jeu-dangereux-du-boycott/)
-- [Maroc : le transfert en Irak des ex-jihadistes de Daech inquiète leur famille](https://www.jeuneafrique.com/1767698/politique/maroc-le-transfert-en-irak-des-ex-jihadistes-de-daech-inquiete-leur-famille/)
 - [Afrique – États-Unis : ce que va changer la nouvelle surtaxe mondiale de Donald Trump](https://www.jeuneafrique.com/1768243/economie-entreprises/afrique-etats-unis-ce-que-va-changer-la-nouvelle-surtaxe-mondiale-de-donald-trump/)
 - [CMA CGM, Maersk… Pourquoi les armateurs hésitent encore à passer par le canal de Suez](https://www.jeuneafrique.com/1766183/economie-entreprises/cma-cgm-maersk-pourquoi-les-armateurs-hesitent-encore-a-passer-par-le-canal-de-suez/)
 
