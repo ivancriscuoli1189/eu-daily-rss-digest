@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 16:06*
+*Generato: 24 Feb 2026, 21:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Poste tunisienne annonce le retrait des pensions CNSS à...](https://www.lapresse.tn/2026/02/24/la-poste-tunisienne-annonce-le-retrait-des-pensions-cnss-a-partir-de-ce-mardi/)
-- [Manouba : “Diwan Market” assure des prix spéciaux sur les...](https://www.lapresse.tn/2026/02/24/manouba-diwan-market-assure-des-prix-speciaux-sur-les-viandes-pendant-ramadan/)
+- [Une première : une société tunisienne certifiée pour les dattes...](https://www.lapresse.tn/2026/02/24/une-premiere-une-societe-tunisienne-certifiee-pour-les-dattes-biologiques-sur-le-marche-russe/)
+- [Bourse de Tunis – Dividendes et rendement en hausse :...](https://www.lapresse.tn/2026/02/24/bourse-de-tunis-dividendes-et-rendement-en-hausse-un-signal-fort-du-marche/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Burkina Faso : quatre hauts magistrats condamnés pour corruption](https://www.jeuneafrique.com/1768683/politique/burkina-faso-quatre-hauts-magistrats-condamnes-pour-corruption/)
 - [En Afrique, la priorité est de renforcer les contre-pouvoirs, pas de limiter les mandats](https://www.jeuneafrique.com/1768380/politique/en-afrique-la-priorite-est-de-renforcer-les-contre-pouvoirs-pas-de-limiter-les-mandats/)
 - [En RDC, une équipe de la Monusco se rend à Uvira pour préparer le suivi du cessez-le-feu](https://www.jeuneafrique.com/1768508/politique/en-rdc-une-equipe-de-la-monusco-se-rend-a-uvira-pour-preparer-le-suivi-du-cessez-le-feu/)
+- [Élections partielles en Côte d’Ivoire : le PDCI déjoue le piège et fait trébucher le RHDP](https://www.jeuneafrique.com/1768157/politique/elections-partielles-en-cote-divoire-le-pdci-dejoue-le-piege-et-fait-trebucher-le-rhdp/)
 - [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
 - [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
 - [Pourquoi Mahamat Idriss Déby Itno a fermé la frontière Tchad-Soudan](https://www.jeuneafrique.com/1768062/politique/pourquoi-mahamat-idriss-deby-itno-a-ferme-la-frontiere-tchad-soudan/)
 - [Mohammed Moussaoui vs Chems-Eddine Hafiz, duel au croissant dans l’islam de France](https://www.jeuneafrique.com/1768083/politique/mohammed-moussaoui-vs-chems-eddine-hafiz-duel-au-croissant-dans-lislam-de-france/)
-- [RDC-Burundi : la frontière terrestre vient de rouvrir](https://www.jeuneafrique.com/1768031/politique/rdc-burundi-la-frontiere-terrestre-vient-de-rouvrir/)
-- [Centrafrique : réélu, Faustin-Archange Touadéra face au casse-tête du prochain gouvernement](https://www.jeuneafrique.com/1767462/politique/centrafrique-reelu-faustin-archange-touadera-face-au-casse-tete-du-prochain-gouvernement/)
+- [Pourquoi Airtel Africa met son expansion géographique en pause](https://www.jeuneafrique.com/1768060/economie-entreprises/pourquoi-airtel-africa-met-son-expansion-geographie-en-pause/)
 - [Afrique – États-Unis : ce que va changer la nouvelle surtaxe mondiale de Donald Trump](https://www.jeuneafrique.com/1768243/economie-entreprises/afrique-etats-unis-ce-que-va-changer-la-nouvelle-surtaxe-mondiale-de-donald-trump/)
-- [« Un défaut du Sénégal serait une catastrophe ! » Quand la finance ouest-africaine vient au secours de Dakar](https://www.jeuneafrique.com/1768265/economie-entreprises/un-defaut-du-senegal-serait-une-catastrophe-quand-la-finance-ouest-africaine-vient-au-secours-de-dakar/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
