@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 06:48*
+*Generato: 24 Feb 2026, 09:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
 - [Ukraine: Parliament marks four years of Russia’s war with extraordinary session](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36003/ukraine-parliament-marks-four-years-of-russia-s-war-with-extraordinary-session)
@@ -91,7 +92,6 @@
 - [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
 - [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
 - [New rules to protect farmers against unfair trading practices](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33625/new-rules-to-protect-farmers-against-unfair-trading-practices)
-- [President Metsola: “We have a narrow window to deliver for Europe and we must.”](https://www.europarl.europa.eu/news/en/press-room/20260209IPR34104/president-metsola-we-have-a-narrow-window-to-deliver-for-europe-and-we-must)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan : Comment manger de façon saine et équilibrée ?](https://www.lapresse.tn/2026/02/23/ramadan-comment-manger-de-facon-saine-et-equilibree/)
-- [Passeport tunisien : découvrez la liste des pays accessibles sans...](https://www.lapresse.tn/2026/02/23/passeport-tunisien-decouvrez-la-liste-des-pays-accessibles-sans-visa-en-2026/)
+- [Sonede-Bir Mcherga : une panne perturbe la distribution d’eau potable](https://www.lapresse.tn/2026/02/24/sonede-bir-mcherga-une-panne-perturbe-la-distribution-deau-potable/)
+- [Bab Saadoun va devenir le premier pôle sanitaire “intelligent” sur...](https://www.lapresse.tn/2026/02/24/bab-saadoun-va-devenir-le-premier-pole-sanitaire-intelligent-sur-le-plan-energetique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,7 +277,6 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, le procès de James Mouangue Kobila pour harcèlement sexuel s’éternise](https://www.jeuneafrique.com/1766756/politique/au-cameroun-le-proces-de-james-mouangue-kobila-pour-harcelement-sexuel-seternise/)
 - [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
 - [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
 - [Mohammed Moussaoui vs Chems-Eddine Hafiz, duel au croissant dans l’islam de France](https://www.jeuneafrique.com/1768083/politique/mohammed-moussaoui-vs-chems-eddine-hafiz-duel-au-croissant-dans-lislam-de-france/)
@@ -285,8 +284,9 @@
 - [Centrafrique : réélu, Faustin-Archange Touadéra face au casse-tête du prochain gouvernement](https://www.jeuneafrique.com/1767462/politique/centrafrique-reelu-faustin-archange-touadera-face-au-casse-tete-du-prochain-gouvernement/)
 - [Sahara occidental : comment Alger et le Polisario ont été contraints de renoncer à l’indépendance](https://www.jeuneafrique.com/1767757/politique/sahara-occidental-comment-alger-et-le-polisario-ont-ete-contraints-de-renoncer-a-lindependance/)
 - [Au Cameroun, Issa Tchiroma Bakary et le jeu dangereux du boycott](https://www.jeuneafrique.com/1767097/politique/au-cameroun-issa-tchiroma-bakary-et-le-jeu-dangereux-du-boycott/)
+- [Maroc : le transfert en Irak des ex-jihadistes de Daech inquiète leur famille](https://www.jeuneafrique.com/1767698/politique/maroc-le-transfert-en-irak-des-ex-jihadistes-de-daech-inquiete-leur-famille/)
+- [Afrique – États-Unis : ce que va changer la nouvelle surtaxe mondiale de Donald Trump](https://www.jeuneafrique.com/1768243/economie-entreprises/afrique-etats-unis-ce-que-va-changer-la-nouvelle-surtaxe-mondiale-de-donald-trump/)
 - [CMA CGM, Maersk… Pourquoi les armateurs hésitent encore à passer par le canal de Suez](https://www.jeuneafrique.com/1766183/economie-entreprises/cma-cgm-maersk-pourquoi-les-armateurs-hesitent-encore-a-passer-par-le-canal-de-suez/)
-- [Pourquoi les investisseurs de la tech africaine doivent regarder au-delà du Nigeria](https://www.jeuneafrique.com/1766860/economie-entreprises/pourquoi-les-investisseurs-de-la-tech-africaine-doivent-regarder-au-dela-du-nigeria/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
