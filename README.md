@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 12:34*
+*Generato: 24 Feb 2026, 14:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Confédération des Sages-femmes appelle à rectifier l’appellation de la...](https://www.lapresse.tn/2026/02/24/la-confederation-des-sages-femmes-appelle-a-rectifier-lappellation-de-la-profession/)
-- [Facturation électronique : le Parlement évoque un possible report à...](https://www.lapresse.tn/2026/02/24/facturation-electronique-le-parlement-evoque-un-possible-report-a-2027/)
+- [“Punch”: le bébé macaque abandonné qui a ému des milliers...](https://www.lapresse.tn/2026/02/24/punch-le-bebe-macaque-abandonne-qui-a-emu-des-milliers-dinternautes-sur-la-toile/)
+- [Tunisie : amélioration de l’état des cultures céréalières malgré les...](https://www.lapresse.tn/2026/02/24/tunisie-amelioration-de-letat-des-cultures-cerealieres-malgre-les-risques-de-maladies/)
 
 ## NGOs – Amnesty International – Tunisia
 
