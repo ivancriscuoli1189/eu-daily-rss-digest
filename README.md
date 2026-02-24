@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 09:39*
+*Generato: 24 Feb 2026, 11:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
@@ -91,7 +92,6 @@
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
 - [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
 - [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
-- [New rules to protect farmers against unfair trading practices](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33625/new-rules-to-protect-farmers-against-unfair-trading-practices)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sonede-Bir Mcherga : une panne perturbe la distribution d’eau potable](https://www.lapresse.tn/2026/02/24/sonede-bir-mcherga-une-panne-perturbe-la-distribution-deau-potable/)
-- [Bab Saadoun va devenir le premier pôle sanitaire “intelligent” sur...](https://www.lapresse.tn/2026/02/24/bab-saadoun-va-devenir-le-premier-pole-sanitaire-intelligent-sur-le-plan-energetique/)
+- [Véhicules électriques et hybrides : les incitations fiscales et financières](https://www.lapresse.tn/2026/02/24/vehicules-electriques-et-hybrides-lanme-detaille-les-incitations-fiscales-et-financieres/)
+- [RAÏDET : Plus de 6 mille projets féminins financés](https://www.lapresse.tn/2026/02/24/raidet-plus-de-6-mille-projets-feminins-finances/)
 
 ## NGOs – Amnesty International – Tunisia
 
