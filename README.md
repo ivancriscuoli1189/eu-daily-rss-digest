@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Feb 2026, 21:24*
+*Generato: 25 Feb 2026, 06:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Une première : une société tunisienne certifiée pour les dattes...](https://www.lapresse.tn/2026/02/24/une-premiere-une-societe-tunisienne-certifiee-pour-les-dattes-biologiques-sur-le-marche-russe/)
-- [Bourse de Tunis – Dividendes et rendement en hausse :...](https://www.lapresse.tn/2026/02/24/bourse-de-tunis-dividendes-et-rendement-en-hausse-un-signal-fort-du-marche/)
+- [Manque de sommeil durant Ramadan : comment y remédier?](https://www.lapresse.tn/2026/02/24/manque-de-sommeil-durant-ramadan-comment-y-remedier/)
+- [27,5 milliards de dinars en circulation : deux lois pointées...](https://www.lapresse.tn/2026/02/24/275-milliards-de-dinars-en-circulation-deux-lois-pointees-du-doigt-par-ridha-chkandali/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,6 +251,7 @@
 
 ## THINK TANK – CESPI – Attualità
 
+- [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [Laberinto Centroamérica](https://www.cespi.it/it/eventi-note/eventi/laberinto-centroamerica)
 - [Il DDL immigrazione mette a serio rischio i diritti e l’inclusione dei minori non accompagnati: chiediamo la piena applicazione della Legge 47](https://www.cespi.it/it/eventi-note/comunicazioni/il-ddl-immigrazione-mette-serio-rischio-i-diritti-linclusione-dei-minori)
@@ -260,7 +261,6 @@
 - [Storia](https://www.cespi.it/it/chi-siamo/la-nostra-storia)
 - [Persone](https://www.cespi.it/it/chi-siamo/persone)
 - [Network](https://www.cespi.it/it/chi-siamo/network)
-- [Partner](https://www.cespi.it/it/chi-siamo/partner)
 
 ## THINK TANK – Brookings – Middle East – Articles
 
