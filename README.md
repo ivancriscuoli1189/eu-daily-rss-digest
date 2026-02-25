@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 15:47*
+*Generato: 25 Feb 2026, 18:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : concours externe pour 1 630 postes d’enseignants en 2026](https://www.lapresse.tn/2026/02/25/tunisie-concours-externe-pour-1-630-postes-denseignants-en-2026/)
-- [Soirée décisive en Ligue des Champions : quatre matchs à...](https://www.lapresse.tn/2026/02/25/soiree-decisive-en-ligue-des-champions-quatre-matchs-a-suivre-en-direct-ce-soir/)
+- [Eya Bellagha, révélation grand public dans « Khottifa » : L’éclat d’une...](https://www.lapresse.tn/2026/02/25/eya-bellagha-revelation-grand-public-dans-khottifa-leclat-dune-insoumise/)
+- [CMF : L’ESG, une étape structurante pour le marché financier](https://www.lapresse.tn/2026/02/25/cmf-lesg-une-etape-structurante-pour-le-marche-financier/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,15 +277,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
+- [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
 - [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
 - [Les députés tunisiens en guerre contre le décret 54 censé réprimer la cybercriminalité](https://www.jeuneafrique.com/1768760/politique/les-deputes-tunisiens-en-guerre-contre-le-decret-54-cense-reprimer-la-cybercriminalite/)
 - [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
 - [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
-- [Burkina Faso : quatre hauts magistrats condamnés pour corruption](https://www.jeuneafrique.com/1768683/politique/burkina-faso-quatre-hauts-magistrats-condamnes-pour-corruption/)
-- [En Afrique, la priorité est de renforcer les contre-pouvoirs, pas de limiter les mandats](https://www.jeuneafrique.com/1768380/politique/en-afrique-la-priorite-est-de-renforcer-les-contre-pouvoirs-pas-de-limiter-les-mandats/)
-- [En RDC, une équipe de la Monusco se rend à Uvira pour préparer le suivi du cessez-le-feu](https://www.jeuneafrique.com/1768508/politique/en-rdc-une-equipe-de-la-monusco-se-rend-a-uvira-pour-preparer-le-suivi-du-cessez-le-feu/)
-- [RDC : Willy Ngoma, porte-parole militaire de l’AFC/M23, est mort dans une frappe de drone](https://www.jeuneafrique.com/1768534/politique/rdc-willy-ngoma-porte-parole-militaire-de-lafc-m23-est-mort-dans-une-frappe-de-drone/)
-- [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/economie-entreprises/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
+- [Entre Paul Biya et l’opposition, la visite du pape Léon XIV au Cameroun devient un enjeu politique](https://www.jeuneafrique.com/1768012/politique/entre-paul-biya-et-lopposition-la-visite-du-pape-leon-xiv-au-cameroun-devient-un-enjeu-politique/)
+- [Tierno Monénembo : « Même avec l’élection de Mamadi Doumbouya, la Guinée est une vraie fausse démocratie »](https://www.jeuneafrique.com/1767573/politique/tierno-monenembo-meme-avec-lelection-de-mamadi-doumbouya-la-guinee-est-une-vraie-fausse-democratie/)
+- [Barrick, B2Gold, Resolute… Qui a le plus profité du boom de l’or ?](https://www.jeuneafrique.com/1768402/economie-entreprises/barrick-b2gold-resolute-qui-a-le-plus-profite-du-boom-de-lor/)
 - [Carrefour tente sa chance sur les terres perdues par Shoprite en Afrique](https://www.jeuneafrique.com/1768061/economie-entreprises/carrefour-tente-sa-chance-sur-les-terres-perdues-par-shoprite-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
