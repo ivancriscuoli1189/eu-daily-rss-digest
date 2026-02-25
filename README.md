@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 06:47*
+*Generato: 25 Feb 2026, 09:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Manque de sommeil durant Ramadan : comment y remédier?](https://www.lapresse.tn/2026/02/24/manque-de-sommeil-durant-ramadan-comment-y-remedier/)
-- [27,5 milliards de dinars en circulation : deux lois pointées...](https://www.lapresse.tn/2026/02/24/275-milliards-de-dinars-en-circulation-deux-lois-pointees-du-doigt-par-ridha-chkandali/)
+- [Crédits logement : un recul historique pour la première fois...](https://www.lapresse.tn/2026/02/25/credits-logement-un-recul-historique-pour-la-premiere-fois-depuis-2011-en-tunisie/)
+- [Trois absences majeures à l’Espérance avant le match face à...](https://www.lapresse.tn/2026/02/25/trois-absences-majeures-a-lesperance-avant-le-match-face-a-es-metlaoui/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
+- [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
 - [Burkina Faso : quatre hauts magistrats condamnés pour corruption](https://www.jeuneafrique.com/1768683/politique/burkina-faso-quatre-hauts-magistrats-condamnes-pour-corruption/)
 - [En Afrique, la priorité est de renforcer les contre-pouvoirs, pas de limiter les mandats](https://www.jeuneafrique.com/1768380/politique/en-afrique-la-priorite-est-de-renforcer-les-contre-pouvoirs-pas-de-limiter-les-mandats/)
 - [En RDC, une équipe de la Monusco se rend à Uvira pour préparer le suivi du cessez-le-feu](https://www.jeuneafrique.com/1768508/politique/en-rdc-une-equipe-de-la-monusco-se-rend-a-uvira-pour-preparer-le-suivi-du-cessez-le-feu/)
+- [Si Trump attaquait l’Iran, quelles conséquences pour l’Afrique ?](https://www.jeuneafrique.com/1768142/politique/si-trump-attaquait-liran-quelles-consequences-pour-lafrique/)
 - [Élections partielles en Côte d’Ivoire : le PDCI déjoue le piège et fait trébucher le RHDP](https://www.jeuneafrique.com/1768157/politique/elections-partielles-en-cote-divoire-le-pdci-dejoue-le-piege-et-fait-trebucher-le-rhdp/)
 - [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
-- [Au Nigeria, des écoliers libérés contre une « énorme » rançon aux jihadistes de Boko Haram](https://www.jeuneafrique.com/1768188/politique/au-nigeria-des-ecoliers-liberes-contre-une-enorme-rancon-aux-jihadistes-de-boko-haram/)
-- [Pourquoi Mahamat Idriss Déby Itno a fermé la frontière Tchad-Soudan](https://www.jeuneafrique.com/1768062/politique/pourquoi-mahamat-idriss-deby-itno-a-ferme-la-frontiere-tchad-soudan/)
-- [Mohammed Moussaoui vs Chems-Eddine Hafiz, duel au croissant dans l’islam de France](https://www.jeuneafrique.com/1768083/politique/mohammed-moussaoui-vs-chems-eddine-hafiz-duel-au-croissant-dans-lislam-de-france/)
 - [Pourquoi Airtel Africa met son expansion géographique en pause](https://www.jeuneafrique.com/1768060/economie-entreprises/pourquoi-airtel-africa-met-son-expansion-geographie-en-pause/)
-- [Afrique – États-Unis : ce que va changer la nouvelle surtaxe mondiale de Donald Trump](https://www.jeuneafrique.com/1768243/economie-entreprises/afrique-etats-unis-ce-que-va-changer-la-nouvelle-surtaxe-mondiale-de-donald-trump/)
+- [La Gécamines ajuste sa direction en pleine négociation avec l’administration Trump](https://www.jeuneafrique.com/1768422/economie-entreprises/la-gecamines-ajuste-sa-direction-en-pleine-negociation-avec-ladministration-trump/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
