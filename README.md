@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 11:34*
+*Generato: 25 Feb 2026, 12:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
@@ -91,7 +92,6 @@
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
 - [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
-- [Human rights violations in Iran, Türkiye and Uganda](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33628/human-rights-violations-in-iran-turkiye-and-uganda)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Orthophonistes : 20 cabinets ont fermé leurs portes à cause...](https://www.lapresse.tn/2026/02/25/orthophonistes-20-cabinets-ont-ferme-leurs-portes-a-cause-des-difficultes-financieres/)
-- [L’EST joue à Métlaoui face à l’ESM (rattrapage de la...](https://www.lapresse.tn/2026/02/25/lest-joue-a-metlaoui-face-a-lesm-rattrapage-de-la-21eme-journee-gagner-et-seduire/)
+- [BCT : hausse des billets et monnaies en circulation](https://www.lapresse.tn/2026/02/25/bct-hausse-des-billets-et-monnaies-en-circulation/)
+- [Braquage du domicile d’un homme d’affaires : des peines de...](https://www.lapresse.tn/2026/02/25/braquage-du-domicile-dun-homme-daffaires-des-peines-de-3-a-7-ans-de-prison/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
 - [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
 - [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
 - [Burkina Faso : quatre hauts magistrats condamnés pour corruption](https://www.jeuneafrique.com/1768683/politique/burkina-faso-quatre-hauts-magistrats-condamnes-pour-corruption/)
@@ -284,9 +285,8 @@
 - [En RDC, une équipe de la Monusco se rend à Uvira pour préparer le suivi du cessez-le-feu](https://www.jeuneafrique.com/1768508/politique/en-rdc-une-equipe-de-la-monusco-se-rend-a-uvira-pour-preparer-le-suivi-du-cessez-le-feu/)
 - [RDC : Willy Ngoma, porte-parole militaire de l’AFC/M23, est mort dans une frappe de drone](https://www.jeuneafrique.com/1768534/politique/rdc-willy-ngoma-porte-parole-militaire-de-lafc-m23-est-mort-dans-une-frappe-de-drone/)
 - [Si Trump attaquait l’Iran, quelles conséquences pour l’Afrique ?](https://www.jeuneafrique.com/1768142/politique/si-trump-attaquait-liran-quelles-consequences-pour-lafrique/)
-- [Au Cameroun, le procès de James Mouangue Kobila pour harcèlement sexuel s’éternise](https://www.jeuneafrique.com/1766756/politique/au-cameroun-le-proces-de-james-mouangue-kobila-pour-harcelement-sexuel-seternise/)
+- [Carrefour tente sa chance sur les terres perdues par Shoprite en Afrique](https://www.jeuneafrique.com/1768061/economie-entreprises/carrefour-tente-sa-chance-sur-les-terres-perdues-par-shoprite-en-afrique/)
 - [Pourquoi Airtel Africa met son expansion géographique en pause](https://www.jeuneafrique.com/1768060/economie-entreprises/pourquoi-airtel-africa-met-son-expansion-geographie-en-pause/)
-- [La Gécamines ajuste sa direction en pleine négociation avec l’administration Trump](https://www.jeuneafrique.com/1768422/economie-entreprises/la-gecamines-ajuste-sa-direction-en-pleine-negociation-avec-ladministration-trump/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
