@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 12:34*
+*Generato: 25 Feb 2026, 14:08*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
@@ -91,7 +92,6 @@
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
-- [Parliament calls for continued EU action to fight cancer](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33626/parliament-calls-for-continued-eu-action-to-fight-cancer)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [BCT : hausse des billets et monnaies en circulation](https://www.lapresse.tn/2026/02/25/bct-hausse-des-billets-et-monnaies-en-circulation/)
-- [Braquage du domicile d’un homme d’affaires : des peines de...](https://www.lapresse.tn/2026/02/25/braquage-du-domicile-dun-homme-daffaires-des-peines-de-3-a-7-ans-de-prison/)
+- [Commerces : l’entretien des des façades obligatoire sous peine d’amendes](https://www.lapresse.tn/2026/02/25/commerces-lentretien-des-des-facades-obligatoire-sous-peine-damendes/)
+- [Partenariat entre la Bourse de Tunis et « Konrad Adenauer » :...](https://www.lapresse.tn/2026/02/25/partenariat-entre-la-bourse-de-tunis-et-konrad-adenauer-mesurer-lempreintre-carbone-des-societes-cotees/)
 
 ## NGOs – Amnesty International – Tunisia
 
