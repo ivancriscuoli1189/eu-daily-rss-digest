@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 09:40*
+*Generato: 25 Feb 2026, 11:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Crédits logement : un recul historique pour la première fois...](https://www.lapresse.tn/2026/02/25/credits-logement-un-recul-historique-pour-la-premiere-fois-depuis-2011-en-tunisie/)
-- [Trois absences majeures à l’Espérance avant le match face à...](https://www.lapresse.tn/2026/02/25/trois-absences-majeures-a-lesperance-avant-le-match-face-a-es-metlaoui/)
+- [Orthophonistes : 20 cabinets ont fermé leurs portes à cause...](https://www.lapresse.tn/2026/02/25/orthophonistes-20-cabinets-ont-ferme-leurs-portes-a-cause-des-difficultes-financieres/)
+- [L’EST joue à Métlaoui face à l’ESM (rattrapage de la...](https://www.lapresse.tn/2026/02/25/lest-joue-a-metlaoui-face-a-lesm-rattrapage-de-la-21eme-journee-gagner-et-seduire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -282,9 +282,9 @@
 - [Burkina Faso : quatre hauts magistrats condamnés pour corruption](https://www.jeuneafrique.com/1768683/politique/burkina-faso-quatre-hauts-magistrats-condamnes-pour-corruption/)
 - [En Afrique, la priorité est de renforcer les contre-pouvoirs, pas de limiter les mandats](https://www.jeuneafrique.com/1768380/politique/en-afrique-la-priorite-est-de-renforcer-les-contre-pouvoirs-pas-de-limiter-les-mandats/)
 - [En RDC, une équipe de la Monusco se rend à Uvira pour préparer le suivi du cessez-le-feu](https://www.jeuneafrique.com/1768508/politique/en-rdc-une-equipe-de-la-monusco-se-rend-a-uvira-pour-preparer-le-suivi-du-cessez-le-feu/)
+- [RDC : Willy Ngoma, porte-parole militaire de l’AFC/M23, est mort dans une frappe de drone](https://www.jeuneafrique.com/1768534/politique/rdc-willy-ngoma-porte-parole-militaire-de-lafc-m23-est-mort-dans-une-frappe-de-drone/)
 - [Si Trump attaquait l’Iran, quelles conséquences pour l’Afrique ?](https://www.jeuneafrique.com/1768142/politique/si-trump-attaquait-liran-quelles-consequences-pour-lafrique/)
-- [Élections partielles en Côte d’Ivoire : le PDCI déjoue le piège et fait trébucher le RHDP](https://www.jeuneafrique.com/1768157/politique/elections-partielles-en-cote-divoire-le-pdci-dejoue-le-piege-et-fait-trebucher-le-rhdp/)
-- [Tunisie : Ahmed Souab, figure du barreau, sort de prison après une réduction de peine](https://www.jeuneafrique.com/1768342/politique/tunisie-ahmed-souab-figure-du-barreau-sort-de-prison-apres-une-reduction-de-peine/)
+- [Au Cameroun, le procès de James Mouangue Kobila pour harcèlement sexuel s’éternise](https://www.jeuneafrique.com/1766756/politique/au-cameroun-le-proces-de-james-mouangue-kobila-pour-harcelement-sexuel-seternise/)
 - [Pourquoi Airtel Africa met son expansion géographique en pause](https://www.jeuneafrique.com/1768060/economie-entreprises/pourquoi-airtel-africa-met-son-expansion-geographie-en-pause/)
 - [La Gécamines ajuste sa direction en pleine négociation avec l’administration Trump](https://www.jeuneafrique.com/1768422/economie-entreprises/la-gecamines-ajuste-sa-direction-en-pleine-negociation-avec-ladministration-trump/)
 
