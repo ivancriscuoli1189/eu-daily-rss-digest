@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 18:46*
+*Generato: 25 Feb 2026, 21:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Eya Bellagha, révélation grand public dans « Khottifa » : L’éclat d’une...](https://www.lapresse.tn/2026/02/25/eya-bellagha-revelation-grand-public-dans-khottifa-leclat-dune-insoumise/)
-- [CMF : L’ESG, une étape structurante pour le marché financier](https://www.lapresse.tn/2026/02/25/cmf-lesg-une-etape-structurante-pour-le-marche-financier/)
+- [Amina Srarfi reçoit l’ambassadeur américain pour développer la coopération culturelle](https://www.lapresse.tn/2026/02/25/amina-srarfi-recoit-lambassadeur-americain-pour-developper-la-cooperation-culturelle/)
+- [La Tunisie veut faire passer l’énergie d’un fardeau budgétaire à...](https://www.lapresse.tn/2026/02/25/la-tunisie-veut-faire-passer-lenergie-dun-fardeau-budgetaire-a-un-levier-de-developpement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
 - [Entre Paul Biya et l’opposition, la visite du pape Léon XIV au Cameroun devient un enjeu politique](https://www.jeuneafrique.com/1768012/politique/entre-paul-biya-et-lopposition-la-visite-du-pape-leon-xiv-au-cameroun-devient-un-enjeu-politique/)
 - [Tierno Monénembo : « Même avec l’élection de Mamadi Doumbouya, la Guinée est une vraie fausse démocratie »](https://www.jeuneafrique.com/1767573/politique/tierno-monenembo-meme-avec-lelection-de-mamadi-doumbouya-la-guinee-est-une-vraie-fausse-democratie/)
+- [Chez Société générale Côte d’Ivoire, le banquier Patrick Blas partagé entre succès et incertitudes](https://www.jeuneafrique.com/1767797/economie-entreprises/chez-societe-generale-cote-divoire-le-banquier-patrick-blas-partage-entre-succes-et-incertitudes/)
 - [Barrick, B2Gold, Resolute… Qui a le plus profité du boom de l’or ?](https://www.jeuneafrique.com/1768402/economie-entreprises/barrick-b2gold-resolute-qui-a-le-plus-profite-du-boom-de-lor/)
-- [Carrefour tente sa chance sur les terres perdues par Shoprite en Afrique](https://www.jeuneafrique.com/1768061/economie-entreprises/carrefour-tente-sa-chance-sur-les-terres-perdues-par-shoprite-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
