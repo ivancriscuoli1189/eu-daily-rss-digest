@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Feb 2026, 15:41*
+*Generato: 26 Feb 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Basket-ball : Le Club Africain connaît ses adversaires pour la...](https://www.lapresse.tn/2026/02/26/basket-ball-le-club-africain-connait-ses-adversaires-pour-la-bal-2026/)
-- [La baleine bleue observée au large des côtes tunisiennes](https://www.lapresse.tn/2026/02/26/la-baleine-bleue-observee-au-large-des-cotes-tunisiennes/)
+- [Faut-il vraiment laver les dattes avant de les consommer pendant...](https://www.lapresse.tn/2026/02/26/faut-il-vraiment-laver-les-dattes-avant-de-les-consommer-pendant-le-ramadan/)
+- [Plusieurs pays condamnent l’expansion des colonies sionistes en Cisjordanie](https://www.lapresse.tn/2026/02/26/plusieurs-pays-condamnent-lexpansion-des-colonies-sionistes-en-cisjordanie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -279,14 +279,14 @@
 
 - [Africains enrôlés dans l’armée russe : un « acteur clé » présumé arrêté au Kenya](https://www.jeuneafrique.com/1769263/politique/africains-enroles-dans-larmee-russe-un-acteur-cle-presume-arrete-au-kenya/)
 - [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
+- [Au Sahel, l’Union européenne tente le difficile pari du « réalisme » face aux juntes](https://www.jeuneafrique.com/1767923/politique/au-sahel-lunion-europeenne-tente-le-difficile-pari-du-realisme-face-aux-juntes/)
 - [Au Sénégal, la « chasse aux homosexuels » oblige Pastef à clarifier son projet de société](https://www.jeuneafrique.com/1768465/politique/au-senegal-la-chasse-aux-homosexuels-oblige-pastef-a-clarifier-son-projet-de-societe/)
 - [Milices mobondo en RDC : « La menace n’est plus qu’à 10 % de ce qu’elle était »](https://www.jeuneafrique.com/1768607/politique/milices-mobondo-en-rdc-la-menace-nest-plus-qua-10-de-ce-quelle-etait/)
 - [Mort d’Anicet Ekane au Cameroun : la famille rejette les conclusions de l’autopsie](https://www.jeuneafrique.com/1768763/politique/mort-danicet-ekane-au-cameroun-la-famille-rejette-les-conclusions-de-lautopsie/)
 - [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
 - [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
-- [Célestin Simporé à Téhéran : l’Iran s’appuie sur le Burkina Faso pour sa nouvelle stratégie sahélienne](https://www.jeuneafrique.com/1768888/politique/celestin-simpore-a-teheran-liran-sappuie-sur-le-burkina-faso-pour-sa-nouvelle-strategie-sahelienne/)
 - [En Angola, Sonangol amorce une relance entre Pékin et les minerais critiques](https://www.jeuneafrique.com/1769272/economie-entreprises/en-angola-sonangol-amorce-une-relance-entre-pekin-et-les-minerais-critiques/)
-- [FMI : qui pour succéder à Abebe Selassie à la direction du département Afrique ?](https://www.jeuneafrique.com/1768930/economie-entreprises/fmi-qui-pour-succeder-a-abebe-selassie-a-la-direction-du-departement-afrique/)
+- [Eramet colmate les brèches et veut croire au rebond en Afrique](https://www.jeuneafrique.com/1768689/economie-entreprises/eramet-colmate-les-breches-et-veut-croire-au-rebond-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
