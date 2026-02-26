@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Feb 2026, 06:43*
+*Generato: 26 Feb 2026, 09:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Amina Srarfi reçoit l’ambassadeur américain pour développer la coopération culturelle](https://www.lapresse.tn/2026/02/25/amina-srarfi-recoit-lambassadeur-americain-pour-developper-la-cooperation-culturelle/)
-- [La Tunisie veut faire passer l’énergie d’un fardeau budgétaire à...](https://www.lapresse.tn/2026/02/25/la-tunisie-veut-faire-passer-lenergie-dun-fardeau-budgetaire-a-un-levier-de-developpement/)
+- [Fermeture de l’échangeur en direction de Hergla : les conducteurs...](https://www.lapresse.tn/2026/02/26/fermeture-de-lechangeur-en-direction-de-hergla-les-conducteurs-appeles-a-reduire-la-vitesse/)
+- [Ligue 1 – Mise à jour de la 21e journée...](https://www.lapresse.tn/2026/02/26/ligue-1-mise-a-jour-de-la-21e-journee-esm-est-1-1-un-nul-equitable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,15 +277,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : enquête sur les réseaux russes dans les médias panafricanistes](https://www.jeuneafrique.com/1768423/politique/cameroun-enquete-sur-les-reseaux-russes-dans-les-medias-panafricanistes/)
+- [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
+- [Mort d’Anicet Ekane au Cameroun : la famille rejette les conclusions de l’autopsie](https://www.jeuneafrique.com/1768763/politique/mort-danicet-ekane-au-cameroun-la-famille-rejette-les-conclusions-de-lautopsie/)
 - [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
 - [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
+- [Célestin Simporé à Téhéran : l’Iran s’appuie sur le Burkina Faso pour sa nouvelle stratégie sahélienne](https://www.jeuneafrique.com/1768888/politique/celestin-simpore-a-teheran-liran-sappuie-sur-le-burkina-faso-pour-sa-nouvelle-strategie-sahelienne/)
 - [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
 - [Les députés tunisiens en guerre contre le décret 54 censé réprimer la cybercriminalité](https://www.jeuneafrique.com/1768760/politique/les-deputes-tunisiens-en-guerre-contre-le-decret-54-cense-reprimer-la-cybercriminalite/)
 - [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
-- [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
-- [Entre Paul Biya et l’opposition, la visite du pape Léon XIV au Cameroun devient un enjeu politique](https://www.jeuneafrique.com/1768012/politique/entre-paul-biya-et-lopposition-la-visite-du-pape-leon-xiv-au-cameroun-devient-un-enjeu-politique/)
-- [Chez Société générale Côte d’Ivoire, le banquier Patrick Blas partagé entre succès et incertitudes](https://www.jeuneafrique.com/1767797/economie-entreprises/chez-societe-generale-cote-divoire-le-banquier-patrick-blas-partage-entre-succes-et-incertitudes/)
+- [Visa, Mastercard : les manœuvres de l’Uemoa pour modérer les ambitions du duopole américain](https://www.jeuneafrique.com/1768658/economie-entreprises/contre-visa-et-mastercard-la-fronde-des-banques-ouest-africaines-sorganise-sur-fond-dindependance-economique/)
 - [Barrick, B2Gold, Resolute… Qui a le plus profité du boom de l’or ?](https://www.jeuneafrique.com/1768402/economie-entreprises/barrick-b2gold-resolute-qui-a-le-plus-profite-du-boom-de-lor/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
