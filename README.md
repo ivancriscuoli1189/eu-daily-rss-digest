@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Feb 2026, 21:27*
+*Generato: 26 Feb 2026, 06:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : enquête sur les réseaux russes dans les médias panafricanistes](https://www.jeuneafrique.com/1768423/politique/cameroun-enquete-sur-les-reseaux-russes-dans-les-medias-panafricanistes/)
 - [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
 - [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
 - [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
@@ -284,7 +285,6 @@
 - [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
 - [Nigeria : Abuja dément avoir versé une rançon à Boko Haram pour la libération d’écoliers enlevés](https://www.jeuneafrique.com/1768752/politique/nigeria-abuja-dement-avoir-verse-une-rancon-a-boko-haram-pour-la-liberation-decoliers-enleves/)
 - [Entre Paul Biya et l’opposition, la visite du pape Léon XIV au Cameroun devient un enjeu politique](https://www.jeuneafrique.com/1768012/politique/entre-paul-biya-et-lopposition-la-visite-du-pape-leon-xiv-au-cameroun-devient-un-enjeu-politique/)
-- [Tierno Monénembo : « Même avec l’élection de Mamadi Doumbouya, la Guinée est une vraie fausse démocratie »](https://www.jeuneafrique.com/1767573/politique/tierno-monenembo-meme-avec-lelection-de-mamadi-doumbouya-la-guinee-est-une-vraie-fausse-democratie/)
 - [Chez Société générale Côte d’Ivoire, le banquier Patrick Blas partagé entre succès et incertitudes](https://www.jeuneafrique.com/1767797/economie-entreprises/chez-societe-generale-cote-divoire-le-banquier-patrick-blas-partage-entre-succes-et-incertitudes/)
 - [Barrick, B2Gold, Resolute… Qui a le plus profité du boom de l’or ?](https://www.jeuneafrique.com/1768402/economie-entreprises/barrick-b2gold-resolute-qui-a-le-plus-profite-du-boom-de-lor/)
 
