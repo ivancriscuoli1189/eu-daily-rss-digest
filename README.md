@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Feb 2026, 11:31*
+*Generato: 26 Feb 2026, 12:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -53,32 +53,6 @@
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
 - [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
-
-## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
-
-- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-0)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع وزير الداخلية و وزير التربية و كاتب الدّولة للأمن الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد بدر عبد العاطي وزير الخارجية والهجرة وشؤون المصريين بالخارج لجمهورية مصر العربية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد أحمد عطاف وزير الدولة، وزير الشؤون الخارجية والجالية الوطنية بالخارج والشؤون الإفريقية للجمهورية الجزائرية الديمقراطية الشعبية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%B7%D8%A7%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9)
-- [إشراف رئيس الجمهوريّة قيس سعيّد على جلسة عمل تتعلق بالفيضانات التي شهدتها بعض جهات الجمهوريّة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D8%AA%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9)
 
 ## UE – EP – Press Room
 
@@ -181,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Baisse d’immunité, obésité et cancer : les dangers méconnus du...](https://www.lapresse.tn/2026/02/26/baisse-dimmunite-obesite-et-cancer-les-dangers-meconnus-du-manque-de-sommeil/)
-- [Rial omanais : les précisions de la BCT sur les...](https://www.lapresse.tn/2026/02/26/rial-omanais-les-precisions-de-la-bct-sur-les-billets-en-circulation/)
+- [Nouveau système d’enregistrement des patients à l’Institut Salah Azaiez: réduire...](https://www.lapresse.tn/2026/02/26/carte-de-rendez-vous-numerique-pour-les-malades-linstitut-salah-azaiez-passe-au-digital/)
+- [Des investisseurs internationaux explorent les opportunités d’investissement en Tunisie](https://www.lapresse.tn/2026/02/26/des-investisseurs-internationaux-explorent-les-opportunites-dinvestissement-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Africains enrôlés dans l’armée russe : un « acteur clé » présumé arrêté au Kenya](https://www.jeuneafrique.com/1769263/politique/africains-enroles-dans-larmee-russe-un-acteur-cle-presume-arrete-au-kenya/)
 - [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
+- [Au Sénégal, la « chasse aux homosexuels » oblige Pastef à clarifier son projet de société](https://www.jeuneafrique.com/1768465/politique/au-senegal-la-chasse-aux-homosexuels-oblige-pastef-a-clarifier-son-projet-de-societe/)
 - [Milices mobondo en RDC : « La menace n’est plus qu’à 10 % de ce qu’elle était »](https://www.jeuneafrique.com/1768607/politique/milices-mobondo-en-rdc-la-menace-nest-plus-qua-10-de-ce-quelle-etait/)
 - [Mort d’Anicet Ekane au Cameroun : la famille rejette les conclusions de l’autopsie](https://www.jeuneafrique.com/1768763/politique/mort-danicet-ekane-au-cameroun-la-famille-rejette-les-conclusions-de-lautopsie/)
 - [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
 - [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
 - [Célestin Simporé à Téhéran : l’Iran s’appuie sur le Burkina Faso pour sa nouvelle stratégie sahélienne](https://www.jeuneafrique.com/1768888/politique/celestin-simpore-a-teheran-liran-sappuie-sur-le-burkina-faso-pour-sa-nouvelle-strategie-sahelienne/)
-- [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
-- [Les députés tunisiens en guerre contre le décret 54 censé réprimer la cybercriminalité](https://www.jeuneafrique.com/1768760/politique/les-deputes-tunisiens-en-guerre-contre-le-decret-54-cense-reprimer-la-cybercriminalite/)
+- [En Angola, Sonangol amorce une relance entre Pékin et les minerais critiques](https://www.jeuneafrique.com/1769272/economie-entreprises/en-angola-sonangol-amorce-une-relance-entre-pekin-et-les-minerais-critiques/)
 - [FMI : qui pour succéder à Abebe Selassie à la direction du département Afrique ?](https://www.jeuneafrique.com/1768930/economie-entreprises/fmi-qui-pour-succeder-a-abebe-selassie-a-la-direction-du-departement-afrique/)
-- [Visa, Mastercard : les manœuvres de l’Uemoa pour modérer les ambitions du duopole américain](https://www.jeuneafrique.com/1768658/economie-entreprises/contre-visa-et-mastercard-la-fronde-des-banques-ouest-africaines-sorganise-sur-fond-dindependance-economique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
