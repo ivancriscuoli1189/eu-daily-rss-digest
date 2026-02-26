@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Feb 2026, 09:36*
+*Generato: 26 Feb 2026, 11:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
@@ -89,7 +90,6 @@
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
 - [Ukraine: Parliament marks four years of Russia’s war with extraordinary session](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36003/ukraine-parliament-marks-four-years-of-russia-s-war-with-extraordinary-session)
-- [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 - [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Fermeture de l’échangeur en direction de Hergla : les conducteurs...](https://www.lapresse.tn/2026/02/26/fermeture-de-lechangeur-en-direction-de-hergla-les-conducteurs-appeles-a-reduire-la-vitesse/)
-- [Ligue 1 – Mise à jour de la 21e journée...](https://www.lapresse.tn/2026/02/26/ligue-1-mise-a-jour-de-la-21e-journee-esm-est-1-1-un-nul-equitable/)
+- [Baisse d’immunité, obésité et cancer : les dangers méconnus du...](https://www.lapresse.tn/2026/02/26/baisse-dimmunite-obesite-et-cancer-les-dangers-meconnus-du-manque-de-sommeil/)
+- [Rial omanais : les précisions de la BCT sur les...](https://www.lapresse.tn/2026/02/26/rial-omanais-les-precisions-de-la-bct-sur-les-billets-en-circulation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
 - [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
 - [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
 - [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
@@ -247,7 +248,6 @@
 - [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
 - [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
 - [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
-- [After Doha: What’s next for the Arab world?](https://ecfr.eu/podcasts/episode/after-doha-whats-next-for-the-arab-world/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -278,15 +278,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
+- [Milices mobondo en RDC : « La menace n’est plus qu’à 10 % de ce qu’elle était »](https://www.jeuneafrique.com/1768607/politique/milices-mobondo-en-rdc-la-menace-nest-plus-qua-10-de-ce-quelle-etait/)
 - [Mort d’Anicet Ekane au Cameroun : la famille rejette les conclusions de l’autopsie](https://www.jeuneafrique.com/1768763/politique/mort-danicet-ekane-au-cameroun-la-famille-rejette-les-conclusions-de-lautopsie/)
 - [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
 - [Suspendu au Gabon, TikTok toque à la porte de la HAC](https://www.jeuneafrique.com/1768820/politique/suspendu-au-gabon-tiktok-toque-a-la-porte-de-la-hac/)
 - [Célestin Simporé à Téhéran : l’Iran s’appuie sur le Burkina Faso pour sa nouvelle stratégie sahélienne](https://www.jeuneafrique.com/1768888/politique/celestin-simpore-a-teheran-liran-sappuie-sur-le-burkina-faso-pour-sa-nouvelle-strategie-sahelienne/)
 - [Dans le ciel du Soudan, l’inquiétante escalade de la guerre des drones](https://www.jeuneafrique.com/1768824/politique/dans-le-ciel-du-soudan-linquietante-escalade-de-la-guerre-des-drones/)
 - [Les députés tunisiens en guerre contre le décret 54 censé réprimer la cybercriminalité](https://www.jeuneafrique.com/1768760/politique/les-deputes-tunisiens-en-guerre-contre-le-decret-54-cense-reprimer-la-cybercriminalite/)
-- [La Sierra Leone et la Guinée s’accusent mutuellement d’incursions militaires sur leur territoire](https://www.jeuneafrique.com/1768758/politique/la-sierra-leone-et-la-guinee-saccusent-mutuellement-dincursions-militaires-sur-leur-territoire/)
+- [FMI : qui pour succéder à Abebe Selassie à la direction du département Afrique ?](https://www.jeuneafrique.com/1768930/economie-entreprises/fmi-qui-pour-succeder-a-abebe-selassie-a-la-direction-du-departement-afrique/)
 - [Visa, Mastercard : les manœuvres de l’Uemoa pour modérer les ambitions du duopole américain](https://www.jeuneafrique.com/1768658/economie-entreprises/contre-visa-et-mastercard-la-fronde-des-banques-ouest-africaines-sorganise-sur-fond-dindependance-economique/)
-- [Barrick, B2Gold, Resolute… Qui a le plus profité du boom de l’or ?](https://www.jeuneafrique.com/1768402/economie-entreprises/barrick-b2gold-resolute-qui-a-le-plus-profite-du-boom-de-lor/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
