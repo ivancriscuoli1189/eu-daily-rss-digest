@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 06:37*
+*Generato: 27 Feb 2026, 09:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -145,6 +145,32 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
+
+## UE – Tunisie – Projects portal (Governance)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
+
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -155,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tourisme : la Tunisie renforce sa promotion et mise sur...](https://www.lapresse.tn/2026/02/26/tourisme-la-tunisie-renforce-sa-promotion-et-mise-sur-de-nouveaux-investissements/)
-- [Faut-il vraiment laver les dattes avant de les consommer pendant...](https://www.lapresse.tn/2026/02/26/faut-il-vraiment-laver-les-dattes-avant-de-les-consommer-pendant-le-ramadan/)
+- [L’USBG affronte la JSO au Zouiten (13h00) : Obligation de...](https://www.lapresse.tn/2026/02/27/lusbg-affronte-la-jso-au-zouiten-13h00-obligation-de-reagir/)
+- [L’EST se fait rattraper au score et se contente d’un...](https://www.lapresse.tn/2026/02/27/lest-se-fait-rattraper-au-score-et-se-contente-dun-match-nul-a-metlaoui-un-revers-qui-en-dit-long/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Ismaïl Omar Guelleh : « Les Émirats sont l’avant-garde d’Israël dans notre région »](https://www.jeuneafrique.com/1765089/politique/ismail-omar-guelleh-les-emirats-sont-lavant-garde-disrael-dans-notre-region/)
+- [Pollution à Gabès : une plainte en référé pour la suspension de la production du Groupe chimique tunisien rejetée](https://www.jeuneafrique.com/1769549/politique/pollution-a-gabes-une-plainte-en-refere-pour-la-suspension-de-la-production-du-groupe-chimique-tunisien-rejetee/)
+- [Guinéens expulsés d’Allemagne : Conakry réclame « le respect de leur dignité »](https://www.jeuneafrique.com/1769546/politique/guineens-expulses-dallemagne-conakry-reclame-le-respect-de-leur-dignite/)
 - [Africains enrôlés dans l’armée russe : un « acteur clé » présumé arrêté au Kenya](https://www.jeuneafrique.com/1769263/politique/africains-enroles-dans-larmee-russe-un-acteur-cle-presume-arrete-au-kenya/)
+- [Sahara occidental : le retour de l’ONU dans le processus de négociation](https://www.jeuneafrique.com/1769048/politique/sahara-occidental-le-retour-de-lonu-dans-le-processus-de-negociation/)
 - [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
 - [Au Sahel, l’Union européenne tente le difficile pari du « réalisme » face aux juntes](https://www.jeuneafrique.com/1767923/politique/au-sahel-lunion-europeenne-tente-le-difficile-pari-du-realisme-face-aux-juntes/)
+- [Cameroun : enquête sur les réseaux russes dans les médias panafricanistes](https://www.jeuneafrique.com/1768423/politique/cameroun-enquete-sur-les-reseaux-russes-dans-les-medias-panafricanistes/)
 - [Au Sénégal, la « chasse aux homosexuels » oblige Pastef à clarifier son projet de société](https://www.jeuneafrique.com/1768465/politique/au-senegal-la-chasse-aux-homosexuels-oblige-pastef-a-clarifier-son-projet-de-societe/)
-- [Milices mobondo en RDC : « La menace n’est plus qu’à 10 % de ce qu’elle était »](https://www.jeuneafrique.com/1768607/politique/milices-mobondo-en-rdc-la-menace-nest-plus-qua-10-de-ce-quelle-etait/)
-- [Mort d’Anicet Ekane au Cameroun : la famille rejette les conclusions de l’autopsie](https://www.jeuneafrique.com/1768763/politique/mort-danicet-ekane-au-cameroun-la-famille-rejette-les-conclusions-de-lautopsie/)
-- [RDC : Kinshasa relance l’offensive contre le M23 sur plusieurs fronts](https://www.jeuneafrique.com/1769080/politique/rdc-kinshasa-relance-loffensive-contre-le-m23-sur-plusieurs-fronts/)
+- [Face à Starlink en Afrique, Orange peaufine sa contre-offensive sur le satellite](https://www.jeuneafrique.com/1768965/economie-entreprises/face-a-starlink-en-afrique-orange-peaufine-sa-contre-offensive-sur-le-satellite/)
 - [En Angola, Sonangol amorce une relance entre Pékin et les minerais critiques](https://www.jeuneafrique.com/1769272/economie-entreprises/en-angola-sonangol-amorce-une-relance-entre-pekin-et-les-minerais-critiques/)
-- [Eramet colmate les brèches et veut croire au rebond en Afrique](https://www.jeuneafrique.com/1768689/economie-entreprises/eramet-colmate-les-breches-et-veut-croire-au-rebond-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
