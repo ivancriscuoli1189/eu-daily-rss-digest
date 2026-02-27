@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 09:29*
+*Generato: 27 Feb 2026, 11:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’USBG affronte la JSO au Zouiten (13h00) : Obligation de...](https://www.lapresse.tn/2026/02/27/lusbg-affronte-la-jso-au-zouiten-13h00-obligation-de-reagir/)
-- [L’EST se fait rattraper au score et se contente d’un...](https://www.lapresse.tn/2026/02/27/lest-se-fait-rattraper-au-score-et-se-contente-dun-match-nul-a-metlaoui-un-revers-qui-en-dit-long/)
+- [Gestion de l’eau : Un projet tuniso-japonais pour le stockage...](https://www.lapresse.tn/2026/02/27/gestion-de-leau-un-projet-tuniso-japonais-pour-le-stockage-et-la-valorisation-des-eaux-de-pluie/)
+- [Huile d’olive : hausse des exportations de 55 % ...](https://www.lapresse.tn/2026/02/27/huile-dolive-les-exportations-depassent-1620-millions-de-dinars/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [OIF : la RDC mise sur la fille de Lumumba face à la candidate rwandaise Louise Mushikiwabo](https://www.jeuneafrique.com/1769574/politique/oif-la-rdc-mise-sur-la-fille-de-lumumba-face-a-la-candidate-rwandaise-louise-mushikiwabo/)
 - [Pollution à Gabès : une plainte en référé pour la suspension de la production du Groupe chimique tunisien rejetée](https://www.jeuneafrique.com/1769549/politique/pollution-a-gabes-une-plainte-en-refere-pour-la-suspension-de-la-production-du-groupe-chimique-tunisien-rejetee/)
 - [Guinéens expulsés d’Allemagne : Conakry réclame « le respect de leur dignité »](https://www.jeuneafrique.com/1769546/politique/guineens-expulses-dallemagne-conakry-reclame-le-respect-de-leur-dignite/)
 - [Africains enrôlés dans l’armée russe : un « acteur clé » présumé arrêté au Kenya](https://www.jeuneafrique.com/1769263/politique/africains-enroles-dans-larmee-russe-un-acteur-cle-presume-arrete-au-kenya/)
+- [Bénin : 10 choses à savoir sur Luc Gnacadja, le nouveau maire de Cotonou](https://www.jeuneafrique.com/1768638/politique/benin-10-choses-a-savoir-sur-luc-gnacadja-le-nouveau-maire-de-cotonou/)
 - [Sahara occidental : le retour de l’ONU dans le processus de négociation](https://www.jeuneafrique.com/1769048/politique/sahara-occidental-le-retour-de-lonu-dans-le-processus-de-negociation/)
 - [Merci, Trump ! – par Fawzia Zouari](https://www.jeuneafrique.com/1761941/politique/merci-trump-par-fawzia-zouari/)
 - [Au Sahel, l’Union européenne tente le difficile pari du « réalisme » face aux juntes](https://www.jeuneafrique.com/1767923/politique/au-sahel-lunion-europeenne-tente-le-difficile-pari-du-realisme-face-aux-juntes/)
-- [Cameroun : enquête sur les réseaux russes dans les médias panafricanistes](https://www.jeuneafrique.com/1768423/politique/cameroun-enquete-sur-les-reseaux-russes-dans-les-medias-panafricanistes/)
-- [Au Sénégal, la « chasse aux homosexuels » oblige Pastef à clarifier son projet de société](https://www.jeuneafrique.com/1768465/politique/au-senegal-la-chasse-aux-homosexuels-oblige-pastef-a-clarifier-son-projet-de-societe/)
 - [Face à Starlink en Afrique, Orange peaufine sa contre-offensive sur le satellite](https://www.jeuneafrique.com/1768965/economie-entreprises/face-a-starlink-en-afrique-orange-peaufine-sa-contre-offensive-sur-le-satellite/)
 - [En Angola, Sonangol amorce une relance entre Pékin et les minerais critiques](https://www.jeuneafrique.com/1769272/economie-entreprises/en-angola-sonangol-amorce-une-relance-entre-pekin-et-les-minerais-critiques/)
 
