@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 18:24*
+*Generato: 27 Feb 2026, 21:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [« Hayet » de Kais Mejri sur El Watania : Destins croisés](https://www.lapresse.tn/2026/02/27/hayet-de-kais-mejri-sur-el-watania-destins-croises/)
-- [Projet « Bleu Radès » pour une pêche artisanale durable : Tout...](https://www.lapresse.tn/2026/02/27/projet-bleu-rades-pour-une-peche-artisanale-durable-tout-un-chantier-cotier-a-vocation-multiple/)
+- [Vers la création d’une Chambre de commerce tuniso-roumaine](https://www.lapresse.tn/2026/02/27/vers-la-creation-dune-chambre-de-commerce-tuniso-roumaine/)
+- [Milan : un tramway déraille et percute un immeuble](https://www.lapresse.tn/2026/02/27/milan-un-tramway-deraille-et-percute-un-immeuble/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -283,8 +283,8 @@
 - [Pollution à Gabès : une plainte en référé pour la suspension de la production du Groupe chimique tunisien rejetée](https://www.jeuneafrique.com/1769549/politique/pollution-a-gabes-une-plainte-en-refere-pour-la-suspension-de-la-production-du-groupe-chimique-tunisien-rejetee/)
 - [Guinéens expulsés d’Allemagne : Conakry réclame « le respect de leur dignité »](https://www.jeuneafrique.com/1769546/politique/guineens-expulses-dallemagne-conakry-reclame-le-respect-de-leur-dignite/)
 - [Ismaïl Omar Guelleh : « Les Émirats sont l’avant-garde d’Israël dans notre région »](https://www.jeuneafrique.com/1765089/politique/ismail-omar-guelleh-les-emirats-sont-lavant-garde-disrael-dans-notre-region/)
+- [Serge Eric Menye : « Le miracle ne viendra pas des diasporas africaines »](https://www.jeuneafrique.com/1769389/politique/serge-eric-menye-le-miracle-ne-viendra-pas-des-diasporas-africaines/)
 - [Talon-Tiani, le duel qui cristallise le divorce AES-Cedeao](https://www.jeuneafrique.com/1764309/politique/talon-tiani-le-duel-qui-cristallise-le-divorce-aes-cedeao/)
-- [En RDC, le procès du lieutenant-général Philémon Yav révèle les fractures de l’armée face à l’ennemi rwandais](https://www.jeuneafrique.com/1768550/politique/en-rdc-le-proces-du-lieutenant-general-philemon-yav-revele-les-fractures-de-larmee-face-a-lennemi-rwandais/)
 - [Dette : comment le Bénin est devenu l’enfant chéri des investisseurs](https://www.jeuneafrique.com/1762678/economie-entreprises/dette-comment-le-benin-est-devenu-lenfant-cheri-des-investisseurs/)
 - [Pétrole : ce que l’on sait sur le malien NDC, repreneur des anciennes stations de TotalEnergies au Mali](https://www.jeuneafrique.com/1769373/economie-entreprises/petrole-ce-que-lon-sait-sur-le-malien-ndc-repreneur-des-anciennes-stations-de-totalenergies-au-mali/)
 
