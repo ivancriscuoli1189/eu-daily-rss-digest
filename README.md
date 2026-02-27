@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 12:29*
+*Generato: 27 Feb 2026, 13:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : règles et exemptions pour le service militaire expliquées](https://www.lapresse.tn/2026/02/27/tunisie-regles-et-exemptions-pour-le-service-militaire-expliquees/)
-- [Tunisie : 158 bus chinois arrivent aujourd’hui au port de...](https://www.lapresse.tn/2026/02/27/tunisie-158-bus-chinois-arrivent-aujourdhui-au-port-de-la-goulette/)
+- [Sardine : quand le “poisson du pauvre” devient un luxe...](https://www.lapresse.tn/2026/02/27/sardine-quand-le-poisson-du-pauvre-devient-un-luxe-pendant-ramadan/)
+- [50 ans après, la loi n°72 reste un jalon de...](https://www.lapresse.tn/2026/02/27/50-ans-apres-la-loi-n72-reste-un-jalon-de-leconomie-exportatrice-selon-heykel-jalal/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
 - [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
-- [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 - [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
-- [Türkiye: ICJ welcomes acquittal of Istanbul Bar Association leadership and urges an end to the criminalization of the legal profession](https://www.icj.org/turkiye-icj-welcomes-acquittal-of-istanbul-bar-association-leadership-and-urges-an-end-to-the-criminalization-of-the-legal-profession/)
 
 ## THINK TANK – Carnegie MENA – Research
 
