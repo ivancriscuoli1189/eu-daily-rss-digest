@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 15:28*
+*Generato: 27 Feb 2026, 18:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Samia Ben Jbiri annonce le calendrier des appels d’offres pour...](https://www.lapresse.tn/2026/02/27/samia-ben-jbiri-annonce-le-calendrier-des-appels-doffres-pour-le-port-en-eau-profonde-denfidha/)
-- [Tunisie : 3 500 cas de tuberculose chaque année, le...](https://www.lapresse.tn/2026/02/27/tunisie-3-500-cas-de-tuberculose-chaque-annee-le-lait-non-pasteurise-en-cause/)
+- [« Hayet » de Kais Mejri sur El Watania : Destins croisés](https://www.lapresse.tn/2026/02/27/hayet-de-kais-mejri-sur-el-watania-destins-croises/)
+- [Projet « Bleu Radès » pour une pêche artisanale durable : Tout...](https://www.lapresse.tn/2026/02/27/projet-bleu-rades-pour-une-peche-artisanale-durable-tout-un-chantier-cotier-a-vocation-multiple/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -279,14 +279,14 @@
 
 - [L’ancien Premier ministre tunisien Ali Laarayedh condamné en appel à 24 ans de prison](https://www.jeuneafrique.com/1769657/politique/lancien-premier-ministre-tunisien-ali-laarayedh-condamne-en-appel-a-24-ans-de-prison/)
 - [OIF : la RDC mise sur la fille de Lumumba face à la candidate rwandaise Louise Mushikiwabo](https://www.jeuneafrique.com/1769574/politique/oif-la-rdc-mise-sur-la-fille-de-lumumba-face-a-la-candidate-rwandaise-louise-mushikiwabo/)
+- [Sahara occidental : les mutations du plan d’autonomie marocain de 2007 à 2026](https://www.jeuneafrique.com/1769394/politique/sahara-occidental-les-mutations-du-plan-dautonomie-marocain-de-2007-a-2026/)
 - [Pollution à Gabès : une plainte en référé pour la suspension de la production du Groupe chimique tunisien rejetée](https://www.jeuneafrique.com/1769549/politique/pollution-a-gabes-une-plainte-en-refere-pour-la-suspension-de-la-production-du-groupe-chimique-tunisien-rejetee/)
 - [Guinéens expulsés d’Allemagne : Conakry réclame « le respect de leur dignité »](https://www.jeuneafrique.com/1769546/politique/guineens-expulses-dallemagne-conakry-reclame-le-respect-de-leur-dignite/)
+- [Ismaïl Omar Guelleh : « Les Émirats sont l’avant-garde d’Israël dans notre région »](https://www.jeuneafrique.com/1765089/politique/ismail-omar-guelleh-les-emirats-sont-lavant-garde-disrael-dans-notre-region/)
 - [Talon-Tiani, le duel qui cristallise le divorce AES-Cedeao](https://www.jeuneafrique.com/1764309/politique/talon-tiani-le-duel-qui-cristallise-le-divorce-aes-cedeao/)
-- [Africains enrôlés dans l’armée russe : un « acteur clé » présumé arrêté au Kenya](https://www.jeuneafrique.com/1769263/politique/africains-enroles-dans-larmee-russe-un-acteur-cle-presume-arrete-au-kenya/)
-- [Bénin : 10 choses à savoir sur Luc Gnacadja, le nouveau maire de Cotonou](https://www.jeuneafrique.com/1768638/politique/benin-10-choses-a-savoir-sur-luc-gnacadja-le-nouveau-maire-de-cotonou/)
-- [Sahara occidental : le retour de l’ONU dans le processus de négociation](https://www.jeuneafrique.com/1769048/politique/sahara-occidental-le-retour-de-lonu-dans-le-processus-de-negociation/)
+- [En RDC, le procès du lieutenant-général Philémon Yav révèle les fractures de l’armée face à l’ennemi rwandais](https://www.jeuneafrique.com/1768550/politique/en-rdc-le-proces-du-lieutenant-general-philemon-yav-revele-les-fractures-de-larmee-face-a-lennemi-rwandais/)
+- [Dette : comment le Bénin est devenu l’enfant chéri des investisseurs](https://www.jeuneafrique.com/1762678/economie-entreprises/dette-comment-le-benin-est-devenu-lenfant-cheri-des-investisseurs/)
 - [Pétrole : ce que l’on sait sur le malien NDC, repreneur des anciennes stations de TotalEnergies au Mali](https://www.jeuneafrique.com/1769373/economie-entreprises/petrole-ce-que-lon-sait-sur-le-malien-ndc-repreneur-des-anciennes-stations-de-totalenergies-au-mali/)
-- [Face à Starlink en Afrique, Orange peaufine sa contre-offensive sur le satellite](https://www.jeuneafrique.com/1768965/economie-entreprises/face-a-starlink-en-afrique-orange-peaufine-sa-contre-offensive-sur-le-satellite/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
