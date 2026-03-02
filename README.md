@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 18:30*
+*Generato: 02 Mar 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pain subventionné vs pains variés : La baguette attendra…](https://www.lapresse.tn/2026/03/02/pain-subventionne-vs-pains-varies-la-baguette-attendra/)
-- [Les Émirats lancent des “vols exceptionnels”](https://www.lapresse.tn/2026/03/02/les-emirats-lancent-des-vols-exceptionnels/)
+- [HANNIBAL SICAV : Un dividende de 6,609 DT par action...](https://www.lapresse.tn/2026/03/02/hannibal-sicav-un-dividende-de-6609-dt-par-action-mis-en-paiement/)
+- [Le président Pezeshkian durcit le ton face à l’offensive Americano-sioniste](https://www.lapresse.tn/2026/03/02/le-president-pezeshkian-durcit-le-ton-face-a-loffensive-americano-israelienne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -281,10 +281,10 @@
 - [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
 - [L’Algérie lâche son allié iranien et se solidarise avec les pays arabes](https://www.jeuneafrique.com/1770186/politique/lalgerie-lache-son-allie-iranien-et-se-solidarise-avec-les-pays-arabes/)
+- [Le Maroc affiche sa solidarité avec les pays du Golfe visés par les frappes iraniennes](https://www.jeuneafrique.com/1770113/politique/le-maroc-affiche-sa-solidarite-avec-les-pays-du-golfe-vises-par-les-frappes-iraniennes/)
 - [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
 - [Au Bénin, clap de fin pour Thomas Boni Yayi et Les Démocrates ?](https://www.jeuneafrique.com/1760355/politique/au-benin-clap-de-fin-pour-thomas-boni-yayi-et-les-democrates/)
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
-- [Mort de l’ayatollah Khamenei : au Nigeria, des milliers de chiites pro-iraniens manifestent dans le Nord](https://www.jeuneafrique.com/1770117/politique/mort-de-layatollah-khamenei-au-nigeria-des-milliers-de-chiites-pro-iraniens-manifestent-dans-le-nord/)
 - [Pétrole et gaz : comment ENI et TotalEnergies se disputent les futures ressources africaines](https://www.jeuneafrique.com/1769894/economie-entreprises/petrole-et-gaz-comment-eni-et-totalenergies-se-disputent-les-futures-ressources-africaines/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
 
