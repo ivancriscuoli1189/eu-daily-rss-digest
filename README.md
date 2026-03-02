@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 09:36*
+*Generato: 02 Mar 2026, 11:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Égalité des genres : la Bourse de Tunis rejoint l’initiative...](https://www.lapresse.tn/2026/03/02/egalite-des-genres-la-bourse-de-tunis-rejoint-linitiative-mondiale-ring-the-bell/)
-- [À partir d’aujourd’hui : lancement de la première session de...](https://www.lapresse.tn/2026/03/02/a-partir-daujourdhui-lancement-de-la-premiere-session-de-recrutement-militaire/)
+- [OIM : retour volontaire de 1 760 migrants dans leur...](https://www.lapresse.tn/2026/03/02/oim-retour-volontaire-de-1-760-migrants-dans-leur-pays-dorigine/)
+- [10 ans de prison pour un faux agent de casting...](https://www.lapresse.tn/2026/03/02/10-ans-de-prison-pour-un-faux-agent-de-casting-qui-escroquait-des-candidates/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
 - [L’Iran promet de venger la mort d’Ali Khamenei malgré les menaces de Donald Trump](https://www.jeuneafrique.com/1770069/politique/liran-promet-de-venger-la-mort-dali-khamenei-malgre-les-menaces-de-donald-trump/)
+- [Entre fidèles et nouveaux venus, l’équipe de campagne XXL de Denis Sassou Nguesso](https://www.jeuneafrique.com/1767887/politique/entre-fideles-et-nouveaux-venus-lequipe-de-campagne-xxl-de-denis-sassou-nguesso/)
 - [Maroc : que révèle le choix de Mohamed Chaouki pour succéder à Aziz Akhannouch ?](https://www.jeuneafrique.com/1768044/politique/maroc-que-revele-le-choix-de-mohamed-chaouki-pour-succeder-a-aziz-akhannouch/)
 - [Est de la RDC : la mort de Willy Ngoma, révélatrice de la bataille pour le ciel congolais](https://www.jeuneafrique.com/1769840/politique/est-de-la-rdc-la-mort-de-willy-ngoma-revelatrice-de-la-bataille-pour-le-ciel-congolais/)
 - [Sénégal : 250 personnes réunies lors d’une marche contre l’emprisonnement, au Maroc, de 18 supporters pour « hooliganisme »](https://www.jeuneafrique.com/1770046/politique/au-senegal-250-personnes-reunies-lors-dune-marche-contre-lemprisonnement-au-maroc-de-18-supporters-pour-hooliganisme/)
-- [RDC : comment Trump veut prendre le contrôle de la mine de coltan de Rubaya, tenue par l’AFC/M23](https://www.jeuneafrique.com/1769464/politique/rdc-comment-trump-veut-prendre-le-controle-de-la-mine-de-coltan-de-rubaya-tenue-par-lafc-m23/)
-- [Maroc : comment le RNI a négocié l’annonce surprise du retrait d’Aziz Akhannouch](https://www.jeuneafrique.com/1768041/politique/maroc-comment-le-rni-a-negocie-lannonce-surprise-du-retrait-daziz-akhannouch/)
-- [Pourquoi l’AFC croit au pouvoir des fonds de pension africains](https://www.jeuneafrique.com/1769784/economie-entreprises/pourquoi-lafc-croit-au-pouvoir-des-fonds-de-pension-africains/)
-- [Finance : les recettes de Valdene Reddy pour redynamiser la Bourse de Johannesburg](https://www.jeuneafrique.com/1769202/economie-entreprises/finance-les-recettes-de-valdene-reddy-pour-redynamiser-la-bourse-de-johannesburg/)
+- [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
+- [Quelles synergies pour le groupe panafricain Axian au-delà des télécoms ?](https://www.jeuneafrique.com/1763868/economie-entreprises/quelles-synergies-pour-le-groupe-panafricain-axian-au-dela-des-telecoms/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
