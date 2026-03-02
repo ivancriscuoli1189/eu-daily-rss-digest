@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 13:51*
+*Generato: 02 Mar 2026, 15:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tennis – Challenger de Kigali : Aziz Ouakaa éliminé en...](https://www.lapresse.tn/2026/03/02/tennis-challenger-de-kigali-aziz-ouakaa-elimine-en-16-emes-de-finale/)
-- [Jeudi prochain : dernier délai pour le paiement de la...](https://www.lapresse.tn/2026/03/02/jeudi-prochain-dernier-delai-pour-le-paiement-de-la-vignette/)
+- [Protection des enfants : appel à bannir les pétards des...](https://www.lapresse.tn/2026/03/02/protection-des-enfants-appel-a-bannir-les-petards-des-marches/)
+- [Fermeture de sites pétroliers en Arabie saoudite et en Irak](https://www.lapresse.tn/2026/03/02/fermeture-de-sites-petroliers-en-arabie-saoudite-et-en-irak/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
 - [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Mort de l’ayatollah Khamenei : au Nigeria, des milliers de chiites pro-iraniens manifestent dans le Nord](https://www.jeuneafrique.com/1770117/politique/mort-de-layatollah-khamenei-au-nigeria-des-milliers-de-chiites-pro-iraniens-manifestent-dans-le-nord/)
 - [2 mars 1956 : le jour où la France et le Maroc se sont dit adieu](https://www.jeuneafrique.com/1768492/politique/2-mars-1956-le-jour-ou-la-france-et-le-maroc-se-sont-dit-adieu/)
+- [Au Cameroun, les Mbororos pris au piège de la crise anglophone](https://www.jeuneafrique.com/1765362/politique/au-cameroun-les-mbororos-pris-au-piege-de-la-crise-anglophone/)
 - [Iran : les grands armateurs suspendent leur navigation dans le Golfe](https://www.jeuneafrique.com/1770094/politique/iran-les-grands-armateurs-suspendent-leur-navigation-dans-le-golfe/)
 - [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
-- [L’Iran promet de venger la mort d’Ali Khamenei malgré les menaces de Donald Trump](https://www.jeuneafrique.com/1770069/politique/liran-promet-de-venger-la-mort-dali-khamenei-malgre-les-menaces-de-donald-trump/)
-- [Entre fidèles et nouveaux venus, l’équipe de campagne XXL de Denis Sassou Nguesso](https://www.jeuneafrique.com/1767887/politique/entre-fideles-et-nouveaux-venus-lequipe-de-campagne-xxl-de-denis-sassou-nguesso/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
 - [Quelles synergies pour le groupe panafricain Axian au-delà des télécoms ?](https://www.jeuneafrique.com/1763868/economie-entreprises/quelles-synergies-pour-le-groupe-panafricain-axian-au-dela-des-telecoms/)
 
