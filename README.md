@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 11:25*
+*Generato: 02 Mar 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [OIM : retour volontaire de 1 760 migrants dans leur...](https://www.lapresse.tn/2026/03/02/oim-retour-volontaire-de-1-760-migrants-dans-leur-pays-dorigine/)
-- [10 ans de prison pour un faux agent de casting...](https://www.lapresse.tn/2026/03/02/10-ans-de-prison-pour-un-faux-agent-de-casting-qui-escroquait-des-candidates/)
+- [Deux points de perdus pour le CAB : Inefficacité quand...](https://www.lapresse.tn/2026/03/02/deux-points-de-perdus-pour-le-cab-inefficacite-quand-tu-nous-tiens/)
+- [Ligue 1 – 22e journée – CA-ESM (0-5) : En...](https://www.lapresse.tn/2026/03/02/ligue-1-22e-journee-ca-esm-0-5-en-roue-libre/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -279,12 +279,12 @@
 
 - [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
+- [Mort de l’ayatollah Khamenei : au Nigeria, des milliers de chiites pro-iraniens manifestent dans le Nord](https://www.jeuneafrique.com/1770117/politique/mort-de-layatollah-khamenei-au-nigeria-des-milliers-de-chiites-pro-iraniens-manifestent-dans-le-nord/)
+- [2 mars 1956 : le jour où la France et le Maroc se sont dit adieu](https://www.jeuneafrique.com/1768492/politique/2-mars-1956-le-jour-ou-la-france-et-le-maroc-se-sont-dit-adieu/)
 - [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
 - [L’Iran promet de venger la mort d’Ali Khamenei malgré les menaces de Donald Trump](https://www.jeuneafrique.com/1770069/politique/liran-promet-de-venger-la-mort-dali-khamenei-malgre-les-menaces-de-donald-trump/)
 - [Entre fidèles et nouveaux venus, l’équipe de campagne XXL de Denis Sassou Nguesso](https://www.jeuneafrique.com/1767887/politique/entre-fideles-et-nouveaux-venus-lequipe-de-campagne-xxl-de-denis-sassou-nguesso/)
 - [Maroc : que révèle le choix de Mohamed Chaouki pour succéder à Aziz Akhannouch ?](https://www.jeuneafrique.com/1768044/politique/maroc-que-revele-le-choix-de-mohamed-chaouki-pour-succeder-a-aziz-akhannouch/)
-- [Est de la RDC : la mort de Willy Ngoma, révélatrice de la bataille pour le ciel congolais](https://www.jeuneafrique.com/1769840/politique/est-de-la-rdc-la-mort-de-willy-ngoma-revelatrice-de-la-bataille-pour-le-ciel-congolais/)
-- [Sénégal : 250 personnes réunies lors d’une marche contre l’emprisonnement, au Maroc, de 18 supporters pour « hooliganisme »](https://www.jeuneafrique.com/1770046/politique/au-senegal-250-personnes-reunies-lors-dune-marche-contre-lemprisonnement-au-maroc-de-18-supporters-pour-hooliganisme/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
 - [Quelles synergies pour le groupe panafricain Axian au-delà des télécoms ?](https://www.jeuneafrique.com/1763868/economie-entreprises/quelles-synergies-pour-le-groupe-panafricain-axian-au-dela-des-telecoms/)
 
