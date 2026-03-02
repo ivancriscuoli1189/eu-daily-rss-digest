@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 12:29*
+*Generato: 02 Mar 2026, 13:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Deux points de perdus pour le CAB : Inefficacité quand...](https://www.lapresse.tn/2026/03/02/deux-points-de-perdus-pour-le-cab-inefficacite-quand-tu-nous-tiens/)
-- [Ligue 1 – 22e journée – CA-ESM (0-5) : En...](https://www.lapresse.tn/2026/03/02/ligue-1-22e-journee-ca-esm-0-5-en-roue-libre/)
+- [Tennis – Challenger de Kigali : Aziz Ouakaa éliminé en...](https://www.lapresse.tn/2026/03/02/tennis-challenger-de-kigali-aziz-ouakaa-elimine-en-16-emes-de-finale/)
+- [Jeudi prochain : dernier délai pour le paiement de la...](https://www.lapresse.tn/2026/03/02/jeudi-prochain-dernier-delai-pour-le-paiement-de-la-vignette/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -281,10 +281,10 @@
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Mort de l’ayatollah Khamenei : au Nigeria, des milliers de chiites pro-iraniens manifestent dans le Nord](https://www.jeuneafrique.com/1770117/politique/mort-de-layatollah-khamenei-au-nigeria-des-milliers-de-chiites-pro-iraniens-manifestent-dans-le-nord/)
 - [2 mars 1956 : le jour où la France et le Maroc se sont dit adieu](https://www.jeuneafrique.com/1768492/politique/2-mars-1956-le-jour-ou-la-france-et-le-maroc-se-sont-dit-adieu/)
+- [Iran : les grands armateurs suspendent leur navigation dans le Golfe](https://www.jeuneafrique.com/1770094/politique/iran-les-grands-armateurs-suspendent-leur-navigation-dans-le-golfe/)
 - [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
 - [L’Iran promet de venger la mort d’Ali Khamenei malgré les menaces de Donald Trump](https://www.jeuneafrique.com/1770069/politique/liran-promet-de-venger-la-mort-dali-khamenei-malgre-les-menaces-de-donald-trump/)
 - [Entre fidèles et nouveaux venus, l’équipe de campagne XXL de Denis Sassou Nguesso](https://www.jeuneafrique.com/1767887/politique/entre-fideles-et-nouveaux-venus-lequipe-de-campagne-xxl-de-denis-sassou-nguesso/)
-- [Maroc : que révèle le choix de Mohamed Chaouki pour succéder à Aziz Akhannouch ?](https://www.jeuneafrique.com/1768044/politique/maroc-que-revele-le-choix-de-mohamed-chaouki-pour-succeder-a-aziz-akhannouch/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
 - [Quelles synergies pour le groupe panafricain Axian au-delà des télécoms ?](https://www.jeuneafrique.com/1763868/economie-entreprises/quelles-synergies-pour-le-groupe-panafricain-axian-au-dela-des-telecoms/)
 
