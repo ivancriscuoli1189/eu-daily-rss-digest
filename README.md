@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 06:41*
+*Generato: 02 Mar 2026, 09:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Trump évoque un conflit avec l’Iran pouvant durer « quatre...](https://www.lapresse.tn/2026/03/01/trump-evoque-un-conflit-avec-liran-pouvant-durer-quatre-semaines/)
-- [Hausse du Brent : vers 100 dollars le baril après...](https://www.lapresse.tn/2026/03/01/hausse-du-brent-vers-100-dollars-le-baril-apres-les-frappes-americaines-en-iran/)
+- [Égalité des genres : la Bourse de Tunis rejoint l’initiative...](https://www.lapresse.tn/2026/03/02/egalite-des-genres-la-bourse-de-tunis-rejoint-linitiative-mondiale-ring-the-bell/)
+- [À partir d’aujourd’hui : lancement de la première session de...](https://www.lapresse.tn/2026/03/02/a-partir-daujourdhui-lancement-de-la-premiere-session-de-recrutement-militaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, les Mbororos pris au piège de la crise anglophone](https://www.jeuneafrique.com/1765362/politique/au-cameroun-les-mbororos-pris-au-piege-de-la-crise-anglophone/)
-- [Iran : les grands armateurs suspendent leur navigation dans le Golfe](https://www.jeuneafrique.com/1770094/politique/iran-les-grands-armateurs-suspendent-leur-navigation-dans-le-golfe/)
+- [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
+- [L’Iran promet de venger la mort d’Ali Khamenei malgré les menaces de Donald Trump](https://www.jeuneafrique.com/1770069/politique/liran-promet-de-venger-la-mort-dali-khamenei-malgre-les-menaces-de-donald-trump/)
+- [Maroc : que révèle le choix de Mohamed Chaouki pour succéder à Aziz Akhannouch ?](https://www.jeuneafrique.com/1768044/politique/maroc-que-revele-le-choix-de-mohamed-chaouki-pour-succeder-a-aziz-akhannouch/)
+- [Est de la RDC : la mort de Willy Ngoma, révélatrice de la bataille pour le ciel congolais](https://www.jeuneafrique.com/1769840/politique/est-de-la-rdc-la-mort-de-willy-ngoma-revelatrice-de-la-bataille-pour-le-ciel-congolais/)
 - [Sénégal : 250 personnes réunies lors d’une marche contre l’emprisonnement, au Maroc, de 18 supporters pour « hooliganisme »](https://www.jeuneafrique.com/1770046/politique/au-senegal-250-personnes-reunies-lors-dune-marche-contre-lemprisonnement-au-maroc-de-18-supporters-pour-hooliganisme/)
+- [RDC : comment Trump veut prendre le contrôle de la mine de coltan de Rubaya, tenue par l’AFC/M23](https://www.jeuneafrique.com/1769464/politique/rdc-comment-trump-veut-prendre-le-controle-de-la-mine-de-coltan-de-rubaya-tenue-par-lafc-m23/)
 - [Maroc : comment le RNI a négocié l’annonce surprise du retrait d’Aziz Akhannouch](https://www.jeuneafrique.com/1768041/politique/maroc-comment-le-rni-a-negocie-lannonce-surprise-du-retrait-daziz-akhannouch/)
-- [Frappes sur l’Iran : l’Union africaine appelle à la « retenue et à la désescalade urgente »](https://www.jeuneafrique.com/1769995/politique/frappes-sur-liran-lunion-africaine-appelle-a-la-retenue-et-a-la-desescalade-urgente/)
-- [Orange contre Starlink, réseaux russes dans les médias camerounais, l’UE et les juntes… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1769551/politique/orange-contre-starlink-reseaux-russes-dans-les-medias-camerounais-lue-et-les-juntes-les-5-infos-quil-ne-fallait-pas-manquer/)
-- [Au Soudan, enquête sur ces enfants-soldats devenus « stars » des réseaux sociaux](https://www.jeuneafrique.com/1769946/politique/au-soudan-enquete-sur-ces-enfants-soldats-devenus-stars-des-reseaux-sociaux/)
+- [Pourquoi l’AFC croit au pouvoir des fonds de pension africains](https://www.jeuneafrique.com/1769784/economie-entreprises/pourquoi-lafc-croit-au-pouvoir-des-fonds-de-pension-africains/)
 - [Finance : les recettes de Valdene Reddy pour redynamiser la Bourse de Johannesburg](https://www.jeuneafrique.com/1769202/economie-entreprises/finance-les-recettes-de-valdene-reddy-pour-redynamiser-la-bourse-de-johannesburg/)
-- [Or, métaux critiques… La stratégie du marocain Managem validée par la flambée des cours](https://www.jeuneafrique.com/1769802/economie-entreprises/or-metaux-critiques-la-strategie-du-marocain-managem-validee-par-la-flambee-des-cours/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
