@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 15:30*
+*Generato: 02 Mar 2026, 18:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
@@ -91,7 +92,6 @@
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
 - [Ukraine: Parliament marks four years of Russia’s war with extraordinary session](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36003/ukraine-parliament-marks-four-years-of-russia-s-war-with-extraordinary-session)
 - [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
-- [Parliament’s proposals to eradicate poverty in the EU by 2035](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33623/parliament-s-proposals-to-eradicate-poverty-in-the-eu-by-2035)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Protection des enfants : appel à bannir les pétards des...](https://www.lapresse.tn/2026/03/02/protection-des-enfants-appel-a-bannir-les-petards-des-marches/)
-- [Fermeture de sites pétroliers en Arabie saoudite et en Irak](https://www.lapresse.tn/2026/03/02/fermeture-de-sites-petroliers-en-arabie-saoudite-et-en-irak/)
+- [Pain subventionné vs pains variés : La baguette attendra…](https://www.lapresse.tn/2026/03/02/pain-subventionne-vs-pains-varies-la-baguette-attendra/)
+- [Les Émirats lancent des “vols exceptionnels”](https://www.lapresse.tn/2026/03/02/les-emirats-lancent-des-vols-exceptionnels/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
 - [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
-- [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 - [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
-- [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 - [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
 - [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
 - [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
@@ -247,7 +248,6 @@
 - [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
-- [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -278,15 +278,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
+- [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
+- [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
+- [L’Algérie lâche son allié iranien et se solidarise avec les pays arabes](https://www.jeuneafrique.com/1770186/politique/lalgerie-lache-son-allie-iranien-et-se-solidarise-avec-les-pays-arabes/)
 - [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
+- [Au Bénin, clap de fin pour Thomas Boni Yayi et Les Démocrates ?](https://www.jeuneafrique.com/1760355/politique/au-benin-clap-de-fin-pour-thomas-boni-yayi-et-les-democrates/)
 - [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Mort de l’ayatollah Khamenei : au Nigeria, des milliers de chiites pro-iraniens manifestent dans le Nord](https://www.jeuneafrique.com/1770117/politique/mort-de-layatollah-khamenei-au-nigeria-des-milliers-de-chiites-pro-iraniens-manifestent-dans-le-nord/)
-- [2 mars 1956 : le jour où la France et le Maroc se sont dit adieu](https://www.jeuneafrique.com/1768492/politique/2-mars-1956-le-jour-ou-la-france-et-le-maroc-se-sont-dit-adieu/)
-- [Au Cameroun, les Mbororos pris au piège de la crise anglophone](https://www.jeuneafrique.com/1765362/politique/au-cameroun-les-mbororos-pris-au-piege-de-la-crise-anglophone/)
-- [Iran : les grands armateurs suspendent leur navigation dans le Golfe](https://www.jeuneafrique.com/1770094/politique/iran-les-grands-armateurs-suspendent-leur-navigation-dans-le-golfe/)
-- [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
+- [Pétrole et gaz : comment ENI et TotalEnergies se disputent les futures ressources africaines](https://www.jeuneafrique.com/1769894/economie-entreprises/petrole-et-gaz-comment-eni-et-totalenergies-se-disputent-les-futures-ressources-africaines/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
-- [Quelles synergies pour le groupe panafricain Axian au-delà des télécoms ?](https://www.jeuneafrique.com/1763868/economie-entreprises/quelles-synergies-pour-le-groupe-panafricain-axian-au-dela-des-telecoms/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
