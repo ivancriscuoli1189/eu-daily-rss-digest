@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Feb 2026, 21:18*
+*Generato: 02 Mar 2026, 06:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vers la création d’une Chambre de commerce tuniso-roumaine](https://www.lapresse.tn/2026/02/27/vers-la-creation-dune-chambre-de-commerce-tuniso-roumaine/)
-- [Milan : un tramway déraille et percute un immeuble](https://www.lapresse.tn/2026/02/27/milan-un-tramway-deraille-et-percute-un-immeuble/)
+- [Trump évoque un conflit avec l’Iran pouvant durer « quatre...](https://www.lapresse.tn/2026/03/01/trump-evoque-un-conflit-avec-liran-pouvant-durer-quatre-semaines/)
+- [Hausse du Brent : vers 100 dollars le baril après...](https://www.lapresse.tn/2026/03/01/hausse-du-brent-vers-100-dollars-le-baril-apres-les-frappes-americaines-en-iran/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
 - [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
-- [Pakistan: Arbitrary arrest and sentencing of human rights lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha](https://www.icj.org/pakistan-arbitrary-arrest-and-sentencing-of-human-rights-lawyers-imaan-zainab-mazari-hazir-and-hadi-ali-chattha/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Joint Statements: Negotiations on the Convention on Crimes against Humanity](https://www.icj.org/joint-statements-negotiations-on-the-convention-on-crimes-against-humanity/)
 - [Iran: immediately stop mass killings of protestors and other atrocities and end impunity](https://www.icj.org/iran-immediately-stop-mass-killings-of-protestors-and-other-atrocities-and-end-impunity/)
-- [Kazakhstan: Drop licence revocation proceedings against lawyer Adam Murat](https://www.icj.org/kazakhstan-drop-licence-revocation-proceedings-against-lawyer-adam-murat/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -238,6 +238,8 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
+- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
 - [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
 - [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
 - [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
@@ -246,8 +248,6 @@
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 - [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
 - [How Europe can help Iranians break the internet shutdown](https://ecfr.eu/article/how-europe-can-help-iranians-break-the-internet-shutdown/)
-- [Will Trump bomb Iran?](https://ecfr.eu/podcasts/episode/will-trump-bomb-iran/)
-- [From partners to rivals: What the Saudi-UAE rupture means for Europeans](https://ecfr.eu/article/from-partners-to-rivals-what-the-saudi-uae-rupture-means-for-europeans/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [L’ancien Premier ministre tunisien Ali Laarayedh condamné en appel à 24 ans de prison](https://www.jeuneafrique.com/1769657/politique/lancien-premier-ministre-tunisien-ali-laarayedh-condamne-en-appel-a-24-ans-de-prison/)
-- [OIF : la RDC mise sur la fille de Lumumba face à la candidate rwandaise Louise Mushikiwabo](https://www.jeuneafrique.com/1769574/politique/oif-la-rdc-mise-sur-la-fille-de-lumumba-face-a-la-candidate-rwandaise-louise-mushikiwabo/)
-- [Sahara occidental : les mutations du plan d’autonomie marocain de 2007 à 2026](https://www.jeuneafrique.com/1769394/politique/sahara-occidental-les-mutations-du-plan-dautonomie-marocain-de-2007-a-2026/)
-- [Pollution à Gabès : une plainte en référé pour la suspension de la production du Groupe chimique tunisien rejetée](https://www.jeuneafrique.com/1769549/politique/pollution-a-gabes-une-plainte-en-refere-pour-la-suspension-de-la-production-du-groupe-chimique-tunisien-rejetee/)
-- [Guinéens expulsés d’Allemagne : Conakry réclame « le respect de leur dignité »](https://www.jeuneafrique.com/1769546/politique/guineens-expulses-dallemagne-conakry-reclame-le-respect-de-leur-dignite/)
-- [Ismaïl Omar Guelleh : « Les Émirats sont l’avant-garde d’Israël dans notre région »](https://www.jeuneafrique.com/1765089/politique/ismail-omar-guelleh-les-emirats-sont-lavant-garde-disrael-dans-notre-region/)
-- [Serge Eric Menye : « Le miracle ne viendra pas des diasporas africaines »](https://www.jeuneafrique.com/1769389/politique/serge-eric-menye-le-miracle-ne-viendra-pas-des-diasporas-africaines/)
-- [Talon-Tiani, le duel qui cristallise le divorce AES-Cedeao](https://www.jeuneafrique.com/1764309/politique/talon-tiani-le-duel-qui-cristallise-le-divorce-aes-cedeao/)
-- [Dette : comment le Bénin est devenu l’enfant chéri des investisseurs](https://www.jeuneafrique.com/1762678/economie-entreprises/dette-comment-le-benin-est-devenu-lenfant-cheri-des-investisseurs/)
-- [Pétrole : ce que l’on sait sur le malien NDC, repreneur des anciennes stations de TotalEnergies au Mali](https://www.jeuneafrique.com/1769373/economie-entreprises/petrole-ce-que-lon-sait-sur-le-malien-ndc-repreneur-des-anciennes-stations-de-totalenergies-au-mali/)
+- [Au Cameroun, les Mbororos pris au piège de la crise anglophone](https://www.jeuneafrique.com/1765362/politique/au-cameroun-les-mbororos-pris-au-piege-de-la-crise-anglophone/)
+- [Iran : les grands armateurs suspendent leur navigation dans le Golfe](https://www.jeuneafrique.com/1770094/politique/iran-les-grands-armateurs-suspendent-leur-navigation-dans-le-golfe/)
+- [Au Kenya, un accident d’hélicoptère fait 6 morts, dont un député](https://www.jeuneafrique.com/1770087/politique/au-kenya-un-accident-dhelicoptere-fait-6-morts-dont-un-depute/)
+- [Sénégal : 250 personnes réunies lors d’une marche contre l’emprisonnement, au Maroc, de 18 supporters pour « hooliganisme »](https://www.jeuneafrique.com/1770046/politique/au-senegal-250-personnes-reunies-lors-dune-marche-contre-lemprisonnement-au-maroc-de-18-supporters-pour-hooliganisme/)
+- [Maroc : comment le RNI a négocié l’annonce surprise du retrait d’Aziz Akhannouch](https://www.jeuneafrique.com/1768041/politique/maroc-comment-le-rni-a-negocie-lannonce-surprise-du-retrait-daziz-akhannouch/)
+- [Frappes sur l’Iran : l’Union africaine appelle à la « retenue et à la désescalade urgente »](https://www.jeuneafrique.com/1769995/politique/frappes-sur-liran-lunion-africaine-appelle-a-la-retenue-et-a-la-desescalade-urgente/)
+- [Orange contre Starlink, réseaux russes dans les médias camerounais, l’UE et les juntes… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1769551/politique/orange-contre-starlink-reseaux-russes-dans-les-medias-camerounais-lue-et-les-juntes-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [Au Soudan, enquête sur ces enfants-soldats devenus « stars » des réseaux sociaux](https://www.jeuneafrique.com/1769946/politique/au-soudan-enquete-sur-ces-enfants-soldats-devenus-stars-des-reseaux-sociaux/)
+- [Finance : les recettes de Valdene Reddy pour redynamiser la Bourse de Johannesburg](https://www.jeuneafrique.com/1769202/economie-entreprises/finance-les-recettes-de-valdene-reddy-pour-redynamiser-la-bourse-de-johannesburg/)
+- [Or, métaux critiques… La stratégie du marocain Managem validée par la flambée des cours](https://www.jeuneafrique.com/1769802/economie-entreprises/or-metaux-critiques-la-strategie-du-marocain-managem-validee-par-la-flambee-des-cours/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
