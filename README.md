@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Mar 2026, 09:30*
+*Generato: 03 Mar 2026, 11:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pour la première fois dans l’histoire : la femme d’un...](https://www.lapresse.tn/2026/03/03/pour-la-premiere-fois-dans-lhistoire-la-femme-dun-chef-detat-preside-le-conseil-de-securite/)
-- [Giorgia Meloni dénonce les attaques iraniennes injustifiées contre les pays...](https://www.lapresse.tn/2026/03/03/giorgia-meloni-denonce-les-attaques-iraniennes-injustifiees-contre-les-pays-du-golfe/)
+- [Tunis : Intensification des contrôles nocturnes dans les commerces du...](https://www.lapresse.tn/2026/03/03/tunis-intensification-des-controles-nocturnes-dans-les-commerces-du-centre-ville/)
+- [Ramadan : les seniors plus épanouis grâce aux bienfaits physiques...](https://www.lapresse.tn/2026/03/03/ramadan-les-seniors-plus-epanouis-grace-aux-bienfaits-physiques-et-psychologiques-du-jeune/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,19 +236,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
-- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
-- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
-- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
-- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
-- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
-- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
-- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
-- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La candidature de Macky Sall au secrétariat général de l’ONU confirmée](https://www.jeuneafrique.com/1770377/politique/la-candidature-de-macky-sall-au-secretariat-general-de-lonu-confirmee/)
 - [Vers une « cohabitation douce » au Sénégal ? Ce qu’il faut retenir de l’allocution d’Ousmane Sonko](https://www.jeuneafrique.com/1770311/politique/vers-une-cohabitation-douce-au-senegal-ce-quil-faut-retenir-de-lallocution-dousmane-sonko/)
+- [Guerre en Iran : quel impact sur la bataille d’influence en Afrique entre l’Arabie saoudite et les Émirats arabes unis](https://www.jeuneafrique.com/1769166/politique/guerre-en-iran-quel-impact-sur-la-guerre-dinfluence-en-afrique-entre-larabie-saoudite-et-les-emirats-arabes-unis/)
 - [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
 - [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
 - [L’Algérie lâche son allié iranien et se solidarise avec les pays arabes](https://www.jeuneafrique.com/1770186/politique/lalgerie-lache-son-allie-iranien-et-se-solidarise-avec-les-pays-arabes/)
 - [Le Maroc affiche sa solidarité avec les pays du Golfe visés par les frappes iraniennes](https://www.jeuneafrique.com/1770113/politique/le-maroc-affiche-sa-solidarite-avec-les-pays-du-golfe-vises-par-les-frappes-iraniennes/)
-- [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
-- [Au Bénin, clap de fin pour Thomas Boni Yayi et Les Démocrates ?](https://www.jeuneafrique.com/1760355/politique/au-benin-clap-de-fin-pour-thomas-boni-yayi-et-les-democrates/)
 - [BGFI : ce qu’il faut retenir de l’introduction en Bourse de la première banque du Gabon](https://www.jeuneafrique.com/1769265/economie-entreprises/bgfi-ce-quil-faut-retenir-de-lintroduction-en-bourse-de-la-premiere-banque-du-gabon/)
 - [Guerre en Iran : pour les distributeurs africains de carburant, la crise n’est pas pour tout de suite](https://www.jeuneafrique.com/1770461/economie-entreprises/guerre-en-iran-pour-les-distributeurs-africains-de-carburant-la-crise-nest-pas-pour-tout-de-suite/)
 
