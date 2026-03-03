@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Mar 2026, 11:23*
+*Generato: 03 Mar 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunis : Intensification des contrôles nocturnes dans les commerces du...](https://www.lapresse.tn/2026/03/03/tunis-intensification-des-controles-nocturnes-dans-les-commerces-du-centre-ville/)
-- [Ramadan : les seniors plus épanouis grâce aux bienfaits physiques...](https://www.lapresse.tn/2026/03/03/ramadan-les-seniors-plus-epanouis-grace-aux-bienfaits-physiques-et-psychologiques-du-jeune/)
+- [Ben Guerdane : 1 kg d’or et 627 000 euros...](https://www.lapresse.tn/2026/03/03/ben-guerdane-1-kg-dor-et-627-000-euros-saisis/)
+- [Iran : l’armée revendique des frappes sur Tel-Aviv et la...](https://www.lapresse.tn/2026/03/03/iran-larmee-revendique-des-frappes-sur-tel-aviv-et-la-base-americaine-au-qatar/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -235,6 +235,19 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
+
+## THINK TANK – ECFR – MENA
+
+- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
+- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
+- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
+- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
+- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
+- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
+- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
+- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
+- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
+- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
 
 ## THINK TANK – CESPI – Attualità
 
