@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Mar 2026, 12:29*
+*Generato: 03 Mar 2026, 13:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Tuerie de Titao, au Burkina Faso : le Ghana peut-il rester à l’abri du Jnim qui sévit au Sahel ?](https://www.jeuneafrique.com/1770267/politique/tuerie-de-titao-au-burkina-faso-le-ghana-peut-il-rester-a-labri-du-jnim-qui-sevit-au-sahel/)
 - [La candidature de Macky Sall au secrétariat général de l’ONU confirmée](https://www.jeuneafrique.com/1770377/politique/la-candidature-de-macky-sall-au-secretariat-general-de-lonu-confirmee/)
 - [Vers une « cohabitation douce » au Sénégal ? Ce qu’il faut retenir de l’allocution d’Ousmane Sonko](https://www.jeuneafrique.com/1770311/politique/vers-une-cohabitation-douce-au-senegal-ce-quil-faut-retenir-de-lallocution-dousmane-sonko/)
 - [Guerre en Iran : quel impact sur la bataille d’influence en Afrique entre l’Arabie saoudite et les Émirats arabes unis](https://www.jeuneafrique.com/1769166/politique/guerre-en-iran-quel-impact-sur-la-guerre-dinfluence-en-afrique-entre-larabie-saoudite-et-les-emirats-arabes-unis/)
@@ -284,7 +285,6 @@
 - [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
 - [L’Algérie lâche son allié iranien et se solidarise avec les pays arabes](https://www.jeuneafrique.com/1770186/politique/lalgerie-lache-son-allie-iranien-et-se-solidarise-avec-les-pays-arabes/)
-- [Le Maroc affiche sa solidarité avec les pays du Golfe visés par les frappes iraniennes](https://www.jeuneafrique.com/1770113/politique/le-maroc-affiche-sa-solidarite-avec-les-pays-du-golfe-vises-par-les-frappes-iraniennes/)
 - [BGFI : ce qu’il faut retenir de l’introduction en Bourse de la première banque du Gabon](https://www.jeuneafrique.com/1769265/economie-entreprises/bgfi-ce-quil-faut-retenir-de-lintroduction-en-bourse-de-la-premiere-banque-du-gabon/)
 - [Guerre en Iran : pour les distributeurs africains de carburant, la crise n’est pas pour tout de suite](https://www.jeuneafrique.com/1770461/economie-entreprises/guerre-en-iran-pour-les-distributeurs-africains-de-carburant-la-crise-nest-pas-pour-tout-de-suite/)
 
