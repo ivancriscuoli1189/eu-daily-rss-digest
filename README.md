@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Mar 2026, 21:23*
+*Generato: 03 Mar 2026, 06:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [HANNIBAL SICAV : Un dividende de 6,609 DT par action...](https://www.lapresse.tn/2026/03/02/hannibal-sicav-un-dividende-de-6609-dt-par-action-mis-en-paiement/)
-- [Le président Pezeshkian durcit le ton face à l’offensive Americano-sioniste](https://www.lapresse.tn/2026/03/02/le-president-pezeshkian-durcit-le-ton-face-a-loffensive-americano-israelienne/)
+- [Explosion suivie d’un incendie à l’ambassade des États-Unis à Riyad](https://www.lapresse.tn/2026/03/03/explosion-suivie-dun-incendie-a-lambassade-des-etats-unis-a-riyad/)
+- [Produits subventionnés détournés : importante saisie de farine à Denden](https://www.lapresse.tn/2026/03/03/produits-subventionnes-detournes-importante-saisie-de-farine-a-denden/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, les Mbororos, otages en sursis entre Boko Haram et l’armée](https://www.jeuneafrique.com/1765419/politique/au-cameroun-les-mbororos-otages-en-sursis-entre-boko-haram-et-larmee/)
 - [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
 - [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
@@ -284,7 +285,6 @@
 - [Le Maroc affiche sa solidarité avec les pays du Golfe visés par les frappes iraniennes](https://www.jeuneafrique.com/1770113/politique/le-maroc-affiche-sa-solidarite-avec-les-pays-du-golfe-vises-par-les-frappes-iraniennes/)
 - [RDC : l’aéroport de Kisangani ciblé par une nouvelle attaque de drones de l’AFC/M23](https://www.jeuneafrique.com/1770149/politique/rdc-laeroport-de-kisangani-cible-par-une-nouvelle-attaque-de-drones-de-lafc-m23/)
 - [Au Bénin, clap de fin pour Thomas Boni Yayi et Les Démocrates ?](https://www.jeuneafrique.com/1760355/politique/au-benin-clap-de-fin-pour-thomas-boni-yayi-et-les-democrates/)
-- [Sénégal : les coupes dans les salaires des enseignants en grève sont légales, affirme le gouvernement](https://www.jeuneafrique.com/1770122/politique/senegal-les-coupes-dans-les-salaires-des-enseignants-en-greve-sont-legales-affirme-le-gouvernement/)
 - [Pétrole et gaz : comment ENI et TotalEnergies se disputent les futures ressources africaines](https://www.jeuneafrique.com/1769894/economie-entreprises/petrole-et-gaz-comment-eni-et-totalenergies-se-disputent-les-futures-ressources-africaines/)
 - [CMDT, Sodecoton, Sodeco… Pourquoi les rois du coton sont au pied du mur](https://www.jeuneafrique.com/1764024/economie-entreprises/cmdt-sodecoton-sodeco-pourquoi-les-rois-du-coton-sont-au-pied-du-mur/)
 
