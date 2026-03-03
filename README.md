@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Mar 2026, 13:50*
+*Generato: 03 Mar 2026, 15:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ben Guerdane : 1 kg d’or et 627 000 euros...](https://www.lapresse.tn/2026/03/03/ben-guerdane-1-kg-dor-et-627-000-euros-saisis/)
-- [Iran : l’armée revendique des frappes sur Tel-Aviv et la...](https://www.lapresse.tn/2026/03/03/iran-larmee-revendique-des-frappes-sur-tel-aviv-et-la-base-americaine-au-qatar/)
+- [Moez Soussi plaide pour l’unification des caisses sociales](https://www.lapresse.tn/2026/03/03/moez-soussi-plaide-pour-lunification-des-caisses-sociales/)
+- [Facturation électronique: le Conseil de l’Ordre des Médecins réclame des...](https://www.lapresse.tn/2026/03/03/facturation-electronique-le-conseil-de-lordre-des-medecins-reclame-des-mesures-pour-faciliter-sa-mise-en-oeuvre/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -285,8 +285,8 @@
 - [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [Attaque américano-israélienne, riposte de l’Iran : le discret virage diplomatique de Tunis](https://www.jeuneafrique.com/1770223/politique/attaque-americano-israelienne-riposte-de-liran-le-discret-virage-diplomatique-de-tunis/)
 - [L’Algérie lâche son allié iranien et se solidarise avec les pays arabes](https://www.jeuneafrique.com/1770186/politique/lalgerie-lache-son-allie-iranien-et-se-solidarise-avec-les-pays-arabes/)
+- [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
 - [BGFI : ce qu’il faut retenir de l’introduction en Bourse de la première banque du Gabon](https://www.jeuneafrique.com/1769265/economie-entreprises/bgfi-ce-quil-faut-retenir-de-lintroduction-en-bourse-de-la-premiere-banque-du-gabon/)
-- [Guerre en Iran : pour les distributeurs africains de carburant, la crise n’est pas pour tout de suite](https://www.jeuneafrique.com/1770461/economie-entreprises/guerre-en-iran-pour-les-distributeurs-africains-de-carburant-la-crise-nest-pas-pour-tout-de-suite/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
