@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 15:28*
+*Generato: 04 Mar 2026, 18:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nabeul : Six marins portés disparus au large de Kélibia](https://www.lapresse.tn/2026/03/04/nabeul-six-marins-portes-disparus-au-large-de-kelibia/)
-- [Jets de pierres contre un train en banlieue sud :...](https://www.lapresse.tn/2026/03/04/jets-de-pierres-contre-un-train-en-banlieue-sud-la-sncft-contrainte-dinterrompre-une-desserte/)
+- [CNUCED : Un cinquième des IDE pour les data centers...](https://www.lapresse.tn/2026/03/04/cnuced-un-cinquieme-des-ide-pour-les-data-centers-en-2025/)
+- [Hors – les murs du Festival international Jean Rouch-Tunis :...](https://www.lapresse.tn/2026/03/04/hors-les-murs-du-festival-international-jean-rouch-tunis-cinema-et-sciences-sociales/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
 - [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
 - [Israël lance de nouvelles frappes contre l’Iran et le Liban au cinquième jour de la guerre](https://www.jeuneafrique.com/1770881/politique/israel-lance-de-nouvelles-frappes-contre-liran-et-le-liban-au-cinquieme-jour-de-la-guerre/)
+- [Dans la guerre commerciale de Trump, qui gagne ? Qui perd ?](https://www.jeuneafrique.com/1770138/politique/dans-la-guerre-commerciale-de-trump-qui-gagne-qui-perd/)
 - [Au Maroc, les premiers remous de l’ère Chaouki au RNI](https://www.jeuneafrique.com/1770536/politique/au-maroc-les-premiers-remous-de-lere-chaouki-au-rni/)
+- [De l’hôtel du Golf au RHDP, comment Anne Ouloto est devenue un pilier du système Ouattara](https://www.jeuneafrique.com/1770513/politique/de-lhotel-du-golf-au-rhdp-comment-anne-ouloto-est-devenue-un-pilier-du-systeme-ouattara/)
 - [Au Cameroun, les Mbororos sont-ils vraiment les « mal-aimés de la République » ?](https://www.jeuneafrique.com/1765532/politique/au-cameroun-les-mbororos-sont-ils-vraiment-les-mal-aimes-de-la-republique/)
-- [Rumeurs sur l’état de santé de Mamadi Doumbouya : de Singapour à la France, le discret séjour « de repos » du président guinéen](https://www.jeuneafrique.com/1770777/politique/rumeurs-sur-letat-de-sante-de-mamadi-doumbouya-de-singapour-a-la-france-le-discret-sejour-de-repos-du-president-guineen/)
-- [Tentative de coup d’État au Bénin : 20 millions de francs CFA pour la capture de Pascal Tigri](https://www.jeuneafrique.com/1770809/politique/tentative-de-coup-detat-au-benin-20-millions-de-francs-cfa-pour-la-capture-de-pascal-tigri/)
-- [« Refonder le multilatéralisme pour un monde meilleur » : la « vision » de Macky Sall pour l’ONU](https://www.jeuneafrique.com/1770705/politique/refonder-le-multilateralisme-pour-un-monde-meilleur-la-vision-de-macky-sall-pour-lonu/)
+- [Crise du cacao : la Côte d’Ivoire réduit de près de 60 % le prix d’achat aux producteurs](https://www.jeuneafrique.com/1771206/economie-entreprises/crise-du-cacao-la-cote-divoire-reduit-de-pres-de-60-le-prix-dachat-aux-producteurs/)
 - [Le partenariat « RD Congo – Cœur de l’Afrique » avec l’AS Monaco au cœur d’une enquête judiciaire](https://www.jeuneafrique.com/1771008/societe/le-partenariat-rd-congo-coeur-de-lafrique-avec-las-monaco-au-coeur-dune-enquete-judiciaire/)
-- [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
