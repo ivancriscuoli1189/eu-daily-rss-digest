@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 06:32*
+*Generato: 04 Mar 2026, 09:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -155,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Offensive contre l’Iran : »Nous possédons l’armée la plus puissante et...](https://www.lapresse.tn/2026/03/03/offensive-contre-liran-nous-possedons-larmee-la-plus-puissante-et-la-meilleure-au-monde/)
-- [Vols vers l’Arabie Saoudite : maintien d’un service régulier et...](https://www.lapresse.tn/2026/03/03/vols-vers-larabie-saoudite-maintien-dun-service-regulier-et-normal/)
+- [Le projet du “médecin visiteur” au cœur d’une réunion tunisiano-omanaise](https://www.lapresse.tn/2026/03/04/le-projet-du-medecin-visiteur-au-coeur-dune-reunion-tunisiano-omanaise/)
+- [Les coulisses de l’opération qui a tué Ali Khamenei](https://www.lapresse.tn/2026/03/04/les-coulisses-de-loperation-qui-a-tue-ali-khamenei/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, les Mbororos sont-ils vraiment les « mal-aimés de la République » ?](https://www.jeuneafrique.com/1765532/politique/au-cameroun-les-mbororos-sont-ils-vraiment-les-mal-aimes-de-la-republique/)
+- [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
+- [Israël lance de nouvelles frappes contre l’Iran et le Liban au cinquième jour de la guerre](https://www.jeuneafrique.com/1770881/politique/israel-lance-de-nouvelles-frappes-contre-liran-et-le-liban-au-cinquieme-jour-de-la-guerre/)
+- [« Refonder le multilatéralisme pour un monde meilleur » : la « vision » de Macky Sall pour l’ONU](https://www.jeuneafrique.com/1770705/politique/refonder-le-multilateralisme-pour-un-monde-meilleur-la-vision-de-macky-sall-pour-lonu/)
+- [Crise du cacao en Côte d’Ivoire : à Mama, Gbagbo se mue en avocat des planteurs](https://www.jeuneafrique.com/1770531/politique/crise-du-cacao-en-cote-divoire-a-mama-gbagbo-se-mue-en-avocat-des-planteurs/)
 - [Tuerie de Titao, au Burkina Faso : le Ghana peut-il rester à l’abri du Jnim qui sévit au Sahel ?](https://www.jeuneafrique.com/1770267/politique/tuerie-de-titao-au-burkina-faso-le-ghana-peut-il-rester-a-labri-du-jnim-qui-sevit-au-sahel/)
 - [Au Cameroun, les Mbororos, otages en sursis entre Boko Haram et l’armée](https://www.jeuneafrique.com/1765419/politique/au-cameroun-les-mbororos-otages-en-sursis-entre-boko-haram-et-larmee/)
 - [Est de la RDC : les États-Unis sanctionnent l’armée rwandaise pour son soutien au M23](https://www.jeuneafrique.com/1770514/politique/est-de-la-rdc-les-etats-unis-sanctionnent-larmee-rwandaise-pour-son-soutien-au-m23/)
 - [La candidature de Macky Sall au secrétariat général de l’ONU confirmée](https://www.jeuneafrique.com/1770377/politique/la-candidature-de-macky-sall-au-secretariat-general-de-lonu-confirmee/)
-- [Vers une « cohabitation douce » au Sénégal ? Ce qu’il faut retenir de l’allocution d’Ousmane Sonko](https://www.jeuneafrique.com/1770311/politique/vers-une-cohabitation-douce-au-senegal-ce-quil-faut-retenir-de-lallocution-dousmane-sonko/)
-- [Guerre en Iran : quel impact sur la bataille d’influence en Afrique entre l’Arabie saoudite et les Émirats arabes unis](https://www.jeuneafrique.com/1769166/politique/guerre-en-iran-quel-impact-sur-la-guerre-dinfluence-en-afrique-entre-larabie-saoudite-et-les-emirats-arabes-unis/)
-- [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
 - [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
-- [BGFI : ce qu’il faut retenir de l’introduction en Bourse de la première banque du Gabon](https://www.jeuneafrique.com/1769265/economie-entreprises/bgfi-ce-quil-faut-retenir-de-lintroduction-en-bourse-de-la-premiere-banque-du-gabon/)
+- [Pétrole : la raffinerie Dangote en passe de conquérir l’Afrique… et d’évincer les multinationales ?](https://www.jeuneafrique.com/1765896/economie-entreprises/petrole-la-raffinerie-dangote-en-passe-de-conquerir-lafrique-et-devincer-les-multinationales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
