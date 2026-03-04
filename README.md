@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Mar 2026, 21:22*
+*Generato: 04 Mar 2026, 06:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -144,32 +144,6 @@
 - [en English](https://home-affairs.ec.europa.eu/news_en)
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
 
 ## MEDIA TUNISIA – La Presse de Tunisie
 
@@ -277,6 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, les Mbororos sont-ils vraiment les « mal-aimés de la République » ?](https://www.jeuneafrique.com/1765532/politique/au-cameroun-les-mbororos-sont-ils-vraiment-les-mal-aimes-de-la-republique/)
 - [Tuerie de Titao, au Burkina Faso : le Ghana peut-il rester à l’abri du Jnim qui sévit au Sahel ?](https://www.jeuneafrique.com/1770267/politique/tuerie-de-titao-au-burkina-faso-le-ghana-peut-il-rester-a-labri-du-jnim-qui-sevit-au-sahel/)
 - [Au Cameroun, les Mbororos, otages en sursis entre Boko Haram et l’armée](https://www.jeuneafrique.com/1765419/politique/au-cameroun-les-mbororos-otages-en-sursis-entre-boko-haram-et-larmee/)
 - [Est de la RDC : les États-Unis sanctionnent l’armée rwandaise pour son soutien au M23](https://www.jeuneafrique.com/1770514/politique/est-de-la-rdc-les-etats-unis-sanctionnent-larmee-rwandaise-pour-son-soutien-au-m23/)
@@ -284,7 +259,6 @@
 - [Vers une « cohabitation douce » au Sénégal ? Ce qu’il faut retenir de l’allocution d’Ousmane Sonko](https://www.jeuneafrique.com/1770311/politique/vers-une-cohabitation-douce-au-senegal-ce-quil-faut-retenir-de-lallocution-dousmane-sonko/)
 - [Guerre en Iran : quel impact sur la bataille d’influence en Afrique entre l’Arabie saoudite et les Émirats arabes unis](https://www.jeuneafrique.com/1769166/politique/guerre-en-iran-quel-impact-sur-la-guerre-dinfluence-en-afrique-entre-larabie-saoudite-et-les-emirats-arabes-unis/)
 - [Washington assouplit certaines sanctions contre des responsables maliens](https://www.jeuneafrique.com/1770226/politique/washington-assouplit-certaines-sanctions-contre-des-responsables-maliens/)
-- [OIF : « La candidature de Juliana Amato Lumumba face à Louise Mushikiwabo est un acte de responsabilité, pas de confrontation »](https://www.jeuneafrique.com/1770258/politique/oif-la-candidature-de-juliana-amato-lumumba-face-a-louise-mushikiwabo-est-un-acte-de-responsabilite-pas-de-confrontation/)
 - [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
 - [BGFI : ce qu’il faut retenir de l’introduction en Bourse de la première banque du Gabon](https://www.jeuneafrique.com/1769265/economie-entreprises/bgfi-ce-quil-faut-retenir-de-lintroduction-en-bourse-de-la-premiere-banque-du-gabon/)
 
