@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 09:28*
+*Generato: 04 Mar 2026, 11:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,8 +43,8 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -155,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le projet du “médecin visiteur” au cœur d’une réunion tunisiano-omanaise](https://www.lapresse.tn/2026/03/04/le-projet-du-medecin-visiteur-au-coeur-dune-reunion-tunisiano-omanaise/)
-- [Les coulisses de l’opération qui a tué Ali Khamenei](https://www.lapresse.tn/2026/03/04/les-coulisses-de-loperation-qui-a-tue-ali-khamenei/)
+- [Madrid s’oppose aux frappes contre l’Iran et redoute une «catastrophe»...](https://www.lapresse.tn/2026/03/04/madrid-soppose-aux-frappes-contre-liran-et-redoute-une-catastrophe-au-moyen-orient/)
+- [Oluranti Doherty, directrice du développement à l’export chez Afreximbank :...](https://www.lapresse.tn/2026/03/04/oluranti-doherty-directrice-du-developpement-a-lexport-chez-afreximbank-chaque-deces-evite-avant-45-ans-equivaut-a-des-decennies-de-production/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -260,7 +260,7 @@
 - [Est de la RDC : les États-Unis sanctionnent l’armée rwandaise pour son soutien au M23](https://www.jeuneafrique.com/1770514/politique/est-de-la-rdc-les-etats-unis-sanctionnent-larmee-rwandaise-pour-son-soutien-au-m23/)
 - [La candidature de Macky Sall au secrétariat général de l’ONU confirmée](https://www.jeuneafrique.com/1770377/politique/la-candidature-de-macky-sall-au-secretariat-general-de-lonu-confirmee/)
 - [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
-- [Pétrole : la raffinerie Dangote en passe de conquérir l’Afrique… et d’évincer les multinationales ?](https://www.jeuneafrique.com/1765896/economie-entreprises/petrole-la-raffinerie-dangote-en-passe-de-conquerir-lafrique-et-devincer-les-multinationales/)
+- [500 Champions africains : la machine à cash relancée](https://www.jeuneafrique.com/1769102/economie-entreprises/500-champions-africains-la-machine-a-cash-relancee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
