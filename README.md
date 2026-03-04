@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 12:28*
+*Generato: 04 Mar 2026, 13:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,32 +40,6 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
-- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
-- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
-- [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
-- [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
-- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
-- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
 
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
@@ -121,16 +95,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -155,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [FMI : Les retombées de la guerre dépendront de sa...](https://www.lapresse.tn/2026/03/04/fmi-les-retombees-de-la-guerre-dependront-de-sa-duree/)
-- [Kairouan Madinati : Quand le « sefseri » investit les...](https://www.lapresse.tn/2026/03/04/kairouan-madinati-quand-le-sefseri-investit-les-rues/)
+- [L’Iran ajourne les obsèques nationales du Guide Suprême Ali Khamenei](https://www.lapresse.tn/2026/03/04/liran-ajourne-les-obseques-nationales-du-guide-supreme-ali-khamenei/)
+- [Wael Chouchane : « la fermeture du détroit d’Ormuz n’affectera pas...](https://www.lapresse.tn/2026/03/04/wael-chouchane-la-fermeture-du-detroit-dormuz-naffectera-pas-le-petrole-et-le-gaz-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,6 +186,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
 - [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 - [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
 - [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
@@ -221,7 +196,6 @@
 - [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
 - [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
 - [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
-- [Welcome to the jungle: Trump’s Board of Peace goes global](https://ecfr.eu/article/welcome-to-the-jungle-trumps-board-of-peace-goes-global/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -251,14 +225,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
 - [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
 - [Israël lance de nouvelles frappes contre l’Iran et le Liban au cinquième jour de la guerre](https://www.jeuneafrique.com/1770881/politique/israel-lance-de-nouvelles-frappes-contre-liran-et-le-liban-au-cinquieme-jour-de-la-guerre/)
 - [Au Maroc, les premiers remous de l’ère Chaouki au RNI](https://www.jeuneafrique.com/1770536/politique/au-maroc-les-premiers-remous-de-lere-chaouki-au-rni/)
+- [Rumeurs sur l’état de santé de Mamadi Doumbouya : de Singapour à la France, le discret séjour « de repos » du président guinéen](https://www.jeuneafrique.com/1770777/politique/rumeurs-sur-letat-de-sante-de-mamadi-doumbouya-de-singapour-a-la-france-le-discret-sejour-de-repos-du-president-guineen/)
 - [« Refonder le multilatéralisme pour un monde meilleur » : la « vision » de Macky Sall pour l’ONU](https://www.jeuneafrique.com/1770705/politique/refonder-le-multilateralisme-pour-un-monde-meilleur-la-vision-de-macky-sall-pour-lonu/)
 - [Crise du cacao en Côte d’Ivoire : à Mama, Gbagbo se mue en avocat des planteurs](https://www.jeuneafrique.com/1770531/politique/crise-du-cacao-en-cote-divoire-a-mama-gbagbo-se-mue-en-avocat-des-planteurs/)
-- [Tuerie de Titao, au Burkina Faso : le Ghana peut-il rester à l’abri du Jnim qui sévit au Sahel ?](https://www.jeuneafrique.com/1770267/politique/tuerie-de-titao-au-burkina-faso-le-ghana-peut-il-rester-a-labri-du-jnim-qui-sevit-au-sahel/)
-- [Au Cameroun, les Mbororos, otages en sursis entre Boko Haram et l’armée](https://www.jeuneafrique.com/1765419/politique/au-cameroun-les-mbororos-otages-en-sursis-entre-boko-haram-et-larmee/)
 - [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
 - [500 Champions africains : la machine à cash relancée](https://www.jeuneafrique.com/1769102/economie-entreprises/500-champions-africains-la-machine-a-cash-relancee/)
 
