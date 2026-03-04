@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 13:47*
+*Generato: 04 Mar 2026, 15:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,6 +40,32 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
+- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
+- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
+- [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
+- [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
+- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
+- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
 
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
@@ -119,6 +145,32 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
+
+## UE – Tunisie – Projects portal (Governance)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
+
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -129,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’Iran ajourne les obsèques nationales du Guide Suprême Ali Khamenei](https://www.lapresse.tn/2026/03/04/liran-ajourne-les-obseques-nationales-du-guide-supreme-ali-khamenei/)
-- [Wael Chouchane : « la fermeture du détroit d’Ormuz n’affectera pas...](https://www.lapresse.tn/2026/03/04/wael-chouchane-la-fermeture-du-detroit-dormuz-naffectera-pas-le-petrole-et-le-gaz-en-tunisie/)
+- [Nabeul : Six marins portés disparus au large de Kélibia](https://www.lapresse.tn/2026/03/04/nabeul-six-marins-portes-disparus-au-large-de-kelibia/)
+- [Jets de pierres contre un train en banlieue sud :...](https://www.lapresse.tn/2026/03/04/jets-de-pierres-contre-un-train-en-banlieue-sud-la-sncft-contrainte-dinterrompre-une-desserte/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
 - [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
 - [Israël lance de nouvelles frappes contre l’Iran et le Liban au cinquième jour de la guerre](https://www.jeuneafrique.com/1770881/politique/israel-lance-de-nouvelles-frappes-contre-liran-et-le-liban-au-cinquieme-jour-de-la-guerre/)
 - [Au Maroc, les premiers remous de l’ère Chaouki au RNI](https://www.jeuneafrique.com/1770536/politique/au-maroc-les-premiers-remous-de-lere-chaouki-au-rni/)
+- [Au Cameroun, les Mbororos sont-ils vraiment les « mal-aimés de la République » ?](https://www.jeuneafrique.com/1765532/politique/au-cameroun-les-mbororos-sont-ils-vraiment-les-mal-aimes-de-la-republique/)
 - [Rumeurs sur l’état de santé de Mamadi Doumbouya : de Singapour à la France, le discret séjour « de repos » du président guinéen](https://www.jeuneafrique.com/1770777/politique/rumeurs-sur-letat-de-sante-de-mamadi-doumbouya-de-singapour-a-la-france-le-discret-sejour-de-repos-du-president-guineen/)
+- [Tentative de coup d’État au Bénin : 20 millions de francs CFA pour la capture de Pascal Tigri](https://www.jeuneafrique.com/1770809/politique/tentative-de-coup-detat-au-benin-20-millions-de-francs-cfa-pour-la-capture-de-pascal-tigri/)
 - [« Refonder le multilatéralisme pour un monde meilleur » : la « vision » de Macky Sall pour l’ONU](https://www.jeuneafrique.com/1770705/politique/refonder-le-multilateralisme-pour-un-monde-meilleur-la-vision-de-macky-sall-pour-lonu/)
-- [Crise du cacao en Côte d’Ivoire : à Mama, Gbagbo se mue en avocat des planteurs](https://www.jeuneafrique.com/1770531/politique/crise-du-cacao-en-cote-divoire-a-mama-gbagbo-se-mue-en-avocat-des-planteurs/)
+- [Le partenariat « RD Congo – Cœur de l’Afrique » avec l’AS Monaco au cœur d’une enquête judiciaire](https://www.jeuneafrique.com/1771008/societe/le-partenariat-rd-congo-coeur-de-lafrique-avec-las-monaco-au-coeur-dune-enquete-judiciaire/)
 - [En RDC, Tshisekedi veut encadrer davantage les réseaux sociaux](https://www.jeuneafrique.com/1770668/economie-entreprises/en-rdc-tshisekedi-veut-encadrer-davantage-les-reseaux-sociaux/)
-- [500 Champions africains : la machine à cash relancée](https://www.jeuneafrique.com/1769102/economie-entreprises/500-champions-africains-la-machine-a-cash-relancee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
