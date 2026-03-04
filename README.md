@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 04 Mar 2026, 18:31*
+*Generato: 04 Mar 2026, 21:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -145,19 +145,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
 ## UE – Tunisie – Projects portal (Governance)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -181,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [CNUCED : Un cinquième des IDE pour les data centers...](https://www.lapresse.tn/2026/03/04/cnuced-un-cinquieme-des-ide-pour-les-data-centers-en-2025/)
-- [Hors – les murs du Festival international Jean Rouch-Tunis :...](https://www.lapresse.tn/2026/03/04/hors-les-murs-du-festival-international-jean-rouch-tunis-cinema-et-sciences-sociales/)
+- [Mme Belfeguira annonce l’ouverture nocturne exceptionnelle de 18 musées et...](https://www.lapresse.tn/2026/03/04/mme-belfeguira-annonce-louverture-nocturne-exceptionnelle-de-18-musees-et-centre-culturel/)
+- [L’Iran tire un missile balistique vers la Turquie](https://www.lapresse.tn/2026/03/04/liran-tire-un-missile-balistique-vers-la-turquie/)
 
 ## NGOs – Amnesty International – Tunisia
 
