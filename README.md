@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Mar 2026, 19:04*
+*Generato: 05 Mar 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ramadan – INSSPA : Attention à la surconsommation des...](https://www.lapresse.tn/2026/03/05/ramadan-insspa-attention-a-la-surconsommation-des-produits-laitiers-et-derives/)
-- [Le ST à l’épreuve du temps : Le cycle de...](https://www.lapresse.tn/2026/03/05/le-st-a-lepreuve-du-temps-le-cycle-de-tous-les-dangers/)
+- [Téhéran se dit prêt à toute invasion](https://www.lapresse.tn/2026/03/05/teheran-se-dit-pret-a-toute-invasion/)
+- [Augmentation de capital stratégique : La BH, la STB et...](https://www.lapresse.tn/2026/03/05/augmentation-de-capital-strategique-la-bh-la-stb-et-la-bna-renforcent-la-sodek-sicar/)
 
 ## NGOs – Amnesty International – Tunisia
 
