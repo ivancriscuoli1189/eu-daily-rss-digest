@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Mar 2026, 11:25*
+*Generato: 05 Mar 2026, 12:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Voitures d’immatriculation paire : aujourd’hui, dernier délai du payement de...](https://www.lapresse.tn/2026/03/05/voitures-dimmatriculation-paire-aujourdhui-dernier-delai-du-payement-de-la-vignette/)
-- [Meloni envoie des systèmes de défense aérienne aux pays du...](https://www.lapresse.tn/2026/03/05/meloni-envoie-des-systemes-de-defense-aerienne-aux-pays-du-golfe/)
+- [Ooredoo Tunisie soutient 400 familles rurales à travers une initiative...](https://www.lapresse.tn/2026/03/05/ooredoo-tunisie-soutient-400-familles-rurales-a-travers-une-initiative-de-developpement-durable-dans-le-cadre-du-programme-tounes-t3ich/)
+- [Ligue des Champions : Espérance de Tunis vs Al Ahly...](https://www.lapresse.tn/2026/03/05/ligue-des-champions-esperance-de-tunis-vs-al-ahly-a-huis-clos/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,6 +196,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -264,7 +277,6 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [10 choses à savoir sur Ibroh Amadou, le putschiste nigérien qui a déclaré la guerre à la France](https://www.jeuneafrique.com/1768794/politique/10-choses-a-savoir-sur-ibroh-amadou-le-putschiste-nigerien-qui-a-declare-la-guerre-a-la-france/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
 - [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
@@ -272,6 +284,7 @@
 - [En Guinée, ce que l’on sait de l’enlèvement de la mère et de la sœur de l’ancien ministre Tibou Kamara](https://www.jeuneafrique.com/1771015/politique/en-guinee-ce-que-lon-sait-de-lenlevement-de-la-mere-et-de-la-soeur-de-lancien-ministre-tibou-kamara/)
 - [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
+- [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
 - [Maroc : comment Moulay Hafid Elalamy veut devenir le premier actionnaire du géant Teleperformance](https://www.jeuneafrique.com/1771239/economie-entreprises/maroc-comment-moulay-hafid-elalamy-veut-devenir-le-premier-actionnaire-du-geant-teleperformance/)
 - [Les recettes d’Imad Ghammad pour faire de Cosumar un géant sucrier connecté](https://www.jeuneafrique.com/1770872/economie-entreprises/les-recettes-dimad-ghammad-pour-faire-de-cosumar-un-geant-sucrier-connecte/)
 
