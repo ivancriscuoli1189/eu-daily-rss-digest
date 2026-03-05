@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Mar 2026, 15:38*
+*Generato: 05 Mar 2026, 19:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,8 @@
 
 ## UE – EP – Press Room
 
+- [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
+- [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260305IPR37410/press-briefing-on-next-week-s-plenary-session)
 - [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
@@ -90,13 +92,11 @@
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 - [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
-- [Ukraine: Parliament marks four years of Russia’s war with extraordinary session](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36003/ukraine-parliament-marks-four-years-of-russia-s-war-with-extraordinary-session)
-- [Violence in north-east Syria may amount to war crimes, warn MEPs](https://www.europarl.europa.eu/news/en/press-room/20260205IPR33627/violence-in-north-east-syria-may-amount-to-war-crimes-warn-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Moyen-Orient : le conflit fait basculer les Bourses arabes dans...](https://www.lapresse.tn/2026/03/05/moyen-orient-le-conflit-fait-basculer-les-bourses-arabes-dans-le-rouge/)
-- [Le taux d’inflation atteint 5 % en février](https://www.lapresse.tn/2026/03/05/le-taux-dinflation-atteint-5-en-fevrier/)
+- [Ramadan – INSSPA : Attention à la surconsommation des...](https://www.lapresse.tn/2026/03/05/ramadan-insspa-attention-a-la-surconsommation-des-produits-laitiers-et-derives/)
+- [Le ST à l’épreuve du temps : Le cycle de...](https://www.lapresse.tn/2026/03/05/le-st-a-lepreuve-du-temps-le-cycle-de-tous-les-dangers/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,18 +197,31 @@
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
+
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ Convenes Global Forum to Strengthen Non-Criminal Justice Pathways for Redress](https://www.icj.org/icj-convenes-global-forum-to-strengthen-non-criminal-justice-pathways-for-redress/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
 - [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
-- [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
 - [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
-- [Türkiye: Conviction of Kurdish lawyers is an affront to justice and undermines the independence of the legal profession](https://www.icj.org/turkiye-conviction-of-kurdish-lawyers-is-an-affront-to-justice-and-undermines-the-independence-of-the-legal-profession/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -225,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
 - [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
 - [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 - [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
@@ -234,7 +248,6 @@
 - [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
 - [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
 - [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-- [Traps and limits: Why Trump bombing Iran won’t deliver what he wants](https://ecfr.eu/article/traps-and-limits-why-trump-bombing-iran-wont-deliver-what-he-wants/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
 - [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
+- [Bénin : pourquoi Thomas Boni Yayi quitte la présidence des Démocrates](https://www.jeuneafrique.com/1771217/politique/benin-pourquoi-thomas-boni-yayi-quitte-la-presidence-des-democrates/)
 - [Oligui Nguema, le président du Gabon, nomme son frère ambassadeur en Inde](https://www.jeuneafrique.com/1770665/politique/oligui-nguema-le-president-du-gabon-nomme-son-frere-ambassadeur-en-inde/)
 - [En Guinée, ce que l’on sait de l’enlèvement de la mère et de la sœur de l’ancien ministre Tibou Kamara](https://www.jeuneafrique.com/1771015/politique/en-guinee-ce-que-lon-sait-de-lenlevement-de-la-mere-et-de-la-soeur-de-lancien-ministre-tibou-kamara/)
 - [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
-- [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
-- [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
 - [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
 - [Managem, TGCC, Attijari… Comment les « blue chips » marocaines résistent malgré la crise au Moyen-Orient](https://www.jeuneafrique.com/1771191/economie-entreprises/managem-tgcc-attijari-comment-les-blue-chips-marocaines-resistent-malgre-la-crise-au-moyen-orient/)
 
