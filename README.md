@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Mar 2026, 06:35*
+*Generato: 05 Mar 2026, 09:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -52,7 +52,7 @@
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 - [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
-- [Indicateurs de l’emploi et du chômage, troisième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-troisieme-trimestre-2025)
+- [La croissance économique au troisième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-troisieme-trimestre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Maison Blanche prétend la coopération espagnole avec l’armée américaine…...](https://www.lapresse.tn/2026/03/04/la-maison-blanche-pretend-la-cooperation-espagnole-avec-larmee-americaine-le-vrai-du-faux/)
-- [Mme Belfeguira annonce l’ouverture nocturne exceptionnelle de 18 musées et...](https://www.lapresse.tn/2026/03/04/mme-belfeguira-annonce-louverture-nocturne-exceptionnelle-de-18-musees-et-centre-culturel/)
+- [Crise au lycée Ibn Abi Dhiaf : la semaine bloquée...](https://www.lapresse.tn/2026/03/05/crise-au-lycee-ibn-abi-dhiaf-la-semaine-bloquee-reprend-apres-le-limogeage-du-directeur/)
+- [Frappes sionistes sur le Liban : le bilan s’élève à...](https://www.lapresse.tn/2026/03/05/frappes-sionistes-sur-le-liban-le-bilan-seleve-a-72-morts/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,7 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Bossembélé, Centrafrique : janvier 2014, le mois où la vie a basculé](https://www.jeuneafrique.com/1769430/politique/bossembele-centrafrique-janvier-2014-le-mois-ou-la-vie-a-bascule/)
+- [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
 - [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Force en attente de la Cedeao : 2 000 hommes pour lutter contre le jihadisme](https://www.jeuneafrique.com/1770937/politique/force-en-attente-de-la-cedeao-2-000-hommes-pour-lutter-contre-le-jihadisme/)
 - [Est de la RDC : un nouvel éboulement dans la mine de Rubaya contrôlée par le M23](https://www.jeuneafrique.com/1770883/politique/est-de-la-rdc-un-nouvel-eboulement-dans-la-mine-de-rubaya-controlee-par-le-m23/)
@@ -285,8 +285,8 @@
 - [Dans la guerre commerciale de Trump, qui gagne ? Qui perd ?](https://www.jeuneafrique.com/1770138/politique/dans-la-guerre-commerciale-de-trump-qui-gagne-qui-perd/)
 - [Au Maroc, les premiers remous de l’ère Chaouki au RNI](https://www.jeuneafrique.com/1770536/politique/au-maroc-les-premiers-remous-de-lere-chaouki-au-rni/)
 - [De l’hôtel du Golf au RHDP, comment Anne Ouloto est devenue un pilier du système Ouattara](https://www.jeuneafrique.com/1770513/politique/de-lhotel-du-golf-au-rhdp-comment-anne-ouloto-est-devenue-un-pilier-du-systeme-ouattara/)
+- [Maroc : comment Moulay Hafid Elalamy veut devenir le premier actionnaire du géant Teleperformance](https://www.jeuneafrique.com/1771239/economie-entreprises/maroc-comment-moulay-hafid-elalamy-veut-devenir-le-premier-actionnaire-du-geant-teleperformance/)
 - [Crise du cacao : la Côte d’Ivoire réduit de près de 60 % le prix d’achat aux producteurs](https://www.jeuneafrique.com/1771206/economie-entreprises/crise-du-cacao-la-cote-divoire-reduit-de-pres-de-60-le-prix-dachat-aux-producteurs/)
-- [Le partenariat « RD Congo – Cœur de l’Afrique » avec l’AS Monaco au cœur d’une enquête judiciaire](https://www.jeuneafrique.com/1771008/societe/le-partenariat-rd-congo-coeur-de-lafrique-avec-las-monaco-au-coeur-dune-enquete-judiciaire/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
