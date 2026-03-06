@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Mar 2026, 15:25*
+*Generato: 06 Mar 2026, 18:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Au Mobile World Congress : La filiale de ...](https://www.lapresse.tn/2026/03/06/au-mobile-world-congress-la-filiale-de-tunisie-telecom-mattel-obtient-le-prix-du-meilleur-reseau-mobile-en-mauritanie/)
-- [Transformation numérique en Afrique du Nord : Tunisie Telecom participe...](https://www.lapresse.tn/2026/03/06/transformation-numerique-en-afrique-du-nord-tunisie-telecom-participe-au-club-pionnier-2-0-de-transformation-numerique/)
+- [Visa étudiant : ce pays Schengen exige plus de 1...](https://www.lapresse.tn/2026/03/06/visa-etudiant-ce-pays-schengen-exige-plus-de-1-000-euros-par-mois-les-tunisiens-egalement-concernes/)
+- [Emirates reprend progressivement ses opérations et vise un retour complet...](https://www.lapresse.tn/2026/03/06/emirates-reprend-progressivement-ses-operations-et-vise-un-retour-complet-dans-les-prochains-jours/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,31 +197,18 @@
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 - [ICJ Convenes Global Forum to Strengthen Non-Criminal Justice Pathways for Redress](https://www.icj.org/icj-convenes-global-forum-to-strengthen-non-criminal-justice-pathways-for-redress/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
-- [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
-- [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : l’Américain James Swan prend la tête de la Monusco](https://www.jeuneafrique.com/1771868/politique/rdc-lamericain-james-swan-prend-la-tete-de-la-monusco/)
 - [Guerre au Soudan : les combats s’intensifient à Kordofan, épicentre du conflit](https://www.jeuneafrique.com/1771728/politique/guerre-au-soudan-les-combats-sintensifient-a-kordofan-epicentre-du-conflit/)
 - [Guerre en Iran : des Marocains pris dans la tempête régionale](https://www.jeuneafrique.com/1771281/politique/guerre-en-iran-des-marocains-pris-dans-la-tempete-regionale/)
+- [Bossembélé, Centrafrique : douze années après les massacres, vivre avec les morts](https://www.jeuneafrique.com/1769485/politique/bossembele-centrafrique-douze-annees-apres-les-massacres-vivre-avec-les-morts/)
 - [Au Bénin, l’armée confrontée à une reprise de l’offensive jihadiste dans le Nord](https://www.jeuneafrique.com/1771572/politique/au-benin-larmee-confrontee-a-une-reprise-de-loffensive-jihadiste-dans-le-nord/)
 - [Au Cameroun, Paul Biya s’apprête-t-il à modifier la Constitution ?](https://www.jeuneafrique.com/1770273/politique/au-cameroun-paul-biya-sapprete-a-modifier-la-constitution/)
 - [« J’entends les bombes tomber jour et nuit » : ces sportifs africains piégés par le conflit au Moyen-Orient](https://www.jeuneafrique.com/1771349/politique/jentends-les-bombes-tomber-jour-et-nuit-ces-sportifs-africains-pieges-par-le-conflit-au-moyen-orient/)
-- [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
-- [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
-- [RDC – André Mbata : « C’est au président Tshisekedi de convoquer un dialogue, pas à une confession religieuse »](https://www.jeuneafrique.com/1770907/politique/rdc-andre-mbata-cest-au-president-tshisekedi-de-convoquer-un-dialogue-pas-a-une-confession-religieuse/)
+- [10 choses à savoir sur Ibroh Amadou, le putschiste nigérien qui a déclaré la guerre à la France](https://www.jeuneafrique.com/1768794/politique/10-choses-a-savoir-sur-ibroh-amadou-le-putschiste-nigerien-qui-a-declare-la-guerre-a-la-france/)
 - [Niger : la junte serre à nouveau la vis aux compagnies minières et pétrolières](https://www.jeuneafrique.com/1771691/economie-entreprises/niger-la-junte-serre-a-nouveau-la-vis-aux-compagnies-minieres-et-petrolieres/)
-- [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
+- [Deal de l’année : le japonais Asahi entre en Afrique par la grande porte](https://www.jeuneafrique.com/1765116/economie-entreprises/deal-de-lannee-le-japonais-asahi-entre-en-afrique-par-la-grande-porte/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
