@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Mar 2026, 13:45*
+*Generato: 06 Mar 2026, 15:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Au Mobile World Congress : La filiale de ...](https://www.lapresse.tn/2026/03/06/au-mobile-world-congress-la-filiale-de-tunisie-telecom-mattel-obtient-le-prix-du-meilleur-reseau-mobile-en-mauritanie/)
 - [Transformation numérique en Afrique du Nord : Tunisie Telecom participe...](https://www.lapresse.tn/2026/03/06/transformation-numerique-en-afrique-du-nord-tunisie-telecom-participe-au-club-pionnier-2-0-de-transformation-numerique/)
-- [RDCongo : plus de 200 morts dans un éboulement sur...](https://www.lapresse.tn/2026/03/06/rdcongo-plus-de-200-morts-dans-un-eboulement-sur-un-site-minier/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -278,13 +278,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Guerre au Soudan : les combats s’intensifient à Kordofan, épicentre du conflit](https://www.jeuneafrique.com/1771728/politique/guerre-au-soudan-les-combats-sintensifient-a-kordofan-epicentre-du-conflit/)
+- [Guerre en Iran : des Marocains pris dans la tempête régionale](https://www.jeuneafrique.com/1771281/politique/guerre-en-iran-des-marocains-pris-dans-la-tempete-regionale/)
 - [Au Bénin, l’armée confrontée à une reprise de l’offensive jihadiste dans le Nord](https://www.jeuneafrique.com/1771572/politique/au-benin-larmee-confrontee-a-une-reprise-de-loffensive-jihadiste-dans-le-nord/)
 - [Au Cameroun, Paul Biya s’apprête-t-il à modifier la Constitution ?](https://www.jeuneafrique.com/1770273/politique/au-cameroun-paul-biya-sapprete-a-modifier-la-constitution/)
 - [« J’entends les bombes tomber jour et nuit » : ces sportifs africains piégés par le conflit au Moyen-Orient](https://www.jeuneafrique.com/1771349/politique/jentends-les-bombes-tomber-jour-et-nuit-ces-sportifs-africains-pieges-par-le-conflit-au-moyen-orient/)
 - [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
 - [RDC – André Mbata : « C’est au président Tshisekedi de convoquer un dialogue, pas à une confession religieuse »](https://www.jeuneafrique.com/1770907/politique/rdc-andre-mbata-cest-au-president-tshisekedi-de-convoquer-un-dialogue-pas-a-une-confession-religieuse/)
-- [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Niger : la junte serre à nouveau la vis aux compagnies minières et pétrolières](https://www.jeuneafrique.com/1771691/economie-entreprises/niger-la-junte-serre-a-nouveau-la-vis-aux-compagnies-minieres-et-petrolieres/)
 - [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
 
