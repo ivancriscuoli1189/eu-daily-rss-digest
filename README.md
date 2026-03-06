@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Mar 2026, 06:32*
+*Generato: 06 Mar 2026, 09:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 - [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
-- [Indice des prix à la consommation, Novembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-novembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Réclamation de l’OB contre le ST : Trois points pour...](https://www.lapresse.tn/2026/03/05/reclamation-de-lob-contre-le-st-trois-points-pour-lob/)
-- [Kébili : 112 kg de viande et 18 kg de...](https://www.lapresse.tn/2026/03/05/kebili-112-kg-de-viande-et-18-kg-de-poissons-impropres-a-la-consommation/)
+- [Sonede : une coupure d’eau prévue dans ces zones](https://www.lapresse.tn/2026/03/06/sonede-une-coupure-deau-prevue-dans-ces-zones/)
+- [La Syrie ouvre son espace aérien aux compagnies étrangères](https://www.lapresse.tn/2026/03/06/la-syrie-ouvre-son-espace-aerien-aux-compagnies-etrangeres/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Bossembélé, Centrafrique : douze années après les massacres, vivre avec les morts](https://www.jeuneafrique.com/1769485/politique/bossembele-centrafrique-douze-annees-apres-les-massacres-vivre-avec-les-morts/)
-- [« J’entends les bombes tomber jour et nuit » : ces sportifs africains piégés par le conflit au Moyen-Orient](https://www.jeuneafrique.com/1771349/politique/jentends-les-bombes-tomber-jour-et-nuit-ces-sportifs-africains-pieges-par-le-conflit-au-moyen-orient/)
+- [Au Bénin, l’armée confrontée à une reprise de l’offensive jihadiste dans le Nord](https://www.jeuneafrique.com/1771572/politique/au-benin-larmee-confrontee-a-une-reprise-de-loffensive-jihadiste-dans-le-nord/)
 - [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
+- [RDC – André Mbata : « C’est au président Tshisekedi de convoquer un dialogue, pas à une confession religieuse »](https://www.jeuneafrique.com/1770907/politique/rdc-andre-mbata-cest-au-president-tshisekedi-de-convoquer-un-dialogue-pas-a-une-confession-religieuse/)
 - [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
-- [Bénin : pourquoi Thomas Boni Yayi quitte la présidence des Démocrates](https://www.jeuneafrique.com/1771217/politique/benin-pourquoi-thomas-boni-yayi-quitte-la-presidence-des-democrates/)
-- [Oligui Nguema, le président du Gabon, nomme son frère ambassadeur en Inde](https://www.jeuneafrique.com/1770665/politique/oligui-nguema-le-president-du-gabon-nomme-son-frere-ambassadeur-en-inde/)
+- [Bossembélé, Centrafrique : janvier 2014, le mois où la vie a basculé](https://www.jeuneafrique.com/1769430/politique/bossembele-centrafrique-janvier-2014-le-mois-ou-la-vie-a-bascule/)
+- [Les sanctions américaines contre l’armée rwandaise marqueront-elles un tournant dans l’est de la RDC ?](https://www.jeuneafrique.com/1771045/politique/les-sanctions-americaines-contre-larmee-rwandaise-marqueront-elles-un-tournant-dans-lest-de-la-rdc/)
 - [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
 - [Managem, TGCC, Attijari… Comment les « blue chips » marocaines résistent malgré la crise au Moyen-Orient](https://www.jeuneafrique.com/1771191/economie-entreprises/managem-tgcc-attijari-comment-les-blue-chips-marocaines-resistent-malgre-la-crise-au-moyen-orient/)
 
