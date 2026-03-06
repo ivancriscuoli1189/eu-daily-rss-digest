@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Mar 2026, 09:26*
+*Generato: 06 Mar 2026, 11:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 - [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260305IPR37410/press-briefing-on-next-week-s-plenary-session)
 - [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
@@ -91,7 +92,6 @@
 - [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 - [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
-- [EU–US trade legislation: legislative work on hold following US Supreme Court ruling](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36005/eu-us-trade-legislation-legislative-work-on-hold-following-supreme-court-ruling)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sonede : une coupure d’eau prévue dans ces zones](https://www.lapresse.tn/2026/03/06/sonede-une-coupure-deau-prevue-dans-ces-zones/)
-- [La Syrie ouvre son espace aérien aux compagnies étrangères](https://www.lapresse.tn/2026/03/06/la-syrie-ouvre-son-espace-aerien-aux-compagnies-etrangeres/)
+- [Trois suspects impliqués dans l’assassinat de Seif al-Islam Kadhafi identifiés](https://www.lapresse.tn/2026/03/06/trois-suspects-impliques-dans-lassassinat-de-seif-al-islam-kadhafi-identifies/)
+- [Ligue 1 – 23e journée – Matches avancés : Duels...](https://www.lapresse.tn/2026/03/06/ligue-1-23e-journee-matches-avances-duels-a-distance/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,6 +196,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -264,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guerre au Soudan : les combats s’intensifient à Kordofan, épicentre du conflit](https://www.jeuneafrique.com/1771728/politique/guerre-au-soudan-les-combats-sintensifient-a-kordofan-epicentre-du-conflit/)
 - [Au Bénin, l’armée confrontée à une reprise de l’offensive jihadiste dans le Nord](https://www.jeuneafrique.com/1771572/politique/au-benin-larmee-confrontee-a-une-reprise-de-loffensive-jihadiste-dans-le-nord/)
 - [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
@@ -271,9 +285,8 @@
 - [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
 - [Bossembélé, Centrafrique : janvier 2014, le mois où la vie a basculé](https://www.jeuneafrique.com/1769430/politique/bossembele-centrafrique-janvier-2014-le-mois-ou-la-vie-a-bascule/)
-- [Les sanctions américaines contre l’armée rwandaise marqueront-elles un tournant dans l’est de la RDC ?](https://www.jeuneafrique.com/1771045/politique/les-sanctions-americaines-contre-larmee-rwandaise-marqueront-elles-un-tournant-dans-lest-de-la-rdc/)
+- [Niger : la junte serre à nouveau la vis aux compagnies minières et pétrolières](https://www.jeuneafrique.com/1771691/economie-entreprises/niger-la-junte-serre-a-nouveau-la-vis-aux-compagnies-minieres-et-petrolieres/)
 - [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
-- [Managem, TGCC, Attijari… Comment les « blue chips » marocaines résistent malgré la crise au Moyen-Orient](https://www.jeuneafrique.com/1771191/economie-entreprises/managem-tgcc-attijari-comment-les-blue-chips-marocaines-resistent-malgre-la-crise-au-moyen-orient/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
