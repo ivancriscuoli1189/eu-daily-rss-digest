@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 05 Mar 2026, 21:23*
+*Generato: 06 Mar 2026, 06:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Téhéran se dit prêt à toute invasion](https://www.lapresse.tn/2026/03/05/teheran-se-dit-pret-a-toute-invasion/)
-- [Augmentation de capital stratégique : La BH, la STB et...](https://www.lapresse.tn/2026/03/05/augmentation-de-capital-strategique-la-bh-la-stb-et-la-bna-renforcent-la-sodek-sicar/)
+- [Réclamation de l’OB contre le ST : Trois points pour...](https://www.lapresse.tn/2026/03/05/reclamation-de-lob-contre-le-st-trois-points-pour-lob/)
+- [Kébili : 112 kg de viande et 18 kg de...](https://www.lapresse.tn/2026/03/05/kebili-112-kg-de-viande-et-18-kg-de-poissons-impropres-a-la-consommation/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,19 +196,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Bossembélé, Centrafrique : douze années après les massacres, vivre avec les morts](https://www.jeuneafrique.com/1769485/politique/bossembele-centrafrique-douze-annees-apres-les-massacres-vivre-avec-les-morts/)
+- [« J’entends les bombes tomber jour et nuit » : ces sportifs africains piégés par le conflit au Moyen-Orient](https://www.jeuneafrique.com/1771349/politique/jentends-les-bombes-tomber-jour-et-nuit-ces-sportifs-africains-pieges-par-le-conflit-au-moyen-orient/)
 - [Au Maroc, le cas iranien divise](https://www.jeuneafrique.com/1771279/politique/au-maroc-le-cas-iranien-divise/)
 - [Guerre au Moyen-Orient : les derniers développements ce jeudi 5 mars](https://www.jeuneafrique.com/1771299/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-jeudi-5-mars/)
 - [Gabon : deux recours en justice contre la suspension des réseaux sociaux](https://www.jeuneafrique.com/1771289/politique/gabon-deux-recours-en-justice-contre-la-suspension-des-reseaux-sociaux/)
 - [Burundi : la journaliste Sandra Muhoza, condamnée à quatre ans de prison, a été remise en liberté provisoire](https://www.jeuneafrique.com/1771286/politique/burundi-la-journaliste-sandra-muhoza-condamnee-a-quatre-ans-de-prison-a-ete-remise-en-liberte-provisoire/)
 - [Bénin : pourquoi Thomas Boni Yayi quitte la présidence des Démocrates](https://www.jeuneafrique.com/1771217/politique/benin-pourquoi-thomas-boni-yayi-quitte-la-presidence-des-democrates/)
 - [Oligui Nguema, le président du Gabon, nomme son frère ambassadeur en Inde](https://www.jeuneafrique.com/1770665/politique/oligui-nguema-le-president-du-gabon-nomme-son-frere-ambassadeur-en-inde/)
-- [En Guinée, ce que l’on sait de l’enlèvement de la mère et de la sœur de l’ancien ministre Tibou Kamara](https://www.jeuneafrique.com/1771015/politique/en-guinee-ce-que-lon-sait-de-lenlevement-de-la-mere-et-de-la-soeur-de-lancien-ministre-tibou-kamara/)
-- [Guerre au Moyen-Orient : les réactions contrastées des pays africains face au conflit](https://www.jeuneafrique.com/1771029/politique/guerre-au-moyen-orient-les-reactions-contrastees-des-pays-africains-face-au-conflit/)
 - [Multichoice débranche sa plateforme de streaming Showmax](https://www.jeuneafrique.com/1771441/economie-entreprises/multichoice-debranche-sa-plateforme-de-streaming-showmax/)
 - [Managem, TGCC, Attijari… Comment les « blue chips » marocaines résistent malgré la crise au Moyen-Orient](https://www.jeuneafrique.com/1771191/economie-entreprises/managem-tgcc-attijari-comment-les-blue-chips-marocaines-resistent-malgre-la-crise-au-moyen-orient/)
 
