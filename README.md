@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Mar 2026, 21:18*
+*Generato: 09 Mar 2026, 06:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [De la table de famine aux banquets festifs, zoom sur...](https://www.lapresse.tn/2026/03/06/de-la-table-de-famine-aux-banquets-festifs-zoom-sur-lhistoire-exceptionnelle-de-lassida/)
-- [Ligue des Champions d’Afrique : 35 000 supporters espérantistes face...](https://www.lapresse.tn/2026/03/06/ligue-des-champions-dafrique-35-000-supporters-esperantistes-face-a-al-ahly-a-rades/)
+- [Macron appelle à une solution diplomatique face aux tensions sur...](https://www.lapresse.tn/2026/03/08/macron-appelle-a-une-solution-diplomatique-face-aux-tensions-sur-liran/)
+- [Natation avec palmes : la Tunisie décroche 3 médailles d’or...](https://www.lapresse.tn/2026/03/08/natation-avec-palmes-la-tunisie-decroche-3-medailles-dor-en-coupe-du-monde-en-italie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,19 +196,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [RDC : l’Américain James Swan prend la tête de la Monusco](https://www.jeuneafrique.com/1771868/politique/rdc-lamericain-james-swan-prend-la-tete-de-la-monusco/)
-- [Guerre au Soudan : les combats s’intensifient à Kordofan, épicentre du conflit](https://www.jeuneafrique.com/1771728/politique/guerre-au-soudan-les-combats-sintensifient-a-kordofan-epicentre-du-conflit/)
-- [Guerre en Iran : des Marocains pris dans la tempête régionale](https://www.jeuneafrique.com/1771281/politique/guerre-en-iran-des-marocains-pris-dans-la-tempete-regionale/)
-- [Bossembélé, Centrafrique : douze années après les massacres, vivre avec les morts](https://www.jeuneafrique.com/1769485/politique/bossembele-centrafrique-douze-annees-apres-les-massacres-vivre-avec-les-morts/)
-- [Au Bénin, l’armée confrontée à une reprise de l’offensive jihadiste dans le Nord](https://www.jeuneafrique.com/1771572/politique/au-benin-larmee-confrontee-a-une-reprise-de-loffensive-jihadiste-dans-le-nord/)
-- [Au Cameroun, Paul Biya s’apprête-t-il à modifier la Constitution ?](https://www.jeuneafrique.com/1770273/politique/au-cameroun-paul-biya-sapprete-a-modifier-la-constitution/)
-- [« J’entends les bombes tomber jour et nuit » : ces sportifs africains piégés par le conflit au Moyen-Orient](https://www.jeuneafrique.com/1771349/politique/jentends-les-bombes-tomber-jour-et-nuit-ces-sportifs-africains-pieges-par-le-conflit-au-moyen-orient/)
-- [10 choses à savoir sur Ibroh Amadou, le putschiste nigérien qui a déclaré la guerre à la France](https://www.jeuneafrique.com/1768794/politique/10-choses-a-savoir-sur-ibroh-amadou-le-putschiste-nigerien-qui-a-declare-la-guerre-a-la-france/)
-- [Niger : la junte serre à nouveau la vis aux compagnies minières et pétrolières](https://www.jeuneafrique.com/1771691/economie-entreprises/niger-la-junte-serre-a-nouveau-la-vis-aux-compagnies-minieres-et-petrolieres/)
-- [Deal de l’année : le japonais Asahi entre en Afrique par la grande porte](https://www.jeuneafrique.com/1765116/economie-entreprises/deal-de-lannee-le-japonais-asahi-entre-en-afrique-par-la-grande-porte/)
+- [Au Bénin, putschistes et présumés jihadistes défilent devant la Criet, une cour d’exception](https://www.jeuneafrique.com/1762331/politique/au-benin-putschistes-et-presumes-jihadistes-defilent-devant-la-criet-une-cour-dexception/)
+- [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
+- [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
+- [L’Iran choisit un successeur à Ali Khamenei](https://www.jeuneafrique.com/1772175/politique/liran-choisit-un-successeur-a-ali-khamenei/)
+- [Sénégal : les députés examineront le 11 mars un projet de durcissement de la loi contre l’homosexualité](https://www.jeuneafrique.com/1772170/politique/senegal-les-deputes-examineront-le-11-mars-un-projet-de-durcissement-de-la-loi-contre-lhomosexualite/)
+- [Le gouvernement guinéen dissout 40 partis, dont les trois plus importants d’opposition](https://www.jeuneafrique.com/1772168/politique/le-gouvernement-guineen-dissout-40-partis-dont-les-trois-plus-importants-dopposition/)
+- [Candidature de Macky Sall à l’ONU : un collectif sénégalais s’insurge](https://www.jeuneafrique.com/1772159/politique/candidature-de-macky-sall-a-lonu-un-collectif-senegalais-sinsurge/)
+- [Macky Sall candidat à l’ONU, les 500 Champions africains de l’économie, Touadéra à Moscou… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1771525/politique/macky-sall-candidat-a-lonu-les-500-champions-africains-de-leconomie-touadera-a-moscou-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [Comment l’Afrique de l’Ouest a su retrouver une saine inflation](https://www.jeuneafrique.com/1771955/economie-entreprises/comment-lafrique-de-louest-a-su-retrouver-une-saine-inflation/)
+- [Crise du cacao en Côte d’Ivoire : comment expliquer la baisse drastique du prix d’achat ?](https://www.jeuneafrique.com/1771909/economie-entreprises/crise-du-cacao-en-cote-divoire-comment-expliquer-la-baisse-drastique-du-prix-dachat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
