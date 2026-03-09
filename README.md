@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 13:57*
+*Generato: 09 Mar 2026, 15:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
 - [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37512/press-briefing-on-this-week-s-plenary-session)
 - [2027 EU budget: press conference with lead MEP on Wednesday at 15.30 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-30-cet)
@@ -91,7 +92,6 @@
 - [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
-- [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : la masse monétaire atteint 27,8 milliards de dinars, en...](https://www.lapresse.tn/2026/03/09/tunisie-la-masse-monetaire-atteint-278-milliards-de-dinars-en-hausse-de-19/)
-- [Le pétrole à son plus haut niveau depuis 2022](https://www.lapresse.tn/2026/03/09/le-petrole-a-son-plus-haut-niveau-depuis-2022/)
+- [Tunisie : l’application Najda.tn sauve plus de 2000 patients victimes de...](https://www.lapresse.tn/2026/03/09/tunisie-lapplication-najda-tn-sauve-plus-de-2000-patients-victimes-de-crises-cardiaques/)
+- [Basket : report exceptionnel du match JS Kairouan – Club...](https://www.lapresse.tn/2026/03/09/basket-report-exceptionnel-du-match-js-kairouan-club-africain-suite-a-une-contestation-arbitrale/)
 
 ## NGOs – Amnesty International – Tunisia
 
