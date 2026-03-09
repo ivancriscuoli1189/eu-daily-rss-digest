@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 15:45*
+*Generato: 09 Mar 2026, 18:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,16 +82,16 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
 - [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37512/press-briefing-on-this-week-s-plenary-session)
-- [2027 EU budget: press conference with lead MEP on Wednesday at 15.30 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-30-cet)
+- [2027 EU budget: press conference with lead MEP on Wednesday at 15.00 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-00-cet)
 - [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 - [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260305IPR37410/press-briefing-on-next-week-s-plenary-session)
 - [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
-- [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : l’application Najda.tn sauve plus de 2000 patients victimes de...](https://www.lapresse.tn/2026/03/09/tunisie-lapplication-najda-tn-sauve-plus-de-2000-patients-victimes-de-crises-cardiaques/)
-- [Basket : report exceptionnel du match JS Kairouan – Club...](https://www.lapresse.tn/2026/03/09/basket-report-exceptionnel-du-match-js-kairouan-club-africain-suite-a-une-contestation-arbitrale/)
+- [Durabilité des oasis tunisiennes : Le rôle clé mais invisible...](https://www.lapresse.tn/2026/03/09/durabilite-des-oasis-tunisiennes-le-role-cle-mais-invisible-des-femmes/)
+- [« Ramadan After Hours » à la galerie Selma Feriani...](https://www.lapresse.tn/2026/03/09/ramadan-after-hours-a-la-galerie-selma-feriani-entre-memoire-et-temporalite/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Ghana proteste à l’ONU après l’attaque de ses Casques bleus au Liban](https://www.jeuneafrique.com/1772355/politique/le-ghana-proteste-a-lonu-apres-lattaque-de-ses-casques-bleus-au-liban/)
+- [Des armes ayant appartenu à Abdelkader vont quitter la France pour l’Algérie](https://www.jeuneafrique.com/1772238/politique/des-armes-ayant-appartenu-a-abdelkader-vont-quitter-la-france-pour-lalgerie/)
 - [Niger : des tirs et des explosions entendus à Tahoua](https://www.jeuneafrique.com/1772215/politique/niger-des-tirs-et-des-explosions-entendus-a-tahoua/)
 - [Guerre au Moyen-Orient : les derniers développements au dixième jour](https://www.jeuneafrique.com/1772202/politique/guerre-au-moyen-orient-les-derniers-developpements-au-dixieme-jour/)
 - [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
 - [Pourquoi le nom de Bugeaud reste synonyme de brutalité coloniale, en France comme en Algérie](https://www.jeuneafrique.com/1770684/politique/pourquoi-le-nom-de-bugeaud-reste-synonyme-de-brutalite-coloniale-en-france-comme-en-algerie/)
 - [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
 - [Au Mali, le cercle des fidèles de l’ancien Premier ministre Choguel Maïga](https://www.jeuneafrique.com/1771338/politique/au-mali-le-cercle-des-fideles-de-lancien-premier-ministre-choguel-maiga/)
-- [L’Iran choisit un successeur à Ali Khamenei](https://www.jeuneafrique.com/1772175/politique/liran-choisit-un-successeur-a-ali-khamenei/)
-- [Sénégal : les députés examineront le 11 mars un projet de durcissement de la loi contre l’homosexualité](https://www.jeuneafrique.com/1772170/politique/senegal-les-deputes-examineront-le-11-mars-un-projet-de-durcissement-de-la-loi-contre-lhomosexualite/)
+- [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
 - [Mark-Alexandre Doumba : « Au Gabon, nous souhaitons scanner les réseaux sociaux pour contrer la désinformation »](https://www.jeuneafrique.com/1772112/economie-entreprises/mark-alexandre-doumba-au-gabon-nous-souhaitons-scanner-les-reseaux-sociaux-pour-contrer-la-desinformation/)
-- [Comment l’Afrique de l’Ouest a su retrouver une saine inflation](https://www.jeuneafrique.com/1771955/economie-entreprises/comment-lafrique-de-louest-a-su-retrouver-une-saine-inflation/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
