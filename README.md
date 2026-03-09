@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 06:45*
+*Generato: 09 Mar 2026, 09:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [2027 EU budget: press conference with lead MEP on Wednesday at 15.30 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-30-cet)
 - [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 - [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260305IPR37410/press-briefing-on-next-week-s-plenary-session)
@@ -91,7 +92,6 @@
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
 - [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
-- [MEPs endorse Andrés Ritter as the next EU Chief Prosecutor](https://www.europarl.europa.eu/news/en/press-room/20260218IPR35714/meps-endorse-andres-ritter-as-the-next-eu-chief-prosecutor)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Macron appelle à une solution diplomatique face aux tensions sur...](https://www.lapresse.tn/2026/03/08/macron-appelle-a-une-solution-diplomatique-face-aux-tensions-sur-liran/)
-- [Natation avec palmes : la Tunisie décroche 3 médailles d’or...](https://www.lapresse.tn/2026/03/08/natation-avec-palmes-la-tunisie-decroche-3-medailles-dor-en-coupe-du-monde-en-italie/)
+- [Samar Miled distinguée par le Prix Dina Sahyouni 2026 pour...](https://www.lapresse.tn/2026/03/09/samar-miled-distinguee-par-le-prix-dina-sahyouni-2026-pour-son-recueil-printemps/)
+- [Clôture de la 24e édition du Festival de la chanson...](https://www.lapresse.tn/2026/03/09/cloture-de-la-24e-edition-du-festival-de-la-chanson-tunisienne-la-chanteuse-najoua-omar-remporte-le-premier-prix/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Bénin, putschistes et présumés jihadistes défilent devant la Criet, une cour d’exception](https://www.jeuneafrique.com/1762331/politique/au-benin-putschistes-et-presumes-jihadistes-defilent-devant-la-criet-une-cour-dexception/)
+- [Guerre au Moyen-Orient : les derniers développements au dixième jour](https://www.jeuneafrique.com/1772202/politique/guerre-au-moyen-orient-les-derniers-developpements-au-dixieme-jour/)
 - [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
 - [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
 - [L’Iran choisit un successeur à Ali Khamenei](https://www.jeuneafrique.com/1772175/politique/liran-choisit-un-successeur-a-ali-khamenei/)
 - [Sénégal : les députés examineront le 11 mars un projet de durcissement de la loi contre l’homosexualité](https://www.jeuneafrique.com/1772170/politique/senegal-les-deputes-examineront-le-11-mars-un-projet-de-durcissement-de-la-loi-contre-lhomosexualite/)
 - [Le gouvernement guinéen dissout 40 partis, dont les trois plus importants d’opposition](https://www.jeuneafrique.com/1772168/politique/le-gouvernement-guineen-dissout-40-partis-dont-les-trois-plus-importants-dopposition/)
 - [Candidature de Macky Sall à l’ONU : un collectif sénégalais s’insurge](https://www.jeuneafrique.com/1772159/politique/candidature-de-macky-sall-a-lonu-un-collectif-senegalais-sinsurge/)
-- [Macky Sall candidat à l’ONU, les 500 Champions africains de l’économie, Touadéra à Moscou… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1771525/politique/macky-sall-candidat-a-lonu-les-500-champions-africains-de-leconomie-touadera-a-moscou-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [L’homosexualité « importée de l’Occident » : une réécriture de l’histoire qui a la vie dure en Afrique](https://www.jeuneafrique.com/1771085/politique/lhomosexualite-importee-de-loccident-une-reecriture-de-lhistoire-qui-a-la-vie-dure-en-afrique/)
 - [Comment l’Afrique de l’Ouest a su retrouver une saine inflation](https://www.jeuneafrique.com/1771955/economie-entreprises/comment-lafrique-de-louest-a-su-retrouver-une-saine-inflation/)
 - [Crise du cacao en Côte d’Ivoire : comment expliquer la baisse drastique du prix d’achat ?](https://www.jeuneafrique.com/1771909/economie-entreprises/crise-du-cacao-en-cote-divoire-comment-expliquer-la-baisse-drastique-du-prix-dachat/)
 
