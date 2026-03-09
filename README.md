@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 09:35*
+*Generato: 09 Mar 2026, 11:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,18 +70,20 @@
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-0)
+- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-5)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارّة الزّعفراني الزّنزري رئيسة الحكومة والسيّد عصام الأحمر وزير الشّؤون الاجتماعيّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D9%91%D8%A9-%D8%A7%D9%84%D8%B2%D9%91%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%91%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85)
+- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد الحسين ولد مدو وزير الثقافة والفنون والاتصال والعلاقات مع البرلمان والناطق باسم الحكومة الموريتانية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D9%88%D9%84%D8%AF-%D9%85%D8%AF%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع وزير الداخلية و وزير التربية و كاتب الدّولة للأمن الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
 - [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد بدر عبد العاطي وزير الخارجية والهجرة وشؤون المصريين بالخارج لجمهورية مصر العربية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A8%D8%AF%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D8%B7%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%88%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع معالي السيد أحمد عطاف وزير الدولة، وزير الشؤون الخارجية والجالية الوطنية بالخارج والشؤون الإفريقية للجمهورية الجزائرية الديمقراطية الشعبية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%85%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A3%D8%AD%D9%85%D8%AF-%D8%B9%D8%B7%D8%A7%D9%81-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%D8%8C-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9)
-- [إشراف رئيس الجمهوريّة قيس سعيّد على جلسة عمل تتعلق بالفيضانات التي شهدتها بعض جهات الجمهوريّة](http://www.carthage.tn/ar/%D8%A5%D8%B4%D8%B1%D8%A7%D9%81-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%B9%D9%84%D9%89-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B9%D9%85%D9%84-%D8%AA%D8%AA%D8%B9%D9%84%D9%82-%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%B6%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%8A-%D8%B4%D9%87%D8%AF%D8%AA%D9%87%D8%A7-%D8%A8%D8%B9%D8%B6-%D8%AC%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9)
+- [زيارة رئيس الجمهورية قيس سعيّد إلى كلّ من منطقة البحر الأزرق من معتمدية المرسى وضاحية سيدي بوسعيد](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%91-%D9%85%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-%D9%85%D9%86-%D9%85%D8%B9%D8%AA%D9%85%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%89-%D9%88%D8%B6%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%88%D8%B3%D8%B9%D9%8A%D8%AF)
 
 ## UE – EP – Press Room
 
+- [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37512/press-briefing-on-this-week-s-plenary-session)
 - [2027 EU budget: press conference with lead MEP on Wednesday at 15.30 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-30-cet)
 - [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 - [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
@@ -90,13 +92,11 @@
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Time for EU legislation to define rape based on absence of consent, say MEPs](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35907/time-for-eu-legislation-to-define-rape-based-on-absence-of-consent-say-meps)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
-- [Parliament stands firm with Ukraine four years into Russia’s full-scale invasion](https://www.europarl.europa.eu/news/en/press-room/20260223IPR36002/parliament-stands-firm-with-ukraine-four-years-into-russia-s-full-scale-invasion)
-- [Fourth anniversary of Russia’s invasion of Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260224IPR36202/fourth-anniversary-of-russia-s-invasion-of-ukraine)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Samar Miled distinguée par le Prix Dina Sahyouni 2026 pour...](https://www.lapresse.tn/2026/03/09/samar-miled-distinguee-par-le-prix-dina-sahyouni-2026-pour-son-recueil-printemps/)
-- [Clôture de la 24e édition du Festival de la chanson...](https://www.lapresse.tn/2026/03/09/cloture-de-la-24e-edition-du-festival-de-la-chanson-tunisienne-la-chanteuse-najoua-omar-remporte-le-premier-prix/)
+- [Ce jeudi à la Bibliothèque diocésaine : présentation d’un ouvrage...](https://www.lapresse.tn/2026/03/09/ce-jeudi-a-la-bibliotheque-diocesaine-presentation-dun-ouvrage-consacre-aux-discours-du-president-disparu-habib-bourguiba/)
+- [Liban : l’entité sioniste a utilisé du phosphore blanc sur...](https://www.lapresse.tn/2026/03/09/liban-lentite-sioniste-a-utilise-du-phosphore-blanc-sur-des-zones-peuplees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger : des tirs et des explosions entendus à Tahoua](https://www.jeuneafrique.com/1772215/politique/niger-des-tirs-et-des-explosions-entendus-a-tahoua/)
 - [Guerre au Moyen-Orient : les derniers développements au dixième jour](https://www.jeuneafrique.com/1772202/politique/guerre-au-moyen-orient-les-derniers-developpements-au-dixieme-jour/)
 - [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
 - [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
@@ -271,9 +272,8 @@
 - [Sénégal : les députés examineront le 11 mars un projet de durcissement de la loi contre l’homosexualité](https://www.jeuneafrique.com/1772170/politique/senegal-les-deputes-examineront-le-11-mars-un-projet-de-durcissement-de-la-loi-contre-lhomosexualite/)
 - [Le gouvernement guinéen dissout 40 partis, dont les trois plus importants d’opposition](https://www.jeuneafrique.com/1772168/politique/le-gouvernement-guineen-dissout-40-partis-dont-les-trois-plus-importants-dopposition/)
 - [Candidature de Macky Sall à l’ONU : un collectif sénégalais s’insurge](https://www.jeuneafrique.com/1772159/politique/candidature-de-macky-sall-a-lonu-un-collectif-senegalais-sinsurge/)
-- [L’homosexualité « importée de l’Occident » : une réécriture de l’histoire qui a la vie dure en Afrique](https://www.jeuneafrique.com/1771085/politique/lhomosexualite-importee-de-loccident-une-reecriture-de-lhistoire-qui-a-la-vie-dure-en-afrique/)
+- [Sénégal : EDK défie Auchan sur le terrain de la grande distribution](https://www.jeuneafrique.com/1771157/economie-entreprises/senegal-edk-defie-auchan-sur-le-terrain-de-la-grande-distribution/)
 - [Comment l’Afrique de l’Ouest a su retrouver une saine inflation](https://www.jeuneafrique.com/1771955/economie-entreprises/comment-lafrique-de-louest-a-su-retrouver-une-saine-inflation/)
-- [Crise du cacao en Côte d’Ivoire : comment expliquer la baisse drastique du prix d’achat ?](https://www.jeuneafrique.com/1771909/economie-entreprises/crise-du-cacao-en-cote-divoire-comment-expliquer-la-baisse-drastique-du-prix-dachat/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
