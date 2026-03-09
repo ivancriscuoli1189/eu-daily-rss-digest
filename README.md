@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 12:31*
+*Generato: 09 Mar 2026, 13:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ligue 1 – 23e journée – ST-ESS (1-1) : A...](https://www.lapresse.tn/2026/03/09/ligue-1-23e-journee-st-ess-1-1-a-chacun-sa-mi-temps/)
-- [Tunisie Autoroutes : le péage passe au tout numérique avec...](https://www.lapresse.tn/2026/03/09/tunisie-autoroutes-le-peage-passe-au-tout-numerique-avec-lapplication-d17/)
+- [Tunisie : la masse monétaire atteint 27,8 milliards de dinars, en...](https://www.lapresse.tn/2026/03/09/tunisie-la-masse-monetaire-atteint-278-milliards-de-dinars-en-hausse-de-19/)
+- [Le pétrole à son plus haut niveau depuis 2022](https://www.lapresse.tn/2026/03/09/le-petrole-a-son-plus-haut-niveau-depuis-2022/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -280,11 +280,11 @@
 - [Niger : des tirs et des explosions entendus à Tahoua](https://www.jeuneafrique.com/1772215/politique/niger-des-tirs-et-des-explosions-entendus-a-tahoua/)
 - [Guerre au Moyen-Orient : les derniers développements au dixième jour](https://www.jeuneafrique.com/1772202/politique/guerre-au-moyen-orient-les-derniers-developpements-au-dixieme-jour/)
 - [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
+- [Pourquoi le nom de Bugeaud reste synonyme de brutalité coloniale, en France comme en Algérie](https://www.jeuneafrique.com/1770684/politique/pourquoi-le-nom-de-bugeaud-reste-synonyme-de-brutalite-coloniale-en-france-comme-en-algerie/)
 - [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
 - [Au Mali, le cercle des fidèles de l’ancien Premier ministre Choguel Maïga](https://www.jeuneafrique.com/1771338/politique/au-mali-le-cercle-des-fideles-de-lancien-premier-ministre-choguel-maiga/)
 - [L’Iran choisit un successeur à Ali Khamenei](https://www.jeuneafrique.com/1772175/politique/liran-choisit-un-successeur-a-ali-khamenei/)
 - [Sénégal : les députés examineront le 11 mars un projet de durcissement de la loi contre l’homosexualité](https://www.jeuneafrique.com/1772170/politique/senegal-les-deputes-examineront-le-11-mars-un-projet-de-durcissement-de-la-loi-contre-lhomosexualite/)
-- [Le gouvernement guinéen dissout 40 partis, dont les trois plus importants d’opposition](https://www.jeuneafrique.com/1772168/politique/le-gouvernement-guineen-dissout-40-partis-dont-les-trois-plus-importants-dopposition/)
 - [Mark-Alexandre Doumba : « Au Gabon, nous souhaitons scanner les réseaux sociaux pour contrer la désinformation »](https://www.jeuneafrique.com/1772112/economie-entreprises/mark-alexandre-doumba-au-gabon-nous-souhaitons-scanner-les-reseaux-sociaux-pour-contrer-la-desinformation/)
 - [Comment l’Afrique de l’Ouest a su retrouver une saine inflation](https://www.jeuneafrique.com/1771955/economie-entreprises/comment-lafrique-de-louest-a-su-retrouver-une-saine-inflation/)
 
