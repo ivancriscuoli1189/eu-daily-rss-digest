@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Mar 2026, 21:21*
+*Generato: 10 Mar 2026, 06:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – Press Room
 
-- [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [Migration: the Civil Liberties Committee adopts a reform of EU return rules](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37702/migration-the-civil-liberties-committee-adopts-a-reform-of-eu-return-rules)
+- [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
 - [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37512/press-briefing-on-this-week-s-plenary-session)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [New York Times : le prix du pétrole chute à...](https://www.lapresse.tn/2026/03/09/new-york-times-le-prix-du-petrole-chute-a-88-dollars-le-baril-apres-les-declarations-de-trump-sur-la-fin-quasi-totale-de-la-guerre/)
-- [Trump dit que la guerre contre l’Iran est “presque terminée”...](https://www.lapresse.tn/2026/03/09/trump-dit-que-la-guerre-contre-liran-est-presque-terminee-quelle-realite-geopolitique/)
+- [Algériens bloqués à Dubaï : Emirates relance des vols vers...](https://www.lapresse.tn/2026/03/09/algeriens-bloques-a-dubai-emirates-relance-des-vols-vers-tunis-et-casablanca-mais-pas-vers-alger/)
+- [France : le CTMF annonce officiellement la date de l’Aïd el‑Fitr...](https://www.lapresse.tn/2026/03/09/france-le-ctmf-annonce-officiellement-la-date-de-laid-el-fitr-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
