@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Mar 2026, 13:53*
+*Generato: 10 Mar 2026, 15:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -119,19 +119,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
-
 ## UE – DG HOME – News
 
 - [bg български](https://home-affairs.ec.europa.eu/news_bg)
@@ -181,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Dattes : hausse de 16,8 % des exportations](https://www.lapresse.tn/2026/03/10/dattes-hausse-de-168-des-exportations/)
-- [Marché de gros de Bir El Kassaa : L’essentiel des...](https://www.lapresse.tn/2026/03/10/marche-de-gros-de-bir-el-kassaa-lessentiel-des-produits-disponible-en-quantites-suffisantes-selon-le-pdg/)
+- [La plus grande raffinerie du Moyen-Orient fermée par précaution après...](https://www.lapresse.tn/2026/03/10/la-plus-grande-raffinerie-du-moyen-orient-fermee-par-precaution-apres-une-attaque-de-drone-a-abou-dhabi/)
+- [Volley-Nationale A (14e J Play-offs): La FTVB décide de faire...](https://www.lapresse.tn/2026/03/10/volley-nationale-a-14e-j-play-offs-la-ftvb-decide-de-faire-rejouer-le-clasico-ess-est/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
 - [En Algérie, l’exigence d’excuses disparaît de la loi criminalisant le colonialisme](https://www.jeuneafrique.com/1772505/politique/en-algerie-lexigence-dexcuses-disparait-de-la-loi-criminalisant-le-colonialisme/)
 - [Centrafrique : un employé français de Médecins Sans Frontières arrêté et soupçonné de « déstabilisation »](https://www.jeuneafrique.com/1772516/politique/centrafrique-un-employe-francais-de-medecins-sans-frontieres-arrete-et-soupconne-de-destabilisation/)
 - [Guerre au Moyen-Orient : les derniers développements ce 10 mars](https://www.jeuneafrique.com/1772526/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-10-mars/)
@@ -284,7 +272,6 @@
 - [Afrique du Sud : chez les Zuma, on fait de la politique en famille](https://www.jeuneafrique.com/1772326/politique/afrique-du-sud-chez-les-zuma-on-fait-de-la-politique-en-famille/)
 - [Le Ghana proteste à l’ONU après l’attaque de ses Casques bleus au Liban](https://www.jeuneafrique.com/1772355/politique/le-ghana-proteste-a-lonu-apres-lattaque-de-ses-casques-bleus-au-liban/)
 - [Des armes ayant appartenu à Abdelkader vont quitter la France pour l’Algérie](https://www.jeuneafrique.com/1772238/politique/des-armes-ayant-appartenu-a-abdelkader-vont-quitter-la-france-pour-lalgerie/)
-- [Niger : des tirs et des explosions entendus à Tahoua](https://www.jeuneafrique.com/1772215/politique/niger-des-tirs-et-des-explosions-entendus-a-tahoua/)
 - [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
 - [Sénégal : EDK défie Auchan sur le terrain de la grande distribution](https://www.jeuneafrique.com/1771157/economie-entreprises/senegal-edk-defie-auchan-sur-le-terrain-de-la-grande-distribution/)
 
