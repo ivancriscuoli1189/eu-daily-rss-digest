@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Mar 2026, 15:47*
+*Generato: 10 Mar 2026, 18:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -118,6 +118,19 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La plus grande raffinerie du Moyen-Orient fermée par précaution après...](https://www.lapresse.tn/2026/03/10/la-plus-grande-raffinerie-du-moyen-orient-fermee-par-precaution-apres-une-attaque-de-drone-a-abou-dhabi/)
-- [Volley-Nationale A (14e J Play-offs): La FTVB décide de faire...](https://www.lapresse.tn/2026/03/10/volley-nationale-a-14e-j-play-offs-la-ftvb-decide-de-faire-rejouer-le-clasico-ess-est/)
+- [Ligue des champions – L’EST acceuillera Al Ahly ce dimanche...](https://www.lapresse.tn/2026/03/10/ligue-des-champions-lest-acceuillera-al-ahly-ce-dimanche-22h00-yan-sasse-le-retour-attendu/)
+- [Crise du logement en Tunisie – les jeunes ne rêvent...](https://www.lapresse.tn/2026/03/10/crise-du-logement-en-tunisie-les-jeunes-ne-revent-plus-de-devenir-proprietaires-les-desiderata-ont-change/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,19 +196,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
 - [En Algérie, l’exigence d’excuses disparaît de la loi criminalisant le colonialisme](https://www.jeuneafrique.com/1772505/politique/en-algerie-lexigence-dexcuses-disparait-de-la-loi-criminalisant-le-colonialisme/)
 - [Centrafrique : un employé français de Médecins Sans Frontières arrêté et soupçonné de « déstabilisation »](https://www.jeuneafrique.com/1772516/politique/centrafrique-un-employe-francais-de-medecins-sans-frontieres-arrete-et-soupconne-de-destabilisation/)
@@ -271,9 +272,8 @@
 - [L’opposant guinéen Tibou Kamara annonce la libération de sa mère et sa sœur](https://www.jeuneafrique.com/1772511/politique/lopposant-guineen-tibou-kamara-annonce-la-liberation-de-sa-mere-et-sa-soeur/)
 - [Afrique du Sud : chez les Zuma, on fait de la politique en famille](https://www.jeuneafrique.com/1772326/politique/afrique-du-sud-chez-les-zuma-on-fait-de-la-politique-en-famille/)
 - [Le Ghana proteste à l’ONU après l’attaque de ses Casques bleus au Liban](https://www.jeuneafrique.com/1772355/politique/le-ghana-proteste-a-lonu-apres-lattaque-de-ses-casques-bleus-au-liban/)
-- [Des armes ayant appartenu à Abdelkader vont quitter la France pour l’Algérie](https://www.jeuneafrique.com/1772238/politique/des-armes-ayant-appartenu-a-abdelkader-vont-quitter-la-france-pour-lalgerie/)
+- [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
 - [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
-- [Sénégal : EDK défie Auchan sur le terrain de la grande distribution](https://www.jeuneafrique.com/1771157/economie-entreprises/senegal-edk-defie-auchan-sur-le-terrain-de-la-grande-distribution/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
