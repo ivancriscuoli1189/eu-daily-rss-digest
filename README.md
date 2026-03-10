@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Mar 2026, 06:33*
+*Generato: 10 Mar 2026, 09:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37514/ep-today)
 - [Migration: the Civil Liberties Committee adopts a reform of EU return rules](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37702/migration-the-civil-liberties-committee-adopts-a-reform-of-eu-return-rules)
 - [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
@@ -91,12 +92,11 @@
 - [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 - [Deal on measures to reinforce farmers’ position in the food supply chain](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36912/deal-on-measures-to-reinforce-farmers-position-in-the-food-supply-chain)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260305IPR37410/press-briefing-on-next-week-s-plenary-session)
-- [International Women’s Day: women’s rights and democracy in the digital age](https://www.europarl.europa.eu/news/en/press-room/20260302IPR36903/international-women-s-day-women-s-rights-and-democracy-in-the-digital-age)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Algériens bloqués à Dubaï : Emirates relance des vols vers...](https://www.lapresse.tn/2026/03/09/algeriens-bloques-a-dubai-emirates-relance-des-vols-vers-tunis-et-casablanca-mais-pas-vers-alger/)
-- [France : le CTMF annonce officiellement la date de l’Aïd el‑Fitr...](https://www.lapresse.tn/2026/03/09/france-le-ctmf-annonce-officiellement-la-date-de-laid-el-fitr-2026/)
+- [14 % des enfants entre 13 et 15 ans fument...](https://www.lapresse.tn/2026/03/10/14-des-enfants-entre-13-et-15-ans-fument-en-tunisie-certains-des-lage-de-7-ans/)
+- [Ligue des champions : l’Espérance ouvre partiellement ses entraînements avant...](https://www.lapresse.tn/2026/03/10/ligue-des-champions-lesperance-ouvre-partiellement-ses-entrainements-avant-daffronter-al-ahly/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -213,15 +213,15 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
-- [ICJ Convenes Global Forum to Strengthen Non-Criminal Justice Pathways for Redress](https://www.icj.org/icj-convenes-global-forum-to-strengthen-non-criminal-justice-pathways-for-redress/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
+- [South Sudan: Extend UN Investigations Amid Deteriorating Human Rights Crisis](https://www.icj.org/south-sudan-extend-un-investigations-amid-deteriorating-human-rights-crisis/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
-- [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 - [EU: ICJ publishes strategic litigation guide on children and immigration detention](https://www.icj.org/eu-icj-publishes-strategic-litigation-guide-on-children-and-immigration-detention/)
+- [Myanmar: Five years after the coup “justice system” remains an instrument of repression](https://www.icj.org/myanmar-five-years-after-the-coup-justice-system-remains-an-instrument-of-repression/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -277,19 +277,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Centrafrique : un employé français de Médecins Sans Frontières arrêté et soupçonné de « déstabilisation »](https://www.jeuneafrique.com/1772516/politique/centrafrique-un-employe-francais-de-medecins-sans-frontieres-arrete-et-soupconne-de-destabilisation/)
+- [Guerre au Moyen-Orient : les derniers développements ce 10 mars](https://www.jeuneafrique.com/1772526/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-10-mars/)
+- [L’opposant guinéen Tibou Kamara annonce la libération de sa mère et sa sœur](https://www.jeuneafrique.com/1772511/politique/lopposant-guineen-tibou-kamara-annonce-la-liberation-de-sa-mere-et-sa-soeur/)
+- [Afrique du Sud : chez les Zuma, on fait de la politique en famille](https://www.jeuneafrique.com/1772326/politique/afrique-du-sud-chez-les-zuma-on-fait-de-la-politique-en-famille/)
 - [Le Ghana proteste à l’ONU après l’attaque de ses Casques bleus au Liban](https://www.jeuneafrique.com/1772355/politique/le-ghana-proteste-a-lonu-apres-lattaque-de-ses-casques-bleus-au-liban/)
 - [Des armes ayant appartenu à Abdelkader vont quitter la France pour l’Algérie](https://www.jeuneafrique.com/1772238/politique/des-armes-ayant-appartenu-a-abdelkader-vont-quitter-la-france-pour-lalgerie/)
 - [Niger : des tirs et des explosions entendus à Tahoua](https://www.jeuneafrique.com/1772215/politique/niger-des-tirs-et-des-explosions-entendus-a-tahoua/)
 - [Guerre au Moyen-Orient : les derniers développements au dixième jour](https://www.jeuneafrique.com/1772202/politique/guerre-au-moyen-orient-les-derniers-developpements-au-dixieme-jour/)
-- [Au Soudan, une frappe de drones fait 33 morts sur des marchés du Kordofan](https://www.jeuneafrique.com/1772189/politique/au-soudan-une-frappe-de-drones-fait-33-morts-sur-des-marches-du-kordofan/)
-- [Pourquoi le nom de Bugeaud reste synonyme de brutalité coloniale, en France comme en Algérie](https://www.jeuneafrique.com/1770684/politique/pourquoi-le-nom-de-bugeaud-reste-synonyme-de-brutalite-coloniale-en-france-comme-en-algerie/)
-- [Pour le chef de la Ligue arabe, les attaques de l’Iran sur ses voisins sont « irresponsables »](https://www.jeuneafrique.com/1772183/politique/pour-le-chef-de-la-ligue-arabe-les-attaques-de-liran-sur-ses-voisins-sont-irresponsables/)
-- [Au Mali, le cercle des fidèles de l’ancien Premier ministre Choguel Maïga](https://www.jeuneafrique.com/1771338/politique/au-mali-le-cercle-des-fideles-de-lancien-premier-ministre-choguel-maiga/)
 - [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
-- [Mark-Alexandre Doumba : « Au Gabon, nous souhaitons scanner les réseaux sociaux pour contrer la désinformation »](https://www.jeuneafrique.com/1772112/economie-entreprises/mark-alexandre-doumba-au-gabon-nous-souhaitons-scanner-les-reseaux-sociaux-pour-contrer-la-desinformation/)
+- [Pourquoi les fintech se rapprochent des banques en Afrique de l’Ouest](https://www.jeuneafrique.com/1769443/economie-entreprises/pourquoi-les-fintech-se-rapprochent-des-banques-en-afrique-de-louest/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
@@ -299,4 +300,3 @@
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
 - [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
-- [Il Sahel alla radice del Mar Mediterraneo](https://www.limesonline.com/rubriche/mappe-parlanti/il-sahel-alla-radice-del-mar-mediterraneo-20584603/)
