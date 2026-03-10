@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Mar 2026, 12:30*
+*Generato: 10 Mar 2026, 13:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,9 @@
 
 ## UE – EP – Press Room
 
+- [International Women’s Day: call to act against cyberbullying](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37521/international-women-s-day-call-to-act-against-cyberbullying)
+- [Tax incentives, renovation and less red tape to tackle the EU’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37522/tax-incentives-renovation-and-less-red-tape-to-tackle-the-eu-s-housing-crisis)
+- [Protecting copyrighted work and the EU’s creative sector in the age of AI](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37511/protecting-copyrighted-work-and-the-eu-s-creative-sector-in-the-age-of-ai)
 - [Parliament approves nomination of Boris Vujčić as Vice President of the ECB](https://www.europarl.europa.eu/news/en/press-room/20260310IPR37809/parliament-approves-nomination-of-boris-vujcic-as-vice-president-of-the-ecb)
 - [President Metsola announces first laureates of the European Order of Merit](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37520/president-metsola-announces-first-laureates-of-the-european-order-of-merit)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37514/ep-today)
@@ -89,14 +92,11 @@
 - [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
 - [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37512/press-briefing-on-this-week-s-plenary-session)
-- [2027 EU budget: press conference with lead MEP on Wednesday at 15.00 CET](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37504/2027-eu-budget-press-conference-with-lead-mep-on-wednesday-at-15-00-cet)
-- [Press conference: protection of copyright in the age of artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260303IPR37004/press-conference-protection-of-copyright-in-the-age-of-artificial-intelligence)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Santé animale : appel à la vaccination massive du cheptel...](https://www.lapresse.tn/2026/03/10/sante-animale-appel-a-la-vaccination-massive-du-cheptel-national/)
-- [Guerre au Moyen-Orient : la hausse des prix menace d’aggraver...](https://www.lapresse.tn/2026/03/10/guerre-au-moyen-orient-la-hausse-des-prix-menace-daggraver-la-faim-dans-le-monde-onu/)
+- [Dattes : hausse de 16,8 % des exportations](https://www.lapresse.tn/2026/03/10/dattes-hausse-de-168-des-exportations/)
+- [Marché de gros de Bir El Kassaa : L’essentiel des...](https://www.lapresse.tn/2026/03/10/marche-de-gros-de-bir-el-kassaa-lessentiel-des-produits-disponible-en-quantites-suffisantes-selon-le-pdg/)
 
 ## NGOs – Amnesty International – Tunisia
 
