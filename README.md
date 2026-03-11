@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 09:31*
+*Generato: 11 Mar 2026, 11:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37515/ep-today)
 - [International Women’s Day: call to act against cyberbullying](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37521/international-women-s-day-call-to-act-against-cyberbullying)
 - [Tax incentives, renovation and less red tape to tackle the EU’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37522/tax-incentives-renovation-and-less-red-tape-to-tackle-the-eu-s-housing-crisis)
@@ -91,12 +92,11 @@
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37514/ep-today)
 - [Migration: the Civil Liberties Committee adopts a reform of EU return rules](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37702/migration-the-civil-liberties-committee-adopts-a-reform-of-eu-return-rules)
 - [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Dubaï : chute de deux drones près de l’aéroport international](https://www.lapresse.tn/2026/03/11/dubai-chute-de-deux-drones-pres-de-laeroport-international/)
-- [Un projectile d’origine inconnue frappe un navire de fret au...](https://www.lapresse.tn/2026/03/11/un-projectile-dorigine-inconnue-frappe-un-navire-de-fret-au-large-de-dubai/)
+- [Prix du baril de Brent : un bond de plus...](https://www.lapresse.tn/2026/03/11/prix-du-baril-de-brent-un-bond-de-plus-de-5-face-aux-tensions-au-moyen-orient/)
+- [Iran : Le nouveau Guide Suprême se porte bien en...](https://www.lapresse.tn/2026/03/11/iran-le-nouveau-guide-supreme-se-porte-bien-en-depit-de-sa-blessure-de-guerre/)
 
 ## NGOs – Amnesty International – Tunisia
 
