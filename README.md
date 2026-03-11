@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 11:24*
+*Generato: 11 Mar 2026, 12:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,21 +82,21 @@
 
 ## UE – EP – Press Room
 
+- [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
+- [A new agreement for relations between Parliament and the Commission](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37528/a-new-agreement-for-relations-between-parliament-and-the-commission)
+- [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
+- [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
+- [Child sexual abuse online: support for extending voluntary rules until August 2027](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37531/child-sexual-abuse-online-support-for-extending-rules-until-august-2027)
+- [€1.6 million in EU support to help Belgian workers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37510/EU1-6-million-in-eu-support-to-help-belgian-workers)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37515/ep-today)
 - [International Women’s Day: call to act against cyberbullying](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37521/international-women-s-day-call-to-act-against-cyberbullying)
 - [Tax incentives, renovation and less red tape to tackle the EU’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37522/tax-incentives-renovation-and-less-red-tape-to-tackle-the-eu-s-housing-crisis)
-- [Protecting copyrighted work and the EU’s creative sector in the age of AI](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37511/protecting-copyrighted-work-and-the-eu-s-creative-sector-in-the-age-of-ai)
-- [Parliament approves nomination of Boris Vujčić as Vice President of the ECB](https://www.europarl.europa.eu/news/en/press-room/20260310IPR37809/parliament-approves-nomination-of-boris-vujcic-as-vice-president-of-the-ecb)
-- [President Metsola announces first laureates of the European Order of Merit](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37520/president-metsola-announces-first-laureates-of-the-european-order-of-merit)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37514/ep-today)
-- [Migration: the Civil Liberties Committee adopts a reform of EU return rules](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37702/migration-the-civil-liberties-committee-adopts-a-reform-of-eu-return-rules)
-- [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Prix du baril de Brent : un bond de plus...](https://www.lapresse.tn/2026/03/11/prix-du-baril-de-brent-un-bond-de-plus-de-5-face-aux-tensions-au-moyen-orient/)
-- [Iran : Le nouveau Guide Suprême se porte bien en...](https://www.lapresse.tn/2026/03/11/iran-le-nouveau-guide-supreme-se-porte-bien-en-depit-de-sa-blessure-de-guerre/)
+- [“Biben L’Mdina” revient dans la médina de Tunis du 12...](https://www.lapresse.tn/2026/03/11/biben-lmdina-revient-dans-la-medina-de-tunis-du-12-au-15-mars/)
+- [Pénurie d’engrais : la filière tomate tire la sonnette d’alarme...](https://www.lapresse.tn/2026/03/11/penurie-dengrais-la-filiere-tomate-tire-la-sonnette-dalarme-a-nabeul/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,19 +236,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
-- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
-- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
-- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
-- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
-- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
-- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
-- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
-- [Selling peace to Trump: How Europe can prevent the next Middle East war](https://ecfr.eu/article/selling-peace-to-trump-how-europe-can-prevent-the-next-middle-east-war/)
-- [Power struggle: What the Saudi-UAE rivalry means for the Red Sea—and Europe](https://ecfr.eu/article/power-struggle-what-the-saudi-uae-rivalry-means-for-the-red-sea-and-europe/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
@@ -279,14 +266,14 @@
 
 - [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
 - [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
+- [RDC : frappes aériennes sur Goma, au moins un mort](https://www.jeuneafrique.com/1772923/politique/rdc-frappes-aeriennes-sur-goma-au-moins-un-mort/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
+- [Force en attente de la Cedeao : cinq questions pour comprendre pourquoi le projet tarde à se concrétiser](https://www.jeuneafrique.com/1772507/politique/force-en-attente-de-la-cedeao-cinq-questions-pour-comprendre-pourquoi-le-projet-tarde-a-se-concretiser/)
 - [En Algérie, l’exigence d’excuses disparaît de la loi criminalisant le colonialisme](https://www.jeuneafrique.com/1772505/politique/en-algerie-lexigence-dexcuses-disparait-de-la-loi-criminalisant-le-colonialisme/)
 - [Centrafrique : un employé français de Médecins Sans Frontières arrêté et soupçonné de « déstabilisation »](https://www.jeuneafrique.com/1772516/politique/centrafrique-un-employe-francais-de-medecins-sans-frontieres-arrete-et-soupconne-de-destabilisation/)
-- [Guerre au Moyen-Orient : les derniers développements ce 10 mars](https://www.jeuneafrique.com/1772526/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-10-mars/)
-- [L’opposant guinéen Tibou Kamara annonce la libération de sa mère et sa sœur](https://www.jeuneafrique.com/1772511/politique/lopposant-guineen-tibou-kamara-annonce-la-liberation-de-sa-mere-et-sa-soeur/)
+- [Casablanca, nouveau laboratoire de la finance africaine haut de gamme ?](https://www.jeuneafrique.com/1769594/economie-entreprises/casablanca-nouveau-laboratoire-de-la-finance-africaine-haut-de-gamme/)
 - [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
-- [Guerre au Moyen-Orient : les compagnies aériennes africaines prises au piège des hubs du Golfe](https://www.jeuneafrique.com/1771799/economie-entreprises/guerre-au-moyen-orient-les-compagnies-aeriennes-africaines-prises-au-piege-des-hubs-du-golfe/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
