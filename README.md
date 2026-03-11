@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 13:57*
+*Generato: 11 Mar 2026, 15:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Autoroutes : travaux de maintenance et renforcement sur les axes...](https://www.lapresse.tn/2026/03/11/autoroutes-travaux-de-maintenance-et-renforcement-sur-les-axes-a1-et-a4/)
-- [L’Iran prévoit un baril de pétrole à 200 dollars et...](https://www.lapresse.tn/2026/03/11/liran-prevoit-un-baril-de-petrole-a-200-dollars-et-menace-de-frappes-continues/)
+- [La Tunisie se prépare au Rendez-vous d’affaires de la Francophonie...](https://www.lapresse.tn/2026/03/11/la-tunisie-se-prepare-au-rendez-vous-daffaires-de-la-francophonie-2026-a-quebec/)
+- [Tenue pour l’Aïd al-Fitr : les magasins de fripe...](https://www.lapresse.tn/2026/03/11/tenue-pour-laid-al-fitr-les-magasins-de-fripe-seduisent-toutes-les-categories-sociales/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sahara occidental : l’ancien émissaire onusien Christopher Ross sort de son silence](https://www.jeuneafrique.com/1772895/politique/sahara-occidental-lancien-emissaire-onusien-christopher-ross-sort-de-son-silence/)
 - [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
 - [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
 - [RDC : frappes aériennes sur Goma, au moins un mort](https://www.jeuneafrique.com/1772923/politique/rdc-frappes-aeriennes-sur-goma-au-moins-un-mort/)
@@ -284,7 +285,6 @@
 - [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
-- [Force en attente de la Cedeao : cinq questions pour comprendre pourquoi le projet tarde à se concrétiser](https://www.jeuneafrique.com/1772507/politique/force-en-attente-de-la-cedeao-cinq-questions-pour-comprendre-pourquoi-le-projet-tarde-a-se-concretiser/)
 - [Casablanca, nouveau laboratoire de la finance africaine haut de gamme ?](https://www.jeuneafrique.com/1769594/economie-entreprises/casablanca-nouveau-laboratoire-de-la-finance-africaine-haut-de-gamme/)
 - [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
 
