@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Mar 2026, 21:20*
+*Generato: 11 Mar 2026, 06:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le nombre des soldats américains blessés s’élève à 150 jusqu’à...](https://www.lapresse.tn/2026/03/10/environ-140-soldats-americains-blesses-lors-des-frappes-americano-sioniste-contre-liran/)
-- [Nafaâ Baccari, DG de l’Agence nationale pour la maîtrise de...](https://www.lapresse.tn/2026/03/10/nafaa-baccari-dg-de-lagence-nationale-pour-la-maitrise-de-lenergie-a-la-presse-lelectrification-des-transports-nest-pas-un-choix-mais-une-necessite/)
+- [Le Fricassé tunisien : quand une vraie gourmandise jaillit d’un...](https://www.lapresse.tn/2026/03/10/le-fricasse-tunisien-quand-une-vraie-gourmandise-jaillit-dun-pur-hasard/)
+- [TUI choisit la Tunisie pour ses prochains grands projets touristiques](https://www.lapresse.tn/2026/03/10/tui-choisit-la-tunisie-pour-ses-prochains-grands-projets-touristiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Présidentielle au Congo : ces opposants qui rêvent de créer la surprise face à Denis Sassou Nguesso](https://www.jeuneafrique.com/1772547/politique/presidentielle-au-congo-ces-opposants-qui-revent-de-creer-la-surprise-face-a-denis-sassou-nguesso/)
+- [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
 - [En Algérie, l’exigence d’excuses disparaît de la loi criminalisant le colonialisme](https://www.jeuneafrique.com/1772505/politique/en-algerie-lexigence-dexcuses-disparait-de-la-loi-criminalisant-le-colonialisme/)
 - [Centrafrique : un employé français de Médecins Sans Frontières arrêté et soupçonné de « déstabilisation »](https://www.jeuneafrique.com/1772516/politique/centrafrique-un-employe-francais-de-medecins-sans-frontieres-arrete-et-soupconne-de-destabilisation/)
 - [Guerre au Moyen-Orient : les derniers développements ce 10 mars](https://www.jeuneafrique.com/1772526/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-10-mars/)
 - [L’opposant guinéen Tibou Kamara annonce la libération de sa mère et sa sœur](https://www.jeuneafrique.com/1772511/politique/lopposant-guineen-tibou-kamara-annonce-la-liberation-de-sa-mere-et-sa-soeur/)
-- [Afrique du Sud : chez les Zuma, on fait de la politique en famille](https://www.jeuneafrique.com/1772326/politique/afrique-du-sud-chez-les-zuma-on-fait-de-la-politique-en-famille/)
-- [Le Ghana proteste à l’ONU après l’attaque de ses Casques bleus au Liban](https://www.jeuneafrique.com/1772355/politique/le-ghana-proteste-a-lonu-apres-lattaque-de-ses-casques-bleus-au-liban/)
 - [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
 - [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
 
