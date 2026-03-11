@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 06:36*
+*Generato: 11 Mar 2026, 09:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37515/ep-today)
 - [International Women’s Day: call to act against cyberbullying](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37521/international-women-s-day-call-to-act-against-cyberbullying)
 - [Tax incentives, renovation and less red tape to tackle the EU’s housing crisis](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37522/tax-incentives-renovation-and-less-red-tape-to-tackle-the-eu-s-housing-crisis)
 - [Protecting copyrighted work and the EU’s creative sector in the age of AI](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37511/protecting-copyrighted-work-and-the-eu-s-creative-sector-in-the-age-of-ai)
@@ -91,12 +92,11 @@
 - [Migration: the Civil Liberties Committee adopts a reform of EU return rules](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37702/migration-the-civil-liberties-committee-adopts-a-reform-of-eu-return-rules)
 - [Opening: 9-12 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37517/opening-9-12-march-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37513/ep-today)
-- [Housing crisis in the EU: press conference with lead MEP and chair on Tuesday](https://www.europarl.europa.eu/news/en/press-room/20260309IPR37703/housing-crisis-in-the-eu-press-conference-with-lead-mep-and-chair-on-tuesday)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le Fricassé tunisien : quand une vraie gourmandise jaillit d’un...](https://www.lapresse.tn/2026/03/10/le-fricasse-tunisien-quand-une-vraie-gourmandise-jaillit-dun-pur-hasard/)
-- [TUI choisit la Tunisie pour ses prochains grands projets touristiques](https://www.lapresse.tn/2026/03/10/tui-choisit-la-tunisie-pour-ses-prochains-grands-projets-touristiques/)
+- [Dubaï : chute de deux drones près de l’aéroport international](https://www.lapresse.tn/2026/03/11/dubai-chute-de-deux-drones-pres-de-laeroport-international/)
+- [Un projectile d’origine inconnue frappe un navire de fret au...](https://www.lapresse.tn/2026/03/11/un-projectile-dorigine-inconnue-frappe-un-navire-de-fret-au-large-de-dubai/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,8 +277,8 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Présidentielle au Congo : ces opposants qui rêvent de créer la surprise face à Denis Sassou Nguesso](https://www.jeuneafrique.com/1772547/politique/presidentielle-au-congo-ces-opposants-qui-revent-de-creer-la-surprise-face-a-denis-sassou-nguesso/)
-- [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
+- [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
+- [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
 - [En Algérie, l’exigence d’excuses disparaît de la loi criminalisant le colonialisme](https://www.jeuneafrique.com/1772505/politique/en-algerie-lexigence-dexcuses-disparait-de-la-loi-criminalisant-le-colonialisme/)
@@ -286,7 +286,7 @@
 - [Guerre au Moyen-Orient : les derniers développements ce 10 mars](https://www.jeuneafrique.com/1772526/politique/guerre-au-moyen-orient-les-derniers-developpements-ce-10-mars/)
 - [L’opposant guinéen Tibou Kamara annonce la libération de sa mère et sa sœur](https://www.jeuneafrique.com/1772511/politique/lopposant-guineen-tibou-kamara-annonce-la-liberation-de-sa-mere-et-sa-soeur/)
 - [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
-- [Nigeria : face au risque de pénurie de carburant, Dangote privilégie le marché intérieur](https://www.jeuneafrique.com/1772425/economie-entreprises/nigeria-face-au-risque-de-penurie-de-carburant-dangote-privilegie-le-marche-interieur/)
+- [Guerre au Moyen-Orient : les compagnies aériennes africaines prises au piège des hubs du Golfe](https://www.jeuneafrique.com/1771799/economie-entreprises/guerre-au-moyen-orient-les-compagnies-aeriennes-africaines-prises-au-piege-des-hubs-du-golfe/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
