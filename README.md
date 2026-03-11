@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 15:36*
+*Generato: 11 Mar 2026, 18:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Tunisie se prépare au Rendez-vous d’affaires de la Francophonie...](https://www.lapresse.tn/2026/03/11/la-tunisie-se-prepare-au-rendez-vous-daffaires-de-la-francophonie-2026-a-quebec/)
-- [Tenue pour l’Aïd al-Fitr : les magasins de fripe...](https://www.lapresse.tn/2026/03/11/tenue-pour-laid-al-fitr-les-magasins-de-fripe-seduisent-toutes-les-categories-sociales/)
+- [Basket – JSK-CA sera rejoué : Extrême tension…](https://www.lapresse.tn/2026/03/11/basket-jsk-ca-sera-rejoue-extreme-tension/)
+- [Exposition – Atyqua Insaf Kooli : Kairouan autrement](https://www.lapresse.tn/2026/03/11/exposition-atyqua-insaf-kooli-kairouan-autrement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -212,16 +212,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
 - [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
 - [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
-- [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 - [The Use of Anti-Terrorism Courts to Suppress Dissent in Venezuela](https://www.icj.org/the-use-of-anti-terrorism-courts-to-suppress-dissent-in-venezuela/)
-- [Nepal: Publish Reports on Violent Crackdowns on Protests](https://www.icj.org/nepal-publish-reports-on-violent-crackdowns-on-protests/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -285,8 +285,8 @@
 - [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
+- [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
 - [Casablanca, nouveau laboratoire de la finance africaine haut de gamme ?](https://www.jeuneafrique.com/1769594/economie-entreprises/casablanca-nouveau-laboratoire-de-la-finance-africaine-haut-de-gamme/)
-- [RDC : après Glencore, le groupe de Dan Gertler paie une amende pour clore une enquête pour corruption](https://www.jeuneafrique.com/1772790/economie-entreprises/rdc-apres-glencore-le-groupe-de-dan-gertler-paie-une-amende-pour-clore-une-enquete-pour-corruption/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
