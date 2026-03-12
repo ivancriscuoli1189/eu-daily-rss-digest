@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 18:36*
+*Generato: 12 Mar 2026, 21:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Notes de lecture – « Si Le Kef m’était conté »...](https://www.lapresse.tn/2026/03/12/notes-de-lecture-si-le-kef-metait-conte-de-najet-ghariani-les-contes-de-lenchanteresse/)
-- [CA – Zemzmi gagne des points : Le travail, la...](https://www.lapresse.tn/2026/03/12/ca-zemzmi-gagne-des-points-le-travail-la-patience-et-la-volonte-paient/)
+- [La Tunisie réaffirme à l’ONU son engagement contre les cyberviolences...](https://www.lapresse.tn/2026/03/12/la-tunisie-reaffirme-a-lonu-son-engagement-contre-les-cyberviolences-faites-aux-femmes/)
+- [L’international tunisien Naïm Sliti met fin à sa carrière avec...](https://www.lapresse.tn/2026/03/12/linternational-tunisien-naim-sliti-met-fin-a-sa-carriere-avec-les-aigles-de-carthage/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -235,6 +235,19 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
+
+## THINK TANK – ECFR – MENA
+
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
+- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
+- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
+- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
+- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
+- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
+- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
+- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
+- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
+- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
 
 ## THINK TANK – CESPI – Attualità
 
