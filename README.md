@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 13:54*
+*Generato: 12 Mar 2026, 15:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Municipalité de Tunis: les commerçants appelés au respect des...](https://www.lapresse.tn/2026/03/12/municipalite-de-tunis-les-commercants-appeles-au-respect-des-espaces-autorises/)
-- [La Ligue Professionnelle de Football décide la défaite sur tapis...](https://www.lapresse.tn/2026/03/12/la-ligue-professionnelle-de-football-decide-la-defaite-sur-tapis-vert-de-lus-monastir-face-au-club-sportif-sfaxien-0-2/)
+- [Ariana : panne majeure d’un transformateur et interruption de l’éclairage...](https://www.lapresse.tn/2026/03/12/ariana-panne-majeure-dun-transformateur-et-interruption-de-leclairage-public-a-mnihla/)
+- [Exportations : la Tunisie triple ses ventes de chaussures au...](https://www.lapresse.tn/2026/03/12/exportations-la-tunisie-triple-ses-ventes-de-chaussures-au-bresil/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 - [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
 - [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
@@ -247,7 +248,6 @@
 - [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
 - [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
 - [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
-- [Trump’s Iran choice: Regional takes](https://ecfr.eu/podcasts/episode/trumps-iran-choice-regional-takes/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -280,11 +280,11 @@
 - [Au Burkina Faso, le Jnim coupable de « crimes de guerre », selon HRW](https://www.jeuneafrique.com/1773437/politique/au-burkina-faso-le-jnim-coupable-de-crimes-de-guerre-selon-hrw/)
 - [Burundi : libération provisoire de l’ancien Premier ministre Alain-Guillaume Bunyoni](https://www.jeuneafrique.com/1773366/politique/burundi-liberation-provisoire-de-lancien-premier-ministre-alain-guillaume-bunyoni/)
 - [En Afrique du Sud, le nouvel ambassadeur américain convoqué pour des « propos non-diplomatiques »](https://www.jeuneafrique.com/1773337/politique/en-afrique-du-sud-le-nouvel-ambassadeur-americain-convoque-pour-des-propos-non-diplomatiques/)
+- [Présidentielle au Congo : « Nous nous préparons déjà pour 2031 », assure Pascal Tsaty Mabiala](https://www.jeuneafrique.com/1772962/politique/presidentielle-au-congo-nous-nous-preparons-deja-pour-2031-assure-pascal-tsaty-mabiala/)
 - [DZ Mafia, nouveaux consuls : le lien entre Alger et Paris commence à se retisser](https://www.jeuneafrique.com/1773040/politique/dz-mafia-nouveaux-consuls-le-lien-entre-alger-et-paris-commence-a-se-retisser/)
 - [En Guinée, la crainte d’un retour au parti unique après la dissolution de l’opposition par Mamadi Doumbouya](https://www.jeuneafrique.com/1772893/politique/en-guinee-la-crainte-dun-retour-au-parti-unique-apres-la-dissolution-de-lopposition-par-mamadi-doumbouya/)
 - [En RDC, ce que l’on sait de la frappe qui a tué au moins une humanitaire française à Goma](https://www.jeuneafrique.com/1772953/politique/en-rdc-ce-que-lon-sait-de-la-frappe-qui-a-tue-au-moins-une-humanitaire-francaise-a-goma/)
 - [Répression de l’homosexualité au Sénégal : une loi qui vient de loin](https://www.jeuneafrique.com/1772888/politique/repression-de-lhomosexualite-au-senegal-une-loi-qui-vient-de-loin/)
-- [Sahara occidental : l’ancien émissaire onusien Christopher Ross sort de son silence](https://www.jeuneafrique.com/1772895/politique/sahara-occidental-lancien-emissaire-onusien-christopher-ross-sort-de-son-silence/)
 - [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
 - [RDC : la méthode « bulldozer » de Doudou Fwamba pour moderniser les finances publiques](https://www.jeuneafrique.com/1770979/economie-entreprises/rdc-la-methode-bulldozer-de-doudou-fwamba-pour-moderniser-les-finances-publiques/)
 
