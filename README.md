@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 15:44*
+*Generato: 12 Mar 2026, 18:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ariana : panne majeure d’un transformateur et interruption de l’éclairage...](https://www.lapresse.tn/2026/03/12/ariana-panne-majeure-dun-transformateur-et-interruption-de-leclairage-public-a-mnihla/)
-- [Exportations : la Tunisie triple ses ventes de chaussures au...](https://www.lapresse.tn/2026/03/12/exportations-la-tunisie-triple-ses-ventes-de-chaussures-au-bresil/)
+- [Notes de lecture – « Si Le Kef m’était conté »...](https://www.lapresse.tn/2026/03/12/notes-de-lecture-si-le-kef-metait-conte-de-najet-ghariani-les-contes-de-lenchanteresse/)
+- [CA – Zemzmi gagne des points : Le travail, la...](https://www.lapresse.tn/2026/03/12/ca-zemzmi-gagne-des-points-le-travail-la-patience-et-la-volonte-paient/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -236,19 +236,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
-- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
-- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
-- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
-- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
-- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
-- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
-- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
-- [Dispelling Trump’s dystopia: A European blueprint for Gaza’s renewal](https://ecfr.eu/article/dispelling-trumps-dystopia-a-european-blueprint-for-gazas-renewal/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Niger : le Parlement européen exige la libération du président déchu Mohamed Bazoum](https://www.jeuneafrique.com/1773657/politique/niger-le-parlement-europeen-exige-la-liberation-du-president-dechu-mohamed-bazoum/)
+- [L’influenceur algérien Imad Tintin toujours dans le collimateur de la justice française](https://www.jeuneafrique.com/1773435/politique/linfluenceur-algerien-imad-tintin-toujours-dans-le-collimateur-de-la-justice-francaise/)
 - [Au Burkina Faso, le Jnim coupable de « crimes de guerre », selon HRW](https://www.jeuneafrique.com/1773437/politique/au-burkina-faso-le-jnim-coupable-de-crimes-de-guerre-selon-hrw/)
 - [Burundi : libération provisoire de l’ancien Premier ministre Alain-Guillaume Bunyoni](https://www.jeuneafrique.com/1773366/politique/burundi-liberation-provisoire-de-lancien-premier-ministre-alain-guillaume-bunyoni/)
+- [« Les homosexuels ne respireront plus dans ce pays » : l’Assemblée nationale sénégalaise durcit sa législation](https://www.jeuneafrique.com/1773364/politique/les-homosexuels-ne-respireront-plus-dans-ce-pays-lassemblee-nationale-senegalaise-durcit-sa-legislation/)
 - [En Afrique du Sud, le nouvel ambassadeur américain convoqué pour des « propos non-diplomatiques »](https://www.jeuneafrique.com/1773337/politique/en-afrique-du-sud-le-nouvel-ambassadeur-americain-convoque-pour-des-propos-non-diplomatiques/)
 - [Présidentielle au Congo : « Nous nous préparons déjà pour 2031 », assure Pascal Tsaty Mabiala](https://www.jeuneafrique.com/1772962/politique/presidentielle-au-congo-nous-nous-preparons-deja-pour-2031-assure-pascal-tsaty-mabiala/)
 - [DZ Mafia, nouveaux consuls : le lien entre Alger et Paris commence à se retisser](https://www.jeuneafrique.com/1773040/politique/dz-mafia-nouveaux-consuls-le-lien-entre-alger-et-paris-commence-a-se-retisser/)
-- [En Guinée, la crainte d’un retour au parti unique après la dissolution de l’opposition par Mamadi Doumbouya](https://www.jeuneafrique.com/1772893/politique/en-guinee-la-crainte-dun-retour-au-parti-unique-apres-la-dissolution-de-lopposition-par-mamadi-doumbouya/)
-- [En RDC, ce que l’on sait de la frappe qui a tué au moins une humanitaire française à Goma](https://www.jeuneafrique.com/1772953/politique/en-rdc-ce-que-lon-sait-de-la-frappe-qui-a-tue-au-moins-une-humanitaire-francaise-a-goma/)
-- [Répression de l’homosexualité au Sénégal : une loi qui vient de loin](https://www.jeuneafrique.com/1772888/politique/repression-de-lhomosexualite-au-senegal-une-loi-qui-vient-de-loin/)
-- [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
-- [RDC : la méthode « bulldozer » de Doudou Fwamba pour moderniser les finances publiques](https://www.jeuneafrique.com/1770979/economie-entreprises/rdc-la-methode-bulldozer-de-doudou-fwamba-pour-moderniser-les-finances-publiques/)
+- [Après Tidjane Thiam, l’économiste camerounaise Vera Songwe cooptée par le pape](https://www.jeuneafrique.com/1773584/economie-entreprises/apres-tidjane-thiam-leconomiste-camerounaise-vera-songwe-cooptee-par-le-pape/)
+- [Rencontre avec… le nouveau DG de ZCCM, poids lourd méconnu du cuivre zambien](https://www.jeuneafrique.com/1773396/economie-entreprises/rencontre-avec-le-nouveau-dg-de-zccm-poids-lourd-meconnu-du-cuivre-zambien/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
