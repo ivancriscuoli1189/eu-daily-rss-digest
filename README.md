@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 11 Mar 2026, 21:20*
+*Generato: 12 Mar 2026, 06:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -45,8 +45,8 @@
 
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,15 +82,15 @@
 
 ## UE – EP – Press Room
 
-- [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
-- [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
-- [A new agreement for relations between Parliament and the Commission](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37528/a-new-agreement-for-relations-between-parliament-and-the-commission)
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
+- [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
 - [EU enlargement: a strategic investment in Europe’s security and stability](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37532/eu-enlargement-a-strategic-investment-in-europe-s-security-and-stability)
 - [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
 - [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
+- [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
 - [Child sexual abuse online: support for extending voluntary rules until August 2027](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37531/child-sexual-abuse-online-support-for-extending-rules-until-august-2027)
 - [€1.6 million in EU support to help Belgian workers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37510/EU1-6-million-in-eu-support-to-help-belgian-workers)
+- [A new agreement for relations between Parliament and the Commission](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37528/a-new-agreement-for-relations-between-parliament-and-the-commission)
 - [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Bizerte : 100 millions de dinars pour la réhabilitation du...](https://www.lapresse.tn/2026/03/11/bizerte-100-millions-de-dinars-pour-la-rehabilitation-du-corniche/)
 - [L’armée sioniste lance des frappes « à grande échelle » dans la...](https://www.lapresse.tn/2026/03/11/larmee-sioniste-lance-des-frappes-a-grande-echelle-dans-la-banlieue-sud-de-beyrouth/)
-- [Un missile américain serait à l’origine de la frappe qui...](https://www.lapresse.tn/2026/03/11/un-missile-americain-serait-a-lorigine-de-la-frappe-qui-a-tue-plus-de-160-personnes-dans-une-ecole-primaire-iranienne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,6 +277,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Un homme, une nation, un destin » : les bonnes feuilles du livre à paraître d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1772663/politique/un-homme-une-nation-un-destin-les-bonnes-feuilles-du-livre-a-paraitre-dissa-tchiroma-bakary/)
 - [Sahara occidental : l’ancien émissaire onusien Christopher Ross sort de son silence](https://www.jeuneafrique.com/1772895/politique/sahara-occidental-lancien-emissaire-onusien-christopher-ross-sort-de-son-silence/)
 - [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
 - [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
@@ -284,7 +285,6 @@
 - [Présidentielle au Congo : ces opposants qui rêvent de créer la surprise face à Denis Sassou Nguesso](https://www.jeuneafrique.com/1772547/politique/presidentielle-au-congo-ces-opposants-qui-revent-de-creer-la-surprise-face-a-denis-sassou-nguesso/)
 - [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
 - [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
-- [Lula et Ramaphosa craignent une « invasion » étrangère](https://www.jeuneafrique.com/1772654/politique/lula-et-ramaphosa-craignent-une-invasion-etrangere/)
 - [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
 - [Casablanca, nouveau laboratoire de la finance africaine haut de gamme ?](https://www.jeuneafrique.com/1769594/economie-entreprises/casablanca-nouveau-laboratoire-de-la-finance-africaine-haut-de-gamme/)
 
