@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 06:38*
+*Generato: 12 Mar 2026, 09:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
@@ -52,7 +53,6 @@
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 - [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
-- [Commerce Extérieur aux prix courants, Novembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-novembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -82,6 +82,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
 - [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
 - [EU enlargement: a strategic investment in Europe’s security and stability](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37532/eu-enlargement-a-strategic-investment-in-europe-s-security-and-stability)
@@ -91,12 +92,11 @@
 - [Child sexual abuse online: support for extending voluntary rules until August 2027](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37531/child-sexual-abuse-online-support-for-extending-rules-until-august-2027)
 - [€1.6 million in EU support to help Belgian workers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37510/EU1-6-million-in-eu-support-to-help-belgian-workers)
 - [A new agreement for relations between Parliament and the Commission](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37528/a-new-agreement-for-relations-between-parliament-and-the-commission)
-- [Simplified rules for small “mid-cap” companies](https://www.europarl.europa.eu/news/en/press-room/20260220IPR35906/simplified-rules-for-small-mid-cap-companies)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Bizerte : 100 millions de dinars pour la réhabilitation du...](https://www.lapresse.tn/2026/03/11/bizerte-100-millions-de-dinars-pour-la-rehabilitation-du-corniche/)
-- [L’armée sioniste lance des frappes « à grande échelle » dans la...](https://www.lapresse.tn/2026/03/11/larmee-sioniste-lance-des-frappes-a-grande-echelle-dans-la-banlieue-sud-de-beyrouth/)
+- [Flambée du pétrole : l’Italie mobilise 9 millions de barils...](https://www.lapresse.tn/2026/03/12/flambee-du-petrole-litalie-mobilise-9-millions-de-barils-pour-contrer-la-hausse-des-prix-2/)
+- [Le renseignement américain ne prévoit pas d’effondrement du régime en...](https://www.lapresse.tn/2026/03/12/le-renseignement-americain-ne-prevoit-pas-deffondrement-du-regime-en-iran/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Un homme, une nation, un destin » : les bonnes feuilles du livre à paraître d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1772663/politique/un-homme-une-nation-un-destin-les-bonnes-feuilles-du-livre-a-paraitre-dissa-tchiroma-bakary/)
+- [En Afrique du Sud, le nouvel ambassadeur américain convoqué pour des « propos non-diplomatiques »](https://www.jeuneafrique.com/1773337/politique/en-afrique-du-sud-le-nouvel-ambassadeur-americain-convoque-pour-des-propos-non-diplomatiques/)
+- [DZ Mafia, nouveaux consuls : le lien entre Alger et Paris commence à se retisser](https://www.jeuneafrique.com/1773040/politique/dz-mafia-nouveaux-consuls-le-lien-entre-alger-et-paris-commence-a-se-retisser/)
+- [Répression de l’homosexualité au Sénégal : une loi qui vient de loin](https://www.jeuneafrique.com/1772888/politique/repression-de-lhomosexualite-au-senegal-une-loi-qui-vient-de-loin/)
 - [Sahara occidental : l’ancien émissaire onusien Christopher Ross sort de son silence](https://www.jeuneafrique.com/1772895/politique/sahara-occidental-lancien-emissaire-onusien-christopher-ross-sort-de-son-silence/)
 - [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
 - [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
 - [RDC : frappes aériennes sur Goma, au moins un mort](https://www.jeuneafrique.com/1772923/politique/rdc-frappes-aeriennes-sur-goma-au-moins-un-mort/)
 - [Présidentielle au Congo : ces opposants qui rêvent de créer la surprise face à Denis Sassou Nguesso](https://www.jeuneafrique.com/1772547/politique/presidentielle-au-congo-ces-opposants-qui-revent-de-creer-la-surprise-face-a-denis-sassou-nguesso/)
-- [Cameroun : comment l’affaire Okala Ebode empoisonne Maurice Kamto et le MRC](https://www.jeuneafrique.com/1772598/politique/cameroun-comment-laffaire-okala-ebode-empoisonne-maurice-kamto-et-le-mrc/)
-- [Madagascar : le colonel Randrianirina suspend le gouvernement et démet son Premier ministre](https://www.jeuneafrique.com/1772785/politique/madagascar-le-colonel-randrianirina-suspend-le-gouvernement-et-demet-son-premier-ministre/)
 - [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
-- [Casablanca, nouveau laboratoire de la finance africaine haut de gamme ?](https://www.jeuneafrique.com/1769594/economie-entreprises/casablanca-nouveau-laboratoire-de-la-finance-africaine-haut-de-gamme/)
+- [RDC : la méthode « bulldozer » de Doudou Fwamba pour moderniser les finances publiques](https://www.jeuneafrique.com/1770979/economie-entreprises/rdc-la-methode-bulldozer-de-doudou-fwamba-pour-moderniser-les-finances-publiques/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
