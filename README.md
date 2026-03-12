@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 11:24*
+*Generato: 12 Mar 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -83,6 +83,7 @@
 ## UE – EP – Press Room
 
 - [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
+- [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
 - [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
@@ -91,7 +92,6 @@
 - [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
 - [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
 - [Child sexual abuse online: support for extending voluntary rules until August 2027](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37531/child-sexual-abuse-online-support-for-extending-rules-until-august-2027)
-- [€1.6 million in EU support to help Belgian workers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37510/EU1-6-million-in-eu-support-to-help-belgian-workers)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Fromages et produits alimentaires dangereux saisis à Manouba…](https://www.lapresse.tn/2026/03/12/fromages-et-produits-alimentaires-dangereux-saisis-a-manouba/)
-- [Demande d’acquisition de 41,28 % du capital de SOTUVER :...](https://www.lapresse.tn/2026/03/12/demande-dacquisition-de-4128-du-capital-de-sotuver-le-cmf-saisi-du-dossier/)
+- [Pétrole : Le G7 prend des mesures pour atténuer la...](https://www.lapresse.tn/2026/03/12/petrole-le-g7-prend-des-mesures-pour-attenuer-la-flambee-des-cours/)
+- [Pas de perturbation : le tourisme en Türkiye se poursuit...](https://www.lapresse.tn/2026/03/12/pas-de-perturbation-le-tourisme-en-turkiye-se-poursuit-normalement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, le Jnim coupable de « crimes de guerre », selon HRW](https://www.jeuneafrique.com/1773437/politique/au-burkina-faso-le-jnim-coupable-de-crimes-de-guerre-selon-hrw/)
 - [Burundi : libération provisoire de l’ancien Premier ministre Alain-Guillaume Bunyoni](https://www.jeuneafrique.com/1773366/politique/burundi-liberation-provisoire-de-lancien-premier-ministre-alain-guillaume-bunyoni/)
 - [En Afrique du Sud, le nouvel ambassadeur américain convoqué pour des « propos non-diplomatiques »](https://www.jeuneafrique.com/1773337/politique/en-afrique-du-sud-le-nouvel-ambassadeur-americain-convoque-pour-des-propos-non-diplomatiques/)
 - [DZ Mafia, nouveaux consuls : le lien entre Alger et Paris commence à se retisser](https://www.jeuneafrique.com/1773040/politique/dz-mafia-nouveaux-consuls-le-lien-entre-alger-et-paris-commence-a-se-retisser/)
 - [En Guinée, la crainte d’un retour au parti unique après la dissolution de l’opposition par Mamadi Doumbouya](https://www.jeuneafrique.com/1772893/politique/en-guinee-la-crainte-dun-retour-au-parti-unique-apres-la-dissolution-de-lopposition-par-mamadi-doumbouya/)
+- [En RDC, ce que l’on sait de la frappe qui a tué au moins une humanitaire française à Goma](https://www.jeuneafrique.com/1772953/politique/en-rdc-ce-que-lon-sait-de-la-frappe-qui-a-tue-au-moins-une-humanitaire-francaise-a-goma/)
 - [Répression de l’homosexualité au Sénégal : une loi qui vient de loin](https://www.jeuneafrique.com/1772888/politique/repression-de-lhomosexualite-au-senegal-une-loi-qui-vient-de-loin/)
 - [Sahara occidental : l’ancien émissaire onusien Christopher Ross sort de son silence](https://www.jeuneafrique.com/1772895/politique/sahara-occidental-lancien-emissaire-onusien-christopher-ross-sort-de-son-silence/)
-- [L’Iran multiplie les frappes, l’AIE veut débloquer les réserves de pétrole](https://www.jeuneafrique.com/1772915/politique/liran-multiplie-les-frappes-laie-veut-debloquer-les-reserves-de-petrole/)
-- [Blocus jihadiste au Mali : Bamako confrontée à une pénurie de gazole](https://www.jeuneafrique.com/1772898/politique/blocus-jihadiste-au-mali-bamako-confrontee-a-une-penurie-de-gazole/)
 - [Qui est Christophe Lecourtier, le futur visage de l’AFD scruté par l’Afrique ?](https://www.jeuneafrique.com/1773032/economie-entreprises/qui-est-christophe-lecourtier-le-futur-visage-de-lafd-scrute-par-lafrique/)
 - [RDC : la méthode « bulldozer » de Doudou Fwamba pour moderniser les finances publiques](https://www.jeuneafrique.com/1770979/economie-entreprises/rdc-la-methode-bulldozer-de-doudou-fwamba-pour-moderniser-les-finances-publiques/)
 
