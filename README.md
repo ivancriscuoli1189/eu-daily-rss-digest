@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Mar 2026, 12:29*
+*Generato: 13 Mar 2026, 13:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [ONAS : 68% des foyers sont raccordés au réseau](https://www.lapresse.tn/2026/03/13/onas-68-des-foyers-sont-raccordes-au-reseau/)
 - [Golfe de Gabès : le ministère de l’agriculture se mobilise...](https://www.lapresse.tn/2026/03/13/golfe-de-gabes-le-ministere-de-lagriculture-se-mobilise-pour-developper-les-ressources-halieutiques-et-proteger-lenvironnement-marin/)
-- [Attaque contre une école primaire iranienne : La Croix-Rouge chinoise...](https://www.lapresse.tn/2026/03/13/attaque-contre-une-ecole-primaire-iranienne-la-croix-rouge-chinoise-va-verser-200-000-dollars-aux-victimes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,19 +196,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -285,8 +272,8 @@
 - [L’ambassadeur de France est à nouveau le bienvenu en Algérie, assure le président Tebboune](https://www.jeuneafrique.com/1773530/politique/lambassadeur-de-france-est-a-nouveau-le-bienvenu-en-algerie-assure-le-president-tebboune/)
 - [Attaque de drone sur Goma : de nombreuses condamnations, mais pas de coupable](https://www.jeuneafrique.com/1773563/politique/attaque-de-drone-sur-goma-de-nombreuses-condamnations-mais-pas-de-coupable/)
 - [Niger : le Parlement européen exige la libération du président déchu Mohamed Bazoum](https://www.jeuneafrique.com/1773657/politique/niger-le-parlement-europeen-exige-la-liberation-du-president-dechu-mohamed-bazoum/)
+- [Google, Amazon, Meta… Les dessous du programme d’investissement de la tech américaine en Afrique](https://www.jeuneafrique.com/1773309/economie-entreprises/google-amazon-meta-les-dessous-du-programme-dinvestissement-de-la-tech-americaine-en-afrique/)
 - [Après Tidjane Thiam, l’économiste camerounaise Vera Songwe cooptée par le pape](https://www.jeuneafrique.com/1773584/economie-entreprises/apres-tidjane-thiam-leconomiste-camerounaise-vera-songwe-cooptee-par-le-pape/)
-- [Rencontre avec… le nouveau DG de ZCCM, poids lourd méconnu du cuivre zambien](https://www.jeuneafrique.com/1773396/economie-entreprises/rencontre-avec-le-nouveau-dg-de-zccm-poids-lourd-meconnu-du-cuivre-zambien/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
