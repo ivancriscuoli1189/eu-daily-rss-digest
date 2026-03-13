@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Mar 2026, 11:22*
+*Generato: 13 Mar 2026, 12:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -41,6 +41,32 @@
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
 
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
+- [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
+- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
+- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
+- [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
+- [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
+
 ## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
 
 - [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
@@ -69,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -155,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’ATB et Visa lancent un grand jeu-concours : En route...](https://www.lapresse.tn/2026/03/13/latb-et-visa-lancent-un-grand-jeu-concours-en-route-pour-la-coupe-du-monde-de-la-fifa-2026/)
-- [Samir Chouhani : « Mojtaba Khamenei n’a pas présenté de discours...](https://www.lapresse.tn/2026/03/13/samir-chouhani-mojtaba-khamenei-na-pas-presente-de-discours-en-direct-pour-des-raisons-securitaires/)
+- [Golfe de Gabès : le ministère de l’agriculture se mobilise...](https://www.lapresse.tn/2026/03/13/golfe-de-gabes-le-ministere-de-lagriculture-se-mobilise-pour-developper-les-ressources-halieutiques-et-proteger-lenvironnement-marin/)
+- [Attaque contre une école primaire iranienne : La Croix-Rouge chinoise...](https://www.lapresse.tn/2026/03/13/attaque-contre-une-ecole-primaire-iranienne-la-croix-rouge-chinoise-va-verser-200-000-dollars-aux-victimes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -257,8 +283,8 @@
 - [Le Burkina Faso et les États-Unis affirment vouloir renforcer leur coopération sécuritaire et économique](https://www.jeuneafrique.com/1773738/politique/le-burkina-faso-et-les-etats-unis-affirment-vouloir-renforcer-leur-cooperation-securitaire-et-economique/)
 - [En Casamance, un soldat tué et six blessés lors d’une opération de l’armée sénégalaise](https://www.jeuneafrique.com/1773746/politique/en-casamance-un-soldat-tue-et-six-blesses-lors-dune-operation-de-larmee-senegalaise/)
 - [L’ambassadeur de France est à nouveau le bienvenu en Algérie, assure le président Tebboune](https://www.jeuneafrique.com/1773530/politique/lambassadeur-de-france-est-a-nouveau-le-bienvenu-en-algerie-assure-le-president-tebboune/)
+- [Attaque de drone sur Goma : de nombreuses condamnations, mais pas de coupable](https://www.jeuneafrique.com/1773563/politique/attaque-de-drone-sur-goma-de-nombreuses-condamnations-mais-pas-de-coupable/)
 - [Niger : le Parlement européen exige la libération du président déchu Mohamed Bazoum](https://www.jeuneafrique.com/1773657/politique/niger-le-parlement-europeen-exige-la-liberation-du-president-dechu-mohamed-bazoum/)
-- [L’influenceur algérien Imad Tintin toujours dans le collimateur de la justice française](https://www.jeuneafrique.com/1773435/politique/linfluenceur-algerien-imad-tintin-toujours-dans-le-collimateur-de-la-justice-francaise/)
 - [Après Tidjane Thiam, l’économiste camerounaise Vera Songwe cooptée par le pape](https://www.jeuneafrique.com/1773584/economie-entreprises/apres-tidjane-thiam-leconomiste-camerounaise-vera-songwe-cooptee-par-le-pape/)
 - [Rencontre avec… le nouveau DG de ZCCM, poids lourd méconnu du cuivre zambien](https://www.jeuneafrique.com/1773396/economie-entreprises/rencontre-avec-le-nouveau-dg-de-zccm-poids-lourd-meconnu-du-cuivre-zambien/)
 
