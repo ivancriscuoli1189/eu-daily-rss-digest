@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Mar 2026, 15:32*
+*Generato: 13 Mar 2026, 18:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Top 50 des villes à visiter en 2026 : la Tunisie...](https://www.lapresse.tn/2026/03/13/top-50-des-villes-a-visiter-en-2026-la-tunisie-absente-une-seule-ville-arabe-se-demarque/)
-- [Près de 1,5 milliard de dinars transférés par les Tunisiens...](https://www.lapresse.tn/2026/03/13/pres-de-15-milliard-de-dinars-transferes-par-les-tunisiens-de-letranger-en-deux-mois/)
+- [Omar El Ouaer et Nesrine Jabeur en concert à la...](https://www.lapresse.tn/2026/03/13/omar-el-ouaer-et-nesrine-jabeur-en-concert-a-la-galerie-artemis-un-duo-qui-reinvente-les-codes-du-jazz/)
+- [58e Conférence des ministres africains des Finances, de la Planification...](https://www.lapresse.tn/2026/03/13/58e-conference-des-ministres-africains-des-finances-de-la-planification-et-du-developpement-economique-com2026-les-technologies-au-service-de-la-croissance-africaine/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,19 +196,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -277,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [« Nous ne les oublierons jamais »: dix ans après, la Côte d’Ivoire commémore l’attentat de Grand-Bassam](https://www.jeuneafrique.com/1774098/politique/nous-ne-les-oublierons-jamais-10-ans-apres-la-cote-divoire-commemore-lattentat-de-grand-bassam/)
 - [Frappe de drone à Goma : après la mort d’une Française, le parquet antiterroriste ouvre une enquête pour crime de guerre](https://www.jeuneafrique.com/1773883/politique/frappe-de-drone-a-goma-apres-la-mort-dune-francaise-le-parquet-antiterroriste-ouvre-une-enquete-pour-crime-de-guerre/)
 - [Tunisie : les avocats et les proches de la militante antiraciste Saadia Mosbah réclament sa libération](https://www.jeuneafrique.com/1773807/politique/tunisie-les-avocats-et-les-proches-de-la-militante-antiraciste-saadia-mosbah-reclament-sa-liberation/)
 - [Décès de Boubacar Ould Messaoud, figure de la lutte antiesclavagiste en Mauritanie](https://www.jeuneafrique.com/1773776/politique/deces-de-boubacar-ould-messaoud-figure-de-la-lutte-antiesclavagiste-en-mauritanie/)
 - [Le Burkina Faso et les États-Unis affirment vouloir renforcer leur coopération sécuritaire et économique](https://www.jeuneafrique.com/1773738/politique/le-burkina-faso-et-les-etats-unis-affirment-vouloir-renforcer-leur-cooperation-securitaire-et-economique/)
 - [En Casamance, un soldat tué et six blessés lors d’une opération de l’armée sénégalaise](https://www.jeuneafrique.com/1773746/politique/en-casamance-un-soldat-tue-et-six-blesses-lors-dune-operation-de-larmee-senegalaise/)
-- [L’ambassadeur de France est à nouveau le bienvenu en Algérie, assure le président Tebboune](https://www.jeuneafrique.com/1773530/politique/lambassadeur-de-france-est-a-nouveau-le-bienvenu-en-algerie-assure-le-president-tebboune/)
-- [Attaque de drone sur Goma : de nombreuses condamnations, mais pas de coupable](https://www.jeuneafrique.com/1773563/politique/attaque-de-drone-sur-goma-de-nombreuses-condamnations-mais-pas-de-coupable/)
-- [Niger : le Parlement européen exige la libération du président déchu Mohamed Bazoum](https://www.jeuneafrique.com/1773657/politique/niger-le-parlement-europeen-exige-la-liberation-du-president-dechu-mohamed-bazoum/)
+- [Nucléaire, Sahara, traité d’amitié : l’agenda XXL de la relation entre Paris et Rabat](https://www.jeuneafrique.com/1773567/politique/nucleaire-sahara-traite-damitie-lagenda-xxl-de-la-relation-entre-paris-et-rabat/)
+- [Cameroun : à Yaoundé, c’est la guerre du Golf](https://www.jeuneafrique.com/1773117/politique/cameroun-a-yaounde-cest-la-guerre-du-golf/)
+- [Philippe Labonne : « Avec MSC, une nouvelle ère s’est ouverte à nous »](https://www.jeuneafrique.com/1764162/economie-entreprises/philippe-labonne-avec-msc-une-nouvelle-ere-sest-ouverte-a-nous/)
 - [Google, Amazon, Meta… Les dessous du programme d’investissement de la tech américaine en Afrique](https://www.jeuneafrique.com/1773309/economie-entreprises/google-amazon-meta-les-dessous-du-programme-dinvestissement-de-la-tech-americaine-en-afrique/)
-- [Après Tidjane Thiam, l’économiste camerounaise Vera Songwe cooptée par le pape](https://www.jeuneafrique.com/1773584/economie-entreprises/apres-tidjane-thiam-leconomiste-camerounaise-vera-songwe-cooptee-par-le-pape/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
