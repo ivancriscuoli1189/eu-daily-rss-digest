@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 12 Mar 2026, 21:22*
+*Generato: 13 Mar 2026, 06:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – Press Room
 
-- [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
+- [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
 - [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [La Samsa tunisienne, un triangle gourmand qui réveille les sens](https://www.lapresse.tn/2026/03/12/la-samsa-tunisienne-un-triangle-gourmand-qui-reveille-les-sens/)
 - [La Tunisie réaffirme à l’ONU son engagement contre les cyberviolences...](https://www.lapresse.tn/2026/03/12/la-tunisie-reaffirme-a-lonu-son-engagement-contre-les-cyberviolences-faites-aux-femmes/)
-- [L’international tunisien Naïm Sliti met fin à sa carrière avec...](https://www.lapresse.tn/2026/03/12/linternational-tunisien-naim-sliti-met-fin-a-sa-carriere-avec-les-aigles-de-carthage/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,14 +277,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Africa Corps : un déserteur russe révèle les secrets de l’unité qui remplace Wagner](https://www.jeuneafrique.com/1773281/politique/africa-corps-un-deserteur-russe-revele-les-secrets-de-lunite-qui-remplace-wagner/)
+- [Cameroun : à Yaoundé, c’est la guerre du Golf](https://www.jeuneafrique.com/1773117/politique/cameroun-a-yaounde-cest-la-guerre-du-golf/)
 - [Niger : le Parlement européen exige la libération du président déchu Mohamed Bazoum](https://www.jeuneafrique.com/1773657/politique/niger-le-parlement-europeen-exige-la-liberation-du-president-dechu-mohamed-bazoum/)
 - [L’influenceur algérien Imad Tintin toujours dans le collimateur de la justice française](https://www.jeuneafrique.com/1773435/politique/linfluenceur-algerien-imad-tintin-toujours-dans-le-collimateur-de-la-justice-francaise/)
 - [Au Burkina Faso, le Jnim coupable de « crimes de guerre », selon HRW](https://www.jeuneafrique.com/1773437/politique/au-burkina-faso-le-jnim-coupable-de-crimes-de-guerre-selon-hrw/)
 - [Burundi : libération provisoire de l’ancien Premier ministre Alain-Guillaume Bunyoni](https://www.jeuneafrique.com/1773366/politique/burundi-liberation-provisoire-de-lancien-premier-ministre-alain-guillaume-bunyoni/)
 - [« Les homosexuels ne respireront plus dans ce pays » : l’Assemblée nationale sénégalaise durcit sa législation](https://www.jeuneafrique.com/1773364/politique/les-homosexuels-ne-respireront-plus-dans-ce-pays-lassemblee-nationale-senegalaise-durcit-sa-legislation/)
 - [En Afrique du Sud, le nouvel ambassadeur américain convoqué pour des « propos non-diplomatiques »](https://www.jeuneafrique.com/1773337/politique/en-afrique-du-sud-le-nouvel-ambassadeur-americain-convoque-pour-des-propos-non-diplomatiques/)
-- [Présidentielle au Congo : « Nous nous préparons déjà pour 2031 », assure Pascal Tsaty Mabiala](https://www.jeuneafrique.com/1772962/politique/presidentielle-au-congo-nous-nous-preparons-deja-pour-2031-assure-pascal-tsaty-mabiala/)
-- [DZ Mafia, nouveaux consuls : le lien entre Alger et Paris commence à se retisser](https://www.jeuneafrique.com/1773040/politique/dz-mafia-nouveaux-consuls-le-lien-entre-alger-et-paris-commence-a-se-retisser/)
 - [Après Tidjane Thiam, l’économiste camerounaise Vera Songwe cooptée par le pape](https://www.jeuneafrique.com/1773584/economie-entreprises/apres-tidjane-thiam-leconomiste-camerounaise-vera-songwe-cooptee-par-le-pape/)
 - [Rencontre avec… le nouveau DG de ZCCM, poids lourd méconnu du cuivre zambien](https://www.jeuneafrique.com/1773396/economie-entreprises/rencontre-avec-le-nouveau-dg-de-zccm-poids-lourd-meconnu-du-cuivre-zambien/)
 
