@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 11:38*
+*Generato: 16 Mar 2026, 12:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Hôpital de Gabès : après cinq d’obscurité, l’histoire émouvante d’un...](https://www.lapresse.tn/2026/03/16/un-septuagenaire-retrouve-la-vue-a-gabes-les-coulisses-de-loperation-racontees-par-le-talentueux-chirurgien-yassine-belghith/)
-- [Ligue des Champions de la CAF : Le programme des...](https://www.lapresse.tn/2026/03/16/ligue-des-champions-de-la-caf-le-programme-des-quarts-de-finale-retour/)
+- [Aïd al-Adha : la Tunisie lance un appel d’offres international...](https://www.lapresse.tn/2026/03/16/aid-al-adha-la-tunisie-lance-un-appel-doffres-international-pour-importer-des-moutons/)
+- [Inde : 10 patients décédés dans l’incendie d’un centre hospitalier...](https://www.lapresse.tn/2026/03/16/inde-10-patients-decedes-dans-lincendie-dun-centre-hospitalier-universitaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Enrôlement forcé de Kényans dans l’armée russe : le chef de la diplomatie du Kenya attendu à Moscou](https://www.jeuneafrique.com/1774227/politique/enrolement-force-de-kenyans-dans-larmee-russe-le-chef-de-la-diplomatie-du-kenya-attendu-a-moscou/)
 - [Au Cameroun, comment Samuel Eto’o veut s’affranchir du ministère des Sports](https://www.jeuneafrique.com/1773779/politique/au-cameroun-comment-samuel-etoo-veut-saffranchir-du-ministere-des-sports/)
 - [Face à la guerre en Iran, le Maghreb joue la carte de l’esquive – entretien avec Brahim Oumansour (Iris)](https://www.jeuneafrique.com/1773558/politique/face-a-la-guerre-en-iran-le-maghreb-joue-la-carte-de-lesquive-entretien-avec-brahim-oumansour-iris/)
+- [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
 - [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
-- [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
