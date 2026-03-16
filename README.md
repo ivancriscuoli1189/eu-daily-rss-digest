@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 14:11*
+*Generato: 16 Mar 2026, 15:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Compétences tunisiennes à l’étranger : l’Arabie Saoudite en tête des...](https://www.lapresse.tn/2026/03/16/competences-tunisiennes-a-letranger-larabie-saoudite-en-tete-des-recrutements/)
-- [Aïd el Fitr- Transports : un programme exceptionnel pour assurer...](https://www.lapresse.tn/2026/03/16/aid-el-fitr-transports-un-programme-exceptionnel-pour-assurer-les-deplacements/)
+- [Retraités : vos pensions CNSS disponibles](https://www.lapresse.tn/2026/03/16/retraites-vos-pensions-cnss-disponibles/)
+- [Maladie des reins : 13000 insuffisants rénaux chroniques sous dialyse](https://www.lapresse.tn/2026/03/16/maladie-des-reins-13000-insuffisants-renaux-chroniques-sous-dialyse/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 - [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
@@ -234,7 +235,6 @@
 - [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
 - [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 - [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
-- [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
+- [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
 - [Algérie-France : les ministres Ahmed Attaf et Jean-Noël Barrot ont repris le dialogue](https://www.jeuneafrique.com/1774254/politique/algerie-france-les-ministres-ahmed-attaf-et-jean-noel-barrot-ont-repris-le-dialogue/)
 - [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
 - [Au programme de Léon XIV en Algérie : Abdelmadjid Tebboune, les martyrs et… Christophe Gleizes ?](https://www.jeuneafrique.com/1773805/politique/au-programme-de-leon-xiv-en-algerie-abdelmadjid-tebboune-les-martyrs-et-christophe-gleizes/)
 - [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
+- [Iran-Afrique : qui sont les piliers de l’empire iranien sur le continent ?](https://www.jeuneafrique.com/1772931/politique/iran-afrique-qui-sont-les-piliers-de-lempire-iranien-sur-le-continent/)
 - [Après le Mali et le Burkina Faso, les États-Unis veulent relancer la coopération avec le Niger](https://www.jeuneafrique.com/1774232/politique/apres-le-mali-et-le-burkina-faso-les-etats-unis-veulent-relancer-la-cooperation-avec-le-niger/)
 - [Enrôlement forcé de Kényans dans l’armée russe : le chef de la diplomatie du Kenya attendu à Moscou](https://www.jeuneafrique.com/1774227/politique/enrolement-force-de-kenyans-dans-larmee-russe-le-chef-de-la-diplomatie-du-kenya-attendu-a-moscou/)
-- [Au Cameroun, comment Samuel Eto’o veut s’affranchir du ministère des Sports](https://www.jeuneafrique.com/1773779/politique/au-cameroun-comment-samuel-etoo-veut-saffranchir-du-ministere-des-sports/)
 - [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
 - [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
 
