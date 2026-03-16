@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Mar 2026, 21:23*
+*Generato: 16 Mar 2026, 07:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -95,8 +95,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -121,16 +121,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -181,8 +181,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Irak : un avion de ravitaillement américain abattu, six militaires...](https://www.lapresse.tn/2026/03/13/irak-un-avion-de-ravitaillement-americain-abattu-six-militaires-tues/)
-- [Le Hezbollah se dit prêt à une « longue confrontation » avec...](https://www.lapresse.tn/2026/03/13/le-hezbollah-se-dit-pret-a-une-longue-confrontation-avec-lentite-sioniste/)
+- [L’Espérance de Tunis a pris l’avantage sur Ahly 1-0](https://www.lapresse.tn/2026/03/15/lesperance-de-tunis-a-pris-lavantage-sur-ahly-1-0/)
+- [0-0 à la pause entre l’Espérance de Tunis et Ahly...](https://www.lapresse.tn/2026/03/15/0-0-a-la-pause-entre-lesperance-de-tunis-et-ahly-nul-vierge-a-la-pause/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -277,16 +277,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [« Nous ne les oublierons jamais »: dix ans après, la Côte d’Ivoire commémore l’attentat de Grand-Bassam](https://www.jeuneafrique.com/1774098/politique/nous-ne-les-oublierons-jamais-10-ans-apres-la-cote-divoire-commemore-lattentat-de-grand-bassam/)
-- [Frappe de drone à Goma : après la mort d’une Française, le parquet antiterroriste ouvre une enquête pour crime de guerre](https://www.jeuneafrique.com/1773883/politique/frappe-de-drone-a-goma-apres-la-mort-dune-francaise-le-parquet-antiterroriste-ouvre-une-enquete-pour-crime-de-guerre/)
-- [Tunisie : les avocats et les proches de la militante antiraciste Saadia Mosbah réclament sa libération](https://www.jeuneafrique.com/1773807/politique/tunisie-les-avocats-et-les-proches-de-la-militante-antiraciste-saadia-mosbah-reclament-sa-liberation/)
-- [Décès de Boubacar Ould Messaoud, figure de la lutte antiesclavagiste en Mauritanie](https://www.jeuneafrique.com/1773776/politique/deces-de-boubacar-ould-messaoud-figure-de-la-lutte-antiesclavagiste-en-mauritanie/)
-- [Le Burkina Faso et les États-Unis affirment vouloir renforcer leur coopération sécuritaire et économique](https://www.jeuneafrique.com/1773738/politique/le-burkina-faso-et-les-etats-unis-affirment-vouloir-renforcer-leur-cooperation-securitaire-et-economique/)
-- [En Casamance, un soldat tué et six blessés lors d’une opération de l’armée sénégalaise](https://www.jeuneafrique.com/1773746/politique/en-casamance-un-soldat-tue-et-six-blesses-lors-dune-operation-de-larmee-senegalaise/)
-- [Nucléaire, Sahara, traité d’amitié : l’agenda XXL de la relation entre Paris et Rabat](https://www.jeuneafrique.com/1773567/politique/nucleaire-sahara-traite-damitie-lagenda-xxl-de-la-relation-entre-paris-et-rabat/)
-- [Cameroun : à Yaoundé, c’est la guerre du Golf](https://www.jeuneafrique.com/1773117/politique/cameroun-a-yaounde-cest-la-guerre-du-golf/)
-- [Philippe Labonne : « Avec MSC, une nouvelle ère s’est ouverte à nous »](https://www.jeuneafrique.com/1764162/economie-entreprises/philippe-labonne-avec-msc-une-nouvelle-ere-sest-ouverte-a-nous/)
-- [Google, Amazon, Meta… Les dessous du programme d’investissement de la tech américaine en Afrique](https://www.jeuneafrique.com/1773309/economie-entreprises/google-amazon-meta-les-dessous-du-programme-dinvestissement-de-la-tech-americaine-en-afrique/)
+- [Cameroun : Franck Hertz, fils de Chantal Biya, ou dauphin potentiel de Paul Biya ?](https://www.jeuneafrique.com/1771486/politique/cameroun-franck-hertz-fils-de-chantal-biya-ou-dauphin-potentiel-de-paul-biya/)
+- [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
+- [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
+- [Après le Mali et le Burkina Faso, les États-Unis veulent relancer la coopération avec le Niger](https://www.jeuneafrique.com/1774232/politique/apres-le-mali-et-le-burkina-faso-les-etats-unis-veulent-relancer-la-cooperation-avec-le-niger/)
+- [Enrôlement forcé de Kényans dans l’armée russe : le chef de la diplomatie du Kenya attendu à Moscou](https://www.jeuneafrique.com/1774227/politique/enrolement-force-de-kenyans-dans-larmee-russe-le-chef-de-la-diplomatie-du-kenya-attendu-a-moscou/)
+- [Ouganda : l’opposant Bobi Wine dit avoir quitté le pays](https://www.jeuneafrique.com/1774221/politique/ouganda-lopposant-bobi-wine-dit-avoir-quitte-le-pays/)
+- [Les États-Unis investissent le Sahel russophile](https://www.jeuneafrique.com/1774000/politique/les-etats-unis-investissent-le-sahel-russophile/)
+- [Au Gabon, abandon des poursuites contre Hervé Patrick Opiangah](https://www.jeuneafrique.com/1774217/politique/au-gabon-abandon-des-poursuites-contre-herve-patrick-opiangah/)
+- [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
+- [Blocage du détroit d’Ormuz : ce que la guerre va coûter à l’Afrique](https://www.jeuneafrique.com/1772304/economie-entreprises/blocage-du-detroit-dormuz-ce-que-la-guerre-va-couter-a-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
