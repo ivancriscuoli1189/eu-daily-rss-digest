@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 07:02*
+*Generato: 16 Mar 2026, 09:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -66,19 +66,6 @@
 - [Communiqués de presse](https://www.ins.tn/communique-de-presse)
 - [Evènements](https://www.ins.tn/evenements)
 - [Calendrier de diffusion](https://www.ins.tn/calendar)
-
-## TUNISIA ISTITUZIONI – Presidenza Tunisia (Carthage)
-
-- [النشاط الرئاسي](http://www.carthage.tn/النشاط_الرئاسي)
-- [لقاء رئيس الجمهورية قيس سعيّد مع السيّدين إبراهيم بودربالة، رئيس مجلس نواب الشعب، وعماد الدربالي، رئيس المجلس الوطني للجهات والأقاليم](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D9%8A%D9%86-%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%A8%D9%88%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D8%A9%D8%8C-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D9%86%D9%88%D8%A7%D8%A8-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D8%8C-%D9%88%D8%B9%D9%85%D8%A7%D8%AF-%D8%A7%D9%84%D8%AF%D8%B1%D8%A8%D8%A7%D9%84%D9%8A%D8%8C-5)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيّدة سارّة الزّعفراني الزّنزري رئيسة الحكومة والسيّد عصام الأحمر وزير الشّؤون الاجتماعيّة](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D9%91%D8%A9-%D8%A7%D9%84%D8%B2%D9%91%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%91%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D9%91%D8%AF-%D8%B9%D8%B5%D8%A7%D9%85)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد الحسين ولد مدو وزير الثقافة والفنون والاتصال والعلاقات مع البرلمان والناطق باسم الحكومة الموريتانية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86-%D9%88%D9%84%D8%AF-%D9%85%D8%AF%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D8%A7%D9%84%D9%81%D9%86%D9%88%D9%86-%D9%88%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D9%88%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA-%D9%85%D8%B9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع وزير الداخلية و وزير التربية و كاتب الدّولة للأمن الوطني](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%88-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88-%D9%83%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D8%AF%D9%91%D9%88%D9%84%D8%A9-%D9%84%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة مشكاة سلامة الخالدي وزيرة الماليّة والسيد وجدي الهذيلي وزير أملاك الدّولة والشؤون العقارية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B4%D9%83%D8%A7%D8%A9-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D9%91%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D9%88%D8%AC%D8%AF%D9%8A-%D8%A7%D9%84%D9%87%D8%B0%D9%8A%D9%84%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة سارة الزعفراني الزنزري رئيسة الحكومة والسيد صلاح الزواري وزير التجهيز والإسكان](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B2%D9%86%D8%B2%D8%B1%D9%8A-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%88%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%B1%D9%8A)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيدة أمينة الصرارفي وزيرة الشؤون الثقافية](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A3%D9%85%D9%8A%D9%86%D8%A9-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D8%B1%D9%81%D9%8A-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A4%D9%88%D9%86-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D9%8A%D8%A9)
-- [لقاء رئيس الجمهوريّة قيس سعيّد مع السيد عزالدين بن الشيخ وزير الفلاحة والموارد المائية والصيد البحري](http://www.carthage.tn/ar/%D9%84%D9%82%D8%A7%D8%A1-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D9%91%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D9%85%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF-%D8%B9%D8%B2%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D8%A8%D9%86-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D8%AD%D8%A9-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A)
-- [زيارة رئيس الجمهورية قيس سعيّد إلى كلّ من منطقة البحر الأزرق من معتمدية المرسى وضاحية سيدي بوسعيد](http://www.carthage.tn/ar/%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%8A%D8%B3-%D8%B3%D8%B9%D9%8A%D9%91%D8%AF-%D8%A5%D9%84%D9%89-%D9%83%D9%84%D9%91-%D9%85%D9%86-%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A3%D8%B2%D8%B1%D9%82-%D9%85%D9%86-%D9%85%D8%B9%D8%AA%D9%85%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%B3%D9%89-%D9%88%D8%B6%D8%A7%D8%AD%D9%8A%D8%A9-%D8%B3%D9%8A%D8%AF%D9%8A-%D8%A8%D9%88%D8%B3%D8%B9%D9%8A%D8%AF)
 
 ## UE – EP – Press Room
 
@@ -181,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’Espérance de Tunis a pris l’avantage sur Ahly 1-0](https://www.lapresse.tn/2026/03/15/lesperance-de-tunis-a-pris-lavantage-sur-ahly-1-0/)
-- [0-0 à la pause entre l’Espérance de Tunis et Ahly...](https://www.lapresse.tn/2026/03/15/0-0-a-la-pause-entre-lesperance-de-tunis-et-ahly-nul-vierge-a-la-pause/)
+- [Karaté-Premier League à Rome : le bronze pour Wafa Mahjoub...](https://www.lapresse.tn/2026/03/16/karate-premier-league-a-rome-le-bronze-pour-wafa-mahjoub-dans-la-categorie-des-61-kg/)
+- [Kairouan célèbre la Nuit du Destin : 430 mosquées ouvertes...](https://www.lapresse.tn/2026/03/16/kairouan-celebre-la-nuit-du-destin-430-mosquees-ouvertes-et-entre-2000-et-3000-fideles-attendus/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,6 +226,7 @@
 ## THINK TANK – ECFR – MENA
 
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
+- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 - [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
@@ -247,7 +235,6 @@
 - [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 - [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
 - [Trump’s strikes on Iran are an illegal war of choice—and Europeans should say so](https://ecfr.eu/article/trumps-strikes-on-iran-are-an-illegalwar-of-choice-and-europeansshould-say-so/)
-- [Yemen: Between Gulf tensions and Iran war clouds](https://ecfr.eu/podcasts/episode/yemen-between-gulf-tensions-and-iran-war-clouds/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -277,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : Franck Hertz, fils de Chantal Biya, ou dauphin potentiel de Paul Biya ?](https://www.jeuneafrique.com/1771486/politique/cameroun-franck-hertz-fils-de-chantal-biya-ou-dauphin-potentiel-de-paul-biya/)
+- [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
+- [Algérie-France : les ministres Ahmed Attaf et Jean-Noël Barrot ont repris le dialogue](https://www.jeuneafrique.com/1774254/politique/algerie-france-les-ministres-ahmed-attaf-et-jean-noel-barrot-ont-repris-le-dialogue/)
 - [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
 - [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
 - [Après le Mali et le Burkina Faso, les États-Unis veulent relancer la coopération avec le Niger](https://www.jeuneafrique.com/1774232/politique/apres-le-mali-et-le-burkina-faso-les-etats-unis-veulent-relancer-la-cooperation-avec-le-niger/)
 - [Enrôlement forcé de Kényans dans l’armée russe : le chef de la diplomatie du Kenya attendu à Moscou](https://www.jeuneafrique.com/1774227/politique/enrolement-force-de-kenyans-dans-larmee-russe-le-chef-de-la-diplomatie-du-kenya-attendu-a-moscou/)
+- [Face à la guerre en Iran, le Maghreb joue la carte de l’esquive – entretien avec Brahim Oumansour (Iris)](https://www.jeuneafrique.com/1773558/politique/face-a-la-guerre-en-iran-le-maghreb-joue-la-carte-de-lesquive-entretien-avec-brahim-oumansour-iris/)
 - [Ouganda : l’opposant Bobi Wine dit avoir quitté le pays](https://www.jeuneafrique.com/1774221/politique/ouganda-lopposant-bobi-wine-dit-avoir-quitte-le-pays/)
-- [Les États-Unis investissent le Sahel russophile](https://www.jeuneafrique.com/1774000/politique/les-etats-unis-investissent-le-sahel-russophile/)
-- [Au Gabon, abandon des poursuites contre Hervé Patrick Opiangah](https://www.jeuneafrique.com/1774217/politique/au-gabon-abandon-des-poursuites-contre-herve-patrick-opiangah/)
 - [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
 - [Blocage du détroit d’Ormuz : ce que la guerre va coûter à l’Afrique](https://www.jeuneafrique.com/1772304/economie-entreprises/blocage-du-detroit-dormuz-ce-que-la-guerre-va-couter-a-lafrique/)
 
