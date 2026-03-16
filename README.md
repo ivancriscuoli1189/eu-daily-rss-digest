@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 09:52*
+*Generato: 16 Mar 2026, 11:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Karaté-Premier League à Rome : le bronze pour Wafa Mahjoub...](https://www.lapresse.tn/2026/03/16/karate-premier-league-a-rome-le-bronze-pour-wafa-mahjoub-dans-la-categorie-des-61-kg/)
-- [Kairouan célèbre la Nuit du Destin : 430 mosquées ouvertes...](https://www.lapresse.tn/2026/03/16/kairouan-celebre-la-nuit-du-destin-430-mosquees-ouvertes-et-entre-2000-et-3000-fideles-attendus/)
+- [Hôpital de Gabès : après cinq d’obscurité, l’histoire émouvante d’un...](https://www.lapresse.tn/2026/03/16/un-septuagenaire-retrouve-la-vue-a-gabes-les-coulisses-de-loperation-racontees-par-le-talentueux-chirurgien-yassine-belghith/)
+- [Ligue des Champions de la CAF : Le programme des...](https://www.lapresse.tn/2026/03/16/ligue-des-champions-de-la-caf-le-programme-des-quarts-de-finale-retour/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -270,10 +270,10 @@
 - [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
 - [Après le Mali et le Burkina Faso, les États-Unis veulent relancer la coopération avec le Niger](https://www.jeuneafrique.com/1774232/politique/apres-le-mali-et-le-burkina-faso-les-etats-unis-veulent-relancer-la-cooperation-avec-le-niger/)
 - [Enrôlement forcé de Kényans dans l’armée russe : le chef de la diplomatie du Kenya attendu à Moscou](https://www.jeuneafrique.com/1774227/politique/enrolement-force-de-kenyans-dans-larmee-russe-le-chef-de-la-diplomatie-du-kenya-attendu-a-moscou/)
+- [Au Cameroun, comment Samuel Eto’o veut s’affranchir du ministère des Sports](https://www.jeuneafrique.com/1773779/politique/au-cameroun-comment-samuel-etoo-veut-saffranchir-du-ministere-des-sports/)
 - [Face à la guerre en Iran, le Maghreb joue la carte de l’esquive – entretien avec Brahim Oumansour (Iris)](https://www.jeuneafrique.com/1773558/politique/face-a-la-guerre-en-iran-le-maghreb-joue-la-carte-de-lesquive-entretien-avec-brahim-oumansour-iris/)
-- [Ouganda : l’opposant Bobi Wine dit avoir quitté le pays](https://www.jeuneafrique.com/1774221/politique/ouganda-lopposant-bobi-wine-dit-avoir-quitte-le-pays/)
+- [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
 - [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
-- [Blocage du détroit d’Ormuz : ce que la guerre va coûter à l’Afrique](https://www.jeuneafrique.com/1772304/economie-entreprises/blocage-du-detroit-dormuz-ce-que-la-guerre-va-couter-a-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
