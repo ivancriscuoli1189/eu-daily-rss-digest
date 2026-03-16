@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 18:43*
+*Generato: 16 Mar 2026, 21:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Hand – Équipe nationale : On annonce un entraîneur français](https://www.lapresse.tn/2026/03/16/hand-equipe-nationale-on-annonce-un-entraineur-francais/)
-- [Maladie rénale chronique : La greffe est-elle un dernier recours...](https://www.lapresse.tn/2026/03/16/maladie-renale-chronique-la-greffe-est-elle-un-dernier-recours-therapeutique/)
+- [Basket – Championnat Pro A : Le Club africain bat...](https://www.lapresse.tn/2026/03/16/basket-championnat-pro-a-le-club-africain-bat-la-js-kairouan/)
+- [Tozeur : comment les oasis traditionnelles s’adaptent-elles face aux changements...](https://www.lapresse.tn/2026/03/16/tozeur-comment-les-oasis-traditionnelles-sadaptent-elles-face-aux-changements-climatiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
 - [Au programme de Léon XIV en Algérie : Abdelmadjid Tebboune, les martyrs et… Christophe Gleizes ?](https://www.jeuneafrique.com/1773805/politique/au-programme-de-leon-xiv-en-algerie-abdelmadjid-tebboune-les-martyrs-et-christophe-gleizes/)
 - [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
+- [Pétrole et gaz : pourquoi le Sénégal cherche encore la formule gagnante](https://www.jeuneafrique.com/1771553/economie-entreprises/petrole-et-gaz-pourquoi-le-senegal-cherche-encore-la-formule-gagnante/)
 - [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
-- [S&P relève la perspective de la Guinée à « positive »](https://www.jeuneafrique.com/1774225/economie-entreprises/sp-releve-la-perspective-de-la-guinee-a-positive/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
