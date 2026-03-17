@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 11:34*
+*Generato: 17 Mar 2026, 12:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Villages d’Enfants (SOS) : les citoyens appelés à faire don...](https://www.lapresse.tn/2026/03/17/villages-denfants-sos-les-citoyens-appeles-a-faire-don-de-la-zakat-el-fitr-aux-enfants-sans-soutien-familial/)
-- [Date de l’Aïd al-Fitr, prière et Zakat en Allemagne :...](https://www.lapresse.tn/2026/03/17/date-de-laid-al-fitr-priere-et-zakat-en-allemagne-ce-quil-faut-savoir/)
+- [CNRPS: versement des pensions de retraite à partir de demain](https://www.lapresse.tn/2026/03/17/cnrps-versement-des-pensions-de-retraite-a-partir-de-demain/)
+- [Spazio Italia : un nouveau centre pour la langue, la...](https://www.lapresse.tn/2026/03/17/spazio-italia-un-nouveau-centre-pour-la-langue-la-culture-et-linnovation-italienne-a-tunis/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
+- [Est de la RDC : des émissaires de Félix Tshisekedi et Paul Kagame attendus à Washington](https://www.jeuneafrique.com/1774559/politique/est-de-la-rdc-des-emissaires-de-felix-tshisekedi-et-paul-kagame-attendus-a-washington/)
 - [À Madagascar, le président Randrianirina, déjà critiqué, fait le pari d’un Premier ministre « anticorruption »](https://www.jeuneafrique.com/1774426/politique/a-madagascar-le-president-randrianirina-deja-critique-fait-le-pari-dun-premier-ministre-anticorruption/)
 - [À Washington, la menace du projet de loi qui classerait le Polisario comme « organisation terroriste » se précise](https://www.jeuneafrique.com/1774352/politique/a-washington-la-menace-du-projet-de-loi-qui-classerait-le-polisario-comme-organisation-terroriste-se-precise/)
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
+- [Guinée-Sierra Leone : entre Mamadi Doumbouya et Julius Maada Bio, l’éternel conflit frontalier](https://www.jeuneafrique.com/1772018/politique/guinee-sierra-leone-entre-mamadi-doumbouya-et-julius-maada-bio-leternel-conflit-frontalier/)
 - [Pourquoi le Maroc est-il devenu le premier acheteur d’armes du continent ?](https://www.jeuneafrique.com/1774249/politique/pourquoi-le-maroc-est-il-devenu-le-premier-acheteur-darmes-du-continent/)
 - [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
-- [L’épidémie de conspirationnisme n’épargnera pas l’Afrique – par Georges Dougueli](https://www.jeuneafrique.com/1766417/politique/lepidemie-de-conspirationnisme-nepargnera-pas-lafrique-par-georges-dougueli/)
-- [Algérie-France : les ministres Ahmed Attaf et Jean-Noël Barrot ont repris le dialogue](https://www.jeuneafrique.com/1774254/politique/algerie-france-les-ministres-ahmed-attaf-et-jean-noel-barrot-ont-repris-le-dialogue/)
 - [Au Cameroun, le départ négocié de Globeleq du secteur énergétique se précise](https://www.jeuneafrique.com/1774394/economie-entreprises/au-cameroun-le-depart-negocie-de-globeleq-du-secteur-energetique-se-precise/)
 - [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
 
