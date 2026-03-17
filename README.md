@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 09:43*
+*Generato: 17 Mar 2026, 11:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Émirats : nouvelle attaque de drone contre une installation pétrolière...](https://www.lapresse.tn/2026/03/17/emirats-nouvelle-attaque-de-drone-contre-une-installation-petroliere-a-fujairah/)
-- [Plusieurs explosions entendues à Doha et Dubaï](https://www.lapresse.tn/2026/03/17/plusieurs-explosions-entendues-a-doha-et-dubai/)
+- [Villages d’Enfants (SOS) : les citoyens appelés à faire don...](https://www.lapresse.tn/2026/03/17/villages-denfants-sos-les-citoyens-appeles-a-faire-don-de-la-zakat-el-fitr-aux-enfants-sans-soutien-familial/)
+- [Date de l’Aïd al-Fitr, prière et Zakat en Allemagne :...](https://www.lapresse.tn/2026/03/17/date-de-laid-al-fitr-priere-et-zakat-en-allemagne-ce-quil-faut-savoir/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
+- [À Madagascar, le président Randrianirina, déjà critiqué, fait le pari d’un Premier ministre « anticorruption »](https://www.jeuneafrique.com/1774426/politique/a-madagascar-le-president-randrianirina-deja-critique-fait-le-pari-dun-premier-ministre-anticorruption/)
 - [À Washington, la menace du projet de loi qui classerait le Polisario comme « organisation terroriste » se précise](https://www.jeuneafrique.com/1774352/politique/a-washington-la-menace-du-projet-de-loi-qui-classerait-le-polisario-comme-organisation-terroriste-se-precise/)
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
 - [Pourquoi le Maroc est-il devenu le premier acheteur d’armes du continent ?](https://www.jeuneafrique.com/1774249/politique/pourquoi-le-maroc-est-il-devenu-le-premier-acheteur-darmes-du-continent/)
 - [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
 - [L’épidémie de conspirationnisme n’épargnera pas l’Afrique – par Georges Dougueli](https://www.jeuneafrique.com/1766417/politique/lepidemie-de-conspirationnisme-nepargnera-pas-lafrique-par-georges-dougueli/)
 - [Algérie-France : les ministres Ahmed Attaf et Jean-Noël Barrot ont repris le dialogue](https://www.jeuneafrique.com/1774254/politique/algerie-france-les-ministres-ahmed-attaf-et-jean-noel-barrot-ont-repris-le-dialogue/)
-- [Cameroun : Franck Hertz, fils de Chantal Biya, ou dauphin potentiel de Paul Biya ?](https://www.jeuneafrique.com/1771486/politique/cameroun-franck-hertz-fils-de-chantal-biya-ou-dauphin-potentiel-de-paul-biya/)
-- [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
+- [Au Cameroun, le départ négocié de Globeleq du secteur énergétique se précise](https://www.jeuneafrique.com/1774394/economie-entreprises/au-cameroun-le-depart-negocie-de-globeleq-du-secteur-energetique-se-precise/)
 - [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
-- [Pétrole et gaz : pourquoi le Sénégal cherche encore la formule gagnante](https://www.jeuneafrique.com/1771553/economie-entreprises/petrole-et-gaz-pourquoi-le-senegal-cherche-encore-la-formule-gagnante/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
