@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Mar 2026, 21:28*
+*Generato: 17 Mar 2026, 06:48*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Basket – Championnat Pro A : Le Club africain bat...](https://www.lapresse.tn/2026/03/16/basket-championnat-pro-a-le-club-africain-bat-la-js-kairouan/)
-- [Tozeur : comment les oasis traditionnelles s’adaptent-elles face aux changements...](https://www.lapresse.tn/2026/03/16/tozeur-comment-les-oasis-traditionnelles-sadaptent-elles-face-aux-changements-climatiques/)
+- [Depuis l’Iran, Ali Larijini adresse un message aux pays musulmans...](https://www.lapresse.tn/2026/03/16/depuis-liran-ali-larijini-adresse-un-message-aux-pays-musulmans-du-monde-entier/)
+- [Vents violents : Suspension temporaire du trafic des bacs de...](https://www.lapresse.tn/2026/03/16/vents-violents-suspension-temporaire-du-trafic-des-bacs-de-djerba/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun – Chris Manengs : « L’exil d’Issa Tchiroma Bakary a été stratégiquement dévastateur »](https://www.jeuneafrique.com/1772665/politique/cameroun-chris-manengs-lexil-dissa-tchiroma-bakary-a-ete-strategiquement-devastateur/)
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
 - [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
 - [L’épidémie de conspirationnisme n’épargnera pas l’Afrique – par Georges Dougueli](https://www.jeuneafrique.com/1766417/politique/lepidemie-de-conspirationnisme-nepargnera-pas-lafrique-par-georges-dougueli/)
@@ -271,7 +272,6 @@
 - [Cameroun : Franck Hertz, fils de Chantal Biya, ou dauphin potentiel de Paul Biya ?](https://www.jeuneafrique.com/1771486/politique/cameroun-franck-hertz-fils-de-chantal-biya-ou-dauphin-potentiel-de-paul-biya/)
 - [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
 - [Au programme de Léon XIV en Algérie : Abdelmadjid Tebboune, les martyrs et… Christophe Gleizes ?](https://www.jeuneafrique.com/1773805/politique/au-programme-de-leon-xiv-en-algerie-abdelmadjid-tebboune-les-martyrs-et-christophe-gleizes/)
-- [Le Rwanda menace de retirer son soutien à la lutte antijihadiste au Mozambique](https://www.jeuneafrique.com/1774238/politique/le-rwanda-menace-de-retirer-son-soutien-a-la-lutte-antijihadiste-au-mozambique/)
 - [Pétrole et gaz : pourquoi le Sénégal cherche encore la formule gagnante](https://www.jeuneafrique.com/1771553/economie-entreprises/petrole-et-gaz-pourquoi-le-senegal-cherche-encore-la-formule-gagnante/)
 - [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
 
