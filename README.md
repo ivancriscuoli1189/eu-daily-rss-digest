@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 06:48*
+*Generato: 17 Mar 2026, 09:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Depuis l’Iran, Ali Larijini adresse un message aux pays musulmans...](https://www.lapresse.tn/2026/03/16/depuis-liran-ali-larijini-adresse-un-message-aux-pays-musulmans-du-monde-entier/)
-- [Vents violents : Suspension temporaire du trafic des bacs de...](https://www.lapresse.tn/2026/03/16/vents-violents-suspension-temporaire-du-trafic-des-bacs-de-djerba/)
+- [Émirats : nouvelle attaque de drone contre une installation pétrolière...](https://www.lapresse.tn/2026/03/17/emirats-nouvelle-attaque-de-drone-contre-une-installation-petroliere-a-fujairah/)
+- [Plusieurs explosions entendues à Doha et Dubaï](https://www.lapresse.tn/2026/03/17/plusieurs-explosions-entendues-a-doha-et-dubai/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun – Chris Manengs : « L’exil d’Issa Tchiroma Bakary a été stratégiquement dévastateur »](https://www.jeuneafrique.com/1772665/politique/cameroun-chris-manengs-lexil-dissa-tchiroma-bakary-a-ete-strategiquement-devastateur/)
+- [À Washington, la menace du projet de loi qui classerait le Polisario comme « organisation terroriste » se précise](https://www.jeuneafrique.com/1774352/politique/a-washington-la-menace-du-projet-de-loi-qui-classerait-le-polisario-comme-organisation-terroriste-se-precise/)
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
+- [Pourquoi le Maroc est-il devenu le premier acheteur d’armes du continent ?](https://www.jeuneafrique.com/1774249/politique/pourquoi-le-maroc-est-il-devenu-le-premier-acheteur-darmes-du-continent/)
 - [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
 - [L’épidémie de conspirationnisme n’épargnera pas l’Afrique – par Georges Dougueli](https://www.jeuneafrique.com/1766417/politique/lepidemie-de-conspirationnisme-nepargnera-pas-lafrique-par-georges-dougueli/)
 - [Algérie-France : les ministres Ahmed Attaf et Jean-Noël Barrot ont repris le dialogue](https://www.jeuneafrique.com/1774254/politique/algerie-france-les-ministres-ahmed-attaf-et-jean-noel-barrot-ont-repris-le-dialogue/)
 - [Cameroun : Franck Hertz, fils de Chantal Biya, ou dauphin potentiel de Paul Biya ?](https://www.jeuneafrique.com/1771486/politique/cameroun-franck-hertz-fils-de-chantal-biya-ou-dauphin-potentiel-de-paul-biya/)
 - [Centre du Nigeria : une attaque menée par un groupe de « plusieurs centaines d’individus » fait vingt morts](https://www.jeuneafrique.com/1774245/politique/centre-du-nigeria-une-attaque-menee-par-un-groupe-de-plusieurs-centaines-dindividus-fait-vingt-morts/)
-- [Au programme de Léon XIV en Algérie : Abdelmadjid Tebboune, les martyrs et… Christophe Gleizes ?](https://www.jeuneafrique.com/1773805/politique/au-programme-de-leon-xiv-en-algerie-abdelmadjid-tebboune-les-martyrs-et-christophe-gleizes/)
+- [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
 - [Pétrole et gaz : pourquoi le Sénégal cherche encore la formule gagnante](https://www.jeuneafrique.com/1771553/economie-entreprises/petrole-et-gaz-pourquoi-le-senegal-cherche-encore-la-formule-gagnante/)
-- [Fintech : la stratégie d’Equity Bank pour faire de sa filiale tech un nouveau M-Pesa](https://www.jeuneafrique.com/1774009/economie-entreprises/fintech-la-strategie-dequity-bank-pour-faire-de-sa-filiale-tech-un-nouveau-m-pesa/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
