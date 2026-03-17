@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 15:52*
+*Generato: 17 Mar 2026, 18:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Subventions des carburants : une facture supplémentaire de 485 millions...](https://www.lapresse.tn/2026/03/17/subventions-des-carburants-une-facture-supplementaire-de-485-millions-de-dinars-en-mars-seulement/)
-- [Rim Riahi annonce un retour aux fawazir en 2027](https://www.lapresse.tn/2026/03/17/rim-riahi-annonce-un-retour-aux-fawazir-en-2027/)
+- [Raghda Belhadj Hammouda « La facture électronique, un outil pour...](https://www.lapresse.tn/2026/03/17/raghda-belhadj-hammouda-la-facture-electronique-un-outil-pour-plus-de-transparence/)
+- [Une élection historique à Beït al-Hikma : La Pr Raja...](https://www.lapresse.tn/2026/03/17/une-election-historique-a-beit-al-hikma-la-pr-raja-bahri-prend-les-renes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Financement libyen : à nouveau devant les juges, Nicolas Sarkozy nie toujours l’existence de fonds secrets](https://www.jeuneafrique.com/1774805/politique/financement-libyen-a-nouveau-devant-les-juges-nicolas-sarkozy-nie-toujours-lexistence-de-fonds-secrets/)
 - [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
 - [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
+- [Félix Tshisekedi : « La RDC est sur la voie de la souveraineté sanitaire »](https://www.jeuneafrique.com/1774508/politique/felix-tshisekedi-la-rdc-est-sur-la-voie-de-la-souverainete-sanitaire/)
 - [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
+- [Cameroun – Chris Manengs : « L’exil d’Issa Tchiroma Bakary a été stratégiquement dévastateur »](https://www.jeuneafrique.com/1772665/politique/cameroun-chris-manengs-lexil-dissa-tchiroma-bakary-a-ete-strategiquement-devastateur/)
 - [Est de la RDC : des émissaires de Félix Tshisekedi et Paul Kagame attendus à Washington](https://www.jeuneafrique.com/1774559/politique/est-de-la-rdc-des-emissaires-de-felix-tshisekedi-et-paul-kagame-attendus-a-washington/)
 - [Sénégal : la coalition Diomaye Président, une « déclaration de guerre » à Ousmane Sonko ?](https://www.jeuneafrique.com/1773735/politique/senegal-la-coalition-diomaye-president-une-declaration-de-guerre-a-ousmane-sonko/)
-- [À Madagascar, le président Randrianirina, déjà critiqué, fait le pari d’un Premier ministre « anticorruption »](https://www.jeuneafrique.com/1774426/politique/a-madagascar-le-president-randrianirina-deja-critique-fait-le-pari-dun-premier-ministre-anticorruption/)
-- [À Washington, la menace du projet de loi qui classerait le Polisario comme « organisation terroriste » se précise](https://www.jeuneafrique.com/1774352/politique/a-washington-la-menace-du-projet-de-loi-qui-classerait-le-polisario-comme-organisation-terroriste-se-precise/)
-- [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
 - [Numérique : les IPN, nouvel enjeu de souveraineté en Afrique](https://www.jeuneafrique.com/1774777/economie-entreprises/numerique-les-ipn-nouvel-enjeu-de-souverainete-en-afrique/)
-- [Au Cameroun, le départ négocié de Globeleq du secteur énergétique se précise](https://www.jeuneafrique.com/1774394/economie-entreprises/au-cameroun-le-depart-negocie-de-globeleq-du-secteur-energetique-se-precise/)
+- [Bruno Nabagné Koné : « Les difficultés dans le cacao vont renforcer l’alliance entre la Côte d’Ivoire et le Ghana »](https://www.jeuneafrique.com/1774579/economie-entreprises/bruno-nabagne-kone-les-difficultes-dans-le-cacao-vont-renforcer-lalliance-entre-la-cote-divoire-et-le-ghana/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
