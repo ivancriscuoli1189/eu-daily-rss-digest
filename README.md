@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 14:10*
+*Generato: 17 Mar 2026, 15:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Dar Daouletli : un joyau historique devenu centre culturel de...](https://www.lapresse.tn/2026/03/17/dar-daouletli-un-joyau-historique-devenu-centre-culturel-de-la-medina-de-tunis/)
-- [Tunis : lancement de la deuxième phase du projet “Karamti”...](https://www.lapresse.tn/2026/03/17/tunis-lancement-de-la-deuxieme-phase-du-projet-karama-a-cite-helal/)
+- [Subventions des carburants : une facture supplémentaire de 485 millions...](https://www.lapresse.tn/2026/03/17/subventions-des-carburants-une-facture-supplementaire-de-485-millions-de-dinars-en-mars-seulement/)
+- [Rim Riahi annonce un retour aux fawazir en 2027](https://www.lapresse.tn/2026/03/17/rim-riahi-annonce-un-retour-aux-fawazir-en-2027/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
 - [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
 - [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
 - [Est de la RDC : des émissaires de Félix Tshisekedi et Paul Kagame attendus à Washington](https://www.jeuneafrique.com/1774559/politique/est-de-la-rdc-des-emissaires-de-felix-tshisekedi-et-paul-kagame-attendus-a-washington/)
+- [Sénégal : la coalition Diomaye Président, une « déclaration de guerre » à Ousmane Sonko ?](https://www.jeuneafrique.com/1773735/politique/senegal-la-coalition-diomaye-president-une-declaration-de-guerre-a-ousmane-sonko/)
 - [À Madagascar, le président Randrianirina, déjà critiqué, fait le pari d’un Premier ministre « anticorruption »](https://www.jeuneafrique.com/1774426/politique/a-madagascar-le-president-randrianirina-deja-critique-fait-le-pari-dun-premier-ministre-anticorruption/)
 - [À Washington, la menace du projet de loi qui classerait le Polisario comme « organisation terroriste » se précise](https://www.jeuneafrique.com/1774352/politique/a-washington-la-menace-du-projet-de-loi-qui-classerait-le-polisario-comme-organisation-terroriste-se-precise/)
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
-- [Guinée-Sierra Leone : entre Mamadi Doumbouya et Julius Maada Bio, l’éternel conflit frontalier](https://www.jeuneafrique.com/1772018/politique/guinee-sierra-leone-entre-mamadi-doumbouya-et-julius-maada-bio-leternel-conflit-frontalier/)
-- [Pourquoi le Maroc est-il devenu le premier acheteur d’armes du continent ?](https://www.jeuneafrique.com/1774249/politique/pourquoi-le-maroc-est-il-devenu-le-premier-acheteur-darmes-du-continent/)
+- [Numérique : les IPN, nouvel enjeu de souveraineté en Afrique](https://www.jeuneafrique.com/1774777/economie-entreprises/numerique-les-ipn-nouvel-enjeu-de-souverainete-en-afrique/)
 - [Au Cameroun, le départ négocié de Globeleq du secteur énergétique se précise](https://www.jeuneafrique.com/1774394/economie-entreprises/au-cameroun-le-depart-negocie-de-globeleq-du-secteur-energetique-se-precise/)
-- [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
