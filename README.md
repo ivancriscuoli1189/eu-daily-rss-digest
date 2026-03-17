@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 12:41*
+*Generato: 17 Mar 2026, 14:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [CNRPS: versement des pensions de retraite à partir de demain](https://www.lapresse.tn/2026/03/17/cnrps-versement-des-pensions-de-retraite-a-partir-de-demain/)
-- [Spazio Italia : un nouveau centre pour la langue, la...](https://www.lapresse.tn/2026/03/17/spazio-italia-un-nouveau-centre-pour-la-langue-la-culture-et-linnovation-italienne-a-tunis/)
+- [Dar Daouletli : un joyau historique devenu centre culturel de...](https://www.lapresse.tn/2026/03/17/dar-daouletli-un-joyau-historique-devenu-centre-culturel-de-la-medina-de-tunis/)
+- [Tunis : lancement de la deuxième phase du projet “Karamti”...](https://www.lapresse.tn/2026/03/17/tunis-lancement-de-la-deuxieme-phase-du-projet-karama-a-cite-helal/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
 - [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
 - [Est de la RDC : des émissaires de Félix Tshisekedi et Paul Kagame attendus à Washington](https://www.jeuneafrique.com/1774559/politique/est-de-la-rdc-des-emissaires-de-felix-tshisekedi-et-paul-kagame-attendus-a-washington/)
 - [À Madagascar, le président Randrianirina, déjà critiqué, fait le pari d’un Premier ministre « anticorruption »](https://www.jeuneafrique.com/1774426/politique/a-madagascar-le-president-randrianirina-deja-critique-fait-le-pari-dun-premier-ministre-anticorruption/)
@@ -271,7 +272,6 @@
 - [L’UE exige la libération de Mohamed Bazoum, le Niger dénonce une « ingérence paternaliste »](https://www.jeuneafrique.com/1774296/politique/lue-exige-la-liberation-de-mohamed-bazoum-le-niger-denonce-une-ingerence-paternaliste/)
 - [Guinée-Sierra Leone : entre Mamadi Doumbouya et Julius Maada Bio, l’éternel conflit frontalier](https://www.jeuneafrique.com/1772018/politique/guinee-sierra-leone-entre-mamadi-doumbouya-et-julius-maada-bio-leternel-conflit-frontalier/)
 - [Pourquoi le Maroc est-il devenu le premier acheteur d’armes du continent ?](https://www.jeuneafrique.com/1774249/politique/pourquoi-le-maroc-est-il-devenu-le-premier-acheteur-darmes-du-continent/)
-- [Financement libyen : Nicolas Sarkozy affronte son procès en appel](https://www.jeuneafrique.com/1774265/politique/financement-libyen-nicolas-sarkozy-affronte-son-proces-en-appel/)
 - [Au Cameroun, le départ négocié de Globeleq du secteur énergétique se précise](https://www.jeuneafrique.com/1774394/economie-entreprises/au-cameroun-le-depart-negocie-de-globeleq-du-secteur-energetique-se-precise/)
 - [Air Côte d’Ivoire : la ligne Paris-Abidjan piétine, Beyrouth déjà incertaine](https://www.jeuneafrique.com/1774031/economie-entreprises/air-cote-divoire-la-ligne-paris-abidjan-pietine-beyrouth-deja-incertaine/)
 
