@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 14:13*
+*Generato: 18 Mar 2026, 15:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
 - [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 - [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
@@ -78,12 +79,11 @@
 - [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
 - [EU enlargement: a strategic investment in Europe’s security and stability](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37532/eu-enlargement-a-strategic-investment-in-europe-s-security-and-stability)
 - [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
-- [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vol de cuivre : un technicien d’une entreprise publique à...](https://www.lapresse.tn/2026/03/18/vol-de-cuivre-un-technicien-dune-entreprise-publique-a-la-tete-dun-reseau/)
-- [Al Ahly – Espérance : le match retour se jouera...](https://www.lapresse.tn/2026/03/18/al-ahly-esperance-le-match-retour-se-jouera-officiellement-a-huis-clos/)
+- [Une délégation d’acheteurs Marocains attendue le 25 mars en Tunisie](https://www.lapresse.tn/2026/03/18/une-delegation-dacheteurs-marocains-attendue-le-25-mars-en-tunisie/)
+- [CAWTAR lance une plateforme interactive sur les droits et l’égalité...](https://www.lapresse.tn/2026/03/18/cawtar-lance-une-plateforme-interactive-sur-les-droits-et-legalite-dans-le-monde-arabe/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,20 +264,19 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assassinat de Lumumba : qui était Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
+- [CAN 2025 : le titre retiré au Sénégal, le Maroc déclaré vainqueur](https://www.jeuneafrique.com/1775096/politique/can-2025-le-titre-retire-au-senegal-le-maroc-declare-vainqueur/)
 - [Congo-Brazzaville : Denis Sassou Nguesso réélu pour un cinquième mandat](https://www.jeuneafrique.com/1775070/politique/congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat/)
+- [En RDC, la Constitution est-elle l’otage des ambitions de Félix Tshisekedi ?](https://www.jeuneafrique.com/1774283/politique/en-rdc-la-constitution-est-elle-lotage-des-ambitions-de-felix-tshisekedi/)
+- [Côte d’Ivoire : comment Tidjane Thiam tente, depuis Paris, d’éteindre l’incendie au PDCI](https://www.jeuneafrique.com/1774669/politique/cote-divoire-comment-tidjane-thiam-tente-depuis-paris-deteindre-lincendie-au-pdci/)
 - [Financement libyen : à nouveau devant les juges, Nicolas Sarkozy nie toujours l’existence de fonds secrets](https://www.jeuneafrique.com/1774805/politique/financement-libyen-a-nouveau-devant-les-juges-nicolas-sarkozy-nie-toujours-lexistence-de-fonds-secrets/)
 - [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
 - [Cameroun : Paul Biya remplace Cavayé Yéguié Djibril et Marcel Niat Njifenji à l’Assemblée et au Sénat](https://www.jeuneafrique.com/1774832/politique/cameroun-paul-biya-remplace-cayave-yeguie-djibril-et-marcel-niat-njifenji-a-lassemblee-et-au-senat/)
-- [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
-- [Congo : un scrutin une nouvelle fois off-line](https://www.jeuneafrique.com/1774724/politique/congo-un-scrutin-une-nouvelle-fois-off-line/)
-- [Ventes d’armes : Mali, Guinée, Tchad, Maroc… Qui figure dans le top 10 des acheteurs africains ?](https://www.jeuneafrique.com/1774263/politique/ventes-darmes-mali-guinee-tchad-maroc-qui-figure-dans-le-top-10-des-acheteurs-africains/)
-- [Sahara occidental : le casting secret des négociations entre Rabat, Alger, Nouakchott et le Polisario](https://www.jeuneafrique.com/1774659/politique/sahara-occidental-le-casting-secret-des-negociations-entre-rabat-alger-nouakchott-et-le-polisario/)
+- [Brelotte Ba, l’homme de la relance du mobile money chez Sonatel](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
 - [Africa NextGen Economist Prize : et les finalistes sont…](https://www.jeuneafrique.com/1775179/economie-entreprises/africa-nextgen-economist-prize-et-les-finalistes-sont/)
-- [Dette : les dessous du fonds diaspora made in Gabon qui doit soulager les finances publiques](https://www.jeuneafrique.com/1774860/economie-entreprises/dette-les-dessous-du-fonds-diaspora-made-in-gabon-qui-doit-soulager-les-finances-publiques/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
-- [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
@@ -287,3 +286,4 @@
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
+- [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
