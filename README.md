@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 18:41*
+*Generato: 18 Mar 2026, 21:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ces pays arabes annoncent vendredi comme premier jour de l’Aïd...](https://www.lapresse.tn/2026/03/18/ces-pays-arabes-annoncent-vendredi-comme-premier-jour-de-laid-al-fitr-2026/)
-- [Nabiha Karaouli clôture le 24e festival de la Médina :...](https://www.lapresse.tn/2026/03/18/nabiha-karaouli-cloture-le-24e-festival-de-la-medina-en-parfaite-osmose-avec-le-public/)
+- [Entreprises tunisiennes : candidats jusqu’au 10 avril pour rejoindre l’accélérateur...](https://www.lapresse.tn/2026/03/18/entreprises-tunisiennes-candidats-jusquau-10-avril-pour-rejoindre-laccelerateur-pnud-flat6labs/)
+- [Découvrez le TUI Magic Life Africana avec Tunisie Promo :...](https://www.lapresse.tn/2026/03/18/decouvrez-le-tui-magic-life-africana-avec-tunisie-promo-lhotel-de-luxe-5-etoiles-ideal-pour-les-familles/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,6 +223,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
+- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
+- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
+- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
+- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
+- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
+- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
+- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
 - [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
 - [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
 - [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
@@ -258,7 +272,6 @@
 - [CAN 2025 : le titre retiré au Sénégal, le Maroc déclaré vainqueur](https://www.jeuneafrique.com/1775096/politique/can-2025-le-titre-retire-au-senegal-le-maroc-declare-vainqueur/)
 - [Congo-Brazzaville : Denis Sassou Nguesso réélu pour un cinquième mandat](https://www.jeuneafrique.com/1775070/politique/congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat/)
 - [En RDC, la Constitution est-elle l’otage des ambitions de Félix Tshisekedi ?](https://www.jeuneafrique.com/1774283/politique/en-rdc-la-constitution-est-elle-lotage-des-ambitions-de-felix-tshisekedi/)
-- [Côte d’Ivoire : comment Tidjane Thiam tente, depuis Paris, d’éteindre l’incendie au PDCI](https://www.jeuneafrique.com/1774669/politique/cote-divoire-comment-tidjane-thiam-tente-depuis-paris-deteindre-lincendie-au-pdci/)
 - [Brelotte Ba, l’atout de Sonatel pour gagner le bras de fer face à Wave](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
 - [Africa NextGen Economist Prize : et les finalistes sont…](https://www.jeuneafrique.com/1775179/economie-entreprises/africa-nextgen-economist-prize-et-les-finalistes-sont/)
 
