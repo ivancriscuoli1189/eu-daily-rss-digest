@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 11:36*
+*Generato: 18 Mar 2026, 12:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 - [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
 - [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
@@ -78,12 +79,11 @@
 - [EU enlargement: a strategic investment in Europe’s security and stability](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37532/eu-enlargement-a-strategic-investment-in-europe-s-security-and-stability)
 - [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
 - [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
-- [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sensibiliser les enfants aux premiers secours](https://www.lapresse.tn/2026/03/18/sensibiliser-les-enfants-aux-premiers-secours/)
-- [Arabie saoudite et plusieurs autres pays : observation du croissant...](https://www.lapresse.tn/2026/03/18/arabie-saoudite-et-plusieurs-autres-pays-observation-du-croissant-de-lune-de-laid-ce-mercredi/)
+- [Le journaliste de la chaîne Al-Manar Mohammad Cherri tué...](https://www.lapresse.tn/2026/03/18/le-journaliste-de-la-chaine-al-manar-mohammad-cherri-tue-avec-son-epouse-dans-un-raid/)
+- [La NASA dévoile des images inédites des planètes du système...](https://www.lapresse.tn/2026/03/18/la-nasa-devoile-des-images-inedites-des-planetes-du-systeme-solaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
