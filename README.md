@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 12:39*
+*Generato: 18 Mar 2026, 14:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le journaliste de la chaîne Al-Manar Mohammad Cherri tué...](https://www.lapresse.tn/2026/03/18/le-journaliste-de-la-chaine-al-manar-mohammad-cherri-tue-avec-son-epouse-dans-un-raid/)
-- [La NASA dévoile des images inédites des planètes du système...](https://www.lapresse.tn/2026/03/18/la-nasa-devoile-des-images-inedites-des-planetes-du-systeme-solaire/)
+- [Vol de cuivre : un technicien d’une entreprise publique à...](https://www.lapresse.tn/2026/03/18/vol-de-cuivre-un-technicien-dune-entreprise-publique-a-la-tete-dun-reseau/)
+- [Al Ahly – Espérance : le match retour se jouera...](https://www.lapresse.tn/2026/03/18/al-ahly-esperance-le-match-retour-se-jouera-officiellement-a-huis-clos/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -181,8 +181,8 @@
 - [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Who We Are](https://www.amnesty.org/en/about-us/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -270,10 +270,10 @@
 - [Cameroun : Paul Biya remplace Cavayé Yéguié Djibril et Marcel Niat Njifenji à l’Assemblée et au Sénat](https://www.jeuneafrique.com/1774832/politique/cameroun-paul-biya-remplace-cayave-yeguie-djibril-et-marcel-niat-njifenji-a-lassemblee-et-au-senat/)
 - [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
 - [Congo : un scrutin une nouvelle fois off-line](https://www.jeuneafrique.com/1774724/politique/congo-un-scrutin-une-nouvelle-fois-off-line/)
+- [Ventes d’armes : Mali, Guinée, Tchad, Maroc… Qui figure dans le top 10 des acheteurs africains ?](https://www.jeuneafrique.com/1774263/politique/ventes-darmes-mali-guinee-tchad-maroc-qui-figure-dans-le-top-10-des-acheteurs-africains/)
 - [Sahara occidental : le casting secret des négociations entre Rabat, Alger, Nouakchott et le Polisario](https://www.jeuneafrique.com/1774659/politique/sahara-occidental-le-casting-secret-des-negociations-entre-rabat-alger-nouakchott-et-le-polisario/)
-- [Félix Tshisekedi : « La RDC est sur la voie de la souveraineté sanitaire »](https://www.jeuneafrique.com/1774508/politique/felix-tshisekedi-la-rdc-est-sur-la-voie-de-la-souverainete-sanitaire/)
+- [Africa NextGen Economist Prize : et les finalistes sont…](https://www.jeuneafrique.com/1775179/economie-entreprises/africa-nextgen-economist-prize-et-les-finalistes-sont/)
 - [Dette : les dessous du fonds diaspora made in Gabon qui doit soulager les finances publiques](https://www.jeuneafrique.com/1774860/economie-entreprises/dette-les-dessous-du-fonds-diaspora-made-in-gabon-qui-doit-soulager-les-finances-publiques/)
-- [Pourquoi les bons résultats de MTN confirment la « stratégie tech » de Ralph Mupita](https://www.jeuneafrique.com/1775005/economie-entreprises/pourquoi-les-bons-resultats-de-mtn-confirment-la-strategie-tech-de-ralph-mupita/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
