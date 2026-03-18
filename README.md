@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 06:53*
+*Generato: 18 Mar 2026, 09:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Énergie solaire : le Japon injecte 37 millions de dinars...](https://www.lapresse.tn/2026/03/17/energie-solaire-le-japon-injecte-37-millions-de-dinars-dans-le-sud-tunisien/)
-- [CAN 2025 : la CAF annule la victoire du Sénégal...](https://www.lapresse.tn/2026/03/17/can-2025-la-caf-annule-la-victoire-du-senegal-et-sacre-le-maroc/)
+- [Retrait de mandats, pensions de retraite…: ouverture, ce soir,...](https://www.lapresse.tn/2026/03/18/retrait-de-mandats-pensions-de-retraite-ouverture-ce-soir-de-127-bureaux-de-poste/)
+- [Radio Nationale-Meilleures œuvres dramatiques du Ramadan : les résultats annoncés](https://www.lapresse.tn/2026/03/18/radio-nationale-meilleures-oeuvres-dramatiques-du-ramadan-les-resultats-annonces/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,7 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Affaire Martinez Zogo au Cameroun : pourquoi la défense de Léopold Maxime Eko Eko est fragilisée](https://www.jeuneafrique.com/1774397/politique/affaire-martinez-zogo-au-cameroun-pourquoi-la-defense-de-leopold-maxime-eko-eko-est-fragilisee/)
+- [Congo-Brazzaville : Denis Sassou Nguesso réélu pour un cinquième mandat](https://www.jeuneafrique.com/1775070/politique/congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat/)
 - [Financement libyen : à nouveau devant les juges, Nicolas Sarkozy nie toujours l’existence de fonds secrets](https://www.jeuneafrique.com/1774805/politique/financement-libyen-a-nouveau-devant-les-juges-nicolas-sarkozy-nie-toujours-lexistence-de-fonds-secrets/)
 - [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
 - [Cameroun : Paul Biya remplace Cavayé Yéguié Djibril et Marcel Niat Njifenji à l’Assemblée et au Sénat](https://www.jeuneafrique.com/1774832/politique/cameroun-paul-biya-remplace-cayave-yeguie-djibril-et-marcel-niat-njifenji-a-lassemblee-et-au-senat/)
@@ -272,8 +272,8 @@
 - [Congo : un scrutin une nouvelle fois off-line](https://www.jeuneafrique.com/1774724/politique/congo-un-scrutin-une-nouvelle-fois-off-line/)
 - [Sahara occidental : le casting secret des négociations entre Rabat, Alger, Nouakchott et le Polisario](https://www.jeuneafrique.com/1774659/politique/sahara-occidental-le-casting-secret-des-negociations-entre-rabat-alger-nouakchott-et-le-polisario/)
 - [Félix Tshisekedi : « La RDC est sur la voie de la souveraineté sanitaire »](https://www.jeuneafrique.com/1774508/politique/felix-tshisekedi-la-rdc-est-sur-la-voie-de-la-souverainete-sanitaire/)
+- [Pourquoi les bons résultats de MTN confirment la « stratégie tech » de Ralph Mupita](https://www.jeuneafrique.com/1775005/economie-entreprises/pourquoi-les-bons-resultats-de-mtn-confirment-la-strategie-tech-de-ralph-mupita/)
 - [Numérique : les IPN, nouvel enjeu de souveraineté en Afrique](https://www.jeuneafrique.com/1774777/economie-entreprises/numerique-les-ipn-nouvel-enjeu-de-souverainete-en-afrique/)
-- [Bruno Nabagné Koné : « Les difficultés dans le cacao vont renforcer l’alliance entre la Côte d’Ivoire et le Ghana »](https://www.jeuneafrique.com/1774579/economie-entreprises/bruno-nabagne-kone-les-difficultes-dans-le-cacao-vont-renforcer-lalliance-entre-la-cote-divoire-et-le-ghana/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
