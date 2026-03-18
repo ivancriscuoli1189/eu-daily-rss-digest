@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 09:40*
+*Generato: 18 Mar 2026, 11:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
 - [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
@@ -78,12 +79,11 @@
 - [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
 - [Parliament’s economic, employment and social priorities for 2026](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37530/parliament-s-economic-employment-and-social-priorities-for-2026)
 - [MEPs demand action plan to eradicate the gender pay and pension gaps](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37526/meps-demand-action-plan-to-eradicate-the-gender-pay-and-pension-gaps)
-- [Child sexual abuse online: support for extending voluntary rules until August 2027](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37531/child-sexual-abuse-online-support-for-extending-rules-until-august-2027)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Retrait de mandats, pensions de retraite…: ouverture, ce soir,...](https://www.lapresse.tn/2026/03/18/retrait-de-mandats-pensions-de-retraite-ouverture-ce-soir-de-127-bureaux-de-poste/)
-- [Radio Nationale-Meilleures œuvres dramatiques du Ramadan : les résultats annoncés](https://www.lapresse.tn/2026/03/18/radio-nationale-meilleures-oeuvres-dramatiques-du-ramadan-les-resultats-annonces/)
+- [Sensibiliser les enfants aux premiers secours](https://www.lapresse.tn/2026/03/18/sensibiliser-les-enfants-aux-premiers-secours/)
+- [Arabie saoudite et plusieurs autres pays : observation du croissant...](https://www.lapresse.tn/2026/03/18/arabie-saoudite-et-plusieurs-autres-pays-observation-du-croissant-de-lune-de-laid-ce-mercredi/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -184,27 +184,14 @@
 - [繁中](https://www.amnesty.org/zh-hant/location/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Olympics: Sex Testing Harms All Women and Girls](https://www.icj.org/olympics-sex-testing-harms-all-women-and-girls/)
 - [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
 - [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
 - [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
-- [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
@@ -272,11 +259,12 @@
 - [Congo : un scrutin une nouvelle fois off-line](https://www.jeuneafrique.com/1774724/politique/congo-un-scrutin-une-nouvelle-fois-off-line/)
 - [Sahara occidental : le casting secret des négociations entre Rabat, Alger, Nouakchott et le Polisario](https://www.jeuneafrique.com/1774659/politique/sahara-occidental-le-casting-secret-des-negociations-entre-rabat-alger-nouakchott-et-le-polisario/)
 - [Félix Tshisekedi : « La RDC est sur la voie de la souveraineté sanitaire »](https://www.jeuneafrique.com/1774508/politique/felix-tshisekedi-la-rdc-est-sur-la-voie-de-la-souverainete-sanitaire/)
+- [Dette : les dessous du fonds diaspora made in Gabon qui doit soulager les finances publiques](https://www.jeuneafrique.com/1774860/economie-entreprises/dette-les-dessous-du-fonds-diaspora-made-in-gabon-qui-doit-soulager-les-finances-publiques/)
 - [Pourquoi les bons résultats de MTN confirment la « stratégie tech » de Ralph Mupita](https://www.jeuneafrique.com/1775005/economie-entreprises/pourquoi-les-bons-resultats-de-mtn-confirment-la-strategie-tech-de-ralph-mupita/)
-- [Numérique : les IPN, nouvel enjeu de souveraineté en Afrique](https://www.jeuneafrique.com/1774777/economie-entreprises/numerique-les-ipn-nouvel-enjeu-de-souverainete-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
@@ -286,4 +274,3 @@
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
-- [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
