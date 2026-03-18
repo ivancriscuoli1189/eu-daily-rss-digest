@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Mar 2026, 21:26*
+*Generato: 18 Mar 2026, 06:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Iran : le Conseil suprême de sécurité nationale confirme le...](https://www.lapresse.tn/2026/03/17/iran-le-conseil-supreme-de-securite-nationale-confirme-le-deces-dali-larijani/)
-- [Guerre contre l’Iran : démentant Trump, Macron affirme : «...](https://www.lapresse.tn/2026/03/17/guerre-contre-liran-dementant-trump-macron-affirme-non-la-france-ne-participera-pas/)
+- [Énergie solaire : le Japon injecte 37 millions de dinars...](https://www.lapresse.tn/2026/03/17/energie-solaire-le-japon-injecte-37-millions-de-dinars-dans-le-sud-tunisien/)
+- [CAN 2025 : la CAF annule la victoire du Sénégal...](https://www.lapresse.tn/2026/03/17/can-2025-la-caf-annule-la-victoire-du-senegal-et-sacre-le-maroc/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Affaire Martinez Zogo au Cameroun : pourquoi la défense de Léopold Maxime Eko Eko est fragilisée](https://www.jeuneafrique.com/1774397/politique/affaire-martinez-zogo-au-cameroun-pourquoi-la-defense-de-leopold-maxime-eko-eko-est-fragilisee/)
 - [Financement libyen : à nouveau devant les juges, Nicolas Sarkozy nie toujours l’existence de fonds secrets](https://www.jeuneafrique.com/1774805/politique/financement-libyen-a-nouveau-devant-les-juges-nicolas-sarkozy-nie-toujours-lexistence-de-fonds-secrets/)
 - [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
+- [Cameroun : Paul Biya remplace Cavayé Yéguié Djibril et Marcel Niat Njifenji à l’Assemblée et au Sénat](https://www.jeuneafrique.com/1774832/politique/cameroun-paul-biya-remplace-cayave-yeguie-djibril-et-marcel-niat-njifenji-a-lassemblee-et-au-senat/)
 - [Cinq ans ferme : les peines s’accumulent pour l’ancien président tunisien Moncef Marzouki](https://www.jeuneafrique.com/1774684/politique/cinq-ans-ferme-les-peines-saccumulent-pour-lancien-president-tunisien-moncef-marzouki/)
 - [Congo : un scrutin une nouvelle fois off-line](https://www.jeuneafrique.com/1774724/politique/congo-un-scrutin-une-nouvelle-fois-off-line/)
 - [Sahara occidental : le casting secret des négociations entre Rabat, Alger, Nouakchott et le Polisario](https://www.jeuneafrique.com/1774659/politique/sahara-occidental-le-casting-secret-des-negociations-entre-rabat-alger-nouakchott-et-le-polisario/)
 - [Félix Tshisekedi : « La RDC est sur la voie de la souveraineté sanitaire »](https://www.jeuneafrique.com/1774508/politique/felix-tshisekedi-la-rdc-est-sur-la-voie-de-la-souverainete-sanitaire/)
-- [CAN au Maroc : dès son ouverture, le procès en appel des 18 supporters sénégalais a été reporté](https://www.jeuneafrique.com/1774664/societe/can-au-maroc-des-son-ouverture-le-proces-en-appel-des-18-supporters-senegalais-a-ete-reporte/)
-- [Cameroun – Chris Manengs : « L’exil d’Issa Tchiroma Bakary a été stratégiquement dévastateur »](https://www.jeuneafrique.com/1772665/politique/cameroun-chris-manengs-lexil-dissa-tchiroma-bakary-a-ete-strategiquement-devastateur/)
 - [Numérique : les IPN, nouvel enjeu de souveraineté en Afrique](https://www.jeuneafrique.com/1774777/economie-entreprises/numerique-les-ipn-nouvel-enjeu-de-souverainete-en-afrique/)
 - [Bruno Nabagné Koné : « Les difficultés dans le cacao vont renforcer l’alliance entre la Côte d’Ivoire et le Ghana »](https://www.jeuneafrique.com/1774579/economie-entreprises/bruno-nabagne-kone-les-difficultes-dans-le-cacao-vont-renforcer-lalliance-entre-la-cote-divoire-et-le-ghana/)
 
