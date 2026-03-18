@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 18 Mar 2026, 15:58*
+*Generato: 18 Mar 2026, 18:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Une délégation d’acheteurs Marocains attendue le 25 mars en Tunisie](https://www.lapresse.tn/2026/03/18/une-delegation-dacheteurs-marocains-attendue-le-25-mars-en-tunisie/)
-- [CAWTAR lance une plateforme interactive sur les droits et l’égalité...](https://www.lapresse.tn/2026/03/18/cawtar-lance-une-plateforme-interactive-sur-les-droits-et-legalite-dans-le-monde-arabe/)
+- [Ces pays arabes annoncent vendredi comme premier jour de l’Aïd...](https://www.lapresse.tn/2026/03/18/ces-pays-arabes-annoncent-vendredi-comme-premier-jour-de-laid-al-fitr-2026/)
+- [Nabiha Karaouli clôture le 24e festival de la Médina :...](https://www.lapresse.tn/2026/03/18/nabiha-karaouli-cloture-le-24e-festival-de-la-medina-en-parfaite-osmose-avec-le-public/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,19 +223,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
-- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
-- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
-- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
-- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
-- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
-- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
-- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
@@ -264,19 +251,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Assassinat de Lumumba : qui était Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
+- [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
+- [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
+- [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
+- [Conseil de la paix de Donald Trump : le Maroc parie sur le monde d’après](https://www.jeuneafrique.com/1774159/politique/conseil-de-la-paix-de-donald-trump-le-maroc-parie-sur-le-monde-dapres/)
 - [CAN 2025 : le titre retiré au Sénégal, le Maroc déclaré vainqueur](https://www.jeuneafrique.com/1775096/politique/can-2025-le-titre-retire-au-senegal-le-maroc-declare-vainqueur/)
 - [Congo-Brazzaville : Denis Sassou Nguesso réélu pour un cinquième mandat](https://www.jeuneafrique.com/1775070/politique/congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat/)
 - [En RDC, la Constitution est-elle l’otage des ambitions de Félix Tshisekedi ?](https://www.jeuneafrique.com/1774283/politique/en-rdc-la-constitution-est-elle-lotage-des-ambitions-de-felix-tshisekedi/)
 - [Côte d’Ivoire : comment Tidjane Thiam tente, depuis Paris, d’éteindre l’incendie au PDCI](https://www.jeuneafrique.com/1774669/politique/cote-divoire-comment-tidjane-thiam-tente-depuis-paris-deteindre-lincendie-au-pdci/)
-- [Financement libyen : à nouveau devant les juges, Nicolas Sarkozy nie toujours l’existence de fonds secrets](https://www.jeuneafrique.com/1774805/politique/financement-libyen-a-nouveau-devant-les-juges-nicolas-sarkozy-nie-toujours-lexistence-de-fonds-secrets/)
-- [Assassinat de Patrice Lumumba : un ex-diplomate belge bientôt jugé pour « participation à des crimes de guerre »](https://www.jeuneafrique.com/1774866/politique/assassinat-de-patrice-lumumba-un-ex-diplomate-belge-bientot-juge-pour-participation-a-des-crimes-de-guerre/)
-- [Cameroun : Paul Biya remplace Cavayé Yéguié Djibril et Marcel Niat Njifenji à l’Assemblée et au Sénat](https://www.jeuneafrique.com/1774832/politique/cameroun-paul-biya-remplace-cayave-yeguie-djibril-et-marcel-niat-njifenji-a-lassemblee-et-au-senat/)
-- [Brelotte Ba, l’homme de la relance du mobile money chez Sonatel](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
+- [Brelotte Ba, l’atout de Sonatel pour gagner le bras de fer face à Wave](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
 - [Africa NextGen Economist Prize : et les finalistes sont…](https://www.jeuneafrique.com/1775179/economie-entreprises/africa-nextgen-economist-prize-et-les-finalistes-sont/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
@@ -286,4 +274,3 @@
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
 - [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
-- [Roma è una cometa](https://www.limesonline.com/rubriche/mappe-parlanti/rubrica-mappe-parlanti-geografia-dei-quartieri-di-roma-mediterraneo-20669248/)
