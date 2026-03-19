@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 15:41*
+*Generato: 19 Mar 2026, 18:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’occupation sioniste continue de fermer la mosquée Al-Aqsa pour le...](https://www.lapresse.tn/2026/03/19/loccupation-sioniste-continue-de-fermer-la-mosquee-al-aqsa-pour-le-20e-jour-consecutif/)
-- [Officiel : quatre pays annoncent samedi comme premier jour de...](https://www.lapresse.tn/2026/03/19/officiel-quatre-pays-annoncent-samedi-comme-premier-jour-de-laid/)
+- [Le CAB profite de la mini-trêve : Une pause bénéfique...](https://www.lapresse.tn/2026/03/19/le-cab-profite-de-la-mini-treve-une-pause-benefique-sur-tous-les-plans/)
+- [Métlaoui : Quand la santé vient à la rencontre des...](https://www.lapresse.tn/2026/03/19/metlaoui-quand-la-sante-vient-a-la-rencontre-des-habitants-du-bassin-minier/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,13 +267,13 @@
 - [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
 - [« On ne cherche pas quelqu’un de propre à 100 % mais à plus de 60 % » : à Madagascar, les futurs ministres passés au détecteur de mensonges](https://www.jeuneafrique.com/1775895/politique/on-ne-cherche-pas-quelquun-de-propre-a-100-mais-a-plus-de-60-a-madagascar-les-futurs-ministres-passes-au-detecteur-de-mensonges/)
 - [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
+- [Bally Bagayoko, nouveau maire de Saint-Denis né de parents maliens : la victoire qui dérange](https://www.jeuneafrique.com/1775420/politique/bally-bagayoko-nouveau-maire-de-saint-denis-ne-de-parents-maliens-la-victoire-qui-derange/)
+- [RDC : Modeste Bahati Lukwebo jette l’éponge et démissionne](https://www.jeuneafrique.com/1775524/politique/rdc-modeste-bahati-lukwebo-jette-leponge-et-demissionne/)
+- [Gabon : depuis l’Europe, les Bongo ripostent sur tous les fronts](https://www.jeuneafrique.com/1775046/politique/gabon-depuis-leurope-les-bongo-ripostent-sur-tous-les-fronts/)
 - [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
 - [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
-- [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
-- [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
-- [Retour des États-Unis au Sahel : pourquoi l’administration Trump veut-elle relancer la coopération ?](https://www.jeuneafrique.com/1774913/politique/retour-des-etats-unis-dans-le-sahel-pourquoi-ladministration-trump-veut-elle-relancer-la-cooperation/)
 - [Mamadi Doumbouya veut imprimer des billets de 50 000 francs guinéens](https://www.jeuneafrique.com/1775742/economie-entreprises/mamadi-doumbouya-veut-imprimer-des-billets-de-50-000-francs-guineens/)
-- [Mines : Pékin est-il le principal perdant de la limitation des exportations de bauxite par la Guinée ?](https://www.jeuneafrique.com/1775481/economie-entreprises/mines-pekin-est-il-le-principal-perdant-de-la-limitation-des-exportations-de-bauxite-par-la-guinee/)
+- [Turkish Airlines maintient le cap en Afrique malgré les turbulences](https://www.jeuneafrique.com/1774947/economie-entreprises/turkish-airlines-maintient-le-cap-en-afrique-malgre-les-turbulences/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
