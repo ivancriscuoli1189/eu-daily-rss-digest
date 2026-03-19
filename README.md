@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 06:42*
+*Generato: 19 Mar 2026, 09:32*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [ELMED : la Tunisie investit un tiers du projet stratégique...](https://www.lapresse.tn/2026/03/18/elmed-la-tunisie-investit-un-tiers-du-projet-strategique-de-connexion-electrique-avec-litalie/)
-- [2 tonnes par jour au lieu de 4 : la...](https://www.lapresse.tn/2026/03/18/2-tonnes-par-jour-au-lieu-de-4-la-production-de-beurre-seffondre-a-mahdia/)
+- [Conflit au Moyen-Orient : appel à évacuer les marins bloqués...](https://www.lapresse.tn/2026/03/19/conflit-au-moyen-orient-appel-a-evacuer-les-marins-bloques-dans-le-golfe/)
+- [Le recul du dollar entraine une nouvelle hausse des prix...](https://www.lapresse.tn/2026/03/19/le-recul-du-dollar-entraine-une-nouvelle-hausse-des-prix-de-lor/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -251,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
 - [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
 - [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
 - [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
 - [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
 - [Conseil de la paix de Donald Trump : le Maroc parie sur le monde d’après](https://www.jeuneafrique.com/1774159/politique/conseil-de-la-paix-de-donald-trump-le-maroc-parie-sur-le-monde-dapres/)
+- [Affaire Martinez Zogo au Cameroun : pourquoi la défense de Léopold Maxime Eko Eko est fragilisée](https://www.jeuneafrique.com/1774397/politique/affaire-martinez-zogo-au-cameroun-pourquoi-la-defense-de-leopold-maxime-eko-eko-est-fragilisee/)
 - [CAN 2025 : le titre retiré au Sénégal, le Maroc déclaré vainqueur](https://www.jeuneafrique.com/1775096/politique/can-2025-le-titre-retire-au-senegal-le-maroc-declare-vainqueur/)
-- [Congo-Brazzaville : Denis Sassou Nguesso réélu pour un cinquième mandat](https://www.jeuneafrique.com/1775070/politique/congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat/)
-- [En RDC, la Constitution est-elle l’otage des ambitions de Félix Tshisekedi ?](https://www.jeuneafrique.com/1774283/politique/en-rdc-la-constitution-est-elle-lotage-des-ambitions-de-felix-tshisekedi/)
+- [Congo : Denis Sassou Nguesso à peine réélu, le FMI tire la sonnette d’alarme](https://www.jeuneafrique.com/1775306/economie-entreprises/congo-denis-sassou-nguesso-a-peine-reelu-le-fmi-tire-la-sonnette-dalarme/)
 - [Brelotte Ba, l’atout de Sonatel pour gagner le bras de fer face à Wave](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
-- [Africa NextGen Economist Prize : et les finalistes sont…](https://www.jeuneafrique.com/1775179/economie-entreprises/africa-nextgen-economist-prize-et-les-finalistes-sont/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
