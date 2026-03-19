@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 14:01*
+*Generato: 19 Mar 2026, 15:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Metsola to EU leaders: “We must be an economic force to speak language of power”](https://www.europarl.europa.eu/news/en/press-room/20260319IPR38602/metsola-to-eu-leaders-we-must-be-an-economic-force-to-speak-language-of-power)
 - [MEPs back the lowering of tariffs on US agricultural and industrial products](https://www.europarl.europa.eu/news/en/press-room/20260318IPR38502/meps-back-the-lowering-of-tariffs-on-us-agricultural-and-industrial-products)
 - [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
@@ -78,12 +79,11 @@
 - [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
-- [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Record historique pour l’huile d’olive tunisienne à l’export](https://www.lapresse.tn/2026/03/19/record-historique-pour-lhuile-dolive-tunisienne-a-lexport/)
-- [Vers la fin du lait en vrac en Tunisie ?](https://www.lapresse.tn/2026/03/19/vers-la-fin-du-lait-en-vrac-en-tunisie/)
+- [L’occupation sioniste continue de fermer la mosquée Al-Aqsa pour le...](https://www.lapresse.tn/2026/03/19/loccupation-sioniste-continue-de-fermer-la-mosquee-al-aqsa-pour-le-20e-jour-consecutif/)
+- [Officiel : quatre pays annoncent samedi comme premier jour de...](https://www.lapresse.tn/2026/03/19/officiel-quatre-pays-annoncent-samedi-comme-premier-jour-de-laid/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -200,11 +200,11 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Olympics: Sex Testing Harms All Women and Girls](https://www.icj.org/olympics-sex-testing-harms-all-women-and-girls/)
+- [Erosion Of Fair Trial Rights And Threats To Lawyers in Myanmar](https://www.icj.org/erosion-of-fair-trial-rights-and-threats-to-lawyers-in-myanmar/)
 - [Systematic Attacks And Judicial Harassment Against Lawyers In Belarus](https://www.icj.org/systematic-attacks-and-judicial-harassment-against-lawyers-in-belarus/)
 - [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
 - [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
 - [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
-- [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
+- [« On ne cherche pas quelqu’un de propre à 100 % mais à plus de 60 % » : à Madagascar, les futurs ministres passés au détecteur de mensonges](https://www.jeuneafrique.com/1775895/politique/on-ne-cherche-pas-quelquun-de-propre-a-100-mais-a-plus-de-60-a-madagascar-les-futurs-ministres-passes-au-detecteur-de-mensonges/)
 - [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
 - [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
 - [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
 - [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
 - [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
 - [Retour des États-Unis au Sahel : pourquoi l’administration Trump veut-elle relancer la coopération ?](https://www.jeuneafrique.com/1774913/politique/retour-des-etats-unis-dans-le-sahel-pourquoi-ladministration-trump-veut-elle-relancer-la-cooperation/)
-- [Conseil de la paix de Donald Trump : le Maroc parie sur le monde d’après](https://www.jeuneafrique.com/1774159/politique/conseil-de-la-paix-de-donald-trump-le-maroc-parie-sur-le-monde-dapres/)
-- [Affaire Martinez Zogo au Cameroun : pourquoi la défense de Léopold Maxime Eko Eko est fragilisée](https://www.jeuneafrique.com/1774397/politique/affaire-martinez-zogo-au-cameroun-pourquoi-la-defense-de-leopold-maxime-eko-eko-est-fragilisee/)
+- [Mamadi Doumbouya veut imprimer des billets de 50 000 francs guinéens](https://www.jeuneafrique.com/1775742/economie-entreprises/mamadi-doumbouya-veut-imprimer-des-billets-de-50-000-francs-guineens/)
 - [Mines : Pékin est-il le principal perdant de la limitation des exportations de bauxite par la Guinée ?](https://www.jeuneafrique.com/1775481/economie-entreprises/mines-pekin-est-il-le-principal-perdant-de-la-limitation-des-exportations-de-bauxite-par-la-guinee/)
-- [Congo : Denis Sassou Nguesso à peine réélu, le FMI tire la sonnette d’alarme](https://www.jeuneafrique.com/1775306/economie-entreprises/congo-denis-sassou-nguesso-a-peine-reelu-le-fmi-tire-la-sonnette-dalarme/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
