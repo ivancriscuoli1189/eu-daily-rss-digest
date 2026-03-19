@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 09:32*
+*Generato: 19 Mar 2026, 11:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs back the lowering of tariffs on US agricultural and industrial products](https://www.europarl.europa.eu/news/en/press-room/20260318IPR38502/meps-back-the-lowering-of-tariffs-on-us-agricultural-and-industrial-products)
 - [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
 - [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 - [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
@@ -78,7 +79,6 @@
 - [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
 - [Armenia’s Prime Minister Nikol Pashinyan addresses MEPs on peace efforts with Azerbaijan](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37529/prime-minister-nikol-pashinyan-addresses-meps-on-peace-efforts-with-azerbaijan)
 - [EU enlargement: a strategic investment in Europe’s security and stability](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37532/eu-enlargement-a-strategic-investment-in-europe-s-security-and-stability)
-- [MEPs call for common defence market and action on flagship EU defence projects](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37534/meps-call-for-common-defence-market-and-action-on-flagship-eu-defence-projects)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -145,19 +145,6 @@
 - [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
 - [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
 
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -168,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Conflit au Moyen-Orient : appel à évacuer les marins bloqués...](https://www.lapresse.tn/2026/03/19/conflit-au-moyen-orient-appel-a-evacuer-les-marins-bloques-dans-le-golfe/)
-- [Le recul du dollar entraine une nouvelle hausse des prix...](https://www.lapresse.tn/2026/03/19/le-recul-du-dollar-entraine-une-nouvelle-hausse-des-prix-de-lor/)
+- [Trains de la banlieue de Tunis : à partir...](https://www.lapresse.tn/2026/03/19/trains-de-la-banlieue-de-tunis-a-partir-de-laid-el-fitr-ajustement-des-horaires-dhiver/)
+- [Malgré ses lacunes juridiques : la lettre de change a...](https://www.lapresse.tn/2026/03/19/malgre-ses-lacunes-juridiques-la-lettre-de-change-a-le-vent-en-poupe/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -269,9 +256,9 @@
 - [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
 - [RDC-AS Monaco : le ministre des Sports contre-attaque devant la justice française](https://www.jeuneafrique.com/1775176/politique/rdc-as-monaco-le-ministre-des-sports-contre-attaque-devant-la-justice-francaise/)
 - [« La coupe ne quittera pas le pays » : bronca au Sénégal après la décision de la CAF](https://www.jeuneafrique.com/1775194/politique/la-coupe-ne-quittera-pas-le-pays-bronca-au-senegal-apres-la-decision-de-la-caf/)
+- [Retour des États-Unis au Sahel : pourquoi l’administration Trump veut-elle relancer la coopération ?](https://www.jeuneafrique.com/1774913/politique/retour-des-etats-unis-dans-le-sahel-pourquoi-ladministration-trump-veut-elle-relancer-la-cooperation/)
 - [Conseil de la paix de Donald Trump : le Maroc parie sur le monde d’après](https://www.jeuneafrique.com/1774159/politique/conseil-de-la-paix-de-donald-trump-le-maroc-parie-sur-le-monde-dapres/)
 - [Affaire Martinez Zogo au Cameroun : pourquoi la défense de Léopold Maxime Eko Eko est fragilisée](https://www.jeuneafrique.com/1774397/politique/affaire-martinez-zogo-au-cameroun-pourquoi-la-defense-de-leopold-maxime-eko-eko-est-fragilisee/)
-- [CAN 2025 : le titre retiré au Sénégal, le Maroc déclaré vainqueur](https://www.jeuneafrique.com/1775096/politique/can-2025-le-titre-retire-au-senegal-le-maroc-declare-vainqueur/)
 - [Congo : Denis Sassou Nguesso à peine réélu, le FMI tire la sonnette d’alarme](https://www.jeuneafrique.com/1775306/economie-entreprises/congo-denis-sassou-nguesso-a-peine-reelu-le-fmi-tire-la-sonnette-dalarme/)
 - [Brelotte Ba, l’atout de Sonatel pour gagner le bras de fer face à Wave](https://www.jeuneafrique.com/1774420/economie-entreprises/brelotte-ba-lhomme-de-la-relance-du-mobile-money-chez-sonatel/)
 
