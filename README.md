@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 18:38*
+*Generato: 19 Mar 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le CAB profite de la mini-trêve : Une pause bénéfique...](https://www.lapresse.tn/2026/03/19/le-cab-profite-de-la-mini-treve-une-pause-benefique-sur-tous-les-plans/)
-- [Métlaoui : Quand la santé vient à la rencontre des...](https://www.lapresse.tn/2026/03/19/metlaoui-quand-la-sante-vient-a-la-rencontre-des-habitants-du-bassin-minier/)
+- [Netanyahu : « Je suis en vie ! »](https://www.lapresse.tn/2026/03/19/netanyahu-je-suis-en-vie/)
+- [Voyage au cœur des gâteaux traditionnels tunisiens ou « Hlou...](https://www.lapresse.tn/2026/03/19/voyage-au-coeur-des-gateaux-traditionnels-tunisiens-ou-hlou-arbi/)
 
 ## NGOs – Amnesty International – Tunisia
 
