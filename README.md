@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Mar 2026, 06:38*
+*Generato: 20 Mar 2026, 09:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’ambassade des États-Unis en Tunisie invite les PME et start-ups...](https://www.lapresse.tn/2026/03/19/lambassade-des-etats-unis-en-tunisie-invite-les-pme-et-start-ups-a-participer-au-sommet-selectusa/)
-- [Mohammad Baqer Qalibaf : qui est le dernier survivant du...](https://www.lapresse.tn/2026/03/19/mohammad-baqer-qalibaf-qui-est-le-dernier-survivant-du-cercle-restreint-du-pouvoir-iranien/)
+- [Arrivée de nouveaux bus chinois au port de La Goulette](https://www.lapresse.tn/2026/03/20/arrivee-de-nouveaux-bus-chinois-au-port-de-la-goulette/)
+- [Bonne nouvelle pour les automobilistes : retour à la normale...](https://www.lapresse.tn/2026/03/20/bonne-nouvelle-pour-les-automobilistes-retour-a-la-normale-du-trafic-a-lentree-sud-pendant-laid/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Cameroun, Paul Biya a-t-il sonné la fin des dinosaures ?](https://www.jeuneafrique.com/1775780/politique/au-cameroun-paul-biya-a-t-il-sonne-la-fin-des-dinosaures/)
+- [L’AES dit son « indignation » après une résolution européenne appelant à libérer Mohamed Bazoum](https://www.jeuneafrique.com/1776169/politique/laes-dit-son-indignation-apres-une-resolution-europeenne-appelant-a-liberer-mohamed-bazoum/)
+- [Tunisie : l’icône antiraciste Saadia Mosbah condamnée à huit ans de prison](https://www.jeuneafrique.com/1776156/politique/tunisie-licone-antiraciste-saadia-mosbah-condamnee-a-huit-ans-de-prison/)
+- [CAN 2025 : Motsepe prend la parole, la fédération sénégalaise lui répond, et le bras de fer continue](https://www.jeuneafrique.com/1776072/politique/can-2025-motsepe-prend-la-parole-la-federation-senegalaise-lui-repond-et-le-bras-de-fer-continue/)
 - [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
 - [« On ne cherche pas quelqu’un de propre à 100 % mais à plus de 60 % » : à Madagascar, les futurs ministres passés au détecteur de mensonges](https://www.jeuneafrique.com/1775895/politique/on-ne-cherche-pas-quelquun-de-propre-a-100-mais-a-plus-de-60-a-madagascar-les-futurs-ministres-passes-au-detecteur-de-mensonges/)
 - [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
 - [Bally Bagayoko, nouveau maire de Saint-Denis né de parents maliens : la victoire qui dérange](https://www.jeuneafrique.com/1775420/politique/bally-bagayoko-nouveau-maire-de-saint-denis-ne-de-parents-maliens-la-victoire-qui-derange/)
-- [RDC : Modeste Bahati Lukwebo jette l’éponge et démissionne](https://www.jeuneafrique.com/1775524/politique/rdc-modeste-bahati-lukwebo-jette-leponge-et-demissionne/)
-- [Gabon : depuis l’Europe, les Bongo ripostent sur tous les fronts](https://www.jeuneafrique.com/1775046/politique/gabon-depuis-leurope-les-bongo-ripostent-sur-tous-les-fronts/)
-- [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
+- [Au Cameroun, comment les autorités s’activent pour assurer la tenue du sommet de l’OMC](https://www.jeuneafrique.com/1774760/politique/au-cameroun-comment-les-autorites-sactivent-pour-assurer-la-tenue-du-sommet-de-lomc/)
+- [Dette africaine : la guerre au Moyen-Orient menace le retour des États sur les marchés](https://www.jeuneafrique.com/1775615/economie-entreprises/dette-africaine-la-guerre-au-moyen-orient-menace-le-retour-des-etats-sur-les-marches/)
 - [Mamadi Doumbouya veut imprimer des billets de 50 000 francs guinéens](https://www.jeuneafrique.com/1775742/economie-entreprises/mamadi-doumbouya-veut-imprimer-des-billets-de-50-000-francs-guineens/)
-- [Turkish Airlines maintient le cap en Afrique malgré les turbulences](https://www.jeuneafrique.com/1774947/economie-entreprises/turkish-airlines-maintient-le-cap-en-afrique-malgre-les-turbulences/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
