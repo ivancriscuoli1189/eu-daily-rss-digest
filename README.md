@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Mar 2026, 15:32*
+*Generato: 20 Mar 2026, 18:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -131,19 +131,6 @@
 - [en English](https://home-affairs.ec.europa.eu/news_en)
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
-
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
 
 ## UE – Tunisie – Projects portal (Governance)
 
@@ -168,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Reprise de la démolition du pont d’El Mourouj à partir...](https://www.lapresse.tn/2026/03/20/reprise-de-la-demolition-du-pont-del-mourouj-a-partir-de-cette-date/)
-- [Plus de 3,5 milliards de dinars d’investissements étrangers en 2025...](https://www.lapresse.tn/2026/03/20/plus-de-35-milliards-de-dinars-dinvestissements-etrangers-en-2025-la-france-conserve-sa-place-de-leader/)
+- [Présentation du livre « Me habitech » à l’Agora : Un nouveau chemin...](https://www.lapresse.tn/2026/03/20/presentation-du-livre-me-habitech-a-lagora-un-nouveau-chemin-litteraire-pour-khaled-houissa/)
+- [Championnats du monde d’athlétisme en salle Kujawy Pomorze 26 :...](https://www.lapresse.tn/2026/03/20/championnats-du-monde-dathletisme-en-salle-kujawy-pomorze-26-lequipe-de-tunisie-absente/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +212,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
 - [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 - [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
@@ -234,7 +222,6 @@
 - [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
 - [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
 - [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
-- [Trump strikes Iran](https://ecfr.eu/podcasts/episode/trump-strikes-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Rencontre des chefs d’état-major à Cotonou : la France, le Bénin et la Côte d’Ivoire font front commun](https://www.jeuneafrique.com/1776412/politique/rencontre-des-chefs-detat-major-a-cotonou-la-france-le-benin-et-la-cote-divoire-font-front-commun/)
+- [Passer les ministres au détecteur de mensonge : le pari osé de Randrianirina à Madagascar](https://www.jeuneafrique.com/1776297/politique/passer-les-ministres-au-detecteur-de-mensonge-le-pari-ose-de-randrianirina-a-madagascar/)
 - [« Pourquoi le monde a besoin de l’OIF », par Amina Priscille Longoh, ambassadrice du Tchad en France](https://www.jeuneafrique.com/1774853/politique/pourquoi-le-monde-a-besoin-de-loif-par-amina-priscille-longoh-ambassadrice-du-tchad-en-france/)
 - [Cameroun : le mandat des députés de nouveau prolongé](https://www.jeuneafrique.com/1776184/politique/cameroun-le-mandat-des-deputes-de-nouveau-prolonge/)
 - [L’AES dit son « indignation » après une résolution européenne appelant à libérer Mohamed Bazoum](https://www.jeuneafrique.com/1776169/politique/laes-dit-son-indignation-apres-une-resolution-europeenne-appelant-a-liberer-mohamed-bazoum/)
 - [Tunisie : l’icône antiraciste Saadia Mosbah condamnée à huit ans de prison](https://www.jeuneafrique.com/1776156/politique/tunisie-licone-antiraciste-saadia-mosbah-condamnee-a-huit-ans-de-prison/)
 - [CAN 2025 : Motsepe prend la parole, la fédération sénégalaise lui répond, et le bras de fer continue](https://www.jeuneafrique.com/1776072/politique/can-2025-motsepe-prend-la-parole-la-federation-senegalaise-lui-repond-et-le-bras-de-fer-continue/)
 - [CAN 2025 : jusqu’où le bras de fer entre le Maroc et le Sénégal peut-il aller ?](https://www.jeuneafrique.com/1775835/politique/can-2025-jusquou-le-bras-de-fer-entre-le-maroc-et-le-senegal-peut-il-aller/)
-- [Financiers, consultants, diplomates… Autour de Romuald Wadagni, un réseau très sélect](https://www.jeuneafrique.com/1775573/politique/financiers-consultants-diplomates-autour-de-romuald-wadagni-un-reseau-tres-select/)
-- [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
+- [Engrais : pourquoi la charge d’Ousmane Sonko contre Indorama est un pari risqué pour le Sénégal](https://www.jeuneafrique.com/1775733/economie-entreprises/engrais-pourquoi-la-charge-dousmane-sonko-contre-indorama-est-un-pari-risque-pour-le-senegal/)
 - [Sénégal : pourquoi Société générale a finalement choisi d’intégrer Pi-Spi](https://www.jeuneafrique.com/1775470/economie-entreprises/pourquoi-societe-generale-a-finalement-choisi-dintegrer-pi-spi/)
-- [Dette africaine : la guerre au Moyen-Orient menace le retour des États sur les marchés](https://www.jeuneafrique.com/1775615/economie-entreprises/dette-africaine-la-guerre-au-moyen-orient-menace-le-retour-des-etats-sur-les-marches/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
