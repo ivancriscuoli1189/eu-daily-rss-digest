@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Mar 2026, 18:30*
+*Generato: 20 Mar 2026, 21:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,6 +132,19 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
+
 ## UE – Tunisie – Projects portal (Governance)
 
 - [ACCUEIL](https://ue-tunisie.org/)
@@ -155,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Présentation du livre « Me habitech » à l’Agora : Un nouveau chemin...](https://www.lapresse.tn/2026/03/20/presentation-du-livre-me-habitech-a-lagora-un-nouveau-chemin-litteraire-pour-khaled-houissa/)
-- [Championnats du monde d’athlétisme en salle Kujawy Pomorze 26 :...](https://www.lapresse.tn/2026/03/20/championnats-du-monde-dathletisme-en-salle-kujawy-pomorze-26-lequipe-de-tunisie-absente/)
+- [L’EST s’est envolée hier à midi pour le Caire :...](https://www.lapresse.tn/2026/03/20/lest-sest-envolee-hier-a-midi-pour-le-caire-prets-a-terminer-le-travail/)
+- [Basket – Demi-finale du super play-off : La JSK mène...](https://www.lapresse.tn/2026/03/20/basket-demi-finale-du-super-play-off-la-jsk-mene-2-1/)
 
 ## NGOs – Amnesty International – Tunisia
 
