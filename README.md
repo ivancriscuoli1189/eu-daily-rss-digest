@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Mar 2026, 09:29*
+*Generato: 20 Mar 2026, 11:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Arrivée de nouveaux bus chinois au port de La Goulette](https://www.lapresse.tn/2026/03/20/arrivee-de-nouveaux-bus-chinois-au-port-de-la-goulette/)
-- [Bonne nouvelle pour les automobilistes : retour à la normale...](https://www.lapresse.tn/2026/03/20/bonne-nouvelle-pour-les-automobilistes-retour-a-la-normale-du-trafic-a-lentree-sud-pendant-laid/)
+- [Incendie dans un centre commercial fait morts et blessés en...](https://www.lapresse.tn/2026/03/20/incendie-dans-un-centre-commercial-fait-morts-et-blesses-en-egypte/)
+- [Connaissez-vous le Jardin Suédois de Kélibia et ses 70 ans...](https://www.lapresse.tn/2026/03/20/connaissez-vous-le-jardin-suedois-de-kelibia-et-ses-70-ans-dhistoire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : le mandat des députés de nouveau prolongé](https://www.jeuneafrique.com/1776184/politique/cameroun-le-mandat-des-deputes-de-nouveau-prolonge/)
 - [L’AES dit son « indignation » après une résolution européenne appelant à libérer Mohamed Bazoum](https://www.jeuneafrique.com/1776169/politique/laes-dit-son-indignation-apres-une-resolution-europeenne-appelant-a-liberer-mohamed-bazoum/)
 - [Tunisie : l’icône antiraciste Saadia Mosbah condamnée à huit ans de prison](https://www.jeuneafrique.com/1776156/politique/tunisie-licone-antiraciste-saadia-mosbah-condamnee-a-huit-ans-de-prison/)
 - [CAN 2025 : Motsepe prend la parole, la fédération sénégalaise lui répond, et le bras de fer continue](https://www.jeuneafrique.com/1776072/politique/can-2025-motsepe-prend-la-parole-la-federation-senegalaise-lui-repond-et-le-bras-de-fer-continue/)
+- [CAN 2025 : jusqu’où le bras de fer entre le Maroc et le Sénégal peut-il aller ?](https://www.jeuneafrique.com/1775835/politique/can-2025-jusquou-le-bras-de-fer-entre-le-maroc-et-le-senegal-peut-il-aller/)
 - [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
 - [« On ne cherche pas quelqu’un de propre à 100 % mais à plus de 60 % » : à Madagascar, les futurs ministres passés au détecteur de mensonges](https://www.jeuneafrique.com/1775895/politique/on-ne-cherche-pas-quelquun-de-propre-a-100-mais-a-plus-de-60-a-madagascar-les-futurs-ministres-passes-au-detecteur-de-mensonges/)
 - [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
-- [Bally Bagayoko, nouveau maire de Saint-Denis né de parents maliens : la victoire qui dérange](https://www.jeuneafrique.com/1775420/politique/bally-bagayoko-nouveau-maire-de-saint-denis-ne-de-parents-maliens-la-victoire-qui-derange/)
-- [Au Cameroun, comment les autorités s’activent pour assurer la tenue du sommet de l’OMC](https://www.jeuneafrique.com/1774760/politique/au-cameroun-comment-les-autorites-sactivent-pour-assurer-la-tenue-du-sommet-de-lomc/)
 - [Dette africaine : la guerre au Moyen-Orient menace le retour des États sur les marchés](https://www.jeuneafrique.com/1775615/economie-entreprises/dette-africaine-la-guerre-au-moyen-orient-menace-le-retour-des-etats-sur-les-marches/)
 - [Mamadi Doumbouya veut imprimer des billets de 50 000 francs guinéens](https://www.jeuneafrique.com/1775742/economie-entreprises/mamadi-doumbouya-veut-imprimer-des-billets-de-50-000-francs-guineens/)
 
