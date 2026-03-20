@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 19 Mar 2026, 21:23*
+*Generato: 20 Mar 2026, 06:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Netanyahu : « Je suis en vie ! »](https://www.lapresse.tn/2026/03/19/netanyahu-je-suis-en-vie/)
-- [Voyage au cœur des gâteaux traditionnels tunisiens ou « Hlou...](https://www.lapresse.tn/2026/03/19/voyage-au-coeur-des-gateaux-traditionnels-tunisiens-ou-hlou-arbi/)
+- [L’ambassade des États-Unis en Tunisie invite les PME et start-ups...](https://www.lapresse.tn/2026/03/19/lambassade-des-etats-unis-en-tunisie-invite-les-pme-et-start-ups-a-participer-au-sommet-selectusa/)
+- [Mohammad Baqer Qalibaf : qui est le dernier survivant du...](https://www.lapresse.tn/2026/03/19/mohammad-baqer-qalibaf-qui-est-le-dernier-survivant-du-cercle-restreint-du-pouvoir-iranien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Cameroun, Paul Biya a-t-il sonné la fin des dinosaures ?](https://www.jeuneafrique.com/1775780/politique/au-cameroun-paul-biya-a-t-il-sonne-la-fin-des-dinosaures/)
 - [Vincent Bolloré jugé en décembre à Paris pour corruption au Togo et en Guinée](https://www.jeuneafrique.com/1775896/politique/vincent-bollore-juge-en-decembre-a-paris-pour-corruption-au-togo-et-en-guinee/)
 - [« On ne cherche pas quelqu’un de propre à 100 % mais à plus de 60 % » : à Madagascar, les futurs ministres passés au détecteur de mensonges](https://www.jeuneafrique.com/1775895/politique/on-ne-cherche-pas-quelquun-de-propre-a-100-mais-a-plus-de-60-a-madagascar-les-futurs-ministres-passes-au-detecteur-de-mensonges/)
 - [Au Tchad, une nouvelle attaque de drone à la frontière avec le Soudan](https://www.jeuneafrique.com/1775582/politique/au-tchad-une-nouvelle-attaque-de-drone-a-la-frontiere-avec-le-soudan/)
@@ -271,7 +272,6 @@
 - [RDC : Modeste Bahati Lukwebo jette l’éponge et démissionne](https://www.jeuneafrique.com/1775524/politique/rdc-modeste-bahati-lukwebo-jette-leponge-et-demissionne/)
 - [Gabon : depuis l’Europe, les Bongo ripostent sur tous les fronts](https://www.jeuneafrique.com/1775046/politique/gabon-depuis-leurope-les-bongo-ripostent-sur-tous-les-fronts/)
 - [Le Sénégal privé de titre à la CAN 2025 : quelle peut-être la suite de la procédure ?](https://www.jeuneafrique.com/1775390/politique/le-senegal-prive-de-titre-a-la-can-2025-quelle-peut-etre-la-suite-de-la-procedure/)
-- [Assassinat de Lumumba : qui est Étienne Davignon, rattrapé par la justice 60 ans plus tard ?](https://www.jeuneafrique.com/1775396/politique/assassinat-de-lumumba-qui-etait-etienne-davignon-rattrape-par-la-justice-60-ans-plus-tard/)
 - [Mamadi Doumbouya veut imprimer des billets de 50 000 francs guinéens](https://www.jeuneafrique.com/1775742/economie-entreprises/mamadi-doumbouya-veut-imprimer-des-billets-de-50-000-francs-guineens/)
 - [Turkish Airlines maintient le cap en Afrique malgré les turbulences](https://www.jeuneafrique.com/1774947/economie-entreprises/turkish-airlines-maintient-le-cap-en-afrique-malgre-les-turbulences/)
 
