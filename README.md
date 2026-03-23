@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Mar 2026, 11:35*
+*Generato: 23 Mar 2026, 12:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Chery, 1ère marque automobile chinoise à dépasser les 6 millions...](https://www.lapresse.tn/2026/03/23/chery-1ere-marque-automobile-chinoise-a-depasser-les-6-millions-de-vehicules-exportes/)
-- [Tunis à l’heure du jazz : plus de 30 artistes...](https://www.lapresse.tn/2026/03/23/tunis-a-lheure-du-jazz-plus-de-30-artistes-reunis-pour-une-creation-exceptionnelle/)
+- [31ᵉ édition du Salon du livre jeunesse de Sfax :...](https://www.lapresse.tn/2026/03/23/31%e1%b5%89-edition-du-salon-du-livre-jeunesse-de-sfax-le-livre-ami-des-enfants/)
+- [La Facilité Investissements pour l’emploi lance un nouvel appel à...](https://www.lapresse.tn/2026/03/23/la-facilite-investissements-pour-lemploi-lance-un-nouvel-appel-a-propositions-de-projets-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,8 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
 - [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
 - [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
@@ -233,8 +235,6 @@
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 - [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
 - [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
-- [A year after Assad: The search for Syria’s future](https://ecfr.eu/article/a-year-after-assad-the-search-for-syrias-future/)
-- [A war with no winners: The costs of US-Israeli aggression on Iran](https://ecfr.eu/article/a-war-with-no-winners-the-costs-of-us-israeli-aggression-on-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -264,11 +264,11 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [France-Russie : entre Macron et Poutine, l’insidieuse guerre de Bangui](https://www.jeuneafrique.com/1775049/politique/france-russie-entre-macron-et-poutine-linsidieuse-guerre-de-bangui/)
 - [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
 - [CAN : le Sénégalais Idrissa Gueye prêt « à rendre les médailles au Maroc »](https://www.jeuneafrique.com/1776555/politique/can-le-senegalais-idrissa-gueye-pret-a-rendre-les-medailles-au-maroc/)
 - [Au Nigeria, des drones américains Reaper sont employés à des fins de reconnaissance](https://www.jeuneafrique.com/1776530/politique/au-nigeria-des-drones-americains-reaper-sont-employes-a-des-fins-de-reconnaissance/)
 - [William Ruto et Yoweri Musevini relancent l’extension d’une ligne ferroviaire](https://www.jeuneafrique.com/1776521/politique/william-ruto-et-yoweri-musevini-relancent-lextension-dune-ligne-ferroviaire/)
+- [Pape Léon XIV au Cameroun : les enjeux d’une visite et d’un pari risqués](https://www.jeuneafrique.com/1774779/politique/pape-leon-xiv-au-cameroun-les-enjeux-dune-visite-et-dun-pari-risques/)
 - [Présidentielle au Bénin : Wadagni ne sera pas un « président sous tutelle »](https://www.jeuneafrique.com/1776315/politique/presidentielle-au-benin-wadagni-ne-sera-pas-un-president-sous-tutelle/)
 - [Présidentielle au Bénin : Romuald Wadagni présente son programme](https://www.jeuneafrique.com/1776517/politique/presidentielle-au-benin-romuald-wadagni-presente-son-programme/)
 - [Pour les narcos de Dubaï, la tentation d’un refuge au Maroc](https://www.jeuneafrique.com/1774430/politique/pour-les-narcos-de-dubai-la-tentation-dun-refuge-au-maroc/)
