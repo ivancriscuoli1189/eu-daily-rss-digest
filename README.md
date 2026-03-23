@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Mar 2026, 21:19*
+*Generato: 23 Mar 2026, 06:55*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’EST s’est envolée hier à midi pour le Caire :...](https://www.lapresse.tn/2026/03/20/lest-sest-envolee-hier-a-midi-pour-le-caire-prets-a-terminer-le-travail/)
-- [Basket – Demi-finale du super play-off : La JSK mène...](https://www.lapresse.tn/2026/03/20/basket-demi-finale-du-super-play-off-la-jsk-mene-2-1/)
+- [Ligue des champions d’Afrique : L’Espérance de Tunis défiera Mamelodi...](https://www.lapresse.tn/2026/03/22/ligue-des-champions-dafrique-lesperance-de-tunis-defiera-mamelodi-sundowns-en-demi-finale/)
+- [Tozeur – Parc de Dghoumes : Entre biodiversité rare et...](https://www.lapresse.tn/2026/03/22/tozeur-parc-de-dghoumes-entre-biodiversite-rare-et-urgence-damenagement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Bénin – Romuald Wadagni : « Le président Talon est un homme de parole. Si je suis élu, il s’effacera »](https://www.jeuneafrique.com/1774279/politique/benin-romuald-wadagni-le-president-talon-est-un-homme-de-parole-si-je-suis-elu-il-seffacera/)
+- [Au Nigeria, des drones américains Reaper sont employés à des fins de reconnaissance](https://www.jeuneafrique.com/1776530/politique/au-nigeria-des-drones-americains-reaper-sont-employes-a-des-fins-de-reconnaissance/)
+- [William Ruto et Yoweri Musevini relancent l’extension d’une ligne ferroviaire](https://www.jeuneafrique.com/1776521/politique/william-ruto-et-yoweri-musevini-relancent-lextension-dune-ligne-ferroviaire/)
+- [Présidentielle au Bénin : Wadagni ne sera pas un « président sous tutelle »](https://www.jeuneafrique.com/1776315/politique/presidentielle-au-benin-wadagni-ne-sera-pas-un-president-sous-tutelle/)
+- [Présidentielle au Bénin : Romuald Wadagni présente son programme](https://www.jeuneafrique.com/1776517/politique/presidentielle-au-benin-romuald-wadagni-presente-son-programme/)
 - [Rencontre des chefs d’état-major à Cotonou : la France, le Bénin et la Côte d’Ivoire font front commun](https://www.jeuneafrique.com/1776412/politique/rencontre-des-chefs-detat-major-a-cotonou-la-france-le-benin-et-la-cote-divoire-font-front-commun/)
-- [Passer les ministres au détecteur de mensonge : le pari osé de Randrianirina à Madagascar](https://www.jeuneafrique.com/1776297/politique/passer-les-ministres-au-detecteur-de-mensonge-le-pari-ose-de-randrianirina-a-madagascar/)
-- [« Pourquoi le monde a besoin de l’OIF », par Amina Priscille Longoh, ambassadrice du Tchad en France](https://www.jeuneafrique.com/1774853/politique/pourquoi-le-monde-a-besoin-de-loif-par-amina-priscille-longoh-ambassadrice-du-tchad-en-france/)
-- [Cameroun : le mandat des députés de nouveau prolongé](https://www.jeuneafrique.com/1776184/politique/cameroun-le-mandat-des-deputes-de-nouveau-prolonge/)
-- [L’AES dit son « indignation » après une résolution européenne appelant à libérer Mohamed Bazoum](https://www.jeuneafrique.com/1776169/politique/laes-dit-son-indignation-apres-une-resolution-europeenne-appelant-a-liberer-mohamed-bazoum/)
-- [Tunisie : l’icône antiraciste Saadia Mosbah condamnée à huit ans de prison](https://www.jeuneafrique.com/1776156/politique/tunisie-licone-antiraciste-saadia-mosbah-condamnee-a-huit-ans-de-prison/)
-- [CAN 2025 : Motsepe prend la parole, la fédération sénégalaise lui répond, et le bras de fer continue](https://www.jeuneafrique.com/1776072/politique/can-2025-motsepe-prend-la-parole-la-federation-senegalaise-lui-repond-et-le-bras-de-fer-continue/)
-- [CAN 2025 : jusqu’où le bras de fer entre le Maroc et le Sénégal peut-il aller ?](https://www.jeuneafrique.com/1775835/politique/can-2025-jusquou-le-bras-de-fer-entre-le-maroc-et-le-senegal-peut-il-aller/)
+- [Que cherche Donald Trump en renouant avec les juntes de l’AES ?](https://www.jeuneafrique.com/1776366/politique/que-cherche-donald-trump-en-renouant-avec-les-juntes-de-laes/)
+- [Ouganda − Bobi Wine : « Ordre avait été donné de me tuer »](https://www.jeuneafrique.com/1776318/politique/ouganda-bobi-wine-ordre-avait-ete-donne-de-me-tuer/)
+- [Ethiopian, South African Airways, Air Sénégal… Le choc pétrolier frappe toutes les compagnies africaines](https://www.jeuneafrique.com/1775366/economie-entreprises/ethiopian-south-african-airways-air-senegal-le-choc-petrolier-frappe-toutes-les-compagnies-africaines/)
 - [Engrais : pourquoi la charge d’Ousmane Sonko contre Indorama est un pari risqué pour le Sénégal](https://www.jeuneafrique.com/1775733/economie-entreprises/engrais-pourquoi-la-charge-dousmane-sonko-contre-indorama-est-un-pari-risque-pour-le-senegal/)
-- [Sénégal : pourquoi Société générale a finalement choisi d’intégrer Pi-Spi](https://www.jeuneafrique.com/1775470/economie-entreprises/pourquoi-societe-generale-a-finalement-choisi-dintegrer-pi-spi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
