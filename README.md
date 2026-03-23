@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Mar 2026, 06:55*
+*Generato: 23 Mar 2026, 09:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ligue des champions d’Afrique : L’Espérance de Tunis défiera Mamelodi...](https://www.lapresse.tn/2026/03/22/ligue-des-champions-dafrique-lesperance-de-tunis-defiera-mamelodi-sundowns-en-demi-finale/)
-- [Tozeur – Parc de Dghoumes : Entre biodiversité rare et...](https://www.lapresse.tn/2026/03/22/tozeur-parc-de-dghoumes-entre-biodiversite-rare-et-urgence-damenagement/)
+- [Coupe de Tunisie – 16es de finale : Le CAB,...](https://www.lapresse.tn/2026/03/23/coupe-de-tunisie-16es-de-finale-le-cab-lass-et-lesz-aux-penalties/)
+- [France : décès de l’ancien premier ministre Lionel Jospin](https://www.lapresse.tn/2026/03/23/france-deces-de-lancien-premier-ministre-lionel-jospin/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,15 +264,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Bénin – Romuald Wadagni : « Le président Talon est un homme de parole. Si je suis élu, il s’effacera »](https://www.jeuneafrique.com/1774279/politique/benin-romuald-wadagni-le-president-talon-est-un-homme-de-parole-si-je-suis-elu-il-seffacera/)
+- [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
+- [CAN : le Sénégalais Idrissa Gueye prêt « à rendre les médailles au Maroc »](https://www.jeuneafrique.com/1776555/politique/can-le-senegalais-idrissa-gueye-pret-a-rendre-les-medailles-au-maroc/)
 - [Au Nigeria, des drones américains Reaper sont employés à des fins de reconnaissance](https://www.jeuneafrique.com/1776530/politique/au-nigeria-des-drones-americains-reaper-sont-employes-a-des-fins-de-reconnaissance/)
 - [William Ruto et Yoweri Musevini relancent l’extension d’une ligne ferroviaire](https://www.jeuneafrique.com/1776521/politique/william-ruto-et-yoweri-musevini-relancent-lextension-dune-ligne-ferroviaire/)
 - [Présidentielle au Bénin : Wadagni ne sera pas un « président sous tutelle »](https://www.jeuneafrique.com/1776315/politique/presidentielle-au-benin-wadagni-ne-sera-pas-un-president-sous-tutelle/)
 - [Présidentielle au Bénin : Romuald Wadagni présente son programme](https://www.jeuneafrique.com/1776517/politique/presidentielle-au-benin-romuald-wadagni-presente-son-programme/)
-- [Rencontre des chefs d’état-major à Cotonou : la France, le Bénin et la Côte d’Ivoire font front commun](https://www.jeuneafrique.com/1776412/politique/rencontre-des-chefs-detat-major-a-cotonou-la-france-le-benin-et-la-cote-divoire-font-front-commun/)
-- [Que cherche Donald Trump en renouant avec les juntes de l’AES ?](https://www.jeuneafrique.com/1776366/politique/que-cherche-donald-trump-en-renouant-avec-les-juntes-de-laes/)
-- [Ouganda − Bobi Wine : « Ordre avait été donné de me tuer »](https://www.jeuneafrique.com/1776318/politique/ouganda-bobi-wine-ordre-avait-ete-donne-de-me-tuer/)
-- [Ethiopian, South African Airways, Air Sénégal… Le choc pétrolier frappe toutes les compagnies africaines](https://www.jeuneafrique.com/1775366/economie-entreprises/ethiopian-south-african-airways-air-senegal-le-choc-petrolier-frappe-toutes-les-compagnies-africaines/)
+- [Pour les narcos de Dubaï, la tentation d’un refuge au Maroc](https://www.jeuneafrique.com/1774430/politique/pour-les-narcos-de-dubai-la-tentation-dun-refuge-au-maroc/)
+- [Cameroun : Marcel Niat Njifenji, enfin la retraite pour le baobab du Sénat et du système Biya](https://www.jeuneafrique.com/1775698/politique/cameroun-marcel-niat-njifenji-enfin-la-retraite-pour-le-baobab-du-senat-et-du-systeme-biya/)
+- [Tunis, Casablanca, Le Caire, Lagos… Que contient le panier de l’Aïd cette année ?](https://www.jeuneafrique.com/1775807/economie-entreprises/tunis-casablanca-le-caire-lagos-que-contient-le-panier-de-laid-cette-annee/)
 - [Engrais : pourquoi la charge d’Ousmane Sonko contre Indorama est un pari risqué pour le Sénégal](https://www.jeuneafrique.com/1775733/economie-entreprises/engrais-pourquoi-la-charge-dousmane-sonko-contre-indorama-est-un-pari-risque-pour-le-senegal/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
