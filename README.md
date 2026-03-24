@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 12:39*
+*Generato: 24 Mar 2026, 14:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38820/press-briefing-on-this-week-s-plenary-session)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Metsola to EU leaders: “We must be an economic force to speak language of power”](https://www.europarl.europa.eu/news/en/press-room/20260319IPR38602/metsola-to-eu-leaders-we-must-be-an-economic-force-to-speak-language-of-power)
 - [MEPs back the lowering of tariffs on US agricultural and industrial products](https://www.europarl.europa.eu/news/en/press-room/20260318IPR38502/meps-back-the-lowering-of-tariffs-on-us-agricultural-and-industrial-products)
@@ -78,7 +79,6 @@
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
 - [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37516/ep-today)
-- [Stronger EU-Canada partnership amid global turmoil](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37533/stronger-eu-canada-partnership-amid-global-turmoil)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
 - [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
@@ -271,9 +272,8 @@
 - [Maraboutage, « bordeleries » et coups de fil suspects : en Guinée, les étranges aveux de Moussa Condé](https://www.jeuneafrique.com/1776616/politique/maraboutage-bordeleries-et-coups-de-fil-suspects-en-guinee-les-etranges-aveux-de-moussa-conde/)
 - [France-Russie : entre Macron et Poutine, l’insidieuse guerre de Bangui](https://www.jeuneafrique.com/1775049/politique/france-russie-entre-macron-et-poutine-linsidieuse-guerre-de-bangui/)
 - [La directrice de l’Institut du monde arabe bientôt en visite en Algérie](https://www.jeuneafrique.com/1776549/politique/la-directrice-de-linstitut-du-monde-arabe-bientot-en-visite-en-algerie/)
-- [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
-- [Pourquoi Ecobank change d’actionnaire mais pas de cap](https://www.jeuneafrique.com/1769824/economie-entreprises/pourquoi-ecobank-change-dactionnaire-mais-pas-de-cap/)
+- [Abderrahmane Berthe (Afraa) : « La flambée du kérosène se diffuse, par ricochet, à toute l’économie africaine »](https://www.jeuneafrique.com/1776622/economie-entreprises/abderrahmane-berthe-afraa-la-flambee-du-kerosene-se-diffuse-par-ricochet-a-toute-leconomie-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
