@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Mar 2026, 18:36*
+*Generato: 24 Mar 2026, 06:49*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Violence et malaise social : Nos enfants nous échappent !](https://www.lapresse.tn/2026/03/23/violence-et-malaise-social-nos-enfants-nous-echappent/)
-- [Le Canada annonce une nouvelle mesure temporaire pour les permis...](https://www.lapresse.tn/2026/03/23/le-canada-annonce-une-nouvelle-mesure-temporaire-pour-les-permis-de-travail-des-etrangers-les-tunisiens-inclus/)
+- [Hannibal Mejbri forfait pour le stage de l’équipe nationale tunisienne](https://www.lapresse.tn/2026/03/23/hannibal-mejbri-forfait-pour-le-stage-de-lequipe-nationale-tunisienne/)
+- [Zoo du Belvédère : la municipalité de Tunis hausse le...](https://www.lapresse.tn/2026/03/23/zoo-du-belvedere-la-municipalite-de-tunis-hausse-le-ton-contre-les-etals-anarchiques/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -251,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
+- [Au Gabon, les coulisses de la chute de Jean-Charles Solon, l’ex-maître des écoutes des Bongo](https://www.jeuneafrique.com/1776543/politique/au-gabon-les-coulisses-de-la-chute-de-jean-charles-solon-lex-maitre-des-ecoutes-des-bongo/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
+- [La directrice de l’Institut du monde arabe bientôt en visite en Algérie](https://www.jeuneafrique.com/1776549/politique/la-directrice-de-linstitut-du-monde-arabe-bientot-en-visite-en-algerie/)
 - [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
 - [CAN : le Sénégalais Idrissa Gueye prêt « à rendre les médailles au Maroc »](https://www.jeuneafrique.com/1776555/politique/can-le-senegalais-idrissa-gueye-pret-a-rendre-les-medailles-au-maroc/)
 - [Cameroun : le film de la chute de Cavayé Yéguié Djibril, pilier historique du régime Biya](https://www.jeuneafrique.com/1775902/politique/cameroun-le-film-de-la-chute-de-cavaye-yeguie-djibril-pilier-historique-du-regime-biya/)
-- [Au Zimbabwe, qui tente d’empêcher un troisième mandat d’Emmerson Mnangagwa ?](https://www.jeuneafrique.com/1774353/politique/au-zimbabwe-qui-tente-dempecher-un-troisieme-mandat-demmerson-mnangagwa/)
-- [Au Nigeria, des drones américains Reaper sont employés à des fins de reconnaissance](https://www.jeuneafrique.com/1776530/politique/au-nigeria-des-drones-americains-reaper-sont-employes-a-des-fins-de-reconnaissance/)
 - [William Ruto et Yoweri Musevini relancent l’extension d’une ligne ferroviaire](https://www.jeuneafrique.com/1776521/politique/william-ruto-et-yoweri-musevini-relancent-lextension-dune-ligne-ferroviaire/)
 - [Tunis, Casablanca, Le Caire, Lagos… Que contient le panier de l’Aïd cette année ?](https://www.jeuneafrique.com/1775807/economie-entreprises/tunis-casablanca-le-caire-lagos-que-contient-le-panier-de-laid-cette-annee/)
-- [Ethiopian, South African Airways, Air Sénégal… Le choc pétrolier frappe toutes les compagnies africaines](https://www.jeuneafrique.com/1775366/economie-entreprises/ethiopian-south-african-airways-air-senegal-le-choc-petrolier-frappe-toutes-les-compagnies-africaines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
