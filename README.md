@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 15:53*
+*Generato: 24 Mar 2026, 18:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Alimentation en eau potable dans le Sahel et à Sfax...](https://www.lapresse.tn/2026/03/24/alimentation-en-eau-potable-dans-le-sahel-et-a-sfax-la-station-de-dessalement-et-le-barrage-de-kalaa-kebira-bientot-operationnels/)
-- [Éliminatoires -CAN U17 : l’équipe nationale s’incline face au Maroc](https://www.lapresse.tn/2026/03/24/eliminatoires-can-u17-lequipe-nationale-sincline-face-au-maroc/)
+- [Le CAB se qualifie in extremis : La chance a...](https://www.lapresse.tn/2026/03/24/le-cab-se-qualifie-in-extremis-la-chance-a-souri-aux-cabistes/)
+- [Huile d’olive biologique : l’Italie reste le principal marché pour...](https://www.lapresse.tn/2026/03/24/huile-dolive-biologique-litalie-reste-le-principal-marche-pour-la-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,19 +223,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
-- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
-- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
-- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
-- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
-- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
-- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
-- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
@@ -266,14 +253,14 @@
 
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
+- [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
+- [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
 - [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
 - [De Niamey à Ouagadougou, comment l’appel du Parlement européen à libérer Mohamed Bazoum ravive le sentiment anti-occidental](https://www.jeuneafrique.com/1776681/politique/de-niamey-a-ouagadougou-comment-lappel-du-parlement-europeen-a-liberer-mohamed-bazoum-ravive-le-sentiment-anti-occidental/)
-- [Maraboutage, « bordeleries » et coups de fil suspects : en Guinée, les étranges aveux de Moussa Condé](https://www.jeuneafrique.com/1776616/politique/maraboutage-bordeleries-et-coups-de-fil-suspects-en-guinee-les-etranges-aveux-de-moussa-conde/)
-- [France-Russie : entre Macron et Poutine, l’insidieuse guerre de Bangui](https://www.jeuneafrique.com/1775049/politique/france-russie-entre-macron-et-poutine-linsidieuse-guerre-de-bangui/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
-- [Abderrahmane Berthe (Afraa) : « La flambée du kérosène se diffuse, par ricochet, à toute l’économie africaine »](https://www.jeuneafrique.com/1776622/economie-entreprises/abderrahmane-berthe-afraa-la-flambee-du-kerosene-se-diffuse-par-ricochet-a-toute-leconomie-africaine/)
+- [Jean-Guy Afrika : « Nous voulons faire du Rwanda la passerelle pour les investissements en Afrique de l’Est et au-delà »](https://www.jeuneafrique.com/1771277/economie-entreprises/jean-guy-afrika-nous-voulons-faire-du-rwanda-la-passerelle-pour-les-investissements-en-afrique-de-lest-et-au-dela/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
