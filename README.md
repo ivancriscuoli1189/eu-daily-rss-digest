@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 06:49*
+*Generato: 24 Mar 2026, 09:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Hannibal Mejbri forfait pour le stage de l’équipe nationale tunisienne](https://www.lapresse.tn/2026/03/23/hannibal-mejbri-forfait-pour-le-stage-de-lequipe-nationale-tunisienne/)
-- [Zoo du Belvédère : la municipalité de Tunis hausse le...](https://www.lapresse.tn/2026/03/23/zoo-du-belvedere-la-municipalite-de-tunis-hausse-le-ton-contre-les-etals-anarchiques/)
+- [Chute du prix de l’or : ruée vers les bijouteries...](https://www.lapresse.tn/2026/03/24/chute-du-prix-de-lor-ruee-vers-les-bijouteries-dans-plusieurs-villes/)
+- [Crash d’un C-130 en Colombie : au moins 66 militaires...](https://www.lapresse.tn/2026/03/24/crash-dun-c-130-en-colombie-au-moins-66-militaires-tues/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## THINK TANK – CESPI – Attualità
 
+- [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [A cinquant’anni dal golpe militare in Argentina. Le memorie di Enrico Calamai](https://www.cespi.it/it/eventi-note/eventi/cinquantanni-dal-golpe-militare-argentina-le-memorie-di-enrico-calamai)
@@ -247,7 +248,6 @@
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
 - [Storia](https://www.cespi.it/it/chi-siamo/la-nostra-storia)
 - [Persone](https://www.cespi.it/it/chi-siamo/persone)
-- [Network](https://www.cespi.it/it/chi-siamo/network)
 
 ## THINK TANK – Brookings – Middle East – Articles
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
-- [Au Gabon, les coulisses de la chute de Jean-Charles Solon, l’ex-maître des écoutes des Bongo](https://www.jeuneafrique.com/1776543/politique/au-gabon-les-coulisses-de-la-chute-de-jean-charles-solon-lex-maitre-des-ecoutes-des-bongo/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
+- [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
+- [De Niamey à Ouagadougou, comment l’appel du Parlement européen à libérer Mohamed Bazoum ravive le sentiment anti-occidental](https://www.jeuneafrique.com/1776681/politique/de-niamey-a-ouagadougou-comment-lappel-du-parlement-europeen-a-liberer-mohamed-bazoum-ravive-le-sentiment-anti-occidental/)
+- [France-Russie : entre Macron et Poutine, l’insidieuse guerre de Bangui](https://www.jeuneafrique.com/1775049/politique/france-russie-entre-macron-et-poutine-linsidieuse-guerre-de-bangui/)
 - [La directrice de l’Institut du monde arabe bientôt en visite en Algérie](https://www.jeuneafrique.com/1776549/politique/la-directrice-de-linstitut-du-monde-arabe-bientot-en-visite-en-algerie/)
 - [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
 - [CAN : le Sénégalais Idrissa Gueye prêt « à rendre les médailles au Maroc »](https://www.jeuneafrique.com/1776555/politique/can-le-senegalais-idrissa-gueye-pret-a-rendre-les-medailles-au-maroc/)
-- [Cameroun : le film de la chute de Cavayé Yéguié Djibril, pilier historique du régime Biya](https://www.jeuneafrique.com/1775902/politique/cameroun-le-film-de-la-chute-de-cavaye-yeguie-djibril-pilier-historique-du-regime-biya/)
-- [William Ruto et Yoweri Musevini relancent l’extension d’une ligne ferroviaire](https://www.jeuneafrique.com/1776521/politique/william-ruto-et-yoweri-musevini-relancent-lextension-dune-ligne-ferroviaire/)
-- [Tunis, Casablanca, Le Caire, Lagos… Que contient le panier de l’Aïd cette année ?](https://www.jeuneafrique.com/1775807/economie-entreprises/tunis-casablanca-le-caire-lagos-que-contient-le-panier-de-laid-cette-annee/)
+- [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
+- [Pourquoi Ecobank change d’actionnaire mais pas de cap](https://www.jeuneafrique.com/1769824/economie-entreprises/pourquoi-ecobank-change-dactionnaire-mais-pas-de-cap/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
