@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 09:43*
+*Generato: 24 Mar 2026, 11:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Chute du prix de l’or : ruée vers les bijouteries...](https://www.lapresse.tn/2026/03/24/chute-du-prix-de-lor-ruee-vers-les-bijouteries-dans-plusieurs-villes/)
-- [Crash d’un C-130 en Colombie : au moins 66 militaires...](https://www.lapresse.tn/2026/03/24/crash-dun-c-130-en-colombie-au-moins-66-militaires-tues/)
+- [Opérateurs de téléphonie en Tunisie : un chiffre d’affaires qui...](https://www.lapresse.tn/2026/03/24/operateurs-de-telephonie-en-tunisie-un-chiffre-daffaires-qui-depasse-les-4-100-millions-de-dinars-en-2025/)
+- [Incendie d’un train à Kalaa Sghira : huit suspects arrêtés](https://www.lapresse.tn/2026/03/24/incendie-dun-train-a-kalaa-sghira-huit-suspects-arretes/)
 
 ## NGOs – Amnesty International – Tunisia
 
