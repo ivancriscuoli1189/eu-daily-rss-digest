@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 18:44*
+*Generato: 24 Mar 2026, 21:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le CAB se qualifie in extremis : La chance a...](https://www.lapresse.tn/2026/03/24/le-cab-se-qualifie-in-extremis-la-chance-a-souri-aux-cabistes/)
-- [Huile d’olive biologique : l’Italie reste le principal marché pour...](https://www.lapresse.tn/2026/03/24/huile-dolive-biologique-litalie-reste-le-principal-marche-pour-la-tunisie/)
+- [Huile d’olive : 184,3 mille tonnes exportées pour une valeur...](https://www.lapresse.tn/2026/03/24/huile-dolive-1843-mille-tonnes-exportees-pour-une-valeur-de-2-263-millions-de-dinars/)
+- [Tuberculose : en Tunisie, 80 % des cas de contamination...](https://www.lapresse.tn/2026/03/24/tuberculose-en-tunisie-80-des-cas-de-contamination-dorigine-animale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -223,6 +223,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
+- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
+- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
+- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
+- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
+- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
@@ -252,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
+- [Nasser Bourita monte au créneau pour défendre la diaspora marocaine d’Espagne](https://www.jeuneafrique.com/1777046/politique/nasser-bourita-monte-au-creneau-pour-defendre-la-diaspora-marocaine-despagne/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
 - [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
 - [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
 - [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
-- [De Niamey à Ouagadougou, comment l’appel du Parlement européen à libérer Mohamed Bazoum ravive le sentiment anti-occidental](https://www.jeuneafrique.com/1776681/politique/de-niamey-a-ouagadougou-comment-lappel-du-parlement-europeen-a-liberer-mohamed-bazoum-ravive-le-sentiment-anti-occidental/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
 - [Jean-Guy Afrika : « Nous voulons faire du Rwanda la passerelle pour les investissements en Afrique de l’Est et au-delà »](https://www.jeuneafrique.com/1771277/economie-entreprises/jean-guy-afrika-nous-voulons-faire-du-rwanda-la-passerelle-pour-les-investissements-en-afrique-de-lest-et-au-dela/)
 
