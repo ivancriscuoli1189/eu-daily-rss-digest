@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 11:36*
+*Generato: 24 Mar 2026, 12:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Opérateurs de téléphonie en Tunisie : un chiffre d’affaires qui...](https://www.lapresse.tn/2026/03/24/operateurs-de-telephonie-en-tunisie-un-chiffre-daffaires-qui-depasse-les-4-100-millions-de-dinars-en-2025/)
-- [Incendie d’un train à Kalaa Sghira : huit suspects arrêtés](https://www.lapresse.tn/2026/03/24/incendie-dun-train-a-kalaa-sghira-huit-suspects-arretes/)
+- [Barrages : après les dernières précipitations, un taux de remplissage...](https://www.lapresse.tn/2026/03/24/barrages-apres-les-dernieres-precipitations-un-taux-de-remplissage-de-57/)
+- [L’Université de Jendouba : signature d’une convention avec la JCI...](https://www.lapresse.tn/2026/03/24/luniversite-de-jendouba-signature-dune-convention-avec-la-jci-pour-booster-lentrepreneuriat/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
 - [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
 - [De Niamey à Ouagadougou, comment l’appel du Parlement européen à libérer Mohamed Bazoum ravive le sentiment anti-occidental](https://www.jeuneafrique.com/1776681/politique/de-niamey-a-ouagadougou-comment-lappel-du-parlement-europeen-a-liberer-mohamed-bazoum-ravive-le-sentiment-anti-occidental/)
+- [Maraboutage, « bordeleries » et coups de fil suspects : en Guinée, les étranges aveux de Moussa Condé](https://www.jeuneafrique.com/1776616/politique/maraboutage-bordeleries-et-coups-de-fil-suspects-en-guinee-les-etranges-aveux-de-moussa-conde/)
 - [France-Russie : entre Macron et Poutine, l’insidieuse guerre de Bangui](https://www.jeuneafrique.com/1775049/politique/france-russie-entre-macron-et-poutine-linsidieuse-guerre-de-bangui/)
 - [La directrice de l’Institut du monde arabe bientôt en visite en Algérie](https://www.jeuneafrique.com/1776549/politique/la-directrice-de-linstitut-du-monde-arabe-bientot-en-visite-en-algerie/)
 - [Crise du carburant au Mali : plus d’une centaine de jihadistes présumés libérés contre le passage des convois](https://www.jeuneafrique.com/1776559/politique/crise-du-carburant-au-mali-plus-dune-centaine-de-jihadistes-presumes-liberes-contre-le-passage-des-convois/)
-- [CAN : le Sénégalais Idrissa Gueye prêt « à rendre les médailles au Maroc »](https://www.jeuneafrique.com/1776555/politique/can-le-senegalais-idrissa-gueye-pret-a-rendre-les-medailles-au-maroc/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
 - [Pourquoi Ecobank change d’actionnaire mais pas de cap](https://www.jeuneafrique.com/1769824/economie-entreprises/pourquoi-ecobank-change-dactionnaire-mais-pas-de-cap/)
 
