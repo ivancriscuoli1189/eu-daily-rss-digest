@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 18:39*
+*Generato: 25 Mar 2026, 21:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [ASG : Mohamed Chibani remercié](https://www.lapresse.tn/2026/03/25/asg-mohamed-chibani-remercie/)
-- [Classement QS 2026 : Tunis El Manar domine 14 spécialités...](https://www.lapresse.tn/2026/03/25/classement-qs-2026-tunis-el-manar-domine-14-specialites-au-niveau-national/)
+- [La Tunisie prépare l’essor du tourisme de croisière dès 2027](https://www.lapresse.tn/2026/03/25/la-tunisie-prepare-lessor-du-tourisme-de-croisiere-des-2027/)
+- [Hopital Mohamed Tlatli de Nabeul : la direction dément tout...](https://www.lapresse.tn/2026/03/25/hopital-mohamed-tlatli-de-nabeul-la-direction-dement-tout-incendie-majeur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -273,7 +273,7 @@
 - [Du Sahel au golfe de Guinée, le jihadisme se propage vers le sud](https://www.jeuneafrique.com/1777074/politique/du-sahel-au-golfe-de-guinee-le-jihadisme-se-propage-vers-le-sud/)
 - [Côte d’Ivoire – Téné Birahima Ouattara : « Le défi sécuritaire du siècle est devant nous »](https://www.jeuneafrique.com/1776567/politique/tene-birahima-ouattara-en-cote-divoire-la-menace-terroriste-est-reelle-et-persistante/)
 - [OMC à Yaoundé : une réunion qui s’ouvre sous le spectre de « la pire crise industrielle de mémoire humaine »](https://www.jeuneafrique.com/1783133/economie-entreprises/omc-a-yaounde-une-reunion-qui-souvre-sous-le-spectre-de-la-pire-crise-industrielle-de-memoire-humaine/)
-- [Électricité : pourquoi le contrat de la Senelec est en passe d’être débloqué au Congo](https://www.jeuneafrique.com/1777219/economie-entreprises/electricite-pourquoi-le-contrat-de-la-senelec-est-en-passe-detre-debloque-au-congo/)
+- [Yves Roger Melingui, l’homme qui veut répliquer le succès de Tanger Med au Cameroun](https://www.jeuneafrique.com/1775106/economie-entreprises/yves-roger-melingui-lhomme-qui-veut-repliquer-le-succes-de-tanger-med-au-cameroun/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
