@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 11:33*
+*Generato: 25 Mar 2026, 12:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Kaouther Ben Hania reçoit le tout premier Fribourg Cinema Award...](https://www.lapresse.tn/2026/03/25/kaouther-ben-hania-recoit-le-tout-premier-fribourg-cinema-award-en-suisse/)
-- [Santé : la Tunisie produit l’essentiel de ses médicaments et...](https://www.lapresse.tn/2026/03/25/sante-la-tunisie-produit-lessentiel-de-ses-medicaments-et-prepare-un-livre-blanc/)
+- [Aptamil : certains lots retirés des pharmacies](https://www.lapresse.tn/2026/03/25/aptamil-certains-lots-retires-des-pharmacies/)
+- [Un mandat d’arrêt émis contre Hande Erçel dans une vaste...](https://www.lapresse.tn/2026/03/25/un-mandat-darret-emis-contre-hande-ercel-dans-une-vaste-operation-anti-drogue/)
 
 ## NGOs – Amnesty International – Tunisia
 
