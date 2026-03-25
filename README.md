@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 06:47*
+*Generato: 25 Mar 2026, 09:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260324IPR39003/ep-today)
 - [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38820/press-briefing-on-this-week-s-plenary-session)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
@@ -78,12 +79,11 @@
 - [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 - [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
 - [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
-- [Package travel: Parliament greenlights new rules to protect holidaymakers](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37536/package-travel-parliament-greenlights-new-rules-to-protect-holidaymakers)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [QatarEnergy déclare la force majeure suite à des attaques contre...](https://www.lapresse.tn/2026/03/24/qatarenergy-declare-la-force-majeure-suite-a-des-attaques-contre-ses-installations/)
-- [Huile d’olive : 184,3 mille tonnes exportées pour une valeur...](https://www.lapresse.tn/2026/03/24/huile-dolive-1843-mille-tonnes-exportees-pour-une-valeur-de-2-263-millions-de-dinars/)
+- [Vandalisme dans le métro tunisien : un passager blessé et...](https://www.lapresse.tn/2026/03/25/vandalisme-dans-le-metro-tunisien-un-passager-blesse-et-cinq-suspects-arretes/)
+- [Les Etats-Unis négocient avec eux-mêmes, dit un porte-parole de l’armée...](https://www.lapresse.tn/2026/03/25/les-etats-unis-negocient-avec-eux-memes-dit-un-porte-parole-de-larmee-iranienne/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,12 +199,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
 - [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
 - [Olympics: Sex Testing Harms All Women and Girls](https://www.icj.org/olympics-sex-testing-harms-all-women-and-girls/)
 - [Erosion Of Fair Trial Rights And Threats To Lawyers in Myanmar](https://www.icj.org/erosion-of-fair-trial-rights-and-threats-to-lawyers-in-myanmar/)
 - [Systematic Attacks And Judicial Harassment Against Lawyers In Belarus](https://www.icj.org/systematic-attacks-and-judicial-harassment-against-lawyers-in-belarus/)
-- [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Cameroun : Théodore Datouo, l’homme de l’ombre que Biya a propulsé président de l’Assemblée nationale](https://www.jeuneafrique.com/1776679/politique/cameroun-theodore-datouo-lhomme-de-lombre-que-biya-a-propulse-president-de-lassemblee-nationale/)
+- [Le Tchad envoie des forces de sécurité pour lutter contre les gangs en Haïti](https://www.jeuneafrique.com/1777306/politique/le-tchad-envoie-des-forces-de-securite-pour-lutter-contre-les-gangs-en-haiti/)
+- [Premier ministre algérien à Niamey : « La sécurité de l’Algérie est la sécurité du Niger et la sécurité du Niger est la sécurité de l’Algérie »](https://www.jeuneafrique.com/1777285/politique/premier-ministre-algerien-a-niamey-la-securite-de-lalgerie-est-la-securite-du-niger-et-la-securite-du-niger-est-la-securite-de-lalgerie/)
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
 - [Nasser Bourita monte au créneau pour défendre la diaspora marocaine d’Espagne](https://www.jeuneafrique.com/1777046/politique/nasser-bourita-monte-au-creneau-pour-defendre-la-diaspora-marocaine-despagne/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
 - [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
 - [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
-- [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
-- [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
+- [Au Gabon, les coulisses de la chute de Jean-Charles Solon, l’ex-maître des écoutes des Bongo](https://www.jeuneafrique.com/1776543/politique/au-gabon-les-coulisses-de-la-chute-de-jean-charles-solon-lex-maitre-des-ecoutes-des-bongo/)
+- [Côte d’Ivoire, Cameroun, Ghana… Comment la guerre au Moyen-Orient accélère l’expansion de Dangote](https://www.jeuneafrique.com/1776899/economie-entreprises/cote-divoire-cameroun-ghana-comment-la-guerre-au-moyen-orient-accelere-lexpansion-de-dangote/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
-- [Jean-Guy Afrika : « Nous voulons faire du Rwanda la passerelle pour les investissements en Afrique de l’Est et au-delà »](https://www.jeuneafrique.com/1771277/economie-entreprises/jean-guy-afrika-nous-voulons-faire-du-rwanda-la-passerelle-pour-les-investissements-en-afrique-de-lest-et-au-dela/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
