@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 14:09*
+*Generato: 25 Mar 2026, 15:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,7 +69,9 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 25-26 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38821/opening-25-26-march-plenary-session)
 - [Future EU Customs Authority to be headquartered in Lille, France](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38814/future-eu-customs-authority-to-be-headquartered-in-lille-france)
+- [Press Conference EU US trade deal: Setting conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39108/eu-us-trade-deal-setting-conditions-for-lowering-tariffs-on-us-products)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39103/press-briefing-on-this-week-s-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260324IPR39003/ep-today)
 - [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
@@ -77,8 +79,6 @@
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 - [Metsola to EU leaders: “We must be an economic force to speak language of power”](https://www.europarl.europa.eu/news/en/press-room/20260319IPR38602/metsola-to-eu-leaders-we-must-be-an-economic-force-to-speak-language-of-power)
 - [MEPs back the lowering of tariffs on US agricultural and industrial products](https://www.europarl.europa.eu/news/en/press-room/20260318IPR38502/meps-back-the-lowering-of-tariffs-on-us-agricultural-and-industrial-products)
-- [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
-- [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Jeunes médecins : sit-in annoncé pour réclamer un hommage officiel...](https://www.lapresse.tn/2026/03/25/jeunes-medecins-sit-in-annonce-pour-reclamer-un-hommage-officiel-a-jed-henchiri/)
 - [Industries électriques et mécaniques : plus de 28 milliards de...](https://www.lapresse.tn/2026/03/25/industries-electriques-et-mecaniques-plus-de-28-milliards-de-dinars-dexportations-766-vers-lue/)
-- [Incendie à l’Hôpital régional Mohamed Tlatli de Nabeul : la...](https://www.lapresse.tn/2026/03/25/incendie-a-lhopital-regional-mohamed-tlatli-de-nabeul-la-protection-civile-en-action/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,14 +266,14 @@
 
 - [Le Tchad envoie des forces de sécurité pour lutter contre les gangs en Haïti](https://www.jeuneafrique.com/1777306/politique/le-tchad-envoie-des-forces-de-securite-pour-lutter-contre-les-gangs-en-haiti/)
 - [Premier ministre algérien à Niamey : « La sécurité de l’Algérie est la sécurité du Niger et la sécurité du Niger est la sécurité de l’Algérie »](https://www.jeuneafrique.com/1777285/politique/premier-ministre-algerien-a-niamey-la-securite-de-lalgerie-est-la-securite-du-niger-et-la-securite-du-niger-est-la-securite-de-lalgerie/)
+- [Présidentielle au Bénin : le fils de Thomas Boni Yayi apporte son soutien à Romuald Wadagni](https://www.jeuneafrique.com/1777241/politique/presidentielle-au-benin-le-fils-de-thomas-boni-yayi-apporte-son-soutien-a-romuald-wadagni/)
 - [Du Sahel au golfe de Guinée, le jihadisme se propage vers le sud](https://www.jeuneafrique.com/1777074/politique/du-sahel-au-golfe-de-guinee-le-jihadisme-se-propage-vers-le-sud/)
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
 - [Nasser Bourita monte au créneau pour défendre la diaspora marocaine d’Espagne](https://www.jeuneafrique.com/1777046/politique/nasser-bourita-monte-au-creneau-pour-defendre-la-diaspora-marocaine-despagne/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
-- [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
-- [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
+- [CAN 2025 : 5 questions pour savoir si le Sénégal peut encore conserver son titre face au Maroc](https://www.jeuneafrique.com/1776621/politique/can-2025-5-questions-pour-savoir-si-le-senegal-peut-encore-conserver-son-titre-face-au-maroc/)
+- [OMC à Yaoundé : une réunion qui s’ouvre sous le spectre de « la pire crise industrielle de mémoire humaine »](https://www.jeuneafrique.com/1783133/economie-entreprises/omc-a-yaounde-une-reunion-qui-souvre-sous-le-spectre-de-la-pire-crise-industrielle-de-memoire-humaine/)
 - [Électricité : pourquoi le contrat de la Senelec est en passe d’être débloqué au Congo](https://www.jeuneafrique.com/1777219/economie-entreprises/electricite-pourquoi-le-contrat-de-la-senelec-est-en-passe-detre-debloque-au-congo/)
-- [Côte d’Ivoire, Cameroun, Ghana… Comment la guerre au Moyen-Orient accélère l’expansion de Dangote](https://www.jeuneafrique.com/1776899/economie-entreprises/cote-divoire-cameroun-ghana-comment-la-guerre-au-moyen-orient-accelere-lexpansion-de-dangote/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
