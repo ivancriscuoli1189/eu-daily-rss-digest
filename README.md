@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 09:41*
+*Generato: 25 Mar 2026, 11:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39103/press-briefing-on-this-week-s-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260324IPR39003/ep-today)
 - [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38820/press-briefing-on-this-week-s-plenary-session)
@@ -78,12 +79,11 @@
 - [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
 - [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
 - [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
-- [Human rights violations in Russia, Niger and Georgia](https://www.europarl.europa.eu/news/en/press-room/20260306IPR37537/human-rights-violations-in-russia-niger-and-georgia)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vandalisme dans le métro tunisien : un passager blessé et...](https://www.lapresse.tn/2026/03/25/vandalisme-dans-le-metro-tunisien-un-passager-blesse-et-cinq-suspects-arretes/)
-- [Les Etats-Unis négocient avec eux-mêmes, dit un porte-parole de l’armée...](https://www.lapresse.tn/2026/03/25/les-etats-unis-negocient-avec-eux-memes-dit-un-porte-parole-de-larmee-iranienne/)
+- [Kaouther Ben Hania reçoit le tout premier Fribourg Cinema Award...](https://www.lapresse.tn/2026/03/25/kaouther-ben-hania-recoit-le-tout-premier-fribourg-cinema-award-en-suisse/)
+- [Santé : la Tunisie produit l’essentiel de ses médicaments et...](https://www.lapresse.tn/2026/03/25/sante-la-tunisie-produit-lessentiel-de-ses-medicaments-et-prepare-un-livre-blanc/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
 - [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
 - [Au Gabon, les coulisses de la chute de Jean-Charles Solon, l’ex-maître des écoutes des Bongo](https://www.jeuneafrique.com/1776543/politique/au-gabon-les-coulisses-de-la-chute-de-jean-charles-solon-lex-maitre-des-ecoutes-des-bongo/)
+- [Électricité : pourquoi le contrat de la Senelec est en passe d’être débloqué au Congo](https://www.jeuneafrique.com/1777219/economie-entreprises/electricite-pourquoi-le-contrat-de-la-senelec-est-en-passe-detre-debloque-au-congo/)
 - [Côte d’Ivoire, Cameroun, Ghana… Comment la guerre au Moyen-Orient accélère l’expansion de Dangote](https://www.jeuneafrique.com/1776899/economie-entreprises/cote-divoire-cameroun-ghana-comment-la-guerre-au-moyen-orient-accelere-lexpansion-de-dangote/)
-- [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
