@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 12:37*
+*Generato: 25 Mar 2026, 14:09*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Future EU Customs Authority to be headquartered in Lille, France](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38814/future-eu-customs-authority-to-be-headquartered-in-lille-france)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39103/press-briefing-on-this-week-s-plenary-session)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260324IPR39003/ep-today)
 - [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
@@ -78,7 +79,6 @@
 - [MEPs back the lowering of tariffs on US agricultural and industrial products](https://www.europarl.europa.eu/news/en/press-room/20260318IPR38502/meps-back-the-lowering-of-tariffs-on-us-agricultural-and-industrial-products)
 - [European Parliament press kit for the European Council of 19-20 March 2026](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38218/european-parliament-press-kit-for-the-european-council-of-19-20-march-2026)
 - [MEPs support postponement of certain rules on artificial intelligence](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38219/meps-support-postponement-of-certain-rules-on-artificial-intelligence)
-- [MEPs advocate for smart management of tourism](https://www.europarl.europa.eu/news/en/press-room/20260316IPR38220/meps-advocate-for-smart-management-of-tourism)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Aptamil : certains lots retirés des pharmacies](https://www.lapresse.tn/2026/03/25/aptamil-certains-lots-retires-des-pharmacies/)
-- [Un mandat d’arrêt émis contre Hande Erçel dans une vaste...](https://www.lapresse.tn/2026/03/25/un-mandat-darret-emis-contre-hande-ercel-dans-une-vaste-operation-anti-drogue/)
+- [Industries électriques et mécaniques : plus de 28 milliards de...](https://www.lapresse.tn/2026/03/25/industries-electriques-et-mecaniques-plus-de-28-milliards-de-dinars-dexportations-766-vers-lue/)
+- [Incendie à l’Hôpital régional Mohamed Tlatli de Nabeul : la...](https://www.lapresse.tn/2026/03/25/incendie-a-lhopital-regional-mohamed-tlatli-de-nabeul-la-protection-civile-en-action/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,12 +199,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
 - [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
 - [Olympics: Sex Testing Harms All Women and Girls](https://www.icj.org/olympics-sex-testing-harms-all-women-and-girls/)
 - [Erosion Of Fair Trial Rights And Threats To Lawyers in Myanmar](https://www.icj.org/erosion-of-fair-trial-rights-and-threats-to-lawyers-in-myanmar/)
-- [Systematic Attacks And Judicial Harassment Against Lawyers In Belarus](https://www.icj.org/systematic-attacks-and-judicial-harassment-against-lawyers-in-belarus/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
@@ -266,12 +266,12 @@
 
 - [Le Tchad envoie des forces de sécurité pour lutter contre les gangs en Haïti](https://www.jeuneafrique.com/1777306/politique/le-tchad-envoie-des-forces-de-securite-pour-lutter-contre-les-gangs-en-haiti/)
 - [Premier ministre algérien à Niamey : « La sécurité de l’Algérie est la sécurité du Niger et la sécurité du Niger est la sécurité de l’Algérie »](https://www.jeuneafrique.com/1777285/politique/premier-ministre-algerien-a-niamey-la-securite-de-lalgerie-est-la-securite-du-niger-et-la-securite-du-niger-est-la-securite-de-lalgerie/)
+- [Du Sahel au golfe de Guinée, le jihadisme se propage vers le sud](https://www.jeuneafrique.com/1777074/politique/du-sahel-au-golfe-de-guinee-le-jihadisme-se-propage-vers-le-sud/)
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
 - [Nasser Bourita monte au créneau pour défendre la diaspora marocaine d’Espagne](https://www.jeuneafrique.com/1777046/politique/nasser-bourita-monte-au-creneau-pour-defendre-la-diaspora-marocaine-despagne/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
 - [Visite du pape au Cameroun : bras de fer explosif entre Ketcha Courtès et la mairie de Yaoundé](https://www.jeuneafrique.com/1776568/politique/visite-du-pape-au-cameroun-bras-de-fer-explosif-entre-ketcha-courtes-et-la-mairie-de-yaounde/)
 - [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
-- [Au Gabon, les coulisses de la chute de Jean-Charles Solon, l’ex-maître des écoutes des Bongo](https://www.jeuneafrique.com/1776543/politique/au-gabon-les-coulisses-de-la-chute-de-jean-charles-solon-lex-maitre-des-ecoutes-des-bongo/)
 - [Électricité : pourquoi le contrat de la Senelec est en passe d’être débloqué au Congo](https://www.jeuneafrique.com/1777219/economie-entreprises/electricite-pourquoi-le-contrat-de-la-senelec-est-en-passe-detre-debloque-au-congo/)
 - [Côte d’Ivoire, Cameroun, Ghana… Comment la guerre au Moyen-Orient accélère l’expansion de Dangote](https://www.jeuneafrique.com/1776899/economie-entreprises/cote-divoire-cameroun-ghana-comment-la-guerre-au-moyen-orient-accelere-lexpansion-de-dangote/)
 
