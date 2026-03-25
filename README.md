@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Mar 2026, 21:29*
+*Generato: 25 Mar 2026, 06:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [QatarEnergy déclare la force majeure suite à des attaques contre...](https://www.lapresse.tn/2026/03/24/qatarenergy-declare-la-force-majeure-suite-a-des-attaques-contre-ses-installations/)
 - [Huile d’olive : 184,3 mille tonnes exportées pour une valeur...](https://www.lapresse.tn/2026/03/24/huile-dolive-1843-mille-tonnes-exportees-pour-une-valeur-de-2-263-millions-de-dinars/)
-- [Tuberculose : en Tunisie, 80 % des cas de contamination...](https://www.lapresse.tn/2026/03/24/tuberculose-en-tunisie-80-des-cas-de-contamination-dorigine-animale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : Théodore Datouo, l’homme de l’ombre que Biya a propulsé président de l’Assemblée nationale](https://www.jeuneafrique.com/1776679/politique/cameroun-theodore-datouo-lhomme-de-lombre-que-biya-a-propulse-president-de-lassemblee-nationale/)
 - [Le Ghana et l’UE signent leur premier partenariat pour lutter contre l’insécurité régionale](https://www.jeuneafrique.com/1777073/politique/le-ghana-et-lue-signent-leur-premier-partenariat-pour-lutter-contre-linsecurite-regionale/)
 - [Nasser Bourita monte au créneau pour défendre la diaspora marocaine d’Espagne](https://www.jeuneafrique.com/1777046/politique/nasser-bourita-monte-au-creneau-pour-defendre-la-diaspora-marocaine-despagne/)
 - [Cameroun : Taïwan se retire d’une réunion de l’OMC pour avoir été nommé par Yaoundé « province de Chine »](https://www.jeuneafrique.com/1777034/politique/cameroun-taiwan-se-retire-dune-reunion-de-lomc-pour-avoir-ete-nomme-par-yaounde-province-de-chine/)
@@ -271,7 +272,6 @@
 - [Démission de Bahati Lukwebo : en RDC, la majorité ne tolère pas les fausses notes](https://www.jeuneafrique.com/1776630/politique/demission-de-bahati-lukwebo-en-rdc-la-majorite-ne-tolere-pas-les-fausses-notes/)
 - [Au Mali, le journaliste Youssouf Sissoko condamné à deux ans de prison pour avoir critiqué Abdourahamane Tiani](https://www.jeuneafrique.com/1776826/politique/au-mali-le-journaliste-youssouf-sissoko-condamne-a-deux-ans-de-prison-pour-avoir-critique-abdourahamane-tiani/)
 - [Au Bénin, Les Démocrates tournent la page Boni Yayi sur fond de tensions internes](https://www.jeuneafrique.com/1776691/politique/au-benin-les-democrates-tournent-la-page-boni-yayi-sur-fond-de-tensions-internes/)
-- [Le chantage de l’administration Trump à la Zambie : des minerais en échange de traitements contre le VIH](https://www.jeuneafrique.com/1776647/politique/le-chantage-de-ladministration-trump-a-la-zambie-des-minerais-en-echange-de-traitements-contre-le-vih/)
 - [Air Côte d’Ivoire reporte sa liaison Abidjan-Beyrouth sur fond de tensions au Liban](https://www.jeuneafrique.com/1776848/economie-entreprises/air-cote-divoire-reporte-sa-liaison-abidjan-beyrouth-sur-fond-de-tensions-au-liban/)
 - [Jean-Guy Afrika : « Nous voulons faire du Rwanda la passerelle pour les investissements en Afrique de l’Est et au-delà »](https://www.jeuneafrique.com/1771277/economie-entreprises/jean-guy-afrika-nous-voulons-faire-du-rwanda-la-passerelle-pour-les-investissements-en-afrique-de-lest-et-au-dela/)
 
