@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 16:00*
+*Generato: 26 Mar 2026, 18:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisiens résidant à l’étranger : ce qui change concrètement pour...](https://www.lapresse.tn/2026/03/26/tunisiens-residant-a-letranger-ce-qui-change-concretement-pour-vos-vehicules-et-vos-devises/)
-- [France : Tariq Ramadan condamné à 18 ans de réclusion...](https://www.lapresse.tn/2026/03/26/france-tariq-ramadan-condamne-a-18-ans-de-reclusion-pour-viols/)
+- [Décès de l’artiste libanais Ahmad Kaabour, auteur de l’hymne “Ounadikoum”](https://www.lapresse.tn/2026/03/26/deces-de-lartiste-libanais-ahmad-kaabour-auteur-de-lhymne-ounadikoum/)
+- [Changements climatiques : Sensibiliser pour changer les mentalités](https://www.lapresse.tn/2026/03/26/changements-climatiques-sensibiliser-pour-changer-les-mentalites/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -273,7 +273,7 @@
 - [Le rappeur Gims en garde à vue à Paris dans une affaire de blanchiment en bande organisée](https://www.jeuneafrique.com/1783217/politique/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee/)
 - [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
-- [Électricité : la croissance d’Abidjan met le réseau ivoirien sous tension](https://www.jeuneafrique.com/1783185/economie-entreprises/electricite-la-croissance-dabidjan-met-le-reseau-ivoirien-sous-tension/)
+- [Capital-investissement : pourquoi l’Afrique reste plus fébrile qu’elle n’en a l’air](https://www.jeuneafrique.com/1777245/economie-entreprises/capital-investissement-pourquoi-lafrique-reste-plus-febrile-quelle-nen-a-lair/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
