@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 25 Mar 2026, 21:26*
+*Generato: 26 Mar 2026, 06:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,8 +69,8 @@
 
 ## UE – EP – Press Room
 
-- [Opening: 25-26 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38821/opening-25-26-march-plenary-session)
 - [MEPs assess the results of the 19 March European Council](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38822/meps-assess-the-results-of-the-19-march-european-council)
+- [Opening: 25-26 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38821/opening-25-26-march-plenary-session)
 - [Future EU Customs Authority to be headquartered in Lille, France](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38814/future-eu-customs-authority-to-be-headquartered-in-lille-france)
 - [Press Conference EU US trade deal: Setting conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39108/eu-us-trade-deal-setting-conditions-for-lowering-tariffs-on-us-products)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39103/press-briefing-on-this-week-s-plenary-session)
