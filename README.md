@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 14:18*
+*Generato: 26 Mar 2026, 16:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Djerba : un nouveau médicament contre l’obésité et le diabète...](https://www.lapresse.tn/2026/03/26/djerba-un-nouveau-medicament-contre-lobesite-et-le-diabete-presente-au-congres-de-cardiologie/)
-- [Mondial 2026 : où suivre en direct France – Brésil...](https://www.lapresse.tn/2026/03/26/mondial-2026-ou-suivre-en-direct-france-bresil-ce-soir/)
+- [Tunisiens résidant à l’étranger : ce qui change concrètement pour...](https://www.lapresse.tn/2026/03/26/tunisiens-residant-a-letranger-ce-qui-change-concretement-pour-vos-vehicules-et-vos-devises/)
+- [France : Tariq Ramadan condamné à 18 ans de réclusion...](https://www.lapresse.tn/2026/03/26/france-tariq-ramadan-condamne-a-18-ans-de-reclusion-pour-viols/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
+- [Türkiye: European Court Hears New Case on Jailed Rights Defender](https://www.icj.org/turkiye-european-court-hears-new-case-on-jailed-rights-defender/)
 - [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
-- [Olympics: Sex Testing Harms All Women and Girls](https://www.icj.org/olympics-sex-testing-harms-all-women-and-girls/)
-- [Erosion Of Fair Trial Rights And Threats To Lawyers in Myanmar](https://www.icj.org/erosion-of-fair-trial-rights-and-threats-to-lawyers-in-myanmar/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 - [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
-- [Iran/United States/Israel: Unlawful attacks must cease](https://www.icj.org/iran-united-states-israel-unlawful-attacks-must-cease/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
 - [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
 - [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
 - [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
@@ -234,7 +235,6 @@
 - [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
-- [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
 
 ## THINK TANK – CESPI – Attualità
 
