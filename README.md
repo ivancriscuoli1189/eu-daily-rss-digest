@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 11:40*
+*Generato: 26 Mar 2026, 12:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
@@ -78,7 +79,6 @@
 - [Returns regulation: MEPs ready to start negotiations](https://www.europarl.europa.eu/news/en/press-room/20260324IPR38908/returns-regulation-meps-ready-to-start-negotiations)
 - [New rules to address bank failures protecting taxpayers and depositors](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38827/new-rules-to-address-bank-failures-protecting-taxpayers-and-depositors)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39214/ep-today)
-- [MEPs assess the results of the 19 March European Council](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38822/meps-assess-the-results-of-the-19-march-european-council)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie, Égypte, Sénégal… : la BERD identifie les économies les...](https://www.lapresse.tn/2026/03/26/tunisie-egypte-senegal-la-berd-identifie-les-economies-les-plus-fragilisees-par-le-conflit-en-iran/)
-- [Espérance de Tunis : de nombreuses absences face au Wided...](https://www.lapresse.tn/2026/03/26/esperance-de-tunis-de-nombreuses-absences-face-au-wided-sportif-del-hamma-en-16es-de-finale/)
+- [L’entité sioniste a tué le commandant de la marine du...](https://www.lapresse.tn/2026/03/26/lentite-sioniste-a-tue-le-commandant-de-la-marine-du-cgri/)
+- [11ᵉ Forum International de la Santé Numérique : vers une...](https://www.lapresse.tn/2026/03/26/11%e1%b5%89-forum-international-de-la-sante-numerique-vers-une-medecine-4-0-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sommet du G7 en France : Emmanuel Macron a annulé l’invitation de Cyril Ramaphosa, affirme l’Afrique du Sud](https://www.jeuneafrique.com/1783442/politique/sommet-du-g7-en-france-emmanuel-macron-a-annule-linvitation-de-cyril-ramaphosa-affirme-lafrique-du-sud/)
 - [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
 - [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
@@ -271,7 +272,6 @@
 - [Le rappeur Gims en garde à vue à Paris dans une affaire de blanchiment en bande organisée](https://www.jeuneafrique.com/1783217/politique/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee/)
 - [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
 - [Incident à Washington : que s’est-il passé au Four Seasons entre les délégations congolaise et rwandaise ?](https://www.jeuneafrique.com/1780438/politique/incident-a-washington-que-sest-il-passe-au-four-seasons-entre-les-delegations-congolaise-et-rwandaise/)
-- [Milices, népotisme, incompétence : un rapport liste les scandales du fonds souverain libyen](https://www.jeuneafrique.com/1777265/politique/milices-nepotisme-incompetence-un-rapport-liste-les-scandales-du-fonds-souverain-libyen/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 - [Électricité : la croissance d’Abidjan met le réseau ivoirien sous tension](https://www.jeuneafrique.com/1783185/economie-entreprises/electricite-la-croissance-dabidjan-met-le-reseau-ivoirien-sous-tension/)
 
