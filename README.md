@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 09:51*
+*Generato: 26 Mar 2026, 11:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,16 +69,16 @@
 
 ## UE – EP – Press Room
 
+- [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
+- [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
+- [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
+- [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
+- [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
+- [Parliament greenlights EU anti-corruption rules](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules)
+- [Returns regulation: MEPs ready to start negotiations](https://www.europarl.europa.eu/news/en/press-room/20260324IPR38908/returns-regulation-meps-ready-to-start-negotiations)
+- [New rules to address bank failures protecting taxpayers and depositors](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38827/new-rules-to-address-bank-failures-protecting-taxpayers-and-depositors)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39214/ep-today)
 - [MEPs assess the results of the 19 March European Council](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38822/meps-assess-the-results-of-the-19-march-european-council)
-- [Opening: 25-26 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38821/opening-25-26-march-plenary-session)
-- [Future EU Customs Authority to be headquartered in Lille, France](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38814/future-eu-customs-authority-to-be-headquartered-in-lille-france)
-- [Press Conference EU US trade deal: Setting conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39108/eu-us-trade-deal-setting-conditions-for-lowering-tariffs-on-us-products)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39103/press-briefing-on-this-week-s-plenary-session)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260324IPR39003/ep-today)
-- [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38820/press-briefing-on-this-week-s-plenary-session)
-- [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Volaille : importations prévues pour un retour à la normale...](https://www.lapresse.tn/2026/03/25/volaille-importations-prevues-pour-un-retour-a-la-normale-des-prix/)
-- [La Tunisie prépare l’essor du tourisme de croisière dès 2027](https://www.lapresse.tn/2026/03/25/la-tunisie-prepare-lessor-du-tourisme-de-croisiere-des-2027/)
+- [Tunisie, Égypte, Sénégal… : la BERD identifie les économies les...](https://www.lapresse.tn/2026/03/26/tunisie-egypte-senegal-la-berd-identifie-les-economies-les-plus-fragilisees-par-le-conflit-en-iran/)
+- [Espérance de Tunis : de nombreuses absences face au Wided...](https://www.lapresse.tn/2026/03/26/esperance-de-tunis-de-nombreuses-absences-face-au-wided-sportif-del-hamma-en-16es-de-finale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
 - [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
 - [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
 - [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
@@ -234,7 +235,6 @@
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 - [A Kurdish Rebellion in Iran Could Be a Disaster](https://www.nytimes.com/2026/03/11/opinion/iran-kurds-us-israel.html)
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -242,7 +242,7 @@
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [A cinquant’anni dal golpe militare in Argentina. Le memorie di Enrico Calamai](https://www.cespi.it/it/eventi-note/eventi/cinquantanni-dal-golpe-militare-argentina-le-memorie-di-enrico-calamai)
-- [Il DDL immigrazione mette a serio rischio i diritti e l’inclusione dei minori non accompagnati: chiediamo la piena applicazione della Legge 47](https://www.cespi.it/it/eventi-note/comunicazioni/il-ddl-immigrazione-mette-serio-rischio-i-diritti-linclusione-dei-minori)
+- [Migrazione: il parlamento europeo respinga il compromesso sul regolamento rimpatri e metta i minori al sicuro da violazioni sistematiche](https://www.cespi.it/it/eventi-note/comunicazioni/migrazione-il-parlamento-europeo-respinga-il-compromesso-sul-regolamento)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
 - [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
+- [Guinée : les autorités annoncent la mort de Toumba Diakité](https://www.jeuneafrique.com/1783220/politique/guinee-les-autorites-annoncent-la-mort-de-toumba-diakite/)
+- [Le rappeur Gims en garde à vue à Paris dans une affaire de blanchiment en bande organisée](https://www.jeuneafrique.com/1783217/politique/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee/)
 - [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
 - [Incident à Washington : que s’est-il passé au Four Seasons entre les délégations congolaise et rwandaise ?](https://www.jeuneafrique.com/1780438/politique/incident-a-washington-que-sest-il-passe-au-four-seasons-entre-les-delegations-congolaise-et-rwandaise/)
 - [Milices, népotisme, incompétence : un rapport liste les scandales du fonds souverain libyen](https://www.jeuneafrique.com/1777265/politique/milices-nepotisme-incompetence-un-rapport-liste-les-scandales-du-fonds-souverain-libyen/)
-- [Le Tchad envoie des forces de sécurité pour lutter contre les gangs en Haïti](https://www.jeuneafrique.com/1777306/politique/le-tchad-envoie-des-forces-de-securite-pour-lutter-contre-les-gangs-en-haiti/)
-- [Premier ministre algérien à Niamey : « La sécurité de l’Algérie est la sécurité du Niger et la sécurité du Niger est la sécurité de l’Algérie »](https://www.jeuneafrique.com/1777285/politique/premier-ministre-algerien-a-niamey-la-securite-de-lalgerie-est-la-securite-du-niger-et-la-securite-du-niger-est-la-securite-de-lalgerie/)
-- [Nouvelle visite ministérielle, ambassadeurs : la détente franco-algérienne se précise](https://www.jeuneafrique.com/1777078/politique/nouvelle-visite-ministerielle-ambassadeurs-la-detente-franco-algerienne-se-precise/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 - [Électricité : la croissance d’Abidjan met le réseau ivoirien sous tension](https://www.jeuneafrique.com/1783185/economie-entreprises/electricite-la-croissance-dabidjan-met-le-reseau-ivoirien-sous-tension/)
 
