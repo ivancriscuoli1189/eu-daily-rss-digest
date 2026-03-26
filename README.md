@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 06:54*
+*Generato: 26 Mar 2026, 09:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39214/ep-today)
 - [MEPs assess the results of the 19 March European Council](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38822/meps-assess-the-results-of-the-19-march-european-council)
 - [Opening: 25-26 March plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38821/opening-25-26-march-plenary-session)
 - [Future EU Customs Authority to be headquartered in Lille, France](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38814/future-eu-customs-authority-to-be-headquartered-in-lille-france)
@@ -78,7 +79,6 @@
 - [Anti-corruption directive: press conference on Thursday at noon](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38819/anti-corruption-directive-press-conference-on-thursday-at-noon)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38820/press-briefing-on-this-week-s-plenary-session)
 - [Cyprus Presidency debriefs European Parliament committees on priorities](https://www.europarl.europa.eu/news/en/press-room/20260126IPR32642/cyprus-presidency-debriefs-european-parliament-committees-on-priorities)
-- [Metsola to EU leaders: “We must be an economic force to speak language of power”](https://www.europarl.europa.eu/news/en/press-room/20260319IPR38602/metsola-to-eu-leaders-we-must-be-an-economic-force-to-speak-language-of-power)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,14 +168,14 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Volaille : importations prévues pour un retour à la normale...](https://www.lapresse.tn/2026/03/25/volaille-importations-prevues-pour-un-retour-a-la-normale-des-prix/)
 - [La Tunisie prépare l’essor du tourisme de croisière dès 2027](https://www.lapresse.tn/2026/03/25/la-tunisie-prepare-lessor-du-tourisme-de-croisiere-des-2027/)
-- [Hopital Mohamed Tlatli de Nabeul : la direction dément tout...](https://www.lapresse.tn/2026/03/25/hopital-mohamed-tlatli-de-nabeul-la-direction-dement-tout-incendie-majeur/)
 
 ## NGOs – Amnesty International – Tunisia
 
+- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
 - [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
 - [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
-- [Tunisia: Authorities must immediately drop charges against humanitarian workers facing bogus criminal trial](https://www.amnesty.org/en/latest/news/2025/12/tunisia-drop-charges-against-ngo-workers-facing-bogus-criminal-trial/)
 - [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
+- [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
+- [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
+- [Incident à Washington : que s’est-il passé au Four Seasons entre les délégations congolaise et rwandaise ?](https://www.jeuneafrique.com/1780438/politique/incident-a-washington-que-sest-il-passe-au-four-seasons-entre-les-delegations-congolaise-et-rwandaise/)
 - [Milices, népotisme, incompétence : un rapport liste les scandales du fonds souverain libyen](https://www.jeuneafrique.com/1777265/politique/milices-nepotisme-incompetence-un-rapport-liste-les-scandales-du-fonds-souverain-libyen/)
 - [Le Tchad envoie des forces de sécurité pour lutter contre les gangs en Haïti](https://www.jeuneafrique.com/1777306/politique/le-tchad-envoie-des-forces-de-securite-pour-lutter-contre-les-gangs-en-haiti/)
 - [Premier ministre algérien à Niamey : « La sécurité de l’Algérie est la sécurité du Niger et la sécurité du Niger est la sécurité de l’Algérie »](https://www.jeuneafrique.com/1777285/politique/premier-ministre-algerien-a-niamey-la-securite-de-lalgerie-est-la-securite-du-niger-et-la-securite-du-niger-est-la-securite-de-lalgerie/)
 - [Nouvelle visite ministérielle, ambassadeurs : la détente franco-algérienne se précise](https://www.jeuneafrique.com/1777078/politique/nouvelle-visite-ministerielle-ambassadeurs-la-detente-franco-algerienne-se-precise/)
-- [Cameroun : Théodore Datouo, l’homme de l’ombre que Biya a propulsé président de l’Assemblée nationale](https://www.jeuneafrique.com/1776679/politique/cameroun-theodore-datouo-lhomme-de-lombre-que-biya-a-propulse-president-de-lassemblee-nationale/)
-- [Présidentielle au Bénin : le fils de Thomas Boni Yayi apporte son soutien à Romuald Wadagni](https://www.jeuneafrique.com/1777241/politique/presidentielle-au-benin-le-fils-de-thomas-boni-yayi-apporte-son-soutien-a-romuald-wadagni/)
-- [Du Sahel au golfe de Guinée, le jihadisme se propage vers le sud](https://www.jeuneafrique.com/1777074/politique/du-sahel-au-golfe-de-guinee-le-jihadisme-se-propage-vers-le-sud/)
-- [Côte d’Ivoire – Téné Birahima Ouattara : « Le défi sécuritaire du siècle est devant nous »](https://www.jeuneafrique.com/1776567/politique/tene-birahima-ouattara-en-cote-divoire-la-menace-terroriste-est-reelle-et-persistante/)
-- [OMC à Yaoundé : une réunion qui s’ouvre sous le spectre de « la pire crise industrielle de mémoire humaine »](https://www.jeuneafrique.com/1783133/economie-entreprises/omc-a-yaounde-une-reunion-qui-souvre-sous-le-spectre-de-la-pire-crise-industrielle-de-memoire-humaine/)
-- [Yves Roger Melingui, l’homme qui veut répliquer le succès de Tanger Med au Cameroun](https://www.jeuneafrique.com/1775106/economie-entreprises/yves-roger-melingui-lhomme-qui-veut-repliquer-le-succes-de-tanger-med-au-cameroun/)
+- [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
+- [Électricité : la croissance d’Abidjan met le réseau ivoirien sous tension](https://www.jeuneafrique.com/1783185/economie-entreprises/electricite-la-croissance-dabidjan-met-le-reseau-ivoirien-sous-tension/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
