@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 18:46*
+*Generato: 26 Mar 2026, 21:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
 - [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
@@ -78,7 +79,6 @@
 - [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
 - [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
 - [Parliament greenlights EU anti-corruption rules](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules)
-- [Returns regulation: MEPs ready to start negotiations](https://www.europarl.europa.eu/news/en/press-room/20260324IPR38908/returns-regulation-meps-ready-to-start-negotiations)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Décès de l’artiste libanais Ahmad Kaabour, auteur de l’hymne “Ounadikoum”](https://www.lapresse.tn/2026/03/26/deces-de-lartiste-libanais-ahmad-kaabour-auteur-de-lhymne-ounadikoum/)
-- [Changements climatiques : Sensibiliser pour changer les mentalités](https://www.lapresse.tn/2026/03/26/changements-climatiques-sensibiliser-pour-changer-les-mentalites/)
+- [Tunisie : les prix des œufs chutent](https://www.lapresse.tn/2026/03/26/tunisie-les-prix-des-oeufs-chutent/)
+- [Conférence de presse Fita 2026 : Une édition tournée vers...](https://www.lapresse.tn/2026/03/26/conference-de-presse-fita-2026-une-edition-tournee-vers-les-partenariats-structurants-et-les-secteurs-davenir/)
 
 ## NGOs – Amnesty International – Tunisia
 
