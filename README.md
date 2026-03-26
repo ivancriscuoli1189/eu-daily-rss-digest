@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 26 Mar 2026, 12:43*
+*Generato: 26 Mar 2026, 14:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,8 @@
 
 ## UE – EP – Press Room
 
+- [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
+- [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
 - [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
@@ -77,8 +79,6 @@
 - [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
 - [Parliament greenlights EU anti-corruption rules](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules)
 - [Returns regulation: MEPs ready to start negotiations](https://www.europarl.europa.eu/news/en/press-room/20260324IPR38908/returns-regulation-meps-ready-to-start-negotiations)
-- [New rules to address bank failures protecting taxpayers and depositors](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38827/new-rules-to-address-bank-failures-protecting-taxpayers-and-depositors)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39214/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’entité sioniste a tué le commandant de la marine du...](https://www.lapresse.tn/2026/03/26/lentite-sioniste-a-tue-le-commandant-de-la-marine-du-cgri/)
-- [11ᵉ Forum International de la Santé Numérique : vers une...](https://www.lapresse.tn/2026/03/26/11%e1%b5%89-forum-international-de-la-sante-numerique-vers-une-medecine-4-0-en-tunisie/)
+- [Djerba : un nouveau médicament contre l’obésité et le diabète...](https://www.lapresse.tn/2026/03/26/djerba-un-nouveau-medicament-contre-lobesite-et-le-diabete-presente-au-congres-de-cardiologie/)
+- [Mondial 2026 : où suivre en direct France – Brésil...](https://www.lapresse.tn/2026/03/26/mondial-2026-ou-suivre-en-direct-france-bresil-ce-soir/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
 - [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
+- [RDC : ce que l’on sait sur les 3,5 millions de dollars saisis à l’aéroport de Kinshasa](https://www.jeuneafrique.com/1777035/politique/rdc-ce-que-lon-sait-sur-les-35-millions-de-dollars-saisis-a-laeroport-de-kinshasa/)
 - [Guinée : les autorités annoncent la mort de Toumba Diakité](https://www.jeuneafrique.com/1783220/politique/guinee-les-autorites-annoncent-la-mort-de-toumba-diakite/)
 - [Le rappeur Gims en garde à vue à Paris dans une affaire de blanchiment en bande organisée](https://www.jeuneafrique.com/1783217/politique/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee/)
 - [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
-- [Incident à Washington : que s’est-il passé au Four Seasons entre les délégations congolaise et rwandaise ?](https://www.jeuneafrique.com/1780438/politique/incident-a-washington-que-sest-il-passe-au-four-seasons-entre-les-delegations-congolaise-et-rwandaise/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 - [Électricité : la croissance d’Abidjan met le réseau ivoirien sous tension](https://www.jeuneafrique.com/1783185/economie-entreprises/electricite-la-croissance-dabidjan-met-le-reseau-ivoirien-sous-tension/)
 
