@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 15:39*
+*Generato: 27 Mar 2026, 18:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mongi Bhar porte plainte contre un animateur sportif pour diffamation](https://www.lapresse.tn/2026/03/27/mongi-bhar-porte-plainte-contre-un-animateur-sportif-pour-diffamation/)
-- [TGV Bizerte‑Ben Guerdane : un chantier pharaonique entre ambition et...](https://www.lapresse.tn/2026/03/27/tgv-bizerte-ben-guerdane-un-chantier-pharaonique-entre-ambition-et-pragmatisme/)
+- [Mission économique à Madagascar : Pour des partenariats opérationnels](https://www.lapresse.tn/2026/03/27/mission-economique-a-madagascar-pour-des-partenariats-operationnels/)
+- [CAB : Des blessés en cascade!](https://www.lapresse.tn/2026/03/27/cab-des-blesses-en-cascade/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
 - [Türkiye: European Court Hears New Case on Jailed Rights Defender](https://www.icj.org/turkiye-european-court-hears-new-case-on-jailed-rights-defender/)
-- [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 - [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
-- [HRC61: ICJ Statement on attacks against the rule of law and independent legal professionals — highlighting situations in Afghanistan and Guatemala](https://www.icj.org/hrc61-icj-statement-on-attacks-against-the-rule-of-law-and-independent-legal-professionals-highlighting-situations-in-afghanistan-and-guatemala/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Massacre de Thiaroye : l’État français condamné pour avoir dissimulé les circonstances du décès d’un tirailleur africain](https://www.jeuneafrique.com/1784041/politique/massacre-de-thiaroye-letat-francais-condamne-pour-avoir-dissimule-les-circonstances-du-deces-dun-tirailleur-africain/)
+- [L’Union africaine ne soutient pas la candidature de Macky Sall à l’ONU](https://www.jeuneafrique.com/1784018/politique/lunion-africaine-ne-soutient-pas-la-candidature-de-macky-sall-a-lonu/)
+- [L’Afrique du Sud « désinvitée » du G7 : Cyril Ramaphosa tente de calmer le jeu](https://www.jeuneafrique.com/1783732/politique/lafrique-du-sud-desinvitee-du-g7-cyril-ramaphosa-tente-de-calmer-le-jeu/)
+- [Agent consulaire algérien détenu en France : Alger se fâche et menace](https://www.jeuneafrique.com/1783725/politique/agent-consulaire-algerien-detenu-en-france-alger-se-fache-et-menace/)
 - [En Côte d’Ivoire, Calice Yapo Yapo, le numéro deux du PDCI, reconnu non coupable](https://www.jeuneafrique.com/1783769/politique/en-cote-divoire-calice-yapo-yapo-le-numero-deux-du-pdci-reconnu-non-coupable/)
 - [Dans l’est de la RDC, le M23 abandonne plusieurs localités dans le territoire de Lubero](https://www.jeuneafrique.com/1783666/politique/dans-lest-de-la-rdc-le-m23-abandonne-plusieurs-localites-dans-le-territoire-de-lubero/)
-- [Rwanda-RDC : bien que soutenu par Washington, le grand projet Ruzizi III s’enlise](https://www.jeuneafrique.com/1783328/politique/rdc-rwanda-bien-que-soutenu-par-washington-le-grand-projet-ruzizi-iii-senlise/)
-- [Sommet du G7 en France : Emmanuel Macron a annulé l’invitation de Cyril Ramaphosa, affirme l’Afrique du Sud](https://www.jeuneafrique.com/1783442/politique/sommet-du-g7-en-france-emmanuel-macron-a-annule-linvitation-de-cyril-ramaphosa-affirme-lafrique-du-sud/)
-- [Au Gabon, 10 choses à savoir sur Régis Onanga Ndiaye, le président de l’Assemblée nationale](https://www.jeuneafrique.com/1771724/politique/au-gabon-10-choses-a-savoir-sur-regis-onanga-ndiaye-le-president-de-lassemblee-nationale/)
-- [Passé colonial : ces noms italiens dont Tripoli ne veut plus](https://www.jeuneafrique.com/1777346/politique/passe-colonial-ces-noms-italiens-dont-tripoli-ne-veut-plus/)
-- [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
-- [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
+- [Macky Sall à l’assaut de l’ONU : avec ou sans l’Afrique ?](https://www.jeuneafrique.com/1776150/politique/macky-sall-a-lassaut-de-lonu-avec-ou-sans-lafrique/)
+- [Sahara occidental : ce que l’on sait de la visite d’évaluation de la Minurso](https://www.jeuneafrique.com/1783070/politique/sahara-occidental-ce-que-lon-sait-de-la-visite-devaluation-de-la-minurso/)
+- [Avos, Foani, Afripoule… Le marché ivoirien du poulet face à ses défis](https://www.jeuneafrique.com/1783334/economie-entreprises/avos-foani-afripoule-le-marche-ivoirien-du-poulet-face-a-ses-defis/)
 - [Pétrole, fret, engrais… Les entreprises africaines prises dans le choc d’Ormuz](https://www.jeuneafrique.com/1783123/economie-entreprises/petrole-fret-engrais-les-entreprises-africaines-prises-dans-le-choc-dormuz/)
-- [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
