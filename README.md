@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 06:54*
+*Generato: 27 Mar 2026, 09:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Au sommet du podium : Jaouadi met Hafnaoui à l’honneur,...](https://www.lapresse.tn/2026/03/26/au-sommet-du-podium-jaouadi-met-hafnaoui-a-lhonneur-un-exemple-de-noblesse/)
-- [Raoua Tlili s’adresse à Kaïs Saïed et tire la sonnette...](https://www.lapresse.tn/2026/03/26/raoua-tlili-sadresse-a-kais-saied-et-tire-la-sonnette-dalarme/)
+- [Mondial 2026 : la Tunisie lance sa préparation avec deux...](https://www.lapresse.tn/2026/03/27/mondial-2026-la-tunisie-lance-sa-preparation-avec-deux-tests-face-a-haiti-et-au-canada/)
+- [La première ambassadrice de l’État de Palestine en France présente...](https://www.lapresse.tn/2026/03/27/la-premiere-ambassadrice-de-letat-de-palestine-en-france-presente-ses-lettres-de-creance-au-president-francais/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -251,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Dans l’est de la RDC, le M23 abandonne plusieurs localités dans le territoire de Lubero](https://www.jeuneafrique.com/1783666/politique/dans-lest-de-la-rdc-le-m23-abandonne-plusieurs-localites-dans-le-territoire-de-lubero/)
 - [Sommet du G7 en France : Emmanuel Macron a annulé l’invitation de Cyril Ramaphosa, affirme l’Afrique du Sud](https://www.jeuneafrique.com/1783442/politique/sommet-du-g7-en-france-emmanuel-macron-a-annule-linvitation-de-cyril-ramaphosa-affirme-lafrique-du-sud/)
+- [Au Gabon, 10 choses à savoir sur Régis Onanga Ndiaye, le président de l’Assemblée nationale](https://www.jeuneafrique.com/1771724/politique/au-gabon-10-choses-a-savoir-sur-regis-onanga-ndiaye-le-president-de-lassemblee-nationale/)
+- [Passé colonial : ces noms italiens dont Tripoli ne veut plus](https://www.jeuneafrique.com/1777346/politique/passe-colonial-ces-noms-italiens-dont-tripoli-ne-veut-plus/)
 - [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
 - [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
-- [RDC : ce que l’on sait sur les 3,5 millions de dollars saisis à l’aéroport de Kinshasa](https://www.jeuneafrique.com/1777035/politique/rdc-ce-que-lon-sait-sur-les-35-millions-de-dollars-saisis-a-laeroport-de-kinshasa/)
-- [Guinée : les autorités annoncent la mort de Toumba Diakité](https://www.jeuneafrique.com/1783220/politique/guinee-les-autorites-annoncent-la-mort-de-toumba-diakite/)
-- [Le rappeur Gims en garde à vue à Paris dans une affaire de blanchiment en bande organisée](https://www.jeuneafrique.com/1783217/politique/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee/)
-- [Côte d’Ivoire-AES : le ministre Adama Dosso attendu début avril au Mali](https://www.jeuneafrique.com/1777167/politique/cote-divoire-aes-le-ministre-adama-dosso-attendu-debut-avril-au-mali/)
+- [Cameroun : pourquoi l’incident diplomatique avec Taïwan n’est pas une surprise](https://www.jeuneafrique.com/1783040/politique/cameroun-pourquoi-lincident-diplomatique-avec-taiwan-nest-pas-une-surprise/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 - [Capital-investissement : pourquoi l’Afrique reste plus fébrile qu’elle n’en a l’air](https://www.jeuneafrique.com/1777245/economie-entreprises/capital-investissement-pourquoi-lafrique-reste-plus-febrile-quelle-nen-a-lair/)
 
