@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 11:33*
+*Generato: 27 Mar 2026, 12:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Salaires : hausse significative prévue à partir de cette date,...](https://www.lapresse.tn/2026/03/27/salaires-hausse-significative-prevue-a-partir-de-cette-date-avec-effet-retroactif/)
-- [Viande blanche : les prix vont enfin baisser…](https://www.lapresse.tn/2026/03/27/viande-blanche-les-prix-vont-enfin-baisser/)
+- [Chaque Tunisien produit entre 800 g et 1 kg de...](https://www.lapresse.tn/2026/03/27/chaque-tunisien-produit-entre-800-g-et-1-kg-de-dechets-par-jour/)
+- [Phosphate : crédits obtenus, réalisations limitées, alerte de la CPG](https://www.lapresse.tn/2026/03/27/phosphate-credits-obtenus-realisations-limitees-alerte-de-la-cpg/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Côte d’Ivoire, Calice Yapo Yapo, le numéro deux du PDCI, reconnu non coupable](https://www.jeuneafrique.com/1783769/politique/en-cote-divoire-calice-yapo-yapo-le-numero-deux-du-pdci-reconnu-non-coupable/)
 - [Dans l’est de la RDC, le M23 abandonne plusieurs localités dans le territoire de Lubero](https://www.jeuneafrique.com/1783666/politique/dans-lest-de-la-rdc-le-m23-abandonne-plusieurs-localites-dans-le-territoire-de-lubero/)
 - [Sommet du G7 en France : Emmanuel Macron a annulé l’invitation de Cyril Ramaphosa, affirme l’Afrique du Sud](https://www.jeuneafrique.com/1783442/politique/sommet-du-g7-en-france-emmanuel-macron-a-annule-linvitation-de-cyril-ramaphosa-affirme-lafrique-du-sud/)
 - [Au Gabon, 10 choses à savoir sur Régis Onanga Ndiaye, le président de l’Assemblée nationale](https://www.jeuneafrique.com/1771724/politique/au-gabon-10-choses-a-savoir-sur-regis-onanga-ndiaye-le-president-de-lassemblee-nationale/)
@@ -258,9 +272,8 @@
 - [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
 - [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
-- [Cameroun : pourquoi l’incident diplomatique avec Taïwan n’est pas une surprise](https://www.jeuneafrique.com/1783040/politique/cameroun-pourquoi-lincident-diplomatique-avec-taiwan-nest-pas-une-surprise/)
+- [Pétrole, fret, engrais… Les entreprises africaines prises dans le choc d’Ormuz](https://www.jeuneafrique.com/1783123/economie-entreprises/petrole-fret-engrais-les-entreprises-africaines-prises-dans-le-choc-dormuz/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
-- [Capital-investissement : pourquoi l’Afrique reste plus fébrile qu’elle n’en a l’air](https://www.jeuneafrique.com/1777245/economie-entreprises/capital-investissement-pourquoi-lafrique-reste-plus-febrile-quelle-nen-a-lair/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
