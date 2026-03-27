@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 12:34*
+*Generato: 27 Mar 2026, 14:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Chaque Tunisien produit entre 800 g et 1 kg de...](https://www.lapresse.tn/2026/03/27/chaque-tunisien-produit-entre-800-g-et-1-kg-de-dechets-par-jour/)
-- [Phosphate : crédits obtenus, réalisations limitées, alerte de la CPG](https://www.lapresse.tn/2026/03/27/phosphate-credits-obtenus-realisations-limitees-alerte-de-la-cpg/)
+- [TGV Bizerte‑Ben Guerdane : un chantier pharaonique entre ambition et...](https://www.lapresse.tn/2026/03/27/tgv-bizerte-ben-guerdane-un-chantier-pharaonique-entre-ambition-et-pragmatisme/)
+- [Tunisie : six axes prioritaires pour améliorer la situation environnementale](https://www.lapresse.tn/2026/03/27/tunisie-six-axes-prioritaires-pour-ameliorer-la-situation-environnementale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
 - [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
 - [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
 - [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
@@ -234,7 +235,6 @@
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 - [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
-- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,12 +266,12 @@
 
 - [En Côte d’Ivoire, Calice Yapo Yapo, le numéro deux du PDCI, reconnu non coupable](https://www.jeuneafrique.com/1783769/politique/en-cote-divoire-calice-yapo-yapo-le-numero-deux-du-pdci-reconnu-non-coupable/)
 - [Dans l’est de la RDC, le M23 abandonne plusieurs localités dans le territoire de Lubero](https://www.jeuneafrique.com/1783666/politique/dans-lest-de-la-rdc-le-m23-abandonne-plusieurs-localites-dans-le-territoire-de-lubero/)
+- [Rwanda-RDC : bien que soutenu par Washington, le grand projet Ruzizi III s’enlise](https://www.jeuneafrique.com/1783328/politique/rdc-rwanda-bien-que-soutenu-par-washington-le-grand-projet-ruzizi-iii-senlise/)
 - [Sommet du G7 en France : Emmanuel Macron a annulé l’invitation de Cyril Ramaphosa, affirme l’Afrique du Sud](https://www.jeuneafrique.com/1783442/politique/sommet-du-g7-en-france-emmanuel-macron-a-annule-linvitation-de-cyril-ramaphosa-affirme-lafrique-du-sud/)
 - [Au Gabon, 10 choses à savoir sur Régis Onanga Ndiaye, le président de l’Assemblée nationale](https://www.jeuneafrique.com/1771724/politique/au-gabon-10-choses-a-savoir-sur-regis-onanga-ndiaye-le-president-de-lassemblee-nationale/)
 - [Passé colonial : ces noms italiens dont Tripoli ne veut plus](https://www.jeuneafrique.com/1777346/politique/passe-colonial-ces-noms-italiens-dont-tripoli-ne-veut-plus/)
 - [La traite des esclaves africains proclamée « plus grave crime commis contre l’humanité » par l’ONU](https://www.jeuneafrique.com/1783332/politique/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-commis-contre-lhumanite-par-lonu/)
 - [Un nouveau gouvernement à Madagascar, et toujours pas de représentants de la Gen Z](https://www.jeuneafrique.com/1783298/politique/un-nouveau-gouvernement-a-madagascar-et-toujours-pas-de-representants-de-la-gen-z/)
-- [Au Bénin, un journaliste condamné à cinq ans de prison ferme pour « apologie » de coup d’État](https://www.jeuneafrique.com/1783283/politique/au-benin-un-journaliste-condamne-a-cinq-ans-de-prison-ferme-pour-apologie-de-coup-detat/)
 - [Pétrole, fret, engrais… Les entreprises africaines prises dans le choc d’Ormuz](https://www.jeuneafrique.com/1783123/economie-entreprises/petrole-fret-engrais-les-entreprises-africaines-prises-dans-le-choc-dormuz/)
 - [À Yaoundé, l’Afrique monte au front pour défendre son coton](https://www.jeuneafrique.com/1783270/economie-entreprises/a-yaounde-lafrique-monte-au-front-pour-defendre-son-coton/)
 
