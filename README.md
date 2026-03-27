@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 18:39*
+*Generato: 27 Mar 2026, 21:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mission économique à Madagascar : Pour des partenariats opérationnels](https://www.lapresse.tn/2026/03/27/mission-economique-a-madagascar-pour-des-partenariats-operationnels/)
-- [CAB : Des blessés en cascade!](https://www.lapresse.tn/2026/03/27/cab-des-blesses-en-cascade/)
+- [Les pays du G7 veulent créer une banque de reconstruction...](https://www.lapresse.tn/2026/03/27/les-pays-du-g7-veulent-creer-une-banque-de-reconstruction-pour-le-proche-orient/)
+- [Téhéran menace des cibles industrielles américaines et liées à l’entité...](https://www.lapresse.tn/2026/03/27/teheran-menace-des-cibles-industrielles-americaines-et-liees-a-lentite-sioniste/)
 
 ## NGOs – Amnesty International – Tunisia
 
