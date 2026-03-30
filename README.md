@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Mar 2026, 21:23*
+*Generato: 30 Mar 2026, 07:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Les pays du G7 veulent créer une banque de reconstruction...](https://www.lapresse.tn/2026/03/27/les-pays-du-g7-veulent-creer-une-banque-de-reconstruction-pour-le-proche-orient/)
-- [Téhéran menace des cibles industrielles américaines et liées à l’entité...](https://www.lapresse.tn/2026/03/27/teheran-menace-des-cibles-industrielles-americaines-et-liees-a-lentite-sioniste/)
+- [Cap Zebib : une tentative de sauvetage tourne au drame](https://www.lapresse.tn/2026/03/30/cap-zebib-une-tentative-de-sauvetage-tourne-au-drame/)
+- [La Tunisie et l’UNESCO-UNEVOC misent sur la formation des jeunes...](https://www.lapresse.tn/2026/03/30/la-tunisie-et-lunesco-unevoc-misent-sur-la-formation-des-jeunes-et-des-formateurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Massacre de Thiaroye : l’État français condamné pour avoir dissimulé les circonstances du décès d’un tirailleur africain](https://www.jeuneafrique.com/1784041/politique/massacre-de-thiaroye-letat-francais-condamne-pour-avoir-dissimule-les-circonstances-du-deces-dun-tirailleur-africain/)
-- [L’Union africaine ne soutient pas la candidature de Macky Sall à l’ONU](https://www.jeuneafrique.com/1784018/politique/lunion-africaine-ne-soutient-pas-la-candidature-de-macky-sall-a-lonu/)
-- [L’Afrique du Sud « désinvitée » du G7 : Cyril Ramaphosa tente de calmer le jeu](https://www.jeuneafrique.com/1783732/politique/lafrique-du-sud-desinvitee-du-g7-cyril-ramaphosa-tente-de-calmer-le-jeu/)
-- [Agent consulaire algérien détenu en France : Alger se fâche et menace](https://www.jeuneafrique.com/1783725/politique/agent-consulaire-algerien-detenu-en-france-alger-se-fache-et-menace/)
-- [En Côte d’Ivoire, Calice Yapo Yapo, le numéro deux du PDCI, reconnu non coupable](https://www.jeuneafrique.com/1783769/politique/en-cote-divoire-calice-yapo-yapo-le-numero-deux-du-pdci-reconnu-non-coupable/)
-- [Dans l’est de la RDC, le M23 abandonne plusieurs localités dans le territoire de Lubero](https://www.jeuneafrique.com/1783666/politique/dans-lest-de-la-rdc-le-m23-abandonne-plusieurs-localites-dans-le-territoire-de-lubero/)
-- [Macky Sall à l’assaut de l’ONU : avec ou sans l’Afrique ?](https://www.jeuneafrique.com/1776150/politique/macky-sall-a-lassaut-de-lonu-avec-ou-sans-lafrique/)
-- [Sahara occidental : ce que l’on sait de la visite d’évaluation de la Minurso](https://www.jeuneafrique.com/1783070/politique/sahara-occidental-ce-que-lon-sait-de-la-visite-devaluation-de-la-minurso/)
-- [Avos, Foani, Afripoule… Le marché ivoirien du poulet face à ses défis](https://www.jeuneafrique.com/1783334/economie-entreprises/avos-foani-afripoule-le-marche-ivoirien-du-poulet-face-a-ses-defis/)
-- [Pétrole, fret, engrais… Les entreprises africaines prises dans le choc d’Ormuz](https://www.jeuneafrique.com/1783123/economie-entreprises/petrole-fret-engrais-les-entreprises-africaines-prises-dans-le-choc-dormuz/)
+- [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
+- [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
+- [Faure Gnassingbé et l’AES : si proche et si loin à la fois](https://www.jeuneafrique.com/1783814/politique/faure-gnassingbe-et-laes-si-proche-et-si-loin-a-la-fois/)
+- [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
+- [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
+- [Macky Sall maintient sa candidature au poste de secrétaire général de l’ONU](https://www.jeuneafrique.com/1784073/politique/macky-sall-maintient-sa-candidature-au-poste-de-secretaire-general-de-lonu/)
+- [Houphouët-Boigny, en 1985 : « Comme les crocodiles de Yamoussoukro, je dors les yeux ouverts »](https://www.jeuneafrique.com/1725453/politique/houphouet-boigny-en-1985-comme-les-crocodiles-de-yamoussoukro-je-dors-les-yeux-ouverts/)
+- [Guinée équatoriale : le gouvernement nie prélever des fonds sur salaire pour la visite du pape](https://www.jeuneafrique.com/1784068/politique/guinee-equatoriale-le-gouvernement-nie-prelever-des-fonds-sur-salaire-pour-la-visite-du-pape/)
+- [OMC à Yaoundé : l’organisation s’achemine vers un accord a minima sur sa réforme](https://www.jeuneafrique.com/1784088/economie-entreprises/omc-a-yaounde-lorganisation-sachemine-vers-un-accord-a-minima-sur-sa-reforme/)
+- [Le mobile money pourra-t-il détrôner le cash un jour ? Oui, mais… répond la GSMA](https://www.jeuneafrique.com/1783810/economie-entreprises/le-mobile-money-pourra-t-il-detroner-le-cash-un-jour-oui-mais-repond-la-gsma/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
