@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Mar 2026, 14:18*
+*Generato: 30 Mar 2026, 15:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,6 +132,32 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
+
+## UE – Tunisie – Projects portal (Governance)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
+
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -142,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Annulation de la liaison Tunis–Marseille–Tunis : la CTN ajuste son...](https://www.lapresse.tn/2026/03/30/annulation-de-la-liaison-tunis-marseille-tunis-la-ctn-ajuste-son-programme/)
-- [Sfax : le projet Taparura entre dans sa phase décisive](https://www.lapresse.tn/2026/03/30/sfax-le-projet-taparura-entre-dans-sa-phase-decisive/)
+- [Wushu : le Tunisien Hamza Hammami sacré champion du monde...](https://www.lapresse.tn/2026/03/30/wushu-le-tunisien-hamza-hammami-sacre-champion-du-monde-en-nangun-a-tianjin/)
+- [L’Office des céréales lance un appel d’offres pour 100 000...](https://www.lapresse.tn/2026/03/30/loffice-des-cereales-lance-un-appel-doffres-pour-100-000-tonnes-de-ble-tendre/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Liamine Zeroual : le général algérien qui ne voulait pas être président](https://www.jeuneafrique.com/1784217/politique/liamine-zeroual-le-general-algerien-qui-ne-voulait-pas-etre-president/)
 - [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
 - [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
+- [La diplomatie sportive est-elle une priorité pour l’Algérie ?](https://www.jeuneafrique.com/1777341/politique/la-diplomatie-sportive-est-elle-une-priorite-pour-lalgerie/)
 - [Faure Gnassingbé et l’AES : si proche et si loin à la fois](https://www.jeuneafrique.com/1783814/politique/faure-gnassingbe-et-laes-si-proche-et-si-loin-a-la-fois/)
 - [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
 - [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
 - [Macky Sall maintient sa candidature au poste de secrétaire général de l’ONU](https://www.jeuneafrique.com/1784073/politique/macky-sall-maintient-sa-candidature-au-poste-de-secretaire-general-de-lonu/)
 - [Guerre en Iran : la présence américaine en Afrique face aux risques de représailles](https://www.jeuneafrique.com/1775707/politique/guerre-en-iran-la-presence-americaine-en-afrique-face-aux-risques-de-represailles/)
-- [OMC à Yaoundé : l’organisation s’achemine vers un accord a minima sur sa réforme](https://www.jeuneafrique.com/1784088/economie-entreprises/omc-a-yaounde-lorganisation-sachemine-vers-un-accord-a-minima-sur-sa-reforme/)
-- [États-Unis-Afrique : qui compose la task force de Donald Trump pour contrôler les mines africaines ?](https://www.jeuneafrique.com/1771561/economie-entreprises/etats-unis-afrique-qui-compose-la-task-force-de-donald-trump-pour-controler-les-mines-africaines/)
+- [« Un revers majeur mondial pour le commerce » : au Cameroun, l’OMC échoue à trouver des accords](https://www.jeuneafrique.com/1784138/economie-entreprises/un-revers-majeur-mondial-pour-le-commerce-au-cameroun-lomc-echoue-a-trouver-des-accords/)
+- [Pourquoi l’Algérie prend des libertés avec « le tabou » de la dette extérieure](https://www.jeuneafrique.com/1772569/economie-entreprises/pourquoi-lalgerie-prend-des-libertes-avec-le-tabou-de-la-dette-exterieure/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
