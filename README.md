@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Mar 2026, 10:04*
+*Generato: 30 Mar 2026, 11:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Agression choc au corniche de Hammam Lif : une femme...](https://www.lapresse.tn/2026/03/30/agression-choc-au-corniche-de-hammam-lif-une-femme-mordue-par-des-chiens-errants/)
 - [Campagne céréalière : 991 mille hectares emblavés en Tunisie](https://www.lapresse.tn/2026/03/30/campagne-cerealiere-991-mille-hectares-emblaves-en-tunisie/)
-- [Coupe de Tunisie 2025-2026 : le tirage des 8es de...](https://www.lapresse.tn/2026/03/30/coupe-de-tunisie-2025-2026-le-tirage-des-8es-de-finale-devoile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,12 +199,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
-- [Türkiye: European Court Hears New Case on Jailed Rights Defender](https://www.icj.org/turkiye-european-court-hears-new-case-on-jailed-rights-defender/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
@@ -273,7 +273,7 @@
 - [Guerre en Iran : la présence américaine en Afrique face aux risques de représailles](https://www.jeuneafrique.com/1775707/politique/guerre-en-iran-la-presence-americaine-en-afrique-face-aux-risques-de-represailles/)
 - [Houphouët-Boigny, en 1985 : « Comme les crocodiles de Yamoussoukro, je dors les yeux ouverts »](https://www.jeuneafrique.com/1725453/politique/houphouet-boigny-en-1985-comme-les-crocodiles-de-yamoussoukro-je-dors-les-yeux-ouverts/)
 - [OMC à Yaoundé : l’organisation s’achemine vers un accord a minima sur sa réforme](https://www.jeuneafrique.com/1784088/economie-entreprises/omc-a-yaounde-lorganisation-sachemine-vers-un-accord-a-minima-sur-sa-reforme/)
-- [Nouvelle dette cachée au Sénégal, blocage du détroit d’Ormuz, narcos de Dubaï au Maroc… Les 5 infos qu’il ne fallait pas louper](https://www.jeuneafrique.com/1783677/politique/nouvelle-dette-cachee-au-senegal-blocage-du-detroit-dormuz-narcos-de-dubai-au-maroc-les-5-infos-quil-ne-fallait-pas-louper/)
+- [États-Unis-Afrique : qui compose la task force de Donald Trump pour contrôler les mines africaines ?](https://www.jeuneafrique.com/1771561/economie-entreprises/etats-unis-afrique-qui-compose-la-task-force-de-donald-trump-pour-controler-les-mines-africaines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
