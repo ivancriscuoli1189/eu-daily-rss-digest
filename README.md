@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Mar 2026, 15:58*
+*Generato: 30 Mar 2026, 21:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Wushu : le Tunisien Hamza Hammami sacré champion du monde...](https://www.lapresse.tn/2026/03/30/wushu-le-tunisien-hamza-hammami-sacre-champion-du-monde-en-nangun-a-tianjin/)
-- [L’Office des céréales lance un appel d’offres pour 100 000...](https://www.lapresse.tn/2026/03/30/loffice-des-cereales-lance-un-appel-doffres-pour-100-000-tonnes-de-ble-tendre/)
+- [Concert «Jazz et musiques improvisées» de la Fondation Hasdrubal...](https://www.lapresse.tn/2026/03/30/concert-jazz-et-musiques-improvisees-de-la-fondation-hasdrubal-croiser-les-regards-pour-construire-ensemble/)
+- [Clusters et chaînes de valeur : Une opportunité de repositionnement](https://www.lapresse.tn/2026/03/30/clusters-et-chaines-de-valeur-une-opportunite-de-repositionnement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Cameroun : Cléopasse Medoulou Mengolo, l’ascension éclair d’un protégé de Chantal Biya](https://www.jeuneafrique.com/1773356/politique/cameroun-cleopasse-medoulou-mengolo-lascension-eclair-dun-protege-de-chantal-biya/)
 - [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
 - [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
 - [La diplomatie sportive est-elle une priorité pour l’Algérie ?](https://www.jeuneafrique.com/1777341/politique/la-diplomatie-sportive-est-elle-une-priorite-pour-lalgerie/)
@@ -271,7 +272,6 @@
 - [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
 - [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
 - [Macky Sall maintient sa candidature au poste de secrétaire général de l’ONU](https://www.jeuneafrique.com/1784073/politique/macky-sall-maintient-sa-candidature-au-poste-de-secretaire-general-de-lonu/)
-- [Guerre en Iran : la présence américaine en Afrique face aux risques de représailles](https://www.jeuneafrique.com/1775707/politique/guerre-en-iran-la-presence-americaine-en-afrique-face-aux-risques-de-represailles/)
 - [« Un revers majeur mondial pour le commerce » : au Cameroun, l’OMC échoue à trouver des accords](https://www.jeuneafrique.com/1784138/economie-entreprises/un-revers-majeur-mondial-pour-le-commerce-au-cameroun-lomc-echoue-a-trouver-des-accords/)
 - [Pourquoi l’Algérie prend des libertés avec « le tabou » de la dette extérieure](https://www.jeuneafrique.com/1772569/economie-entreprises/pourquoi-lalgerie-prend-des-libertes-avec-le-tabou-de-la-dette-exterieure/)
 
