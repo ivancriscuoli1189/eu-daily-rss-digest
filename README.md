@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Mar 2026, 07:13*
+*Generato: 30 Mar 2026, 10:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Cap Zebib : une tentative de sauvetage tourne au drame](https://www.lapresse.tn/2026/03/30/cap-zebib-une-tentative-de-sauvetage-tourne-au-drame/)
-- [La Tunisie et l’UNESCO-UNEVOC misent sur la formation des jeunes...](https://www.lapresse.tn/2026/03/30/la-tunisie-et-lunesco-unevoc-misent-sur-la-formation-des-jeunes-et-des-formateurs/)
+- [Campagne céréalière : 991 mille hectares emblavés en Tunisie](https://www.lapresse.tn/2026/03/30/campagne-cerealiere-991-mille-hectares-emblaves-en-tunisie/)
+- [Coupe de Tunisie 2025-2026 : le tirage des 8es de...](https://www.lapresse.tn/2026/03/30/coupe-de-tunisie-2025-2026-le-tirage-des-8es-de-finale-devoile/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -270,10 +270,10 @@
 - [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
 - [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
 - [Macky Sall maintient sa candidature au poste de secrétaire général de l’ONU](https://www.jeuneafrique.com/1784073/politique/macky-sall-maintient-sa-candidature-au-poste-de-secretaire-general-de-lonu/)
+- [Guerre en Iran : la présence américaine en Afrique face aux risques de représailles](https://www.jeuneafrique.com/1775707/politique/guerre-en-iran-la-presence-americaine-en-afrique-face-aux-risques-de-represailles/)
 - [Houphouët-Boigny, en 1985 : « Comme les crocodiles de Yamoussoukro, je dors les yeux ouverts »](https://www.jeuneafrique.com/1725453/politique/houphouet-boigny-en-1985-comme-les-crocodiles-de-yamoussoukro-je-dors-les-yeux-ouverts/)
-- [Guinée équatoriale : le gouvernement nie prélever des fonds sur salaire pour la visite du pape](https://www.jeuneafrique.com/1784068/politique/guinee-equatoriale-le-gouvernement-nie-prelever-des-fonds-sur-salaire-pour-la-visite-du-pape/)
 - [OMC à Yaoundé : l’organisation s’achemine vers un accord a minima sur sa réforme](https://www.jeuneafrique.com/1784088/economie-entreprises/omc-a-yaounde-lorganisation-sachemine-vers-un-accord-a-minima-sur-sa-reforme/)
-- [Le mobile money pourra-t-il détrôner le cash un jour ? Oui, mais… répond la GSMA](https://www.jeuneafrique.com/1783810/economie-entreprises/le-mobile-money-pourra-t-il-detroner-le-cash-un-jour-oui-mais-repond-la-gsma/)
+- [Nouvelle dette cachée au Sénégal, blocage du détroit d’Ormuz, narcos de Dubaï au Maroc… Les 5 infos qu’il ne fallait pas louper](https://www.jeuneafrique.com/1783677/politique/nouvelle-dette-cachee-au-senegal-blocage-du-detroit-dormuz-narcos-de-dubai-au-maroc-les-5-infos-quil-ne-fallait-pas-louper/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
