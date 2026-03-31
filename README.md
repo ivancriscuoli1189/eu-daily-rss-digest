@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Mar 2026, 21:31*
+*Generato: 31 Mar 2026, 06:59*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -46,8 +46,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Liamine Zeroual : le général algérien qui ne voulait pas être président](https://www.jeuneafrique.com/1784217/politique/liamine-zeroual-le-general-algerien-qui-ne-voulait-pas-etre-president/)
 - [Cameroun : Cléopasse Medoulou Mengolo, l’ascension éclair d’un protégé de Chantal Biya](https://www.jeuneafrique.com/1773356/politique/cameroun-cleopasse-medoulou-mengolo-lascension-eclair-dun-protege-de-chantal-biya/)
 - [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
 - [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
@@ -271,9 +272,8 @@
 - [Faure Gnassingbé et l’AES : si proche et si loin à la fois](https://www.jeuneafrique.com/1783814/politique/faure-gnassingbe-et-laes-si-proche-et-si-loin-a-la-fois/)
 - [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
 - [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
-- [Macky Sall maintient sa candidature au poste de secrétaire général de l’ONU](https://www.jeuneafrique.com/1784073/politique/macky-sall-maintient-sa-candidature-au-poste-de-secretaire-general-de-lonu/)
+- [Recapitalisation bancaire au Nigeria : ce que l’on sait du pari réussi du régulateur](https://www.jeuneafrique.com/1784246/economie-entreprises/recapitalisation-bancaire-au-nigeria-ce-que-lon-sait-du-pari-reussi-du-regulateur/)
 - [« Un revers majeur mondial pour le commerce » : au Cameroun, l’OMC échoue à trouver des accords](https://www.jeuneafrique.com/1784138/economie-entreprises/un-revers-majeur-mondial-pour-le-commerce-au-cameroun-lomc-echoue-a-trouver-des-accords/)
-- [Pourquoi l’Algérie prend des libertés avec « le tabou » de la dette extérieure](https://www.jeuneafrique.com/1772569/economie-entreprises/pourquoi-lalgerie-prend-des-libertes-avec-le-tabou-de-la-dette-exterieure/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
