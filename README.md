@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 15:56*
+*Generato: 31 Mar 2026, 18:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Arrestation d’un petit-fils soupçonné du meurtre de sa grand-mère à...](https://www.lapresse.tn/2026/03/31/arrestation-dun-petit-fils-soupconne-du-meurtre-de-sa-grand-mere-a-korba/)
-- [Détroit d’Ormouz : Trois navires chinois ont traversé](https://www.lapresse.tn/2026/03/31/detroit-dormouz-trois-navires-chinois-ont-traverse/)
+- [La Tunisie affronte demain en amical le Canada à 00h30...](https://www.lapresse.tn/2026/03/31/la-tunisie-affronte-demain-en-amical-le-canada-a-00h30-des-choix-de-plus-en-plus-clairs/)
+- [Crise à la CPG : l’alerte rouge est déclenchée](https://www.lapresse.tn/2026/03/31/crise-a-la-cpg-lalerte-rouge-est-declenchee/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
+- [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
 - [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
 - [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
 - [Quelle stratégie pour le Canada et ses entreprises minières en Afrique ?](https://www.jeuneafrique.com/1784316/politique/quelle-strategie-pour-le-canada-et-ses-entreprises-minieres-en-afrique/)
+- [Côte d’Ivoire : au Pôle pénitentiaire d’Abidjan, la vie suspendue des opposants prisonniers](https://www.jeuneafrique.com/1783382/politique/cote-divoire-au-pole-penitentiaire-dabidjan-la-vie-suspendue-des-opposants-prisonniers/)
 - [Liamine Zeroual : le général algérien qui ne voulait pas être président](https://www.jeuneafrique.com/1784217/politique/liamine-zeroual-le-general-algerien-qui-ne-voulait-pas-etre-president/)
 - [Crise entre la Mauritanie et le Mali : face à Ghazouani, Goïta a-t-il franchi la « ligne rouge » ?](https://www.jeuneafrique.com/1784149/politique/crise-entre-le-mali-et-la-mauritanie-pour-ghazouani-goita-a-t-il-franchi-la-ligne-rouge/)
-- [Pourquoi l’Afrique a besoin d’hommes forts – par François Soudan](https://www.jeuneafrique.com/1774808/politique/pourquoi-lafrique-a-besoin-dhommes-forts-par-francois-soudan/)
-- [Cameroun : Cléopasse Medoulou Mengolo, l’ascension éclair d’un protégé de Chantal Biya](https://www.jeuneafrique.com/1773356/politique/cameroun-cleopasse-medoulou-mengolo-lascension-eclair-dun-protege-de-chantal-biya/)
-- [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
+- [Comment la filière or monte en puissance au Sénégal](https://www.jeuneafrique.com/1772502/economie-entreprises/comment-la-filiere-or-monte-en-puissance-au-senegal/)
 - [La guerre au Moyen-Orient aura-t-elle raison de la croissance africaine ?](https://www.jeuneafrique.com/1784409/economie-entreprises/la-guerre-au-moyen-orient-aura-t-elle-raison-de-la-croissance-africaine/)
-- [Recapitalisation bancaire au Nigeria : ce que l’on sait du pari réussi du régulateur](https://www.jeuneafrique.com/1784246/economie-entreprises/recapitalisation-bancaire-au-nigeria-ce-que-lon-sait-du-pari-reussi-du-regulateur/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
