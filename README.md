@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 11:39*
+*Generato: 31 Mar 2026, 12:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Où suivre en direct le match amical Canada–Tunisie ce soir...](https://www.lapresse.tn/2026/03/31/ou-suivre-en-direct-le-match-amical-canada-tunisie-ce-soir/)
-- [Huile d’olive : La Tunisie décroche plus de 60 médailles...](https://www.lapresse.tn/2026/03/31/huile-dolive-la-tunisie-decroche-plus-de-60-medailles-et-confirme-son-leadership/)
+- [Askware inaugure son nouveau siège à Novation City et accélère...](https://www.lapresse.tn/2026/03/31/askware-inaugure-son-nouveau-siege-a-novation-city-et-accelere-son-expansion-internationale/)
+- [Vignette, télépaiement, IRPP… la DGI fixe les échéances fiscales du...](https://www.lapresse.tn/2026/03/31/vignette-telepaiement-irpp-la-dgi-fixe-les-echeances-fiscales-du-mois-davril/)
 
 ## NGOs – Amnesty International – Tunisia
 
