@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 12:44*
+*Generato: 31 Mar 2026, 14:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Askware inaugure son nouveau siège à Novation City et accélère...](https://www.lapresse.tn/2026/03/31/askware-inaugure-son-nouveau-siege-a-novation-city-et-accelere-son-expansion-internationale/)
-- [Vignette, télépaiement, IRPP… la DGI fixe les échéances fiscales du...](https://www.lapresse.tn/2026/03/31/vignette-telepaiement-irpp-la-dgi-fixe-les-echeances-fiscales-du-mois-davril/)
+- [Tunis, capitale du tourisme arabe 2027 : un projet stratégique...](https://www.lapresse.tn/2026/03/31/tunis-capitale-du-tourisme-arabe-2027-un-projet-strategique-pour-le-rayonnement-de-la-tunisie/)
+- [La guerre contre l’Iran coûte 186 milliards de dollars en...](https://www.lapresse.tn/2026/03/31/la-guerre-contre-liran-coute-186-milliards-de-dollars-en-un-mois-au-moyen-orient/)
 
 ## NGOs – Amnesty International – Tunisia
 
