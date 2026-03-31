@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 06:59*
+*Generato: 31 Mar 2026, 09:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Concert «Jazz et musiques improvisées» de la Fondation Hasdrubal...](https://www.lapresse.tn/2026/03/30/concert-jazz-et-musiques-improvisees-de-la-fondation-hasdrubal-croiser-les-regards-pour-construire-ensemble/)
-- [Clusters et chaînes de valeur : Une opportunité de repositionnement](https://www.lapresse.tn/2026/03/30/clusters-et-chaines-de-valeur-une-opportunite-de-repositionnement/)
+- [50 tonnes d’huile d’olive tunisienne débarquent en Chine](https://www.lapresse.tn/2026/03/31/50-tonnes-dhuile-dolive-tunisienne-debarquent-en-chine/)
+- [L’Iran cible un pétrolier au large de Dubaï](https://www.lapresse.tn/2026/03/31/liran-cible-un-petrolier-au-large-de-dubai/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
+- [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
 - [Liamine Zeroual : le général algérien qui ne voulait pas être président](https://www.jeuneafrique.com/1784217/politique/liamine-zeroual-le-general-algerien-qui-ne-voulait-pas-etre-president/)
 - [Cameroun : Cléopasse Medoulou Mengolo, l’ascension éclair d’un protégé de Chantal Biya](https://www.jeuneafrique.com/1773356/politique/cameroun-cleopasse-medoulou-mengolo-lascension-eclair-dun-protege-de-chantal-biya/)
 - [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
 - [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
 - [La diplomatie sportive est-elle une priorité pour l’Algérie ?](https://www.jeuneafrique.com/1777341/politique/la-diplomatie-sportive-est-elle-une-priorite-pour-lalgerie/)
 - [Faure Gnassingbé et l’AES : si proche et si loin à la fois](https://www.jeuneafrique.com/1783814/politique/faure-gnassingbe-et-laes-si-proche-et-si-loin-a-la-fois/)
-- [Mort de citoyens mauritaniens au Mali : Nouakchott exprime sa « profonde inquiétude »](https://www.jeuneafrique.com/1784084/politique/mort-de-citoyens-mauritaniens-au-mali-nouakchott-exprime-sa-profonde-inquietude/)
-- [Tunisie : un nouveau chef pour la puissante centrale syndicale UGTT](https://www.jeuneafrique.com/1784077/politique/tunisie-un-nouveau-chef-pour-la-puissante-centrale-syndicale-ugtt/)
 - [Recapitalisation bancaire au Nigeria : ce que l’on sait du pari réussi du régulateur](https://www.jeuneafrique.com/1784246/economie-entreprises/recapitalisation-bancaire-au-nigeria-ce-que-lon-sait-du-pari-reussi-du-regulateur/)
 - [« Un revers majeur mondial pour le commerce » : au Cameroun, l’OMC échoue à trouver des accords](https://www.jeuneafrique.com/1784138/economie-entreprises/un-revers-majeur-mondial-pour-le-commerce-au-cameroun-lomc-echoue-a-trouver-des-accords/)
 
