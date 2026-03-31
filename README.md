@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 09:52*
+*Generato: 31 Mar 2026, 11:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [50 tonnes d’huile d’olive tunisienne débarquent en Chine](https://www.lapresse.tn/2026/03/31/50-tonnes-dhuile-dolive-tunisienne-debarquent-en-chine/)
-- [L’Iran cible un pétrolier au large de Dubaï](https://www.lapresse.tn/2026/03/31/liran-cible-un-petrolier-au-large-de-dubai/)
+- [Où suivre en direct le match amical Canada–Tunisie ce soir...](https://www.lapresse.tn/2026/03/31/ou-suivre-en-direct-le-match-amical-canada-tunisie-ce-soir/)
+- [Huile d’olive : La Tunisie décroche plus de 60 médailles...](https://www.lapresse.tn/2026/03/31/huile-dolive-la-tunisie-decroche-plus-de-60-medailles-et-confirme-son-leadership/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +225,16 @@
 
 ## THINK TANK – ECFR – MENA
 
-- [Can America and Iran Reach a Cease-Fire?](https://www.foreignaffairs.com/can-america-and-iran-reach-cease-fire)
 - [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
 - [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
 - [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
 - [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
 - [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
 - [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
-- [Israel and the U.S. Have No Plan for Iran. So Europe Must Stand Up to Trump](https://www.haaretz.com/opinion/2026-03-15/ty-article-opinion/.premium/israel-and-the-u-s-have-no-plan-for-iran-so-europe-must-stand-up-to-trump/0000019c-f219-df50-a9de-f2b978fa0000)
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-- [Gulf energy bottleneck disrupts Europe and global supply chains amid Iranian attacks](https://www.brusselstimes.com/opinions/2020402/gulf-energy-bottleneck-disrupts-europe-and-global-supply-chains-amid-iranian-attacks)
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
+- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
+- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -266,14 +266,14 @@
 
 - [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
 - [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
+- [Quelle stratégie pour le Canada et ses entreprises minières en Afrique ?](https://www.jeuneafrique.com/1784316/politique/quelle-strategie-pour-le-canada-et-ses-entreprises-minieres-en-afrique/)
 - [Liamine Zeroual : le général algérien qui ne voulait pas être président](https://www.jeuneafrique.com/1784217/politique/liamine-zeroual-le-general-algerien-qui-ne-voulait-pas-etre-president/)
+- [Crise entre la Mauritanie et le Mali : face à Ghazouani, Goïta a-t-il franchi la « ligne rouge » ?](https://www.jeuneafrique.com/1784149/politique/crise-entre-le-mali-et-la-mauritanie-pour-ghazouani-goita-a-t-il-franchi-la-ligne-rouge/)
+- [Pourquoi l’Afrique a besoin d’hommes forts – par François Soudan](https://www.jeuneafrique.com/1774808/politique/pourquoi-lafrique-a-besoin-dhommes-forts-par-francois-soudan/)
 - [Cameroun : Cléopasse Medoulou Mengolo, l’ascension éclair d’un protégé de Chantal Biya](https://www.jeuneafrique.com/1773356/politique/cameroun-cleopasse-medoulou-mengolo-lascension-eclair-dun-protege-de-chantal-biya/)
 - [L’ancien ministre égyptien Nabil Fahmy nommé à la tête de la Ligue arabe](https://www.jeuneafrique.com/1784134/politique/lancien-ministre-egyptien-nabil-fahmy-nomme-a-la-tete-de-la-ligue-arabe/)
-- [« Seules les femmes ont été laissées en vie » : dans l’ouest du Niger, des assaillants armés exécutent 16 civils](https://www.jeuneafrique.com/1784103/politique/seules-les-femmes-ont-ete-laissees-en-vie-dans-louest-du-niger-des-assaillants-armes-executent-16-civils/)
-- [La diplomatie sportive est-elle une priorité pour l’Algérie ?](https://www.jeuneafrique.com/1777341/politique/la-diplomatie-sportive-est-elle-une-priorite-pour-lalgerie/)
-- [Faure Gnassingbé et l’AES : si proche et si loin à la fois](https://www.jeuneafrique.com/1783814/politique/faure-gnassingbe-et-laes-si-proche-et-si-loin-a-la-fois/)
+- [La guerre au Moyen-Orient aura-t-elle raison de la croissance africaine ?](https://www.jeuneafrique.com/1784409/economie-entreprises/la-guerre-au-moyen-orient-aura-t-elle-raison-de-la-croissance-africaine/)
 - [Recapitalisation bancaire au Nigeria : ce que l’on sait du pari réussi du régulateur](https://www.jeuneafrique.com/1784246/economie-entreprises/recapitalisation-bancaire-au-nigeria-ce-que-lon-sait-du-pari-reussi-du-regulateur/)
-- [« Un revers majeur mondial pour le commerce » : au Cameroun, l’OMC échoue à trouver des accords](https://www.jeuneafrique.com/1784138/economie-entreprises/un-revers-majeur-mondial-pour-le-commerce-au-cameroun-lomc-echoue-a-trouver-des-accords/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
