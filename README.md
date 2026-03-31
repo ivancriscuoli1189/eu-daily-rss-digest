@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 31 Mar 2026, 14:39*
+*Generato: 31 Mar 2026, 15:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunis, capitale du tourisme arabe 2027 : un projet stratégique...](https://www.lapresse.tn/2026/03/31/tunis-capitale-du-tourisme-arabe-2027-un-projet-strategique-pour-le-rayonnement-de-la-tunisie/)
-- [La guerre contre l’Iran coûte 186 milliards de dollars en...](https://www.lapresse.tn/2026/03/31/la-guerre-contre-liran-coute-186-milliards-de-dollars-en-un-mois-au-moyen-orient/)
+- [Arrestation d’un petit-fils soupçonné du meurtre de sa grand-mère à...](https://www.lapresse.tn/2026/03/31/arrestation-dun-petit-fils-soupconne-du-meurtre-de-sa-grand-mere-a-korba/)
+- [Détroit d’Ormouz : Trois navires chinois ont traversé](https://www.lapresse.tn/2026/03/31/detroit-dormouz-trois-navires-chinois-ont-traverse/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,12 +199,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
-- [Libya’s UPR Outcome: ICJ Raises Concerns on Detention Abuses, Women’s Rights, and Migrants](https://www.icj.org/libyas-upr-outcome-icj-raises-concerns-on-detention-womens-rights-and-migrants/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
