@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 16:00*
+*Generato: 01 Apr 2026, 18:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La BIAT lance « BIAT O’VERT » et renforce son...](https://www.lapresse.tn/2026/04/01/la-biat-lance-biat-overt-et-renforce-son-engagement-en-faveur-de-la-finance-durable/)
-- [Gaz russe : les exportations vers l’Europe via les...](https://www.lapresse.tn/2026/04/01/gaz-russe-les-exportations-vers-leurope-via-les-gazoducs-bondissent-de-22/)
+- [Expatries : Slim Bouaskar a déjà tout d’un grand](https://www.lapresse.tn/2026/04/01/expatries-slim-bouaskar-a-deja-tout-dun-grand/)
+- [Première édition du Festival du Cinéma Palestinien : Dix jours...](https://www.lapresse.tn/2026/04/01/premiere-edition-du-festival-du-cinema-palestinien-dix-jours-de-resistance-de-memoire-et-de-creation/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -251,14 +251,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
+- [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
+- [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
 - [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
+- [OIF – Juliana Lumumba : « Ma candidature est celle de la RDC et de l’Afrique dans sa volonté de dignité retrouvée »](https://www.jeuneafrique.com/1784584/politique/oif-juliana-lumumba-ma-candidature-est-celle-de-la-rdc-et-de-lafrique-dans-sa-volonte-de-dignite-retrouvee/)
 - [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
-- [Écoles françaises au Maroc : 5 questions pour comprendre la crise des frais de scolarité](https://www.jeuneafrique.com/1776588/politique/ecoles-francaises-au-maroc-5-questions-pour-comprendre-la-crise-des-frais-de-scolarite/)
-- [Cameroun : pourquoi les retraites de Cavayé Yéguié Djibril et de Marcel Niat Njifenji suscitent une polémique](https://www.jeuneafrique.com/1784131/politique/cameroun-pourquoi-les-retraites-de-cavaye-yeguie-djibril-et-de-marcel-niat-njifenji-suscitent-une-polemique/)
-- [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
-- [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
 - [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires des géants de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
 - [Attijariwafa, BCP, Bank of Africa : au Maroc, le trio de tête bancaire absorbé par la Coupe du monde 2030](https://www.jeuneafrique.com/1784571/economie-entreprises/attijariwafa-bcp-bank-of-africa-au-maroc-le-trio-de-tete-bancaire-absorbe-par-la-coupe-du-monde-2030/)
 
