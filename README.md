@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 11:41*
+*Generato: 01 Apr 2026, 12:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : un renard filmé dans la neige à Makthar...](https://www.lapresse.tn/2026/04/01/tunisie-un-renard-filme-dans-la-neige-a-makthar-en-pleine-depression-atmospherique/)
-- [Foot-Classement FIFA : La Tunisie gagne trois places](https://www.lapresse.tn/2026/04/01/foot-classement-fifa-la-tunisie-gagne-trois-places/)
+- [Arrestation de la « mafia du cuivre » : deux...](https://www.lapresse.tn/2026/04/01/arrestation-de-la-mafia-du-cuivre-deux-tonnes-saisies/)
+- [Poisson d’avril ou alerte écologique ? Le WWF révèle l’invasion silencieuse...](https://www.lapresse.tn/2026/04/01/poisson-davril-ou-alerte-ecologique-le-wwf-revele-linvasion-silencieuse-du-plastique-dans-la-mer/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -254,17 +254,16 @@
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
 - [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
+- [Écoles françaises au Maroc : 5 questions pour comprendre la crise des frais de scolarité](https://www.jeuneafrique.com/1776588/politique/ecoles-francaises-au-maroc-5-questions-pour-comprendre-la-crise-des-frais-de-scolarite/)
 - [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
 - [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
 - [Burkina Faso : ce qui change avec la nouvelle « Charte de la révolution »](https://www.jeuneafrique.com/1784230/politique/burkina-faso-ce-qui-change-avec-la-nouvelle-charte-de-la-revolution/)
 - [Quelle stratégie pour le Canada et ses entreprises minières en Afrique ?](https://www.jeuneafrique.com/1784316/politique/quelle-strategie-pour-le-canada-et-ses-entreprises-minieres-en-afrique/)
-- [Côte d’Ivoire : au Pôle pénitentiaire d’Abidjan, la vie suspendue des opposants prisonniers](https://www.jeuneafrique.com/1783382/politique/cote-divoire-au-pole-penitentiaire-dabidjan-la-vie-suspendue-des-opposants-prisonniers/)
 - [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
 - [Attijariwafa, BCP, Bank of Africa : au Maroc, le trio de tête bancaire absorbé par la Coupe du monde 2030](https://www.jeuneafrique.com/1784571/economie-entreprises/attijariwafa-bcp-bank-of-africa-au-maroc-le-trio-de-tete-bancaire-absorbe-par-la-coupe-du-monde-2030/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
-- [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
 - [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
@@ -274,3 +273,4 @@
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
+- [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
