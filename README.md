@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 07:07*
+*Generato: 01 Apr 2026, 09:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,21 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Coupe du monde 2026 : la Tunisie face à la...](https://www.lapresse.tn/2026/03/31/coupe-du-monde-2026-la-tunisie-face-a-la-suede-pour-son-entree-en-lice/)
-- [Université de Sfax : deux accords stratégiques signés avec des...](https://www.lapresse.tn/2026/03/31/universite-de-sfax-deux-accords-strategiques-signes-avec-des-universites-finlandaises/)
-
-## NGOs – Amnesty International – Tunisia
-
-- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
-- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
-- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
-- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Who We Are](https://www.amnesty.org/en/about-us/)
+- [Pétrole : hausse de plus de 1 % sur fond...](https://www.lapresse.tn/2026/04/01/petrole-hausse-de-plus-de-1-sur-fond-de-tensions-liees-a-la-guerre-en-iran/)
+- [Santé : modernisation du service d’ophtalmologie de l’hôpital régional de...](https://www.lapresse.tn/2026/04/01/sante-modernisation-du-service-dophtalmologie-de-lhopital-regional-de-jendouba/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
