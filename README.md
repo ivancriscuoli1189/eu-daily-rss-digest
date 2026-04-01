@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 14:23*
+*Generato: 01 Apr 2026, 16:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs examined working conditions of vulnerable groups, firefighters and police in Italy](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40008/meps-examined-working-conditions-of-vulnerable-groups-firefighters-and-police)
 - [MEPs conclude fact-finding visit to Lisbon to assess housing affordability](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40005/meps-conclude-fact-finding-visit-to-lisbon-to-assess-housing-affordability)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
@@ -78,7 +79,6 @@
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
 - [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
-- [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Trump : la guerre contre l’Iran prendra fin d’ici deux...](https://www.lapresse.tn/2026/04/01/trump-la-guerre-contre-liran-prendra-fin-dici-deux-a-trois-semaines/)
-- [Record historique : l’Afrique sera représentée par dix équipes au...](https://www.lapresse.tn/2026/04/01/record-historique-lafrique-sera-representee-par-dix-equipes-au-mondial-2026/)
+- [La BIAT lance « BIAT O’VERT » et renforce son...](https://www.lapresse.tn/2026/04/01/la-biat-lance-biat-overt-et-renforce-son-engagement-en-faveur-de-la-finance-durable/)
+- [Gaz russe : les exportations vers l’Europe via les...](https://www.lapresse.tn/2026/04/01/gaz-russe-les-exportations-vers-leurope-via-les-gazoducs-bondissent-de-22/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -256,9 +256,9 @@
 - [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
 - [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
 - [Écoles françaises au Maroc : 5 questions pour comprendre la crise des frais de scolarité](https://www.jeuneafrique.com/1776588/politique/ecoles-francaises-au-maroc-5-questions-pour-comprendre-la-crise-des-frais-de-scolarite/)
+- [Cameroun : pourquoi les retraites de Cavayé Yéguié Djibril et de Marcel Niat Njifenji suscitent une polémique](https://www.jeuneafrique.com/1784131/politique/cameroun-pourquoi-les-retraites-de-cavaye-yeguie-djibril-et-de-marcel-niat-njifenji-suscitent-une-polemique/)
 - [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
 - [Au Mali, l’armée dément la libération de jihadistes contre le passage des convois de carburant](https://www.jeuneafrique.com/1784452/politique/au-mali-larmee-dement-la-liberation-de-jihadistes-contre-le-passage-des-convois-de-carburant/)
-- [Burkina Faso : ce qui change avec la nouvelle « Charte de la révolution »](https://www.jeuneafrique.com/1784230/politique/burkina-faso-ce-qui-change-avec-la-nouvelle-charte-de-la-revolution/)
 - [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires des géants de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
 - [Attijariwafa, BCP, Bank of Africa : au Maroc, le trio de tête bancaire absorbé par la Coupe du monde 2030](https://www.jeuneafrique.com/1784571/economie-entreprises/attijariwafa-bcp-bank-of-africa-au-maroc-le-trio-de-tete-bancaire-absorbe-par-la-coupe-du-monde-2030/)
 
