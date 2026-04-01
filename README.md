@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 09:56*
+*Generato: 01 Apr 2026, 11:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs conclude fact-finding visit to Lisbon to assess housing affordability](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40005/meps-conclude-fact-finding-visit-to-lisbon-to-assess-housing-affordability)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
@@ -78,7 +79,6 @@
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
 - [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
 - [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
-- [Parliament greenlights EU anti-corruption rules](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38831/parliament-greenlights-eu-anti-corruption-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pétrole : hausse de plus de 1 % sur fond...](https://www.lapresse.tn/2026/04/01/petrole-hausse-de-plus-de-1-sur-fond-de-tensions-liees-a-la-guerre-en-iran/)
-- [Santé : modernisation du service d’ophtalmologie de l’hôpital régional de...](https://www.lapresse.tn/2026/04/01/sante-modernisation-du-service-dophtalmologie-de-lhopital-regional-de-jendouba/)
+- [Tunisie : un renard filmé dans la neige à Makthar...](https://www.lapresse.tn/2026/04/01/tunisie-un-renard-filme-dans-la-neige-a-makthar-en-pleine-depression-atmospherique/)
+- [Foot-Classement FIFA : La Tunisie gagne trois places](https://www.lapresse.tn/2026/04/01/foot-classement-fifa-la-tunisie-gagne-trois-places/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -251,7 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Au Burundi, panique à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
+- [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
 - [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
 - [Attaque de Kafolo en Côte d’Ivoire : perpétuité requise à l’encontre des jihadistes présumés](https://www.jeuneafrique.com/1784462/politique/attaque-de-kafolo-en-cote-divoire-perpetuite-requise-a-lencontre-des-jihadistes-presumes/)
@@ -259,11 +259,12 @@
 - [Burkina Faso : ce qui change avec la nouvelle « Charte de la révolution »](https://www.jeuneafrique.com/1784230/politique/burkina-faso-ce-qui-change-avec-la-nouvelle-charte-de-la-revolution/)
 - [Quelle stratégie pour le Canada et ses entreprises minières en Afrique ?](https://www.jeuneafrique.com/1784316/politique/quelle-strategie-pour-le-canada-et-ses-entreprises-minieres-en-afrique/)
 - [Côte d’Ivoire : au Pôle pénitentiaire d’Abidjan, la vie suspendue des opposants prisonniers](https://www.jeuneafrique.com/1783382/politique/cote-divoire-au-pole-penitentiaire-dabidjan-la-vie-suspendue-des-opposants-prisonniers/)
+- [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
 - [Attijariwafa, BCP, Bank of Africa : au Maroc, le trio de tête bancaire absorbé par la Coupe du monde 2030](https://www.jeuneafrique.com/1784571/economie-entreprises/attijariwafa-bcp-bank-of-africa-au-maroc-le-trio-de-tete-bancaire-absorbe-par-la-coupe-du-monde-2030/)
-- [Alyune-Blondin Diop (LoftyInc Capital): « 30 % de notre nouveau fonds ira vers l’Afrique francophone »](https://www.jeuneafrique.com/1775160/economie-entreprises/alyune-blondin-diop-loftyinc-capital-30-de-notre-nouveau-fonds-ira-vers-lafrique-francophone/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
 - [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
 - [Un’esile impronta profonda fino al centro della terra](https://www.limesonline.com/rubriche/un-esile-impronta-profonda-fino-al-centro-della-terra-andrea-zanzotto-poesie-21232206/)
@@ -273,4 +274,3 @@
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
 - [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
-- [Russia e rivoluzione](https://www.limesonline.com/rubriche/mappe-parlanti/russia-e-rivoluzione-20690296/)
