@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 18:42*
+*Generato: 01 Apr 2026, 21:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Expatries : Slim Bouaskar a déjà tout d’un grand](https://www.lapresse.tn/2026/04/01/expatries-slim-bouaskar-a-deja-tout-dun-grand/)
-- [Première édition du Festival du Cinéma Palestinien : Dix jours...](https://www.lapresse.tn/2026/04/01/premiere-edition-du-festival-du-cinema-palestinien-dix-jours-de-resistance-de-memoire-et-de-creation/)
+- [Transition énergétique en Tunisie : le solaire progresse, mais les...](https://www.lapresse.tn/2026/04/01/transition-energetique-en-tunisie-le-solaire-progresse-mais-les-obstacles-fiscaux-freinent-lelan/)
+- [Bizerte – Circulation perturbée pendant trois mois : ce qu’il...](https://www.lapresse.tn/2026/04/01/bizerte-circulation-perturbee-pendant-trois-mois-ce-quil-faut-savoir/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
