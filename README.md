@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 15:46*
+*Generato: 02 Apr 2026, 18:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Slim Sanhaji tiendra le flambeau de la 27ème édition des...](https://www.lapresse.tn/2026/04/02/slim-sanhaji-tiendra-le-flambeau-de-la-27eme-edition-des-jtc/)
-- [Programme euro-allemand de soutien au commerce électronique : ouverture des...](https://www.lapresse.tn/2026/04/02/programme-euro-allemand-de-soutien-au-commerce-electronique-ouverture-des-candidatures-pour-les-pme-tunisiennes/)
+- [Enseignement secondaire : Le choix des matières optionnelles](https://www.lapresse.tn/2026/04/02/enseignement-secondaire-le-choix-des-matieres-optionnelles/)
+- [Lancement de la 11e édition du Forum International de la...](https://www.lapresse.tn/2026/04/02/lancement-de-la-11e-edition-du-forum-international-de-la-sante-numerique-entre-transformation-digitale-et-expertise-humaine/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
+- [Au Tchad, Déby Itno remanie le gouvernement, le Pétrole revient à Fatima Haram Acyl](https://www.jeuneafrique.com/1785143/politique/au-tchad-deby-itno-remanie-le-gouvernement-le-petrole-revient-a-fatima-haram-acyl/)
 - [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
 - [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
 - [Gabon : pourquoi la réforme du Code de la nationalité d’Oligui Nguema fait débat](https://www.jeuneafrique.com/1784760/politique/gabon-pourquoi-la-reforme-du-code-de-la-nationalite-doligui-nguema-fait-debat/)
 - [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
-- [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
 - [Shoprite, Carrefour, Marjane : qui domine vraiment la grande distribution africaine ?](https://www.jeuneafrique.com/1784539/economie-entreprises/shoprite-carrefour-marjane-qui-domine-vraiment-la-grande-distribution-africaine/)
 - [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
 
