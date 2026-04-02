@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 14:14*
+*Generato: 02 Apr 2026, 15:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,21 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Transition écologique en Tunisie : l’équation entre croissance et climat](https://www.lapresse.tn/2026/04/02/transition-ecologique-en-tunisie-lequation-entre-croissance-et-climat/)
-- [Tunisie : le barrage El Moula à Tabarka atteint 100...](https://www.lapresse.tn/2026/04/02/tunisie-le-barrage-el-moula-a-tabarka-atteint-100-de-sa-capacite/)
+- [Slim Sanhaji tiendra le flambeau de la 27ème édition des...](https://www.lapresse.tn/2026/04/02/slim-sanhaji-tiendra-le-flambeau-de-la-27eme-edition-des-jtc/)
+- [Programme euro-allemand de soutien au commerce électronique : ouverture des...](https://www.lapresse.tn/2026/04/02/programme-euro-allemand-de-soutien-au-commerce-electronique-ouverture-des-candidatures-pour-les-pme-tunisiennes/)
+
+## NGOs – Amnesty International – Tunisia
+
+- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
+- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
+- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
+- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Who We Are](https://www.amnesty.org/en/about-us/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -259,8 +272,8 @@
 - [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
+- [Shoprite, Carrefour, Marjane : qui domine vraiment la grande distribution africaine ?](https://www.jeuneafrique.com/1784539/economie-entreprises/shoprite-carrefour-marjane-qui-domine-vraiment-la-grande-distribution-africaine/)
 - [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
-- [Côte d’Ivoire : pourquoi la SIR se rapproche de la raffinerie de Dangote](https://www.jeuneafrique.com/1784858/economie-entreprises/cote-divoire-pourquoi-la-sir-se-rapproche-de-la-raffinerie-de-dangote/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
