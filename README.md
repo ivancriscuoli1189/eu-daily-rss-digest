@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 12:42*
+*Generato: 02 Apr 2026, 14:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Forum d’affaires tuniso-nigérian : plus de 600 rencontres B2B ouvrent...](https://www.lapresse.tn/2026/04/02/forum-daffaires-tuniso-nigerian-plus-de-600-rencontres-b2b-ouvrent-de-nouvelles-perspectives-de-cooperation/)
-- [Externalisation : voici pourquoi la Tunisie gagne le match devant...](https://www.lapresse.tn/2026/04/02/externalisation-voici-pourquoi-la-tunisie-gagne-le-match-devant-le-maroc/)
+- [Transition écologique en Tunisie : l’équation entre croissance et climat](https://www.lapresse.tn/2026/04/02/transition-ecologique-en-tunisie-lequation-entre-croissance-et-climat/)
+- [Tunisie : le barrage El Moula à Tabarka atteint 100...](https://www.lapresse.tn/2026/04/02/tunisie-le-barrage-el-moula-a-tabarka-atteint-100-de-sa-capacite/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -186,7 +186,7 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
-- [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere.](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
+- [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
@@ -251,6 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
 - [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
 - [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
@@ -258,7 +259,6 @@
 - [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
-- [En Côte d’Ivoire, le crépuscule de Laurent Gbagbo](https://www.jeuneafrique.com/1775891/politique/en-cote-divoire-le-crepuscule-de-laurent-gbagbo/)
 - [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
 - [Côte d’Ivoire : pourquoi la SIR se rapproche de la raffinerie de Dangote](https://www.jeuneafrique.com/1784858/economie-entreprises/cote-divoire-pourquoi-la-sir-se-rapproche-de-la-raffinerie-de-dangote/)
 
