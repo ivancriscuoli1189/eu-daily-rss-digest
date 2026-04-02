@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 Apr 2026, 21:31*
+*Generato: 02 Apr 2026, 09:48*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Transition énergétique en Tunisie : le solaire progresse, mais les...](https://www.lapresse.tn/2026/04/01/transition-energetique-en-tunisie-le-solaire-progresse-mais-les-obstacles-fiscaux-freinent-lelan/)
-- [Bizerte – Circulation perturbée pendant trois mois : ce qu’il...](https://www.lapresse.tn/2026/04/01/bizerte-circulation-perturbee-pendant-trois-mois-ce-quil-faut-savoir/)
+- [Irak : l’ambassade américaine met en garde contre de potentielles...](https://www.lapresse.tn/2026/04/02/irak-lambassade-americaine-met-en-garde-contre-de-potentielles-attaques-dans-le-centre-de-bagdad/)
+- [Festival du cinéma palestinien à Tunis : coup d’envoi aujourd’hui...](https://www.lapresse.tn/2026/04/02/festival-du-cinema-palestinien-a-tunis-coup-denvoi-aujourdhui-de-la-premiere-edition/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -253,14 +253,14 @@
 
 - [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
+- [Gabon : pourquoi la réforme du Code de la nationalité d’Oligui Nguema fait débat](https://www.jeuneafrique.com/1784760/politique/gabon-pourquoi-la-reforme-du-code-de-la-nationalite-doligui-nguema-fait-debat/)
 - [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
+- [En Côte d’Ivoire, le crépuscule de Laurent Gbagbo](https://www.jeuneafrique.com/1775891/politique/en-cote-divoire-le-crepuscule-de-laurent-gbagbo/)
 - [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
-- [OIF – Juliana Lumumba : « Ma candidature est celle de la RDC et de l’Afrique dans sa volonté de dignité retrouvée »](https://www.jeuneafrique.com/1784584/politique/oif-juliana-lumumba-ma-candidature-est-celle-de-la-rdc-et-de-lafrique-dans-sa-volonte-de-dignite-retrouvee/)
-- [Au Sénégal, Diomaye Faye promulgue la loi doublant les peines de prison réprimant l’homosexualité](https://www.jeuneafrique.com/1784606/politique/au-senegal-diomaye-faye-promulgue-la-loi-doublant-les-peines-de-prison-reprimant-lhomosexualite/)
+- [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
 - [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires des géants de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
-- [Attijariwafa, BCP, Bank of Africa : au Maroc, le trio de tête bancaire absorbé par la Coupe du monde 2030](https://www.jeuneafrique.com/1784571/economie-entreprises/attijariwafa-bcp-bank-of-africa-au-maroc-le-trio-de-tete-bancaire-absorbe-par-la-coupe-du-monde-2030/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
