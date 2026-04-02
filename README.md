@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 11:40*
+*Generato: 02 Apr 2026, 12:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Chine, Europe, États-Unis : qui gagne la confiance des Tunisiens...](https://www.lapresse.tn/2026/04/02/chine-europe-etats-unis-qui-gagne-la-confiance-des-tunisiens/)
-- [De 40 ans à 69 ans : la vitesse de...](https://www.lapresse.tn/2026/04/02/de-40-ans-a-69-ans-la-vitesse-de-marche-meilleur-indicateur-de-longevite/)
+- [Forum d’affaires tuniso-nigérian : plus de 600 rencontres B2B ouvrent...](https://www.lapresse.tn/2026/04/02/forum-daffaires-tuniso-nigerian-plus-de-600-rencontres-b2b-ouvrent-de-nouvelles-perspectives-de-cooperation/)
+- [Externalisation : voici pourquoi la Tunisie gagne le match devant...](https://www.lapresse.tn/2026/04/02/externalisation-voici-pourquoi-la-tunisie-gagne-le-match-devant-le-maroc/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -186,16 +186,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere.](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
-- [Lao PDR: Addressing gaps in access to justice for survivors of sexual and gender-based violence](https://www.icj.org/lao-pdr-addressing-gaps-in-access-to-justice-for-survivors-of-sexual-and-gender-based-violence/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
 - [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
-- [Thailand: Draft Domestic Violence Act should be revised in line with international standards](https://www.icj.org/thailand-draft-domestic-violence-act-should-be-revised-in-line-with-international-standards/)
 
 ## THINK TANK – Carnegie MENA – Research
 
