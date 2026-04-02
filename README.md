@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 18:42*
+*Generato: 02 Apr 2026, 21:25*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Enseignement secondaire : Le choix des matières optionnelles](https://www.lapresse.tn/2026/04/02/enseignement-secondaire-le-choix-des-matieres-optionnelles/)
-- [Lancement de la 11e édition du Forum International de la...](https://www.lapresse.tn/2026/04/02/lancement-de-la-11e-edition-du-forum-international-de-la-sante-numerique-entre-transformation-digitale-et-expertise-humaine/)
+- [Jendouba : suspension des cours en raison des fortes pluies](https://www.lapresse.tn/2026/04/02/jendouba-suspension-des-cours-en-raison-des-fortes-pluies/)
+- [Mohamed Ali Ben Zina : « Le bénévolat incarne les...](https://www.lapresse.tn/2026/04/02/mohamed-ali-ben-zina-le-benevolat-incarne-les-valeurs-que-lindividualisme-erode/)
 
 ## NGOs – Amnesty International – Tunisia
 
