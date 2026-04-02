@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 09:48*
+*Generato: 02 Apr 2026, 11:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [MEPs examined working conditions of vulnerable groups, firefighters and police in Italy](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40008/meps-examined-working-conditions-of-vulnerable-groups-firefighters-and-police)
 - [MEPs conclude fact-finding visit to Lisbon to assess housing affordability](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40005/meps-conclude-fact-finding-visit-to-lisbon-to-assess-housing-affordability)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
@@ -78,7 +79,6 @@
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
-- [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Irak : l’ambassade américaine met en garde contre de potentielles...](https://www.lapresse.tn/2026/04/02/irak-lambassade-americaine-met-en-garde-contre-de-potentielles-attaques-dans-le-centre-de-bagdad/)
-- [Festival du cinéma palestinien à Tunis : coup d’envoi aujourd’hui...](https://www.lapresse.tn/2026/04/02/festival-du-cinema-palestinien-a-tunis-coup-denvoi-aujourdhui-de-la-premiere-edition/)
+- [Chine, Europe, États-Unis : qui gagne la confiance des Tunisiens...](https://www.lapresse.tn/2026/04/02/chine-europe-etats-unis-qui-gagne-la-confiance-des-tunisiens/)
+- [De 40 ans à 69 ans : la vitesse de...](https://www.lapresse.tn/2026/04/02/de-40-ans-a-69-ans-la-vitesse-de-marche-meilleur-indicateur-de-longevite/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -251,6 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
 - [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
 - [Gabon : pourquoi la réforme du Code de la nationalité d’Oligui Nguema fait débat](https://www.jeuneafrique.com/1784760/politique/gabon-pourquoi-la-reforme-du-code-de-la-nationalite-doligui-nguema-fait-debat/)
@@ -258,9 +259,8 @@
 - [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
 - [La gauche marocaine en ordre dispersé à l’approche des législatives](https://www.jeuneafrique.com/1784476/politique/la-gauche-marocaine-en-ordre-disperse-a-lapproche-des-legislatives/)
 - [En Côte d’Ivoire, le crépuscule de Laurent Gbagbo](https://www.jeuneafrique.com/1775891/politique/en-cote-divoire-le-crepuscule-de-laurent-gbagbo/)
-- [Vote sur l’esclavage à l’ONU : le vote du Bénin victime d’un « bug » administratif ?](https://www.jeuneafrique.com/1784560/politique/vote-sur-lesclavage-a-lonu-le-vote-du-benin-victime-dun-bug-administratif/)
 - [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
-- [Anthropic, Meta, OpenAI… Les centres d’appels africains, nouveaux laboratoires des géants de l’IA](https://www.jeuneafrique.com/1775533/economie-entreprises/anthropic-meta-openai-les-centres-dappels-africains-nouveaux-laboratoires-de-lia/)
+- [Côte d’Ivoire : pourquoi la SIR se rapproche de la raffinerie de Dangote](https://www.jeuneafrique.com/1784858/economie-entreprises/cote-divoire-pourquoi-la-sir-se-rapproche-de-la-raffinerie-de-dangote/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
