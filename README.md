@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 18:29*
+*Generato: 03 Apr 2026, 21:22*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sousse : Mesures de circulation exceptionnelles pour le match ESS...](https://www.lapresse.tn/2026/04/03/sousse-mesures-de-circulation-exceptionnelles-pour-le-match-ess-est/)
-- [Pluie de missiles sur le nord de l’entité sioniste :...](https://www.lapresse.tn/2026/04/03/pluie-de-missiles-sur-le-nord-de-lentite-sioniste-une-attaque-coordonnee-depuis-liran-et-le-liban/)
+- [Sept échéances fiscales en avril : le calendrier complet](https://www.lapresse.tn/2026/04/03/sept-echeances-fiscales-en-avril-le-calendrier-complet/)
+- [Bac sport du 13 au 25 avril : démarrage des...](https://www.lapresse.tn/2026/04/03/bac-sport-du-13-au-25-avril-demarrage-des-preparatifs/)
 
 ## NGOs – Amnesty International – Tunisia
 
