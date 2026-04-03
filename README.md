@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 02 Apr 2026, 21:25*
+*Generato: 03 Apr 2026, 06:55*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Mehdi Alioua : « Le Maroc se redécouvre africain à travers les migrations »](https://www.jeuneafrique.com/1774675/politique/mehdi-alioua-le-maroc-se-redecouvre-africain-a-travers-les-migrations/)
+- [Au Cameroun, Paul Biya propose au Parlement l’instauration d’une vice-présidence](https://www.jeuneafrique.com/1785297/politique/au-cameroun-paul-biya-propose-au-parlement-linstauration-dun-vice-president/)
 - [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
 - [Au Tchad, Déby Itno remanie le gouvernement, le Pétrole revient à Fatima Haram Acyl](https://www.jeuneafrique.com/1785143/politique/au-tchad-deby-itno-remanie-le-gouvernement-le-petrole-revient-a-fatima-haram-acyl/)
 - [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
+- [Cameroun : de Rey-Bouba à Yaoundé, Aboubakary Abdoulaye, un lamido au cœur des pouvoirs](https://www.jeuneafrique.com/1776610/politique/cameroun-de-rey-bouba-a-yaounde-aboubakary-abdoulaye-un-lamido-au-coeur-des-pouvoirs/)
 - [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
 - [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
-- [Gabon : pourquoi la réforme du Code de la nationalité d’Oligui Nguema fait débat](https://www.jeuneafrique.com/1784760/politique/gabon-pourquoi-la-reforme-du-code-de-la-nationalite-doligui-nguema-fait-debat/)
-- [Au Cameroun, Paul Biya rassemble le Parlement en congrès ce 2 avril](https://www.jeuneafrique.com/1784766/politique/au-cameroun-paul-biya-rassemble-le-parlement-en-congres-ce-2-avril/)
-- [Au Burundi, plusieurs dizaines de morts à Bujumbura après un incendie dans un arsenal militaire](https://www.jeuneafrique.com/1784763/politique/au-burundi-panique-a-bujumbura-apres-un-incendie-dans-un-arsenal-militaire/)
+- [La crise d’Ormuz, invitée surprise de la réunion de la Commission économique pour l’Afrique à Tanger](https://www.jeuneafrique.com/1785303/economie-entreprises/la-crise-dormuz-invitee-surprise-de-la-reunion-de-la-commission-economique-pour-lafrique-a-tanger/)
 - [Shoprite, Carrefour, Marjane : qui domine vraiment la grande distribution africaine ?](https://www.jeuneafrique.com/1784539/economie-entreprises/shoprite-carrefour-marjane-qui-domine-vraiment-la-grande-distribution-africaine/)
-- [Le géant marocain des engrais OCP ne tremble pas malgré un contexte des plus incertains](https://www.jeuneafrique.com/1784965/economie-entreprises/le-geant-marocain-des-engrais-ocp-ne-tremble-pas-malgre-un-contexte-des-plus-incertains/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
