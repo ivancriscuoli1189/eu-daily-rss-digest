@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 13:55*
+*Generato: 03 Apr 2026, 18:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Gafsa : saisie de plus de 350 kg de viandes...](https://www.lapresse.tn/2026/04/03/gafsa-saisie-de-plus-de-350-kg-de-viandes-de-volaille-impropres-a-la-consommation/)
-- [Tunisie : un ancien officier étranger démantelé à la tête...](https://www.lapresse.tn/2026/04/03/tunisie-un-ancien-officier-etranger-demantele-a-la-tete-dun-reseau-de-drogue-actif-entre-la-turquie-et-le-maghreb/)
+- [Sousse : Mesures de circulation exceptionnelles pour le match ESS...](https://www.lapresse.tn/2026/04/03/sousse-mesures-de-circulation-exceptionnelles-pour-le-match-ess-est/)
+- [Pluie de missiles sur le nord de l’entité sioniste :...](https://www.lapresse.tn/2026/04/03/pluie-de-missiles-sur-le-nord-de-lentite-sioniste-une-attaque-coordonnee-depuis-liran-et-le-liban/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Al-Sissi verrait bien Poutine « mettre fin » au conflit moyen-oriental](https://www.jeuneafrique.com/1785590/politique/al-sissi-verrait-bien-poutine-mettre-fin-au-conflit-moyen-oriental/)
+- [Mahamoud Ali Youssouf au Maroc : comment Rabat consolide sa place dans les instances de l’UA](https://www.jeuneafrique.com/1785309/politique/mahamoud-ali-youssouf-au-maroc-comment-rabat-consolide-sa-place-dans-les-instances-de-lua/)
 - [Coup d’État présumé à Madagascar : 13 personnes inculpées dont un général](https://www.jeuneafrique.com/1785557/politique/coup-detat-presume-a-madagascar-13-personnes-inculpees-dont-un-general/)
 - [RDC : une nouvelle attaque meurtrière des ADF en Ituri](https://www.jeuneafrique.com/1785549/politique/rdc-une-nouvelle-attaque-meurtriere-des-adf-en-ituri/)
 - [Ibrahim Traoré : « La démocratie ce n’est pas pour nous »](https://www.jeuneafrique.com/1785543/politique/ibrahim-traore-la-democratie-ce-nest-pas-pour-nous/)
+- [Au Cameroun, qui Paul Biya pourrait-il nommer vice-président ?](https://www.jeuneafrique.com/1785420/politique/au-cameroun-qui-sont-les-favoris-pour-le-poste-de-vice-president/)
 - [Mehdi Alioua : « Le Maroc se redécouvre africain à travers les migrations »](https://www.jeuneafrique.com/1774675/politique/mehdi-alioua-le-maroc-se-redecouvre-africain-a-travers-les-migrations/)
 - [Burkina Faso : ce que l’on sait de la mort de l’activiste pro-junte Mahamadi Baguian](https://www.jeuneafrique.com/1785377/politique/burkina-faso-ce-que-lon-sait-de-la-mort-de-lactiviste-pro-junte-mahamadi-baguian/)
-- [Au Cameroun, Paul Biya propose au Parlement l’instauration d’une vice-présidence](https://www.jeuneafrique.com/1785297/politique/au-cameroun-paul-biya-propose-au-parlement-linstauration-dun-vice-president/)
-- [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
-- [Gabon : quand le bras de fer entre Libreville et Karpowership révèle les failles du secteur de l’énergie](https://www.jeuneafrique.com/1783397/economie-entreprises/gabon-quand-le-bras-de-fer-entre-libreville-et-karpowership-revele-les-failles-du-secteur-de-lenergie/)
-- [La crise d’Ormuz, invitée surprise de la réunion de la Commission économique pour l’Afrique à Tanger](https://www.jeuneafrique.com/1785303/economie-entreprises/la-crise-dormuz-invitee-surprise-de-la-reunion-de-la-commission-economique-pour-lafrique-a-tanger/)
+- [Africa CEO Forum 2026 : à Kigali, Kagame, Tinubu et le secteur privé africain en quête de taille critique](https://www.jeuneafrique.com/1785572/economie-entreprises/africa-ceo-forum-2026-a-kigali-kagame-tinubu-et-le-secteur-prive-africain-en-quete-de-taille-critique/)
+- [Après une première année sans Société générale, Saham Bank confirme son statut de grande banque marocaine](https://www.jeuneafrique.com/1785287/economie-entreprises/apres-une-premiere-annee-sans-societe-generale-saham-bank-confirme-son-statut-de-grande-banque-marocaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
