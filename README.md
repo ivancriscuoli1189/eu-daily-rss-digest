@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 09:42*
+*Generato: 03 Apr 2026, 11:29*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Immobilier : “El Agba 2”, le projet pilote qui veut...](https://www.lapresse.tn/2026/04/03/immobilier-el-agba-2-le-projet-pilote-qui-veut-transformer-lhabitat-en-tunisie/)
-- [La traduction, passeport des créatrices arabes vers le monde](https://www.lapresse.tn/2026/04/03/la-traduction-passeport-des-creatrices-arabes-vers-le-monde/)
+- [La scène musicale tunisienne en deuil : le maestro Abdelhakim...](https://www.lapresse.tn/2026/04/03/la-scene-musicale-tunisienne-en-deuil-le-maestro-abdelhakim-belgaied-nest-plus/)
+- [“La Tunisie s’engage pour une santé plus connectée, plus humaine...](https://www.lapresse.tn/2026/04/03/la-tunisie-sengage-pour-une-sante-plus-connectee-plus-humaine-et-plus-equitable-affirme-walid-naija-dg-de-la-sante/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,19 +183,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -270,10 +257,10 @@
 - [Mehdi Alioua : « Le Maroc se redécouvre africain à travers les migrations »](https://www.jeuneafrique.com/1774675/politique/mehdi-alioua-le-maroc-se-redecouvre-africain-a-travers-les-migrations/)
 - [Au Cameroun, Paul Biya propose au Parlement l’instauration d’une vice-présidence](https://www.jeuneafrique.com/1785297/politique/au-cameroun-paul-biya-propose-au-parlement-linstauration-dun-vice-president/)
 - [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
+- [Congo : 10 choses à savoir sur le pasteur Ntumi, maquisard à vie](https://www.jeuneafrique.com/1785107/politique/congo-10-choses-a-savoir-sur-le-pasteur-ntumi-maquisard-a-vie/)
 - [Au Tchad, Déby Itno remanie le gouvernement, le Pétrole revient à Fatima Haram Acyl](https://www.jeuneafrique.com/1785143/politique/au-tchad-deby-itno-remanie-le-gouvernement-le-petrole-revient-a-fatima-haram-acyl/)
-- [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
+- [Gabon : quand le bras de fer entre Libreville et Karpowership révèle les failles du secteur de l’énergie](https://www.jeuneafrique.com/1783397/economie-entreprises/gabon-quand-le-bras-de-fer-entre-libreville-et-karpowership-revele-les-failles-du-secteur-de-lenergie/)
 - [La crise d’Ormuz, invitée surprise de la réunion de la Commission économique pour l’Afrique à Tanger](https://www.jeuneafrique.com/1785303/economie-entreprises/la-crise-dormuz-invitee-surprise-de-la-reunion-de-la-commission-economique-pour-lafrique-a-tanger/)
-- [Shoprite, Carrefour, Marjane : qui domine vraiment la grande distribution africaine ?](https://www.jeuneafrique.com/1784539/economie-entreprises/shoprite-carrefour-marjane-qui-domine-vraiment-la-grande-distribution-africaine/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
