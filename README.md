@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 12:34*
+*Generato: 03 Apr 2026, 13:55*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [El Manar : le voleur en série de voitures arrêté](https://www.lapresse.tn/2026/04/03/el-manar-le-voleur-en-serie-de-voitures-arrete/)
-- [Les prévisions météo passent à la vitesse supérieure grâce aux...](https://www.lapresse.tn/2026/04/03/les-previsions-meteo-passent-a-la-vitesse-superieure-grace-aux-satellites-de-3%e1%b5%89-generation/)
+- [Gafsa : saisie de plus de 350 kg de viandes...](https://www.lapresse.tn/2026/04/03/gafsa-saisie-de-plus-de-350-kg-de-viandes-de-volaille-impropres-a-la-consommation/)
+- [Tunisie : un ancien officier étranger démantelé à la tête...](https://www.lapresse.tn/2026/04/03/tunisie-un-ancien-officier-etranger-demantele-a-la-tete-dun-reseau-de-drogue-actif-entre-la-turquie-et-le-maghreb/)
 
 ## NGOs – Amnesty International – Tunisia
 
