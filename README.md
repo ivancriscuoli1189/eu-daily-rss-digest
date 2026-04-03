@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 06:55*
+*Generato: 03 Apr 2026, 09:42*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Jendouba : suspension des cours en raison des fortes pluies](https://www.lapresse.tn/2026/04/02/jendouba-suspension-des-cours-en-raison-des-fortes-pluies/)
-- [Mohamed Ali Ben Zina : « Le bénévolat incarne les...](https://www.lapresse.tn/2026/04/02/mohamed-ali-ben-zina-le-benevolat-incarne-les-valeurs-que-lindividualisme-erode/)
+- [Immobilier : “El Agba 2”, le projet pilote qui veut...](https://www.lapresse.tn/2026/04/03/immobilier-el-agba-2-le-projet-pilote-qui-veut-transformer-lhabitat-en-tunisie/)
+- [La traduction, passeport des créatrices arabes vers le monde](https://www.lapresse.tn/2026/04/03/la-traduction-passeport-des-creatrices-arabes-vers-le-monde/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Coup d’État présumé à Madagascar : 13 personnes inculpées dont un général](https://www.jeuneafrique.com/1785557/politique/coup-detat-presume-a-madagascar-13-personnes-inculpees-dont-un-general/)
+- [RDC : une nouvelle attaque meurtrière des ADF en Ituri](https://www.jeuneafrique.com/1785549/politique/rdc-une-nouvelle-attaque-meurtriere-des-adf-en-ituri/)
+- [Ibrahim Traoré : « La démocratie ce n’est pas pour nous »](https://www.jeuneafrique.com/1785543/politique/ibrahim-traore-la-democratie-ce-nest-pas-pour-nous/)
 - [Mehdi Alioua : « Le Maroc se redécouvre africain à travers les migrations »](https://www.jeuneafrique.com/1774675/politique/mehdi-alioua-le-maroc-se-redecouvre-africain-a-travers-les-migrations/)
 - [Au Cameroun, Paul Biya propose au Parlement l’instauration d’une vice-présidence](https://www.jeuneafrique.com/1785297/politique/au-cameroun-paul-biya-propose-au-parlement-linstauration-dun-vice-president/)
 - [Depuis la Tunisie, la traque sans fin des Ben Ali-Trabelsi](https://www.jeuneafrique.com/1785220/politique/depuis-la-tunisie-la-traque-sans-fin-des-ben-ali-trabelsi/)
 - [Au Tchad, Déby Itno remanie le gouvernement, le Pétrole revient à Fatima Haram Acyl](https://www.jeuneafrique.com/1785143/politique/au-tchad-deby-itno-remanie-le-gouvernement-le-petrole-revient-a-fatima-haram-acyl/)
 - [Très lourdes peines dans le procès de l’attentat contre l’ambassade américaine de Tunis en 2020](https://www.jeuneafrique.com/1785111/politique/tres-lourdes-peines-dans-le-proces-de-lattentat-contre-lambassade-americaine-de-tunis-en-2020/)
-- [Cameroun : de Rey-Bouba à Yaoundé, Aboubakary Abdoulaye, un lamido au cœur des pouvoirs](https://www.jeuneafrique.com/1776610/politique/cameroun-de-rey-bouba-a-yaounde-aboubakary-abdoulaye-un-lamido-au-coeur-des-pouvoirs/)
-- [Au Niger, l’étrange dernier jour du mandat de Mohamed Bazoum, président emprisonné](https://www.jeuneafrique.com/1784860/politique/au-niger-letrange-dernier-jour-du-mandat-de-mohamed-bazoum-president-emprisonne/)
-- [La justice française refuse de remettre Halima Ben Ali, fille cadette de l’ancien président, à la Tunisie](https://www.jeuneafrique.com/1784885/politique/la-justice-francaise-refuse-de-remettre-halima-ben-ali-fille-cadette-de-lancien-president-a-la-tunisie/)
 - [La crise d’Ormuz, invitée surprise de la réunion de la Commission économique pour l’Afrique à Tanger](https://www.jeuneafrique.com/1785303/economie-entreprises/la-crise-dormuz-invitee-surprise-de-la-reunion-de-la-commission-economique-pour-lafrique-a-tanger/)
 - [Shoprite, Carrefour, Marjane : qui domine vraiment la grande distribution africaine ?](https://www.jeuneafrique.com/1784539/economie-entreprises/shoprite-carrefour-marjane-qui-domine-vraiment-la-grande-distribution-africaine/)
 
