@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Apr 2026, 07:14*
+*Generato: 06 Apr 2026, 09:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunis lance une opération aérienne de lutte contre les insectes](https://www.lapresse.tn/2026/04/05/tunis-lance-une-operation-aerienne-de-lutte-contre-les-insectes/)
-- [Tabarka séduit le marché chinois avec une opération de promotion...](https://www.lapresse.tn/2026/04/05/tabarka-seduit-le-marche-chinois-avec-une-operation-de-promotion-ciblee/)
+- [L’huile d’olive tunisienne à la conquête du marché congolais](https://www.lapresse.tn/2026/04/06/lhuile-dolive-tunisienne-a-la-conquete-du-marche-congolais/)
+- [L’Espérance annonce les blessures de Boualia et Jebeli](https://www.lapresse.tn/2026/04/06/lesperance-annonce-les-blessures-de-boualia-et-jebeli/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -266,12 +266,12 @@
 
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
 - [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
-- [Réfugiés maliens en Mauritanie : « Même avec Africa Corps, nous avions peur »](https://www.jeuneafrique.com/1785217/politique/refugies-maliens-en-mauritanie-meme-avec-africa-corps-nous-avions-peur/)
 - [« Du Kagame pur sucre », dans son entretien exclusif avec JA](https://www.jeuneafrique.com/1785680/politique/du-kagame-pur-sucre-dans-son-entretien-exclusif-avec-ja/)
 - [La création du poste de vice-président approuvée par le Parlement camerounais](https://www.jeuneafrique.com/1785869/politique/la-creation-du-poste-de-vice-president-approuvee-par-le-parlement-camerounais/)
+- [Incarcéré en Guinée, Ibrahim Akhlal, un braqueur belgo-marocain au cœur d’un bras de fer judiciaro-diplomatique](https://www.jeuneafrique.com/1785810/politique/incarcere-en-guinee-ibrahim-akhlal-un-braqueur-belgo-marocain-au-coeur-dun-bras-de-fer-judiciaro-diplomatique/)
+- [Législatives en Centrafrique : pourquoi tout n’est pas (encore) gagné pour Touadéra](https://www.jeuneafrique.com/1784200/politique/legislatives-en-centrafrique-pourquoi-tout-nest-pas-encore-gagne-pour-touadera/)
+- [Paul Kagame en interview, la Charte de la révolution au Burkina Faso, OCP et la crise des engrais… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1785413/politique/paul-kagame-en-interview-la-charte-de-la-revolution-au-burkina-faso-ocp-et-la-crise-des-engrais-les-5-infos-quil-ne-fallait-pas-manquer/)
 - [RDC : pourquoi Tshisekedi a choisi Norbert Basengezi pour remplacer Bahati Lukwebo au Sénat](https://www.jeuneafrique.com/1785566/politique/rdc-pourquoi-tshisekedi-a-choisi-norbert-basengezi-pour-remplacer-bahati-lukwebo-au-senat/)
-- [Al-Sissi verrait bien Poutine « mettre fin » au conflit moyen-oriental](https://www.jeuneafrique.com/1785590/politique/al-sissi-verrait-bien-poutine-mettre-fin-au-conflit-moyen-oriental/)
-- [Exclusif – La RDC négocie un accord pour accueillir des migrants expulsés par les États-Unis](https://www.jeuneafrique.com/1785457/politique/exclusif-la-rdc-negocie-un-accord-pour-accueillir-des-migrants-expulses-par-les-etats-unis/)
 - [Qui est Zeine Ould Zeidane, l’économiste mauritanien qui prend les rênes du département Afrique du FMI ?](https://www.jeuneafrique.com/1785764/economie-entreprises/qui-est-zeine-ould-zeidane-leconomiste-mauritanien-qui-prend-les-renes-du-departement-afrique-du-fmi/)
 - [Diageo-Asahi : avec EABL, le groupe japonais a-t-il surpayé son entrée en Afrique ?](https://www.jeuneafrique.com/1785751/economie-entreprises/diageo-asahi-avec-eabl-le-groupe-japonais-a-t-il-surpaye-son-entree-en-afrique/)
 
