@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Apr 2026, 15:35*
+*Generato: 06 Apr 2026, 18:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’ingénieur tunisien face aux mutations technologiques : adaptation, agilité et...](https://www.lapresse.tn/2026/04/06/lingenieur-tunisien-face-aux-mutations-technologiques-adaptation-agilite-et-ancrage-identitaire/)
-- [L’Office es Tunisiens à l’Etranger relance les cours d’arabe en...](https://www.lapresse.tn/2026/04/06/loffice-es-tunisiens-a-letranger-relance-les-cours-darabe-en-ligne/)
+- [Schengen : vers une procédure de visa en ligne plus...](https://www.lapresse.tn/2026/04/06/schengen-vers-une-procedure-de-visa-en-ligne-plus-fluide-pour-les-tunisiens-et-ressortissants-du-maghreb/)
+- [On nous écrit – Habib Chebil à la maison des...](https://www.lapresse.tn/2026/04/06/on-nous-ecrit-habib-chebil-a-la-maison-des-arts-du-belvedere-plus-quun-hommage-une-lecon-de-peinture/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
 - [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
 - [Sahara : Tindouf, la ville derrière le symbole du Polisario](https://www.jeuneafrique.com/1784903/politique/sahara-tindouf-la-ville-derriere-le-symbole-du-polisario/)
@@ -271,9 +272,8 @@
 - [La création du poste de vice-président approuvée par le Parlement camerounais](https://www.jeuneafrique.com/1785869/politique/la-creation-du-poste-de-vice-president-approuvee-par-le-parlement-camerounais/)
 - [Incarcéré en Guinée, Ibrahim Akhlal, un braqueur belgo-marocain au cœur d’un bras de fer judiciaro-diplomatique](https://www.jeuneafrique.com/1785810/politique/incarcere-en-guinee-ibrahim-akhlal-un-braqueur-belgo-marocain-au-coeur-dun-bras-de-fer-judiciaro-diplomatique/)
 - [Législatives en Centrafrique : pourquoi tout n’est pas (encore) gagné pour Touadéra](https://www.jeuneafrique.com/1784200/politique/legislatives-en-centrafrique-pourquoi-tout-nest-pas-encore-gagne-pour-touadera/)
-- [Paul Kagame en interview, la Charte de la révolution au Burkina Faso, OCP et la crise des engrais… Les 5 infos qu’il ne fallait pas manquer](https://www.jeuneafrique.com/1785413/politique/paul-kagame-en-interview-la-charte-de-la-revolution-au-burkina-faso-ocp-et-la-crise-des-engrais-les-5-infos-quil-ne-fallait-pas-manquer/)
+- [Assurance : SanlamAllianz, une fusion qui bouscule le marché africain francophone](https://www.jeuneafrique.com/1769926/economie-entreprises/assurance-sanlamallianz-une-fusion-qui-bouscule-le-marche-africain-francophone/)
 - [Du Darfour aux sodas : la gomme arabique prise en otage par la guerre au Soudan](https://www.jeuneafrique.com/1780035/economie-entreprises/du-darfour-aux-sodas-la-gomme-arabique-prise-en-otage-par-la-guerre-au-soudan/)
-- [Qui est Zeine Ould Zeidane, l’économiste mauritanien qui prend les rênes du département Afrique du FMI ?](https://www.jeuneafrique.com/1785764/economie-entreprises/qui-est-zeine-ould-zeidane-leconomiste-mauritanien-qui-prend-les-renes-du-departement-afrique-du-fmi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
