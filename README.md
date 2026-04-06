@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Apr 2026, 09:57*
+*Generato: 06 Apr 2026, 11:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’huile d’olive tunisienne à la conquête du marché congolais](https://www.lapresse.tn/2026/04/06/lhuile-dolive-tunisienne-a-la-conquete-du-marche-congolais/)
-- [L’Espérance annonce les blessures de Boualia et Jebeli](https://www.lapresse.tn/2026/04/06/lesperance-annonce-les-blessures-de-boualia-et-jebeli/)
+- [Ghar El Melh : le corps d’un pêcheur disparu retrouvé...](https://www.lapresse.tn/2026/04/06/ghar-el-melh-le-corps-dun-pecheur-disparu-retrouve-apres-une-semaine-de-recherches/)
+- [Un circuit touristique verra bientôt la jour dans la ville...](https://www.lapresse.tn/2026/04/06/un-circuit-touristique-verra-bientot-la-jour-dans-la-ville-de-gabes/)
 
 ## NGOs – Amnesty International – Tunisia
 
