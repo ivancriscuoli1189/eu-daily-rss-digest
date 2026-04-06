@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 03 Apr 2026, 21:22*
+*Generato: 06 Apr 2026, 07:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,6 +43,7 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Indice des prix à la consommation, Mars 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-mars-2026)
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
@@ -52,7 +53,6 @@
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
 - [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
-- [Indice des prix à la consommation, Décembre 2025](https://www.ins.tn/publication/indice-des-prix-la-consommation-decembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sept échéances fiscales en avril : le calendrier complet](https://www.lapresse.tn/2026/04/03/sept-echeances-fiscales-en-avril-le-calendrier-complet/)
-- [Bac sport du 13 au 25 avril : démarrage des...](https://www.lapresse.tn/2026/04/03/bac-sport-du-13-au-25-avril-demarrage-des-preparatifs/)
+- [Tunis lance une opération aérienne de lutte contre les insectes](https://www.lapresse.tn/2026/04/05/tunis-lance-une-operation-aerienne-de-lutte-contre-les-insectes/)
+- [Tabarka séduit le marché chinois avec une opération de promotion...](https://www.lapresse.tn/2026/04/05/tabarka-seduit-le-marche-chinois-avec-une-operation-de-promotion-ciblee/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
+- [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
+- [Réfugiés maliens en Mauritanie : « Même avec Africa Corps, nous avions peur »](https://www.jeuneafrique.com/1785217/politique/refugies-maliens-en-mauritanie-meme-avec-africa-corps-nous-avions-peur/)
+- [« Du Kagame pur sucre », dans son entretien exclusif avec JA](https://www.jeuneafrique.com/1785680/politique/du-kagame-pur-sucre-dans-son-entretien-exclusif-avec-ja/)
+- [La création du poste de vice-président approuvée par le Parlement camerounais](https://www.jeuneafrique.com/1785869/politique/la-creation-du-poste-de-vice-president-approuvee-par-le-parlement-camerounais/)
+- [RDC : pourquoi Tshisekedi a choisi Norbert Basengezi pour remplacer Bahati Lukwebo au Sénat](https://www.jeuneafrique.com/1785566/politique/rdc-pourquoi-tshisekedi-a-choisi-norbert-basengezi-pour-remplacer-bahati-lukwebo-au-senat/)
 - [Al-Sissi verrait bien Poutine « mettre fin » au conflit moyen-oriental](https://www.jeuneafrique.com/1785590/politique/al-sissi-verrait-bien-poutine-mettre-fin-au-conflit-moyen-oriental/)
-- [Mahamoud Ali Youssouf au Maroc : comment Rabat consolide sa place dans les instances de l’UA](https://www.jeuneafrique.com/1785309/politique/mahamoud-ali-youssouf-au-maroc-comment-rabat-consolide-sa-place-dans-les-instances-de-lua/)
-- [Coup d’État présumé à Madagascar : 13 personnes inculpées dont un général](https://www.jeuneafrique.com/1785557/politique/coup-detat-presume-a-madagascar-13-personnes-inculpees-dont-un-general/)
-- [RDC : une nouvelle attaque meurtrière des ADF en Ituri](https://www.jeuneafrique.com/1785549/politique/rdc-une-nouvelle-attaque-meurtriere-des-adf-en-ituri/)
-- [Ibrahim Traoré : « La démocratie ce n’est pas pour nous »](https://www.jeuneafrique.com/1785543/politique/ibrahim-traore-la-democratie-ce-nest-pas-pour-nous/)
-- [Au Cameroun, qui Paul Biya pourrait-il nommer vice-président ?](https://www.jeuneafrique.com/1785420/politique/au-cameroun-qui-sont-les-favoris-pour-le-poste-de-vice-president/)
-- [Mehdi Alioua : « Le Maroc se redécouvre africain à travers les migrations »](https://www.jeuneafrique.com/1774675/politique/mehdi-alioua-le-maroc-se-redecouvre-africain-a-travers-les-migrations/)
-- [Burkina Faso : ce que l’on sait de la mort de l’activiste pro-junte Mahamadi Baguian](https://www.jeuneafrique.com/1785377/politique/burkina-faso-ce-que-lon-sait-de-la-mort-de-lactiviste-pro-junte-mahamadi-baguian/)
-- [Africa CEO Forum 2026 : à Kigali, Kagame, Tinubu et le secteur privé africain en quête de taille critique](https://www.jeuneafrique.com/1785572/economie-entreprises/africa-ceo-forum-2026-a-kigali-kagame-tinubu-et-le-secteur-prive-africain-en-quete-de-taille-critique/)
-- [Après une première année sans Société générale, Saham Bank confirme son statut de grande banque marocaine](https://www.jeuneafrique.com/1785287/economie-entreprises/apres-une-premiere-annee-sans-societe-generale-saham-bank-confirme-son-statut-de-grande-banque-marocaine/)
+- [Exclusif – La RDC négocie un accord pour accueillir des migrants expulsés par les États-Unis](https://www.jeuneafrique.com/1785457/politique/exclusif-la-rdc-negocie-un-accord-pour-accueillir-des-migrants-expulses-par-les-etats-unis/)
+- [Qui est Zeine Ould Zeidane, l’économiste mauritanien qui prend les rênes du département Afrique du FMI ?](https://www.jeuneafrique.com/1785764/economie-entreprises/qui-est-zeine-ould-zeidane-leconomiste-mauritanien-qui-prend-les-renes-du-departement-afrique-du-fmi/)
+- [Diageo-Asahi : avec EABL, le groupe japonais a-t-il surpayé son entrée en Afrique ?](https://www.jeuneafrique.com/1785751/economie-entreprises/diageo-asahi-avec-eabl-le-groupe-japonais-a-t-il-surpaye-son-entree-en-afrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
