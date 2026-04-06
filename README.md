@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Apr 2026, 11:39*
+*Generato: 06 Apr 2026, 12:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Ghar El Melh : le corps d’un pêcheur disparu retrouvé...](https://www.lapresse.tn/2026/04/06/ghar-el-melh-le-corps-dun-pecheur-disparu-retrouve-apres-une-semaine-de-recherches/)
-- [Un circuit touristique verra bientôt la jour dans la ville...](https://www.lapresse.tn/2026/04/06/un-circuit-touristique-verra-bientot-la-jour-dans-la-ville-de-gabes/)
+- [Les avoirs en devises atteignent 24,5 milliards de dinars début...](https://www.lapresse.tn/2026/04/06/les-avoirs-en-devises-atteignent-245-milliards-de-dinars-debut-avril/)
+- [Ligue 1 : Ali Maâloul, le joueur le plus décisif...](https://www.lapresse.tn/2026/04/06/ligue-1-ali-maaloul-le-joueur-le-plus-decisif-de-la-saison/)
 
 ## NGOs – Amnesty International – Tunisia
 
