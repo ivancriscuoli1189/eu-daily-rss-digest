@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 16:03*
+*Generato: 07 Apr 2026, 18:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Projet « Kélibia La Blanche » : vers une solution...](https://www.lapresse.tn/2026/04/07/projet-kelibia-la-blanche-vers-une-solution-aux-litiges-techniques-et-administratifs/)
-- [Monastir : deux enfants sauvés en 72 heures grâce à...](https://www.lapresse.tn/2026/04/07/monastir-deux-enfants-sauves-en-72-heures-grace-a-deux-greffes-de-foie/)
+- [Au terme de la 2e édition du Salon des patients,...](https://www.lapresse.tn/2026/04/07/au-terme-de-la-2e-edition-du-salon-des-patients-a-tunis-linformation-medicale-on-en-redemande-encore/)
+- [Basket – L’US Monastir, championne de Tunisie 2026 : Une...](https://www.lapresse.tn/2026/04/07/basket-lus-monastir-championne-de-tunisie-2026-une-equipe-qui-a-du-caractere/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -273,7 +273,7 @@
 - [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
 - [Pourquoi le lancement du marché à terme à la Bourse de Casablanca change la donne pour les investisseurs](https://www.jeuneafrique.com/1786069/economie-entreprises/pourquoi-le-lancement-du-marche-a-terme-a-la-bourse-de-casablanca-change-la-donne-pour-les-investisseurs/)
-- [Henry Wazne : « Quand les investisseurs arrivent, ils ont besoin des banques locales »](https://www.jeuneafrique.com/1785818/economie-entreprises/henry-wazne-quand-les-investisseurs-arrivent-ils-ont-besoin-des-banques-locales/)
+- [Pourquoi MTN se recentre sur les télécoms, son cœur de métier](https://www.jeuneafrique.com/1785913/economie-entreprises/pourquoi-mtn-se-recentre-sur-les-telecoms-son-coeur-de-metier/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
