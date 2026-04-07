@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 06 Apr 2026, 18:39*
+*Generato: 07 Apr 2026, 09:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Schengen : vers une procédure de visa en ligne plus...](https://www.lapresse.tn/2026/04/06/schengen-vers-une-procedure-de-visa-en-ligne-plus-fluide-pour-les-tunisiens-et-ressortissants-du-maghreb/)
-- [On nous écrit – Habib Chebil à la maison des...](https://www.lapresse.tn/2026/04/06/on-nous-ecrit-habib-chebil-a-la-maison-des-arts-du-belvedere-plus-quun-hommage-une-lecon-de-peinture/)
+- [Marché solidaire : des poulets proposés à 8 dinars l’unité](https://www.lapresse.tn/2026/04/07/marche-solidaire-des-poulets-proposes-a-8-dinars-lunite/)
+- [Glissement de terrain à Aïn Charchara : évacuation d’urgence et...](https://www.lapresse.tn/2026/04/07/glissement-de-terrain-a-ain-charchara-evacuation-durgence-et-mesures-preventives/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -199,16 +199,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
-- [HRC on Iran: the Council must condemn human rights violations by all parties to this conflict](https://www.icj.org/hrc-on-iran-the-council-must-condemn-human-rights-violations-by-all-parties-to-this-conflict/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
 - [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
-- [HRC61: Oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on the Rights of Persons with Disabilities](https://www.icj.org/hrc61-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-the-rights-of-persons-with-disabilities/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
 - [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
+- [« Le jour où j’ai fui la Guinée de Sékou Touré », par Tierno Monénembo](https://www.jeuneafrique.com/1768096/politique/le-jour-ou-jai-fui-la-guinee-de-sekou-toure-par-tierno-monenembo/)
+- [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
 - [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
 - [Sahara : Tindouf, la ville derrière le symbole du Polisario](https://www.jeuneafrique.com/1784903/politique/sahara-tindouf-la-ville-derriere-le-symbole-du-polisario/)
-- [« Du Kagame pur sucre », dans son entretien exclusif avec JA](https://www.jeuneafrique.com/1785680/politique/du-kagame-pur-sucre-dans-son-entretien-exclusif-avec-ja/)
-- [La création du poste de vice-président approuvée par le Parlement camerounais](https://www.jeuneafrique.com/1785869/politique/la-creation-du-poste-de-vice-president-approuvee-par-le-parlement-camerounais/)
-- [Incarcéré en Guinée, Ibrahim Akhlal, un braqueur belgo-marocain au cœur d’un bras de fer judiciaro-diplomatique](https://www.jeuneafrique.com/1785810/politique/incarcere-en-guinee-ibrahim-akhlal-un-braqueur-belgo-marocain-au-coeur-dun-bras-de-fer-judiciaro-diplomatique/)
-- [Législatives en Centrafrique : pourquoi tout n’est pas (encore) gagné pour Touadéra](https://www.jeuneafrique.com/1784200/politique/legislatives-en-centrafrique-pourquoi-tout-nest-pas-encore-gagne-pour-touadera/)
+- [Réfugiés maliens en Mauritanie : « Même avec Africa Corps, nous avions peur »](https://www.jeuneafrique.com/1785217/politique/refugies-maliens-en-mauritanie-meme-avec-africa-corps-nous-avions-peur/)
+- [Guerre en Iran : « L’Afrique est mieux préparée que lors des précédentes crises »](https://www.jeuneafrique.com/1785745/economie-entreprises/guerre-en-iran-lafrique-est-mieux-preparee-que-lors-des-precedentes-crises/)
 - [Assurance : SanlamAllianz, une fusion qui bouscule le marché africain francophone](https://www.jeuneafrique.com/1769926/economie-entreprises/assurance-sanlamallianz-une-fusion-qui-bouscule-le-marche-africain-francophone/)
-- [Du Darfour aux sodas : la gomme arabique prise en otage par la guerre au Soudan](https://www.jeuneafrique.com/1780035/economie-entreprises/du-darfour-aux-sodas-la-gomme-arabique-prise-en-otage-par-la-guerre-au-soudan/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
