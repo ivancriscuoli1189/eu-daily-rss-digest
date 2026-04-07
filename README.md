@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 18:43*
+*Generato: 07 Apr 2026, 21:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Au terme de la 2e édition du Salon des patients,...](https://www.lapresse.tn/2026/04/07/au-terme-de-la-2e-edition-du-salon-des-patients-a-tunis-linformation-medicale-on-en-redemande-encore/)
-- [Basket – L’US Monastir, championne de Tunisie 2026 : Une...](https://www.lapresse.tn/2026/04/07/basket-lus-monastir-championne-de-tunisie-2026-une-equipe-qui-a-du-caractere/)
+- [Bientôt un nouveau pain en Tunisie… sans toucher au prix](https://www.lapresse.tn/2026/04/07/bientot-un-nouveau-pain-en-tunisie-sans-toucher-au-prix/)
+- [Aïd al-Adha : ce que prépare l’État pour éviter la...](https://www.lapresse.tn/2026/04/07/aid-al-adha-ce-que-prepare-letat-pour-eviter-la-flambee-des-prix/)
 
 ## NGOs – Amnesty International – Tunisia
 
