@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 14:35*
+*Generato: 07 Apr 2026, 16:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [ESGITECH lance « Tech Escape 2026 » : trois jours...](https://www.lapresse.tn/2026/04/07/esgitech-lance-tech-escape-2026-trois-jours-dia-generative-avec-certifications-internationales/)
-- [Football : malgré l’échec en qualifications, les U17 participeront à...](https://www.lapresse.tn/2026/04/07/football-malgre-lechec-en-qualifications-les-u17-participeront-a-la-can-au-maroc/)
+- [Projet « Kélibia La Blanche » : vers une solution...](https://www.lapresse.tn/2026/04/07/projet-kelibia-la-blanche-vers-une-solution-aux-litiges-techniques-et-administratifs/)
+- [Monastir : deux enfants sauvés en 72 heures grâce à...](https://www.lapresse.tn/2026/04/07/monastir-deux-enfants-sauves-en-72-heures-grace-a-deux-greffes-de-foie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [CAN 2025 : Abdoulaye Fall et Fouzi Lekjâa rejouent la finale](https://www.jeuneafrique.com/1785537/politique/can-2025-abdoulaye-fall-et-fouzi-lekjaa-rejouent-la-finale/)
 - [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
+- [Pourquoi le lancement du marché à terme à la Bourse de Casablanca change la donne pour les investisseurs](https://www.jeuneafrique.com/1786069/economie-entreprises/pourquoi-le-lancement-du-marche-a-terme-a-la-bourse-de-casablanca-change-la-donne-pour-les-investisseurs/)
 - [Henry Wazne : « Quand les investisseurs arrivent, ils ont besoin des banques locales »](https://www.jeuneafrique.com/1785818/economie-entreprises/henry-wazne-quand-les-investisseurs-arrivent-ils-ont-besoin-des-banques-locales/)
-- [Guerre en Iran : « L’Afrique est mieux préparée que lors des précédentes crises »](https://www.jeuneafrique.com/1785745/economie-entreprises/guerre-en-iran-lafrique-est-mieux-preparee-que-lors-des-precedentes-crises/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
