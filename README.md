@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 09:56*
+*Generato: 07 Apr 2026, 11:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Marché solidaire : des poulets proposés à 8 dinars l’unité](https://www.lapresse.tn/2026/04/07/marche-solidaire-des-poulets-proposes-a-8-dinars-lunite/)
-- [Glissement de terrain à Aïn Charchara : évacuation d’urgence et...](https://www.lapresse.tn/2026/04/07/glissement-de-terrain-a-ain-charchara-evacuation-durgence-et-mesures-preventives/)
+- [ST : Sami Zemni succède à Saïd Saïbi à la...](https://www.lapresse.tn/2026/04/07/st-sami-zemni-succede-a-said-saibi-a-la-tete-de-lequipe/)
+- [Hackathon municipal 2026 : à Sfax, les jeunes au cœur...](https://www.lapresse.tn/2026/04/07/hackathon-municipal-2026-a-sfax-les-jeunes-au-coeur-de-linnovation-locale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
 - [Sahara : Tindouf, la ville derrière le symbole du Polisario](https://www.jeuneafrique.com/1784903/politique/sahara-tindouf-la-ville-derriere-le-symbole-du-polisario/)
 - [Réfugiés maliens en Mauritanie : « Même avec Africa Corps, nous avions peur »](https://www.jeuneafrique.com/1785217/politique/refugies-maliens-en-mauritanie-meme-avec-africa-corps-nous-avions-peur/)
+- [Henry Wazne : « Quand les investisseurs arrivent, ils ont besoin des banques locales »](https://www.jeuneafrique.com/1785818/economie-entreprises/henry-wazne-quand-les-investisseurs-arrivent-ils-ont-besoin-des-banques-locales/)
 - [Guerre en Iran : « L’Afrique est mieux préparée que lors des précédentes crises »](https://www.jeuneafrique.com/1785745/economie-entreprises/guerre-en-iran-lafrique-est-mieux-preparee-que-lors-des-precedentes-crises/)
-- [Assurance : SanlamAllianz, une fusion qui bouscule le marché africain francophone](https://www.jeuneafrique.com/1769926/economie-entreprises/assurance-sanlamallianz-une-fusion-qui-bouscule-le-marche-africain-francophone/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
