@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 11:43*
+*Generato: 07 Apr 2026, 12:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,8 +70,6 @@
 ## UE – EP – Press Room
 
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
-- [MEPs examined working conditions of vulnerable groups, firefighters and police in Italy](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40008/meps-examined-working-conditions-of-vulnerable-groups-firefighters-and-police)
-- [MEPs conclude fact-finding visit to Lisbon to assess housing affordability](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40005/meps-conclude-fact-finding-visit-to-lisbon-to-assess-housing-affordability)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
@@ -79,6 +77,8 @@
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
+- [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
+- [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Circulation routière : moins d’accidents, mais une mortalité en hausse](https://www.lapresse.tn/2026/04/07/circulation-routiere-moins-daccidents-mais-une-mortalite-en-hausse/)
 - [ST : Sami Zemni succède à Saïd Saïbi à la...](https://www.lapresse.tn/2026/04/07/st-sami-zemni-succede-a-said-saibi-a-la-tete-de-lequipe/)
-- [Hackathon municipal 2026 : à Sfax, les jeunes au cœur...](https://www.lapresse.tn/2026/04/07/hackathon-municipal-2026-a-sfax-les-jeunes-au-coeur-de-linnovation-locale/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
+- [Bally Bagayoko, maire de Saint-Denis : un succès électoral qui résonne jusqu’au Mali](https://www.jeuneafrique.com/1784905/politique/bally-bagayoko-maire-de-saint-denis-un-succes-electoral-qui-resonne-jusquau-mali/)
 - [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
 - [« Le jour où j’ai fui la Guinée de Sékou Touré », par Tierno Monénembo](https://www.jeuneafrique.com/1768096/politique/le-jour-ou-jai-fui-la-guinee-de-sekou-toure-par-tierno-monenembo/)
 - [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
 - [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
 - [Sahara : Tindouf, la ville derrière le symbole du Polisario](https://www.jeuneafrique.com/1784903/politique/sahara-tindouf-la-ville-derriere-le-symbole-du-polisario/)
-- [Réfugiés maliens en Mauritanie : « Même avec Africa Corps, nous avions peur »](https://www.jeuneafrique.com/1785217/politique/refugies-maliens-en-mauritanie-meme-avec-africa-corps-nous-avions-peur/)
 - [Henry Wazne : « Quand les investisseurs arrivent, ils ont besoin des banques locales »](https://www.jeuneafrique.com/1785818/economie-entreprises/henry-wazne-quand-les-investisseurs-arrivent-ils-ont-besoin-des-banques-locales/)
 - [Guerre en Iran : « L’Afrique est mieux préparée que lors des précédentes crises »](https://www.jeuneafrique.com/1785745/economie-entreprises/guerre-en-iran-lafrique-est-mieux-preparee-que-lors-des-precedentes-crises/)
 
