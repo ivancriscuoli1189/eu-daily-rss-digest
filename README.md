@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 07 Apr 2026, 12:50*
+*Generato: 07 Apr 2026, 14:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Circulation routière : moins d’accidents, mais une mortalité en hausse](https://www.lapresse.tn/2026/04/07/circulation-routiere-moins-daccidents-mais-une-mortalite-en-hausse/)
-- [ST : Sami Zemni succède à Saïd Saïbi à la...](https://www.lapresse.tn/2026/04/07/st-sami-zemni-succede-a-said-saibi-a-la-tete-de-lequipe/)
+- [ESGITECH lance « Tech Escape 2026 » : trois jours...](https://www.lapresse.tn/2026/04/07/esgitech-lance-tech-escape-2026-trois-jours-dia-generative-avec-certifications-internationales/)
+- [Football : malgré l’échec en qualifications, les U17 participeront à...](https://www.lapresse.tn/2026/04/07/football-malgre-lechec-en-qualifications-les-u17-participeront-a-la-can-au-maroc/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,14 +264,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
 - [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
 - [Bally Bagayoko, maire de Saint-Denis : un succès électoral qui résonne jusqu’au Mali](https://www.jeuneafrique.com/1784905/politique/bally-bagayoko-maire-de-saint-denis-un-succes-electoral-qui-resonne-jusquau-mali/)
 - [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
 - [« Le jour où j’ai fui la Guinée de Sékou Touré », par Tierno Monénembo](https://www.jeuneafrique.com/1768096/politique/le-jour-ou-jai-fui-la-guinee-de-sekou-toure-par-tierno-monenembo/)
+- [CAN 2025 : Abdoulaye Fall et Fouzi Lekjâa rejouent la finale](https://www.jeuneafrique.com/1785537/politique/can-2025-abdoulaye-fall-et-fouzi-lekjaa-rejouent-la-finale/)
 - [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Guerre au Moyen-Orient : Mohamed el-Baradei appelle à stopper le « fou » Trump](https://www.jeuneafrique.com/1785891/politique/guerre-au-moyen-orient-mohamed-el-baradei-appelle-a-stopper-le-fou-trump/)
-- [Le groupe jihadiste Boko Haram exige de lourdes rançons après l’enlèvement de sept Tchadiens au Niger](https://www.jeuneafrique.com/1785879/politique/le-groupe-jihadiste-boko-haram-exige-de-lourdes-rancons-apres-lenlevement-de-sept-tchadiens-au-niger/)
-- [Sahara : Tindouf, la ville derrière le symbole du Polisario](https://www.jeuneafrique.com/1784903/politique/sahara-tindouf-la-ville-derriere-le-symbole-du-polisario/)
 - [Henry Wazne : « Quand les investisseurs arrivent, ils ont besoin des banques locales »](https://www.jeuneafrique.com/1785818/economie-entreprises/henry-wazne-quand-les-investisseurs-arrivent-ils-ont-besoin-des-banques-locales/)
 - [Guerre en Iran : « L’Afrique est mieux préparée que lors des précédentes crises »](https://www.jeuneafrique.com/1785745/economie-entreprises/guerre-en-iran-lafrique-est-mieux-preparee-que-lors-des-precedentes-crises/)
 
