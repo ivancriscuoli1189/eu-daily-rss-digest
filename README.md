@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 09:56*
+*Generato: 08 Apr 2026, 11:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Taekwondo : 13 jeunes tunisiens en route pour les Mondiaux...](https://www.lapresse.tn/2026/04/08/taekwondo-13-jeunes-tunisiens-en-route-pour-les-mondiaux-a-tachkent/)
-- [Alimentation en eau potable sur tout le territoire : plus...](https://www.lapresse.tn/2026/04/08/alimentation-en-eau-potable-sur-tout-le-territoire-plus-de-160-perturbations-et-coupures-deau-au-cours-du-mois-de-mars/)
+- [Éclipse solaire historique en Tunisie en 2027 : un spectacle...](https://www.lapresse.tn/2026/04/08/eclipse-solaire-historique-en-tunisie-en-2027-un-spectacle-rare-apres-122-ans-et-un-potentiel-de-milliers-de-visiteurs/)
+- [Mohamed Louzir : la pression fiscale en Tunisie atteint le...](https://www.lapresse.tn/2026/04/08/mohamed-louzir-la-pression-fiscale-en-tunisie-atteint-le-niveau-des-pays-developpes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
+- [Libye : Ahmed Gadalla, le financier de l’ombre qui alimente la machine de guerre d’Haftar](https://www.jeuneafrique.com/1785647/politique/libye-ahmed-gadalla-le-financier-de-lombre-qui-alimente-la-machine-de-guerre-dhaftar/)
 - [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
 - [Naturalisation de footballeurs étrangers : le Qatar repasse à l’offensive et vise le Maghreb](https://www.jeuneafrique.com/1785166/politique/naturalisation-de-footballeurs-etrangers-le-qatar-repasse-a-loffensive-et-vise-le-maghreb/)
 - [Bally Bagayoko, maire de Saint-Denis : un succès électoral qui résonne jusqu’au Mali](https://www.jeuneafrique.com/1784905/politique/bally-bagayoko-maire-de-saint-denis-un-succes-electoral-qui-resonne-jusquau-mali/)
 - [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
 - [« Le jour où j’ai fui la Guinée de Sékou Touré », par Tierno Monénembo](https://www.jeuneafrique.com/1768096/politique/le-jour-ou-jai-fui-la-guinee-de-sekou-toure-par-tierno-monenembo/)
 - [CAN 2025 : Abdoulaye Fall et Fouzi Lekjâa rejouent la finale](https://www.jeuneafrique.com/1785537/politique/can-2025-abdoulaye-fall-et-fouzi-lekjaa-rejouent-la-finale/)
-- [Soutiens fidèles et alliés sous influence : l’équipe de Romuald Wadagni pour la présidentielle au Bénin](https://www.jeuneafrique.com/1784922/politique/soutiens-fideles-et-allies-sous-influence-lequipe-de-romuald-wadagni-pour-la-presidentielle-au-benin/)
 - [Pourquoi le lancement du marché à terme à la Bourse de Casablanca change la donne pour les investisseurs](https://www.jeuneafrique.com/1786069/economie-entreprises/pourquoi-le-lancement-du-marche-a-terme-a-la-bourse-de-casablanca-change-la-donne-pour-les-investisseurs/)
-- [Pourquoi MTN se recentre sur les télécoms, son cœur de métier](https://www.jeuneafrique.com/1785913/economie-entreprises/pourquoi-mtn-se-recentre-sur-les-telecoms-son-coeur-de-metier/)
+- [Amal El Fallah Seghrouchni : « Le Maroc hébergera l’une des quinze usines d’intelligence artificielle européennes »](https://www.jeuneafrique.com/1785958/economie-entreprises/amal-el-fallah-seghrouchni-le-maroc-hebergera-lune-des-quinze-usines-dintelligence-artificielle-europeennes/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
