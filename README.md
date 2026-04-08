@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 12:49*
+*Generato: 08 Apr 2026, 14:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Finances : les cafés et les salons de thé appelés...](https://www.lapresse.tn/2026/04/08/finances-les-cafes-et-les-salons-de-the-appeles-a-opter-le-plus-rapidement-possible-pour-la-facturation-electronique/)
-- [Ce pays Schengen recrute 15 000 travailleurs tunisiens dans ce...](https://www.lapresse.tn/2026/04/08/ce-pays-schengen-recrute-15-000-travailleurs-tunisiens-dans-ce-secteur/)
+- [Avec un financement américain : un projet numérique pour promouvoir...](https://www.lapresse.tn/2026/04/08/avec-un-financement-americain-un-projet-numerique-pour-promouvoir-lamphitheatre-del-jem-a-linternational/)
+- [Ambassade de France : Entre 6 500 et 7 500...](https://www.lapresse.tn/2026/04/08/ambassade-de-france-entre-6-500-et-7-500-visas-professionnels-et-economiques-delivres-en-2025/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
 - [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
 - [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
 - [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
@@ -234,7 +235,6 @@
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 - [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
-- [Strategic lunacy: Why Europeans must stand up to Trump’s illegal war in Iran](https://ecfr.eu/article/strategic-lunacy-why-europeans-must-stand-up-to-trumps-illegal-war-in-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
