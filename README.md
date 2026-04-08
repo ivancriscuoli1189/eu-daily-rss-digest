@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 18:59*
+*Generato: 08 Apr 2026, 21:33*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Fiscalité 2026 : Le e-commerce pleinement intégré au dispositif fiscal](https://www.lapresse.tn/2026/04/08/fiscalite-2026-le-e-commerce-pleinement-integre-au-dispositif-fiscal/)
-- [Baromètre CCITF 2026 : Une reprise confirmée, mais encore sous...](https://www.lapresse.tn/2026/04/08/barometre-ccitf-2026-une-reprise-confirmee-mais-encore-sous-contraintes/)
+- [L’huile d’olive tunisienne : ce que l’étiquette ne vous dit...](https://www.lapresse.tn/2026/04/08/lhuile-dolive-tunisienne-ce-que-letiquette-ne-vous-dit-pas/)
+- [Manouba : saisie de 800 kg de semoule destinés à...](https://www.lapresse.tn/2026/04/08/manouba-saisie-de-800-kg-de-semoule-destines-a-un-usage-illegal/)
 
 ## NGOs – Amnesty International – Tunisia
 
