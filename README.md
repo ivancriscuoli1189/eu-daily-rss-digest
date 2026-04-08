@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 16:06*
+*Generato: 08 Apr 2026, 18:59*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pourquoi : Il n’est jamais trop tard pour bien faire](https://www.lapresse.tn/2026/04/08/pourquoi-il-nest-jamais-trop-tard-pour-bien-faire/)
-- [Liban: l’entité sioniste tente de tuer le Secrétaire Général du...](https://www.lapresse.tn/2026/04/08/liban-lentite-sioniste-tente-de-tuer-le-secretaire-general-du-hezbollah-libanais/)
+- [Fiscalité 2026 : Le e-commerce pleinement intégré au dispositif fiscal](https://www.lapresse.tn/2026/04/08/fiscalite-2026-le-e-commerce-pleinement-integre-au-dispositif-fiscal/)
+- [Baromètre CCITF 2026 : Une reprise confirmée, mais encore sous...](https://www.lapresse.tn/2026/04/08/barometre-ccitf-2026-une-reprise-confirmee-mais-encore-sous-contraintes/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
+- [Vice-présidence au Cameroun : les jours où Paul Biya a ouvert les portes de « l’après »](https://www.jeuneafrique.com/1786338/politique/vice-presidence-au-cameroun-les-jours-ou-paul-biya-a-ouvert-les-portes-de-lapres/)
 - [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
 - [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
 - [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
 - [Libye : Ahmed Gadalla, le financier de l’ombre qui alimente la machine de guerre d’Haftar](https://www.jeuneafrique.com/1785647/politique/libye-ahmed-gadalla-le-financier-de-lombre-qui-alimente-la-machine-de-guerre-dhaftar/)
+- [Mali : 5 questions pour comprendre comment le Jnim a poussé Assimi Goïta à reconfigurer sa stratégie](https://www.jeuneafrique.com/1785578/politique/mali-5-questions-pour-comprendre-comment-le-jnim-a-pousse-assimi-goita-a-reconfigurer-sa-strategie/)
 - [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
-- [Naturalisation de footballeurs étrangers : le Qatar repasse à l’offensive et vise le Maghreb](https://www.jeuneafrique.com/1785166/politique/naturalisation-de-footballeurs-etrangers-le-qatar-repasse-a-loffensive-et-vise-le-maghreb/)
-- [De Wagner à Africa Corps : comment Faustin-Archange Touadéra a fini par basculer](https://www.jeuneafrique.com/1785253/politique/de-wagner-a-africa-corps-comment-faustin-archange-touadera-a-fini-par-basculer/)
-- [Bally Bagayoko, maire de Saint-Denis : un succès électoral qui résonne jusqu’au Mali](https://www.jeuneafrique.com/1784905/politique/bally-bagayoko-maire-de-saint-denis-un-succes-electoral-qui-resonne-jusquau-mali/)
+- [Côte d’Ivoire : Optimus prend la main sur les actifs industriels de l’Aga Khan](https://www.jeuneafrique.com/1786549/economie-entreprises/cote-divoire-optimus-prend-la-main-sur-les-actifs-industriels-de-laga-khan/)
 - [Aliko Dangote sortira-t-il vraiment gagnant de la guerre au Moyen-Orient ?](https://www.jeuneafrique.com/1786206/economie-entreprises/aliko-dangote-sortira-t-il-vraiment-gagnant-de-la-guerre-au-moyen-orient/)
-- [Pourquoi le lancement du marché à terme à la Bourse de Casablanca change la donne pour les investisseurs](https://www.jeuneafrique.com/1786069/economie-entreprises/pourquoi-le-lancement-du-marche-a-terme-a-la-bourse-de-casablanca-change-la-donne-pour-les-investisseurs/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
