@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 07:04*
+*Generato: 08 Apr 2026, 09:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [MEPs support digital vehicle registration documents to cut red tape](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40003/meps-support-digital-vehicle-registration-documents-to-cut-red-tape)
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
@@ -78,7 +79,6 @@
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 - [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
 - [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
-- [Artificial Intelligence Act: delayed application, ban on nudifier apps](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38829/artificial-intelligence-act-delayed-application-ban-on-nudifier-apps)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [De l’assistance sociale à l’Intelligence Artificielle : Le nouveau visage...](https://www.lapresse.tn/2026/04/07/de-lassistance-sociale-a-lintelligence-artificielle-le-nouveau-visage-de-la-solidarite-tunisienne-en-france/)
-- [Bientôt un nouveau pain en Tunisie… sans toucher au prix](https://www.lapresse.tn/2026/04/07/bientot-un-nouveau-pain-en-tunisie-sans-toucher-au-prix/)
+- [Taekwondo : 13 jeunes tunisiens en route pour les Mondiaux...](https://www.lapresse.tn/2026/04/08/taekwondo-13-jeunes-tunisiens-en-route-pour-les-mondiaux-a-tachkent/)
+- [Alimentation en eau potable sur tout le territoire : plus...](https://www.lapresse.tn/2026/04/08/alimentation-en-eau-potable-sur-tout-le-territoire-plus-de-160-perturbations-et-coupures-deau-au-cours-du-mois-de-mars/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
