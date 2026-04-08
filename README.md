@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 11:44*
+*Generato: 08 Apr 2026, 12:49*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Éclipse solaire historique en Tunisie en 2027 : un spectacle...](https://www.lapresse.tn/2026/04/08/eclipse-solaire-historique-en-tunisie-en-2027-un-spectacle-rare-apres-122-ans-et-un-potentiel-de-milliers-de-visiteurs/)
-- [Mohamed Louzir : la pression fiscale en Tunisie atteint le...](https://www.lapresse.tn/2026/04/08/mohamed-louzir-la-pression-fiscale-en-tunisie-atteint-le-niveau-des-pays-developpes/)
+- [Finances : les cafés et les salons de thé appelés...](https://www.lapresse.tn/2026/04/08/finances-les-cafes-et-les-salons-de-the-appeles-a-opter-le-plus-rapidement-possible-pour-la-facturation-electronique/)
+- [Ce pays Schengen recrute 15 000 travailleurs tunisiens dans ce...](https://www.lapresse.tn/2026/04/08/ce-pays-schengen-recrute-15-000-travailleurs-tunisiens-dans-ce-secteur/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -268,10 +268,10 @@
 - [Libye : Ahmed Gadalla, le financier de l’ombre qui alimente la machine de guerre d’Haftar](https://www.jeuneafrique.com/1785647/politique/libye-ahmed-gadalla-le-financier-de-lombre-qui-alimente-la-machine-de-guerre-dhaftar/)
 - [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
 - [Naturalisation de footballeurs étrangers : le Qatar repasse à l’offensive et vise le Maghreb](https://www.jeuneafrique.com/1785166/politique/naturalisation-de-footballeurs-etrangers-le-qatar-repasse-a-loffensive-et-vise-le-maghreb/)
+- [De Wagner à Africa Corps : comment Faustin-Archange Touadéra a fini par basculer](https://www.jeuneafrique.com/1785253/politique/de-wagner-a-africa-corps-comment-faustin-archange-touadera-a-fini-par-basculer/)
 - [Bally Bagayoko, maire de Saint-Denis : un succès électoral qui résonne jusqu’au Mali](https://www.jeuneafrique.com/1784905/politique/bally-bagayoko-maire-de-saint-denis-un-succes-electoral-qui-resonne-jusquau-mali/)
 - [Égypte : deux militants du « 6 Avril » libérés pour l’anniversaire du mouvement](https://www.jeuneafrique.com/1785921/politique/egypte-deux-militants-du-6-avril-liberes-pour-lanniversaire-du-mouvement/)
 - [« Le jour où j’ai fui la Guinée de Sékou Touré », par Tierno Monénembo](https://www.jeuneafrique.com/1768096/politique/le-jour-ou-jai-fui-la-guinee-de-sekou-toure-par-tierno-monenembo/)
-- [CAN 2025 : Abdoulaye Fall et Fouzi Lekjâa rejouent la finale](https://www.jeuneafrique.com/1785537/politique/can-2025-abdoulaye-fall-et-fouzi-lekjaa-rejouent-la-finale/)
 - [Pourquoi le lancement du marché à terme à la Bourse de Casablanca change la donne pour les investisseurs](https://www.jeuneafrique.com/1786069/economie-entreprises/pourquoi-le-lancement-du-marche-a-terme-a-la-bourse-de-casablanca-change-la-donne-pour-les-investisseurs/)
 - [Amal El Fallah Seghrouchni : « Le Maroc hébergera l’une des quinze usines d’intelligence artificielle européennes »](https://www.jeuneafrique.com/1785958/economie-entreprises/amal-el-fallah-seghrouchni-le-maroc-hebergera-lune-des-quinze-usines-dintelligence-artificielle-europeennes/)
 
