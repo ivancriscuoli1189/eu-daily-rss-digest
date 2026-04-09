@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 12:53*
+*Generato: 09 Apr 2026, 14:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -105,19 +105,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +155,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Raid sioniste sur le Liban : le bilan s’alourdit à...](https://www.lapresse.tn/2026/04/09/raid-sioniste-sur-le-liban-le-bilan-salourdit-a-plus-de-200-morts-et-1000-blesses/)
-- [Crise du détroit d’Ormuz : l’Europe rejette fermement tout droit...](https://www.lapresse.tn/2026/04/09/crise-du-detroit-dormuz-leurope-rejette-fermement-tout-droit-de-passage-impose-par-liran/)
+- [Bientôt un pain subventionné plus riche en fibres dans les...](https://www.lapresse.tn/2026/04/09/bientot-un-pain-subventionne-plus-riche-en-fibres-dans-les-boulangeries-lotoc-salue-cette-initiative/)
+- [Sidi Bouzid : ouverture du premier laboratoire de fabrication de...](https://www.lapresse.tn/2026/04/09/sidi-bouzid-ouverture-du-premier-laboratoire-de-fabrication-de-protheses-dentaires-dans-le-secteur-public/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,11 +259,12 @@
 - [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
 - [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
 - [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
+- [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
 - [Mines : l’offensive très discrète mais très politique d’Orano au Botswana](https://www.jeuneafrique.com/1786665/economie-entreprises/mines-loffensive-tres-discrete-mais-tres-politique-dorano-au-botswana/)
-- [Côte d’Ivoire : Optimus prend la main sur les actifs industriels de l’Aga Khan](https://www.jeuneafrique.com/1786549/economie-entreprises/cote-divoire-optimus-prend-la-main-sur-les-actifs-industriels-de-laga-khan/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [L’Egitto e il Nilo bifronte](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-egitto-progetti-idrici-deserto-tra-new-delta-project-e-toshka-limiti-strutturali-21645666/)
 - [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
 - [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
 - [Cipro, serratura per la porta mediorientale](https://www.limesonline.com/rubriche/mappe-parlanti/cipro-divisa-e-militarizzata-nelle-guerre-mediorientali-importanza-delle-basi-21366205/)
@@ -286,4 +274,3 @@
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
 - [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
-- [L'assedio di Leningrado](https://www.limesonline.com/rubriche/mappe-parlanti/l-assedio-di-leningrado-20756506/)
