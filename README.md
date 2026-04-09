@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 08 Apr 2026, 21:33*
+*Generato: 09 Apr 2026, 07:07*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -47,8 +47,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -266,14 +266,14 @@
 
 - [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
 - [Vice-présidence au Cameroun : les jours où Paul Biya a ouvert les portes de « l’après »](https://www.jeuneafrique.com/1786338/politique/vice-presidence-au-cameroun-les-jours-ou-paul-biya-a-ouvert-les-portes-de-lapres/)
+- [Sahara occidental : un mois d’avril décisif à l’ONU pour la relance du processus politique](https://www.jeuneafrique.com/1785692/politique/sahara-occidental-un-mois-davril-decisif-a-lonu-pour-la-relance-du-processus-politique/)
 - [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
 - [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
 - [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
 - [Libye : Ahmed Gadalla, le financier de l’ombre qui alimente la machine de guerre d’Haftar](https://www.jeuneafrique.com/1785647/politique/libye-ahmed-gadalla-le-financier-de-lombre-qui-alimente-la-machine-de-guerre-dhaftar/)
 - [Mali : 5 questions pour comprendre comment le Jnim a poussé Assimi Goïta à reconfigurer sa stratégie](https://www.jeuneafrique.com/1785578/politique/mali-5-questions-pour-comprendre-comment-le-jnim-a-pousse-assimi-goita-a-reconfigurer-sa-strategie/)
-- [En Algérie, Annaba, la ville de saint Augustin, se prépare à la visite du pape Léon XIV](https://www.jeuneafrique.com/1785989/politique/en-algerie-annaba-la-ville-de-saint-augustin-se-prepare-a-la-visite-du-pape-leon-xiv/)
 - [Côte d’Ivoire : Optimus prend la main sur les actifs industriels de l’Aga Khan](https://www.jeuneafrique.com/1786549/economie-entreprises/cote-divoire-optimus-prend-la-main-sur-les-actifs-industriels-de-laga-khan/)
-- [Aliko Dangote sortira-t-il vraiment gagnant de la guerre au Moyen-Orient ?](https://www.jeuneafrique.com/1786206/economie-entreprises/aliko-dangote-sortira-t-il-vraiment-gagnant-de-la-guerre-au-moyen-orient/)
+- [Sébastien de Montessus manie l’art du rebond dans les mines africaines](https://www.jeuneafrique.com/1774996/economie-entreprises/sebastien-de-montessus-manie-lart-du-rebond-dans-les-mines-africaines/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
