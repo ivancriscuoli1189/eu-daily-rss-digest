@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 18:43*
+*Generato: 09 Apr 2026, 21:36*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pourquoi : Il faut savoir raison garder](https://www.lapresse.tn/2026/04/09/pourquoi-il-faut-savoir-raison-garder-2/)
-- [Internet en Tunisie : Pannes, lenteurs, coupures, mais des factures...](https://www.lapresse.tn/2026/04/09/internet-en-tunisie-pannes-lenteurs-coupures-mais-des-factures-toujours-a-lheure/)
+- [Jusqu’à 700 000 m³ perdus par jour : l’hémorragie invisible](https://www.lapresse.tn/2026/04/09/jusqua-700-000-m%c2%b3-perdus-par-jour-lhemorragie-invisible/)
+- [Ligue des champions – Demi-finale aller – L’EST accueille Mamelodi...](https://www.lapresse.tn/2026/04/09/ligue-des-champions-demi-finale-aller-lest-accueille-mamelodi-sundowns-ce-dimanche-a-20h00-concentration-totale/)
 
 ## NGOs – Amnesty International – Tunisia
 
