@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 14:47*
+*Generato: 09 Apr 2026, 16:10*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -105,6 +105,19 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -155,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Bientôt un pain subventionné plus riche en fibres dans les...](https://www.lapresse.tn/2026/04/09/bientot-un-pain-subventionne-plus-riche-en-fibres-dans-les-boulangeries-lotoc-salue-cette-initiative/)
-- [Sidi Bouzid : ouverture du premier laboratoire de fabrication de...](https://www.lapresse.tn/2026/04/09/sidi-bouzid-ouverture-du-premier-laboratoire-de-fabrication-de-protheses-dentaires-dans-le-secteur-public/)
+- [BNA Assurances : un bénéfice net en hausse à 17 millions DT...](https://www.lapresse.tn/2026/04/09/bna-assurances-un-benefice-net-en-hausse-a-17-millions-dt-et-un-chiffre-daffaires-en-forte-progression/)
+- [Chirurgie du nez, du visage et du corps : les nouvelles...](https://www.lapresse.tn/2026/04/09/chirurgie-du-nez-du-visage-et-du-corps-les-nouvelles-techniques-au-coeur-12eme-congres-de-la-stce/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -251,6 +264,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
 - [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
 - [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
 - [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
@@ -258,7 +272,6 @@
 - [Sahara occidental : un mois d’avril décisif à l’ONU pour la relance du processus politique](https://www.jeuneafrique.com/1785692/politique/sahara-occidental-un-mois-davril-decisif-a-lonu-pour-la-relance-du-processus-politique/)
 - [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
 - [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
-- [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
 - [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
 - [Mines : l’offensive très discrète mais très politique d’Orano au Botswana](https://www.jeuneafrique.com/1786665/economie-entreprises/mines-loffensive-tres-discrete-mais-tres-politique-dorano-au-botswana/)
 
