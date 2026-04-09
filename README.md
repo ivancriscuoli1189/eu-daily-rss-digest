@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 10:00*
+*Generato: 09 Apr 2026, 11:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mahdia-meurtre lié à des fouilles clandestines: huit suspects arrêtés](https://www.lapresse.tn/2026/04/09/mahdia-meurtre-lie-a-des-fouilles-clandestines-huit-suspects-arretes/)
-- [Fête des Martyrs: accès gratuit aux musées et sites archéologiques](https://www.lapresse.tn/2026/04/09/fete-des-martyrs-acces-gratuit-aux-musees-et-sites-archeologiques/)
+- [Finances : vers un crédit direct de la BCT à...](https://www.lapresse.tn/2026/04/09/finances-vers-un-credit-direct-de-la-bct-a-letat-mais-sous-haute-surveillance/)
+- [Soutien scolaire en ligne : Le ministère de l’Éducation lance...](https://www.lapresse.tn/2026/04/09/soutien-scolaire-en-ligne-le-ministere-de-leducation-lance-le-calendrier-joussour/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,19 +183,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -264,6 +251,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
 - [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
 - [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
 - [Vice-présidence au Cameroun : les jours où Paul Biya a ouvert les portes de « l’après »](https://www.jeuneafrique.com/1786338/politique/vice-presidence-au-cameroun-les-jours-ou-paul-biya-a-ouvert-les-portes-de-lapres/)
@@ -271,7 +259,6 @@
 - [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
 - [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
 - [Le Líder Máximo Ibrahim Traoré sur les traces de Fidel Castro ?](https://www.jeuneafrique.com/1786072/politique/le-lider-maximo-ibrahim-traore-sur-les-traces-de-fidel-castro/)
-- [Libye : Ahmed Gadalla, le financier de l’ombre qui alimente la machine de guerre d’Haftar](https://www.jeuneafrique.com/1785647/politique/libye-ahmed-gadalla-le-financier-de-lombre-qui-alimente-la-machine-de-guerre-dhaftar/)
 - [Côte d’Ivoire : Optimus prend la main sur les actifs industriels de l’Aga Khan](https://www.jeuneafrique.com/1786549/economie-entreprises/cote-divoire-optimus-prend-la-main-sur-les-actifs-industriels-de-laga-khan/)
 - [Sébastien de Montessus manie l’art du rebond dans les mines africaines](https://www.jeuneafrique.com/1774996/economie-entreprises/sebastien-de-montessus-manie-lart-du-rebond-dans-les-mines-africaines/)
 
