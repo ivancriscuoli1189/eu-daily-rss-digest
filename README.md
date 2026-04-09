@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 16:10*
+*Generato: 09 Apr 2026, 18:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [BNA Assurances : un bénéfice net en hausse à 17 millions DT...](https://www.lapresse.tn/2026/04/09/bna-assurances-un-benefice-net-en-hausse-a-17-millions-dt-et-un-chiffre-daffaires-en-forte-progression/)
-- [Chirurgie du nez, du visage et du corps : les nouvelles...](https://www.lapresse.tn/2026/04/09/chirurgie-du-nez-du-visage-et-du-corps-les-nouvelles-techniques-au-coeur-12eme-congres-de-la-stce/)
+- [Pourquoi : Il faut savoir raison garder](https://www.lapresse.tn/2026/04/09/pourquoi-il-faut-savoir-raison-garder-2/)
+- [Internet en Tunisie : Pannes, lenteurs, coupures, mais des factures...](https://www.lapresse.tn/2026/04/09/internet-en-tunisie-pannes-lenteurs-coupures-mais-des-factures-toujours-a-lheure/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
+- [Pourquoi Alger reproche à Paris son manque de coopération dans la récupération des biens mal acquis](https://www.jeuneafrique.com/1786331/politique/pourquoi-alger-reproche-a-paris-son-manque-de-cooperation-dans-la-recuperation-des-biens-mal-acquis/)
+- [Vice-présidence au Cameroun : l’opposition prise au piège de la réforme de Paul Biya](https://www.jeuneafrique.com/1786352/politique/vice-presidence-au-cameroun-lopposition-prise-au-piege-de-la-reforme-de-paul-biya/)
 - [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
 - [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
 - [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
 - [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
 - [Vice-présidence au Cameroun : les jours où Paul Biya a ouvert les portes de « l’après »](https://www.jeuneafrique.com/1786338/politique/vice-presidence-au-cameroun-les-jours-ou-paul-biya-a-ouvert-les-portes-de-lapres/)
-- [Sahara occidental : un mois d’avril décisif à l’ONU pour la relance du processus politique](https://www.jeuneafrique.com/1785692/politique/sahara-occidental-un-mois-davril-decisif-a-lonu-pour-la-relance-du-processus-politique/)
-- [De la ligne dure au pragmatisme, pourquoi la Cedeao change de stratégie avec l’AES](https://www.jeuneafrique.com/1785291/politique/de-la-ligne-dure-au-pragmatisme-pourquoi-la-cedeao-change-de-strategie-avec-laes/)
-- [Les Léopards, Tshisekedi et la foule : en RDC, chronique d’une fête récupérée](https://www.jeuneafrique.com/1786088/politique/les-leopards-tshisekedi-et-la-foule-en-rdc-chronique-dune-fete-recuperee/)
 - [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
-- [Mines : l’offensive très discrète mais très politique d’Orano au Botswana](https://www.jeuneafrique.com/1786665/economie-entreprises/mines-loffensive-tres-discrete-mais-tres-politique-dorano-au-botswana/)
+- [Aérien : quelle place pour les compagnies low-cost face aux géants africains ?](https://www.jeuneafrique.com/1786141/economie-entreprises/aerien-quelle-place-pour-les-compagnies-low-cost-face-aux-geants-africains/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
