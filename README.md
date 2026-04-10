@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 09:58*
+*Generato: 10 Apr 2026, 11:38*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -132,6 +132,32 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
+## UE – Tunisie – Projects portal (Agriculture)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
+
+## UE – Tunisie – Projects portal (Governance)
+
+- [ACCUEIL](https://ue-tunisie.org/)
+- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
+- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
+- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
+- [Contacts](https://ue-tunisie.org/contacts-p200.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
+- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
+- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
+- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
+
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -142,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Engagement durable : la BH Bank enchaine avec le lancement...](https://www.lapresse.tn/2026/04/10/engagement-durable-la-bh-bank-enchaine-avec-le-lancement-de-son-projet-structurant-de-bilan-carbone/)
-- [En photo, une voiture se renverse sur l’axe Tunis–Nabeul :...](https://www.lapresse.tn/2026/04/10/en-photo-une-voiture-se-renverse-sur-laxe-tunis-nabeul-trafic-perturbe-pres-dazur-city/)
+- [324 postes de nageurs-sauveteurs à pourvoir pour sécuriser les plages](https://www.lapresse.tn/2026/04/10/324-postes-de-nageurs-sauveteurs-a-pourvoir-pour-securiser-les-plages/)
+- [Groupe chimique de Mdhilla : émanations de gaz suite à...](https://www.lapresse.tn/2026/04/10/groupe-chimique-de-mdhilla-emanations-de-gaz-suite-a-une-panne-technique/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le Nigeria face à une recrudescence des attaques jihadistes : un général tué et près de 100 morts en quelques jours](https://www.jeuneafrique.com/1787186/politique/le-nigeria-face-a-une-recrudescence-des-attaques-jihadistes-un-general-tue-et-pres-de-100-morts-en-quelques-jours/)
 - [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
+- [À Djibouti, la balade électorale d’Ismaïl Omar Guelleh](https://www.jeuneafrique.com/1786934/politique/a-djibouti-la-balade-electorale-dismail-omar-guelleh/)
 - [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
 - [Maroc : ce que l’on sait de la mission en Mauritanie du général Berrid, inspecteur général des FAR](https://www.jeuneafrique.com/1786690/politique/maroc-ce-que-lon-sait-de-la-mission-en-mauritanie-du-general-berrid-inspecteur-general-des-far/)
 - [Pourquoi Alger reproche à Paris son manque de coopération dans la récupération des biens mal acquis](https://www.jeuneafrique.com/1786331/politique/pourquoi-alger-reproche-a-paris-son-manque-de-cooperation-dans-la-recuperation-des-biens-mal-acquis/)
 - [Vice-présidence au Cameroun : l’opposition prise au piège de la réforme de Paul Biya](https://www.jeuneafrique.com/1786352/politique/vice-presidence-au-cameroun-lopposition-prise-au-piege-de-la-reforme-de-paul-biya/)
 - [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
-- [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
-- [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
 - [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
-- [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
+- [Que faut-il attendre de l’audit du secteur aurifère camerounais ?](https://www.jeuneafrique.com/1786702/economie-entreprises/que-faut-il-attendre-de-laudit-du-secteur-aurifere-camerounais/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
