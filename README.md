@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 12:39*
+*Generato: 10 Apr 2026, 14:08*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Recrutement des chômeurs de longue durée : un « engagement...](https://www.lapresse.tn/2026/04/10/recrutement-des-chomeurs-de-longue-duree-un-engagement-irreversible-de-letat/)
-- [Ligue 1 – 25e journée – ASG : Le match...](https://www.lapresse.tn/2026/04/10/ligue-1-25e-journee-asg-le-match-de-verite/)
+- [Affaire Mongia El Manaï : Le fils, l’ex-mari et deux...](https://www.lapresse.tn/2026/04/10/affaire-mongia-el-manai-le-fils-lex-mari-et-deux-complices-renvoyes-devant-la-chambre-criminelle/)
+- [Projet de loi sur le statut de l’artiste : bientôt...](https://www.lapresse.tn/2026/04/10/projet-de-loi-sur-le-statut-de-lartiste-bientot-la-fin-du-desert-juridique/)
 
 ## NGOs – Amnesty International – Tunisia
 
