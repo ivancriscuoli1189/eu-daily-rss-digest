@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 18:45*
+*Generato: 10 Apr 2026, 21:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Haithem Bouajila : La Tunisie gagne haut la main sa...](https://www.lapresse.tn/2026/04/10/haithem-bouajila-la-tunisie-gagne-haut-la-main-sa-position-dans-lindustrie-textile-et-les-partenariats-europeens/)
-- [« It will happen yesterday » de Marwa Manai et...](https://www.lapresse.tn/2026/04/10/it-will-happen-yesterday-de-marwa-manai-et-du-collectif-harakay-entre-memoire-dissonance-et-perception/)
+- [La Tunisie et AIMEC renforcent leur coopération pour l’inclusion économique...](https://www.lapresse.tn/2026/04/10/la-tunisie-et-aimec-renforcent-leur-cooperation-pour-linclusion-economique-des-jeunes-africains/)
+- [Le groupe chinois CNBM développe de nouveaux projets d’investissement dans...](https://www.lapresse.tn/2026/04/10/le-groupe-chinois-cnbm-developpe-de-nouveaux-projets-dinvestissement-dans-le-ciment-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -272,8 +272,8 @@
 - [À Djibouti, la balade électorale d’Ismaïl Omar Guelleh](https://www.jeuneafrique.com/1786934/politique/a-djibouti-la-balade-electorale-dismail-omar-guelleh/)
 - [Côte d’Ivoire : comment Alassane Ouattara a délimité les périmètres de Robert Beugré Mambé et de Téné Birahima Ouattara](https://www.jeuneafrique.com/1786904/politique/cote-divoire-comment-alassane-ouattara-a-delimite-les-perimetres-de-robert-beugre-mambe-et-de-tene-birahima-ouattara/)
 - [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
+- [Classement des plus grandes banques d’Afrique du Nord : NBE et Misr perdent du terrain](https://www.jeuneafrique.com/1745941/economie-entreprises/classement-des-plus-grandes-banques-dafrique-du-nord-nbe-et-misr-perdent-du-terrain/)
 - [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
-- [Moyen-Orient, Sénégal, croissance… Le menu africain des réunions de printemps du FMI et de la Banque mondiale](https://www.jeuneafrique.com/1786833/economie-entreprises/moyen-orient-senegal-croissance-le-menu-africain-des-reunions-de-printemps-du-fmi-et-de-la-banque-mondiale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
