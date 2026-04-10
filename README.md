@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 09 Apr 2026, 21:36*
+*Generato: 10 Apr 2026, 07:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Jusqu’à 700 000 m³ perdus par jour : l’hémorragie invisible](https://www.lapresse.tn/2026/04/09/jusqua-700-000-m%c2%b3-perdus-par-jour-lhemorragie-invisible/)
-- [Ligue des champions – Demi-finale aller – L’EST accueille Mamelodi...](https://www.lapresse.tn/2026/04/09/ligue-des-champions-demi-finale-aller-lest-accueille-mamelodi-sundowns-ce-dimanche-a-20h00-concentration-totale/)
+- [Tunisie : l’été 2026 commence en retard, les réservations touristiques...](https://www.lapresse.tn/2026/04/10/tunisie-lete-2026-commence-en-retard-les-reservations-touristiques-en-baisse-de-10/)
+- [Crédits carbone : la clé (encore incertaine) de l’électricité verte...](https://www.lapresse.tn/2026/04/10/credits-carbone-la-cle-encore-incertaine-de-lelectricite-verte-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## THINK TANK – ECFR – MENA
 
+- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
 - [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
 - [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
 - [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
@@ -234,7 +235,6 @@
 - [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
 - [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 - [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
-- [War over law: Europe’s unforced errors over the use of force in Iran](https://ecfr.eu/article/war-over-law-europes-unforced-errors-over-the-use-of-force-in-iran/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -265,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
+- [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
+- [Maroc : ce que l’on sait de la mission en Mauritanie du général Berrid, inspecteur général des FAR](https://www.jeuneafrique.com/1786690/politique/maroc-ce-que-lon-sait-de-la-mission-en-mauritanie-du-general-berrid-inspecteur-general-des-far/)
 - [Pourquoi Alger reproche à Paris son manque de coopération dans la récupération des biens mal acquis](https://www.jeuneafrique.com/1786331/politique/pourquoi-alger-reproche-a-paris-son-manque-de-cooperation-dans-la-recuperation-des-biens-mal-acquis/)
 - [Vice-présidence au Cameroun : l’opposition prise au piège de la réforme de Paul Biya](https://www.jeuneafrique.com/1786352/politique/vice-presidence-au-cameroun-lopposition-prise-au-piege-de-la-reforme-de-paul-biya/)
 - [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
 - [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
 - [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
-- [Alger annonce que la Suisse va lui restituer 110 millions de dollars de fonds détournés](https://www.jeuneafrique.com/1786109/politique/alger-annonce-que-la-suisse-va-lui-restituer-110-millions-de-dollars-de-fonds-detournes/)
-- [Vice-présidence au Cameroun : les jours où Paul Biya a ouvert les portes de « l’après »](https://www.jeuneafrique.com/1786338/politique/vice-presidence-au-cameroun-les-jours-ou-paul-biya-a-ouvert-les-portes-de-lapres/)
 - [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
-- [Aérien : quelle place pour les compagnies low-cost face aux géants africains ?](https://www.jeuneafrique.com/1786141/economie-entreprises/aerien-quelle-place-pour-les-compagnies-low-cost-face-aux-geants-africains/)
+- [Subvention aux carburants : Paul Biya peut-il suivre la recommandation du FMI ?](https://www.jeuneafrique.com/1786717/economie-entreprises/subvention-aux-carburants-paul-biya-peut-il-suivre-la-recommandation-du-fmi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
