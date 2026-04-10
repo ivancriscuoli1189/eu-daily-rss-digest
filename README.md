@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 07:17*
+*Generato: 10 Apr 2026, 09:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,32 +132,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -168,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : l’été 2026 commence en retard, les réservations touristiques...](https://www.lapresse.tn/2026/04/10/tunisie-lete-2026-commence-en-retard-les-reservations-touristiques-en-baisse-de-10/)
-- [Crédits carbone : la clé (encore incertaine) de l’électricité verte...](https://www.lapresse.tn/2026/04/10/credits-carbone-la-cle-encore-incertaine-de-lelectricite-verte-en-tunisie/)
+- [Engagement durable : la BH Bank enchaine avec le lancement...](https://www.lapresse.tn/2026/04/10/engagement-durable-la-bh-bank-enchaine-avec-le-lancement-de-son-projet-structurant-de-bilan-carbone/)
+- [En photo, une voiture se renverse sur l’axe Tunis–Nabeul :...](https://www.lapresse.tn/2026/04/10/en-photo-une-voiture-se-renverse-sur-laxe-tunis-nabeul-trafic-perturbe-pres-dazur-city/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,19 +157,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -272,8 +233,8 @@
 - [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
 - [Au Niger, des formateurs turcs bientôt déployés dans les bases militaires](https://www.jeuneafrique.com/1786424/politique/au-niger-des-formateurs-turcs-bientot-deployes-dans-les-bases-militaires/)
 - [Cameroun : le discret retour en grâce de Laurent Esso auprès de Paul Biya](https://www.jeuneafrique.com/1786098/politique/cameroun-le-discret-retour-en-grace-de-laurent-esso-aupres-de-paul-biya/)
+- [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
 - [Classement des plus grandes banques d’Afrique de l’Ouest : Access, FNB et Zenith en tête](https://www.jeuneafrique.com/1746148/economie-entreprises/classement-des-plus-grandes-banques-dafrique-de-louest-access-fnb-et-zenith-en-tete/)
-- [Subvention aux carburants : Paul Biya peut-il suivre la recommandation du FMI ?](https://www.jeuneafrique.com/1786717/economie-entreprises/subvention-aux-carburants-paul-biya-peut-il-suivre-la-recommandation-du-fmi/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
