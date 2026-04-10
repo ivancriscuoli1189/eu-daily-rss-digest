@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 15:39*
+*Generato: 10 Apr 2026, 18:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Jardins de Carthage: un dangereux trafiquant de drogue recherché et...](https://www.lapresse.tn/2026/04/10/jardins-de-carthage-un-dangereux-trafiquant-de-drogue-recherche-et-condamne-a-12-ans-de-prison-place-en-garde-a-vue/)
-- [« Les ailes de la lecture »: lancement d’une plateforme de contes...](https://www.lapresse.tn/2026/04/10/les-ailes-de-la-lecture-lancement-dune-plateforme-de-contes-pour-enfants-en-ligne/)
+- [Haithem Bouajila : La Tunisie gagne haut la main sa...](https://www.lapresse.tn/2026/04/10/haithem-bouajila-la-tunisie-gagne-haut-la-main-sa-position-dans-lindustrie-textile-et-les-partenariats-europeens/)
+- [« It will happen yesterday » de Marwa Manai et...](https://www.lapresse.tn/2026/04/10/it-will-happen-yesterday-de-marwa-manai-et-du-collectif-harakay-entre-memoire-dissonance-et-perception/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Ousmane Sonko tacle Donald Trump, « homme de déstabilisation »](https://www.jeuneafrique.com/1787271/politique/ousmane-sonko-tacle-donald-trump-homme-de-destabilisation/)
+- [Le Mali appuie le plan d’autonomie marocain pour le Sahara occidental](https://www.jeuneafrique.com/1787534/politique/le-mali-appuie-le-plan-dautonomie-marocain-pour-le-sahara-occidental/)
 - [Le Nigeria face à une recrudescence des attaques jihadistes : un général tué et près de 100 morts en quelques jours](https://www.jeuneafrique.com/1787186/politique/le-nigeria-face-a-une-recrudescence-des-attaques-jihadistes-un-general-tue-et-pres-de-100-morts-en-quelques-jours/)
 - [Crise au parti de Laurent Gbagbo : après Ahoua Don Mello, Stéphane Kipré bientôt devant le conseil de discipline](https://www.jeuneafrique.com/1786800/politique/crise-au-parti-de-laurent-gbagbo-apres-ahoua-don-mello-stephane-kipre-bientot-devant-le-conseil-de-discipline/)
 - [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
 - [À Djibouti, la balade électorale d’Ismaïl Omar Guelleh](https://www.jeuneafrique.com/1786934/politique/a-djibouti-la-balade-electorale-dismail-omar-guelleh/)
 - [Côte d’Ivoire : comment Alassane Ouattara a délimité les périmètres de Robert Beugré Mambé et de Téné Birahima Ouattara](https://www.jeuneafrique.com/1786904/politique/cote-divoire-comment-alassane-ouattara-a-delimite-les-perimetres-de-robert-beugre-mambe-et-de-tene-birahima-ouattara/)
 - [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
-- [Maroc : ce que l’on sait de la mission en Mauritanie du général Berrid, inspecteur général des FAR](https://www.jeuneafrique.com/1786690/politique/maroc-ce-que-lon-sait-de-la-mission-en-mauritanie-du-general-berrid-inspecteur-general-des-far/)
-- [10 choses à savoir sur Bernard Gnamankala, le nouveau maître des écoutes d’Oligui Nguema](https://www.jeuneafrique.com/1783268/politique/dix-choses-a-savoir-sur-bernard-gnamankala-le-nouveau-maitre-des-ecoutes-doligui-nguema/)
 - [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
-- [Que faut-il attendre de l’audit du secteur aurifère camerounais ?](https://www.jeuneafrique.com/1786702/economie-entreprises/que-faut-il-attendre-de-laudit-du-secteur-aurifere-camerounais/)
+- [Moyen-Orient, Sénégal, croissance… Le menu africain des réunions de printemps du FMI et de la Banque mondiale](https://www.jeuneafrique.com/1786833/economie-entreprises/moyen-orient-senegal-croissance-le-menu-africain-des-reunions-de-printemps-du-fmi-et-de-la-banque-mondiale/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
