@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 11:38*
+*Generato: 10 Apr 2026, 12:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [324 postes de nageurs-sauveteurs à pourvoir pour sécuriser les plages](https://www.lapresse.tn/2026/04/10/324-postes-de-nageurs-sauveteurs-a-pourvoir-pour-securiser-les-plages/)
-- [Groupe chimique de Mdhilla : émanations de gaz suite à...](https://www.lapresse.tn/2026/04/10/groupe-chimique-de-mdhilla-emanations-de-gaz-suite-a-une-panne-technique/)
+- [Recrutement des chômeurs de longue durée : un « engagement...](https://www.lapresse.tn/2026/04/10/recrutement-des-chomeurs-de-longue-duree-un-engagement-irreversible-de-letat/)
+- [Ligue 1 – 25e journée – ASG : Le match...](https://www.lapresse.tn/2026/04/10/ligue-1-25e-journee-asg-le-match-de-verite/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -267,11 +267,11 @@
 - [Le Nigeria face à une recrudescence des attaques jihadistes : un général tué et près de 100 morts en quelques jours](https://www.jeuneafrique.com/1787186/politique/le-nigeria-face-a-une-recrudescence-des-attaques-jihadistes-un-general-tue-et-pres-de-100-morts-en-quelques-jours/)
 - [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
 - [À Djibouti, la balade électorale d’Ismaïl Omar Guelleh](https://www.jeuneafrique.com/1786934/politique/a-djibouti-la-balade-electorale-dismail-omar-guelleh/)
+- [Côte d’Ivoire : comment Alassane Ouattara a délimité les périmètres de Robert Beugré Mambé et de Téné Birahima Ouattara](https://www.jeuneafrique.com/1786904/politique/cote-divoire-comment-alassane-ouattara-a-delimite-les-perimetres-de-robert-beugre-mambe-et-de-tene-birahima-ouattara/)
 - [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
 - [Maroc : ce que l’on sait de la mission en Mauritanie du général Berrid, inspecteur général des FAR](https://www.jeuneafrique.com/1786690/politique/maroc-ce-que-lon-sait-de-la-mission-en-mauritanie-du-general-berrid-inspecteur-general-des-far/)
+- [10 choses à savoir sur Bernard Gnamankala, le nouveau maître des écoutes d’Oligui Nguema](https://www.jeuneafrique.com/1783268/politique/dix-choses-a-savoir-sur-bernard-gnamankala-le-nouveau-maitre-des-ecoutes-doligui-nguema/)
 - [Pourquoi Alger reproche à Paris son manque de coopération dans la récupération des biens mal acquis](https://www.jeuneafrique.com/1786331/politique/pourquoi-alger-reproche-a-paris-son-manque-de-cooperation-dans-la-recuperation-des-biens-mal-acquis/)
-- [Vice-présidence au Cameroun : l’opposition prise au piège de la réforme de Paul Biya](https://www.jeuneafrique.com/1786352/politique/vice-presidence-au-cameroun-lopposition-prise-au-piege-de-la-reforme-de-paul-biya/)
-- [RDC – Augustin Kabuya : « Il n’y a que la Bible qu’on ne peut pas toucher »](https://www.jeuneafrique.com/1786078/politique/rdc-augustin-kabuya-il-ny-a-que-la-bible-quon-ne-peut-pas-toucher/)
 - [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
 - [Que faut-il attendre de l’audit du secteur aurifère camerounais ?](https://www.jeuneafrique.com/1786702/economie-entreprises/que-faut-il-attendre-de-laudit-du-secteur-aurifere-camerounais/)
 
