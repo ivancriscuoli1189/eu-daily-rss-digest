@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 11:58*
+*Generato: 13 Apr 2026, 16:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pris sur le vif – Un repas volé à une...](https://www.lapresse.tn/2026/04/13/pris-sur-le-vif-un-repas-vole-a-une-patiente-dans-un-hopital-de-la-capitale/)
-- [Tunisie : une « mine d’or électronique » bloquée par...](https://www.lapresse.tn/2026/04/13/tunisie-une-mine-dor-electronique-bloquee-par-la-paperasse/)
+- [Incendie dans un restaurant à Boumhel : raisons et dessous](https://www.lapresse.tn/2026/04/13/incendie-dans-un-restaurant-a-boumhel-raisons-et-dessous/)
+- [Le pavillon tunisien a séduit les visiteurs au Canada](https://www.lapresse.tn/2026/04/13/le-pavillon-tunisien-a-seduit-les-visiteurs-au-canada/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -184,27 +184,14 @@
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
 
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Rule of Law Under Strain in Eswatini: A Submission on Judicial Independence and Civic Space](https://www.icj.org/rule-of-law-under-strain-in-eswatini-a-submission-on-judicial-independence-and-civic-space/)
 - [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
-- [Joint Statement from Legal Experts on Genetic Sex Testing in Sport](https://www.icj.org/joint-statement-from-legal-experts-on-genetic-sex-testing-in-sport/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
 - [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
+- [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
 - [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
 - [Guerre au Soudan : ceux qui permettent à Hemetti d’y croire encore](https://www.jeuneafrique.com/1786270/politique/guerre-au-soudan-ceux-qui-permettent-a-hemetti-dy-croire-encore/)
 - [Boualem Sansal entend « attaquer en justice » Abdelmadjid Tebboune](https://www.jeuneafrique.com/1787720/politique/boualem-sansal-entend-attaquer-en-justice-abdelmadjid-tebboune/)
 - [Léon XIV en Algérie, une première historique](https://www.jeuneafrique.com/1787716/politique/leon-xiv-en-algerie-une-premiere-historique/)
 - [En Guinée, comment Mamadi Doumbouya s’emploie à calmer la colère de « l’Axe » à Conakry](https://www.jeuneafrique.com/1776546/politique/en-guinee-comment-mamadi-doumbouya-semploie-a-calmer-la-colere-de-laxe-a-conakry/)
-- [Présidentielle au Bénin : Romuald Wadagni ultrafavori, l’abstention s’annonce comme le principal enjeu du scrutin](https://www.jeuneafrique.com/1786828/politique/presidentielle-au-benin-romuald-wadagni-ultrafavori-labstention-sannonce-comme-le-principal-enjeu-du-scrutin/)
-- [Londres suspend la restitution des Chagos à Maurice, qui promet de récupérer l’archipel](https://www.jeuneafrique.com/1787694/politique/londres-suspend-la-restitution-des-chagos-a-maurice-qui-promet-de-recuperer-larchipel/)
+- [Les premiers pas de George Elombi à la tête d’Afreximbank](https://www.jeuneafrique.com/1787428/economie-entreprises/les-premiers-pas-de-george-elombi-a-la-tete-dafreximbank/)
 - [Pour le cacao nigérian, hausse de la production ne rime pas toujours avec déforestation](https://www.jeuneafrique.com/1786372/economie-entreprises/pour-le-cacao-nigerian-hausse-de-la-production-ne-rime-pas-toujours-avec-deforestation/)
-- [Classement des plus grandes banques d’Afrique centrale : Equity BCDC toujours à la poursuite de Rawbank](https://www.jeuneafrique.com/1776363/economie-entreprises/classement-des-plus-grandes-banques-dafrique-centrale-equity-bcdc-toujours-a-la-poursuite-de-rawbank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
