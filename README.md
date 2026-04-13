@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 18:56*
+*Generato: 13 Apr 2026, 21:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -132,32 +132,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## UE – Tunisie – Projects portal (Agriculture)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-478_renforcement-de-la-resilience-alimentaire-de-la-tunisie.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-457_adapt-cereale.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-433_suivi-et-documentation-de-l-avancement-des-reformes-vers-un-.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-368_projet-de-developpement-agricole-et-rural-autour-des-lacs-co.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-1-329_appui-au-developpement-durable-dans-le-secteur-de-l-agricult.html)
-
-## UE – Tunisie – Projects portal (Governance)
-
-- [ACCUEIL](https://ue-tunisie.org/)
-- [Carte](https://ue-tunisie.org/projetsCarte-212_carte.html)
-- [Organismes](https://ue-tunisie.org/organismes-195_organismes.html)
-- [Thématiques](https://ue-tunisie.org/projets-192_thematiques.html)
-- [Contacts](https://ue-tunisie.org/contacts-p200.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-346_participation-inclusion-des-jeunes-tunisien-ne-s-a-travers-l.html)
-- [Voir le projet](https://ue-tunisie.org/projet-192-4-331_politique-jeunesse-et-participation-des-jeunes-dans-les-poli.html)
-- [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
-- [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
 ## MEDIA TUNISIA – La Presse de Tunisie
 
 - [Actualités](https://www.lapresse.tn/category/actualites/)
@@ -168,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Projets en suspens : Quand l’inaction devient complicité](https://www.lapresse.tn/2026/04/13/projets-en-suspens-quand-linaction-devient-complicite/)
-- [Ligue 1 – 25e journée – Le CAB se rassure...](https://www.lapresse.tn/2026/04/13/le-cab-se-rassure-sur-une-courbe-ascendante/)
+- [Port de Kélibia : les pêcheurs alertent sur une situation...](https://www.lapresse.tn/2026/04/13/port-de-kelibia-les-pecheurs-alertent-sur-une-situation-critique/)
+- [Clôture du 15e FIFEJ de Sousse – La Perle d’Or...](https://www.lapresse.tn/2026/04/13/cloture-du-15e-fifej-de-sousse-la-perle-dor-a-irkalla-le-reve-de-gilgamesh/)
 
 ## NGOs – Amnesty International – Tunisia
 
