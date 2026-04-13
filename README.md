@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 07:31*
+*Generato: 13 Apr 2026, 10:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,8 @@
 
 ## UE – EP – Press Room
 
+- [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
+- [Press conference on the MFF with lead MEPs on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260410IPR40515/press-conference-on-the-mff-with-lead-meps-on-tuesday-at-10-30)
 - [MEPs support digital vehicle registration documents to cut red tape](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40003/meps-support-digital-vehicle-registration-documents-to-cut-red-tape)
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
@@ -77,13 +79,11 @@
 - [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 - [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
-- [EU US trade deal: MEPs set conditions for lowering tariffs on US products](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38830/eu-us-trade-deal-meps-set-conditions-for-lowering-tariffs-on-us-products)
-- [Global Gateway: MEPs deplore lack of transparency and democratic accountability](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38826/global-gateway-meps-deplore-lack-of-transparency-and-democratic-accountability)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -157,19 +157,6 @@
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
-
-## MEDIA TUNISIA – La Presse de Tunisie
-
-- [Actualités](https://www.lapresse.tn/category/actualites/)
-- [Économie](https://www.lapresse.tn/category/economie/)
-- [Société](https://www.lapresse.tn/category/societe/)
-- [Culture](https://www.lapresse.tn/category/culture/)
-- [Magazine](https://www.lapresse.tn/category/magazine/)
-- [Sport](https://www.lapresse.tn/category/sport/)
-- [International](https://www.lapresse.tn/category/international/)
-- [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Autoroute A1 : trafic perturbé en direction de Tunis à...](https://www.lapresse.tn/2026/04/13/autoroute-a1-trafic-perturbe-en-direction-de-tunis-a-partir-daujourdhui/)
-- [Plus de 151.000 candidats entament aujourd’hui le bac sport](https://www.lapresse.tn/2026/04/13/plus-de-151-000-candidats-entament-aujourdhui-le-bac-sport/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +251,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Procès de la DZ Mazia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
+- [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
+- [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
 - [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
 - [Boualem Sansal entend « attaquer en justice » Abdelmadjid Tebboune](https://www.jeuneafrique.com/1787720/politique/boualem-sansal-entend-attaquer-en-justice-abdelmadjid-tebboune/)
 - [Léon XIV en Algérie, une première historique](https://www.jeuneafrique.com/1787716/politique/leon-xiv-en-algerie-une-premiere-historique/)
 - [Londres suspend la restitution des Chagos à Maurice, qui promet de récupérer l’archipel](https://www.jeuneafrique.com/1787694/politique/londres-suspend-la-restitution-des-chagos-a-maurice-qui-promet-de-recuperer-larchipel/)
 - [Migrants déportés des États-Unis vers l’Afrique : le scandaleux marché de Trump](https://www.jeuneafrique.com/1786836/politique/migrants-deportes-des-etats-unis-vers-lafrique-le-scandaleux-marche-de-trump/)
 - [Djibouti : Ismaïl Omar Guelleh réélu avec 97,81 % des voix](https://www.jeuneafrique.com/1787688/politique/djibouti-ismail-omar-guelleh-reelu-avec-9781-des-voix/)
-- [Mohamed Methqal, discret chef d’orchestre de la coopération Maroc-Afrique](https://www.jeuneafrique.com/1783120/politique/mohamed-methqal-discret-chef-dorchestre-de-la-cooperation-maroc-afrique/)
+- [Pour le cacao nigérian, hausse de la production ne rime pas toujours avec déforestation](https://www.jeuneafrique.com/1786372/economie-entreprises/pour-le-cacao-nigerian-hausse-de-la-production-ne-rime-pas-toujours-avec-deforestation/)
 - [Classement des plus grandes banques d’Afrique centrale : Equity BCDC toujours à la poursuite de Rawbank](https://www.jeuneafrique.com/1776363/economie-entreprises/classement-des-plus-grandes-banques-dafrique-centrale-equity-bcdc-toujours-a-la-poursuite-de-rawbank/)
-- [Moussa Batraki : « Le nucléaire est une option pour les pays africains »](https://www.jeuneafrique.com/1787246/economie-entreprises/moussa-batraki-le-nucleaire-est-une-option-pour-les-pays-africains/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
