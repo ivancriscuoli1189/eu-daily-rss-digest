@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 10:28*
+*Generato: 13 Apr 2026, 11:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -157,6 +157,19 @@
 - [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Linked In](https://www.linkedin.com/sharing/share-offsite/?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html)
 - [Twitter](https://twitter.com/intent/tweet?url=https://ue-tunisie.org/projetsGrp-192-4_democratie-et-gouvernance.html&text=Union%20européenne%20-%20Tunisie%20Démocratie%20et%20gouvernance)
+
+## MEDIA TUNISIA – La Presse de Tunisie
+
+- [Actualités](https://www.lapresse.tn/category/actualites/)
+- [Économie](https://www.lapresse.tn/category/economie/)
+- [Société](https://www.lapresse.tn/category/societe/)
+- [Culture](https://www.lapresse.tn/category/culture/)
+- [Magazine](https://www.lapresse.tn/category/magazine/)
+- [Sport](https://www.lapresse.tn/category/sport/)
+- [International](https://www.lapresse.tn/category/international/)
+- [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Pris sur le vif – Un repas volé à une...](https://www.lapresse.tn/2026/04/13/pris-sur-le-vif-un-repas-vole-a-une-patiente-dans-un-hopital-de-la-capitale/)
+- [Tunisie : une « mine d’or électronique » bloquée par...](https://www.lapresse.tn/2026/04/13/tunisie-une-mine-dor-electronique-bloquee-par-la-paperasse/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -252,13 +265,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
-- [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
 - [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
+- [Guerre au Soudan : ceux qui permettent à Hemetti d’y croire encore](https://www.jeuneafrique.com/1786270/politique/guerre-au-soudan-ceux-qui-permettent-a-hemetti-dy-croire-encore/)
 - [Boualem Sansal entend « attaquer en justice » Abdelmadjid Tebboune](https://www.jeuneafrique.com/1787720/politique/boualem-sansal-entend-attaquer-en-justice-abdelmadjid-tebboune/)
 - [Léon XIV en Algérie, une première historique](https://www.jeuneafrique.com/1787716/politique/leon-xiv-en-algerie-une-premiere-historique/)
+- [En Guinée, comment Mamadi Doumbouya s’emploie à calmer la colère de « l’Axe » à Conakry](https://www.jeuneafrique.com/1776546/politique/en-guinee-comment-mamadi-doumbouya-semploie-a-calmer-la-colere-de-laxe-a-conakry/)
+- [Présidentielle au Bénin : Romuald Wadagni ultrafavori, l’abstention s’annonce comme le principal enjeu du scrutin](https://www.jeuneafrique.com/1786828/politique/presidentielle-au-benin-romuald-wadagni-ultrafavori-labstention-sannonce-comme-le-principal-enjeu-du-scrutin/)
 - [Londres suspend la restitution des Chagos à Maurice, qui promet de récupérer l’archipel](https://www.jeuneafrique.com/1787694/politique/londres-suspend-la-restitution-des-chagos-a-maurice-qui-promet-de-recuperer-larchipel/)
-- [Migrants déportés des États-Unis vers l’Afrique : le scandaleux marché de Trump](https://www.jeuneafrique.com/1786836/politique/migrants-deportes-des-etats-unis-vers-lafrique-le-scandaleux-marche-de-trump/)
-- [Djibouti : Ismaïl Omar Guelleh réélu avec 97,81 % des voix](https://www.jeuneafrique.com/1787688/politique/djibouti-ismail-omar-guelleh-reelu-avec-9781-des-voix/)
 - [Pour le cacao nigérian, hausse de la production ne rime pas toujours avec déforestation](https://www.jeuneafrique.com/1786372/economie-entreprises/pour-le-cacao-nigerian-hausse-de-la-production-ne-rime-pas-toujours-avec-deforestation/)
 - [Classement des plus grandes banques d’Afrique centrale : Equity BCDC toujours à la poursuite de Rawbank](https://www.jeuneafrique.com/1776363/economie-entreprises/classement-des-plus-grandes-banques-dafrique-centrale-equity-bcdc-toujours-a-la-poursuite-de-rawbank/)
 
