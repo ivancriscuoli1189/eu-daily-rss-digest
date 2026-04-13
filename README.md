@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 16:04*
+*Generato: 13 Apr 2026, 18:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Incendie dans un restaurant à Boumhel : raisons et dessous](https://www.lapresse.tn/2026/04/13/incendie-dans-un-restaurant-a-boumhel-raisons-et-dessous/)
-- [Le pavillon tunisien a séduit les visiteurs au Canada](https://www.lapresse.tn/2026/04/13/le-pavillon-tunisien-a-seduit-les-visiteurs-au-canada/)
+- [Projets en suspens : Quand l’inaction devient complicité](https://www.lapresse.tn/2026/04/13/projets-en-suspens-quand-linaction-devient-complicite/)
+- [Ligue 1 – 25e journée – Le CAB se rassure...](https://www.lapresse.tn/2026/04/13/le-cab-se-rassure-sur-une-courbe-ascendante/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -183,6 +183,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -252,15 +265,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
+- [Mali-Mauritanie : la forêt de Wagadou, sanctuaire jihadiste au cœur des tensions](https://www.jeuneafrique.com/1787253/politique/mali-mauritanie-la-foret-de-wagadou-sanctuaire-jihadiste-au-coeur-des-tensions/)
+- [Maroc : une stratégie de plus en plus compatible avec celle de l’AES](https://www.jeuneafrique.com/1786623/politique/maroc-une-strategie-de-plus-en-plus-compatible-avec-celle-de-laes/)
 - [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
 - [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
+- [« Madame la présidente » : au Cameroun, où s’arrête le pouvoir de Chantal Biya ?](https://www.jeuneafrique.com/1786531/politique/madame-la-presidente-au-cameroun-ou-sarrete-le-pouvoir-de-chantal-biya/)
 - [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
 - [Guerre au Soudan : ceux qui permettent à Hemetti d’y croire encore](https://www.jeuneafrique.com/1786270/politique/guerre-au-soudan-ceux-qui-permettent-a-hemetti-dy-croire-encore/)
-- [Boualem Sansal entend « attaquer en justice » Abdelmadjid Tebboune](https://www.jeuneafrique.com/1787720/politique/boualem-sansal-entend-attaquer-en-justice-abdelmadjid-tebboune/)
-- [Léon XIV en Algérie, une première historique](https://www.jeuneafrique.com/1787716/politique/leon-xiv-en-algerie-une-premiere-historique/)
-- [En Guinée, comment Mamadi Doumbouya s’emploie à calmer la colère de « l’Axe » à Conakry](https://www.jeuneafrique.com/1776546/politique/en-guinee-comment-mamadi-doumbouya-semploie-a-calmer-la-colere-de-laxe-a-conakry/)
+- [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
 - [Les premiers pas de George Elombi à la tête d’Afreximbank](https://www.jeuneafrique.com/1787428/economie-entreprises/les-premiers-pas-de-george-elombi-a-la-tete-dafreximbank/)
-- [Pour le cacao nigérian, hausse de la production ne rime pas toujours avec déforestation](https://www.jeuneafrique.com/1786372/economie-entreprises/pour-le-cacao-nigerian-hausse-de-la-production-ne-rime-pas-toujours-avec-deforestation/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
