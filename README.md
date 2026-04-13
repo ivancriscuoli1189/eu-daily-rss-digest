@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 10 Apr 2026, 21:28*
+*Generato: 13 Apr 2026, 07:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -43,16 +43,16 @@
 
 ## TUNISIA ISTITUZIONI – INS – Communiqués de presse
 
+- [Commerce Extérieur aux prix courants, Mars 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mars-2026)
 - [Indice des prix à la consommation, Mars 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-mars-2026)
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
-- [Commerce Extérieur aux prix courants, Décembre 2025](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-decembre-2025)
 
 ## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -168,8 +168,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Tunisie et AIMEC renforcent leur coopération pour l’inclusion économique...](https://www.lapresse.tn/2026/04/10/la-tunisie-et-aimec-renforcent-leur-cooperation-pour-linclusion-economique-des-jeunes-africains/)
-- [Le groupe chinois CNBM développe de nouveaux projets d’investissement dans...](https://www.lapresse.tn/2026/04/10/le-groupe-chinois-cnbm-developpe-de-nouveaux-projets-dinvestissement-dans-le-ciment-en-tunisie/)
+- [Autoroute A1 : trafic perturbé en direction de Tunis à...](https://www.lapresse.tn/2026/04/13/autoroute-a1-trafic-perturbe-en-direction-de-tunis-a-partir-daujourdhui/)
+- [Plus de 151.000 candidats entament aujourd’hui le bac sport](https://www.lapresse.tn/2026/04/13/plus-de-151-000-candidats-entament-aujourdhui-le-bac-sport/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -264,16 +264,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Ousmane Sonko tacle Donald Trump, « homme de déstabilisation »](https://www.jeuneafrique.com/1787271/politique/ousmane-sonko-tacle-donald-trump-homme-de-destabilisation/)
-- [Le Mali appuie le plan d’autonomie marocain pour le Sahara occidental](https://www.jeuneafrique.com/1787534/politique/le-mali-appuie-le-plan-dautonomie-marocain-pour-le-sahara-occidental/)
-- [Le Nigeria face à une recrudescence des attaques jihadistes : un général tué et près de 100 morts en quelques jours](https://www.jeuneafrique.com/1787186/politique/le-nigeria-face-a-une-recrudescence-des-attaques-jihadistes-un-general-tue-et-pres-de-100-morts-en-quelques-jours/)
-- [Crise au parti de Laurent Gbagbo : après Ahoua Don Mello, Stéphane Kipré bientôt devant le conseil de discipline](https://www.jeuneafrique.com/1786800/politique/crise-au-parti-de-laurent-gbagbo-apres-ahoua-don-mello-stephane-kipre-bientot-devant-le-conseil-de-discipline/)
-- [En Côte d’Ivoire, le PDCI célèbre ses 80 ans dans un contexte tendu](https://www.jeuneafrique.com/1786811/politique/en-cote-divoire-le-pdci-celebre-ses-80-ans-dans-un-contexte-tendu/)
-- [À Djibouti, la balade électorale d’Ismaïl Omar Guelleh](https://www.jeuneafrique.com/1786934/politique/a-djibouti-la-balade-electorale-dismail-omar-guelleh/)
-- [Côte d’Ivoire : comment Alassane Ouattara a délimité les périmètres de Robert Beugré Mambé et de Téné Birahima Ouattara](https://www.jeuneafrique.com/1786904/politique/cote-divoire-comment-alassane-ouattara-a-delimite-les-perimetres-de-robert-beugre-mambe-et-de-tene-birahima-ouattara/)
-- [Procès Zogo au Cameroun : comment Eko Eko tente de se sortir du piège](https://www.jeuneafrique.com/1785852/politique/proces-zogo-au-cameroun-comment-eko-eko-tente-de-se-sortir-du-piege/)
-- [Classement des plus grandes banques d’Afrique du Nord : NBE et Misr perdent du terrain](https://www.jeuneafrique.com/1745941/economie-entreprises/classement-des-plus-grandes-banques-dafrique-du-nord-nbe-et-misr-perdent-du-terrain/)
-- [Fin du dollar en RDC : la Banque centrale tranche pour un arrêt des transactions en cash d’ici à un an](https://www.jeuneafrique.com/1787167/economie-entreprises/fin-du-dollar-en-rdc-la-banque-centrale-tranche-pour-un-arret-des-transactions-en-cash-dici-a-un-an/)
+- [Procès de la DZ Mazia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
+- [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
+- [Boualem Sansal entend « attaquer en justice » Abdelmadjid Tebboune](https://www.jeuneafrique.com/1787720/politique/boualem-sansal-entend-attaquer-en-justice-abdelmadjid-tebboune/)
+- [Léon XIV en Algérie, une première historique](https://www.jeuneafrique.com/1787716/politique/leon-xiv-en-algerie-une-premiere-historique/)
+- [Londres suspend la restitution des Chagos à Maurice, qui promet de récupérer l’archipel](https://www.jeuneafrique.com/1787694/politique/londres-suspend-la-restitution-des-chagos-a-maurice-qui-promet-de-recuperer-larchipel/)
+- [Migrants déportés des États-Unis vers l’Afrique : le scandaleux marché de Trump](https://www.jeuneafrique.com/1786836/politique/migrants-deportes-des-etats-unis-vers-lafrique-le-scandaleux-marche-de-trump/)
+- [Djibouti : Ismaïl Omar Guelleh réélu avec 97,81 % des voix](https://www.jeuneafrique.com/1787688/politique/djibouti-ismail-omar-guelleh-reelu-avec-9781-des-voix/)
+- [Mohamed Methqal, discret chef d’orchestre de la coopération Maroc-Afrique](https://www.jeuneafrique.com/1783120/politique/mohamed-methqal-discret-chef-dorchestre-de-la-cooperation-maroc-afrique/)
+- [Classement des plus grandes banques d’Afrique centrale : Equity BCDC toujours à la poursuite de Rawbank](https://www.jeuneafrique.com/1776363/economie-entreprises/classement-des-plus-grandes-banques-dafrique-centrale-equity-bcdc-toujours-a-la-poursuite-de-rawbank/)
+- [Moussa Batraki : « Le nucléaire est une option pour les pays africains »](https://www.jeuneafrique.com/1787246/economie-entreprises/moussa-batraki-le-nucleaire-est-une-option-pour-les-pays-africains/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
