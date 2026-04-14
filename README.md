@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 12:54*
+*Generato: 14 Apr 2026, 15:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,6 +40,32 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
+
+## TUNISIA ISTITUZIONI – INS – Communiqués de presse
+
+- [Commerce Extérieur aux prix courants, Mars 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mars-2026)
+- [Indice des prix à la consommation, Mars 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-mars-2026)
+- [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
+- [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
+- [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
+- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
+- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
+
+## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
+
+- [Accès à l'information](https://www.ins.tn/acces-information)
+- [Contact](https://www.ins.tn/contact)
+- [EN](https://www.ins.tn/en/calendar)
+- [AR](https://www.ins.tn/ar/calendar)
+- [Accueil](https://www.ins.tn/)
+- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
+- [Textes juridiques](https://www.ins.tn/textes-juridiques)
+- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
+- [Evènements](https://www.ins.tn/evenements)
+- [Calendrier de diffusion](https://www.ins.tn/calendar)
 
 ## UE – EP – Press Room
 
@@ -116,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisair lance une offre “Light” avec bagage cabine gratuit vers...](https://www.lapresse.tn/2026/04/14/tunisair-lance-une-offre-light-avec-bagage-cabine-gratuit-vers-ce-pays/)
-- [Fraises sur le marché : Le ministère de la Santé...](https://www.lapresse.tn/2026/04/14/fraises-sur-le-marche-le-ministere-de-la-sante-rassure-les-consommateurs/)
+- [Les USA réfléchissent à la possibilité d’interdire le transit du...](https://www.lapresse.tn/2026/04/14/les-usa-reflechissent-a-la-possibilite-dinterdire-le-transit-du-petrole-iranien-vers-les-pays-importateurs/)
+- [Les frappes meurtrières se poursuivent sur le Sud du Liban...](https://www.lapresse.tn/2026/04/14/les-frappes-meurtrieres-se-poursuivent-sur-le-sud-du-liban-une-dizaine-de-morts-et-plusieurs-blesses/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -190,7 +216,7 @@
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [A cinquant’anni dal golpe militare in Argentina. Le memorie di Enrico Calamai](https://www.cespi.it/it/eventi-note/eventi/cinquantanni-dal-golpe-militare-argentina-le-memorie-di-enrico-calamai)
-- [Migrazione: il parlamento europeo respinga il compromesso sul regolamento rimpatri e metta i minori al sicuro da violazioni sistematiche](https://www.cespi.it/it/eventi-note/comunicazioni/migrazione-il-parlamento-europeo-respinga-il-compromesso-sul-regolamento)
+- [AVVISO RICHIESTA PREVENTIVO PER RICHIESTA PERCORSO FORMATIVO CORSO DI PRIMO SOCCORSO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-richiesta-percorso-formativo-corso-di-primo-0)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -213,13 +239,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
+- [Présidentielle au Bénin : Romuald Wadagni élu président avec 94,05 % des voix](https://www.jeuneafrique.com/1788097/politique/presidentielle-au-benin-romuald-wadagni-elu-president-avec-9405-des-voix/)
 - [Côte d’Ivoire : Guillaume Soro et des proches de Gbagbo dans le viseur de la Russie](https://www.jeuneafrique.com/1786738/politique/cote-divoire-guillaume-soro-et-des-proches-de-gbagbo-dans-le-viseur-de-la-russie/)
 - [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
 - [Présidentielle au Bénin : Romuald Wadagni en passe d’être élu, Paul Hounkpè reconnait sa défaite](https://www.jeuneafrique.com/1788087/politique/presidentielle-au-benin-romuald-wadagni-en-passe-detre-elu-paul-hounkpe-reconnait-sa-defaite/)
 - [En Algérie, la visite du pape bousculée par un attentat à Blida](https://www.jeuneafrique.com/1788023/politique/en-algerie-la-visite-du-pape-bousculee-par-un-attentat-a-blida/)
 - [Au Tchad, pourquoi Mahamat Idriss Déby Itno a remanié la présidence](https://www.jeuneafrique.com/1787841/politique/au-tchad-pourquoi-mahamat-idriss-deby-itno-a-remanie-la-presidence/)
 - [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
-- [Maroc : une stratégie de plus en plus compatible avec celle de l’AES](https://www.jeuneafrique.com/1786623/politique/maroc-une-strategie-de-plus-en-plus-compatible-avec-celle-de-laes/)
 - [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
 - [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
 
