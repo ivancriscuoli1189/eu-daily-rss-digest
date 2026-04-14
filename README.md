@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 11:47*
+*Generato: 14 Apr 2026, 12:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -40,32 +40,6 @@
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
 - [Atti intimidatori nei confronti dei giornalisti](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-dei-giornalisti)
-
-## TUNISIA ISTITUZIONI – INS – Communiqués de presse
-
-- [Commerce Extérieur aux prix courants, Mars 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-mars-2026)
-- [Indice des prix à la consommation, Mars 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-mars-2026)
-- [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
-- [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
-- [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
-- [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
-- [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
-- [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
-
-## TUNISIA ISTITUZIONI – INS – Calendrier de diffusion
-
-- [Accès à l'information](https://www.ins.tn/acces-information)
-- [Contact](https://www.ins.tn/contact)
-- [EN](https://www.ins.tn/en/calendar)
-- [AR](https://www.ins.tn/ar/calendar)
-- [Accueil](https://www.ins.tn/)
-- [Présentation de l'INS](https://www.ins.tn/presentation-ins)
-- [Textes juridiques](https://www.ins.tn/textes-juridiques)
-- [Communiqués de presse](https://www.ins.tn/communique-de-presse)
-- [Evènements](https://www.ins.tn/evenements)
-- [Calendrier de diffusion](https://www.ins.tn/calendar)
 
 ## UE – EP – Press Room
 
@@ -142,8 +116,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [En raison des intempéries : les épreuves du « Bac Sport »...](https://www.lapresse.tn/2026/04/14/en-raison-des-intemperies-les-epreuves-du-bac-sport-suspendues-a-la-manouba/)
-- [Fin des recherches à Oued Medjerda : le corps du...](https://www.lapresse.tn/2026/04/14/fin-des-recherches-a-oued-medjerda-le-corps-du-jeune-disparu-retrouve-apres-11-jours/)
+- [Tunisair lance une offre “Light” avec bagage cabine gratuit vers...](https://www.lapresse.tn/2026/04/14/tunisair-lance-une-offre-light-avec-bagage-cabine-gratuit-vers-ce-pays/)
+- [Fraises sur le marché : Le ministère de la Santé...](https://www.lapresse.tn/2026/04/14/fraises-sur-le-marche-le-ministere-de-la-sante-rassure-les-consommateurs/)
 
 ## NGOs – Amnesty International – Tunisia
 
