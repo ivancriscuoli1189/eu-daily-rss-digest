@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 13 Apr 2026, 21:37*
+*Generato: 14 Apr 2026, 07:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
 - [Press conference on the MFF with lead MEPs on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260410IPR40515/press-conference-on-the-mff-with-lead-meps-on-tuesday-at-10-30)
 - [MEPs support digital vehicle registration documents to cut red tape](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40003/meps-support-digital-vehicle-registration-documents-to-cut-red-tape)
@@ -78,12 +79,11 @@
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
 - [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
 - [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
-- [EU funds to support 416 dismissed workers in Belgium to find employment](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38825/eu-funds-to-support-416-dismissed-workers-in-belgium-to-find-employment)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -174,15 +174,15 @@
 ## NGOs – International Commission of Jurists – News & Advocacy
 
 - [Rule of Law Under Strain in Eswatini: A Submission on Judicial Independence and Civic Space](https://www.icj.org/rule-of-law-under-strain-in-eswatini-a-submission-on-judicial-independence-and-civic-space/)
+- [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
 - [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
-- [ICJ Oral statement at HRC urgent debate on protection of children and schools in armed conflict](https://www.icj.org/icj-oral-statement-at-hrc-urgent-debate-on-protection-of-children-and-schools-in-armed-conflict/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
 - [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
-- [A Human Rights-Based Approach to Decriminalizing Conduct Associated with Poverty and Status](https://www.icj.org/a-human-rights-based-approach-to-decriminalizing-conduct-associated-with-poverty-and-status/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
+- [Présidentielle au Bénin : Romuald Wadagni en passe d’être élu, Paul Hounkpè reconnait sa défaite](https://www.jeuneafrique.com/1788087/politique/presidentielle-au-benin-romuald-wadagni-en-passe-detre-elu-paul-hounkpe-reconnait-sa-defaite/)
+- [En Algérie, la visite du pape bousculée par un attentat à Blida](https://www.jeuneafrique.com/1788023/politique/en-algerie-la-visite-du-pape-bousculee-par-un-attentat-a-blida/)
+- [Au Tchad, pourquoi Mahamat Idriss Déby Itno a remanié la présidence](https://www.jeuneafrique.com/1787841/politique/au-tchad-pourquoi-mahamat-idriss-deby-itno-a-remanie-la-presidence/)
 - [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
-- [Mali-Mauritanie : la forêt de Wagadou, sanctuaire jihadiste au cœur des tensions](https://www.jeuneafrique.com/1787253/politique/mali-mauritanie-la-foret-de-wagadou-sanctuaire-jihadiste-au-coeur-des-tensions/)
 - [Maroc : une stratégie de plus en plus compatible avec celle de l’AES](https://www.jeuneafrique.com/1786623/politique/maroc-une-strategie-de-plus-en-plus-compatible-avec-celle-de-laes/)
 - [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
 - [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
-- [« Madame la présidente » : au Cameroun, où s’arrête le pouvoir de Chantal Biya ?](https://www.jeuneafrique.com/1786531/politique/madame-la-presidente-au-cameroun-ou-sarrete-le-pouvoir-de-chantal-biya/)
-- [Donald Trump annonce un blocus naval du détroit d’Ormuz après l’échec des négociations avec l’Iran](https://www.jeuneafrique.com/1787724/politique/donald-trump-annonce-un-blocus-naval-du-detroit-dormuz-apres-lechec-des-negociations-avec-liran/)
-- [Guerre au Soudan : ceux qui permettent à Hemetti d’y croire encore](https://www.jeuneafrique.com/1786270/politique/guerre-au-soudan-ceux-qui-permettent-a-hemetti-dy-croire-encore/)
+- [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
 - [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
-- [Les premiers pas de George Elombi à la tête d’Afreximbank](https://www.jeuneafrique.com/1787428/economie-entreprises/les-premiers-pas-de-george-elombi-a-la-tete-dafreximbank/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
