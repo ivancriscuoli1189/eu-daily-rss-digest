@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 18:54*
+*Generato: 14 Apr 2026, 21:40*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [France : deux Tunisiens tués par balles en moins de...](https://www.lapresse.tn/2026/04/14/france-deux-tunisiens-tues-par-balles-en-moins-de-48-heures/)
-- [Réserves en devises : Des indicateurs influencés par un...](https://www.lapresse.tn/2026/04/14/reserves-en-devises-des-indicateurs-influences-par-un-contexte-international-volatil/)
+- [Parution du “Dictionnaire des féministes – Un siècle de féminisme...](https://www.lapresse.tn/2026/04/14/parution-du-dictionnaire-des-feministes-un-siecle-de-feminisme-en-tunisie/)
+- [Tunisie : démantèlement d’un réseau féminin de trafic de drogue...](https://www.lapresse.tn/2026/04/14/tunisie-demantelement-dun-reseau-feminin-de-trafic-de-drogue-ciblant-les-jeunes-a-djebel-lahmar/)
 
 ## NGOs – Amnesty International – Tunisia
 
