@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 07:14*
+*Generato: 14 Apr 2026, 10:04*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [2026 LUX Audience Award: press point after the ceremony](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40210/2026-lux-audience-award-press-point-after-the-ceremony)
 - [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
 - [Press conference on the MFF with lead MEPs on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260410IPR40515/press-conference-on-the-mff-with-lead-meps-on-tuesday-at-10-30)
@@ -78,7 +79,6 @@
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
 - [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
-- [€1.8 million EU support to help workers in Austria find a new job](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38823/EU1-8-million-eu-support-to-help-workers-in-austria-find-a-new-job)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Port de Kélibia : les pêcheurs alertent sur une situation...](https://www.lapresse.tn/2026/04/13/port-de-kelibia-les-pecheurs-alertent-sur-une-situation-critique/)
-- [Clôture du 15e FIFEJ de Sousse – La Perle d’Or...](https://www.lapresse.tn/2026/04/13/cloture-du-15e-fifej-de-sousse-la-perle-dor-a-irkalla-le-reve-de-gilgamesh/)
+- [Mondial 2026 : voici le calendrier des matchs de la...](https://www.lapresse.tn/2026/04/14/mondial-2026-voici-le-calendrier-des-matchs-de-la-tunisie/)
+- [Jusqu’à 4 000 euros pour rentrer : la colère des...](https://www.lapresse.tn/2026/04/14/jusqua-4-000-euros-pour-rentrer-la-colere-des-tunisiens-de-letranger/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
 - [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
 - [Présidentielle au Bénin : Romuald Wadagni en passe d’être élu, Paul Hounkpè reconnait sa défaite](https://www.jeuneafrique.com/1788087/politique/presidentielle-au-benin-romuald-wadagni-en-passe-detre-elu-paul-hounkpe-reconnait-sa-defaite/)
 - [En Algérie, la visite du pape bousculée par un attentat à Blida](https://www.jeuneafrique.com/1788023/politique/en-algerie-la-visite-du-pape-bousculee-par-un-attentat-a-blida/)
@@ -245,7 +246,6 @@
 - [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
 - [Maroc : une stratégie de plus en plus compatible avec celle de l’AES](https://www.jeuneafrique.com/1786623/politique/maroc-une-strategie-de-plus-en-plus-compatible-avec-celle-de-laes/)
 - [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
-- [Procès de la DZ Mafia : de très lourdes peines requises contre deux de ses chefs présumés](https://www.jeuneafrique.com/1787734/politique/proces-de-la-dz-mazia-de-tres-lourdes-peines-requises-contre-deux-de-ses-chefs-presumes/)
 - [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
 - [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
 
