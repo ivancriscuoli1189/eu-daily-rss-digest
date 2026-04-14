@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 15:59*
+*Generato: 14 Apr 2026, 18:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [“Deaf” wins the 2026 LUX Audience Award](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40209/deaf-wins-the-2026-lux-audience-award)
 - [2026 LUX Audience Award: press point after the ceremony](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40210/2026-lux-audience-award-press-point-after-the-ceremony)
 - [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
@@ -78,12 +79,11 @@
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 - [MEPs travel to China for first visit in eight years to focus on digital economy](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39402/meps-travel-to-china-for-first-visit-in-eight-years-to-focus-on-digital-economy)
-- [Child sexual abuse online: voluntary detection measures will not be extended](https://www.europarl.europa.eu/news/en/press-room/20260325IPR39207/child-sexual-abuse-online-voluntary-detection-measures-will-not-be-extended)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’hôpital du Kef bientôt doté du statut universitaire](https://www.lapresse.tn/2026/04/14/lhopital-du-kef-bientot-dote-du-statut-universitaire/)
-- [BTS: lancement d’une ligne de crédit sans intérêts pour les...](https://www.lapresse.tn/2026/04/14/bts-lancement-dune-ligne-de-credit-sans-interets-pour-les-petits-entrepreneurs/)
+- [France : deux Tunisiens tués par balles en moins de...](https://www.lapresse.tn/2026/04/14/france-deux-tunisiens-tues-par-balles-en-moins-de-48-heures/)
+- [Réserves en devises : Des indicateurs influencés par un...](https://www.lapresse.tn/2026/04/14/reserves-en-devises-des-indicateurs-influences-par-un-contexte-international-volatil/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Laâyoune, une visite française entre diplomatie onusienne et stratégie d’influence](https://www.jeuneafrique.com/1787991/politique/a-laayoune-une-visite-francaise-entre-diplomatie-onusienne-et-strategie-dinfluence/)
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
+- [Sénégal : pourquoi la fondation de Bassirou Diomaye Faye et de ses deux épouses fait polémique](https://www.jeuneafrique.com/1787878/politique/senegal-pourquoi-la-fondation-de-bassirou-diomaye-faye-et-de-ses-deux-epouses-fait-polemique/)
+- [Congo : qui est attendu à l’investiture XXL de Denis Sassou Nguesso ?](https://www.jeuneafrique.com/1787987/politique/congo-qui-est-attendu-a-linvestiture-xxl-de-denis-sassou-nguesso/)
 - [Présidentielle au Bénin : Romuald Wadagni élu président avec 94,05 % des voix](https://www.jeuneafrique.com/1788097/politique/presidentielle-au-benin-romuald-wadagni-elu-president-avec-9405-des-voix/)
 - [Vice-présidence au Cameroun : le RDPC, grand perdant de la réforme de Paul Biya ?](https://www.jeuneafrique.com/1787731/politique/vice-presidence-au-cameroun-le-rdpc-grand-perdant-de-la-reforme-de-paul-biya/)
 - [Côte d’Ivoire : Guillaume Soro et des proches de Gbagbo dans le viseur de la Russie](https://www.jeuneafrique.com/1786738/politique/cote-divoire-guillaume-soro-et-des-proches-de-gbagbo-dans-le-viseur-de-la-russie/)
 - [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
-- [Présidentielle au Bénin : Romuald Wadagni en passe d’être élu, Paul Hounkpè reconnait sa défaite](https://www.jeuneafrique.com/1788087/politique/presidentielle-au-benin-romuald-wadagni-en-passe-detre-elu-paul-hounkpe-reconnait-sa-defaite/)
-- [En Algérie, la visite du pape bousculée par un attentat à Blida](https://www.jeuneafrique.com/1788023/politique/en-algerie-la-visite-du-pape-bousculee-par-un-attentat-a-blida/)
-- [Au Tchad, pourquoi Mahamat Idriss Déby Itno a remanié la présidence](https://www.jeuneafrique.com/1787841/politique/au-tchad-pourquoi-mahamat-idriss-deby-itno-a-remanie-la-presidence/)
 - [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
 - [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
 
