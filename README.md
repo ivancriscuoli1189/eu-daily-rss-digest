@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 10:04*
+*Generato: 14 Apr 2026, 11:47*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mondial 2026 : voici le calendrier des matchs de la...](https://www.lapresse.tn/2026/04/14/mondial-2026-voici-le-calendrier-des-matchs-de-la-tunisie/)
-- [Jusqu’à 4 000 euros pour rentrer : la colère des...](https://www.lapresse.tn/2026/04/14/jusqua-4-000-euros-pour-rentrer-la-colere-des-tunisiens-de-letranger/)
+- [En raison des intempéries : les épreuves du « Bac Sport »...](https://www.lapresse.tn/2026/04/14/en-raison-des-intemperies-les-epreuves-du-bac-sport-suspendues-a-la-manouba/)
+- [Fin des recherches à Oued Medjerda : le corps du...](https://www.lapresse.tn/2026/04/14/fin-des-recherches-a-oued-medjerda-le-corps-du-jeune-disparu-retrouve-apres-11-jours/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,13 +239,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
+- [Côte d’Ivoire : Guillaume Soro et des proches de Gbagbo dans le viseur de la Russie](https://www.jeuneafrique.com/1786738/politique/cote-divoire-guillaume-soro-et-des-proches-de-gbagbo-dans-le-viseur-de-la-russie/)
 - [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
 - [Présidentielle au Bénin : Romuald Wadagni en passe d’être élu, Paul Hounkpè reconnait sa défaite](https://www.jeuneafrique.com/1788087/politique/presidentielle-au-benin-romuald-wadagni-en-passe-detre-elu-paul-hounkpe-reconnait-sa-defaite/)
 - [En Algérie, la visite du pape bousculée par un attentat à Blida](https://www.jeuneafrique.com/1788023/politique/en-algerie-la-visite-du-pape-bousculee-par-un-attentat-a-blida/)
 - [Au Tchad, pourquoi Mahamat Idriss Déby Itno a remanié la présidence](https://www.jeuneafrique.com/1787841/politique/au-tchad-pourquoi-mahamat-idriss-deby-itno-a-remanie-la-presidence/)
 - [Sansal contre Tebboune : la procédure judiciaire de Damoclès](https://www.jeuneafrique.com/1787843/politique/sansal-contre-tebboune-la-procedure-judiciaire-de-damocles/)
 - [Maroc : une stratégie de plus en plus compatible avec celle de l’AES](https://www.jeuneafrique.com/1786623/politique/maroc-une-strategie-de-plus-en-plus-compatible-avec-celle-de-laes/)
-- [Présidentielle au Bénin : le dépouillement a commencé, les résultats provisoires sont attendus en début de semaine](https://www.jeuneafrique.com/1787737/politique/presidentielle-au-benin-le-depouillement-a-commence-les-resultats-provisoires-sont-attendus-en-debut-de-semaine/)
 - [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
 - [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
 
