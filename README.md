@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 12:53*
+*Generato: 15 Apr 2026, 14:24*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -106,6 +106,19 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+
 ## UE – DG HOME – News
 
 - [bg български](https://home-affairs.ec.europa.eu/news_bg)
@@ -129,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Arrivées depuis hier, les deux éléphantes en provenance de Pologne...](https://www.lapresse.tn/2026/04/15/arrivees-depuis-hier-les-deux-elephantes-en-provenance-de-pologne-toujours-coincees-au-port-de-rades/)
-- [Tunisie : un événement artistique met en lumière la créativité...](https://www.lapresse.tn/2026/04/15/tunisie-un-evenement-artistique-met-en-lumiere-la-creativite-des-artistes-en-situation-de-handicap-photos/)
+- [Un membre de la FGEG-UGTT dénonce des irrégularités dans les...](https://www.lapresse.tn/2026/04/15/un-membre-de-la-fgeg-ugtt-denonce-des-irregularites-dans-les-projets-de-concessions-qui-menaceraient-la-steg/)
+- [Mamelodi Sundowns, privé de deux joueurs face à l’EST](https://www.lapresse.tn/2026/04/15/mamelodi-sundowns-prive-de-deux-joueurs-face-a-lest/)
 
 ## NGOs – Amnesty International – Tunisia
 
