@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 14 Apr 2026, 21:40*
+*Generato: 15 Apr 2026, 07:15*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Parution du “Dictionnaire des féministes – Un siècle de féminisme...](https://www.lapresse.tn/2026/04/14/parution-du-dictionnaire-des-feministes-un-siecle-de-feminisme-en-tunisie/)
-- [Tunisie : démantèlement d’un réseau féminin de trafic de drogue...](https://www.lapresse.tn/2026/04/14/tunisie-demantelement-dun-reseau-feminin-de-trafic-de-drogue-ciblant-les-jeunes-a-djebel-lahmar/)
+- [Vers un centre de transfusion au Burkina Faso avec l’appui...](https://www.lapresse.tn/2026/04/15/vers-un-centre-de-transfusion-au-burkina-faso-avec-lappui-tunisien/)
+- [Cybersécurité : la CCITF appelle les entreprises à une protection...](https://www.lapresse.tn/2026/04/14/cybersecurite-la-ccitf-appelle-les-entreprises-a-une-protection-integree-et-collective/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
 - [À Laâyoune, une visite française entre diplomatie onusienne et stratégie d’influence](https://www.jeuneafrique.com/1787991/politique/a-laayoune-une-visite-francaise-entre-diplomatie-onusienne-et-strategie-dinfluence/)
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
 - [Sénégal : pourquoi la fondation de Bassirou Diomaye Faye et de ses deux épouses fait polémique](https://www.jeuneafrique.com/1787878/politique/senegal-pourquoi-la-fondation-de-bassirou-diomaye-faye-et-de-ses-deux-epouses-fait-polemique/)
@@ -245,9 +246,8 @@
 - [Présidentielle au Bénin : Romuald Wadagni élu président avec 94,05 % des voix](https://www.jeuneafrique.com/1788097/politique/presidentielle-au-benin-romuald-wadagni-elu-president-avec-9405-des-voix/)
 - [Vice-présidence au Cameroun : le RDPC, grand perdant de la réforme de Paul Biya ?](https://www.jeuneafrique.com/1787731/politique/vice-presidence-au-cameroun-le-rdpc-grand-perdant-de-la-reforme-de-paul-biya/)
 - [Côte d’Ivoire : Guillaume Soro et des proches de Gbagbo dans le viseur de la Russie](https://www.jeuneafrique.com/1786738/politique/cote-divoire-guillaume-soro-et-des-proches-de-gbagbo-dans-le-viseur-de-la-russie/)
-- [Au Niger, la junte place sous sanctions Ouhoumoudou Mahamadou, ancien Premier ministre de Bazoum et proche d’Issoufou](https://www.jeuneafrique.com/1787952/politique/au-niger-la-junte-place-sous-sanctions-ouhoumoudou-mahamadou-ancien-premier-ministre-de-bazoum-et-proche-dissoufou/)
-- [MTN, Airtel, Starlink… La connexion entre satellite et téléphone a-t-elle vraiment un débouché en Afrique ?](https://www.jeuneafrique.com/1787334/economie-entreprises/mtn-airtel-starlink-la-connexion-entre-satellite-et-telephone-a-t-elle-vraiment-un-debouche-en-afrique/)
-- [Banque : entre Coris et Vista, la bataille des nouveaux venus sur le marché d’Afrique centrale](https://www.jeuneafrique.com/1786216/economie-entreprises/banque-entre-coris-et-vista-la-bataille-des-nouveaux-venus-sur-le-marche-dafrique-centrale/)
+- [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
+- [Congo : TotalEnergies renforce son bastion offshore avec une nouvelle découverte à Moho](https://www.jeuneafrique.com/1788298/economie-entreprises/congo-totalenergies-renforce-son-bastion-offshore-avec-une-nouvelle-decouverte-a-moho/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
