@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 14:24*
+*Generato: 15 Apr 2026, 15:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Un membre de la FGEG-UGTT dénonce des irrégularités dans les...](https://www.lapresse.tn/2026/04/15/un-membre-de-la-fgeg-ugtt-denonce-des-irregularites-dans-les-projets-de-concessions-qui-menaceraient-la-steg/)
-- [Mamelodi Sundowns, privé de deux joueurs face à l’EST](https://www.lapresse.tn/2026/04/15/mamelodi-sundowns-prive-de-deux-joueurs-face-a-lest/)
+- [Attijari bank : Croissance consolidée du PNB et offensive stratégique...](https://www.lapresse.tn/2026/04/15/attijari-bank-croissance-consolidee-du-pnb-et-offensive-strategique-au-premier-trimestre-2026/)
+- [Diabète de type 2 : les bénéfices du nouveau...](https://www.lapresse.tn/2026/04/15/diabete-de-type-2-les-benefices-du-nouveau-traitement-bientot-disponible-dans-les-pharmacies/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -196,6 +196,19 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
+
+## THINK TANK – ECFR – MENA
+
+- [The full monty: Why the Mediterranean pact needs to offer the works](https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/)
+- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
+- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
+- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
+- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
+- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 
 ## THINK TANK – CESPI – Attualità
 
