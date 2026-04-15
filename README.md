@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 11:45*
+*Generato: 15 Apr 2026, 12:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [EU long-term budget: MEPs want a 10% increase to support EU priorities](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40819/eu-long-term-budget-meps-want-a-10-increase-to-support-eu-priorities)
 - [Improved protection for workers against their exposure to chemicals](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40825/improved-protection-for-workers-against-their-exposure-to-chemicals)
 - [“Deaf” wins the 2026 LUX Audience Award](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40209/deaf-wins-the-2026-lux-audience-award)
 - [2026 LUX Audience Award: press point after the ceremony](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40210/2026-lux-audience-award-press-point-after-the-ceremony)
@@ -78,7 +79,19 @@
 - [MEPs support digital vehicle registration documents to cut red tape](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40003/meps-support-digital-vehicle-registration-documents-to-cut-red-tape)
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
-- [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
+
+## UE – EP – OEIL (Osservatorio Legislativo)
+
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [News](https://www.europarl.europa.eu/news/en)
+- [Topics](https://www.europarl.europa.eu/topics/en)
+- [MEPs](https://www.europarl.europa.eu/meps/en)
+- [About Parliament](https://www.europarl.europa.eu/about-parliament/en)
+- [Plenary](https://www.europarl.europa.eu/plenary/en)
+- [Committees](https://www.europarl.europa.eu/committees/en)
+- [Delegations](https://www.europarl.europa.eu/delegations/en)
+- [EU budget](https://eubudget.europarl.europa.eu/en)
 
 ## UE – Commission – News & media hub
 
@@ -92,19 +105,6 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
-
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le Géoparc Dahar officiellement inscrit sur la liste des géoparcs...](https://www.lapresse.tn/2026/04/15/le-geoparc-dahar-officiellement-inscrit-sur-la-liste-des-geoparcs-de-lunesco/)
-- [Inondations au Nord-Ouest : plusieurs localités à Jendouba isolées par...](https://www.lapresse.tn/2026/04/15/inondations-au-nord-ouest-plusieurs-localites-a-jendouba-isolees-par-la-crue-des-eaux/)
+- [Arrivées depuis hier, les deux éléphantes en provenance de Pologne...](https://www.lapresse.tn/2026/04/15/arrivees-depuis-hier-les-deux-elephantes-en-provenance-de-pologne-toujours-coincees-au-port-de-rades/)
+- [Tunisie : un événement artistique met en lumière la créativité...](https://www.lapresse.tn/2026/04/15/tunisie-un-evenement-artistique-met-en-lumiere-la-creativite-des-artistes-en-situation-de-handicap-photos/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -160,12 +160,12 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [ICJ Urges CEDAW To Address The Harmful Impact Of Criminal Laws On Women’s Rights](https://www.icj.org/icj-urges-cedaw-to-address-the-harmful-impact-of-criminal-laws-on-womens-rights/)
 - [Rule of Law Under Strain in Eswatini: A Submission on Judicial Independence and Civic Space](https://www.icj.org/rule-of-law-under-strain-in-eswatini-a-submission-on-judicial-independence-and-civic-space/)
 - [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
 - [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 - [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
-- [Russian Federation: Arbitrarily detained human rights lawyer Maria Bontsler must be released](https://www.icj.org/russian-federation-arbitrarily-detained-human-rights-lawyer-maria-bontsler-must-be-released/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
 - [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
@@ -183,19 +183,6 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
-
-## THINK TANK – ECFR – MENA
-
-- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
-- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
-- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
-- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
-- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
-- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
-- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
-- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
-- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
 
 ## THINK TANK – CESPI – Attualità
 
@@ -225,6 +212,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
 - [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
 - [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
 - [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
@@ -232,7 +220,6 @@
 - [À Laâyoune, une visite française entre diplomatie onusienne et stratégie d’influence](https://www.jeuneafrique.com/1787991/politique/a-laayoune-une-visite-francaise-entre-diplomatie-onusienne-et-strategie-dinfluence/)
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
 - [Sénégal : pourquoi la fondation de Bassirou Diomaye Faye et de ses deux épouses fait polémique](https://www.jeuneafrique.com/1787878/politique/senegal-pourquoi-la-fondation-de-bassirou-diomaye-faye-et-de-ses-deux-epouses-fait-polemique/)
-- [Congo : qui est attendu à l’investiture XXL de Denis Sassou Nguesso ?](https://www.jeuneafrique.com/1787987/politique/congo-qui-est-attendu-a-linvestiture-xxl-de-denis-sassou-nguesso/)
 - [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
 - [Congo : TotalEnergies renforce son bastion offshore avec une nouvelle découverte à Moho](https://www.jeuneafrique.com/1788298/economie-entreprises/congo-totalenergies-renforce-son-bastion-offshore-avec-une-nouvelle-decouverte-a-moho/)
 
