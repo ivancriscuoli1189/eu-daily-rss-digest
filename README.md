@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 15:57*
+*Generato: 15 Apr 2026, 18:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Attijari bank : Croissance consolidée du PNB et offensive stratégique...](https://www.lapresse.tn/2026/04/15/attijari-bank-croissance-consolidee-du-pnb-et-offensive-strategique-au-premier-trimestre-2026/)
-- [Diabète de type 2 : les bénéfices du nouveau...](https://www.lapresse.tn/2026/04/15/diabete-de-type-2-les-benefices-du-nouveau-traitement-bientot-disponible-dans-les-pharmacies/)
+- [Hausse des prix : Et si on boycottait ?](https://www.lapresse.tn/2026/04/15/hausse-des-prix-et-si-on-boycottait/)
+- [Cybersécurité : Une priorité pour garantir la résilience et la...](https://www.lapresse.tn/2026/04/15/cybersecurite-une-priorite-pour-garantir-la-resilience-et-la-perennite-de-lentreprise/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,13 +239,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
+- [Entre l’Iran et les États-Unis, pourquoi les juntes de l’AES ne veulent pas choisir](https://www.jeuneafrique.com/1787950/politique/entre-liran-et-les-etats-unis-pourquoi-les-juntes-de-laes-ne-veulent-pas-choisir/)
+- [Affaire Lamjarred : Laura Prioul relaxée dans le procès pour extorsion](https://www.jeuneafrique.com/1787999/politique/affaire-lamjarred-laura-prioul-relaxee-dans-le-proces-pour-extorsion/)
 - [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
 - [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
 - [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
 - [Au Mozambique, 5 questions pour comprendre la menace de retrait de l’armée rwandaise](https://www.jeuneafrique.com/1788095/politique/au-mozambique-5-questions-pour-comprendre-la-menace-de-retrait-de-larmee-rwandaise/)
 - [À Laâyoune, une visite française entre diplomatie onusienne et stratégie d’influence](https://www.jeuneafrique.com/1787991/politique/a-laayoune-une-visite-francaise-entre-diplomatie-onusienne-et-strategie-dinfluence/)
-- [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
-- [Sénégal : pourquoi la fondation de Bassirou Diomaye Faye et de ses deux épouses fait polémique](https://www.jeuneafrique.com/1787878/politique/senegal-pourquoi-la-fondation-de-bassirou-diomaye-faye-et-de-ses-deux-epouses-fait-polemique/)
 - [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
 - [Congo : TotalEnergies renforce son bastion offshore avec une nouvelle découverte à Moho](https://www.jeuneafrique.com/1788298/economie-entreprises/congo-totalenergies-renforce-son-bastion-offshore-avec-une-nouvelle-decouverte-a-moho/)
 
