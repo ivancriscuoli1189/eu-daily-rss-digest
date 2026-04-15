@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 10:07*
+*Generato: 15 Apr 2026, 11:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -80,19 +80,6 @@
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 - [LUX Audience Award: invitation to the ceremony and to interview finalists](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38803/lux-audience-award-invitation-to-the-ceremony-and-to-interview-finalists)
 
-## UE – EP – OEIL (Osservatorio Legislativo)
-
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
-- [News](https://www.europarl.europa.eu/news/en)
-- [Topics](https://www.europarl.europa.eu/topics/en)
-- [MEPs](https://www.europarl.europa.eu/meps/en)
-- [About Parliament](https://www.europarl.europa.eu/about-parliament/en)
-- [Plenary](https://www.europarl.europa.eu/plenary/en)
-- [Committees](https://www.europarl.europa.eu/committees/en)
-- [Delegations](https://www.europarl.europa.eu/delegations/en)
-- [EU budget](https://eubudget.europarl.europa.eu/en)
-
 ## UE – Commission – News & media hub
 
 - [bg български](https://commission.europa.eu/news-and-media_bg)
@@ -142,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Publication du Référentiel tunisien des métiers et des compétences](https://www.lapresse.tn/2026/04/15/publication-du-referentiel-tunisien-des-metiers-et-des-competences/)
-- [7e édition du séminaire sur l’Électromobilité : BNA Assurances, première...](https://www.lapresse.tn/2026/04/15/7e-edition-du-seminaire-sur-lelectromobilite-bna-assurances-premiere-institution-financiere-a-deployer-des-bornes-de-recharge-gratuites/)
+- [Le Géoparc Dahar officiellement inscrit sur la liste des géoparcs...](https://www.lapresse.tn/2026/04/15/le-geoparc-dahar-officiellement-inscrit-sur-la-liste-des-geoparcs-de-lunesco/)
+- [Inondations au Nord-Ouest : plusieurs localités à Jendouba isolées par...](https://www.lapresse.tn/2026/04/15/inondations-au-nord-ouest-plusieurs-localites-a-jendouba-isolees-par-la-crue-des-eaux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,13 +184,26 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
+- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
+- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
+- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
+- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
+- [Friends-and-family diplomacy: Lessons for Europe from Gaza and Ukraine](https://ecfr.eu/article/friends-and-family-diplomacy-lessons-for-europe-from-gaza-and-ukraine/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
 - [A cinquant’anni dal golpe militare in Argentina. Le memorie di Enrico Calamai](https://www.cespi.it/it/eventi-note/eventi/cinquantanni-dal-golpe-militare-argentina-le-memorie-di-enrico-calamai)
-- [AVVISO RICHIESTA PREVENTIVO PER RICHIESTA PERCORSO FORMATIVO CORSO DI PRIMO SOCCORSO](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-richiesta-percorso-formativo-corso-di-primo-0)
+- [AVVISO RICHIESTA PREVENTIVO PER CORSO HACCP RISCHIO 2](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-corso-haccp-rischio-2)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
 - [Chi siamo](https://www.cespi.it/it/chi-siamo)
@@ -225,6 +225,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
 - [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
 - [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
 - [Au Mozambique, 5 questions pour comprendre la menace de retrait de l’armée rwandaise](https://www.jeuneafrique.com/1788095/politique/au-mozambique-5-questions-pour-comprendre-la-menace-de-retrait-de-larmee-rwandaise/)
@@ -232,7 +233,6 @@
 - [CAN 2025 : la justice marocaine confirme les peines de prison des 18 supporters sénégalais](https://www.jeuneafrique.com/1788106/politique/can-2025-la-justice-marocaine-confirme-les-peines-de-prison-des-18-supporters-senegalais/)
 - [Sénégal : pourquoi la fondation de Bassirou Diomaye Faye et de ses deux épouses fait polémique](https://www.jeuneafrique.com/1787878/politique/senegal-pourquoi-la-fondation-de-bassirou-diomaye-faye-et-de-ses-deux-epouses-fait-polemique/)
 - [Congo : qui est attendu à l’investiture XXL de Denis Sassou Nguesso ?](https://www.jeuneafrique.com/1787987/politique/congo-qui-est-attendu-a-linvestiture-xxl-de-denis-sassou-nguesso/)
-- [Présidentielle au Bénin : Romuald Wadagni élu président avec 94,05 % des voix](https://www.jeuneafrique.com/1788097/politique/presidentielle-au-benin-romuald-wadagni-elu-president-avec-9405-des-voix/)
 - [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
 - [Congo : TotalEnergies renforce son bastion offshore avec une nouvelle découverte à Moho](https://www.jeuneafrique.com/1788298/economie-entreprises/congo-totalenergies-renforce-son-bastion-offshore-avec-une-nouvelle-decouverte-a-moho/)
 
