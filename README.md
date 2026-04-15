@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 18:56*
+*Generato: 15 Apr 2026, 21:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Hausse des prix : Et si on boycottait ?](https://www.lapresse.tn/2026/04/15/hausse-des-prix-et-si-on-boycottait/)
-- [Cybersécurité : Une priorité pour garantir la résilience et la...](https://www.lapresse.tn/2026/04/15/cybersecurite-une-priorite-pour-garantir-la-resilience-et-la-perennite-de-lentreprise/)
+- [Jendouba : déclenchement des sirènes et décharge contrôlée du barrage...](https://www.lapresse.tn/2026/04/15/jendouba-declenchement-des-sirenes-et-decharge-controlee-du-barrage-de-beni-mtir/)
+- [La Tunisie participera pour la première fois à la Coupe...](https://www.lapresse.tn/2026/04/15/la-tunisie-participera-pour-la-premiere-fois-a-la-coupe-du-monde-des-start-up-a-san-francisco/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -158,31 +158,18 @@
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
 
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
 - [ICJ Urges CEDAW To Address The Harmful Impact Of Criminal Laws On Women’s Rights](https://www.icj.org/icj-urges-cedaw-to-address-the-harmful-impact-of-criminal-laws-on-womens-rights/)
 - [Rule of Law Under Strain in Eswatini: A Submission on Judicial Independence and Civic Space](https://www.icj.org/rule-of-law-under-strain-in-eswatini-a-submission-on-judicial-independence-and-civic-space/)
 - [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
 - [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
-- [ICJ hosts an African Regional Convening in Kenya on Transformative Equality Jurisprudence](https://www.icj.org/icj-hosts-an-african-regional-convening-in-kenya-on-transformative-equality-jurisprudence/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
 - [El Salvador: Crimes against humanity within the framework of public security policy](https://www.icj.org/el-salvador-crimes-against-humanity-within-the-framework-of-public-security-policy/)
-- [HRC61: Joint oral statement of The ICJ in the interactive dialogue with the Special Rapporteur on Counter-terrorism and Human Rights](https://www.icj.org/hrc61-joint-oral-statement-of-the-icj-in-the-interactive-dialogue-with-the-special-rapporteur-on-counter-terrorism-and-human-rights/)
 
 ## THINK TANK – Carnegie MENA – Research
 
