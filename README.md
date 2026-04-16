@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 15 Apr 2026, 21:41*
+*Generato: 16 Apr 2026, 07:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Sidi Hussein : un père arrêté après une tentative d’immolation...](https://www.lapresse.tn/2026/04/15/sidi-hussein-un-pere-arrete-apres-une-tentative-dimmolation-visant-ses-deux-filles/)
 - [Jendouba : déclenchement des sirènes et décharge contrôlée du barrage...](https://www.lapresse.tn/2026/04/15/jendouba-declenchement-des-sirenes-et-decharge-controlee-du-barrage-de-beni-mtir/)
-- [La Tunisie participera pour la première fois à la Coupe...](https://www.lapresse.tn/2026/04/15/la-tunisie-participera-pour-la-premiere-fois-a-la-coupe-du-monde-des-start-up-a-san-francisco/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -226,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
+- [Vice-présidence au Cameroun : une promulgation, mais pas encore de nomination](https://www.jeuneafrique.com/1788199/politique/vice-presidence-au-cameroun-une-promulgation-mais-pas-encore-de-nomination/)
 - [Entre l’Iran et les États-Unis, pourquoi les juntes de l’AES ne veulent pas choisir](https://www.jeuneafrique.com/1787950/politique/entre-liran-et-les-etats-unis-pourquoi-les-juntes-de-laes-ne-veulent-pas-choisir/)
 - [Affaire Lamjarred : Laura Prioul relaxée dans le procès pour extorsion](https://www.jeuneafrique.com/1787999/politique/affaire-lamjarred-laura-prioul-relaxee-dans-le-proces-pour-extorsion/)
+- [Léon XIV au Cameroun : pourquoi la visite du pape chez Paul Biya est historique](https://www.jeuneafrique.com/1787957/politique/leon-xiv-au-cameroun-pourquoi-la-visite-du-pape-chez-paul-biya-est-historique/)
 - [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
 - [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
 - [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
-- [Au Mozambique, 5 questions pour comprendre la menace de retrait de l’armée rwandaise](https://www.jeuneafrique.com/1788095/politique/au-mozambique-5-questions-pour-comprendre-la-menace-de-retrait-de-larmee-rwandaise/)
-- [À Laâyoune, une visite française entre diplomatie onusienne et stratégie d’influence](https://www.jeuneafrique.com/1787991/politique/a-laayoune-une-visite-francaise-entre-diplomatie-onusienne-et-strategie-dinfluence/)
+- [Comment la famille Kirubi prépare « l’après-Kirubi » au sein de Haco Industries](https://www.jeuneafrique.com/1788382/economie-entreprises/comment-la-famille-kirubi-prepare-lapres-kirubi-au-sein-de-haco-industries/)
 - [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
-- [Congo : TotalEnergies renforce son bastion offshore avec une nouvelle découverte à Moho](https://www.jeuneafrique.com/1788298/economie-entreprises/congo-totalenergies-renforce-son-bastion-offshore-avec-une-nouvelle-decouverte-a-moho/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
