@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Apr 2026, 07:16*
+*Generato: 16 Apr 2026, 10:06*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sidi Hussein : un père arrêté après une tentative d’immolation...](https://www.lapresse.tn/2026/04/15/sidi-hussein-un-pere-arrete-apres-une-tentative-dimmolation-visant-ses-deux-filles/)
-- [Jendouba : déclenchement des sirènes et décharge contrôlée du barrage...](https://www.lapresse.tn/2026/04/15/jendouba-declenchement-des-sirenes-et-decharge-controlee-du-barrage-de-beni-mtir/)
+- [Jardins d’enfants : le ministère dénonce les classes préparatoires illégales](https://www.lapresse.tn/2026/04/16/jardins-denfants-le-ministere-denonce-les-classes-preparatoires-illegales/)
+- [Fortes précipitations : jusqu’à 89 mm enregistrés à Aïn Draham...](https://www.lapresse.tn/2026/04/16/fortes-precipitations-jusqua-89-mm-enregistres-a-ain-draham-au-cours-des-dernieres-24-heures/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
 - [Vice-présidence au Cameroun : une promulgation, mais pas encore de nomination](https://www.jeuneafrique.com/1788199/politique/vice-presidence-au-cameroun-une-promulgation-mais-pas-encore-de-nomination/)
 - [Entre l’Iran et les États-Unis, pourquoi les juntes de l’AES ne veulent pas choisir](https://www.jeuneafrique.com/1787950/politique/entre-liran-et-les-etats-unis-pourquoi-les-juntes-de-laes-ne-veulent-pas-choisir/)
@@ -245,9 +246,8 @@
 - [Léon XIV au Cameroun : pourquoi la visite du pape chez Paul Biya est historique](https://www.jeuneafrique.com/1787957/politique/leon-xiv-au-cameroun-pourquoi-la-visite-du-pape-chez-paul-biya-est-historique/)
 - [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
 - [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
-- [De Notre-Dame d’Afrique à Bab El Oued, le premier jour de Léon XIV en Algérie](https://www.jeuneafrique.com/1788203/politique/de-notre-dame-dafrique-a-bab-el-oued-le-premier-jour-de-leon-xiv-en-algerie/)
+- [Ajay Banga, le banquier funambule face au rouleau compresseur Trump](https://www.jeuneafrique.com/1788249/economie-entreprises/ajay-banga-le-banquier-funambule-face-au-rouleau-compresseur-trump/)
 - [Comment la famille Kirubi prépare « l’après-Kirubi » au sein de Haco Industries](https://www.jeuneafrique.com/1788382/economie-entreprises/comment-la-famille-kirubi-prepare-lapres-kirubi-au-sein-de-haco-industries/)
-- [Ecobank : ce qu’il faut retenir des résultats record de 2025](https://www.jeuneafrique.com/1788259/economie-entreprises/ecobank-ce-quil-faut-retenir-des-resultats-record-de-2025/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
