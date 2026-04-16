@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Apr 2026, 10:06*
+*Generato: 16 Apr 2026, 11:48*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,12 +30,12 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
+- [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
 - [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
 - [Atti intimidatori nei confronti degli amministratori locali](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali)
-- [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
 - [Tratta degli esseri umani in Italia](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/tratta-esseri-umani-italia)
 - [Atti intimidatori nei confronti degli amministratori locali - Archivio](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/atti-intimidatori-nei-confronti-amministratori-locali-archivio)
 - [Reati a sfondo sessuale con vittime minorenni](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/reati-sfondo-sessuale-vittime-minorenni)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Jardins d’enfants : le ministère dénonce les classes préparatoires illégales](https://www.lapresse.tn/2026/04/16/jardins-denfants-le-ministere-denonce-les-classes-preparatoires-illegales/)
-- [Fortes précipitations : jusqu’à 89 mm enregistrés à Aïn Draham...](https://www.lapresse.tn/2026/04/16/fortes-precipitations-jusqua-89-mm-enregistres-a-ain-draham-au-cours-des-dernieres-24-heures/)
+- [Illégalement exploité par un investisseur italien, récupération d’un terrain domanial...](https://www.lapresse.tn/2026/04/16/illegalement-exploite-par-un-investisseur-italien-recuperation-dun-terrain-domanial-de-55-hectares-a-enfidha/)
+- [Tunisie : un parcours de santé olympique au parc d’Ennahli,...](https://www.lapresse.tn/2026/04/16/tunisie-un-parcours-de-sante-olympique-au-parc-dennahli-symbole-dun-sport-durable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,19 +157,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -238,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
+- [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
 - [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
+- [Au Burkina Faso, le projet de loi sur la laïcité fracture le camp Traoré](https://www.jeuneafrique.com/1788299/politique/au-burkina-faso-le-projet-de-loi-sur-la-laicite-fracture-le-camp-traore/)
+- [Tiéman Hubert Coulibaly : « Le Mali est une dictature où la justice est aux ordres »](https://www.jeuneafrique.com/1788271/politique/tieman-hubert-coulibaly-le-mali-est-une-dictature-ou-la-justice-est-aux-ordres/)
 - [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
 - [Vice-présidence au Cameroun : une promulgation, mais pas encore de nomination](https://www.jeuneafrique.com/1788199/politique/vice-presidence-au-cameroun-une-promulgation-mais-pas-encore-de-nomination/)
 - [Entre l’Iran et les États-Unis, pourquoi les juntes de l’AES ne veulent pas choisir](https://www.jeuneafrique.com/1787950/politique/entre-liran-et-les-etats-unis-pourquoi-les-juntes-de-laes-ne-veulent-pas-choisir/)
-- [Affaire Lamjarred : Laura Prioul relaxée dans le procès pour extorsion](https://www.jeuneafrique.com/1787999/politique/affaire-lamjarred-laura-prioul-relaxee-dans-le-proces-pour-extorsion/)
-- [Léon XIV au Cameroun : pourquoi la visite du pape chez Paul Biya est historique](https://www.jeuneafrique.com/1787957/politique/leon-xiv-au-cameroun-pourquoi-la-visite-du-pape-chez-paul-biya-est-historique/)
-- [RDC : la fronde venue de la majorité qui menace Jacquemain Shabani](https://www.jeuneafrique.com/1788282/politique/rdc-la-fronde-venue-de-ludps-qui-menace-jacquemain-shabani/)
-- [Vice-présidence au Cameroun : René Zé Nguélé, le doyen qui a osé critiquer la réforme de Paul Biya](https://www.jeuneafrique.com/1787512/politique/vice-presidence-au-cameroun-rene-ze-nguele-le-doyen-qui-a-ose-critiquer-la-reforme-de-paul-biya/)
+- [Sénégal : le FMI durcit encore son diagnostic sur une économie déjà fragilisée](https://www.jeuneafrique.com/1788482/economie-entreprises/senegal-le-fmi-durcit-encore-son-diagnostic-sur-une-economie-deja-fragilisee/)
 - [Ajay Banga, le banquier funambule face au rouleau compresseur Trump](https://www.jeuneafrique.com/1788249/economie-entreprises/ajay-banga-le-banquier-funambule-face-au-rouleau-compresseur-trump/)
-- [Comment la famille Kirubi prépare « l’après-Kirubi » au sein de Haco Industries](https://www.jeuneafrique.com/1788382/economie-entreprises/comment-la-famille-kirubi-prepare-lapres-kirubi-au-sein-de-haco-industries/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
