@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Apr 2026, 16:14*
+*Generato: 16 Apr 2026, 18:55*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : jusqu’à 200 mm de pluie enregistrés, fin progressive...](https://www.lapresse.tn/2026/04/16/tunisie-jusqua-200-mm-de-pluie-enregistres-fin-progressive-des-perturbations-meteorologiques/)
-- [Pourquoi les élèves oublient-ils tout le jour de l’examen ?](https://www.lapresse.tn/2026/04/16/pourquoi-les-eleves-oublient-ils-tout-le-jour-de-lexamen/)
+- [EST – La délégation débarque aujourd’hui à Pretoria : D’autres...](https://www.lapresse.tn/2026/04/16/est-la-delegation-debarque-aujourdhui-a-pretoria-dautres-cartes-a-jouer/)
+- [Pratiques commerciales illicites : Banalisation de l’arnaque et de l’escroquerie](https://www.lapresse.tn/2026/04/16/pratiques-commerciales-illicites-banalisation-de-larnaque-et-de-lescroquerie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -241,13 +241,13 @@
 - [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
 - [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
 - [Mauritanie-France : la sécurité au menu du premier jour de la visite de Mohamed Ould Ghazouani](https://www.jeuneafrique.com/1788785/politique/mauritanie-france-la-securite-au-menu-du-premier-jour-de-la-visite-de-mohamed-ould-ghazouani/)
+- [Gabon : pourquoi l’opposant Alain-Claude Bilie-By-Nze a été arrêté à Libreville](https://www.jeuneafrique.com/1788771/politique/au-gabon-lopposant-alain-claude-bilie-by-nze-arrete-par-les-renseignements-militaires/)
 - [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Kemi Seba arrêté en Afrique du Sud : l’activiste pourrait être extradé vers le Bénin](https://www.jeuneafrique.com/1788734/politique/kemi-seba-arrete-en-afrique-du-sud-lactiviste-pourrait-etre-extrade-vers-le-benin/)
 - [Au Burkina Faso, le projet de loi sur la laïcité fracture le camp Traoré](https://www.jeuneafrique.com/1788299/politique/au-burkina-faso-le-projet-de-loi-sur-la-laicite-fracture-le-camp-traore/)
 - [Tiéman Hubert Coulibaly : « Le Mali est une dictature où la justice est aux ordres »](https://www.jeuneafrique.com/1788271/politique/tieman-hubert-coulibaly-le-mali-est-une-dictature-ou-la-justice-est-aux-ordres/)
-- [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
+- [Boissons : pourquoi les géants revoient leur stratégie en Afrique](https://www.jeuneafrique.com/1788768/economie-entreprises/boissons-pourquoi-les-geants-revoient-leur-strategie-en-afrique/)
 - [Abidjan et Dakar, deux aéroports au coude-à-coude pour le leadership ouest-africain](https://www.jeuneafrique.com/1788414/economie-entreprises/abidjan-et-dakar-deux-aeroports-au-coude-a-coude-pour-le-leadership-ouest-africain/)
-- [Sénégal : le FMI durcit encore son diagnostic sur une économie déjà fragilisée](https://www.jeuneafrique.com/1788482/economie-entreprises/senegal-le-fmi-durcit-encore-son-diagnostic-sur-une-economie-deja-fragilisee/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
