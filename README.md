@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Apr 2026, 11:48*
+*Generato: 16 Apr 2026, 12:58*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Illégalement exploité par un investisseur italien, récupération d’un terrain domanial...](https://www.lapresse.tn/2026/04/16/illegalement-exploite-par-un-investisseur-italien-recuperation-dun-terrain-domanial-de-55-hectares-a-enfidha/)
-- [Tunisie : un parcours de santé olympique au parc d’Ennahli,...](https://www.lapresse.tn/2026/04/16/tunisie-un-parcours-de-sante-olympique-au-parc-dennahli-symbole-dun-sport-durable/)
+- [Ayant une odeur et un goût altérés : l’INSSPA ordonne...](https://www.lapresse.tn/2026/04/16/ayant-une-odeur-et-un-gout-alteres-linsspa-ordonne-la-saisie-et-la-suspension-de-distribution-de-quantites-de-lait/)
+- [Mondial de Taekwondo (U19) : Adam Dejbi éliminé dans la...](https://www.lapresse.tn/2026/04/16/mondial-de-taekwondo-u19-adam-dejbi-elimine-dans-la-categorie-des-moins-63-kg/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -227,14 +240,14 @@
 
 - [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
 - [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
+- [Mauritanie-France : la sécurité au menu du premier jour de la visite de Mohamed Ould Ghazouani](https://www.jeuneafrique.com/1788785/politique/mauritanie-france-la-securite-au-menu-du-premier-jour-de-la-visite-de-mohamed-ould-ghazouani/)
 - [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Au Burkina Faso, le projet de loi sur la laïcité fracture le camp Traoré](https://www.jeuneafrique.com/1788299/politique/au-burkina-faso-le-projet-de-loi-sur-la-laicite-fracture-le-camp-traore/)
 - [Tiéman Hubert Coulibaly : « Le Mali est une dictature où la justice est aux ordres »](https://www.jeuneafrique.com/1788271/politique/tieman-hubert-coulibaly-le-mali-est-une-dictature-ou-la-justice-est-aux-ordres/)
 - [Zeghidi, Bsaies, Dahmani, Tabib, Khiari… Nouvelle vague de procès et de condamnations en Tunisie](https://www.jeuneafrique.com/1788283/politique/zeghidi-bsaies-dahmani-tabib-khiari-nouvelle-vague-de-proces-et-de-condamnations-en-tunisie/)
 - [Vice-présidence au Cameroun : une promulgation, mais pas encore de nomination](https://www.jeuneafrique.com/1788199/politique/vice-presidence-au-cameroun-une-promulgation-mais-pas-encore-de-nomination/)
-- [Entre l’Iran et les États-Unis, pourquoi les juntes de l’AES ne veulent pas choisir](https://www.jeuneafrique.com/1787950/politique/entre-liran-et-les-etats-unis-pourquoi-les-juntes-de-laes-ne-veulent-pas-choisir/)
+- [Abidjan et Dakar, deux aéroports au coude-à-coude pour le leadership ouest-africain](https://www.jeuneafrique.com/1788414/economie-entreprises/abidjan-et-dakar-deux-aeroports-au-coude-a-coude-pour-le-leadership-ouest-africain/)
 - [Sénégal : le FMI durcit encore son diagnostic sur une économie déjà fragilisée](https://www.jeuneafrique.com/1788482/economie-entreprises/senegal-le-fmi-durcit-encore-son-diagnostic-sur-une-economie-deja-fragilisee/)
-- [Ajay Banga, le banquier funambule face au rouleau compresseur Trump](https://www.jeuneafrique.com/1788249/economie-entreprises/ajay-banga-le-banquier-funambule-face-au-rouleau-compresseur-trump/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
