@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 10:02*
+*Generato: 17 Apr 2026, 11:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Tunisie mise sur le label « Halal » pour conquérir les...](https://www.lapresse.tn/2026/04/17/la-tunisie-mise-sur-le-label-halal-pour-conquerir-les-marches-mondiaux/)
-- [Le pétrole redescend sous la barre des 100 dollars](https://www.lapresse.tn/2026/04/17/le-petrole-redescend-sous-la-barre-des-100-dollars/)
+- [Polémique autour des classes préparatoires : les précisions de la...](https://www.lapresse.tn/2026/04/17/polemique-autour-des-classes-preparatoires-les-precisions-de-la-presidente-de-la-chambre-nationale-des-jardins-denfants-et-des-creches/)
+- [Nouveau coup de filet : un dealer opérant aux abords...](https://www.lapresse.tn/2026/04/17/nouveau-coup-de-filet-un-dealer-operant-aux-abords-des-etablissements-scolaires-derriere-les-verroux/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Loi française sur les restitutions : pour Alger, le compte n’y est pas](https://www.jeuneafrique.com/1788852/politique/loi-francaise-sur-les-restitutions-pour-alger-le-compte-ny-est-pas/)
 - [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
 - [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
 - [Finances de la CAF : la CAN tous les quatre ans, un suicide économique ?](https://www.jeuneafrique.com/1788638/politique/finances-de-la-caf-la-can-tous-les-quatre-ans-un-suicide-economique/)
@@ -232,7 +233,6 @@
 - [Gabon : pourquoi l’opposant Alain-Claude Bilie-By-Nze a été arrêté à Libreville](https://www.jeuneafrique.com/1788771/politique/au-gabon-lopposant-alain-claude-bilie-by-nze-arrete-par-les-renseignements-militaires/)
 - [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Kemi Seba arrêté en Afrique du Sud : l’activiste pourrait être extradé vers le Bénin](https://www.jeuneafrique.com/1788734/politique/kemi-seba-arrete-en-afrique-du-sud-lactiviste-pourrait-etre-extrade-vers-le-benin/)
-- [Léon XIV au Cameroun : le pape peut-il ouvrir le dialogue entre Yaoundé et les séparatistes ?](https://www.jeuneafrique.com/1788556/politique/cameroun-la-visite-du-pape-ravive-les-espoirs-des-leaders-separatistes-anglophones/)
 - [Maroc : OCP lève 1,5 milliard de dollars via un emprunt international, une opération financière « historique »](https://www.jeuneafrique.com/1789189/economie-entreprises/maroc-ocp-leve-15-milliard-de-dollars-via-un-emprunt-international-une-operation-financiere-historique/)
 - [Boissons : pourquoi les géants revoient leur stratégie en Afrique](https://www.jeuneafrique.com/1788768/economie-entreprises/boissons-pourquoi-les-geants-revoient-leur-strategie-en-afrique/)
 
