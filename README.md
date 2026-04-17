@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 16 Apr 2026, 21:33*
+*Generato: 17 Apr 2026, 07:16*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [EST – La délégation débarque aujourd’hui à Pretoria : D’autres...](https://www.lapresse.tn/2026/04/16/est-la-delegation-debarque-aujourdhui-a-pretoria-dautres-cartes-a-jouer/)
-- [Pratiques commerciales illicites : Banalisation de l’arnaque et de l’escroquerie](https://www.lapresse.tn/2026/04/16/pratiques-commerciales-illicites-banalisation-de-larnaque-et-de-lescroquerie/)
+- [Tunisie : Augmenter les salaires… et faire grimper les prix...](https://www.lapresse.tn/2026/04/17/tunisie-augmenter-les-salaires-et-faire-grimper-les-prix/)
+- [L’Espérance arrive en Afrique du Sud avant le choc face...](https://www.lapresse.tn/2026/04/16/lesperance-arrive-en-afrique-du-sud-avant-le-choc-face-a-mamelodi-sundowns/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -227,14 +240,14 @@
 
 - [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
 - [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
+- [Finances de la CAF : la CAN tous les quatre ans, un suicide économique ?](https://www.jeuneafrique.com/1788638/politique/finances-de-la-caf-la-can-tous-les-quatre-ans-un-suicide-economique/)
 - [Mauritanie-France : la sécurité au menu du premier jour de la visite de Mohamed Ould Ghazouani](https://www.jeuneafrique.com/1788785/politique/mauritanie-france-la-securite-au-menu-du-premier-jour-de-la-visite-de-mohamed-ould-ghazouani/)
 - [Gabon : pourquoi l’opposant Alain-Claude Bilie-By-Nze a été arrêté à Libreville](https://www.jeuneafrique.com/1788771/politique/au-gabon-lopposant-alain-claude-bilie-by-nze-arrete-par-les-renseignements-militaires/)
 - [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Kemi Seba arrêté en Afrique du Sud : l’activiste pourrait être extradé vers le Bénin](https://www.jeuneafrique.com/1788734/politique/kemi-seba-arrete-en-afrique-du-sud-lactiviste-pourrait-etre-extrade-vers-le-benin/)
-- [Au Burkina Faso, le projet de loi sur la laïcité fracture le camp Traoré](https://www.jeuneafrique.com/1788299/politique/au-burkina-faso-le-projet-de-loi-sur-la-laicite-fracture-le-camp-traore/)
-- [Tiéman Hubert Coulibaly : « Le Mali est une dictature où la justice est aux ordres »](https://www.jeuneafrique.com/1788271/politique/tieman-hubert-coulibaly-le-mali-est-une-dictature-ou-la-justice-est-aux-ordres/)
+- [Léon XIV au Cameroun : le pape peut-il ouvrir le dialogue entre Yaoundé et les séparatistes ?](https://www.jeuneafrique.com/1788556/politique/cameroun-la-visite-du-pape-ravive-les-espoirs-des-leaders-separatistes-anglophones/)
+- [Maroc : OCP lève 1,5 milliard de dollars via un emprunt international, une opération financière « historique »](https://www.jeuneafrique.com/1789189/economie-entreprises/maroc-ocp-leve-15-milliard-de-dollars-via-un-emprunt-international-une-operation-financiere-historique/)
 - [Boissons : pourquoi les géants revoient leur stratégie en Afrique](https://www.jeuneafrique.com/1788768/economie-entreprises/boissons-pourquoi-les-geants-revoient-leur-strategie-en-afrique/)
-- [Abidjan et Dakar, deux aéroports au coude-à-coude pour le leadership ouest-africain](https://www.jeuneafrique.com/1788414/economie-entreprises/abidjan-et-dakar-deux-aeroports-au-coude-a-coude-pour-le-leadership-ouest-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
