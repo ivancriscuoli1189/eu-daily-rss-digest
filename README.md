@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 15:46*
+*Generato: 17 Apr 2026, 18:39*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pêche au thon rouge 2026 : les quotas officiels et...](https://www.lapresse.tn/2026/04/17/peche-au-thon-rouge-2026-les-quotas-officiels-et-les-tarifs-fixes/)
-- [Moez ben Zaghdane: » les perspectives sont prometteuses pour les...](https://www.lapresse.tn/2026/04/17/moez-ben-zaghdane-les-perspectives-sont-prometteuses-pour-les-grandes-cultures-et-loleiculture/)
+- [Rjim Maatoug : Un nouvel élan pour l’artisanat et l’autonomisation...](https://www.lapresse.tn/2026/04/17/rjim-maatoug-un-nouvel-elan-pour-lartisanat-et-lautonomisation-des-femmes-rurales/)
+- [Choc énergétique mondial : La Tunisie face à une inflation...](https://www.lapresse.tn/2026/04/17/choc-energetique-mondial-la-tunisie-face-a-une-inflation-importee-multisectorielle/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,6 +225,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [RDC : 15 migrants en situation irrégulière expulsés par les États-Unis sont arrivés à Kinshasa](https://www.jeuneafrique.com/1789567/politique/rdc-15-migrants-en-situation-irreguliere-expulses-par-les-etats-unis-sont-arrives-a-kinshasa/)
 - [Loi française sur les restitutions : pour Alger, le compte n’y est pas](https://www.jeuneafrique.com/1788852/politique/loi-francaise-sur-les-restitutions-pour-alger-le-compte-ny-est-pas/)
 - [Devant le Parlement marocain, Aziz Akhannouch défend son bilan à cinq mois des législatives](https://www.jeuneafrique.com/1788731/politique/devant-le-parlement-marocain-aziz-akhannouch-defend-son-bilan-a-cinq-mois-des-legislatives/)
 - [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
@@ -232,7 +233,6 @@
 - [Finances de la CAF : la CAN tous les quatre ans, un suicide économique ?](https://www.jeuneafrique.com/1788638/politique/finances-de-la-caf-la-can-tous-les-quatre-ans-un-suicide-economique/)
 - [Mauritanie-France : la sécurité au menu du premier jour de la visite de Mohamed Ould Ghazouani](https://www.jeuneafrique.com/1788785/politique/mauritanie-france-la-securite-au-menu-du-premier-jour-de-la-visite-de-mohamed-ould-ghazouani/)
 - [Gabon : pourquoi l’opposant Alain-Claude Bilie-By-Nze a été arrêté à Libreville](https://www.jeuneafrique.com/1788771/politique/au-gabon-lopposant-alain-claude-bilie-by-nze-arrete-par-les-renseignements-militaires/)
-- [Affaire du financement libyen : Sarkozy, Guéant et les mémoires divergentes](https://www.jeuneafrique.com/1788448/politique/affaire-du-financement-libyen-sarkozy-gueant-et-les-memoires-divergentes/)
 - [Maroc : OCP lève 1,5 milliard de dollars via un emprunt international, une opération financière « historique »](https://www.jeuneafrique.com/1789189/economie-entreprises/maroc-ocp-leve-15-milliard-de-dollars-via-un-emprunt-international-une-operation-financiere-historique/)
 - [Boissons : pourquoi les géants revoient leur stratégie en Afrique](https://www.jeuneafrique.com/1788768/economie-entreprises/boissons-pourquoi-les-geants-revoient-leur-strategie-en-afrique/)
 
