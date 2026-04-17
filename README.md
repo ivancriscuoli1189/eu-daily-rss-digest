@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 12:48*
+*Generato: 17 Apr 2026, 14:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Appelant à une augmentation salariale, l’UGTT dénonce la hausse des...](https://www.lapresse.tn/2026/04/17/appelant-a-une-augmentation-salariale-lugtt-denonce-la-hausse-des-prix-et-la-degradation-des-services-publics/)
-- [ONU-Habitat : 33 projets pour protéger l’archipel de Kerkennah](https://www.lapresse.tn/2026/04/17/onu-habitat-33-projets-pour-proteger-larchipel-de-kerkennah/)
+- [L’Iran annonce l’ouverture totale du détroit d’Ormuz](https://www.lapresse.tn/2026/04/17/liran-annonce-louverture-totale-du-detroit-dormuz/)
+- [Le Kef : collision entre un train de voyageurs et...](https://www.lapresse.tn/2026/04/17/le-kef-collision-entre-un-train-de-voyageurs-et-un-poids-lourd/)
 
 ## NGOs – Amnesty International – Tunisia
 
