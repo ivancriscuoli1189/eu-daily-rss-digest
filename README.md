@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 18:39*
+*Generato: 17 Apr 2026, 21:31*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Rjim Maatoug : Un nouvel élan pour l’artisanat et l’autonomisation...](https://www.lapresse.tn/2026/04/17/rjim-maatoug-un-nouvel-elan-pour-lartisanat-et-lautonomisation-des-femmes-rurales/)
-- [Choc énergétique mondial : La Tunisie face à une inflation...](https://www.lapresse.tn/2026/04/17/choc-energetique-mondial-la-tunisie-face-a-une-inflation-importee-multisectorielle/)
+- [Sundowns–Espérance : match sous haute tension et sécurité maximale en...](https://www.lapresse.tn/2026/04/17/sundowns-esperance-match-sous-haute-tension-et-securite-maximale-en-afrique-du-sud/)
+- [Volley-ball : l’Espérance de Tunis s’impose face à l’Étoile du...](https://www.lapresse.tn/2026/04/17/volley-ball-lesperance-de-tunis-simpose-face-a-letoile-du-sahel-en-finale-aller/)
 
 ## NGOs – Amnesty International – Tunisia
 
