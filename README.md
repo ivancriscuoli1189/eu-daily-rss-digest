@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 07:16*
+*Generato: 17 Apr 2026, 10:02*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -30,8 +30,8 @@
 
 ## ITALIA ISTITUZIONI – Viminale – Dati e statistiche
 
-- [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
 - [Sbarchi e accoglienza dei migranti: tutti i dati](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/sbarchi-e-accoglienza-dei-migranti-tutti-i-dati)
+- [Le Relazioni annuali del Commissario straordinario del Governo per il coordinamento delle iniziative antiracket ed antiusura](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-annuali-commissario-straordinario-governo-coordinamento-iniziative-antiracket-ed-antiusura)
 - [Omicidi volontari e violenza di genere](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/omicidi-volontari-e-violenza-genere)
 - [Relazioni periodiche del Commissario straordinario del Governo per la gestione del fenomeno delle persone scomparse](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/relazioni-periodiche-commissario-straordinario-governo-gestione-fenomeno-persone-scomparse)
 - [Ferragosto: dossier Viminale](https://www.interno.gov.it/it/stampa-e-comunicazione/dati-e-statistiche/ferragosto-dossier-viminale)
@@ -80,19 +80,6 @@
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 
-## UE – EP – OEIL (Osservatorio Legislativo)
-
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
-- [News](https://www.europarl.europa.eu/news/en)
-- [Topics](https://www.europarl.europa.eu/topics/en)
-- [MEPs](https://www.europarl.europa.eu/meps/en)
-- [About Parliament](https://www.europarl.europa.eu/about-parliament/en)
-- [Plenary](https://www.europarl.europa.eu/plenary/en)
-- [Committees](https://www.europarl.europa.eu/committees/en)
-- [Delegations](https://www.europarl.europa.eu/delegations/en)
-- [EU budget](https://eubudget.europarl.europa.eu/en)
-
 ## UE – Commission – News & media hub
 
 - [bg български](https://commission.europa.eu/news-and-media_bg)
@@ -108,16 +95,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : Augmenter les salaires… et faire grimper les prix...](https://www.lapresse.tn/2026/04/17/tunisie-augmenter-les-salaires-et-faire-grimper-les-prix/)
-- [L’Espérance arrive en Afrique du Sud avant le choc face...](https://www.lapresse.tn/2026/04/16/lesperance-arrive-en-afrique-du-sud-avant-le-choc-face-a-mamelodi-sundowns/)
+- [La Tunisie mise sur le label « Halal » pour conquérir les...](https://www.lapresse.tn/2026/04/17/la-tunisie-mise-sur-le-label-halal-pour-conquerir-les-marches-mondiaux/)
+- [Le pétrole redescend sous la barre des 100 dollars](https://www.lapresse.tn/2026/04/17/le-petrole-redescend-sous-la-barre-des-100-dollars/)
 
 ## NGOs – Amnesty International – Tunisia
 
