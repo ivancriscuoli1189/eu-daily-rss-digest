@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 16:01*
+*Generato: 20 Apr 2026, 18:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Tunisie célèbre l’enfance et le patrimoine : «...](https://www.lapresse.tn/2026/04/20/la-tunisie-celebre-lenfance-et-le-patrimoine-un-monument-et-des-enfants/)
-- [Petite enfance en Tunisie : Le cri d’alarme d’Anis Ounallah...](https://www.lapresse.tn/2026/04/20/petite-enfance-en-tunisie-le-cri-dalarme-danis-ounallah-face-a-la-derive-des-jardins-denfants/)
+- [Cinéma tunisien : Le SIRP dénonce les blocages dans l’octroi...](https://www.lapresse.tn/2026/04/20/cinema-tunisien-le-sirp-denonce-les-blocages-dans-loctroi-des-autorisations-de-tournage/)
+- [Gafsa – Propreté urbaine : Le grand coup de balai...](https://www.lapresse.tn/2026/04/20/gafsa-proprete-urbaine-le-grand-coup-de-balai-pour-une-cite-exemplaire/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
+- [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
 - [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
 - [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
 - [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
 - [Maroc : à Laâyoune, un lycée français dans le désert – par Fouad Laroui](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
+- [Levées de fonds : les gestionnaires africains à l’heure du « stress test »](https://www.jeuneafrique.com/1788636/economie-entreprises/levees-de-fonds-les-gestionnaires-africains-a-lheure-du-stress-test/)
 - [Maroc : l’intelligence artificielle au chevet d’un système de santé en transition](https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/)
-- [Ce que l’on sait du fonds souverain ivoirien fraîchement créé](https://www.jeuneafrique.com/1789363/economie-entreprises/ce-que-lon-sait-du-fonds-souverain-ivoirien-fraichement-cree/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
