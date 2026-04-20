@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 11:59*
+*Generato: 20 Apr 2026, 13:21*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,16 +95,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Concours EIOOC à Genève : l’huile d’olive tunisienne remporte 49...](https://www.lapresse.tn/2026/04/20/concours-eiooc-a-geneve-lhuile-dolive-tunisienne-remporte-49-medailles-dor/)
-- [Braquage à « l’italienne »à Naples : un commando dévalise le Crédit...](https://www.lapresse.tn/2026/04/20/braquage-a-litaliennea-naples-un-commando-devalise-le-credit-agricole-et-sevapore-dans-la-nature/)
+- [Le doyen des vétérinaires : « on recense près de...](https://www.lapresse.tn/2026/04/20/le-doyen-des-veterinaires-on-recense-pres-de-1500-cas-annuel-de-tuberculose/)
+- [Candidats au bac : des séances de soutien en ligne...](https://www.lapresse.tn/2026/04/20/candidats-au-bac-des-seances-de-soutien-en-ligne-via-cette-plateforme/)
 
 ## NGOs – Amnesty International – Tunisia
 
