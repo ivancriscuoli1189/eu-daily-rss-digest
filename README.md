@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 17 Apr 2026, 21:31*
+*Generato: 20 Apr 2026, 07:46*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Sundowns–Espérance : match sous haute tension et sécurité maximale en...](https://www.lapresse.tn/2026/04/17/sundowns-esperance-match-sous-haute-tension-et-securite-maximale-en-afrique-du-sud/)
-- [Volley-ball : l’Espérance de Tunis s’impose face à l’Étoile du...](https://www.lapresse.tn/2026/04/17/volley-ball-lesperance-de-tunis-simpose-face-a-letoile-du-sahel-en-finale-aller/)
+- [La CCITF inaugure sa première antenne régionale à Sfax](https://www.lapresse.tn/2026/04/20/la-ccitf-inaugure-sa-premiere-antenne-regionale-a-sfax/)
+- [Tunis, Djerba, Monastir : trois journées de recrutement pour 700...](https://www.lapresse.tn/2026/04/19/tunis-djerba-monastir-trois-journees-de-recrutement-pour-700-postes-dans-le-tourisme-tunisien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [RDC : 15 migrants en situation irrégulière expulsés par les États-Unis sont arrivés à Kinshasa](https://www.jeuneafrique.com/1789567/politique/rdc-15-migrants-en-situation-irreguliere-expulses-par-les-etats-unis-sont-arrives-a-kinshasa/)
-- [Loi française sur les restitutions : pour Alger, le compte n’y est pas](https://www.jeuneafrique.com/1788852/politique/loi-francaise-sur-les-restitutions-pour-alger-le-compte-ny-est-pas/)
-- [Devant le Parlement marocain, Aziz Akhannouch défend son bilan à cinq mois des législatives](https://www.jeuneafrique.com/1788731/politique/devant-le-parlement-marocain-aziz-akhannouch-defend-son-bilan-a-cinq-mois-des-legislatives/)
-- [Burundi : Gabby Bugaga, le ministre de la Communication, retrouvé mort dans sa voiture](https://www.jeuneafrique.com/1789000/politique/burundi-gabby-bugaga-le-ministre-de-la-communication-retrouve-mort-dans-sa-voiture/)
-- [Afrique du Sud : Julius Malema, condamné à cinq ans de prison, annonce qu’il fera appel](https://www.jeuneafrique.com/1788939/politique/afrique-du-sud-julius-malema-condamne-a-cinq-ans-de-prison-annonce-quil-fera-appel/)
-- [Finances de la CAF : la CAN tous les quatre ans, un suicide économique ?](https://www.jeuneafrique.com/1788638/politique/finances-de-la-caf-la-can-tous-les-quatre-ans-un-suicide-economique/)
-- [Mauritanie-France : la sécurité au menu du premier jour de la visite de Mohamed Ould Ghazouani](https://www.jeuneafrique.com/1788785/politique/mauritanie-france-la-securite-au-menu-du-premier-jour-de-la-visite-de-mohamed-ould-ghazouani/)
-- [Gabon : pourquoi l’opposant Alain-Claude Bilie-By-Nze a été arrêté à Libreville](https://www.jeuneafrique.com/1788771/politique/au-gabon-lopposant-alain-claude-bilie-by-nze-arrete-par-les-renseignements-militaires/)
-- [Maroc : OCP lève 1,5 milliard de dollars via un emprunt international, une opération financière « historique »](https://www.jeuneafrique.com/1789189/economie-entreprises/maroc-ocp-leve-15-milliard-de-dollars-via-un-emprunt-international-une-operation-financiere-historique/)
-- [Boissons : pourquoi les géants revoient leur stratégie en Afrique](https://www.jeuneafrique.com/1788768/economie-entreprises/boissons-pourquoi-les-geants-revoient-leur-strategie-en-afrique/)
+- [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
+- [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
+- [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
+- [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
+- [Un lycée français dans le désert](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
+- [Le Togo veut « servir de pont » entre le Sahel et la communauté internationale](https://www.jeuneafrique.com/1789600/politique/le-togo-veut-servir-de-pont-entre-le-sahel-et-la-communaute-internationale/)
+- [Afrique du Sud : Trump va-t-il mordre à l’hameçon Meyer ?](https://www.jeuneafrique.com/1789303/politique/afrique-du-sud-trump-va-t-il-mordre-a-lhamecon-meyer/)
+- [Bénin : Talon s’efface, Wadagni prend les rênes, le Sénat attend](https://www.jeuneafrique.com/1789289/politique/benin-talon-sefface-wadagni-prend-les-renes-le-senat-attend/)
+- [Ce que l’on sait du fonds souverain ivoirien fraîchement créé](https://www.jeuneafrique.com/1789363/economie-entreprises/ce-que-lon-sait-du-fonds-souverain-ivoirien-fraichement-cree/)
+- [Montie Mlachila (FMI) : « La guerre au Moyen-Orient menace les gains économiques de l’Afrique »](https://www.jeuneafrique.com/1788759/economie-entreprises/montie-mlachila-fmi-la-guerre-au-moyen-orient-menace-les-gains-economiques-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
