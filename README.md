@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 07:46*
+*Generato: 20 Apr 2026, 10:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La CCITF inaugure sa première antenne régionale à Sfax](https://www.lapresse.tn/2026/04/20/la-ccitf-inaugure-sa-premiere-antenne-regionale-a-sfax/)
-- [Tunis, Djerba, Monastir : trois journées de recrutement pour 700...](https://www.lapresse.tn/2026/04/19/tunis-djerba-monastir-trois-journees-de-recrutement-pour-700-postes-dans-le-tourisme-tunisien/)
+- [Coupe de Tunisie – 1/8e de finale : L’ESZ et...](https://www.lapresse.tn/2026/04/20/coupe-de-tunisie-1-8e-de-finale-lesz-et-lasg-creent-la-sensation/)
+- [Déchets textiles : vers la valorisation de 10 000 tonnes...](https://www.lapresse.tn/2026/04/20/dechets-textiles-vers-la-valorisation-de-10-000-tonnes-en-combustible/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -144,19 +144,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -229,7 +216,7 @@
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
 - [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
 - [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
-- [Un lycée français dans le désert](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
+- [Maroc : à Laâyoune, un lycée français dans le désert](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
 - [Le Togo veut « servir de pont » entre le Sahel et la communauté internationale](https://www.jeuneafrique.com/1789600/politique/le-togo-veut-servir-de-pont-entre-le-sahel-et-la-communaute-internationale/)
 - [Afrique du Sud : Trump va-t-il mordre à l’hameçon Meyer ?](https://www.jeuneafrique.com/1789303/politique/afrique-du-sud-trump-va-t-il-mordre-a-lhamecon-meyer/)
 - [Bénin : Talon s’efface, Wadagni prend les rênes, le Sénat attend](https://www.jeuneafrique.com/1789289/politique/benin-talon-sefface-wadagni-prend-les-renes-le-senat-attend/)
