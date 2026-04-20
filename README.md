@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 10:26*
+*Generato: 20 Apr 2026, 11:59*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Coupe de Tunisie – 1/8e de finale : L’ESZ et...](https://www.lapresse.tn/2026/04/20/coupe-de-tunisie-1-8e-de-finale-lesz-et-lasg-creent-la-sensation/)
-- [Déchets textiles : vers la valorisation de 10 000 tonnes...](https://www.lapresse.tn/2026/04/20/dechets-textiles-vers-la-valorisation-de-10-000-tonnes-en-combustible/)
+- [Concours EIOOC à Genève : l’huile d’olive tunisienne remporte 49...](https://www.lapresse.tn/2026/04/20/concours-eiooc-a-geneve-lhuile-dolive-tunisienne-remporte-49-medailles-dor/)
+- [Braquage à « l’italienne »à Naples : un commando dévalise le Crédit...](https://www.lapresse.tn/2026/04/20/braquage-a-litaliennea-naples-un-commando-devalise-le-credit-agricole-et-sevapore-dans-la-nature/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -144,6 +144,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -214,12 +227,12 @@
 
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
+- [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
 - [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
 - [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
-- [Maroc : à Laâyoune, un lycée français dans le désert](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
+- [Maroc : à Laâyoune, un lycée français dans le désert – par Fouad Laroui](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
 - [Le Togo veut « servir de pont » entre le Sahel et la communauté internationale](https://www.jeuneafrique.com/1789600/politique/le-togo-veut-servir-de-pont-entre-le-sahel-et-la-communaute-internationale/)
 - [Afrique du Sud : Trump va-t-il mordre à l’hameçon Meyer ?](https://www.jeuneafrique.com/1789303/politique/afrique-du-sud-trump-va-t-il-mordre-a-lhamecon-meyer/)
-- [Bénin : Talon s’efface, Wadagni prend les rênes, le Sénat attend](https://www.jeuneafrique.com/1789289/politique/benin-talon-sefface-wadagni-prend-les-renes-le-senat-attend/)
 - [Ce que l’on sait du fonds souverain ivoirien fraîchement créé](https://www.jeuneafrique.com/1789363/economie-entreprises/ce-que-lon-sait-du-fonds-souverain-ivoirien-fraichement-cree/)
 - [Montie Mlachila (FMI) : « La guerre au Moyen-Orient menace les gains économiques de l’Afrique »](https://www.jeuneafrique.com/1788759/economie-entreprises/montie-mlachila-fmi-la-guerre-au-moyen-orient-menace-les-gains-economiques-de-lafrique/)
 
