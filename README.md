@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 13:21*
+*Generato: 20 Apr 2026, 16:01*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,16 +95,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Le doyen des vétérinaires : « on recense près de...](https://www.lapresse.tn/2026/04/20/le-doyen-des-veterinaires-on-recense-pres-de-1500-cas-annuel-de-tuberculose/)
-- [Candidats au bac : des séances de soutien en ligne...](https://www.lapresse.tn/2026/04/20/candidats-au-bac-des-seances-de-soutien-en-ligne-via-cette-plateforme/)
+- [La Tunisie célèbre l’enfance et le patrimoine : «...](https://www.lapresse.tn/2026/04/20/la-tunisie-celebre-lenfance-et-le-patrimoine-un-monument-et-des-enfants/)
+- [Petite enfance en Tunisie : Le cri d’alarme d’Anis Ounallah...](https://www.lapresse.tn/2026/04/20/petite-enfance-en-tunisie-le-cri-dalarme-danis-ounallah-face-a-la-derive-des-jardins-denfants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
+- [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
 - [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
 - [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
 - [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
 - [Maroc : à Laâyoune, un lycée français dans le désert – par Fouad Laroui](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
-- [Le Togo veut « servir de pont » entre le Sahel et la communauté internationale](https://www.jeuneafrique.com/1789600/politique/le-togo-veut-servir-de-pont-entre-le-sahel-et-la-communaute-internationale/)
-- [Afrique du Sud : Trump va-t-il mordre à l’hameçon Meyer ?](https://www.jeuneafrique.com/1789303/politique/afrique-du-sud-trump-va-t-il-mordre-a-lhamecon-meyer/)
+- [Maroc : l’intelligence artificielle au chevet d’un système de santé en transition](https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/)
 - [Ce que l’on sait du fonds souverain ivoirien fraîchement créé](https://www.jeuneafrique.com/1789363/economie-entreprises/ce-que-lon-sait-du-fonds-souverain-ivoirien-fraichement-cree/)
-- [Montie Mlachila (FMI) : « La guerre au Moyen-Orient menace les gains économiques de l’Afrique »](https://www.jeuneafrique.com/1788759/economie-entreprises/montie-mlachila-fmi-la-guerre-au-moyen-orient-menace-les-gains-economiques-de-lafrique/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
