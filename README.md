@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 14:28*
+*Generato: 21 Apr 2026, 16:01*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [5ème championnat national de lecture : coup d’envoi le 25...](https://www.lapresse.tn/2026/04/21/5eme-championnat-national-de-lecture-coup-denvoi-le-25-avril-prochain/)
 - [La députée Aouatef Cheniti : « les productions agricoles se...](https://www.lapresse.tn/2026/04/21/la-deputee-aouatef-cheniti-les-productions-agricoles-se-vendent-cher-a-causes-des-intermediaires/)
-- [Ecosystèmes forestiers : une nouvelle stratégie pour une gestion durable](https://www.lapresse.tn/2026/04/21/ecosystemes-forestiers-une-nouvelle-strategie-pour-une-gestion-durable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
@@ -245,7 +246,6 @@
 - [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
-- [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
 - [Paradis fiscaux : pourquoi les capitaux africains reviennent si peu en Afrique](https://www.jeuneafrique.com/1789420/economie-entreprises/paradis-fiscaux-pourquoi-les-capitaux-africains-reviennent-si-peu-en-afrique/)
 - [Levées de fonds : les gestionnaires africains à l’heure du « stress test »](https://www.jeuneafrique.com/1788636/economie-entreprises/levees-de-fonds-les-gestionnaires-africains-a-lheure-du-stress-test/)
 
