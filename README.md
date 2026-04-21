@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 16:01*
+*Generato: 21 Apr 2026, 18:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [5ème championnat national de lecture : coup d’envoi le 25...](https://www.lapresse.tn/2026/04/21/5eme-championnat-national-de-lecture-coup-denvoi-le-25-avril-prochain/)
-- [La députée Aouatef Cheniti : « les productions agricoles se...](https://www.lapresse.tn/2026/04/21/la-deputee-aouatef-cheniti-les-productions-agricoles-se-vendent-cher-a-causes-des-intermediaires/)
+- [« Sympho’rock experience de l’Orchestre et Chœur El Manar » :...](https://www.lapresse.tn/2026/04/21/symphorock-experience-de-lorchestre-et-choeur-el-manar-repenser-le-concert-orchestral/)
+- [Kiosque international](https://www.lapresse.tn/2026/04/21/kiosque-international-12/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
+- [France-Togo : comment Jean-Noël Barrot prépare sa visite à Lomé](https://www.jeuneafrique.com/1789754/politique/france-togo-comment-jean-noel-barrot-prepare-sa-visite-a-lome/)
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
 - [Russie-Afrique : de la friture sur la ligne du Kremlin – par Georges Dougueli](https://www.jeuneafrique.com/1773731/politique/russie-afrique-de-la-friture-sur-la-ligne-du-kremlin/)
 - [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
-- [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
-- [Paradis fiscaux : pourquoi les capitaux africains reviennent si peu en Afrique](https://www.jeuneafrique.com/1789420/economie-entreprises/paradis-fiscaux-pourquoi-les-capitaux-africains-reviennent-si-peu-en-afrique/)
-- [Levées de fonds : les gestionnaires africains à l’heure du « stress test »](https://www.jeuneafrique.com/1788636/economie-entreprises/levees-de-fonds-les-gestionnaires-africains-a-lheure-du-stress-test/)
+- [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
+- [Société générale Côte d’Ivoire, un leader sous pression d’une concurrence qui accélère](https://www.jeuneafrique.com/1789810/economie-entreprises/societe-generale-cote-divoire-un-leader-sous-pression-dune-concurrence-qui-accelere/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
