@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 10:08*
+*Generato: 21 Apr 2026, 11:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Hausse des prix : entre pénuries artificielles et pratiques spéculatives](https://www.lapresse.tn/2026/04/21/hausse-des-prix-entre-penuries-artificielles-et-pratiques-speculatives/)
-- [Administration de Trump : un troisième ministre démissionne](https://www.lapresse.tn/2026/04/21/administration-de-trump-un-troisieme-ministre-demissionne/)
+- [La Tunisie célèbre la première Journée Internationale des Femmes dans...](https://www.lapresse.tn/2026/04/21/la-tunisie-celebre-la-premiere-journee-internationale-des-femmes-dans-lindustrie-les-femmes-faconnent-lavenir-de-lindustrie/)
+- [Ooredoo Tunisie, Sponsor Officiel de la 50ᵉ édition du Festival...](https://www.lapresse.tn/2026/04/21/ooredoo-tunisie-sponsor-officiel-de-la-50%e1%b5%89-edition-du-festival-international-de-dougga/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,19 +157,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -238,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
+- [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
 - [Russie-Afrique : de la friture sur la ligne du Kremlin – par Georges Dougueli](https://www.jeuneafrique.com/1773731/politique/russie-afrique-de-la-friture-sur-la-ligne-du-kremlin/)
 - [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
 - [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
-- [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
-- [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
+- [Paradis fiscaux : pourquoi les capitaux africains reviennent si peu en Afrique](https://www.jeuneafrique.com/1789420/economie-entreprises/paradis-fiscaux-pourquoi-les-capitaux-africains-reviennent-si-peu-en-afrique/)
 - [Levées de fonds : les gestionnaires africains à l’heure du « stress test »](https://www.jeuneafrique.com/1788636/economie-entreprises/levees-de-fonds-les-gestionnaires-africains-a-lheure-du-stress-test/)
-- [Maroc : l’intelligence artificielle au chevet d’un système de santé en transition](https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
