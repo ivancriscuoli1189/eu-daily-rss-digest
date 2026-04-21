@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 07:18*
+*Generato: 21 Apr 2026, 10:08*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -80,6 +80,19 @@
 - [MEPs conclude China visit advocating sustainable e-commerce, fair competition and product safety](https://www.europarl.europa.eu/news/en/press-room/20260326IPR39405/china-visit-sustainable-e-commerce-fair-competition-and-product-safety)
 - [Deal reached on Union Customs Code reform](https://www.europarl.europa.eu/news/en/press-room/20260323IPR38815/deal-reached-on-union-customs-code-reform)
 
+## UE – EP – OEIL (Osservatorio Legislativo)
+
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [News](https://www.europarl.europa.eu/news/en)
+- [Topics](https://www.europarl.europa.eu/topics/en)
+- [MEPs](https://www.europarl.europa.eu/meps/en)
+- [About Parliament](https://www.europarl.europa.eu/about-parliament/en)
+- [Plenary](https://www.europarl.europa.eu/plenary/en)
+- [Committees](https://www.europarl.europa.eu/committees/en)
+- [Delegations](https://www.europarl.europa.eu/delegations/en)
+- [EU budget](https://eubudget.europarl.europa.eu/en)
+
 ## UE – Commission – News & media hub
 
 - [bg български](https://commission.europa.eu/news-and-media_bg)
@@ -129,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Perte de connaissance : l’état de Hani Shaker se détériore,...](https://www.lapresse.tn/2026/04/20/perte-de-connaissance-letat-de-hani-shaker-se-deteriore-les-medecins-interviennent/)
-- [Huile d’olive tunisienne : des trophées… mais où sont les...](https://www.lapresse.tn/2026/04/20/huile-dolive-tunisienne-des-trophees-mais-ou-sont-les-retombees/)
+- [Hausse des prix : entre pénuries artificielles et pratiques spéculatives](https://www.lapresse.tn/2026/04/21/hausse-des-prix-entre-penuries-artificielles-et-pratiques-speculatives/)
+- [Administration de Trump : un troisième ministre démissionne](https://www.lapresse.tn/2026/04/21/administration-de-trump-un-troisieme-ministre-demissionne/)
 
 ## NGOs – Amnesty International – Tunisia
 
