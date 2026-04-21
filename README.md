@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 20 Apr 2026, 18:46*
+*Generato: 21 Apr 2026, 07:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -95,16 +95,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -129,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Cinéma tunisien : Le SIRP dénonce les blocages dans l’octroi...](https://www.lapresse.tn/2026/04/20/cinema-tunisien-le-sirp-denonce-les-blocages-dans-loctroi-des-autorisations-de-tournage/)
-- [Gafsa – Propreté urbaine : Le grand coup de balai...](https://www.lapresse.tn/2026/04/20/gafsa-proprete-urbaine-le-grand-coup-de-balai-pour-une-cite-exemplaire/)
+- [Perte de connaissance : l’état de Hani Shaker se détériore,...](https://www.lapresse.tn/2026/04/20/perte-de-connaissance-letat-de-hani-shaker-se-deteriore-les-medecins-interviennent/)
+- [Huile d’olive tunisienne : des trophées… mais où sont les...](https://www.lapresse.tn/2026/04/20/huile-dolive-tunisienne-des-trophees-mais-ou-sont-les-retombees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -226,13 +226,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
+- [Russie-Afrique : de la friture sur la ligne du Kremlin – par Georges Dougueli](https://www.jeuneafrique.com/1773731/politique/russie-afrique-de-la-friture-sur-la-ligne-du-kremlin/)
 - [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
 - [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Des milliers de Marocains manifestent en soutien aux Palestiniens](https://www.jeuneafrique.com/1789615/politique/des-milliers-de-marocains-manifestent-en-soutien-aux-palestiniens/)
 - [Avec qui le pape Léon XIV construit-il sa politique africaine ?](https://www.jeuneafrique.com/1788461/politique/avec-qui-le-pape-leon-xiv-construit-il-sa-politique-africaine/)
 - [Le Nigeria et la Turquie concluent un accord militaire](https://www.jeuneafrique.com/1789608/politique/le-nigeria-et-la-turquie-concluent-un-accord-militaire/)
 - [En Angola, Léon XIV fustige les « catastrophes » liées à l’exploitation des ressources](https://www.jeuneafrique.com/1789604/politique/en-angola-leon-xiv-fustige-les-catastrophes-liees-a-lexploitation-des-ressources/)
-- [Maroc : à Laâyoune, un lycée français dans le désert – par Fouad Laroui](https://www.jeuneafrique.com/1788730/politique/un-lycee-francais-dans-le-desert/)
 - [Levées de fonds : les gestionnaires africains à l’heure du « stress test »](https://www.jeuneafrique.com/1788636/economie-entreprises/levees-de-fonds-les-gestionnaires-africains-a-lheure-du-stress-test/)
 - [Maroc : l’intelligence artificielle au chevet d’un système de santé en transition](https://www.jeuneafrique.com/1789374/economie-entreprises/maroc-lintelligence-artificielle-au-chevet-dun-systeme-de-sante-en-transition/)
 
