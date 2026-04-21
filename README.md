@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 12:56*
+*Generato: 21 Apr 2026, 14:28*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [L’auteur du triple meurtre de Jbel Lahmar condamné à la...](https://www.lapresse.tn/2026/04/21/lauteur-du-triple-meurtre-de-jbel-lahmar-condamne-a-la-peine-de-mort/)
-- [BNA Assurances : le chiffre d’affaires global en hausse de...](https://www.lapresse.tn/2026/04/21/bna-assurances-le-chiffre-daffaires-global-en-hausse-de-12/)
+- [La députée Aouatef Cheniti : « les productions agricoles se...](https://www.lapresse.tn/2026/04/21/la-deputee-aouatef-cheniti-les-productions-agricoles-se-vendent-cher-a-causes-des-intermediaires/)
+- [Ecosystèmes forestiers : une nouvelle stratégie pour une gestion durable](https://www.lapresse.tn/2026/04/21/ecosystemes-forestiers-une-nouvelle-strategie-pour-une-gestion-durable/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -173,16 +173,16 @@
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Development of the Crimes Against Humanity Convention](https://www.icj.org/development-of-the-crimes-against-humanity-convention/)
+- [ICJ Publications on the Crimes Against Humanity Convention](https://www.icj.org/icj-publications-on-the-crimes-against-humanity-convention/)
+- [Preparatory Committee meetings for the negotiation of the Crimes Against Humanity Convention](https://www.icj.org/preparatory-committee-meetings-for-the-negotiation-of-the-crimes-against-humanity-convention/)
 - [EU: Strategies and good practices for ensuring the child’s right to be heard and to participate in legal proceedings](https://www.icj.org/eu-strategies-and-good-practices-for-ensuring-the-childs-right-to-be-heard-and-to-participate-in-legal-proceedings/)
 - [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
 - [ICJ Urges CEDAW To Address The Harmful Impact Of Criminal Laws On Women’s Rights](https://www.icj.org/icj-urges-cedaw-to-address-the-harmful-impact-of-criminal-laws-on-womens-rights/)
-- [Rule of Law Under Strain in Eswatini: A Submission on Judicial Independence and Civic Space](https://www.icj.org/rule-of-law-under-strain-in-eswatini-a-submission-on-judicial-independence-and-civic-space/)
-- [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
-- [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
-- [Türkiye: European Court Hears New Case on Jailed Rights Defender](https://www.icj.org/turkiye-european-court-hears-new-case-on-jailed-rights-defender/)
-- [Lebanon: Israel must immediately stop using unlawful mass displacement orders and inflicting terror on civilians](https://www.icj.org/lebanon-israel-must-immediately-stop-using-unlawful-mass-displacement-orders-and-inflicting-terror-on-civilians-1/)
+- [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
+- [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 
 ## THINK TANK – Carnegie MENA – Research
 
