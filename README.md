@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 18:53*
+*Generato: 21 Apr 2026, 21:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [« Sympho’rock experience de l’Orchestre et Chœur El Manar » :...](https://www.lapresse.tn/2026/04/21/symphorock-experience-de-lorchestre-et-choeur-el-manar-repenser-le-concert-orchestral/)
-- [Kiosque international](https://www.lapresse.tn/2026/04/21/kiosque-international-12/)
+- [Championnat d’Afrique des clubs de volley-ball féminin (Demi-finale) : Le...](https://www.lapresse.tn/2026/04/21/championnat-dafrique-des-clubs-de-volley-ball-feminin-demi-finale-le-club-feminin-de-carthage-battu-par-al-ahly-1-3/)
+- [Transport de phosphate : Le parlement approuve un prêt de...](https://www.lapresse.tn/2026/04/21/transport-de-phosphate-le-parlement-approuve-un-pret-de-16-millions-de-dinars-koweitiens-pour-la-renovation-des-voies-ferrees/)
 
 ## NGOs – Amnesty International – Tunisia
 
