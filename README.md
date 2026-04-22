@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 12:54*
+*Generato: 22 Apr 2026, 14:30*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -131,6 +131,19 @@
 - [en English](https://home-affairs.ec.europa.eu/news_en)
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
+
+## MEDIA TUNISIA – La Presse de Tunisie
+
+- [Actualités](https://www.lapresse.tn/category/actualites/)
+- [Économie](https://www.lapresse.tn/category/economie/)
+- [Société](https://www.lapresse.tn/category/societe/)
+- [Culture](https://www.lapresse.tn/category/culture/)
+- [Magazine](https://www.lapresse.tn/category/magazine/)
+- [Sport](https://www.lapresse.tn/category/sport/)
+- [International](https://www.lapresse.tn/category/international/)
+- [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Wael Chouchane : « Les citoyens tunisiens, premiers producteurs d’électricité...](https://www.lapresse.tn/2026/04/22/wael-chouchane-les-citoyens-tunisiens-premiers-producteurs-delectricite-solaire-du-pays/)
+- [La Tunisie à la tête de l’Union des autorités arabes...](https://www.lapresse.tn/2026/04/22/la-tunisie-a-la-tete-de-lunion-des-autorites-arabes-des-marches-financiers/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Niger, la junte assume avoir suspendu 3 000 ONG en 2025 au nom d’un « assainissement »](https://www.jeuneafrique.com/1790395/politique/au-niger-la-junte-assume-avoir-suspendu-3-000-ong-en-2025-au-nom-dun-assainissement/)
+- [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
 - [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
 - [Côte d’Ivoire : de Bédié à Thiam, Jean-Noël Loucou, gardien de la mémoire d’Houphouët](https://www.jeuneafrique.com/1788688/politique/cote-divoire-de-bedie-a-thiam-jean-noel-loucou-gardien-de-la-memoire-dhouphouet/)
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
 - [Cameroun : 5 questions pour comprendre la réforme qui rebat les cartes de la succession de Paul Biya](https://www.jeuneafrique.com/1788287/politique/cameroun-5-questions-pour-comprendre-la-reforme-qui-rebat-les-cartes-de-la-succession-de-paul-biya/)
 - [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
 - [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
-- [France-Togo : comment Jean-Noël Barrot prépare sa visite à Lomé](https://www.jeuneafrique.com/1789754/politique/france-togo-comment-jean-noel-barrot-prepare-sa-visite-a-lome/)
-- [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
-- [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
+- [Elfried Didehia (Djamo Finances) : « Nous voulons offrir nos services à tous les citoyens de l’Uemoa »](https://www.jeuneafrique.com/1786822/economie-entreprises/elfried-didehia-djamo-finances-nous-voulons-offrir-nos-services-a-tous-les-citoyens-de-luemoa/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
