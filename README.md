@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 07:17*
+*Generato: 22 Apr 2026, 10:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Championnat d’Afrique des clubs de volley-ball féminin (Demi-finale) : Le...](https://www.lapresse.tn/2026/04/21/championnat-dafrique-des-clubs-de-volley-ball-feminin-demi-finale-le-club-feminin-de-carthage-battu-par-al-ahly-1-3/)
-- [Transport de phosphate : Le parlement approuve un prêt de...](https://www.lapresse.tn/2026/04/21/transport-de-phosphate-le-parlement-approuve-un-pret-de-16-millions-de-dinars-koweitiens-pour-la-renovation-des-voies-ferrees/)
+- [Tunisie-BEI : vers un nouvel partenariat pour réhabiliter les infrastructures...](https://www.lapresse.tn/2026/04/22/tunisie-bei-vers-un-nouvel-partenariat-pour-rehabiliter-les-infrastructures-et-les-quartiers-prioritaires/)
+- [Coup d’envoi, aujourd’hui, du hackathon municipal 2026](https://www.lapresse.tn/2026/04/22/coup-denvoi-aujourdhui-du-hackathon-municipal-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
 - [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
 - [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
@@ -245,9 +246,8 @@
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
-- [Russie-Afrique : de la friture sur la ligne du Kremlin – par Georges Dougueli](https://www.jeuneafrique.com/1773731/politique/russie-afrique-de-la-friture-sur-la-ligne-du-kremlin/)
+- [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 - [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
-- [Avec Mbeubeuss, Dakar deviendra-t-elle un modèle ouest-africain de la gestion des déchets ?](https://www.jeuneafrique.com/1789709/economie-entreprises/avec-mbeubeuss-dakar-deviendra-t-elle-un-modele-ouest-africain-de-la-gestion-des-dechets/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
