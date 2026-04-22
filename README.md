@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 10:13*
+*Generato: 22 Apr 2026, 11:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie-BEI : vers un nouvel partenariat pour réhabiliter les infrastructures...](https://www.lapresse.tn/2026/04/22/tunisie-bei-vers-un-nouvel-partenariat-pour-rehabiliter-les-infrastructures-et-les-quartiers-prioritaires/)
-- [Coup d’envoi, aujourd’hui, du hackathon municipal 2026](https://www.lapresse.tn/2026/04/22/coup-denvoi-aujourdhui-du-hackathon-municipal-2026/)
+- [Mondial de tennis de table à Londres : un trio...](https://www.lapresse.tn/2026/04/22/mondial-de-tennis-de-table-a-londres-un-trio-masculin-portera-les-couleurs-de-la-tunisie/)
+- [BH LEASING annonce la distribution d’un dividende de 0,100 Dinars...](https://www.lapresse.tn/2026/04/22/bh-leasing-annonce-la-distribution-dun-dividende-de-0100-dinars-par-action/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -240,12 +240,12 @@
 
 - [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
+- [Cameroun : 5 questions pour comprendre la réforme qui rebat les cartes de la succession de Paul Biya](https://www.jeuneafrique.com/1788287/politique/cameroun-5-questions-pour-comprendre-la-reforme-qui-rebat-les-cartes-de-la-succession-de-paul-biya/)
 - [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
 - [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
 - [France-Togo : comment Jean-Noël Barrot prépare sa visite à Lomé](https://www.jeuneafrique.com/1789754/politique/france-togo-comment-jean-noel-barrot-prepare-sa-visite-a-lome/)
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
-- [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
 - [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 - [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
 
