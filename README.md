@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 14:30*
+*Generato: 22 Apr 2026, 16:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Wael Chouchane : « Les citoyens tunisiens, premiers producteurs d’électricité...](https://www.lapresse.tn/2026/04/22/wael-chouchane-les-citoyens-tunisiens-premiers-producteurs-delectricite-solaire-du-pays/)
-- [La Tunisie à la tête de l’Union des autorités arabes...](https://www.lapresse.tn/2026/04/22/la-tunisie-a-la-tete-de-lunion-des-autorites-arabes-des-marches-financiers/)
+- [Didier Leschi : «”À la fin du contrat en France,...](https://www.lapresse.tn/2026/04/22/didier-leschi-a-la-fin-du-contrat-en-france-le-retour-au-pays-est-obligatoire/)
+- [SOTUVER porte ses revenus à 28,071 MDT au premier trimestre...](https://www.lapresse.tn/2026/04/22/sotuver-porte-ses-revenus-a-28071-mdt-au-premier-trimestre-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,19 +197,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [The full monty: Why the Mediterranean pact needs to offer the works](https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/)
-- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
-- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
-- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
-- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
-- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
-- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
-- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
-- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
-- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
@@ -240,12 +227,12 @@
 
 - [Au Niger, la junte assume avoir suspendu 3 000 ONG en 2025 au nom d’un « assainissement »](https://www.jeuneafrique.com/1790395/politique/au-niger-la-junte-assume-avoir-suspendu-3-000-ong-en-2025-au-nom-dun-assainissement/)
 - [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
+- [Algérie : 14 partis privés d’élections législatives](https://www.jeuneafrique.com/1790298/politique/algerie-14-partis-prives-delections-legislatives/)
 - [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
 - [Côte d’Ivoire : de Bédié à Thiam, Jean-Noël Loucou, gardien de la mémoire d’Houphouët](https://www.jeuneafrique.com/1788688/politique/cote-divoire-de-bedie-a-thiam-jean-noel-loucou-gardien-de-la-memoire-dhouphouet/)
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
 - [Cameroun : 5 questions pour comprendre la réforme qui rebat les cartes de la succession de Paul Biya](https://www.jeuneafrique.com/1788287/politique/cameroun-5-questions-pour-comprendre-la-reforme-qui-rebat-les-cartes-de-la-succession-de-paul-biya/)
 - [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
-- [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
 - [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 - [Elfried Didehia (Djamo Finances) : « Nous voulons offrir nos services à tous les citoyens de l’Uemoa »](https://www.jeuneafrique.com/1786822/economie-entreprises/elfried-didehia-djamo-finances-nous-voulons-offrir-nos-services-a-tous-les-citoyens-de-luemoa/)
 
