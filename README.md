@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 21 Apr 2026, 21:35*
+*Generato: 22 Apr 2026, 07:17*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -181,8 +181,8 @@
 - [ICJ Urges CEDAW To Address The Harmful Impact Of Criminal Laws On Women’s Rights](https://www.icj.org/icj-urges-cedaw-to-address-the-harmful-impact-of-criminal-laws-on-womens-rights/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [ICJ and partners make joint submissions ahead of the November 2026 Universal Periodic Review of Thailand’s human rights record](https://www.icj.org/icj-and-partners-make-joint-submissions-ahead-of-the-november-2026-universal-periodic-review-of-thailands-human-rights-record/)
 - [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
-- [The UN Human Rights Council makes significant but limited progress in addressing human rights around the world, as atrocities multiply in the Middle East and elsewhere](https://www.icj.org/the-un-human-rights-council-makes-significant-but-limited-progress-in-addressing-human-rights-around-the-world-as-atrocities-multiply-in-the-middle-east-and-elsewhere/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -239,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
+- [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
+- [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
 - [France-Togo : comment Jean-Noël Barrot prépare sa visite à Lomé](https://www.jeuneafrique.com/1789754/politique/france-togo-comment-jean-noel-barrot-prepare-sa-visite-a-lome/)
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
 - [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [Abu al-Bara al-Sahraoui face à Iyad Ag Ghaly : entre l’État islamique et le Jnim, une guerre sans merci](https://www.jeuneafrique.com/1789086/politique/abu-al-bara-al-sahraoui-face-a-iyad-ag-ghaly-entre-letat-islamique-et-le-jnim-une-guerre-sans-merci/)
 - [Russie-Afrique : de la friture sur la ligne du Kremlin – par Georges Dougueli](https://www.jeuneafrique.com/1773731/politique/russie-afrique-de-la-friture-sur-la-ligne-du-kremlin/)
-- [Le jour où Idriss Déby Itno est mort, par Albert Pahimi Padacké](https://www.jeuneafrique.com/1789476/politique/le-jour-ou-idriss-deby-itno-est-mort-par-albert-pahimi-padacke/)
-- [RDC : accord entre Kinshasa et l’AFC/M23 pour faciliter l’aide et libérer des prisonniers](https://www.jeuneafrique.com/1789619/politique/rdc-accord-entre-kinshasa-et-lafc-m23-pour-faciliter-laide-et-liberer-des-prisonniers/)
 - [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
-- [Société générale Côte d’Ivoire, un leader sous pression d’une concurrence qui accélère](https://www.jeuneafrique.com/1789810/economie-entreprises/societe-generale-cote-divoire-un-leader-sous-pression-dune-concurrence-qui-accelere/)
+- [Avec Mbeubeuss, Dakar deviendra-t-elle un modèle ouest-africain de la gestion des déchets ?](https://www.jeuneafrique.com/1789709/economie-entreprises/avec-mbeubeuss-dakar-deviendra-t-elle-un-modele-ouest-africain-de-la-gestion-des-dechets/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
