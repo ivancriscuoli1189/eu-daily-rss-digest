@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 11:50*
+*Generato: 22 Apr 2026, 12:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -132,19 +132,6 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## MEDIA TUNISIA – La Presse de Tunisie
-
-- [Actualités](https://www.lapresse.tn/category/actualites/)
-- [Économie](https://www.lapresse.tn/category/economie/)
-- [Société](https://www.lapresse.tn/category/societe/)
-- [Culture](https://www.lapresse.tn/category/culture/)
-- [Magazine](https://www.lapresse.tn/category/magazine/)
-- [Sport](https://www.lapresse.tn/category/sport/)
-- [International](https://www.lapresse.tn/category/international/)
-- [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mondial de tennis de table à Londres : un trio...](https://www.lapresse.tn/2026/04/22/mondial-de-tennis-de-table-a-londres-un-trio-masculin-portera-les-couleurs-de-la-tunisie/)
-- [BH LEASING annonce la distribution d’un dividende de 0,100 Dinars...](https://www.lapresse.tn/2026/04/22/bh-leasing-annonce-la-distribution-dun-dividende-de-0100-dinars-par-action/)
-
 ## NGOs – Amnesty International – Tunisia
 
 - [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
@@ -239,13 +226,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
+- [Côte d’Ivoire : de Bédié à Thiam, Jean-Noël Loucou, gardien de la mémoire d’Houphouët](https://www.jeuneafrique.com/1788688/politique/cote-divoire-de-bedie-a-thiam-jean-noel-loucou-gardien-de-la-memoire-dhouphouet/)
 - [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
 - [Cameroun : 5 questions pour comprendre la réforme qui rebat les cartes de la succession de Paul Biya](https://www.jeuneafrique.com/1788287/politique/cameroun-5-questions-pour-comprendre-la-reforme-qui-rebat-les-cartes-de-la-succession-de-paul-biya/)
 - [En Algérie, la chute finale de l’ancien ministre Ali Aoun](https://www.jeuneafrique.com/1789942/politique/en-algerie-la-chute-finale-de-lancien-ministre-ali-aoun/)
 - [Kemi Seba arrêté en Afrique du Sud : liaisons dangereuses et galaxie russe](https://www.jeuneafrique.com/1789826/politique/kemi-seba-arrete-en-afrique-du-sud-liaisons-dangereuses-et-galaxie-russe/)
 - [France-Togo : comment Jean-Noël Barrot prépare sa visite à Lomé](https://www.jeuneafrique.com/1789754/politique/france-togo-comment-jean-noel-barrot-prepare-sa-visite-a-lome/)
 - [Coopération militaire : Rabat et Washington passent à la vitesse supérieure… au détriment d’Alger](https://www.jeuneafrique.com/1789780/politique/cooperation-militaire-rabat-et-washington-passent-a-la-vitesse-superieure-au-detriment-dalger/)
-- [Au Maroc, une libération de supporters sénégalais entre aigreur, apaisement et espérance](https://www.jeuneafrique.com/1789723/politique/au-maroc-une-liberation-de-supporters-senegalais-entre-aigreur-apaisement-et-esperance/)
 - [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 - [Maroc : après les fortes pluies d’hiver, la production céréalière devrait plus que doubler](https://www.jeuneafrique.com/1790192/economie-entreprises/maroc-apres-les-fortes-pluies-dhiver-la-production-cerealiere-devrait-plus-que-doubler/)
 
