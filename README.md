@@ -1,19 +1,19 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Apr 2026, 10:12*
+*Generato: 23 Apr 2026, 11:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
 - [IT](https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/)
 - [EN](https://www.esteri.it/en/sala_stampa/archivionotizie/comunicati/)
 - [La Farnesina](https://www.esteri.it/it/ministero/)
+- [Il Ministro](https://www.esteri.it/it/ministero/ministro/)
 - [Vice Ministri e Sottosegretari](https://www.esteri.it/it/ministero/viceministri_sottosegretari/)
 - [Struttura del Ministero](https://www.esteri.it/it/ministero/struttura/)
+- [La Farnesina in Parlamento](https://www.esteri.it/it/ministero/la-farnesina-in-parlamento/)
 - [Normativa online](https://www.esteri.it/it/ministero/normativaonline/)
-- [Comitato Unico di Garanzia](https://www.esteri.it/it/ministero/comitatounicodigaranzia/)
-- [Organismo Indipendente di Valutazione (OIV)](https://www.esteri.it/it/ministero/organismo-indipendente-di-valutazione-oiv/)
-- [Il Circolo degli Esteri](https://www.esteri.it/it/ministero/il-circolo-degli-esteri/)
-- [Sindacati e Associazioni](https://www.esteri.it/it/ministero/sindacati-e-associazioni/)
+- [Storia della Farnesina](https://www.esteri.it/it/ministero/il_mae/)
+- [Il Palazzo della Farnesina](https://www.esteri.it/it/ministero/farnesina/)
 
 ## ITALIA ISTITUZIONI – Governo – Comunicati CdM
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Investissements : l’américain Cimpress consolide sa présence et voit plus...](https://www.lapresse.tn/2026/04/23/investissements-lamericain-cimpress-consolide-sa-presence-et-voit-plus-grand-en-tunisie/)
-- [Sécurité routière : Sousse expérimente les feux piétons intelligents](https://www.lapresse.tn/2026/04/23/securite-routiere-sousse-experimente-les-feux-pietons-intelligents/)
+- [Coupe du monde : le camp Trump aurait demandé à...](https://www.lapresse.tn/2026/04/23/coupe-du-monde-le-camp-trump-aurait-demande-a-la-fifa-de-remplacer-liran-par-litalie/)
+- [Registre national des entreprises : vers le « zéro papier » dès...](https://www.lapresse.tn/2026/04/23/registre-national-des-entreprises-vers-le-zero-papier-des-le-second-semestre-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -246,8 +246,8 @@
 - [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
 - [Bankole Adeoye (UA) : « La gestion des résultats des élections demeure un point sensible »](https://www.jeuneafrique.com/1790252/politique/adeoye-bankole-ua-la-gestion-des-resultats-des-elections-demeure-un-point-sensible/)
 - [Algérie : 14 partis privés d’élections législatives](https://www.jeuneafrique.com/1790298/politique/algerie-14-partis-prives-delections-legislatives/)
+- [Côte d’Ivoire : comment interpréter la montée en puissance des exportations ?](https://www.jeuneafrique.com/1790398/economie-entreprises/cote-divoire-comment-interpreter-la-montee-en-puissance-des-exportations/)
 - [Délestages en Côte d’Ivoire : pourquoi les coupures menacent l’emploi industriel](https://www.jeuneafrique.com/1787700/economie-entreprises/delestages-en-cote-divoire-pourquoi-les-coupures-menacent-lemploi-industriel/)
-- [Au Maroc, l’ultime bataille de la famille Amhal pour reprendre le contrôle de Petromin Oils](https://www.jeuneafrique.com/1790452/economie-entreprises/au-maroc-lultime-bataille-de-la-famille-amhal-pour-reprendre-le-controle-de-petromin-oils/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
