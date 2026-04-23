@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Apr 2026, 07:19*
+*Generato: 23 Apr 2026, 10:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Aides sociales : qui va en bénéficier et à partir...](https://www.lapresse.tn/2026/04/22/aides-sociales-qui-va-en-beneficier-et-a-partir-de-quand/)
-- [Liban : la journaliste Amal Khalil tuée dans une frappe...](https://www.lapresse.tn/2026/04/22/liban-la-journaliste-amal-khalil-tuee-dans-une-frappe-au-sud-du-pays/)
+- [Investissements : l’américain Cimpress consolide sa présence et voit plus...](https://www.lapresse.tn/2026/04/23/investissements-lamericain-cimpress-consolide-sa-presence-et-voit-plus-grand-en-tunisie/)
+- [Sécurité routière : Sousse expérimente les feux piétons intelligents](https://www.lapresse.tn/2026/04/23/securite-routiere-sousse-experimente-les-feux-pietons-intelligents/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
+- [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
+- [Ike Ngouoni : les Bongo, Laccruche et moi](https://www.jeuneafrique.com/1789938/politique/ike-ngouoni-les-bongo-laccruche-et-moi/)
 - [Au Mali, Africa Corps affirme avoir libéré un Russe et un Ukrainien retenus en otage par le Jnim](https://www.jeuneafrique.com/1790491/politique/au-mali-africa-corps-affirme-avoir-libere-un-russe-et-un-ukrainien-retenus-en-otage-par-le-jnim/)
 - [Au Niger, la junte assume avoir suspendu 3 000 ONG en 2025 au nom d’un « assainissement »](https://www.jeuneafrique.com/1790395/politique/au-niger-la-junte-assume-avoir-suspendu-3-000-ong-en-2025-au-nom-dun-assainissement/)
 - [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
 - [Bankole Adeoye (UA) : « La gestion des résultats des élections demeure un point sensible »](https://www.jeuneafrique.com/1790252/politique/adeoye-bankole-ua-la-gestion-des-resultats-des-elections-demeure-un-point-sensible/)
 - [Algérie : 14 partis privés d’élections législatives](https://www.jeuneafrique.com/1790298/politique/algerie-14-partis-prives-delections-legislatives/)
-- [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
-- [Macky Sall à l’ONU : une campagne tout feu tout flamme](https://www.jeuneafrique.com/1789948/politique/macky-sall-a-lonu-une-campagne-tout-feu-tout-flamme/)
-- [Élections en Guinée : comment les fidèles de Mamadi Doumbouya contournent l’interdiction de se présenter](https://www.jeuneafrique.com/1789629/politique/elections-en-guinee-comment-les-fideles-de-mamadi-doumbouya-contournent-linterdiction-de-se-presenter/)
+- [Délestages en Côte d’Ivoire : pourquoi les coupures menacent l’emploi industriel](https://www.jeuneafrique.com/1787700/economie-entreprises/delestages-en-cote-divoire-pourquoi-les-coupures-menacent-lemploi-industriel/)
 - [Au Maroc, l’ultime bataille de la famille Amhal pour reprendre le contrôle de Petromin Oils](https://www.jeuneafrique.com/1790452/economie-entreprises/au-maroc-lultime-bataille-de-la-famille-amhal-pour-reprendre-le-controle-de-petromin-oils/)
-- [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
