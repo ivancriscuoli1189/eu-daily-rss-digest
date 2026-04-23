@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 22 Apr 2026, 21:40*
+*Generato: 23 Apr 2026, 07:19*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
+- [Aides sociales : qui va en bénéficier et à partir...](https://www.lapresse.tn/2026/04/22/aides-sociales-qui-va-en-beneficier-et-a-partir-de-quand/)
 - [Liban : la journaliste Amal Khalil tuée dans une frappe...](https://www.lapresse.tn/2026/04/22/liban-la-journaliste-amal-khalil-tuee-dans-une-frappe-au-sud-du-pays/)
-- [Val-d’Oise : la Tunisie en opération séduction auprès des entreprises...](https://www.lapresse.tn/2026/04/22/val-doise-la-tunisie-en-operation-seduction-aupres-des-entreprises-francaises/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -225,15 +225,15 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Mali, Africa Corps affirme avoir libéré un Russe et un Ukrainien retenus en otage par le Jnim](https://www.jeuneafrique.com/1790491/politique/au-mali-africa-corps-affirme-avoir-libere-un-russe-et-un-ukrainien-retenus-en-otage-par-le-jnim/)
 - [Au Niger, la junte assume avoir suspendu 3 000 ONG en 2025 au nom d’un « assainissement »](https://www.jeuneafrique.com/1790395/politique/au-niger-la-junte-assume-avoir-suspendu-3-000-ong-en-2025-au-nom-dun-assainissement/)
 - [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
+- [Bankole Adeoye (UA) : « La gestion des résultats des élections demeure un point sensible »](https://www.jeuneafrique.com/1790252/politique/adeoye-bankole-ua-la-gestion-des-resultats-des-elections-demeure-un-point-sensible/)
 - [Algérie : 14 partis privés d’élections législatives](https://www.jeuneafrique.com/1790298/politique/algerie-14-partis-prives-delections-legislatives/)
 - [Au Burkina Faso, la junte suspend près de 360 associations](https://www.jeuneafrique.com/1790273/politique/au-burkina-faso-la-junte-suspend-pres-de-360-associations/)
+- [Macky Sall à l’ONU : une campagne tout feu tout flamme](https://www.jeuneafrique.com/1789948/politique/macky-sall-a-lonu-une-campagne-tout-feu-tout-flamme/)
 - [Élections en Guinée : comment les fidèles de Mamadi Doumbouya contournent l’interdiction de se présenter](https://www.jeuneafrique.com/1789629/politique/elections-en-guinee-comment-les-fideles-de-mamadi-doumbouya-contournent-linterdiction-de-se-presenter/)
-- [Du Cameroun à la Gambie, la lente « mort politique » d’Issa Tchiroma Bakary](https://www.jeuneafrique.com/1786937/politique/du-cameroun-a-la-gambie-la-lente-mort-politique-dissa-tchiroma-bakary/)
-- [Côte d’Ivoire : de Bédié à Thiam, Jean-Noël Loucou, gardien de la mémoire d’Houphouët](https://www.jeuneafrique.com/1788688/politique/cote-divoire-de-bedie-a-thiam-jean-noel-loucou-gardien-de-la-memoire-dhouphouet/)
-- [En Guinée, le cirque numérique de Maya La Solution et Yama Séga](https://www.jeuneafrique.com/1789997/politique/en-guinee-le-cirque-numerique-de-maya-la-solution-et-yama-sega/)
-- [Mossadeck Bally, capitaine patient d’Azalaï, un groupe hôtelier en pleine mue](https://www.jeuneafrique.com/1789917/economie-entreprises/mossadeck-bally-capitaine-patient-dazalai-un-groupe-hotelier-en-pleine-mue/)
+- [Au Maroc, l’ultime bataille de la famille Amhal pour reprendre le contrôle de Petromin Oils](https://www.jeuneafrique.com/1790452/economie-entreprises/au-maroc-lultime-bataille-de-la-famille-amhal-pour-reprendre-le-controle-de-petromin-oils/)
 - [Algérie-France : le président du Medef se rend à Alger](https://www.jeuneafrique.com/1790259/economie-entreprises/algerie-france-le-president-du-medef-se-rend-a-alger/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
