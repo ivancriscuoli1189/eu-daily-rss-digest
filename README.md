@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Apr 2026, 12:54*
+*Generato: 23 Apr 2026, 18:51*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [European Parliament press kit for the informal EU summit of 23-24 April 2026](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/european-parliament-press-kit-for-the-informal-eu-summit-of-23-24-april-2026)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41817/press-briefing-on-next-week-s-plenary-session)
 - [Provisional deal to update social benefit rules for EU mobile workers](https://www.europarl.europa.eu/news/en/press-room/20260420IPR41513/provisional-deal-to-update-social-benefit-rules-for-eu-mobile-workers)
 - [EU long-term budget: MEPs want a 10% increase to support EU priorities](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40819/eu-long-term-budget-meps-want-a-10-increase-to-support-eu-priorities)
@@ -78,7 +79,6 @@
 - [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 - [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
 - [Press conference on the MFF with lead MEPs on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260410IPR40515/press-conference-on-the-mff-with-lead-meps-on-tuesday-at-10-30)
-- [MEPs support digital vehicle registration documents to cut red tape](https://www.europarl.europa.eu/news/en/press-room/20260401IPR40003/meps-support-digital-vehicle-registration-documents-to-cut-red-tape)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Coupe du monde : le camp Trump aurait demandé à...](https://www.lapresse.tn/2026/04/23/coupe-du-monde-le-camp-trump-aurait-demande-a-la-fifa-de-remplacer-liran-par-litalie/)
-- [Registre national des entreprises : vers le « zéro papier » dès...](https://www.lapresse.tn/2026/04/23/registre-national-des-entreprises-vers-le-zero-papier-des-le-second-semestre-2026/)
+- [Nettoyage et propreté : Une obligation, un devoir de citoyenneté](https://www.lapresse.tn/2026/04/23/nettoyage-et-proprete-une-obligation-un-devoir-de-citoyennete/)
+- [Naturalisation des sportifs dans le monde : Les fédérations internationales...](https://www.lapresse.tn/2026/04/23/naturalisation-des-sportifs-dans-le-monde-les-federations-internationales-fremissent/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -158,18 +158,31 @@
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
 
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
+
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Global experts warn of eroding judicial independence amidst the rise of authoritarianism around the world](https://www.icj.org/global-experts-warn-of-eroding-judicial-independence-amidst-the-rise-of-authoritarianism-around-the-world/)
 - [Development of the Crimes Against Humanity Convention](https://www.icj.org/development-of-the-crimes-against-humanity-convention/)
 - [ICJ Publications on the Crimes Against Humanity Convention](https://www.icj.org/icj-publications-on-the-crimes-against-humanity-convention/)
 - [Preparatory Committee meetings for the negotiation of the Crimes Against Humanity Convention](https://www.icj.org/preparatory-committee-meetings-for-the-negotiation-of-the-crimes-against-humanity-convention/)
 - [EU: Strategies and good practices for ensuring the child’s right to be heard and to participate in legal proceedings](https://www.icj.org/eu-strategies-and-good-practices-for-ensuring-the-childs-right-to-be-heard-and-to-participate-in-legal-proceedings/)
 - [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
-- [ICJ Urges CEDAW To Address The Harmful Impact Of Criminal Laws On Women’s Rights](https://www.icj.org/icj-urges-cedaw-to-address-the-harmful-impact-of-criminal-laws-on-womens-rights/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
 - [ICJ and partners make joint submissions ahead of the November 2026 Universal Periodic Review of Thailand’s human rights record](https://www.icj.org/icj-and-partners-make-joint-submissions-ahead-of-the-november-2026-universal-periodic-review-of-thailands-human-rights-record/)
-- [Tunisia: Quash sham conviction and sentence of judges’ association President, Anas Hmedi](https://www.icj.org/tunisia-quash-sham-conviction-and-sentence-of-judges-association-president-anas-hmedi/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -225,19 +238,20 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Violences électorales en Tanzanie : l’opposition dénonce une tentative d’« étouffer les crimes »](https://www.jeuneafrique.com/1790842/politique/violences-electorales-en-tanzanie-lopposition-denonce-une-tentative-d-etouffer-les-crimes/)
+- [En Centrafrique, nouveau procès programmé pour l’exilé François Bozizé](https://www.jeuneafrique.com/1790740/politique/en-centrafrique-nouveau-proces-programme-pour-lexile-francois-bozize/)
+- [Afrique du Sud : 10 choses à savoir sur Geordin Hill-Lewis, nouveau chef du premier parti d’opposition](https://www.jeuneafrique.com/1790152/politique/afrique-du-sud-10-choses-a-savoir-sur-geordin-hill-lewis-nouveau-chef-du-premier-parti-dopposition/)
 - [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
 - [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
+- [« On ne peut pas faire une vie ici » : à Kinshasa, l’avenir incertain des migrants expulsés par Donald Trump](https://www.jeuneafrique.com/1790650/politique/on-ne-peut-pas-faire-une-vie-ici-a-kinshasa-lavenir-incertain-des-migrants-expulses-par-donald-trump/)
+- [Mahamat Idriss Déby Itno à Alger : le Tchad joue la carte de l’équilibre au Maghreb](https://www.jeuneafrique.com/1790457/politique/mahamat-idriss-deby-itno-a-alger-le-tchad-joue-la-carte-de-lequilibre-au-maghreb/)
 - [Ike Ngouoni : les Bongo, Laccruche et moi](https://www.jeuneafrique.com/1789938/politique/ike-ngouoni-les-bongo-laccruche-et-moi/)
-- [Au Mali, Africa Corps affirme avoir libéré un Russe et un Ukrainien retenus en otage par le Jnim](https://www.jeuneafrique.com/1790491/politique/au-mali-africa-corps-affirme-avoir-libere-un-russe-et-un-ukrainien-retenus-en-otage-par-le-jnim/)
-- [Au Niger, la junte assume avoir suspendu 3 000 ONG en 2025 au nom d’un « assainissement »](https://www.jeuneafrique.com/1790395/politique/au-niger-la-junte-assume-avoir-suspendu-3-000-ong-en-2025-au-nom-dun-assainissement/)
-- [Deux députées mauritaniennes sous les verrous pour avoir critiqué le chef de l’État](https://www.jeuneafrique.com/1790391/politique/deux-deputees-mauritaniennes-sous-les-verrous-pour-avoir-critique-le-chef-de-letat/)
-- [Bankole Adeoye (UA) : « La gestion des résultats des élections demeure un point sensible »](https://www.jeuneafrique.com/1790252/politique/adeoye-bankole-ua-la-gestion-des-resultats-des-elections-demeure-un-point-sensible/)
-- [Algérie : 14 partis privés d’élections législatives](https://www.jeuneafrique.com/1790298/politique/algerie-14-partis-prives-delections-legislatives/)
 - [Côte d’Ivoire : comment interpréter la montée en puissance des exportations ?](https://www.jeuneafrique.com/1790398/economie-entreprises/cote-divoire-comment-interpreter-la-montee-en-puissance-des-exportations/)
 - [Délestages en Côte d’Ivoire : pourquoi les coupures menacent l’emploi industriel](https://www.jeuneafrique.com/1787700/economie-entreprises/delestages-en-cote-divoire-pourquoi-les-coupures-menacent-lemploi-industriel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Come cambia il Golfo Persico](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-porti-infrastrutture-energetiche-giacimenti-nel-golfo-persico-durante-la-guerra-usa-israele-iran-21750844/)
 - [L’Egitto e il Nilo bifronte](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-egitto-progetti-idrici-deserto-tra-new-delta-project-e-toshka-limiti-strutturali-21645666/)
 - [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
 - [Le acquisizioni territoriali statunitensi nella storia](https://www.limesonline.com/rubriche/mappe-parlanti/le-acquisizioni-territoriali-usa-nella-storia-alaska-groenlandia-florida-21439087/)
@@ -247,4 +261,3 @@
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
 - [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
-- [Traffico di droga nei Balcani](https://www.limesonline.com/rubriche/mappe-parlanti/rotte-traffico-di-droga-nei-balcani-cocaina-eroina-provenienza-20866543/)
