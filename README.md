@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Apr 2026, 18:51*
+*Generato: 23 Apr 2026, 21:35*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nettoyage et propreté : Une obligation, un devoir de citoyenneté](https://www.lapresse.tn/2026/04/23/nettoyage-et-proprete-une-obligation-un-devoir-de-citoyennete/)
-- [Naturalisation des sportifs dans le monde : Les fédérations internationales...](https://www.lapresse.tn/2026/04/23/naturalisation-des-sportifs-dans-le-monde-les-federations-internationales-fremissent/)
+- [La Tunisie explore l’ensemencement des nuages pour lutter contre la...](https://www.lapresse.tn/2026/04/23/la-tunisie-explore-lensemencement-des-nuages-pour-lutter-contre-la-secheresse/)
+- [Feux de forêt : un plan d’action national lancé avant...](https://www.lapresse.tn/2026/04/23/feux-de-foret-un-plan-daction-national-lance-avant-lete-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
