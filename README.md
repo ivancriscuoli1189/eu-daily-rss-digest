@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 12:52*
+*Generato: 24 Apr 2026, 14:26*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [“60 dinars le kilo” : la vérité sur les prix...](https://www.lapresse.tn/2026/04/24/60-dinars-le-kilo-la-verite-sur-les-prix-des-moutons-revelee/)
-- [Séisme en Méditerranée : une forte secousse de magnitude 5,7...](https://www.lapresse.tn/2026/04/24/seisme-en-mediterranee-une-forte-secousse-de-magnitude-57-ressentie-jusquen-egypte/)
+- [BIAT : 385 millions de dinars de bénéfice net en...](https://www.lapresse.tn/2026/04/24/biat-385-millions-de-dinars-de-benefice-net-en-2025/)
+- [Blé dur : des chercheurs tunisiens réalisent une avancée génétique...](https://www.lapresse.tn/2026/04/24/ble-dur-des-chercheurs-tunisiens-realisent-une-avancee-genetique-majeure/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +157,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Nesrine Ben Ali condamnée à de la prison en Suisse](https://www.jeuneafrique.com/1791244/politique/nesrine-ben-ali-condamnee-a-de-la-prison-en-suisse/)
 - [RDC : le nouveau chef de la Monusco rencontre les rebelles de l’AFC/M23 à Goma](https://www.jeuneafrique.com/1791149/politique/rdc-le-nouveau-chef-de-la-monusco-rencontre-les-rebelles-de-lafc-m23-a-goma/)
 - [Le chef de la diplomatie française entame une visite historique au Togo](https://www.jeuneafrique.com/1791115/politique/le-chef-de-la-diplomatie-francaise-entame-une-visite-historique-au-togo/)
+- [RDC : Véron Mosengo-Omba, « pompier pyromane » ou sauveur du football congolais ?](https://www.jeuneafrique.com/1790818/politique/rdc-veron-mosengo-omba-pompier-pyromane-ou-sauveur-du-football-congolais/)
 - [Violences électorales en Tanzanie : l’opposition dénonce une tentative d’« étouffer les crimes »](https://www.jeuneafrique.com/1790842/politique/violences-electorales-en-tanzanie-lopposition-denonce-une-tentative-d-etouffer-les-crimes/)
 - [En Centrafrique, nouveau procès programmé pour l’exilé François Bozizé](https://www.jeuneafrique.com/1790740/politique/en-centrafrique-nouveau-proces-programme-pour-lexile-francois-bozize/)
 - [Afrique du Sud : 10 choses à savoir sur Geordin Hill-Lewis, nouveau chef du premier parti d’opposition](https://www.jeuneafrique.com/1790152/politique/afrique-du-sud-10-choses-a-savoir-sur-geordin-hill-lewis-nouveau-chef-du-premier-parti-dopposition/)
 - [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
-- [En Algérie, l’ancien ministre Mohamed Hattab nommé médiateur de la République](https://www.jeuneafrique.com/1790589/politique/en-algerie-lancien-ministre-mohamed-hattab-nomme-mediateur-de-la-republique/)
-- [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
 - [Pourquoi Bola Tinubu parie sur Taiwo Oyedele comme nouveau ministre nigérian des Finances](https://www.jeuneafrique.com/1790909/economie-entreprises/pourquoi-bola-tinubu-parie-sur-taiwo-oyedele-comme-nouveau-ministre-nigerian-des-finances/)
 - [Au Nigeria, comment Heineken entend rester leader face à Tolaram et AB InBev](https://www.jeuneafrique.com/1790750/economie-entreprises/au-nigeria-comment-heineken-entend-rester-leader-face-a-tolaram-et-ab-inbev/)
 
