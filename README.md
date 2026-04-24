@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 14:26*
+*Generato: 24 Apr 2026, 18:34*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,8 @@
 
 ## UE – EP – Press Room
 
+- [Rule of law in the EU: press conference on Tuesday 28 April at 15.30 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41930/rule-of-law-in-the-eu-press-conference-on-tuesday-28-april-at-15-30-cest)
+- [Consent-based definition of rape in EU law: press conference Tuesday 28 April 17:00 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41929/consent-based-definition-of-rape-in-eu-law-press-conference-tuesday-28-april)
 - [EP President Metsola to EU leaders: “Europe cannot face a new era with an old budget”](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41902/metsola-to-eu-leaders-europe-cannot-face-a-new-era-with-an-old-budget)
 - [EU Institutions agree Roadmap to achieve “One Europe, one Market” by end of 2027](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41850/eu-institutions-agree-roadmap-to-achieve-one-europe-one-market-by-end-of-2027)
 - [European Parliament press kit for the informal EU summit of 23-24 April 2026](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/european-parliament-press-kit-for-the-informal-eu-summit-of-23-24-april-2026)
@@ -77,8 +79,6 @@
 - [EU long-term budget: MEPs want a 10% increase to support EU priorities](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40819/eu-long-term-budget-meps-want-a-10-increase-to-support-eu-priorities)
 - [Improved protection for workers against their exposure to chemicals](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40825/improved-protection-for-workers-against-their-exposure-to-chemicals)
 - [“Deaf” wins the 2026 LUX Audience Award](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40209/deaf-wins-the-2026-lux-audience-award)
-- [2026 LUX Audience Award: press point after the ceremony](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40210/2026-lux-audience-award-press-point-after-the-ceremony)
-- [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [BIAT : 385 millions de dinars de bénéfice net en...](https://www.lapresse.tn/2026/04/24/biat-385-millions-de-dinars-de-benefice-net-en-2025/)
-- [Blé dur : des chercheurs tunisiens réalisent une avancée génétique...](https://www.lapresse.tn/2026/04/24/ble-dur-des-chercheurs-tunisiens-realisent-une-avancee-genetique-majeure/)
+- [Huile d’olive : les exportations conditionnées bondissent de 69 %](https://www.lapresse.tn/2026/04/24/huile-dolive-les-exportations-conditionnees-bondissent-de-69/)
+- [Agri-accélérateur 360° : la Tunisie passe à la phase opérationnelle](https://www.lapresse.tn/2026/04/24/agri-accelerateur-360-la-tunisie-passe-a-la-phase-operationnelle/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -239,13 +239,13 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Nesrine Ben Ali condamnée à de la prison en Suisse](https://www.jeuneafrique.com/1791244/politique/nesrine-ben-ali-condamnee-a-de-la-prison-en-suisse/)
+- [À Figuig, le survol de deux hélicoptères alimente la nervosité à la frontière entre le Maroc et l’Algérie](https://www.jeuneafrique.com/1791089/politique/a-figuig-le-survol-de-deux-helicopteres-alimente-la-nervosite-a-la-frontiere-entre-le-maroc-et-lalgerie/)
 - [RDC : le nouveau chef de la Monusco rencontre les rebelles de l’AFC/M23 à Goma](https://www.jeuneafrique.com/1791149/politique/rdc-le-nouveau-chef-de-la-monusco-rencontre-les-rebelles-de-lafc-m23-a-goma/)
 - [Le chef de la diplomatie française entame une visite historique au Togo](https://www.jeuneafrique.com/1791115/politique/le-chef-de-la-diplomatie-francaise-entame-une-visite-historique-au-togo/)
+- [Congo : Denis Sassou Nguesso reconduit Anatole Collinet Makosso comme Premier ministre](https://www.jeuneafrique.com/1791105/politique/congo-denis-sassou-nguesso-reconduit-anatole-collinet-makosso-comme-premier-ministre/)
+- [Vice-président au Cameroun : pourquoi Maurice Kamto saisit l’UA contre Paul Biya](https://www.jeuneafrique.com/1790948/politique/vice-president-au-cameroun-pourquoi-maurice-kamto-saisit-lua-contre-paul-biya/)
 - [RDC : Véron Mosengo-Omba, « pompier pyromane » ou sauveur du football congolais ?](https://www.jeuneafrique.com/1790818/politique/rdc-veron-mosengo-omba-pompier-pyromane-ou-sauveur-du-football-congolais/)
 - [Violences électorales en Tanzanie : l’opposition dénonce une tentative d’« étouffer les crimes »](https://www.jeuneafrique.com/1790842/politique/violences-electorales-en-tanzanie-lopposition-denonce-une-tentative-d-etouffer-les-crimes/)
-- [En Centrafrique, nouveau procès programmé pour l’exilé François Bozizé](https://www.jeuneafrique.com/1790740/politique/en-centrafrique-nouveau-proces-programme-pour-lexile-francois-bozize/)
-- [Afrique du Sud : 10 choses à savoir sur Geordin Hill-Lewis, nouveau chef du premier parti d’opposition](https://www.jeuneafrique.com/1790152/politique/afrique-du-sud-10-choses-a-savoir-sur-geordin-hill-lewis-nouveau-chef-du-premier-parti-dopposition/)
-- [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
 - [Pourquoi Bola Tinubu parie sur Taiwo Oyedele comme nouveau ministre nigérian des Finances](https://www.jeuneafrique.com/1790909/economie-entreprises/pourquoi-bola-tinubu-parie-sur-taiwo-oyedele-comme-nouveau-ministre-nigerian-des-finances/)
 - [Au Nigeria, comment Heineken entend rester leader face à Tolaram et AB InBev](https://www.jeuneafrique.com/1790750/economie-entreprises/au-nigeria-comment-heineken-entend-rester-leader-face-a-tolaram-et-ab-inbev/)
 
