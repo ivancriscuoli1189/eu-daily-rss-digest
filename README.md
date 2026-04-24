@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 18:34*
+*Generato: 24 Apr 2026, 21:37*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Huile d’olive : les exportations conditionnées bondissent de 69 %](https://www.lapresse.tn/2026/04/24/huile-dolive-les-exportations-conditionnees-bondissent-de-69/)
-- [Agri-accélérateur 360° : la Tunisie passe à la phase opérationnelle](https://www.lapresse.tn/2026/04/24/agri-accelerateur-360-la-tunisie-passe-a-la-phase-operationnelle/)
+- [Tunisia Travel Market et passation de pouvoir : Bettaïeb marque...](https://www.lapresse.tn/2026/04/24/tunisia-travel-market-et-passation-de-pouvoir-bettaieb-marque-la-fin-dune-ere/)
+- [Incidences de la guerre au Moyen-Orient : Comment transformer les...](https://www.lapresse.tn/2026/04/24/incidences-de-la-guerre-au-moyen-orient-comment-transformer-les-defis-en-opportunites/)
 
 ## NGOs – Amnesty International – Tunisia
 
