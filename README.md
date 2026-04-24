@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 07:23*
+*Generato: 24 Apr 2026, 10:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,8 @@
 
 ## UE – EP – Press Room
 
+- [EP President Metsola to EU leaders: “Europe cannot face a new era with an old budget”](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41902/metsola-to-eu-leaders-europe-cannot-face-a-new-era-with-an-old-budget)
+- [EU Institutions agree Roadmap to achieve “One Europe, one Market” by end of 2027](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41850/eu-institutions-agree-roadmap-to-achieve-one-europe-one-market-by-end-of-2027)
 - [European Parliament press kit for the informal EU summit of 23-24 April 2026](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/european-parliament-press-kit-for-the-informal-eu-summit-of-23-24-april-2026)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41817/press-briefing-on-next-week-s-plenary-session)
 - [Provisional deal to update social benefit rules for EU mobile workers](https://www.europarl.europa.eu/news/en/press-room/20260420IPR41513/provisional-deal-to-update-social-benefit-rules-for-eu-mobile-workers)
@@ -77,13 +79,11 @@
 - [“Deaf” wins the 2026 LUX Audience Award](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40209/deaf-wins-the-2026-lux-audience-award)
 - [2026 LUX Audience Award: press point after the ceremony](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40210/2026-lux-audience-award-press-point-after-the-ceremony)
 - [Steel overcapacity: agreement on measures to protect EU steel market](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40607/new-measures-to-protect-eu-steel-market-from-global-overcapacity)
-- [Parliament to host a debate with Iranian opposition voices](https://www.europarl.europa.eu/news/en/press-room/20260413IPR40606/parliament-to-host-a-debate-with-iranian-opposition-voices)
-- [Press conference on the MFF with lead MEPs on Tuesday at 10:30](https://www.europarl.europa.eu/news/en/press-room/20260410IPR40515/press-conference-on-the-mff-with-lead-meps-on-tuesday-at-10-30)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Val-d’Oise : les entreprises invitées à investir et coopérer avec...](https://www.lapresse.tn/2026/04/23/val-doise-les-entreprises-invitees-a-investir-et-cooperer-avec-la-tunisie/)
-- [Budget 2027 : fiscalité, économie informelle et subventions au cœur...](https://www.lapresse.tn/2026/04/23/budget-2027-fiscalite-economie-informelle-et-subventions-au-coeur-des-arbitrages/)
+- [Dès aujourd’hui : versement des pensions de retraite pour les...](https://www.lapresse.tn/2026/04/24/des-aujourdhui-versement-des-pensions-de-retraite-pour-les-affilies-de-la-cnrps/)
+- [Raoua Tlili en or au Maroc, un nouveau titre qui...](https://www.lapresse.tn/2026/04/24/raoua-tlili-en-or-au-maroc-un-nouveau-titre-qui-confirme-son-leadership-mondial/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Figuig, le survol de deux hélicoptères alimente la nervosité à la frontière entre le Maroc et l’Algérie](https://www.jeuneafrique.com/1791089/politique/a-figuig-le-survol-de-deux-helicopteres-alimente-la-nervosite-a-la-frontiere-entre-le-maroc-et-lalgerie/)
+- [RDC : le nouveau chef de la Monusco rencontre les rebelles de l’AFC/M23 à Goma](https://www.jeuneafrique.com/1791149/politique/rdc-le-nouveau-chef-de-la-monusco-rencontre-les-rebelles-de-lafc-m23-a-goma/)
+- [Le chef de la diplomatie française entame une visite historique au Togo](https://www.jeuneafrique.com/1791115/politique/le-chef-de-la-diplomatie-francaise-entame-une-visite-historique-au-togo/)
 - [Violences électorales en Tanzanie : l’opposition dénonce une tentative d’« étouffer les crimes »](https://www.jeuneafrique.com/1790842/politique/violences-electorales-en-tanzanie-lopposition-denonce-une-tentative-d-etouffer-les-crimes/)
 - [En Centrafrique, nouveau procès programmé pour l’exilé François Bozizé](https://www.jeuneafrique.com/1790740/politique/en-centrafrique-nouveau-proces-programme-pour-lexile-francois-bozize/)
 - [Afrique du Sud : 10 choses à savoir sur Geordin Hill-Lewis, nouveau chef du premier parti d’opposition](https://www.jeuneafrique.com/1790152/politique/afrique-du-sud-10-choses-a-savoir-sur-geordin-hill-lewis-nouveau-chef-du-premier-parti-dopposition/)
 - [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
 - [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
-- [« On ne peut pas faire une vie ici » : à Kinshasa, l’avenir incertain des migrants expulsés par Donald Trump](https://www.jeuneafrique.com/1790650/politique/on-ne-peut-pas-faire-une-vie-ici-a-kinshasa-lavenir-incertain-des-migrants-expulses-par-donald-trump/)
-- [Mahamat Idriss Déby Itno à Alger : le Tchad joue la carte de l’équilibre au Maghreb](https://www.jeuneafrique.com/1790457/politique/mahamat-idriss-deby-itno-a-alger-le-tchad-joue-la-carte-de-lequilibre-au-maghreb/)
-- [Cameroun : à l’Assemblée nationale, Datouo traque agents fictifs et dépenses fantaisistes](https://www.jeuneafrique.com/1790438/politique/cameroun-a-lassemblee-nationale-datouo-traque-agents-fictifs-et-depenses-fantaisistes/)
+- [Pourquoi Bola Tinubu parie sur Taiwo Oyedele comme nouveau ministre nigérian des Finances](https://www.jeuneafrique.com/1790909/economie-entreprises/pourquoi-bola-tinubu-parie-sur-taiwo-oyedele-comme-nouveau-ministre-nigerian-des-finances/)
 - [Eramet, un groupe sous pression… mais qui tient sur ses fondamentaux africains](https://www.jeuneafrique.com/1787623/economie-entreprises/eramet-un-groupe-sous-pression-mais-qui-tient-sur-ses-fondamentaux-africains/)
-- [Côte d’Ivoire : comment interpréter la montée en puissance des exportations ?](https://www.jeuneafrique.com/1790398/economie-entreprises/cote-divoire-comment-interpreter-la-montee-en-puissance-des-exportations/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
