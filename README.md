@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 23 Apr 2026, 21:35*
+*Generato: 24 Apr 2026, 07:23*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [La Tunisie explore l’ensemencement des nuages pour lutter contre la...](https://www.lapresse.tn/2026/04/23/la-tunisie-explore-lensemencement-des-nuages-pour-lutter-contre-la-secheresse/)
-- [Feux de forêt : un plan d’action national lancé avant...](https://www.lapresse.tn/2026/04/23/feux-de-foret-un-plan-daction-national-lance-avant-lete-2026/)
+- [Val-d’Oise : les entreprises invitées à investir et coopérer avec...](https://www.lapresse.tn/2026/04/23/val-doise-les-entreprises-invitees-a-investir-et-cooperer-avec-la-tunisie/)
+- [Budget 2027 : fiscalité, économie informelle et subventions au cœur...](https://www.lapresse.tn/2026/04/23/budget-2027-fiscalite-economie-informelle-et-subventions-au-coeur-des-arbitrages/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -245,9 +245,9 @@
 - [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
 - [« On ne peut pas faire une vie ici » : à Kinshasa, l’avenir incertain des migrants expulsés par Donald Trump](https://www.jeuneafrique.com/1790650/politique/on-ne-peut-pas-faire-une-vie-ici-a-kinshasa-lavenir-incertain-des-migrants-expulses-par-donald-trump/)
 - [Mahamat Idriss Déby Itno à Alger : le Tchad joue la carte de l’équilibre au Maghreb](https://www.jeuneafrique.com/1790457/politique/mahamat-idriss-deby-itno-a-alger-le-tchad-joue-la-carte-de-lequilibre-au-maghreb/)
-- [Ike Ngouoni : les Bongo, Laccruche et moi](https://www.jeuneafrique.com/1789938/politique/ike-ngouoni-les-bongo-laccruche-et-moi/)
+- [Cameroun : à l’Assemblée nationale, Datouo traque agents fictifs et dépenses fantaisistes](https://www.jeuneafrique.com/1790438/politique/cameroun-a-lassemblee-nationale-datouo-traque-agents-fictifs-et-depenses-fantaisistes/)
+- [Eramet, un groupe sous pression… mais qui tient sur ses fondamentaux africains](https://www.jeuneafrique.com/1787623/economie-entreprises/eramet-un-groupe-sous-pression-mais-qui-tient-sur-ses-fondamentaux-africains/)
 - [Côte d’Ivoire : comment interpréter la montée en puissance des exportations ?](https://www.jeuneafrique.com/1790398/economie-entreprises/cote-divoire-comment-interpreter-la-montee-en-puissance-des-exportations/)
-- [Délestages en Côte d’Ivoire : pourquoi les coupures menacent l’emploi industriel](https://www.jeuneafrique.com/1787700/economie-entreprises/delestages-en-cote-divoire-pourquoi-les-coupures-menacent-lemploi-industriel/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
