@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 10:14*
+*Generato: 24 Apr 2026, 11:50*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Dès aujourd’hui : versement des pensions de retraite pour les...](https://www.lapresse.tn/2026/04/24/des-aujourdhui-versement-des-pensions-de-retraite-pour-les-affilies-de-la-cnrps/)
-- [Raoua Tlili en or au Maroc, un nouveau titre qui...](https://www.lapresse.tn/2026/04/24/raoua-tlili-en-or-au-maroc-un-nouveau-titre-qui-confirme-son-leadership-mondial/)
+- [Décès de Michael Eneramo, ancien buteur de l’Espérance sportive de...](https://www.lapresse.tn/2026/04/24/deces-de-michael-eneramo-ancien-buteur-de-lesperance-sportive-de-tunis/)
+- [Renseignement de crédit : une société sanctionnée par la Banque...](https://www.lapresse.tn/2026/04/24/renseignement-de-credit-une-societe-sanctionnee-par-la-banque-centrale-de-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -245,7 +245,7 @@
 - [En Centrafrique, nouveau procès programmé pour l’exilé François Bozizé](https://www.jeuneafrique.com/1790740/politique/en-centrafrique-nouveau-proces-programme-pour-lexile-francois-bozize/)
 - [Afrique du Sud : 10 choses à savoir sur Geordin Hill-Lewis, nouveau chef du premier parti d’opposition](https://www.jeuneafrique.com/1790152/politique/afrique-du-sud-10-choses-a-savoir-sur-geordin-hill-lewis-nouveau-chef-du-premier-parti-dopposition/)
 - [Gabon : le parti de Bilie-By-Nze dénonce une « opération politique »](https://www.jeuneafrique.com/1790699/politique/gabon-le-parti-de-bilie-by-nze-denonce-une-operation-politique/)
-- [À l’ONU, Macky Sall et ses trois concurrents ont passé leur « grand oral »](https://www.jeuneafrique.com/1790715/politique/a-lonu-macky-sall-et-ses-trois-concurrents-ont-passe-leur-grand-oral/)
+- [En Algérie, l’ancien ministre Mohamed Hattab nommé médiateur de la République](https://www.jeuneafrique.com/1790589/politique/en-algerie-lancien-ministre-mohamed-hattab-nomme-mediateur-de-la-republique/)
 - [Pourquoi Bola Tinubu parie sur Taiwo Oyedele comme nouveau ministre nigérian des Finances](https://www.jeuneafrique.com/1790909/economie-entreprises/pourquoi-bola-tinubu-parie-sur-taiwo-oyedele-comme-nouveau-ministre-nigerian-des-finances/)
 - [Eramet, un groupe sous pression… mais qui tient sur ses fondamentaux africains](https://www.jeuneafrique.com/1787623/economie-entreprises/eramet-un-groupe-sous-pression-mais-qui-tient-sur-ses-fondamentaux-africains/)
 
