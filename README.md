@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Apr 2026, 10:52*
+*Generato: 27 Apr 2026, 12:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [AI: press conference debrief on the negotiations to update EU rules](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42003/ai-press-conference-debrief-on-the-negotiations-to-update-eu-rules)
 - [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41818/press-briefing-on-this-week-s-plenary-session)
 - [2027 EU budget: press conference with lead MEP on Tuesday at 13.30](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41921/2027-eu-budget-press-conference-with-lead-mep-on-tuesday-at-13-30)
 - [Press conference on Parliament’s position on the MFF on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41922/press-conference-on-parliament-s-position-on-the-mff-on-tuesday-at-14-00)
@@ -78,12 +79,11 @@
 - [EU Institutions agree Roadmap to achieve “One Europe, one Market” by end of 2027](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41850/eu-institutions-agree-roadmap-to-achieve-one-europe-one-market-by-end-of-2027)
 - [European Parliament press kit for the informal EU summit of 23-24 April 2026](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/european-parliament-press-kit-for-the-informal-eu-summit-of-23-24-april-2026)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41817/press-briefing-on-next-week-s-plenary-session)
-- [Provisional deal to update social benefit rules for EU mobile workers](https://www.europarl.europa.eu/news/en/press-room/20260420IPR41513/provisional-deal-to-update-social-benefit-rules-for-eu-mobile-workers)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Crise au Mali : le spectre de l’infiltration terroriste](https://www.lapresse.tn/2026/04/27/crise-au-mali-le-spectre-de-linfiltration-terroriste/)
-- [Une foudre tue 14 personnes à Bangladesh](https://www.lapresse.tn/2026/04/27/une-foudre-tue-14-personnes-a-bangladesh/)
+- [Octroi de crédits sans intérêts aux personnes en situation d’handicap...](https://www.lapresse.tn/2026/04/27/octroi-de-credits-sans-interets-aux-personnes-en-situation-dhandicap-cloture-des-candidatures-a-la-fin-du-mois-de-mai/)
+- [Avec 200.000 rendez-vous médicaux par an, consulter un psychiatre n’est...](https://www.lapresse.tn/2026/04/27/avec-200-000-rendez-vous-medicaux-par-an-consulter-un-psychiatre-nest-plus-tabou-en-tunisie/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -240,14 +240,14 @@
 
 - [Tchad : avant une marche de protestation interdite, coup de filet dans les rangs de l’opposition](https://www.jeuneafrique.com/1791688/politique/tchad-avant-une-marche-de-protestation-interdite-coup-de-filet-dans-les-rangs-de-lopposition/)
 - [Au Burundi, Évariste Ndayishimiye désigné candidat pour la présidentielle de 2027](https://www.jeuneafrique.com/1791674/politique/au-burundi-evariste-ndayishimiye-designe-candidat-pour-la-presidentielle-de-2027/)
+- [Afrique du Sud : sur qui pourrait compter Patrice Motsepe pour prendre la tête de l’ANC ?](https://www.jeuneafrique.com/1789992/politique/afrique-du-sud-sur-qui-pourrait-compter-patrice-motsepe-pour-prendre-la-tete-de-lanc/)
 - [Burkina Faso : « Tous les citoyens en âge de se battre » seront « formés et appelés au besoin »](https://www.jeuneafrique.com/1791633/politique/burkina-faso-tous-les-citoyens-en-age-de-se-battre-seront-formes-et-appeles-au-besoin/)
 - [Attaques au Mali : Sadio Camara, ministre de la Défense, a été tué](https://www.jeuneafrique.com/1791659/politique/attaques-au-mali-sadio-camara-ministre-de-la-defense-a-ete-tue/)
 - [Les secrétaires généraux de la Ligue arabe : une histoire égypto-égyptienne](https://www.jeuneafrique.com/1789797/politique/les-secretaires-generaux-de-la-ligue-arabe-une-histoire-egypto-egyptienne/)
 - [Centrafrique : Touadéra investi pour un troisième mandat, l’opposition tente de reprendre position](https://www.jeuneafrique.com/1790337/politique/centrafrique-touadera-investi-pour-un-troisieme-mandat-lopposition-tente-de-reprendre-position/)
 - [Kemi Seba et les suprémacistes blancs : une alliance contre-nature ?](https://www.jeuneafrique.com/1791209/politique/kemi-seba-et-les-supremacistes-blancs-une-alliance-contre-nature/)
-- [Guerre au Soudan : Khartoum et le Congrès américain poussent Trump à agir contre Hemetti et les Émiratis](https://www.jeuneafrique.com/1791235/politique/guerre-au-soudan-khartoum-et-le-congres-americain-poussent-trump-a-agir-contre-hemetti-et-les-emiratis/)
+- [Après le Nigeria, Dangote veut installer une méga-raffinerie en Tanzanie](https://www.jeuneafrique.com/1791436/economie-entreprises/apres-le-nigeria-dangote-veut-installer-une-mega-raffinerie-en-tanzanie/)
 - [Coton africain : entre retour de l’État et pari libéral, une filière sous pression](https://www.jeuneafrique.com/1790729/economie-entreprises/coton-africain-entre-retour-de-letat-et-pari-liberal-une-filiere-sous-pression/)
-- [Gaz au Sénégal : ce qu’il faut retenir du retrait de Kosmos Energy du gisement Yakaar-Teranga](https://www.jeuneafrique.com/1791319/economie-entreprises/gaz-au-senegal-ce-quil-faut-retenir-du-retrait-de-kosmos-energy-du-gisement-yakaar-teranga/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
