@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Apr 2026, 16:17*
+*Generato: 27 Apr 2026, 19:01*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,7 @@
 
 ## UE – EP – Press Room
 
+- [Opening: 27-30 April plenary session in Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41828/opening-27-30-april-plenary-session-in-strasbourg)
 - [Press conference: assessing EU budget management](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42010/press-conference-assessing-eu-budget-management)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41820/ep-today)
 - [AI: press conference debrief on the negotiations to update EU rules](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42003/ai-press-conference-debrief-on-the-negotiations-to-update-eu-rules)
@@ -78,12 +79,11 @@
 - [Rule of law in the EU: press conference on Tuesday 28 April at 15.30 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41930/rule-of-law-in-the-eu-press-conference-on-tuesday-28-april-at-15-30-cest)
 - [Consent-based definition of rape in EU law: press conference Tuesday 28 April 17:00 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41929/consent-based-definition-of-rape-in-eu-law-press-conference-tuesday-28-april)
 - [EP President Metsola to EU leaders: “Europe cannot face a new era with an old budget”](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41902/metsola-to-eu-leaders-europe-cannot-face-a-new-era-with-an-old-budget)
-- [EU Institutions agree Roadmap to achieve “One Europe, one Market” by end of 2027](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41850/eu-institutions-agree-roadmap-to-achieve-one-europe-one-market-by-end-of-2027)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Fraudes et voitures non assurées : les dérives du marché...](https://www.lapresse.tn/2026/04/27/fraudes-et-voitures-non-assurees-les-derives-du-marche-parallele/)
-- [Taxi individuel : vers une hausse du tarif à 1...](https://www.lapresse.tn/2026/04/27/taxi-individuel-vers-une-hausse-du-tarif-a-1-600-millimes/)
+- [Natation – Démissions au sein de la FTN : Bonne...](https://www.lapresse.tn/2026/04/27/natation-demissions-au-sein-de-la-ftn-bonne-et-mauvaise-chose/)
+- [Ligne TGM : interruption temporaire entre les stations « Tunis Marine »...](https://www.lapresse.tn/2026/04/27/ligne-tgm-interruption-temporaire-entre-les-stations-tunis-marine-et-laeroport/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,19 +197,6 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
-## THINK TANK – ECFR – MENA
-
-- [The full monty: Why the Mediterranean pact needs to offer the works](https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/)
-- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
-- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
-- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
-- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
-- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
-- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
-- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
-- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
-- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
-
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
@@ -246,8 +233,8 @@
 - [Au Burundi, Évariste Ndayishimiye désigné candidat pour la présidentielle de 2027](https://www.jeuneafrique.com/1791674/politique/au-burundi-evariste-ndayishimiye-designe-candidat-pour-la-presidentielle-de-2027/)
 - [Afrique du Sud : sur qui pourrait compter Patrice Motsepe pour prendre la tête de l’ANC ?](https://www.jeuneafrique.com/1789992/politique/afrique-du-sud-sur-qui-pourrait-compter-patrice-motsepe-pour-prendre-la-tete-de-lanc/)
 - [Burkina Faso : « Tous les citoyens en âge de se battre » seront « formés et appelés au besoin »](https://www.jeuneafrique.com/1791633/politique/burkina-faso-tous-les-citoyens-en-age-de-se-battre-seront-formes-et-appeles-au-besoin/)
+- [Investissements, commerce, « pré carré »… Comment la France résiste en Afrique](https://www.jeuneafrique.com/1786036/economie-entreprises/investissements-commerce-pre-carre-comment-la-france-resiste-en-afrique/)
 - [Après le Nigeria, Dangote veut installer une méga-raffinerie en Tanzanie](https://www.jeuneafrique.com/1791436/economie-entreprises/apres-le-nigeria-dangote-veut-installer-une-mega-raffinerie-en-tanzanie/)
-- [Coton africain : entre retour de l’État et pari libéral, une filière sous pression](https://www.jeuneafrique.com/1790729/economie-entreprises/coton-africain-entre-retour-de-letat-et-pari-liberal-une-filiere-sous-pression/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
