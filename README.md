@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 24 Apr 2026, 21:37*
+*Generato: 27 Apr 2026, 10:52*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,9 @@
 
 ## UE – EP – Press Room
 
+- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41818/press-briefing-on-this-week-s-plenary-session)
+- [2027 EU budget: press conference with lead MEP on Tuesday at 13.30](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41921/2027-eu-budget-press-conference-with-lead-mep-on-tuesday-at-13-30)
+- [Press conference on Parliament’s position on the MFF on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41922/press-conference-on-parliament-s-position-on-the-mff-on-tuesday-at-14-00)
 - [Rule of law in the EU: press conference on Tuesday 28 April at 15.30 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41930/rule-of-law-in-the-eu-press-conference-on-tuesday-28-april-at-15-30-cest)
 - [Consent-based definition of rape in EU law: press conference Tuesday 28 April 17:00 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41929/consent-based-definition-of-rape-in-eu-law-press-conference-tuesday-28-april)
 - [EP President Metsola to EU leaders: “Europe cannot face a new era with an old budget”](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41902/metsola-to-eu-leaders-europe-cannot-face-a-new-era-with-an-old-budget)
@@ -76,14 +79,11 @@
 - [European Parliament press kit for the informal EU summit of 23-24 April 2026](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41854/european-parliament-press-kit-for-the-informal-eu-summit-of-23-24-april-2026)
 - [Press briefing on next week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41817/press-briefing-on-next-week-s-plenary-session)
 - [Provisional deal to update social benefit rules for EU mobile workers](https://www.europarl.europa.eu/news/en/press-room/20260420IPR41513/provisional-deal-to-update-social-benefit-rules-for-eu-mobile-workers)
-- [EU long-term budget: MEPs want a 10% increase to support EU priorities](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40819/eu-long-term-budget-meps-want-a-10-increase-to-support-eu-priorities)
-- [Improved protection for workers against their exposure to chemicals](https://www.europarl.europa.eu/news/en/press-room/20260414IPR40825/improved-protection-for-workers-against-their-exposure-to-chemicals)
-- [“Deaf” wins the 2026 LUX Audience Award](https://www.europarl.europa.eu/news/en/press-room/20260407IPR40209/deaf-wins-the-2026-lux-audience-award)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisia Travel Market et passation de pouvoir : Bettaïeb marque...](https://www.lapresse.tn/2026/04/24/tunisia-travel-market-et-passation-de-pouvoir-bettaieb-marque-la-fin-dune-ere/)
-- [Incidences de la guerre au Moyen-Orient : Comment transformer les...](https://www.lapresse.tn/2026/04/24/incidences-de-la-guerre-au-moyen-orient-comment-transformer-les-defis-en-opportunites/)
+- [Crise au Mali : le spectre de l’infiltration terroriste](https://www.lapresse.tn/2026/04/27/crise-au-mali-le-spectre-de-linfiltration-terroriste/)
+- [Une foudre tue 14 personnes à Bangladesh](https://www.lapresse.tn/2026/04/27/une-foudre-tue-14-personnes-a-bangladesh/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -177,12 +177,12 @@
 - [Development of the Crimes Against Humanity Convention](https://www.icj.org/development-of-the-crimes-against-humanity-convention/)
 - [ICJ Publications on the Crimes Against Humanity Convention](https://www.icj.org/icj-publications-on-the-crimes-against-humanity-convention/)
 - [Preparatory Committee meetings for the negotiation of the Crimes Against Humanity Convention](https://www.icj.org/preparatory-committee-meetings-for-the-negotiation-of-the-crimes-against-humanity-convention/)
+- [Intervention in landmark European Court case on citizenship rights and trafficking: Shamima Begum v. the UK](https://www.icj.org/intervention-in-landmark-european-court-case-on-citizenship-rights-and-trafficking-shamima-begum-v-the-uk/)
 - [EU: Strategies and good practices for ensuring the child’s right to be heard and to participate in legal proceedings](https://www.icj.org/eu-strategies-and-good-practices-for-ensuring-the-childs-right-to-be-heard-and-to-participate-in-legal-proceedings/)
-- [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
 - [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
-- [ICJ and partners make joint submissions ahead of the November 2026 Universal Periodic Review of Thailand’s human rights record](https://www.icj.org/icj-and-partners-make-joint-submissions-ahead-of-the-november-2026-universal-periodic-review-of-thailands-human-rights-record/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Nesrine Ben Ali condamnée à de la prison en Suisse](https://www.jeuneafrique.com/1791244/politique/nesrine-ben-ali-condamnee-a-de-la-prison-en-suisse/)
-- [À Figuig, le survol de deux hélicoptères alimente la nervosité à la frontière entre le Maroc et l’Algérie](https://www.jeuneafrique.com/1791089/politique/a-figuig-le-survol-de-deux-helicopteres-alimente-la-nervosite-a-la-frontiere-entre-le-maroc-et-lalgerie/)
-- [RDC : le nouveau chef de la Monusco rencontre les rebelles de l’AFC/M23 à Goma](https://www.jeuneafrique.com/1791149/politique/rdc-le-nouveau-chef-de-la-monusco-rencontre-les-rebelles-de-lafc-m23-a-goma/)
-- [Le chef de la diplomatie française entame une visite historique au Togo](https://www.jeuneafrique.com/1791115/politique/le-chef-de-la-diplomatie-francaise-entame-une-visite-historique-au-togo/)
-- [Congo : Denis Sassou Nguesso reconduit Anatole Collinet Makosso comme Premier ministre](https://www.jeuneafrique.com/1791105/politique/congo-denis-sassou-nguesso-reconduit-anatole-collinet-makosso-comme-premier-ministre/)
-- [Vice-président au Cameroun : pourquoi Maurice Kamto saisit l’UA contre Paul Biya](https://www.jeuneafrique.com/1790948/politique/vice-president-au-cameroun-pourquoi-maurice-kamto-saisit-lua-contre-paul-biya/)
-- [RDC : Véron Mosengo-Omba, « pompier pyromane » ou sauveur du football congolais ?](https://www.jeuneafrique.com/1790818/politique/rdc-veron-mosengo-omba-pompier-pyromane-ou-sauveur-du-football-congolais/)
-- [Violences électorales en Tanzanie : l’opposition dénonce une tentative d’« étouffer les crimes »](https://www.jeuneafrique.com/1790842/politique/violences-electorales-en-tanzanie-lopposition-denonce-une-tentative-d-etouffer-les-crimes/)
-- [Pourquoi Bola Tinubu parie sur Taiwo Oyedele comme nouveau ministre nigérian des Finances](https://www.jeuneafrique.com/1790909/economie-entreprises/pourquoi-bola-tinubu-parie-sur-taiwo-oyedele-comme-nouveau-ministre-nigerian-des-finances/)
-- [Au Nigeria, comment Heineken entend rester leader face à Tolaram et AB InBev](https://www.jeuneafrique.com/1790750/economie-entreprises/au-nigeria-comment-heineken-entend-rester-leader-face-a-tolaram-et-ab-inbev/)
+- [Tchad : avant une marche de protestation interdite, coup de filet dans les rangs de l’opposition](https://www.jeuneafrique.com/1791688/politique/tchad-avant-une-marche-de-protestation-interdite-coup-de-filet-dans-les-rangs-de-lopposition/)
+- [Au Burundi, Évariste Ndayishimiye désigné candidat pour la présidentielle de 2027](https://www.jeuneafrique.com/1791674/politique/au-burundi-evariste-ndayishimiye-designe-candidat-pour-la-presidentielle-de-2027/)
+- [Burkina Faso : « Tous les citoyens en âge de se battre » seront « formés et appelés au besoin »](https://www.jeuneafrique.com/1791633/politique/burkina-faso-tous-les-citoyens-en-age-de-se-battre-seront-formes-et-appeles-au-besoin/)
+- [Attaques au Mali : Sadio Camara, ministre de la Défense, a été tué](https://www.jeuneafrique.com/1791659/politique/attaques-au-mali-sadio-camara-ministre-de-la-defense-a-ete-tue/)
+- [Les secrétaires généraux de la Ligue arabe : une histoire égypto-égyptienne](https://www.jeuneafrique.com/1789797/politique/les-secretaires-generaux-de-la-ligue-arabe-une-histoire-egypto-egyptienne/)
+- [Centrafrique : Touadéra investi pour un troisième mandat, l’opposition tente de reprendre position](https://www.jeuneafrique.com/1790337/politique/centrafrique-touadera-investi-pour-un-troisieme-mandat-lopposition-tente-de-reprendre-position/)
+- [Kemi Seba et les suprémacistes blancs : une alliance contre-nature ?](https://www.jeuneafrique.com/1791209/politique/kemi-seba-et-les-supremacistes-blancs-une-alliance-contre-nature/)
+- [Guerre au Soudan : Khartoum et le Congrès américain poussent Trump à agir contre Hemetti et les Émiratis](https://www.jeuneafrique.com/1791235/politique/guerre-au-soudan-khartoum-et-le-congres-americain-poussent-trump-a-agir-contre-hemetti-et-les-emiratis/)
+- [Coton africain : entre retour de l’État et pari libéral, une filière sous pression](https://www.jeuneafrique.com/1790729/economie-entreprises/coton-africain-entre-retour-de-letat-et-pari-liberal-une-filiere-sous-pression/)
+- [Gaz au Sénégal : ce qu’il faut retenir du retrait de Kosmos Energy du gisement Yakaar-Teranga](https://www.jeuneafrique.com/1791319/economie-entreprises/gaz-au-senegal-ce-quil-faut-retenir-du-retrait-de-kosmos-energy-du-gisement-yakaar-teranga/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
