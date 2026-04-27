@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Apr 2026, 19:01*
+*Generato: 27 Apr 2026, 21:43*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Natation – Démissions au sein de la FTN : Bonne...](https://www.lapresse.tn/2026/04/27/natation-demissions-au-sein-de-la-ftn-bonne-et-mauvaise-chose/)
-- [Ligne TGM : interruption temporaire entre les stations « Tunis Marine »...](https://www.lapresse.tn/2026/04/27/ligne-tgm-interruption-temporaire-entre-les-stations-tunis-marine-et-laeroport/)
+- [Le géoparc Dahar rejoint officiellement le Réseau mondial des géoparcs...](https://www.lapresse.tn/2026/04/27/le-geoparc-dahar-rejoint-officiellement-le-reseau-mondial-des-geoparcs-de-lunesco/)
+- [Basket – BAL – le CA gagne ses deux premiers...](https://www.lapresse.tn/2026/04/27/basket-bal-le-ca-gagne-ses-deux-premiers-matches-des-individualites-retrouvees/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,19 +157,6 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
-
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -196,6 +183,19 @@
 - [Experts](https://carnegie-mec.org/middle-east/experts)
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
+
+## THINK TANK – ECFR – MENA
+
+- [The full monty: Why the Mediterranean pact needs to offer the works](https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/)
+- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
+- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
+- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
+- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
+- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
 
 ## THINK TANK – CESPI – Attualità
 
