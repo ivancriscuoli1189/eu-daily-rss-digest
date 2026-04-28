@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Apr 2026, 15:12*
+*Generato: 28 Apr 2026, 19:14*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Fini l’abattage ? un plan en six étapes pour venir...](https://www.lapresse.tn/2026/04/28/fini-labattage-un-plan-en-six-etapes-pour-venir-a-bout-des-chiens-errants-en-six-mois/)
-- [Chaque Tunisien génère près de 1 kg de déchet par...](https://www.lapresse.tn/2026/04/28/chaque-tunisien-genere-pres-de-1-kg-de-dechet-par-jour/)
+- [FITA 2026 : un Tunisien de Madagascar primé pour son...](https://www.lapresse.tn/2026/04/28/fita-2026-un-tunisien-de-madagascar-prime-pour-son-engagement-africain/)
+- [Agression de l’occupation sioniste dans la Bande de Gaza :...](https://www.lapresse.tn/2026/04/28/agression-de-loccupation-sioniste-dans-la-bande-de-gaza-le-bilan-seleve-a-plus-de-72-593-martyrs-et-172-399-blesses/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Attaques au Mali : l’AES reste (presque) sans voix](https://www.jeuneafrique.com/1792312/politique/attaques-au-mali-laes-reste-presque-sans-voix/)
+- [Côte d’Ivoire : 5 questions pour comprendre pourquoi le retour de Tidjane Thiam n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1791985/politique/cote-divoire-5-questions-pour-comprendre-pourquoi-le-retour-de-tidjane-thiam-nest-pas-a-lordre-du-jour/)
 - [Au Ghana, un convoi militaire attaqué et trois civils tués](https://www.jeuneafrique.com/1792132/politique/au-ghana-un-convoi-militaire-attaque-et-trois-civils-tues/)
 - [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
 - [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
 - [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
 - [Au Maroc, le changement au sommet de l’UGTM accentue la domination de Nizar Baraka sur l’Istiqlal](https://www.jeuneafrique.com/1791686/politique/au-maroc-le-changement-au-sommet-de-lugtm-accentue-la-domination-de-nizar-baraka-sur-listiqlal/)
 - [Léon XIV au Cameroun : une ardoise de 50 milliards de F CFA et des scandales potentiels](https://www.jeuneafrique.com/1791907/politique/leon-xiv-au-cameroun-une-ardoise-de-50-milliards-de-f-cfa-et-des-scandales-potentiels/)
-- [Au Sénégal, pourquoi la réforme du code électoral est taillée sur mesure pour Ousmane Sonko](https://www.jeuneafrique.com/1791804/politique/au-senegal-pourquoi-la-reforme-du-code-electoral-est-taillee-sur-mesure-pour-ousmane-sonko/)
-- [Législatives de juillet 2026 : l’Algérie tente de mobiliser sa jeunesse](https://www.jeuneafrique.com/1791527/politique/legislatives-de-juillet-2026-lalgerie-tente-de-mobiliser-sa-jeunesse/)
 - [Sky Mali suspend ses vols dans le nord et dans le centre du pays](https://www.jeuneafrique.com/1792191/economie-entreprises/sky-mali-suspend-ses-vols-dans-le-nord-et-dans-le-centre-du-pays/)
-- [Pourquoi Turkish Airlines est finalement contrainte de réduire la voilure en Afrique](https://www.jeuneafrique.com/1791738/economie-entreprises/pourquoi-turkish-airlines-est-finalement-contrainte-de-reduire-la-voilure-sur-le-continent/)
+- [Maroc : sans Patrick Drahi, le champion des centres d’appels Intelcia esquisse un nouveau cap](https://www.jeuneafrique.com/1792055/economie-entreprises/maroc-sans-patrick-drahi-le-champion-des-centres-dappels-intelcia-esquisse-un-nouveau-cap/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
