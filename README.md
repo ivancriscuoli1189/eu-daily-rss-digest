@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Apr 2026, 10:51*
+*Generato: 28 Apr 2026, 12:18*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,21 +69,21 @@
 
 ## UE – EP – Press Room
 
+- [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
+- [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
+- [Rape must be defined based on the absence of consent in all EU countries](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41832/rape-must-be-defined-based-on-the-absence-of-consent-in-all-eu-countries)
+- [Parliament’s 2027 budget priorities: social cohesion, competitiveness, security](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41915/parliament-s-2027-budget-priorities-social-cohesion-competitiveness-security)
 - [EU long-term budget: responding to citizens’ expectations and major challenges](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41835/eu-long-term-budget-responding-to-citizens-expectations-and-major-challenges)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41821/ep-today)
 - [Opening: 27-30 April plenary session in Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41828/opening-27-30-april-plenary-session-in-strasbourg)
 - [Press conference: assessing EU budget management](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42010/press-conference-assessing-eu-budget-management)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41820/ep-today)
 - [AI: press conference debrief on the negotiations to update EU rules](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42003/ai-press-conference-debrief-on-the-negotiations-to-update-eu-rules)
-- [Press briefing on this week’s plenary session](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41818/press-briefing-on-this-week-s-plenary-session)
-- [2027 EU budget: press conference with lead MEP on Tuesday at 16.30](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41921/2027-eu-budget-press-conference-with-lead-mep-on-tuesday-at-16-30)
-- [Press conference on Parliament’s position on the MFF on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41922/press-conference-on-parliament-s-position-on-the-mff-on-tuesday-at-14-00)
-- [Rule of law in the EU: press conference on Tuesday 28 April at 15.30 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41930/rule-of-law-in-the-eu-press-conference-on-tuesday-28-april-at-15-30-cest)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Clubs de mathématiques dans les établissements éducatifs : comment le...](https://www.lapresse.tn/2026/04/28/clubs-de-mathematiques-dans-les-etablissements-educatifs-comment-le-ministere-veut-redonner-le-gout-des-maths-aux-eleves/)
-- [Sousse : une influenceuse connue sur les réseaux sociaux placée...](https://www.lapresse.tn/2026/04/28/sousse-une-influenceuse-connue-sur-les-reseaux-sociaux-placee-en-garde-a-vue/)
+- [45% de travailleurs informels : les « oubliés » de la couverture...](https://www.lapresse.tn/2026/04/28/45-de-travailleurs-informels-les-oublies-de-la-couverture-sociale/)
+- [Meurtre à Tataouine : entre rumeurs de drogue et faux...](https://www.lapresse.tn/2026/04/28/meurtre-a-tataouine-entre-rumeurs-de-drogue-et-faux-deces-le-procureur-retablit-la-verite/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -197,6 +197,19 @@
 - [Projects](https://carnegie-mec.org/middle-east/programs-and-projects)
 - [Events](https://carnegie-mec.org/middle-east/events)
 
+## THINK TANK – ECFR – MENA
+
+- [The full monty: Why the Mediterranean pact needs to offer the works](https://ecfr.eu/publication/the-full-monty-why-the-mediterranean-pact-needs-to-offer-the-works/)
+- [Ceasefire in Iran](https://ecfr.eu/podcasts/episode/ceasefire-in-iran/)
+- [Making peace last: Steps for Europeans to support the Iran-US ceasefire](https://ecfr.eu/article/making-peace-last-steps-for-europeans-to-support-the-iran-us-ceasefire/)
+- [What the Iran war means for Ukraine](https://ecfr.eu/podcasts/episode/what-the-iran-war-means-for-ukraine/)
+- [EV endgame: Stalling China’s export surge in Europe’s southern neighbourhood](https://ecfr.eu/publication/ev-endgame-stalling-chinas-export-surge-in-europes-southern-neighbourhood/)
+- [The Gulf on the front line: The end of strategic hedging and new space for Europeans](https://ecfr.eu/article/the-gulf-on-the-front-line-the-end-of-strategic-hedging-and-new-space-for-europeans/)
+- [Hormuz hold’em: How to stop the US-Iran crisis in the strait](https://ecfr.eu/article/hormuz-holdem-how-to-stop-the-us-iran-crisis-in-the-strait/)
+- [Lebanon on the brink: Europe must act now if it wants to prevent a refugee wave](https://ecfr.eu/article/lebanon-on-the-brink-europe-must-act-now-if-it-wants-to-prevent-a-refugee-wave/)
+- [Europe, Trump and the war in Iran](https://ecfr.eu/podcasts/episode/europe-trump-and-the-war-in-iran/)
+- [War in the Middle East](https://ecfr.eu/podcasts/episode/war-in-the-middle-east/)
+
 ## THINK TANK – CESPI – Attualità
 
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
@@ -229,10 +242,10 @@
 - [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
 - [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
 - [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
+- [Au Sénégal, pourquoi la réforme du code électoral est taillée sur mesure pour Ousmane Sonko](https://www.jeuneafrique.com/1791804/politique/au-senegal-pourquoi-la-reforme-du-code-electoral-est-taillee-sur-mesure-pour-ousmane-sonko/)
 - [Législatives de juillet 2026 : l’Algérie tente de mobiliser sa jeunesse](https://www.jeuneafrique.com/1791527/politique/legislatives-de-juillet-2026-lalgerie-tente-de-mobiliser-sa-jeunesse/)
 - [En RDC, le gouvernement crée une « garde minière » de paramilitaires pour sécuriser les sites d’extraction](https://www.jeuneafrique.com/1791913/politique/en-rdc-le-gouvernement-cree-une-garde-miniere-de-paramilitaires-pour-securiser-les-sites-dextraction/)
 - [Au Sénégal, « Y’en a marre » fait le fact-checking du bilan Faye-Sonko](https://www.jeuneafrique.com/1791850/politique/au-senegal-yen-a-marre-fait-le-fact-checking-du-bilan-faye-sonko/)
-- [Mali : Sadio Camara, l’homme qui croyait aux Russes](https://www.jeuneafrique.com/1791810/politique/mali-sadio-camara-lhomme-qui-croyait-aux-russes/)
 - [Sky Mali suspend ses vols dans le nord et dans le centre du pays](https://www.jeuneafrique.com/1792191/economie-entreprises/sky-mali-suspend-ses-vols-dans-le-nord-et-dans-le-centre-du-pays/)
 - [Pourquoi Turkish Airlines est finalement contrainte de réduire la voilure en Afrique](https://www.jeuneafrique.com/1791738/economie-entreprises/pourquoi-turkish-airlines-est-finalement-contrainte-de-reduire-la-voilure-sur-le-continent/)
 
