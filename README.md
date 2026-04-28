@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Apr 2026, 12:18*
+*Generato: 28 Apr 2026, 15:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [45% de travailleurs informels : les « oubliés » de la couverture...](https://www.lapresse.tn/2026/04/28/45-de-travailleurs-informels-les-oublies-de-la-couverture-sociale/)
-- [Meurtre à Tataouine : entre rumeurs de drogue et faux...](https://www.lapresse.tn/2026/04/28/meurtre-a-tataouine-entre-rumeurs-de-drogue-et-faux-deces-le-procureur-retablit-la-verite/)
+- [Fini l’abattage ? un plan en six étapes pour venir...](https://www.lapresse.tn/2026/04/28/fini-labattage-un-plan-en-six-etapes-pour-venir-a-bout-des-chiens-errants-en-six-mois/)
+- [Chaque Tunisien génère près de 1 kg de déchet par...](https://www.lapresse.tn/2026/04/28/chaque-tunisien-genere-pres-de-1-kg-de-dechet-par-jour/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -242,10 +242,10 @@
 - [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
 - [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
 - [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
+- [Au Maroc, le changement au sommet de l’UGTM accentue la domination de Nizar Baraka sur l’Istiqlal](https://www.jeuneafrique.com/1791686/politique/au-maroc-le-changement-au-sommet-de-lugtm-accentue-la-domination-de-nizar-baraka-sur-listiqlal/)
+- [Léon XIV au Cameroun : une ardoise de 50 milliards de F CFA et des scandales potentiels](https://www.jeuneafrique.com/1791907/politique/leon-xiv-au-cameroun-une-ardoise-de-50-milliards-de-f-cfa-et-des-scandales-potentiels/)
 - [Au Sénégal, pourquoi la réforme du code électoral est taillée sur mesure pour Ousmane Sonko](https://www.jeuneafrique.com/1791804/politique/au-senegal-pourquoi-la-reforme-du-code-electoral-est-taillee-sur-mesure-pour-ousmane-sonko/)
 - [Législatives de juillet 2026 : l’Algérie tente de mobiliser sa jeunesse](https://www.jeuneafrique.com/1791527/politique/legislatives-de-juillet-2026-lalgerie-tente-de-mobiliser-sa-jeunesse/)
-- [En RDC, le gouvernement crée une « garde minière » de paramilitaires pour sécuriser les sites d’extraction](https://www.jeuneafrique.com/1791913/politique/en-rdc-le-gouvernement-cree-une-garde-miniere-de-paramilitaires-pour-securiser-les-sites-dextraction/)
-- [Au Sénégal, « Y’en a marre » fait le fact-checking du bilan Faye-Sonko](https://www.jeuneafrique.com/1791850/politique/au-senegal-yen-a-marre-fait-le-fact-checking-du-bilan-faye-sonko/)
 - [Sky Mali suspend ses vols dans le nord et dans le centre du pays](https://www.jeuneafrique.com/1792191/economie-entreprises/sky-mali-suspend-ses-vols-dans-le-nord-et-dans-le-centre-du-pays/)
 - [Pourquoi Turkish Airlines est finalement contrainte de réduire la voilure en Afrique](https://www.jeuneafrique.com/1791738/economie-entreprises/pourquoi-turkish-airlines-est-finalement-contrainte-de-reduire-la-voilure-sur-le-continent/)
 
