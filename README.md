@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 27 Apr 2026, 21:43*
+*Generato: 28 Apr 2026, 08:00*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -70,6 +70,7 @@
 ## UE – EP – Press Room
 
 - [Opening: 27-30 April plenary session in Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41828/opening-27-30-april-plenary-session-in-strasbourg)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41821/ep-today)
 - [Press conference: assessing EU budget management](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42010/press-conference-assessing-eu-budget-management)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41820/ep-today)
 - [AI: press conference debrief on the negotiations to update EU rules](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42003/ai-press-conference-debrief-on-the-negotiations-to-update-eu-rules)
@@ -78,7 +79,6 @@
 - [Press conference on Parliament’s position on the MFF on Tuesday at 14.00](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41922/press-conference-on-parliament-s-position-on-the-mff-on-tuesday-at-14-00)
 - [Rule of law in the EU: press conference on Tuesday 28 April at 15.30 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41930/rule-of-law-in-the-eu-press-conference-on-tuesday-28-april-at-15-30-cest)
 - [Consent-based definition of rape in EU law: press conference Tuesday 28 April 17:00 CEST](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41929/consent-based-definition-of-rape-in-eu-law-press-conference-tuesday-28-april)
-- [EP President Metsola to EU leaders: “Europe cannot face a new era with an old budget”](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41902/metsola-to-eu-leaders-europe-cannot-face-a-new-era-with-an-old-budget)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -145,18 +145,18 @@
 - [Le géoparc Dahar rejoint officiellement le Réseau mondial des géoparcs...](https://www.lapresse.tn/2026/04/27/le-geoparc-dahar-rejoint-officiellement-le-reseau-mondial-des-geoparcs-de-lunesco/)
 - [Basket – BAL – le CA gagne ses deux premiers...](https://www.lapresse.tn/2026/04/27/basket-bal-le-ca-gagne-ses-deux-premiers-matches-des-individualites-retrouvees/)
 
-## NGOs – Amnesty International – Tunisia
+## NGOs – Human Rights Watch – Tunisia
 
-- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
-- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
-- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
-- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Who We Are](https://www.amnesty.org/en/about-us/)
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
+- [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
+- [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
 - [Législatives de juillet 2026 : l’Algérie tente de mobiliser sa jeunesse](https://www.jeuneafrique.com/1791527/politique/legislatives-de-juillet-2026-lalgerie-tente-de-mobiliser-sa-jeunesse/)
 - [En RDC, le gouvernement crée une « garde minière » de paramilitaires pour sécuriser les sites d’extraction](https://www.jeuneafrique.com/1791913/politique/en-rdc-le-gouvernement-cree-une-garde-miniere-de-paramilitaires-pour-securiser-les-sites-dextraction/)
 - [Au Sénégal, « Y’en a marre » fait le fact-checking du bilan Faye-Sonko](https://www.jeuneafrique.com/1791850/politique/au-senegal-yen-a-marre-fait-le-fact-checking-du-bilan-faye-sonko/)
+- [Israël, l’autre pays de l’apartheid – par François Soudan](https://www.jeuneafrique.com/1789454/politique/israel-lautre-pays-de-lapartheid-par-francois-soudan/)
 - [Tchad : avant une marche de protestation interdite, coup de filet dans les rangs de l’opposition](https://www.jeuneafrique.com/1791688/politique/tchad-avant-une-marche-de-protestation-interdite-coup-de-filet-dans-les-rangs-de-lopposition/)
-- [Tchad : les Transformateurs parient sur la rue pour défier le président Déby Itno et faire libérer Succès Masra](https://www.jeuneafrique.com/1791225/politique/tchad-les-transformateurs-parient-sur-la-rue-pour-defier-le-president-deby-itno-et-faire-liberer-succes-masra/)
-- [Au Burundi, Évariste Ndayishimiye désigné candidat pour la présidentielle de 2027](https://www.jeuneafrique.com/1791674/politique/au-burundi-evariste-ndayishimiye-designe-candidat-pour-la-presidentielle-de-2027/)
-- [Afrique du Sud : sur qui pourrait compter Patrice Motsepe pour prendre la tête de l’ANC ?](https://www.jeuneafrique.com/1789992/politique/afrique-du-sud-sur-qui-pourrait-compter-patrice-motsepe-pour-prendre-la-tete-de-lanc/)
-- [Burkina Faso : « Tous les citoyens en âge de se battre » seront « formés et appelés au besoin »](https://www.jeuneafrique.com/1791633/politique/burkina-faso-tous-les-citoyens-en-age-de-se-battre-seront-formes-et-appeles-au-besoin/)
+- [Rodolphe Saadé : « Au moment voulu, CMA CGM se positionnera sur la concession du port d’Abidjan »](https://www.jeuneafrique.com/1791618/economie-entreprises/rodolphe-saade-au-moment-voulu-cma-cgm-se-positionnera-sur-la-concession-du-port-dabidjan/)
 - [Investissements, commerce, « pré carré »… Comment la France résiste en Afrique](https://www.jeuneafrique.com/1786036/economie-entreprises/investissements-commerce-pre-carre-comment-la-france-resiste-en-afrique/)
-- [Après le Nigeria, Dangote veut installer une méga-raffinerie en Tanzanie](https://www.jeuneafrique.com/1791436/economie-entreprises/apres-le-nigeria-dangote-veut-installer-une-mega-raffinerie-en-tanzanie/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
