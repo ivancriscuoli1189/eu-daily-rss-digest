@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 28 Apr 2026, 19:14*
+*Generato: 29 Apr 2026, 07:54*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -70,6 +70,7 @@
 ## UE – EP – Press Room
 
 - [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41822/ep-today)
 - [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
 - [Rape must be defined based on the absence of consent in all EU countries](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41832/rape-must-be-defined-based-on-the-absence-of-consent-in-all-eu-countries)
 - [Parliament’s 2027 budget priorities: social cohesion, competitiveness, security](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41915/parliament-s-2027-budget-priorities-social-cohesion-competitiveness-security)
@@ -78,7 +79,6 @@
 - [Opening: 27-30 April plenary session in Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41828/opening-27-30-april-plenary-session-in-strasbourg)
 - [Press conference: assessing EU budget management](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42010/press-conference-assessing-eu-budget-management)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41820/ep-today)
-- [AI: press conference debrief on the negotiations to update EU rules](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42003/ai-press-conference-debrief-on-the-negotiations-to-update-eu-rules)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -142,21 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [FITA 2026 : un Tunisien de Madagascar primé pour son...](https://www.lapresse.tn/2026/04/28/fita-2026-un-tunisien-de-madagascar-prime-pour-son-engagement-africain/)
-- [Agression de l’occupation sioniste dans la Bande de Gaza :...](https://www.lapresse.tn/2026/04/28/agression-de-loccupation-sioniste-dans-la-bande-de-gaza-le-bilan-seleve-a-plus-de-72-593-martyrs-et-172-399-blesses/)
-
-## NGOs – Amnesty International – Tunisia
-
-- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
-- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
-- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
-- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
-- [Who We Are](https://www.amnesty.org/en/about-us/)
+- [Établissements d’enseignement privés : Les bons et les moins mauvais](https://www.lapresse.tn/2026/04/28/etablissements-denseignement-prives-lesbonsetlesmoinsmauvais/)
+- [Entretien avec Mme Houda Rjaibi BARHOUMI, orthophoniste : «Le langage...](https://www.lapresse.tn/2026/04/28/entretien-avec-mme-houda-rjaibi-barhoumi-orthophoniste-le-langage-et-lapprentissage-fragilises-par-les-ecrans/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -238,16 +225,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
 - [Attaques au Mali : l’AES reste (presque) sans voix](https://www.jeuneafrique.com/1792312/politique/attaques-au-mali-laes-reste-presque-sans-voix/)
 - [Côte d’Ivoire : 5 questions pour comprendre pourquoi le retour de Tidjane Thiam n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1791985/politique/cote-divoire-5-questions-pour-comprendre-pourquoi-le-retour-de-tidjane-thiam-nest-pas-a-lordre-du-jour/)
+- [La conquête de Kidal par l’alliance du FLA et du Jnim, une cinglante défaite pour la junte](https://www.jeuneafrique.com/1791973/politique/la-conquete-de-kidal-par-lalliance-du-fla-et-du-jnim-une-cinglante-defaite-pour-la-junte/)
 - [Au Ghana, un convoi militaire attaqué et trois civils tués](https://www.jeuneafrique.com/1792132/politique/au-ghana-un-convoi-militaire-attaque-et-trois-civils-tues/)
 - [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
 - [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
 - [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
-- [Au Maroc, le changement au sommet de l’UGTM accentue la domination de Nizar Baraka sur l’Istiqlal](https://www.jeuneafrique.com/1791686/politique/au-maroc-le-changement-au-sommet-de-lugtm-accentue-la-domination-de-nizar-baraka-sur-listiqlal/)
-- [Léon XIV au Cameroun : une ardoise de 50 milliards de F CFA et des scandales potentiels](https://www.jeuneafrique.com/1791907/politique/leon-xiv-au-cameroun-une-ardoise-de-50-milliards-de-f-cfa-et-des-scandales-potentiels/)
+- [Sous pression, les investisseurs africains œuvrent au rebond](https://www.jeuneafrique.com/1792236/economie-entreprises/sous-pression-les-investisseurs-africains-oeuvrent-au-rebond/)
 - [Sky Mali suspend ses vols dans le nord et dans le centre du pays](https://www.jeuneafrique.com/1792191/economie-entreprises/sky-mali-suspend-ses-vols-dans-le-nord-et-dans-le-centre-du-pays/)
-- [Maroc : sans Patrick Drahi, le champion des centres d’appels Intelcia esquisse un nouveau cap](https://www.jeuneafrique.com/1792055/economie-entreprises/maroc-sans-patrick-drahi-le-champion-des-centres-dappels-intelcia-esquisse-un-nouveau-cap/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
