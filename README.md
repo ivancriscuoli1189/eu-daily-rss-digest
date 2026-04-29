@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Apr 2026, 16:27*
+*Generato: 29 Apr 2026, 19:07*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : 156 mille migrants en 2024, dont 40 %...](https://www.lapresse.tn/2026/04/29/tunisie-156-mille-migrants-en-2024-dont-40-de-diplomes-du-superieur/)
-- [Foire internationale du livre : film documentaire sur l’évolution de...](https://www.lapresse.tn/2026/04/29/foire-internationale-du-livre-film-documentaire-sur-levolution-de-lexamen-du-baccalaureat-en-tunisie/)
+- [Encadrement de la jeunesse : Mettre en œuvre tous les...](https://www.lapresse.tn/2026/04/29/encadrement-de-la-jeunesse-mettre-en-oeuvre-tous-les-moyens-disponibles/)
+- [Pourquoi : Les municipalités…](https://www.lapresse.tn/2026/04/29/pourquoi-les-municipalites/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -244,8 +244,8 @@
 - [Au Tchad, huit opposants à Mahamat Idriss Déby Itno placés en détention provisoire](https://www.jeuneafrique.com/1792579/politique/au-tchad-huit-opposants-a-mahamat-idriss-deby-itno-places-en-detention-provisoire/)
 - [Tunisie : la ministre de l’Énergie limogée sur fond de polémique sur les centrales solaires](https://www.jeuneafrique.com/1792582/politique/tunisie-la-ministre-de-lenergie-limogee-sur-fond-de-polemique-sur-les-centrales-solaires/)
 - [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
+- [Côte d’Ivoire : avec le ralliement d’Antoine Kanga, le RHDP fait un pied de nez à Laurent Gbagbo](https://www.jeuneafrique.com/1792067/politique/cote-divoire-avec-le-ralliement-dantoine-kanga-le-rhdp-fait-un-pied-de-nez-a-laurent-gbagbo/)
 - [Cameroun : entre Laure Toukam Fotso et Albert Kouinche, une rivalité à 100 millions de francs CFA](https://www.jeuneafrique.com/1791974/politique/cameroun-entre-laure-toukam-fotso-et-albert-kouinche-une-rivalite-a-100-millions-de-francs-cfa/)
-- [RDC : ce que contient le rapport de l’Assemblée nationale sur l’état sécuritaire du pays](https://www.jeuneafrique.com/1792195/politique/rdc-ce-que-contient-le-rapport-de-lassemblee-nationale-sur-letat-securitaire-du-pays/)
 - [Côte d’Ivoire : comment le nigérian Zenith Bank compte devenir incontournable](https://www.jeuneafrique.com/1791979/economie-entreprises/cote-divoire-comment-le-nigerian-zenith-bank-compte-devenir-incontournable/)
 - [Pour son IPO, Airtel Money vise une levée de fonds d’environ 2 milliards de dollars](https://www.jeuneafrique.com/1792532/economie-entreprises/pour-son-ipo-airtel-money-vise-une-levee-de-fonds-denviron-2-milliards-de-dollars/)
 
