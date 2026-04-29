@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Apr 2026, 07:54*
+*Generato: 29 Apr 2026, 10:45*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,16 +69,16 @@
 
 ## UE – EP – Press Room
 
-- [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
+- [Proxy voting rights approved for MEPs during pregnancy and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41836/proxy-voting-rights-approved-for-meps-during-pregnancy-and-after-giving-birth)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41822/ep-today)
 - [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
 - [Rape must be defined based on the absence of consent in all EU countries](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41832/rape-must-be-defined-based-on-the-absence-of-consent-in-all-eu-countries)
+- [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
 - [Parliament’s 2027 budget priorities: social cohesion, competitiveness, security](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41915/parliament-s-2027-budget-priorities-social-cohesion-competitiveness-security)
 - [EU long-term budget: responding to citizens’ expectations and major challenges](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41835/eu-long-term-budget-responding-to-citizens-expectations-and-major-challenges)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41821/ep-today)
 - [Opening: 27-30 April plenary session in Strasbourg](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41828/opening-27-30-april-plenary-session-in-strasbourg)
 - [Press conference: assessing EU budget management](https://www.europarl.europa.eu/news/en/press-room/20260427IPR42010/press-conference-assessing-eu-budget-management)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41820/ep-today)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -132,18 +132,18 @@
 - [fr français](https://home-affairs.ec.europa.eu/news_fr)
 - [ga Gaeilge](https://home-affairs.ec.europa.eu/news_ga)
 
-## MEDIA TUNISIA – La Presse de Tunisie
+## NGOs – Amnesty International – Tunisia
 
-- [Actualités](https://www.lapresse.tn/category/actualites/)
-- [Économie](https://www.lapresse.tn/category/economie/)
-- [Société](https://www.lapresse.tn/category/societe/)
-- [Culture](https://www.lapresse.tn/category/culture/)
-- [Magazine](https://www.lapresse.tn/category/magazine/)
-- [Sport](https://www.lapresse.tn/category/sport/)
-- [International](https://www.lapresse.tn/category/international/)
-- [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Établissements d’enseignement privés : Les bons et les moins mauvais](https://www.lapresse.tn/2026/04/28/etablissements-denseignement-prives-lesbonsetlesmoinsmauvais/)
-- [Entretien avec Mme Houda Rjaibi BARHOUMI, orthophoniste : «Le langage...](https://www.lapresse.tn/2026/04/28/entretien-avec-mme-houda-rjaibi-barhoumi-orthophoniste-le-langage-et-lapprentissage-fragilises-par-les-ecrans/)
+- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
+- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
+- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
+- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Who We Are](https://www.amnesty.org/en/about-us/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -202,7 +202,7 @@
 - [Europa allargarsi o compiersi? Un bivio da superare, lo impone la geopolitica!](https://www.cespi.it/it/eventi-attualita/editoriale/europa-allargarsi-o-compiersi-un-bivio-da-superare-lo-impone-la)
 - [Immigrazione: fare i conti con la realtà](https://www.cespi.it/it/eventi-attualita/editoriale/immigrazione-fare-i-conti-con-la-realta)
 - [Un mondo in bilico](https://www.cespi.it/it/eventi-attualita/editoriale/un-mondo-bilico)
-- [A cinquant’anni dal golpe militare in Argentina. Le memorie di Enrico Calamai](https://www.cespi.it/it/eventi-note/eventi/cinquantanni-dal-golpe-militare-argentina-le-memorie-di-enrico-calamai)
+- [Il Brasile e l’America latina nel disordine mondiale](https://www.cespi.it/it/eventi-note/eventi/il-brasile-lamerica-latina-nel-disordine-mondiale)
 - [AVVISO RICHIESTA PREVENTIVO PER CORSO HACCP RISCHIO 2](https://www.cespi.it/it/eventi-note/comunicazioni/avviso-richiesta-preventivo-corso-haccp-rischio-2)
 - [Spazi collaborativi e inclusione della popolazione immigrata e rifugiata](https://www.cespi.it/it/eventi-note/articoli/spazi-collaborativi-inclusione-della-popolazione-immigrata-rifugiata)
 - [Home](https://www.cespi.it/it)
@@ -225,14 +225,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [À Marrakech, une prière juive échauffe les esprits et embrase les réseaux sociaux](https://www.jeuneafrique.com/1792573/politique/a-marrakech-une-priere-juive-echauffe-les-esprits-et-embrase-les-reseaux-sociaux/)
+- [Au Sénégal, adoption d’une loi « sur mesure » pour garantir l’éligibilité d’Ousmane Sonko](https://www.jeuneafrique.com/1792592/politique/au-senegal-adoption-dune-loi-sur-mesure-pour-garantir-leligibilite-dousmane-sonko/)
+- [Au Tchad, huit opposants à Mahamat Idriss Déby Itno placés en détention provisoire](https://www.jeuneafrique.com/1792579/politique/au-tchad-huit-opposants-a-mahamat-idriss-deby-itno-places-en-detention-provisoire/)
+- [Tunisie : la ministre de l’Énergie limogée sur fond de polémique sur les centrales solaires](https://www.jeuneafrique.com/1792582/politique/tunisie-la-ministre-de-lenergie-limogee-sur-fond-de-polemique-sur-les-centrales-solaires/)
 - [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
 - [Attaques au Mali : l’AES reste (presque) sans voix](https://www.jeuneafrique.com/1792312/politique/attaques-au-mali-laes-reste-presque-sans-voix/)
 - [Côte d’Ivoire : 5 questions pour comprendre pourquoi le retour de Tidjane Thiam n’est pas à l’ordre du jour](https://www.jeuneafrique.com/1791985/politique/cote-divoire-5-questions-pour-comprendre-pourquoi-le-retour-de-tidjane-thiam-nest-pas-a-lordre-du-jour/)
 - [La conquête de Kidal par l’alliance du FLA et du Jnim, une cinglante défaite pour la junte](https://www.jeuneafrique.com/1791973/politique/la-conquete-de-kidal-par-lalliance-du-fla-et-du-jnim-une-cinglante-defaite-pour-la-junte/)
-- [Au Ghana, un convoi militaire attaqué et trois civils tués](https://www.jeuneafrique.com/1792132/politique/au-ghana-un-convoi-militaire-attaque-et-trois-civils-tues/)
-- [Macron tacle les « mabouls » qui veulent « se fâcher avec l’Algérie »](https://www.jeuneafrique.com/1792119/politique/macron-tacle-les-mabouls-qui-veulent-se-facher-avec-lalgerie/)
-- [Mali : deux fortes détonations entendues près de l’aéroport de Bamako](https://www.jeuneafrique.com/1792107/politique/mali-deux-fortes-detonations-entendues-pres-de-laeroport-de-bamako/)
-- [En Tunisie, le célèbre journaliste Zied el-Heni placé en détention](https://www.jeuneafrique.com/1792103/politique/en-tunisie-le-celebre-journaliste-zied-el-heni-place-en-detention/)
 - [Sous pression, les investisseurs africains œuvrent au rebond](https://www.jeuneafrique.com/1792236/economie-entreprises/sous-pression-les-investisseurs-africains-oeuvrent-au-rebond/)
 - [Sky Mali suspend ses vols dans le nord et dans le centre du pays](https://www.jeuneafrique.com/1792191/economie-entreprises/sky-mali-suspend-ses-vols-dans-le-nord-et-dans-le-centre-du-pays/)
 
