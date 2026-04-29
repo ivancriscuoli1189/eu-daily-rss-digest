@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Apr 2026, 19:07*
+*Generato: 29 Apr 2026, 21:49*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -239,15 +239,15 @@
 ## MAGAZINES – Jeune Afrique
 
 - [Entre la RDC et l’AFC/M23, qui freine l’échange de prisonniers décidé en Suisse ?](https://www.jeuneafrique.com/1792689/politique/entre-la-rdc-et-lafc-m23-qui-freine-lechange-de-prisonniers-decide-en-suisse/)
+- [Kemi Seba en Afrique du Sud : l’activiste reste en détention, au moins jusqu’au 11 mai](https://www.jeuneafrique.com/1792720/politique/kemi-seba-en-afrique-du-sud-le-proces-de-lactiviste-reporte-au-11-mai/)
 - [À Marrakech, une prière juive échauffe les esprits et embrase les réseaux sociaux](https://www.jeuneafrique.com/1792573/politique/a-marrakech-une-priere-juive-echauffe-les-esprits-et-embrase-les-reseaux-sociaux/)
 - [Au Sénégal, adoption d’une loi « sur mesure » pour garantir l’éligibilité d’Ousmane Sonko](https://www.jeuneafrique.com/1792592/politique/au-senegal-adoption-dune-loi-sur-mesure-pour-garantir-leligibilite-dousmane-sonko/)
 - [Au Tchad, huit opposants à Mahamat Idriss Déby Itno placés en détention provisoire](https://www.jeuneafrique.com/1792579/politique/au-tchad-huit-opposants-a-mahamat-idriss-deby-itno-places-en-detention-provisoire/)
 - [Tunisie : la ministre de l’Énergie limogée sur fond de polémique sur les centrales solaires](https://www.jeuneafrique.com/1792582/politique/tunisie-la-ministre-de-lenergie-limogee-sur-fond-de-polemique-sur-les-centrales-solaires/)
 - [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
 - [Côte d’Ivoire : avec le ralliement d’Antoine Kanga, le RHDP fait un pied de nez à Laurent Gbagbo](https://www.jeuneafrique.com/1792067/politique/cote-divoire-avec-le-ralliement-dantoine-kanga-le-rhdp-fait-un-pied-de-nez-a-laurent-gbagbo/)
-- [Cameroun : entre Laure Toukam Fotso et Albert Kouinche, une rivalité à 100 millions de francs CFA](https://www.jeuneafrique.com/1791974/politique/cameroun-entre-laure-toukam-fotso-et-albert-kouinche-une-rivalite-a-100-millions-de-francs-cfa/)
+- [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
 - [Côte d’Ivoire : comment le nigérian Zenith Bank compte devenir incontournable](https://www.jeuneafrique.com/1791979/economie-entreprises/cote-divoire-comment-le-nigerian-zenith-bank-compte-devenir-incontournable/)
-- [Pour son IPO, Airtel Money vise une levée de fonds d’environ 2 milliards de dollars](https://www.jeuneafrique.com/1792532/economie-entreprises/pour-son-ipo-airtel-money-vise-une-levee-de-fonds-denviron-2-milliards-de-dollars/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
