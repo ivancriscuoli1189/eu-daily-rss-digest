@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Apr 2026, 15:00*
+*Generato: 29 Apr 2026, 16:27*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,21 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Mondial 2026 : Sabri Lamouchi annoncera sa liste à cette...](https://www.lapresse.tn/2026/04/29/mondial-2026-sabri-lamouchi-annoncera-sa-liste-a-cette-date/)
-- [Négociations Iran-USA : des signes de progression tangibles selon Boulbeba...](https://www.lapresse.tn/2026/04/29/negociations-iran-usa-des-signes-de-progression-tangibles-selon-boulbeba-salem/)
+- [Tunisie : 156 mille migrants en 2024, dont 40 %...](https://www.lapresse.tn/2026/04/29/tunisie-156-mille-migrants-en-2024-dont-40-de-diplomes-du-superieur/)
+- [Foire internationale du livre : film documentaire sur l’évolution de...](https://www.lapresse.tn/2026/04/29/foire-internationale-du-livre-film-documentaire-sur-levolution-de-lexamen-du-baccalaureat-en-tunisie/)
+
+## NGOs – Amnesty International – Tunisia
+
+- [Tunisia: Authorities must end harassment of Judge Anas Hmedi](https://www.amnesty.org/en/latest/news/2026/03/tunisia-authorities-must-end-harassment-of-judge-anas-hmedi/)
+- [Tunisia: Authorities intensify crackdown on Ennahda party leadership in Conspiracy 2 appeal](https://www.amnesty.org/en/latest/news/2026/02/tunisia-authorities-intensify-crackdown-on-ennahda-party-leadership-in-conspiracy-2-appeal/)
+- [Algeria/Tunisia: Forced return of asylum seeker and political dissident a violation of international law](https://www.amnesty.org/en/latest/news/2026/01/algeria-tunisia-forced-return-of-asylum-seeker-and-political-dissident-a-violation-of-international-law/)
+- [English](https://www.amnesty.org/en/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Español](https://www.amnesty.org/es/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Français](https://www.amnesty.org/fr/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [العربية](https://www.amnesty.org/ar/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
+- [Who We Are](https://www.amnesty.org/en/about-us/)
 
 ## NGOs – Human Rights Watch – Tunisia
 
@@ -231,8 +244,8 @@
 - [Au Tchad, huit opposants à Mahamat Idriss Déby Itno placés en détention provisoire](https://www.jeuneafrique.com/1792579/politique/au-tchad-huit-opposants-a-mahamat-idriss-deby-itno-places-en-detention-provisoire/)
 - [Tunisie : la ministre de l’Énergie limogée sur fond de polémique sur les centrales solaires](https://www.jeuneafrique.com/1792582/politique/tunisie-la-ministre-de-lenergie-limogee-sur-fond-de-polemique-sur-les-centrales-solaires/)
 - [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
-- [Attaques au Mali : l’AES reste (presque) sans voix](https://www.jeuneafrique.com/1792312/politique/attaques-au-mali-laes-reste-presque-sans-voix/)
-- [Au Sénégal, Farba Ngom, député proche de Macky Sall, est libre](https://www.jeuneafrique.com/1792463/politique/au-senegal-farba-ngom-depute-proche-de-macky-sall-est-libre/)
+- [Cameroun : entre Laure Toukam Fotso et Albert Kouinche, une rivalité à 100 millions de francs CFA](https://www.jeuneafrique.com/1791974/politique/cameroun-entre-laure-toukam-fotso-et-albert-kouinche-une-rivalite-a-100-millions-de-francs-cfa/)
+- [RDC : ce que contient le rapport de l’Assemblée nationale sur l’état sécuritaire du pays](https://www.jeuneafrique.com/1792195/politique/rdc-ce-que-contient-le-rapport-de-lassemblee-nationale-sur-letat-securitaire-du-pays/)
 - [Côte d’Ivoire : comment le nigérian Zenith Bank compte devenir incontournable](https://www.jeuneafrique.com/1791979/economie-entreprises/cote-divoire-comment-le-nigerian-zenith-bank-compte-devenir-incontournable/)
 - [Pour son IPO, Airtel Money vise une levée de fonds d’environ 2 milliards de dollars](https://www.jeuneafrique.com/1792532/economie-entreprises/pour-son-ipo-airtel-money-vise-une-levee-de-fonds-denviron-2-milliards-de-dollars/)
 
