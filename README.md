@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 12:06*
+*Generato: 30 Apr 2026, 14:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [De Washington à Tunis : les talents tunisiens à l’assaut...](https://www.lapresse.tn/2026/04/30/de-washington-a-tunis-les-talents-tunisiens-a-lassaut-des-opportunites-mondiales/)
-- [MEDPHARMA Africa 2026 : offensive tunisienne sur le marché pharmaceutique...](https://www.lapresse.tn/2026/04/30/medpharma-africa-2026-offensive-tunisienne-sur-le-marche-pharmaceutique-ivoirien/)
+- [Nabeul : des barrages pleins à 100 % et zéro...](https://www.lapresse.tn/2026/04/30/nabeul-des-barrages-pleins-a-100-et-zero-coupure-deau-cet-ete/)
+- [Mouton de sacrifice : un prix de vente qui oscille...](https://www.lapresse.tn/2026/04/30/mouton-de-sacrifice-un-prix-de-vente-qui-oscille-entre-28-et-30-dinars-le-kilo/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
 - [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
@@ -245,9 +246,8 @@
 - [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
 - [Gabon : Brice Clotaire Oligui Nguema a-t-il vraiment accordé un passeport diplomatique à Ali Bongo Ondimba ?](https://www.jeuneafrique.com/1792882/politique/gabon-brice-clotaire-oligui-nguema-a-t-il-vraiment-accorde-un-passeport-diplomatique-a-ali-bongo-ondimba/)
 - [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
-- [Centenaire d’Abdoulaye Wade : entre hommage national au Sénégal et calculs politiques](https://www.jeuneafrique.com/1792089/politique/centenaire-dabdoulaye-wade-entre-hommage-national-au-senegal-et-calculs-politiques/)
+- [Maroc : Holmarcom acte sa montée en puissance en officialisant son rachat de BMCI à BNP Paribas](https://www.jeuneafrique.com/1792928/economie-entreprises/maroc-holmarcom-acte-sa-montee-en-puissance-en-officialisant-son-rachat-de-bmci-a-bnp-paribas/)
 - [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
-- [Azdine El Mountassir Billah (Inwi), le discret architecte du « big deal » avec Maroc Telecom](https://www.jeuneafrique.com/1792619/economie-entreprises/azdine-el-mountassir-billah-inwi-le-discret-architecte-du-big-deal-avec-maroc-telecom/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
