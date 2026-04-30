@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 19:03*
+*Generato: 30 Apr 2026, 21:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -251,6 +251,7 @@
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Le acque fossili libiche e le guerre barbaresche](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-acque-fossili-libia-e-guerre-barbaresche-mediterraneo-21814688/)
 - [Come cambia il Golfo Persico](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-porti-infrastrutture-energetiche-giacimenti-nel-golfo-persico-durante-la-guerra-usa-israele-iran-21750844/)
 - [L’Egitto e il Nilo bifronte](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-egitto-progetti-idrici-deserto-tra-new-delta-project-e-toshka-limiti-strutturali-21645666/)
 - [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
@@ -260,4 +261,3 @@
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
-- [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
