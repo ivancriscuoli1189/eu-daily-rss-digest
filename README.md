@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 29 Apr 2026, 21:49*
+*Generato: 30 Apr 2026, 07:57*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
+- [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -70,6 +70,7 @@
 ## UE – EP – Press Room
 
 - [Proxy voting rights approved for MEPs during pregnancy and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41836/proxy-voting-rights-approved-for-meps-during-pregnancy-and-after-giving-birth)
+- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41823/ep-today)
 - [Parliament sounds the alarm over the state of fundamental rights in the EU](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41840/parliament-sounds-the-alarm-over-the-state-of-fundamental-rights-in-the-eu)
 - [Rule of law: Parliament demands stronger action as threats persist](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41839/rule-of-law-parliament-demands-stronger-action-as-threats-persist)
 - [Discharge: MEPs sign off on the management of the EU’s budget in 2024](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41842/discharge-meps-sign-off-on-the-management-of-the-eu-s-budget-in-2024)
@@ -78,7 +79,6 @@
 - [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
 - [Rape must be defined based on the absence of consent in all EU countries](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41832/rape-must-be-defined-based-on-the-absence-of-consent-in-all-eu-countries)
 - [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
-- [Parliament’s 2027 budget priorities: social cohesion, competitiveness, security](https://www.europarl.europa.eu/news/en/press-room/20260424IPR41915/parliament-s-2027-budget-priorities-social-cohesion-competitiveness-security)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Encadrement de la jeunesse : Mettre en œuvre tous les...](https://www.lapresse.tn/2026/04/29/encadrement-de-la-jeunesse-mettre-en-oeuvre-tous-les-moyens-disponibles/)
-- [Pourquoi : Les municipalités…](https://www.lapresse.tn/2026/04/29/pourquoi-les-municipalites/)
+- [Bardo : la police frappe un réseau présumé de dealers](https://www.lapresse.tn/2026/04/30/bardo-la-police-frappe-un-reseau-presume-de-dealers/)
+- [EST–CSS : deux absences confirmées côté espérantiste](https://www.lapresse.tn/2026/04/30/est-css-deux-absences-confirmees-cote-esperantiste/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
+- [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
+- [Centenaire d’Abdoulaye Wade : entre hommage national au Sénégal et calculs politiques](https://www.jeuneafrique.com/1792089/politique/centenaire-dabdoulaye-wade-entre-hommage-national-au-senegal-et-calculs-politiques/)
 - [Entre la RDC et l’AFC/M23, qui freine l’échange de prisonniers décidé en Suisse ?](https://www.jeuneafrique.com/1792689/politique/entre-la-rdc-et-lafc-m23-qui-freine-lechange-de-prisonniers-decide-en-suisse/)
+- [« La fin d’un mythe » : pourquoi la Russie est la grande perdante des attaques du FLA et du Jnim au Mali](https://www.jeuneafrique.com/1792632/politique/la-fin-dun-mythe-pourquoi-la-russie-est-la-grande-perdante-des-attaques-du-fla-et-du-jnim-au-mali/)
 - [Kemi Seba en Afrique du Sud : l’activiste reste en détention, au moins jusqu’au 11 mai](https://www.jeuneafrique.com/1792720/politique/kemi-seba-en-afrique-du-sud-le-proces-de-lactiviste-reporte-au-11-mai/)
 - [À Marrakech, une prière juive échauffe les esprits et embrase les réseaux sociaux](https://www.jeuneafrique.com/1792573/politique/a-marrakech-une-priere-juive-echauffe-les-esprits-et-embrase-les-reseaux-sociaux/)
 - [Au Sénégal, adoption d’une loi « sur mesure » pour garantir l’éligibilité d’Ousmane Sonko](https://www.jeuneafrique.com/1792592/politique/au-senegal-adoption-dune-loi-sur-mesure-pour-garantir-leligibilite-dousmane-sonko/)
-- [Au Tchad, huit opposants à Mahamat Idriss Déby Itno placés en détention provisoire](https://www.jeuneafrique.com/1792579/politique/au-tchad-huit-opposants-a-mahamat-idriss-deby-itno-places-en-detention-provisoire/)
-- [Tunisie : la ministre de l’Énergie limogée sur fond de polémique sur les centrales solaires](https://www.jeuneafrique.com/1792582/politique/tunisie-la-ministre-de-lenergie-limogee-sur-fond-de-polemique-sur-les-centrales-solaires/)
-- [Maroc : le rappeur et militant islamiste Souhaib Kabli de nouveau condamné en appel](https://www.jeuneafrique.com/1792576/politique/maroc-le-rappeur-et-militant-islamiste-souhaib-kabli-de-nouveau-condamne-en-appel/)
-- [Côte d’Ivoire : avec le ralliement d’Antoine Kanga, le RHDP fait un pied de nez à Laurent Gbagbo](https://www.jeuneafrique.com/1792067/politique/cote-divoire-avec-le-ralliement-dantoine-kanga-le-rhdp-fait-un-pied-de-nez-a-laurent-gbagbo/)
 - [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
-- [Côte d’Ivoire : comment le nigérian Zenith Bank compte devenir incontournable](https://www.jeuneafrique.com/1791979/economie-entreprises/cote-divoire-comment-le-nigerian-zenith-bank-compte-devenir-incontournable/)
+- [Azdine El Mountassir Billah (Inwi), le discret architecte du « big deal » avec Maroc Telecom](https://www.jeuneafrique.com/1792619/economie-entreprises/azdine-el-mountassir-billah-inwi-le-discret-architecte-du-big-deal-avec-maroc-telecom/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
