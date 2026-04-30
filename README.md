@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 16:12*
+*Generato: 30 Apr 2026, 19:03*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -238,20 +238,19 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Assimi Goïta et le Mali rendent un dernier hommage sous haute sécurité à Sadio Camara](https://www.jeuneafrique.com/1793184/politique/assimi-goita-et-le-mali-rendent-un-dernier-hommage-sous-haute-securite-a-sadio-camara/)
 - [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
 - [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
 - [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
-- [Gabon : Brice Clotaire Oligui Nguema a-t-il vraiment accordé un passeport diplomatique à Ali Bongo Ondimba ?](https://www.jeuneafrique.com/1792882/politique/gabon-brice-clotaire-oligui-nguema-a-t-il-vraiment-accorde-un-passeport-diplomatique-a-ali-bongo-ondimba/)
-- [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
+- [Attaques au Mali : l’AES face à son premier test de crédibilité](https://www.jeuneafrique.com/1792815/politique/attaques-au-mali-laes-face-a-son-premier-test-de-credibilite/)
+- [Pourquoi Axa parie sur un modèle inédit pour conquérir un marché africain sous-assuré](https://www.jeuneafrique.com/1792468/economie-entreprises/pourquoi-axa-parie-sur-un-modele-inedit-pour-conquerir-un-marche-africain-sous-assure/)
 - [Maroc : Holmarcom acte sa montée en puissance en officialisant son rachat de BMCI à BNP Paribas](https://www.jeuneafrique.com/1792928/economie-entreprises/maroc-holmarcom-acte-sa-montee-en-puissance-en-officialisant-son-rachat-de-bmci-a-bnp-paribas/)
-- [L’économiste Ablam Estel Apeti : « La digitalisation a un effet positif sur les recettes fiscales »](https://www.jeuneafrique.com/1792225/economie-entreprises/leconomiste-ablam-estel-apeti-la-digitalisation-a-un-effet-positif-sur-les-recettes-fiscales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
-- [Le acque fossili libiche e le guerre barbaresche](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-acque-fossili-libia-e-guerre-barbaresche-mediterraneo-21814688/)
 - [Come cambia il Golfo Persico](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-porti-infrastrutture-energetiche-giacimenti-nel-golfo-persico-durante-la-guerra-usa-israele-iran-21750844/)
 - [L’Egitto e il Nilo bifronte](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-egitto-progetti-idrici-deserto-tra-new-delta-project-e-toshka-limiti-strutturali-21645666/)
 - [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
@@ -261,3 +260,4 @@
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
+- [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
