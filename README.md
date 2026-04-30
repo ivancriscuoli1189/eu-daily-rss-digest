@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 14:56*
+*Generato: 30 Apr 2026, 16:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -247,10 +247,11 @@
 - [Gabon : Brice Clotaire Oligui Nguema a-t-il vraiment accordé un passeport diplomatique à Ali Bongo Ondimba ?](https://www.jeuneafrique.com/1792882/politique/gabon-brice-clotaire-oligui-nguema-a-t-il-vraiment-accorde-un-passeport-diplomatique-a-ali-bongo-ondimba/)
 - [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
 - [Maroc : Holmarcom acte sa montée en puissance en officialisant son rachat de BMCI à BNP Paribas](https://www.jeuneafrique.com/1792928/economie-entreprises/maroc-holmarcom-acte-sa-montee-en-puissance-en-officialisant-son-rachat-de-bmci-a-bnp-paribas/)
-- [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
+- [L’économiste Ablam Estel Apeti : « La digitalisation a un effet positif sur les recettes fiscales »](https://www.jeuneafrique.com/1792225/economie-entreprises/leconomiste-ablam-estel-apeti-la-digitalisation-a-un-effet-positif-sur-les-recettes-fiscales/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
+- [Le acque fossili libiche e le guerre barbaresche](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-acque-fossili-libia-e-guerre-barbaresche-mediterraneo-21814688/)
 - [Come cambia il Golfo Persico](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-porti-infrastrutture-energetiche-giacimenti-nel-golfo-persico-durante-la-guerra-usa-israele-iran-21750844/)
 - [L’Egitto e il Nilo bifronte](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-egitto-progetti-idrici-deserto-tra-new-delta-project-e-toshka-limiti-strutturali-21645666/)
 - [Un cuore di metallo incandescente: il corridoio di Lobito e le regioni di Kivu](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-corridoio-di-lobito-rotta-strategica-al-cuore-dell-africa-21578021/)
@@ -260,4 +261,3 @@
 - [Dopo il Venezuela, anche la Guyana?](https://www.limesonline.com/rubriche/dopo-il-venezuela-gli-usa-punteranno-anche-la-guyana-riserve-petrolio-patrimonio-biodiversita-21169493/)
 - [Petrolio venezuelano o escremento del diavolo?](https://www.limesonline.com/rubriche/mappe-parlanti/mappe-parlanti-petrolio-industria-idrocarburi-venezuela-21104989/)
 - [Ma la Groenlandia non sembra più grande dell'Africa?](https://www.limesonline.com/rubriche/mappe-parlanti/ma-la-groenlandia-non-sembra-piu-grande-dell-africa-21007447/)
-- [L'Europa vista dagli Usa](https://www.limesonline.com/rubriche/mappe-parlanti/l-europa-vista-dagli-usa-20883639/)
