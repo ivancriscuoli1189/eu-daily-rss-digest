@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 10:44*
+*Generato: 30 Apr 2026, 12:06*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,6 +69,8 @@
 
 ## UE – EP – Press Room
 
+- [Parliament demands justice and accountability for civilian victims in Ukraine](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41843/parliament-demands-justice-and-accountability-for-civilian-victims-in-ukraine)
+- [Parliament wants stronger action against cyberbullying in the EU](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41845/parliament-wants-stronger-action-against-cyberbullying-in-the-eu)
 - [Digital Markets Act: MEPs want stronger enforcement amid external pushback](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41844/digital-markets-act-meps-want-stronger-enforcement-amid-external-pushback)
 - [Human rights violations in Haiti, China and Venezuela](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41846/human-rights-violations-in-haiti-china-and-venezuela)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41823/ep-today)
@@ -77,13 +79,11 @@
 - [Discharge: MEPs sign off on the management of the EU’s budget in 2024](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41842/discharge-meps-sign-off-on-the-management-of-the-eu-s-budget-in-2024)
 - [EU support to help 507 Belgian workers find a new job](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41841/eu-support-to-help-507-belgian-workers-find-a-new-job)
 - [Proxy voting rights approved for MEPs during pregnancy and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41836/proxy-voting-rights-approved-for-meps-during-pregnancy-and-after-giving-birth)
-- [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41822/ep-today)
-- [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Impôts : cinq dates clés à retenir pour mai 2026](https://www.lapresse.tn/2026/04/30/impots-cinq-dates-cles-a-retenir-pour-mai-2026/)
-- [Où suivre en direct le classico Espérance de Tunis –...](https://www.lapresse.tn/2026/04/30/ou-suivre-en-direct-le-classico-esperance-de-tunis-club-sportif-sfaxien/)
+- [De Washington à Tunis : les talents tunisiens à l’assaut...](https://www.lapresse.tn/2026/04/30/de-washington-a-tunis-les-talents-tunisiens-a-lassaut-des-opportunites-mondiales/)
+- [MEDPHARMA Africa 2026 : offensive tunisienne sur le marché pharmaceutique...](https://www.lapresse.tn/2026/04/30/medpharma-africa-2026-offensive-tunisienne-sur-le-marche-pharmaceutique-ivoirien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
 - [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
@@ -245,7 +246,6 @@
 - [Gabon : Brice Clotaire Oligui Nguema a-t-il vraiment accordé un passeport diplomatique à Ali Bongo Ondimba ?](https://www.jeuneafrique.com/1792882/politique/gabon-brice-clotaire-oligui-nguema-a-t-il-vraiment-accorde-un-passeport-diplomatique-a-ali-bongo-ondimba/)
 - [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
 - [Centenaire d’Abdoulaye Wade : entre hommage national au Sénégal et calculs politiques](https://www.jeuneafrique.com/1792089/politique/centenaire-dabdoulaye-wade-entre-hommage-national-au-senegal-et-calculs-politiques/)
-- [Entre la RDC et l’AFC/M23, qui freine l’échange de prisonniers décidé en Suisse ?](https://www.jeuneafrique.com/1792689/politique/entre-la-rdc-et-lafc-m23-qui-freine-lechange-de-prisonniers-decide-en-suisse/)
 - [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
 - [Azdine El Mountassir Billah (Inwi), le discret architecte du « big deal » avec Maroc Telecom](https://www.jeuneafrique.com/1792619/economie-entreprises/azdine-el-mountassir-billah-inwi-le-discret-architecte-du-big-deal-avec-maroc-telecom/)
 
