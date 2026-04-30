@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 07:57*
+*Generato: 30 Apr 2026, 10:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -69,21 +69,21 @@
 
 ## UE – EP – Press Room
 
-- [Proxy voting rights approved for MEPs during pregnancy and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41836/proxy-voting-rights-approved-for-meps-during-pregnancy-and-after-giving-birth)
+- [Digital Markets Act: MEPs want stronger enforcement amid external pushback](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41844/digital-markets-act-meps-want-stronger-enforcement-amid-external-pushback)
+- [Human rights violations in Haiti, China and Venezuela](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41846/human-rights-violations-in-haiti-china-and-venezuela)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41823/ep-today)
 - [Parliament sounds the alarm over the state of fundamental rights in the EU](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41840/parliament-sounds-the-alarm-over-the-state-of-fundamental-rights-in-the-eu)
 - [Rule of law: Parliament demands stronger action as threats persist](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41839/rule-of-law-parliament-demands-stronger-action-as-threats-persist)
 - [Discharge: MEPs sign off on the management of the EU’s budget in 2024](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41842/discharge-meps-sign-off-on-the-management-of-the-eu-s-budget-in-2024)
 - [EU support to help 507 Belgian workers find a new job](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41841/eu-support-to-help-507-belgian-workers-find-a-new-job)
+- [Proxy voting rights approved for MEPs during pregnancy and after giving birth](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41836/proxy-voting-rights-approved-for-meps-during-pregnancy-and-after-giving-birth)
 - [EP TODAY](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41822/ep-today)
 - [Parliament endorses renewed EU trade instrument for development](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41834/parliament-endorses-renewed-eu-trade-instrument-for-development)
-- [Rape must be defined based on the absence of consent in all EU countries](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41832/rape-must-be-defined-based-on-the-absence-of-consent-in-all-eu-countries)
-- [First EU rules to protect cats and dogs from abuses](https://www.europarl.europa.eu/news/en/press-room/20260423IPR41833/first-eu-rules-to-protect-cats-and-dogs-from-abuses)
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Bardo : la police frappe un réseau présumé de dealers](https://www.lapresse.tn/2026/04/30/bardo-la-police-frappe-un-reseau-presume-de-dealers/)
-- [EST–CSS : deux absences confirmées côté espérantiste](https://www.lapresse.tn/2026/04/30/est-css-deux-absences-confirmees-cote-esperantiste/)
+- [Impôts : cinq dates clés à retenir pour mai 2026](https://www.lapresse.tn/2026/04/30/impots-cinq-dates-cles-a-retenir-pour-mai-2026/)
+- [Où suivre en direct le classico Espérance de Tunis –...](https://www.lapresse.tn/2026/04/30/ou-suivre-en-direct-le-classico-esperance-de-tunis-club-sportif-sfaxien/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
+- [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
+- [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
+- [Gabon : Brice Clotaire Oligui Nguema a-t-il vraiment accordé un passeport diplomatique à Ali Bongo Ondimba ?](https://www.jeuneafrique.com/1792882/politique/gabon-brice-clotaire-oligui-nguema-a-t-il-vraiment-accorde-un-passeport-diplomatique-a-ali-bongo-ondimba/)
 - [Étienne Fakaba Sissoko : « Assimi Goïta doit démissionner avant d’aggraver la fracture nationale »](https://www.jeuneafrique.com/1792841/politique/etienne-fakaba-sissoko-assimi-goita-doit-demissionner-avant-daggraver-la-fracture-nationale/)
 - [Centenaire d’Abdoulaye Wade : entre hommage national au Sénégal et calculs politiques](https://www.jeuneafrique.com/1792089/politique/centenaire-dabdoulaye-wade-entre-hommage-national-au-senegal-et-calculs-politiques/)
 - [Entre la RDC et l’AFC/M23, qui freine l’échange de prisonniers décidé en Suisse ?](https://www.jeuneafrique.com/1792689/politique/entre-la-rdc-et-lafc-m23-qui-freine-lechange-de-prisonniers-decide-en-suisse/)
-- [« La fin d’un mythe » : pourquoi la Russie est la grande perdante des attaques du FLA et du Jnim au Mali](https://www.jeuneafrique.com/1792632/politique/la-fin-dun-mythe-pourquoi-la-russie-est-la-grande-perdante-des-attaques-du-fla-et-du-jnim-au-mali/)
-- [Kemi Seba en Afrique du Sud : l’activiste reste en détention, au moins jusqu’au 11 mai](https://www.jeuneafrique.com/1792720/politique/kemi-seba-en-afrique-du-sud-le-proces-de-lactiviste-reporte-au-11-mai/)
-- [À Marrakech, une prière juive échauffe les esprits et embrase les réseaux sociaux](https://www.jeuneafrique.com/1792573/politique/a-marrakech-une-priere-juive-echauffe-les-esprits-et-embrase-les-reseaux-sociaux/)
-- [Au Sénégal, adoption d’une loi « sur mesure » pour garantir l’éligibilité d’Ousmane Sonko](https://www.jeuneafrique.com/1792592/politique/au-senegal-adoption-dune-loi-sur-mesure-pour-garantir-leligibilite-dousmane-sonko/)
 - [Canal+ Afrique : des recettes francophones pour séduire les marchés anglophones](https://www.jeuneafrique.com/1792630/economie-entreprises/canal-afrique-des-recettes-francophones-pour-seduire-les-marches-anglophones/)
 - [Azdine El Mountassir Billah (Inwi), le discret architecte du « big deal » avec Maroc Telecom](https://www.jeuneafrique.com/1792619/economie-entreprises/azdine-el-mountassir-billah-inwi-le-discret-architecte-du-big-deal-avec-maroc-telecom/)
 
