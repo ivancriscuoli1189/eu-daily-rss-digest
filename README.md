@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 07:56*
+*Generato: 01 May 2026, 10:13*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -106,19 +106,6 @@
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
 
-## UE – DG NEAR – Tunisia – News
-
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
-
 ## UE – DG HOME – News
 
 - [bg български](https://home-affairs.ec.europa.eu/news_bg)
@@ -142,8 +129,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nabeul : barrages remplis à 100 %, aucune coupure d’eau...](https://www.lapresse.tn/2026/04/30/nabeul-barrages-remplis-a-100-aucune-coupure-deau-prevue-cet-ete/)
-- [Salaires, primes, retraites : ce qui change concrètement dès 2026](https://www.lapresse.tn/2026/04/30/salaires-primes-retraites-ce-qui-change-concretement-des-2026/)
+- [Vient de paraître : Le chemin de mon destin du...](https://www.lapresse.tn/2026/05/01/vient-de-paraitre-le-chemin-de-mon-destin-du-dr-hedi-ben-maiz/)
+- [50ᵉ édition du Trophée Hassan II de Golf et 29e...](https://www.lapresse.tn/2026/05/01/50%e1%b5%89-edition-du-trophee-hassan-ii-de-golf-et-29e-coupe-lalla-meryem-cinquante-editions-dhistoire-de-rayonnement-et-de-developpement/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -157,6 +144,19 @@
 - [简中](https://www.amnesty.org/zh-hans/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
+
+## NGOs – Human Rights Watch – Tunisia
+
+- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
+- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
+- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
+- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
+- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
+- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
+- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
+- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
+- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
+- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
 
 ## NGOs – International Commission of Jurists – News & Advocacy
 
@@ -225,7 +225,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [Attaques au Mali : comment le Jnim et le FLA ont secrètement construit leur offensive](https://www.jeuneafrique.com/1793102/politique/attaques-au-mali-comment-le-jnim-et-le-fla-ont-secretement-construit-leur-offensive/)
+- [Rassurer avant de riposter : au Mali, la stratégie d’Assimi Goïta après le choc du 25 avril](https://www.jeuneafrique.com/1793172/politique/rassurer-avant-de-riposter-au-mali-la-strategie-dassimi-goita-apres-le-choc-du-25-avril/)
 - [Assimi Goïta et le Mali rendent un dernier hommage sous haute sécurité à Sadio Camara](https://www.jeuneafrique.com/1793184/politique/assimi-goita-et-le-mali-rendent-un-dernier-hommage-sous-haute-securite-a-sadio-camara/)
 - [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
@@ -233,8 +233,8 @@
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
 - [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
-- [Pourquoi Axa parie sur un modèle inédit pour conquérir un marché africain sous-assuré](https://www.jeuneafrique.com/1792468/economie-entreprises/pourquoi-axa-parie-sur-un-modele-inedit-pour-conquerir-un-marche-africain-sous-assure/)
-- [Maroc : Holmarcom acte sa montée en puissance en officialisant son rachat de BMCI à BNP Paribas](https://www.jeuneafrique.com/1792928/economie-entreprises/maroc-holmarcom-acte-sa-montee-en-puissance-en-officialisant-son-rachat-de-bmci-a-bnp-paribas/)
+- [Abdoulaye Ndiaye : « Nous avons besoin d’économistes décideurs, mais aussi d’économistes penseurs »](https://www.jeuneafrique.com/1792771/economie-entreprises/abdoulaye-ndiaye-nous-avons-besoin-deconomistes-decideurs-mais-aussi-deconomistes-penseurs/)
+- [Pétrole, engrais, métaux : le choc des matières premières qui menace le rebond africain](https://www.jeuneafrique.com/1792760/economie-entreprises/petrole-engrais-metaux-le-choc-des-matieres-premieres-qui-menace-le-rebond-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
