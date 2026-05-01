@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 10:13*
+*Generato: 01 May 2026, 11:49*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -105,6 +105,19 @@
 - [en English](https://commission.europa.eu/news-and-media_en)
 - [fr français](https://commission.europa.eu/news-and-media_fr)
 - [ga Gaeilge](https://commission.europa.eu/news-and-media_ga)
+
+## UE – DG NEAR – Tunisia – News
+
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -129,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Vient de paraître : Le chemin de mon destin du...](https://www.lapresse.tn/2026/05/01/vient-de-paraitre-le-chemin-de-mon-destin-du-dr-hedi-ben-maiz/)
-- [50ᵉ édition du Trophée Hassan II de Golf et 29e...](https://www.lapresse.tn/2026/05/01/50%e1%b5%89-edition-du-trophee-hassan-ii-de-golf-et-29e-coupe-lalla-meryem-cinquante-editions-dhistoire-de-rayonnement-et-de-developpement/)
+- [Tunisie : les avoirs en devises reculent de 8,2 %...](https://www.lapresse.tn/2026/05/01/tunisie-les-avoirs-en-devises-reculent-de-82-en-2025/)
+- [Salaires : une hausse de 5 % en 2026 jugée...](https://www.lapresse.tn/2026/05/01/salaires-une-hausse-de-5-en-2026-jugee-excellente-par-le-ministre-des-affaires-sociales/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -233,8 +246,8 @@
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
 - [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
+- [Pourquoi la BEAC met la pression sur les pétroliers et les États sur le rapatriement des devises](https://www.jeuneafrique.com/1792897/economie-entreprises/pourquoi-la-beac-met-la-pression-sur-les-petroliers-et-les-etats-sur-le-rapatriement-des-devises/)
 - [Abdoulaye Ndiaye : « Nous avons besoin d’économistes décideurs, mais aussi d’économistes penseurs »](https://www.jeuneafrique.com/1792771/economie-entreprises/abdoulaye-ndiaye-nous-avons-besoin-deconomistes-decideurs-mais-aussi-deconomistes-penseurs/)
-- [Pétrole, engrais, métaux : le choc des matières premières qui menace le rebond africain](https://www.jeuneafrique.com/1792760/economie-entreprises/petrole-engrais-metaux-le-choc-des-matieres-premieres-qui-menace-le-rebond-africain/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
