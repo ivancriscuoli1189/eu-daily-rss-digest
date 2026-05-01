@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 30 Apr 2026, 21:44*
+*Generato: 01 May 2026, 07:56*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -48,8 +48,8 @@
 - [Commerce Extérieur aux prix courants, Février 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-fevrier-2026)
 - [Enquête d’opinion auprès des chefs d'entreprises privés, Deuxième Semestre 2025](https://www.ins.tn/publication/enquete-dopinion-aupres-des-chefs-dentreprises-prives-deuxieme-semestre-2025)
 - [Indice des prix à la consommation, Février 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-fevrier-2026)
-- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [La croissance économique au quatrième trimestre 2025](https://www.ins.tn/publication/la-croissance-economique-au-quatrieme-trimestre-2025)
+- [Indicateurs de l’emploi et du chômage, quatrième trimestre 2025](https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2025)
 - [Commerce Extérieur aux prix courants, Janvier 2026](https://www.ins.tn/publication/commerce-exterieur-aux-prix-courants-janvier-2026)
 - [Indice des prix à la consommation, Janvier 2026](https://www.ins.tn/publication/indice-des-prix-la-consommation-janvier-2026)
 - [Compte Satellite du Tourisme 2023-2024](https://www.ins.tn/publication/compte-satellite-du-tourisme-2023-2024)
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Nabeul : des barrages pleins à 100 % et zéro...](https://www.lapresse.tn/2026/04/30/nabeul-des-barrages-pleins-a-100-et-zero-coupure-deau-cet-ete/)
-- [Mouton de sacrifice : un prix de vente qui oscille...](https://www.lapresse.tn/2026/04/30/mouton-de-sacrifice-un-prix-de-vente-qui-oscille-entre-28-et-30-dinars-le-kilo/)
+- [Nabeul : barrages remplis à 100 %, aucune coupure d’eau...](https://www.lapresse.tn/2026/04/30/nabeul-barrages-remplis-a-100-aucune-coupure-deau-prevue-cet-ete/)
+- [Salaires, primes, retraites : ce qui change concrètement dès 2026](https://www.lapresse.tn/2026/04/30/salaires-primes-retraites-ce-qui-change-concretement-des-2026/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -158,31 +158,18 @@
 - [Русский](https://www.amnesty.org/ru/location/middle-east-and-north-africa/north-africa/tunisia/)
 - [Who We Are](https://www.amnesty.org/en/about-us/)
 
-## NGOs – Human Rights Watch – Tunisia
-
-- [“All Conspirators”](https://www.hrw.org/report/2025/04/16/all-conspirators/how-tunisia-uses-arbitrary-detention-crush-dissent)
-- [“No Way Out”](https://www.hrw.org/report/2024/06/10/no-way-out/debt-imprisonment-tunisia)
-- [Tunisia: No Safe Haven for Black African Migrants, Refugees](https://www.hrw.org/news/2023/07/19/tunisia-no-safe-haven-black-african-migrants-refugees)
-- [Middle East and North Africa: End Curbs on Women’s Mobility](https://www.hrw.org/news/2023/07/18/middle-east-and-north-africa-end-curbs-womens-mobility)
-- [Tunisia: Harsh Sentences in ‘Conspiracy Case’ Appeal](https://www.hrw.org/news/2025/11/28/tunisia-harsh-sentences-in-conspiracy-case-appeal)
-- [Tunisia: Abusive Prosecutions of Refugee Group](https://www.hrw.org/news/2025/11/24/tunisia-abusive-prosecutions-of-refugee-group)
-- [Tunisia: Overturn Unjust ‘Conspiracy’ Trial Convictions](https://www.hrw.org/news/2025/11/14/tunisia-overturn-unjust-conspiracy-trial-convictions)
-- [Tunisia: Death Sentence for Facebook Posts](https://www.hrw.org/news/2025/10/08/tunisia-death-sentence-for-facebook-posts)
-- [Shadow Report on the Implementation of the African Charter on Human and Peoples’ Rights and the Protocol to the African Charter on Human and Peoples’ Rights by Tunisia](https://www.hrw.org/news/2025/09/26/shadow-report-on-the-implementation-of-the-african-charter-on-human-and-peoples)
-- [The EU Has Simply Abandoned Human Rights in Tunisia](https://www.hrw.org/news/2025/05/12/eu-has-simply-abandoned-human-rights-tunisia)
-
 ## NGOs – International Commission of Jurists – News & Advocacy
 
+- [Nepal: Balen Government Should Bring Human Rights Reforms](https://www.icj.org/nepal-balen-government-should-bring-human-rights-reforms/)
 - [Global experts warn of eroding judicial independence amidst the rise of authoritarianism around the world](https://www.icj.org/global-experts-warn-of-eroding-judicial-independence-amidst-the-rise-of-authoritarianism-around-the-world/)
 - [Development of the Crimes Against Humanity Convention](https://www.icj.org/development-of-the-crimes-against-humanity-convention/)
 - [ICJ Publications on the Crimes Against Humanity Convention](https://www.icj.org/icj-publications-on-the-crimes-against-humanity-convention/)
 - [Preparatory Committee meetings for the negotiation of the Crimes Against Humanity Convention](https://www.icj.org/preparatory-committee-meetings-for-the-negotiation-of-the-crimes-against-humanity-convention/)
 - [Intervention in landmark European Court case on citizenship rights and trafficking: Shamima Begum v. the UK](https://www.icj.org/intervention-in-landmark-european-court-case-on-citizenship-rights-and-trafficking-shamima-begum-v-the-uk/)
-- [EU: Strategies and good practices for ensuring the child’s right to be heard and to participate in legal proceedings](https://www.icj.org/eu-strategies-and-good-practices-for-ensuring-the-childs-right-to-be-heard-and-to-participate-in-legal-proceedings/)
 - [Tajikistan: barriers faced by survivors of gender-based violence](https://www.icj.org/tajikistan-barriers-faced-by-survivors-of-gender-based-violence/)
 - [Occupied Palestinian Territory (OPT): Pursuing Accountability for Reproductive Violence as Genocide](https://www.icj.org/occupied-palestinian-territory-opt-pursuing-accountability-for-reproductive-violence-as-genocide/)
+- [EU: Strategies and good practices for ensuring the child’s right to be heard and to participate in legal proceedings](https://www.icj.org/eu-strategies-and-good-practices-for-ensuring-the-childs-right-to-be-heard-and-to-participate-in-legal-proceedings/)
 - [Serbia: Arbitrarily detained lawyer Cedomir Stojkovic must be released](https://www.icj.org/serbia-arbitrarily-detained-lawyer-cedomir-stojkovic-must-be-released/)
-- [Tajikistan: ICJ and Right and Prosperity publish observations on gender-based violence and access to justice ahead of the Universal Periodic Review](https://www.icj.org/tajikistan-icj-and-right-and-prosperity-publish-observations-on-gender-based-violence-and-access-to-justice-ahead-of-the-universal-periodic-review/)
 
 ## THINK TANK – Carnegie MENA – Research
 
@@ -238,6 +225,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Attaques au Mali : comment le Jnim et le FLA ont secrètement construit leur offensive](https://www.jeuneafrique.com/1793102/politique/attaques-au-mali-comment-le-jnim-et-le-fla-ont-secretement-construit-leur-offensive/)
 - [Assimi Goïta et le Mali rendent un dernier hommage sous haute sécurité à Sadio Camara](https://www.jeuneafrique.com/1793184/politique/assimi-goita-et-le-mali-rendent-un-dernier-hommage-sous-haute-securite-a-sadio-camara/)
 - [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
@@ -245,7 +233,6 @@
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
 - [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
-- [Attaques au Mali : l’AES face à son premier test de crédibilité](https://www.jeuneafrique.com/1792815/politique/attaques-au-mali-laes-face-a-son-premier-test-de-credibilite/)
 - [Pourquoi Axa parie sur un modèle inédit pour conquérir un marché africain sous-assuré](https://www.jeuneafrique.com/1792468/economie-entreprises/pourquoi-axa-parie-sur-un-modele-inedit-pour-conquerir-un-marche-africain-sous-assure/)
 - [Maroc : Holmarcom acte sa montée en puissance en officialisant son rachat de BMCI à BNP Paribas](https://www.jeuneafrique.com/1792928/economie-entreprises/maroc-holmarcom-acte-sa-montee-en-puissance-en-officialisant-son-rachat-de-bmci-a-bnp-paribas/)
 
