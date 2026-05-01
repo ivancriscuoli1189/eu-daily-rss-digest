@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 15:44*
+*Generato: 01 May 2026, 18:53*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Retards de livraison Geely en Tunisie : ce que dit...](https://www.lapresse.tn/2026/05/01/retards-de-livraison-geely-en-tunisie-ce-que-dit-le-concessionnaire-sur-les-delais/)
-- [Manouba : un chantier routier relancé sous pression des habitants](https://www.lapresse.tn/2026/05/01/manouba-un-chantier-routier-relance-sous-pression-des-habitants/)
+- [Pourquoi : Le foyer de la rue Ibn-Khaldoun](https://www.lapresse.tn/2026/05/01/pourquoi-le-foyer-de-la-rue-ibn-khaldoun/)
+- [Walid Ben Amor, président du cluster des industries électroniques Elentica,...](https://www.lapresse.tn/2026/05/01/walid-ben-amor-president-du-cluster-des-industries-electroniques-elentica-a-la-presse-faire-de-notre-secteur-un-levier-majeur-de-contribution-au-pib/)
 
 ## NGOs – Amnesty International – Tunisia
 
