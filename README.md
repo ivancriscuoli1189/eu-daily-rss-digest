@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 14:12*
+*Generato: 01 May 2026, 15:44*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Foot : l’Iran participera à la Coupe du monde et...](https://www.lapresse.tn/2026/05/01/foot-liran-participera-a-la-coupe-du-monde-et-jouera-aux-etats-unis-dit-infantino/)
-- [Tunisie : une découverte riche en cuivre, argent et zinc...](https://www.lapresse.tn/2026/05/01/tunisie-une-decouverte-riche-en-cuivre-argent-et-zinc-attire-lattention-mondiale-ce-que-lon-sait-a-ce-stade/)
+- [Retards de livraison Geely en Tunisie : ce que dit...](https://www.lapresse.tn/2026/05/01/retards-de-livraison-geely-en-tunisie-ce-que-dit-le-concessionnaire-sur-les-delais/)
+- [Manouba : un chantier routier relancé sous pression des habitants](https://www.lapresse.tn/2026/05/01/manouba-un-chantier-routier-relance-sous-pression-des-habitants/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,6 +238,7 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [L’armée malienne et ses alliés russes ont fait « reddition » à Tessalit](https://www.jeuneafrique.com/1793380/politique/larmee-malienne-et-ses-allies-russes-ont-fait-reddition-a-tessalit/)
 - [Le torchon brûle entre Madagascar et la France](https://www.jeuneafrique.com/1793094/politique/le-torchon-brule-entre-madagascar-et-la-france/)
 - [RDC : Joseph Kabila sanctionné par Washington pour ses liens avec l’AFC/ M23](https://www.jeuneafrique.com/1793349/politique/rdc-joseph-kabila-sanctionne-par-washington-pour-ses-liens-avec-lafc-m23/)
 - [Rassurer avant de riposter : au Mali, la stratégie d’Assimi Goïta après le choc du 25 avril](https://www.jeuneafrique.com/1793172/politique/rassurer-avant-de-riposter-au-mali-la-strategie-dassimi-goita-apres-le-choc-du-25-avril/)
@@ -245,7 +246,6 @@
 - [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
 - [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
-- [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
 - [Pourquoi la BEAC met la pression sur les pétroliers et les États sur le rapatriement des devises](https://www.jeuneafrique.com/1792897/economie-entreprises/pourquoi-la-beac-met-la-pression-sur-les-petroliers-et-les-etats-sur-le-rapatriement-des-devises/)
 - [Abdoulaye Ndiaye : « Nous avons besoin d’économistes décideurs, mais aussi d’économistes penseurs »](https://www.jeuneafrique.com/1792771/economie-entreprises/abdoulaye-ndiaye-nous-avons-besoin-deconomistes-decideurs-mais-aussi-deconomistes-penseurs/)
 
