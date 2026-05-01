@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 18:53*
+*Generato: 01 May 2026, 21:41*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg)
-- [es español](https://enlargement.ec.europa.eu/news_es)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
-- [da dansk](https://enlargement.ec.europa.eu/news_da)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
-- [et eesti](https://enlargement.ec.europa.eu/news_et)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
-- [en English](https://enlargement.ec.europa.eu/news_en)
-- [fr français](https://enlargement.ec.europa.eu/news_fr)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
+- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
+- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
+- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
+- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
+- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
+- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Pourquoi : Le foyer de la rue Ibn-Khaldoun](https://www.lapresse.tn/2026/05/01/pourquoi-le-foyer-de-la-rue-ibn-khaldoun/)
-- [Walid Ben Amor, président du cluster des industries électroniques Elentica,...](https://www.lapresse.tn/2026/05/01/walid-ben-amor-president-du-cluster-des-industries-electroniques-elentica-a-la-presse-faire-de-notre-secteur-un-levier-majeur-de-contribution-au-pib/)
+- [Volley-ball : l’Étoile du Sahel file en demi-finales de la...](https://www.lapresse.tn/2026/05/01/volley-ball-letoile-du-sahel-file-en-demi-finales-de-la-coupe-de-tunisie/)
+- [Hausse du SMIG et du SMAG : quel impact réel...](https://www.lapresse.tn/2026/05/01/hausse-du-smig-et-du-smag-quel-impact-reel-pour-les-salaries/)
 
 ## NGOs – Amnesty International – Tunisia
 
