@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 12:47*
+*Generato: 01 May 2026, 14:12*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [EN - English](https://oeil.europarl.europa.eu/oeil/en)
+- [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Tunisie : les avoirs en devises reculent de 8,2 %...](https://www.lapresse.tn/2026/05/01/tunisie-les-avoirs-en-devises-reculent-de-82-en-2025/)
-- [Salaires : une hausse de 5 % en 2026 jugée...](https://www.lapresse.tn/2026/05/01/salaires-une-hausse-de-5-en-2026-jugee-excellente-par-le-ministre-des-affaires-sociales/)
+- [Foot : l’Iran participera à la Coupe du monde et...](https://www.lapresse.tn/2026/05/01/foot-liran-participera-a-la-coupe-du-monde-et-jouera-aux-etats-unis-dit-infantino/)
+- [Tunisie : une découverte riche en cuivre, argent et zinc...](https://www.lapresse.tn/2026/05/01/tunisie-une-decouverte-riche-en-cuivre-argent-et-zinc-attire-lattention-mondiale-ce-que-lon-sait-a-ce-stade/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,14 +238,14 @@
 
 ## MAGAZINES – Jeune Afrique
 
+- [Le torchon brûle entre Madagascar et la France](https://www.jeuneafrique.com/1793094/politique/le-torchon-brule-entre-madagascar-et-la-france/)
+- [RDC : Joseph Kabila sanctionné par Washington pour ses liens avec l’AFC/ M23](https://www.jeuneafrique.com/1793349/politique/rdc-joseph-kabila-sanctionne-par-washington-pour-ses-liens-avec-lafc-m23/)
 - [Rassurer avant de riposter : au Mali, la stratégie d’Assimi Goïta après le choc du 25 avril](https://www.jeuneafrique.com/1793172/politique/rassurer-avant-de-riposter-au-mali-la-strategie-dassimi-goita-apres-le-choc-du-25-avril/)
 - [Assimi Goïta et le Mali rendent un dernier hommage sous haute sécurité à Sadio Camara](https://www.jeuneafrique.com/1793184/politique/assimi-goita-et-le-mali-rendent-un-dernier-hommage-sous-haute-securite-a-sadio-camara/)
 - [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
 - [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
 - [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
 - [Burkina Faso : après les attaques au Mali, Ibrahim Traoré renforce la sécurité à Ouagadougou](https://www.jeuneafrique.com/1792959/politique/burkina-faso-apres-les-attaques-au-mali-ibrahim-traore-renforce-la-securite-a-ouagadougou/)
-- [La Libye, l’Algérie et la Tunisie s’engagent à « une exploitation équitable » des eaux du Sahara](https://www.jeuneafrique.com/1792951/politique/la-libye-lalgerie-et-la-tunisie-sengagent-a-une-exploitation-equitable-des-eaux-du-sahara/)
-- [Après Zetchi et Amara, un troisième ex-dirigeant de la Fédération algérienne de football en prison](https://www.jeuneafrique.com/1792732/politique/apres-zetchi-et-amara-un-troisieme-ex-dirigeant-de-la-federation-algerienne-de-football-en-prison/)
 - [Pourquoi la BEAC met la pression sur les pétroliers et les États sur le rapatriement des devises](https://www.jeuneafrique.com/1792897/economie-entreprises/pourquoi-la-beac-met-la-pression-sur-les-petroliers-et-les-etats-sur-le-rapatriement-des-devises/)
 - [Abdoulaye Ndiaye : « Nous avons besoin d’économistes décideurs, mais aussi d’économistes penseurs »](https://www.jeuneafrique.com/1792771/economie-entreprises/abdoulaye-ndiaye-nous-avons-besoin-deconomistes-decideurs-mais-aussi-deconomistes-penseurs/)
 
