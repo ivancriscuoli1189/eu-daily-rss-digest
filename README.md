@@ -1,6 +1,6 @@
 # Daily EU/Tunisia Digest
 
-*Generato: 01 May 2026, 21:41*
+*Generato: 04 May 2026, 08:11*
 
 ## ITALIA ISTITUZIONI – MAECI – Comunicati stampa
 
@@ -82,8 +82,8 @@
 
 ## UE – EP – OEIL (Osservatorio Legislativo)
 
-- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [FR - français](https://oeil.europarl.europa.eu/oeil/fr)
+- [EN - English](https://oeil.europarl.europa.eu/oeil/en)
 - [News](https://www.europarl.europa.eu/news/en)
 - [Topics](https://www.europarl.europa.eu/topics/en)
 - [MEPs](https://www.europarl.europa.eu/meps/en)
@@ -108,16 +108,16 @@
 
 ## UE – DG NEAR – Tunisia – News
 
-- [bg български](https://enlargement.ec.europa.eu/news_bg?country=Tunisia)
-- [es español](https://enlargement.ec.europa.eu/news_es?country=Tunisia)
-- [cs čeština](https://enlargement.ec.europa.eu/news_cs?country=Tunisia)
-- [da dansk](https://enlargement.ec.europa.eu/news_da?country=Tunisia)
-- [de Deutsch](https://enlargement.ec.europa.eu/news_de?country=Tunisia)
-- [et eesti](https://enlargement.ec.europa.eu/news_et?country=Tunisia)
-- [el ελληνικά](https://enlargement.ec.europa.eu/news_el?country=Tunisia)
-- [en English](https://enlargement.ec.europa.eu/news_en?country=Tunisia)
-- [fr français](https://enlargement.ec.europa.eu/news_fr?country=Tunisia)
-- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga?country=Tunisia)
+- [bg български](https://enlargement.ec.europa.eu/news_bg)
+- [es español](https://enlargement.ec.europa.eu/news_es)
+- [cs čeština](https://enlargement.ec.europa.eu/news_cs)
+- [da dansk](https://enlargement.ec.europa.eu/news_da)
+- [de Deutsch](https://enlargement.ec.europa.eu/news_de)
+- [et eesti](https://enlargement.ec.europa.eu/news_et)
+- [el ελληνικά](https://enlargement.ec.europa.eu/news_el)
+- [en English](https://enlargement.ec.europa.eu/news_en)
+- [fr français](https://enlargement.ec.europa.eu/news_fr)
+- [ga Gaeilge](https://enlargement.ec.europa.eu/news_ga)
 
 ## UE – DG HOME – News
 
@@ -142,8 +142,8 @@
 - [Sport](https://www.lapresse.tn/category/sport/)
 - [International](https://www.lapresse.tn/category/international/)
 - [Editorial](https://www.lapresse.tn/category/editorial/)
-- [Volley-ball : l’Étoile du Sahel file en demi-finales de la...](https://www.lapresse.tn/2026/05/01/volley-ball-letoile-du-sahel-file-en-demi-finales-de-la-coupe-de-tunisie/)
-- [Hausse du SMIG et du SMAG : quel impact réel...](https://www.lapresse.tn/2026/05/01/hausse-du-smig-et-du-smag-quel-impact-reel-pour-les-salaries/)
+- [Hannibal Mejbri rassure pour son retour](https://www.lapresse.tn/2026/05/04/hannibal-mejbri-rassure-pour-son-retour/)
+- [Ligue 1 : programme complet et désignation des arbitres](https://www.lapresse.tn/2026/05/04/ligue-1-programme-complet-et-designation-des-arbitres/)
 
 ## NGOs – Amnesty International – Tunisia
 
@@ -238,16 +238,16 @@
 
 ## MAGAZINES – Jeune Afrique
 
-- [L’armée malienne et ses alliés russes ont fait « reddition » à Tessalit](https://www.jeuneafrique.com/1793380/politique/larmee-malienne-et-ses-allies-russes-ont-fait-reddition-a-tessalit/)
-- [Le torchon brûle entre Madagascar et la France](https://www.jeuneafrique.com/1793094/politique/le-torchon-brule-entre-madagascar-et-la-france/)
-- [RDC : Joseph Kabila sanctionné par Washington pour ses liens avec l’AFC/ M23](https://www.jeuneafrique.com/1793349/politique/rdc-joseph-kabila-sanctionne-par-washington-pour-ses-liens-avec-lafc-m23/)
-- [Rassurer avant de riposter : au Mali, la stratégie d’Assimi Goïta après le choc du 25 avril](https://www.jeuneafrique.com/1793172/politique/rassurer-avant-de-riposter-au-mali-la-strategie-dassimi-goita-apres-le-choc-du-25-avril/)
-- [Assimi Goïta et le Mali rendent un dernier hommage sous haute sécurité à Sadio Camara](https://www.jeuneafrique.com/1793184/politique/assimi-goita-et-le-mali-rendent-un-dernier-hommage-sous-haute-securite-a-sadio-camara/)
-- [En Tunisie, hospitalisation « en urgence » de l’opposant Rached Ghannouchi](https://www.jeuneafrique.com/1793206/politique/en-tunisie-hospitalisation-en-urgence-de-lopposant-rached-ghannouchi/)
-- [Sur la Libye, les mémoires défaillantes de Guéant et Sarkozy](https://www.jeuneafrique.com/1792991/politique/sur-la-libye-les-memoires-defaillantes-de-gueant-et-sarkozy/)
-- [Au Tchad, les Transformateurs rassemblés pour la libération de Succès Masra, « innocent privé de liberté »](https://www.jeuneafrique.com/1792966/politique/au-tchad-les-transformateurs-rassembles-pour-la-liberation-de-succes-masra-innocent-prive-de-liberte/)
-- [Pourquoi la BEAC met la pression sur les pétroliers et les États sur le rapatriement des devises](https://www.jeuneafrique.com/1792897/economie-entreprises/pourquoi-la-beac-met-la-pression-sur-les-petroliers-et-les-etats-sur-le-rapatriement-des-devises/)
-- [Abdoulaye Ndiaye : « Nous avons besoin d’économistes décideurs, mais aussi d’économistes penseurs »](https://www.jeuneafrique.com/1792771/economie-entreprises/abdoulaye-ndiaye-nous-avons-besoin-deconomistes-decideurs-mais-aussi-deconomistes-penseurs/)
+- [« Cet incident n’est pas lié au terrorisme mais semble être un accident » : au Maroc, deux militaires américains portés disparus dans le Sud](https://www.jeuneafrique.com/1793445/politique/cet-incident-nest-pas-lie-au-terrorisme-mais-semble-etre-un-accident-au-maroc-deux-militaires-americains-portes-disparus-dans-le-sud/)
+- [Des miliciens nigérians et béninois tuent une quarantaine d’éleveurs peuls dans le centre du Nigeria](https://www.jeuneafrique.com/1793434/politique/des-miliciens-nigerians-et-beninois-tuent-une-quarantaine-deleveurs-peuls-dans-le-centre-du-nigeria/)
+- [Mali : Mountaga Tall, avocat et critique de la junte, « enlevé » à Bamako](https://www.jeuneafrique.com/1793429/politique/mali-mountaga-tall-avocat-et-critique-de-la-junte-enleve-a-bamako/)
+- [Maroc : Mohammed VI nomme Moulay El Hassan coordinateur à l’état-major général de l’armée](https://www.jeuneafrique.com/1793417/politique/maroc-mohammed-vi-nomme-moulay-el-hassan-coordinateur-a-letat-major-general-de-larmee/)
+- [Violences xénophobes en Afrique du Sud : le Nigeria réagit à son tour](https://www.jeuneafrique.com/1793406/politique/violences-xenophobes-en-afrique-du-sud-le-nigeria-reagit-a-son-tour/)
+- [« On a gagné la guerre » : reportage au Soudan, où l’armée veut croire à sa victoire](https://www.jeuneafrique.com/1791710/politique/on-a-gagne-la-guerre-reportage-au-soudan-ou-larmee-veut-croire-a-sa-victoire/)
+- [La CAN-2027 aura lieu du 19 juin au 17 juillet](https://www.jeuneafrique.com/1793398/politique/la-can-2027-aura-lieu-du-19-juin-au-17-juillet/)
+- [La guerre au Moyen-Orient perturbe l’aide aux réfugiés, avec un impact « préoccupant » en Afrique](https://www.jeuneafrique.com/1793395/politique/la-guerre-au-moyen-orient-perturbe-laide-aux-refugies-avec-un-impact-preoccupant-en-afrique/)
+- [Comment la raffinerie Dangote a provoqué un « big bang » du secteur pétrolier en Afrique de l’Ouest](https://www.jeuneafrique.com/1787892/economie-entreprises/comment-la-raffinerie-dangote-a-provoque-un-big-bang-du-secteur-petrolier-en-afrique-de-louest/)
+- [Amina Benkhadra (Onhym) : « Nous espérons accélérer sur les tronçons prioritaires du gazoduc Nigeria-Maroc »](https://www.jeuneafrique.com/1793239/economie-entreprises/amina-benkhadra-onhym-nous-esperons-accelerer-sur-les-troncons-prioritaires-du-gazoduc-nigeria-maroc/)
 
 ## MAGAZINES – LIMES – Mappe parlanti
 
